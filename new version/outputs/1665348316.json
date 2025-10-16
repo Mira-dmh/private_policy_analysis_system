@@ -1,0 +1,330 @@
+[
+    {
+        "meta": {
+            "id": 1665348316,
+            "url": "https://www.projectcamus.com/privacy.php",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects various types of information from users for operational purposes and research. It details the data collected and how it may be used, demonstrating a clear declaration of data collection.",
+            "reference": "We may utilize 'cookies' and 'web beacons' to enhance your experience and provide personalized services through Camus. ... we may collect various types of information from you, including personally identifiable information, billing and payment information, profile information, and log data. ... certain information you provide may be considered health-related data. URL: https://www.projectcamus.com/privacy.php"
+        },
+        "source_documents": [
+            {
+                "id": "6e1046a4cb94cfa29ab923820d03fc65b7ca6cd485003a0d62d2075f956dac0b",
+                "score": 0.39437586,
+                "excerpt": "this Privacy Policy.\nThe information collected may be used or disclosed to third parties for the following business or operational purposes:\nIn addition to the purposes mentioned above, we may also use deidentified data collected from Camus for research and study purposes. Deidentified data refers to information that has been stripped of any personally identifiable elements, ensuring your privacy is protected. This data may be used to conduct studies, analyze trends, and enhance our services. Yo...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "73a99dfd5a4b16e57601e7ebd893bcbc9cd12ee2866f201266be4a77e5fb1582",
+                "score": 0.13799648,
+                "excerpt": "websites or services.\nAs a user of our app, you have certain rights and choices regarding the personal information we collect and process. We strive to provide you with the necessary tools and options to exercise these rights and make choices that best suit your privacy preferences. Here are some of the rights and choices available to you:\nIf you wish to exercise any of these rights or have any questions regarding your privacy rights and choices, please contact us using the provided contact info...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "c93174da08c2d690245107c2260c3caf3ea9960f907f739bfc0effdc269bc2de",
+                "score": 0.08404061,
+                "excerpt": "use or disclose your information for any purposes other than providing services to us, and we require them to maintain the confidentiality of your information in accordance with industry standards and applicable laws.\nIf you have any questions or concerns about the involvement of third-party services or the handling of your information, please contact us using the provided contact information.\nOur app may contain links to third-party websites or services that are not owned or controlled by us. P...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "48a17f42abe769b95b619d415becf9f0e994fda2694f9ba27564885b86113576",
+                "score": 0.08166611,
+                "excerpt": "other users or unauthorized individuals who may attempt to gain access to your information. We cannot be held responsible for any breaches or unauthorized disclosures of your user content resulting from factors beyond our control.\nWe encourage you to be mindful of the information you share through the app and avoid including any personally identifiable information that you are not comfortable disclosing. If you have any concerns about the privacy or security of your user content, please contact ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "7e2af2d8c38c7ed9d4beb435bbce7598ec358f1714ddf242eed96888677a1e11",
+                "score": 0.030559862,
+                "excerpt": "Privacy Policy periodically as it may be updated to reflect changes in our practices, regulatory requirements, or advancements in technology. Your continued use of Camus following any modifications to the Privacy Policy constitutes your acceptance of those changes.\nIf you have any questions, concerns, or inquiries regarding our Privacy Policy, please contact us using the provided contact information.\nIn order to operate Camus effectively and provide you with the best user experience, we may coll...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1665348316,
+            "url": "https://www.projectcamus.com/privacy.php",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personally identifiable information, billing and payment information, profile information, log data, computer information, IP address, pages visited, actions taken, and health-related data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personally identifiable information",
+                        "Billing and payment information",
+                        "Profile information",
+                        "Log data",
+                        "Computer information",
+                        "IP address",
+                        "Pages visited",
+                        "Actions taken",
+                        "Health-related data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app may collect various types of information including personally identifiable information and other relevant statistics. The listed data types are extracted directly from the privacy policy text.",
+            "reference": "including personally identifiable information, billing and payment information, profile information, and log data. This information may include your name, phone number, email address, address, computer information, IP address, pages visited, actions taken, and other relevant statistics. Please note that certain information you provide may be considered health-related data. URL: https://www.projectcamus.com/privacy.php"
+        },
+        "source_documents": [
+            {
+                "id": "7e2af2d8c38c7ed9d4beb435bbce7598ec358f1714ddf242eed96888677a1e11",
+                "score": 0.44408253,
+                "excerpt": "Privacy Policy periodically as it may be updated to reflect changes in our practices, regulatory requirements, or advancements in technology. Your continued use of Camus following any modifications to the Privacy Policy constitutes your acceptance of those changes.\nIf you have any questions, concerns, or inquiries regarding our Privacy Policy, please contact us using the provided contact information.\nIn order to operate Camus effectively and provide you with the best user experience, we may coll...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "6e1046a4cb94cfa29ab923820d03fc65b7ca6cd485003a0d62d2075f956dac0b",
+                "score": 0.39776295,
+                "excerpt": "this Privacy Policy.\nThe information collected may be used or disclosed to third parties for the following business or operational purposes:\nIn addition to the purposes mentioned above, we may also use deidentified data collected from Camus for research and study purposes. Deidentified data refers to information that has been stripped of any personally identifiable elements, ensuring your privacy is protected. This data may be used to conduct studies, analyze trends, and enhance our services. Yo...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "48a17f42abe769b95b619d415becf9f0e994fda2694f9ba27564885b86113576",
+                "score": 0.1859472,
+                "excerpt": "other users or unauthorized individuals who may attempt to gain access to your information. We cannot be held responsible for any breaches or unauthorized disclosures of your user content resulting from factors beyond our control.\nWe encourage you to be mindful of the information you share through the app and avoid including any personally identifiable information that you are not comfortable disclosing. If you have any concerns about the privacy or security of your user content, please contact ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "c93174da08c2d690245107c2260c3caf3ea9960f907f739bfc0effdc269bc2de",
+                "score": 0.047161866,
+                "excerpt": "use or disclose your information for any purposes other than providing services to us, and we require them to maintain the confidentiality of your information in accordance with industry standards and applicable laws.\nIf you have any questions or concerns about the involvement of third-party services or the handling of your information, please contact us using the provided contact information.\nOur app may contain links to third-party websites or services that are not owned or controlled by us. P...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "73a99dfd5a4b16e57601e7ebd893bcbc9cd12ee2866f201266be4a77e5fb1582",
+                "score": 0.046205748,
+                "excerpt": "websites or services.\nAs a user of our app, you have certain rights and choices regarding the personal information we collect and process. We strive to provide you with the necessary tools and options to exercise these rights and make choices that best suit your privacy preferences. Here are some of the rights and choices available to you:\nIf you wish to exercise any of these rights or have any questions regarding your privacy rights and choices, please contact us using the provided contact info...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1665348316,
+            "url": "https://www.projectcamus.com/privacy.php",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app declares the purpose of data collection and use, mentioning the specific intentions behind collecting user data.",
+            "reference": "The information collected may be used or disclosed to third parties for the following business or operational purposes: ... This data may be used to conduct studies, analyze trends, and enhance our services. Your personal information will not be disclosed or linked to any research or study results without obtaining your explicit consent. URL: https://www.projectcamus.com/privacy.php"
+        },
+        "source_documents": [
+            {
+                "id": "6e1046a4cb94cfa29ab923820d03fc65b7ca6cd485003a0d62d2075f956dac0b",
+                "score": 0.8358858,
+                "excerpt": "this Privacy Policy.\nThe information collected may be used or disclosed to third parties for the following business or operational purposes:\nIn addition to the purposes mentioned above, we may also use deidentified data collected from Camus for research and study purposes. Deidentified data refers to information that has been stripped of any personally identifiable elements, ensuring your privacy is protected. This data may be used to conduct studies, analyze trends, and enhance our services. Yo...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "c93174da08c2d690245107c2260c3caf3ea9960f907f739bfc0effdc269bc2de",
+                "score": 0.48827577,
+                "excerpt": "use or disclose your information for any purposes other than providing services to us, and we require them to maintain the confidentiality of your information in accordance with industry standards and applicable laws.\nIf you have any questions or concerns about the involvement of third-party services or the handling of your information, please contact us using the provided contact information.\nOur app may contain links to third-party websites or services that are not owned or controlled by us. P...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "48a17f42abe769b95b619d415becf9f0e994fda2694f9ba27564885b86113576",
+                "score": 0.078078166,
+                "excerpt": "other users or unauthorized individuals who may attempt to gain access to your information. We cannot be held responsible for any breaches or unauthorized disclosures of your user content resulting from factors beyond our control.\nWe encourage you to be mindful of the information you share through the app and avoid including any personally identifiable information that you are not comfortable disclosing. If you have any concerns about the privacy or security of your user content, please contact ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "7e2af2d8c38c7ed9d4beb435bbce7598ec358f1714ddf242eed96888677a1e11",
+                "score": 0.06730107,
+                "excerpt": "Privacy Policy periodically as it may be updated to reflect changes in our practices, regulatory requirements, or advancements in technology. Your continued use of Camus following any modifications to the Privacy Policy constitutes your acceptance of those changes.\nIf you have any questions, concerns, or inquiries regarding our Privacy Policy, please contact us using the provided contact information.\nIn order to operate Camus effectively and provide you with the best user experience, we may coll...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "73a99dfd5a4b16e57601e7ebd893bcbc9cd12ee2866f201266be4a77e5fb1582",
+                "score": 0.016979992,
+                "excerpt": "websites or services.\nAs a user of our app, you have certain rights and choices regarding the personal information we collect and process. We strive to provide you with the necessary tools and options to exercise these rights and make choices that best suit your privacy preferences. Here are some of the rights and choices available to you:\nIf you wish to exercise any of these rights or have any questions regarding your privacy rights and choices, please contact us using the provided contact info...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1665348316,
+            "url": "https://www.projectcamus.com/privacy.php",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request the deletion of data by contacting the provided contact information. The app ensures that user requests regarding data collection and deletion are addressed in compliance with applicable laws and regulations.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have rights and choices regarding the personal information collected by the app, including the ability to opt out of data collection or request data deletion.",
+            "reference": "If you wish to exercise any of these rights or have any questions regarding your privacy rights and choices, please contact us using the provided contact information. We will respond to your requests in accordance with applicable laws and regulations. URL: https://www.projectcamus.com/privacy.php"
+        },
+        "source_documents": [
+            {
+                "id": "73a99dfd5a4b16e57601e7ebd893bcbc9cd12ee2866f201266be4a77e5fb1582",
+                "score": 0.44619307,
+                "excerpt": "websites or services.\nAs a user of our app, you have certain rights and choices regarding the personal information we collect and process. We strive to provide you with the necessary tools and options to exercise these rights and make choices that best suit your privacy preferences. Here are some of the rights and choices available to you:\nIf you wish to exercise any of these rights or have any questions regarding your privacy rights and choices, please contact us using the provided contact info...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "c93174da08c2d690245107c2260c3caf3ea9960f907f739bfc0effdc269bc2de",
+                "score": 0.108566426,
+                "excerpt": "use or disclose your information for any purposes other than providing services to us, and we require them to maintain the confidentiality of your information in accordance with industry standards and applicable laws.\nIf you have any questions or concerns about the involvement of third-party services or the handling of your information, please contact us using the provided contact information.\nOur app may contain links to third-party websites or services that are not owned or controlled by us. P...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "e8547ab8281524f72ef9805c9751c43ff073a256fdfa2e81241bf4f8f88947be",
+                "score": 0.060086653,
+                "excerpt": "your privacy. We will only share your personal information in the following circumstances:\nWe do not sell, rent, or trade your personal information to third parties for their marketing purposes without your explicit consent.\nWe take appropriate measures to ensure that any sharing of your personal information is in compliance with applicable data protection laws and regulations. We require our partners and service providers to implement adequate safeguards to protect your personal information and...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "48a17f42abe769b95b619d415becf9f0e994fda2694f9ba27564885b86113576",
+                "score": 0.028816197,
+                "excerpt": "other users or unauthorized individuals who may attempt to gain access to your information. We cannot be held responsible for any breaches or unauthorized disclosures of your user content resulting from factors beyond our control.\nWe encourage you to be mindful of the information you share through the app and avoid including any personally identifiable information that you are not comfortable disclosing. If you have any concerns about the privacy or security of your user content, please contact ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "6e1046a4cb94cfa29ab923820d03fc65b7ca6cd485003a0d62d2075f956dac0b",
+                "score": 0.025760558,
+                "excerpt": "this Privacy Policy.\nThe information collected may be used or disclosed to third parties for the following business or operational purposes:\nIn addition to the purposes mentioned above, we may also use deidentified data collected from Camus for research and study purposes. Deidentified data refers to information that has been stripped of any personally identifiable elements, ensuring your privacy is protected. This data may be used to conduct studies, analyze trends, and enhance our services. Yo...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1665348316,
+            "url": "https://www.projectcamus.com/privacy.php",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not sell, rent, or share user content with any third parties, except as outlined in their Privacy Policy and as required by law. The employees and contractors are also bound by strict confidentiality obligations.",
+            "reference": "We do not sell, rent, or share your user content with any third parties, except as outlined in our Privacy Policy and as required by law. Our employees and contractors are bound by strict confidentiality obligations and are prohibited from accessing, reading, or sharing your user content without proper authorization. URL: https://www.projectcamus.com/privacy.php"
+        },
+        "source_documents": [
+            {
+                "id": "31a5babe8f790c46800ba70ef13b42364313c36b2b22555ea2528631f5f038b0",
+                "score": 0.98862445,
+                "excerpt": "data you share with us. We have implemented comprehensive measures to ensure the confidentiality and protection of your user content. However, it is important to acknowledge that no system is entirely immune to risks, and we cannot provide an absolute guarantee of privacy or security.\nWe employ strict controls and robust security protocols to safeguard your user content. This includes encryption, access controls, and regular monitoring of our systems. We have implemented technical, administrativ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "6e1046a4cb94cfa29ab923820d03fc65b7ca6cd485003a0d62d2075f956dac0b",
+                "score": 0.9803562,
+                "excerpt": "this Privacy Policy.\nThe information collected may be used or disclosed to third parties for the following business or operational purposes:\nIn addition to the purposes mentioned above, we may also use deidentified data collected from Camus for research and study purposes. Deidentified data refers to information that has been stripped of any personally identifiable elements, ensuring your privacy is protected. This data may be used to conduct studies, analyze trends, and enhance our services. Yo...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "c93174da08c2d690245107c2260c3caf3ea9960f907f739bfc0effdc269bc2de",
+                "score": 0.937783,
+                "excerpt": "use or disclose your information for any purposes other than providing services to us, and we require them to maintain the confidentiality of your information in accordance with industry standards and applicable laws.\nIf you have any questions or concerns about the involvement of third-party services or the handling of your information, please contact us using the provided contact information.\nOur app may contain links to third-party websites or services that are not owned or controlled by us. P...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "48a17f42abe769b95b619d415becf9f0e994fda2694f9ba27564885b86113576",
+                "score": 0.82161736,
+                "excerpt": "other users or unauthorized individuals who may attempt to gain access to your information. We cannot be held responsible for any breaches or unauthorized disclosures of your user content resulting from factors beyond our control.\nWe encourage you to be mindful of the information you share through the app and avoid including any personally identifiable information that you are not comfortable disclosing. If you have any concerns about the privacy or security of your user content, please contact ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "7e2af2d8c38c7ed9d4beb435bbce7598ec358f1714ddf242eed96888677a1e11",
+                "score": 0.69191384,
+                "excerpt": "Privacy Policy periodically as it may be updated to reflect changes in our practices, regulatory requirements, or advancements in technology. Your continued use of Camus following any modifications to the Privacy Policy constitutes your acceptance of those changes.\nIf you have any questions, concerns, or inquiries regarding our Privacy Policy, please contact us using the provided contact information.\nIn order to operate Camus effectively and provide you with the best user experience, we may coll...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1665348316,
+            "url": "https://www.projectcamus.com/privacy.php",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share user content with any third parties except as outlined in the Privacy Policy and as required by law.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share user content with any third parties except as outlined in the Privacy Policy and as required by law. This approach ensures strict confidentiality and privacy for user content.",
+            "reference": "We do not sell, rent, or share your user content with any third parties, except as outlined in our Privacy Policy and as required by law. URL: https://www.projectcamus.com/privacy.php."
+        },
+        "source_documents": [
+            {
+                "id": "31a5babe8f790c46800ba70ef13b42364313c36b2b22555ea2528631f5f038b0",
+                "score": 0.9535353,
+                "excerpt": "data you share with us. We have implemented comprehensive measures to ensure the confidentiality and protection of your user content. However, it is important to acknowledge that no system is entirely immune to risks, and we cannot provide an absolute guarantee of privacy or security.\nWe employ strict controls and robust security protocols to safeguard your user content. This includes encryption, access controls, and regular monitoring of our systems. We have implemented technical, administrativ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "6e1046a4cb94cfa29ab923820d03fc65b7ca6cd485003a0d62d2075f956dac0b",
+                "score": 0.9488225,
+                "excerpt": "this Privacy Policy.\nThe information collected may be used or disclosed to third parties for the following business or operational purposes:\nIn addition to the purposes mentioned above, we may also use deidentified data collected from Camus for research and study purposes. Deidentified data refers to information that has been stripped of any personally identifiable elements, ensuring your privacy is protected. This data may be used to conduct studies, analyze trends, and enhance our services. Yo...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "c93174da08c2d690245107c2260c3caf3ea9960f907f739bfc0effdc269bc2de",
+                "score": 0.8822251,
+                "excerpt": "use or disclose your information for any purposes other than providing services to us, and we require them to maintain the confidentiality of your information in accordance with industry standards and applicable laws.\nIf you have any questions or concerns about the involvement of third-party services or the handling of your information, please contact us using the provided contact information.\nOur app may contain links to third-party websites or services that are not owned or controlled by us. P...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "48a17f42abe769b95b619d415becf9f0e994fda2694f9ba27564885b86113576",
+                "score": 0.68331385,
+                "excerpt": "other users or unauthorized individuals who may attempt to gain access to your information. We cannot be held responsible for any breaches or unauthorized disclosures of your user content resulting from factors beyond our control.\nWe encourage you to be mindful of the information you share through the app and avoid including any personally identifiable information that you are not comfortable disclosing. If you have any concerns about the privacy or security of your user content, please contact ...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            },
+            {
+                "id": "7c1e77ff7175ce4e8e1906f8835e688d41183e599c68f73850ebb92657b94719",
+                "score": 0.65599746,
+                "excerpt": "assist in various aspects of Camus. These third-party services may include, but are not limited to, hosting, data storage, AI services, analytics, and customer support.\nWhen we collaborate with third-party service providers, we take reasonable steps to ensure that they uphold the same level of privacy and security practices as we do. We carefully select these partners and enter into appropriate contractual agreements to protect the confidentiality and integrity of your information.\nOne of our ke...",
+                "url": "https://www.projectcamus.com/privacy.php"
+            }
+        ]
+    }
+]

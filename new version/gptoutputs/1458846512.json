@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1458846512,
+      "url": "http://www.myoptibrain.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal information is collected from users when they register, place an order, subscribe to a newsletter, respond to a survey, fill out a form, or enter information on the site.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the types of personal information collected.",
+          "content": "When ordering or registering on the site, users may be asked to provide their name, email address, mailing address, phone number, credit card information, Sensor Data, or other details."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the circumstances under which personal data is collected from users, ensuring transparency.",
+      "reference": "What personal information do we collect from the people that visit our blog, website or app?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458846512,
+      "url": "http://www.myoptibrain.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information from users, including name, email address, mailing address, phone number, credit card information, Sensor Data, and other details to enhance user experience.",
+        "simple_answer": "The app collects name, email, mailing address, phone number, credit card information, Sensor Data, and other details.",
+        "extended_simple_answer": {
+          "comment": "This information is collected to improve user experience and service.",
+          "content": "When ordering or registering on our site, users may be asked to enter their name, email address, mailing address, phone number, credit card information, Sensor Data or other details."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal information do we collect from the people that visit our blog, website or app?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458846512,
+      "url": "http://www.myoptibrain.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The information collected is used to personalize user experience, improve the website, respond to customer service requests, administer contests or promotions, process transactions quickly, and send periodic emails regarding orders or other products and services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies various ways in which the collected data will be utilized.",
+          "content": "The information collected is used to personalize user experience, improve the website, respond to customer service requests, administer contests or promotions, process transactions quickly, and send periodic emails regarding orders or other products and services."
+        }
+      },
+      "analysis": "",
+      "reference": "How do we use your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458846512,
+      "url": "http://www.myoptibrain.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by adjusting their cookie settings in their web browser. Additionally, users can opt out of Google’s advertising practices by using the Google Ad Settings page or by visiting the Network Advertising Initiative opt-out page.",
+        "simple_answer": "Yes, users can opt out of data collection.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data collection preferences.",
+          "content": "Users can disable cookies through their browser settings, which may limit data collection. They can also opt out of Google advertising through specific settings provided by Google."
+        }
+      },
+      "analysis": "The privacy policy provides clear instructions on how users can manage their data collection preferences, particularly regarding cookies and third-party advertising.",
+      "reference": "We use cookies to help us remember and process the items in the shopping cart. [...] Users can set preferences for how Google advertises to you using the Google Ad Settings page."
+    }
+  },
+  {
+    "meta": {
+      "id": 1458846512,
+      "url": "http://www.myoptibrain.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, trade, or otherwise transfer personally identifiable information to outside parties unless advance notice is provided. This does not include website hosting partners and other parties who assist in operating the website, conducting business, or servicing users, as long as those parties agree to keep the information confidential. Information may also be released when it is deemed appropriate to comply with the law, enforce site policies, or protect rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.",
+        "simple_answer": "No, the app does not sell or trade personally identifiable information, but may share it with certain partners under specific conditions.",
+        "extended_simple_answer": {
+          "comment": "The app takes user privacy seriously and only shares information when necessary and with confidentiality agreements.",
+          "content": "The app does not sell, trade, or transfer personally identifiable information unless advance notice is provided. It may share information with partners who assist in operating the website, provided they keep it confidential."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing user confidentiality and compliance with legal requirements.",
+      "reference": "Third Party Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458846512,
+      "url": "http://www.myoptibrain.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not sell, trade, or otherwise transfer personally identifiable information to outside parties unless advance notice is provided. This does not include website hosting partners and other parties who assist in operating the website, conducting business, or servicing users, provided those parties agree to keep the information confidential. Additionally, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.",
+        "simple_answer": "The app shares data with website hosting partners and other service providers who agree to keep the information confidential.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that any third parties receiving data are bound to confidentiality.",
+          "content": "The app does not sell or trade personally identifiable information but may share it with partners who assist in operating the website, as long as they maintain confidentiality."
+        }
+      },
+      "analysis": "The privacy policy emphasizes the importance of confidentiality when sharing data with third parties, ensuring that user information is protected.",
+      "reference": "Third Party Disclosure"
+    }
+  }
+]

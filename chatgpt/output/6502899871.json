@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6502899871,
+      "url": "https://charmhealth.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personal information during the registration process, usage details, and visitor details.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app specifies the types of data collected, including personal information, usage details, and visitor details.",
+          "content": "During the registration process, the app collects personal information such as name and email address. It also records usage details like time, frequency, and features used, as well as visitor details like IP address and browser type."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, ensuring transparency regarding data collection practices.",
+      "reference": "Information Recorded and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 6502899871,
+      "url": "https://charmhealth.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data including Personal Information (such as name and email address), Protected Health Information (PHI), usage details (such as time, frequency, duration, and pattern of use), contents in user accounts (files, documents, messages), financial information (credit card details), and visitor details (such as IP address and browser type).",
+        "simple_answer": "The app collects Personal Information, Protected Health Information, usage details, contents in user accounts, financial information, and visitor details.",
+        "extended_simple_answer": {
+          "comment": "The app collects a range of data to enhance user experience and comply with legal requirements.",
+          "content": "The types of data collected include Personal Information (name, email), Protected Health Information (PHI), usage details (time, frequency), contents in user accounts (files, messages), financial information (credit card details), and visitor details (IP address, browser type)."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Recorded and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 6502899871,
+      "url": "https://charmhealth.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal information collected during the registration process will be used to inform users about new services, releases, upcoming events, and changes in the Privacy Policy. Additionally, it outlines the permitted uses and disclosures of Protected Health Information (PHI) in accordance with HIPAA and HITECH regulations, including access for healthcare providers, patients, and for research purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy clearly states the reasons for collecting personal information and PHI.",
+          "content": "Personal information is used for communication regarding services and updates, while PHI is used for healthcare provision, patient access, and research."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the purposes for which data is collected, ensuring transparency and compliance with legal standards.",
+      "reference": "Information Recorded and Use; Permitted Uses and Disclosure of PHI"
+    }
+  },
+  {
+    "meta": {
+      "id": 6502899871,
+      "url": "https://charmhealth.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection. However, it states that users can control which of their patients have access to their health records and what kind of information they can see. Additionally, while the policy mentions that data may remain on servers even after deletion or termination of the user account, it does not provide a clear mechanism for users to delete their data or opt out of data collection entirely.",
+        "simple_answer": "The policy does not provide a clear option to opt out of data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have some control over their health records but no explicit opt-out or deletion mechanism is mentioned.",
+          "content": "The policy indicates that while users can manage access to their health records, it does not specify a process for opting out of data collection or deleting all user data."
+        }
+      },
+      "analysis": "The lack of explicit mention regarding opting out or deleting data suggests that users may have limited control over their data collection practices.",
+      "reference": "Information Recorded and Use, Contents in your User Account"
+    }
+  },
+  {
+    "meta": {
+      "id": 6502899871,
+      "url": "https://charmhealth.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal information with other entities without your explicit consent. However, it may disclose protected health information (PHI) to other health care providers and their business associates for treatment purposes, as well as for related applications that the user selects. Additionally, it may aggregate health information with that of other users and share aggregated information in accordance with applicable laws.",
+        "simple_answer": "No, personal information is not shared without consent, but PHI may be shared for treatment purposes.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user consent for sharing personal information.",
+          "content": "Personal information will not be shared with other entities without your explicit consent. However, PHI may be disclosed to other health care providers for treatment and related applications. Aggregated health information may also be shared in compliance with laws."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user consent for sharing personal information, while allowing certain disclosures of PHI for treatment purposes.",
+      "reference": "Section: Personal Information and Permitted Uses and Disclosure of PHI"
+    }
+  },
+  {
+    "meta": {
+      "id": 6502899871,
+      "url": "https://charmhealth.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with other health care providers and their business associates for treatment purposes, as well as with third-party applications that the user selects, such as clinical laboratory reporting, billing, and e-prescribing. Additionally, it allows access to protected health information to your patients through the PHR portal, where the user controls which patients have access to their health records.",
+        "simple_answer": "The app shares data with other health care providers, their business associates, and patients through the PHR portal.",
+        "extended_simple_answer": {
+          "comment": "The app's data sharing is primarily for treatment and healthcare purposes.",
+          "content": "Data is shared with other health care providers and their business associates for treatment, and patients can access their health records through the PHR portal."
+        }
+      },
+      "analysis": "The app's data sharing practices are compliant with HIPAA and HITECH regulations, ensuring that any sharing of protected health information is done for legitimate healthcare purposes.",
+      "reference": "Permitted Uses and Disclosure of PHI"
+    }
+  }
+]

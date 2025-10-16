@@ -1,0 +1,296 @@
+[
+    {
+        "meta": {
+            "id": 1635699582,
+            "url": "https://www.healingmind.com.au/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions collecting data such as name, email address, website details for comment form, cookies for site convenience, and temporary cookies for login details.",
+            "reference": "If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information and your screen display choices. When you log out of your account, the login cookies will be removed. URL: https://www.healingmind.com.au/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fe0fb17df19da07a451ce53cefb24e1aa00c9c694e2ef720c296d56f7e8cfa9f",
+                "score": 0.0003275843,
+                "excerpt": "may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information a...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "9d0cb3ec7e75fd4f4b16e76469ee3c59f28700ef91bad1e9d811c2ec4aee68e2",
+                "score": 0.00019110432,
+                "excerpt": "content if you have an account and are logged in to that website.\nWho we share your data with (Third Party)\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may u...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "e2e3791699474d85e7d361218415e64c688394b9f082a066e533d4cf47bcb405",
+                "score": 8.2846556e-05,
+                "excerpt": "Who we are\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders are committed to protecting your privacy. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you and adheres to the Australian Privacy Laws, regulations and principles. You may change your details at any time by advising us in writing via email.\nAll information we receive from our cus...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "0296b7b965e4883123573220a056ce63f8d66814a725f789b567e0244eeefd7e",
+                "score": 2.5268228e-05,
+                "excerpt": "of our customers or third parties.\nIf you request a password reset, your IP address will be included in the reset email.\nHow long do we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, ...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1635699582,
+            "url": "https://www.healingmind.com.au/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app may collect data such as name, email address, website for comments, IP address, browser user agent string, and login information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Email address",
+                        "Website",
+                        "IP address",
+                        "Browser user agent string",
+                        "Login information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that describes the collection of data when users leave comments or visit the login page on the app.",
+            "reference": "Name, Email address, and Website for comments. IP address and Browser user agent string. Login information. URL: https://www.healingmind.com.au/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fe0fb17df19da07a451ce53cefb24e1aa00c9c694e2ef720c296d56f7e8cfa9f",
+                "score": 0.003707253,
+                "excerpt": "may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information a...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "e2e3791699474d85e7d361218415e64c688394b9f082a066e533d4cf47bcb405",
+                "score": 0.002225671,
+                "excerpt": "Who we are\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders are committed to protecting your privacy. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you and adheres to the Australian Privacy Laws, regulations and principles. You may change your details at any time by advising us in writing via email.\nAll information we receive from our cus...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "9d0cb3ec7e75fd4f4b16e76469ee3c59f28700ef91bad1e9d811c2ec4aee68e2",
+                "score": 0.0008040859,
+                "excerpt": "content if you have an account and are logged in to that website.\nWho we share your data with (Third Party)\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may u...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "0296b7b965e4883123573220a056ce63f8d66814a725f789b567e0244eeefd7e",
+                "score": 5.391084e-05,
+                "excerpt": "of our customers or third parties.\nIf you request a password reset, your IP address will be included in the reset email.\nHow long do we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, ...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1635699582,
+            "url": "https://www.healingmind.com.au/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by mentioning that the information provided by users is used to improve its website and services while not being used for any other purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the information provided by users is utilized to enhance the website and services, demonstrating the app's declaration of the purpose of data collection and use.",
+            "reference": "We may use the information that you provide to improve its website and its services but not for any other use. URL: https://www.healingmind.com.au/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9d0cb3ec7e75fd4f4b16e76469ee3c59f28700ef91bad1e9d811c2ec4aee68e2",
+                "score": 0.0006719278,
+                "excerpt": "content if you have an account and are logged in to that website.\nWho we share your data with (Third Party)\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may u...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "fe0fb17df19da07a451ce53cefb24e1aa00c9c694e2ef720c296d56f7e8cfa9f",
+                "score": 0.00028910325,
+                "excerpt": "may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information a...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "e2e3791699474d85e7d361218415e64c688394b9f082a066e533d4cf47bcb405",
+                "score": 0.0002824081,
+                "excerpt": "Who we are\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders are committed to protecting your privacy. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you and adheres to the Australian Privacy Laws, regulations and principles. You may change your details at any time by advising us in writing via email.\nAll information we receive from our cus...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "0296b7b965e4883123573220a056ce63f8d66814a725f789b567e0244eeefd7e",
+                "score": 1.3420014e-05,
+                "excerpt": "of our customers or third parties.\nIf you request a password reset, your IP address will be included in the reset email.\nHow long do we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, ...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1635699582,
+            "url": "https://www.healingmind.com.au/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by not opting in to save personal information in cookies. Additionally, users can request to receive an exported file of the personal data held about them and request erasure of any personal data held, except under obligations for administrative, legal, or security purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection by not opting in to save personal information in cookies. Additionally, users have the right to request the deletion of personal data held about them, except where certain obligations require the retention of data.",
+            "reference": "If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. URL: https://www.healingmind.com.au/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fe0fb17df19da07a451ce53cefb24e1aa00c9c694e2ef720c296d56f7e8cfa9f",
+                "score": 0.09318171,
+                "excerpt": "may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information a...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "0296b7b965e4883123573220a056ce63f8d66814a725f789b567e0244eeefd7e",
+                "score": 0.08897849,
+                "excerpt": "of our customers or third parties.\nIf you request a password reset, your IP address will be included in the reset email.\nHow long do we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, ...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "e2e3791699474d85e7d361218415e64c688394b9f082a066e533d4cf47bcb405",
+                "score": 0.012527932,
+                "excerpt": "Who we are\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders are committed to protecting your privacy. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you and adheres to the Australian Privacy Laws, regulations and principles. You may change your details at any time by advising us in writing via email.\nAll information we receive from our cus...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "9d0cb3ec7e75fd4f4b16e76469ee3c59f28700ef91bad1e9d811c2ec4aee68e2",
+                "score": 0.0026419468,
+                "excerpt": "content if you have an account and are logged in to that website.\nWho we share your data with (Third Party)\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may u...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1635699582,
+            "url": "https://www.healingmind.com.au/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not sell or deal in personal or customer information and does not share data with third parties.",
+            "reference": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. URL: https://www.healingmind.com.au/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9d0cb3ec7e75fd4f4b16e76469ee3c59f28700ef91bad1e9d811c2ec4aee68e2",
+                "score": 0.36670312,
+                "excerpt": "content if you have an account and are logged in to that website.\nWho we share your data with (Third Party)\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may u...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "fe0fb17df19da07a451ce53cefb24e1aa00c9c694e2ef720c296d56f7e8cfa9f",
+                "score": 0.21436232,
+                "excerpt": "may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information a...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "0296b7b965e4883123573220a056ce63f8d66814a725f789b567e0244eeefd7e",
+                "score": 0.005343256,
+                "excerpt": "of our customers or third parties.\nIf you request a password reset, your IP address will be included in the reset email.\nHow long do we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, ...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "e2e3791699474d85e7d361218415e64c688394b9f082a066e533d4cf47bcb405",
+                "score": 0.00055062474,
+                "excerpt": "Who we are\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders are committed to protecting your privacy. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you and adheres to the Australian Privacy Laws, regulations and principles. You may change your details at any time by advising us in writing via email.\nAll information we receive from our cus...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1635699582,
+            "url": "https://www.healingmind.com.au/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates do not sell or deal in personal or customer information. The app may use provided information for marketing statistics, identifying user demands, and improving website services.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "HealingMind©",
+                        "EnergySym©",
+                        "World of Health©",
+                        "Return To Wellness Clinic© and its founders/associates"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not sell or deal in personal information. It mentions using provided information for general purposes like marketing statistics and improving services.",
+            "reference": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. URL: https://www.healingmind.com.au/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9d0cb3ec7e75fd4f4b16e76469ee3c59f28700ef91bad1e9d811c2ec4aee68e2",
+                "score": 0.6666053,
+                "excerpt": "content if you have an account and are logged in to that website.\nWho we share your data with (Third Party)\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. We may however use in a general sense without any reference to your name, your information to create marketing statistics, identify user demands and to assist it in meeting customer needs generally. In addition, we may u...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "fe0fb17df19da07a451ce53cefb24e1aa00c9c694e2ef720c296d56f7e8cfa9f",
+                "score": 0.6548947,
+                "excerpt": "may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.\nIf you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser. When you log in, we will also set up several cookies to save your login information a...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "0296b7b965e4883123573220a056ce63f8d66814a725f789b567e0244eeefd7e",
+                "score": 0.036083944,
+                "excerpt": "of our customers or third parties.\nIf you request a password reset, your IP address will be included in the reset email.\nHow long do we retain your data\nIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, ...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            },
+            {
+                "id": "e2e3791699474d85e7d361218415e64c688394b9f082a066e533d4cf47bcb405",
+                "score": 0.0006337125,
+                "excerpt": "Who we are\nHealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders are committed to protecting your privacy. We use the information we collect about you to maximize the services that we provide to you. We respect the privacy and confidentiality of the information provided by you and adheres to the Australian Privacy Laws, regulations and principles. You may change your details at any time by advising us in writing via email.\nAll information we receive from our cus...",
+                "url": "https://www.healingmind.com.au/privacy-policy/"
+            }
+        ]
+    }
+]

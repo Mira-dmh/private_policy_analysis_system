@@ -1,0 +1,330 @@
+[
+    {
+        "meta": {
+            "id": 6450941099,
+            "url": "https://www.counselr.ai/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data in its Privacy Policy.",
+            "reference": "We collect personal information relating to you ('Personal Information') as follows: Personal Information You Provide: We collect Personal Information if you create an account to use our Services or communicate with us as follows. URL: https://www.counselr.ai/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "ccdd45c6a083e05d9ac287aa6cc9f0bdeeb4ee55037c221668816602267b3dec",
+                "score": 0.025323061,
+                "excerpt": "Privacy Policy\nWe at Counselr (together with our affiliates, “Counselr”, “Counselr AI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services (collectively, “Services”). Our use of that data is governed by our customer agreements covering access to and us...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "c228bb9b51678b8321d936e22ecc199ec633d6e439dff446836efbfe74b625ed",
+                "score": 0.0035936027,
+                "excerpt": "affiliates, vendors and service providers, law enforcement, and parties involved in Transactions.\nTo the extent provided for by local law and subject to applicable exceptions, individuals may have the following privacy rights in relation to their Personal Information:\nThe right to know information about our processing of your Personal Information, including the specific pieces of Personal Information that we have collected from you;\nThe right to request deletion of your Personal Information;\nThe...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "ddbbc9e298ad764147aced6731cfeb1b719f5ef7f70c7ea54ffedbd01958d285",
+                "score": 0.0026010938,
+                "excerpt": "the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "bb7ea58dc795761905a7ee41d13751ccc64ee13aca0d877a606a1b471c9661f6",
+                "score": 0.002560871,
+                "excerpt": "categories of Personal Information we collect and how we disclose that information. You can read more about the Personal Information we collect in “Personal information we collect” above, how we use Personal Information in “How we use personal information” above, and how we retain Personal Information in “Security and Retention” below.\nIdentifiers, such as your name, contact details, IP address, and other device identifiers: We disclose this information to our affiliates, vendors and service pro...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "1297a4d57e602e509dfffcb2d50b395e1dba367cdf20cf4066799ce7d1143560",
+                "score": 0.0020111583,
+                "excerpt": "provide to our Services (“Content”).\nCommunication Information: If you communicate with us, we collect your name, contact information, and the contents of any messages you send (“Communication Information”).\nSocial Media Information: We have pages on social media sites like Instagram, Facebook, Medium, Twitter, YouTube and LinkedIn. When you interact with our social media pages, we will collect Personal Information that you elect to provide to us, such as your contact details (collectively, “Soc...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450941099,
+            "url": "https://www.counselr.ai/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Identifiers, Commercial Information, Network Activity Information, Geolocation Data, and Sensitive Personal Information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identifiers (e.g., name, contact details, IP address)",
+                        "Commercial Information",
+                        "Network Activity Information",
+                        "Geolocation Data",
+                        "Sensitive Personal Information (e.g., account login credentials, payment card information)"
+                    ]
+                }
+            },
+            "analysis": "The app collects a variety of personal information falling under different categories as outlined in the privacy policy.",
+            "reference": "Identifiers, such as your name, contact details, IP address, and other device identifiers: We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. Commercial Information, such as your transaction history: We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. Network Activity Information, such as Content and how you interact with our Services: We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. Geolocation Data: We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. Your account login credentials and payment card information (Sensitive Personal Information): We disclose this information to our affiliates, vendors and service providers, law enforcement, and parties involved in Transactions. URL: https://www.counselr.ai/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "1297a4d57e602e509dfffcb2d50b395e1dba367cdf20cf4066799ce7d1143560",
+                "score": 0.064771704,
+                "excerpt": "provide to our Services (“Content”).\nCommunication Information: If you communicate with us, we collect your name, contact information, and the contents of any messages you send (“Communication Information”).\nSocial Media Information: We have pages on social media sites like Instagram, Facebook, Medium, Twitter, YouTube and LinkedIn. When you interact with our social media pages, we will collect Personal Information that you elect to provide to us, such as your contact details (collectively, “Soc...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "bb7ea58dc795761905a7ee41d13751ccc64ee13aca0d877a606a1b471c9661f6",
+                "score": 0.053206205,
+                "excerpt": "categories of Personal Information we collect and how we disclose that information. You can read more about the Personal Information we collect in “Personal information we collect” above, how we use Personal Information in “How we use personal information” above, and how we retain Personal Information in “Security and Retention” below.\nIdentifiers, such as your name, contact details, IP address, and other device identifiers: We disclose this information to our affiliates, vendors and service pro...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "2217affadb83ceccfa8e85ea68ef2ffd5c45e21441924b0c29bf91735828ac22",
+                "score": 0.03308598,
+                "excerpt": "about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user inputs (including messages entered into the mobile application) and outputs from the system, user agent and version, type of computer or mobile device, and your computer connection.\nDevice Information: Includes name of the device, operating system, device identifiers, and browser you are u...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "ccdd45c6a083e05d9ac287aa6cc9f0bdeeb4ee55037c221668816602267b3dec",
+                "score": 0.031026179,
+                "excerpt": "Privacy Policy\nWe at Counselr (together with our affiliates, “Counselr”, “Counselr AI”, “we”, “our” or “us”) respect your privacy and are strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our practices with respect to Personal Information we collect from or about you when you use our website, applications, and services (collectively, “Services”). Our use of that data is governed by our customer agreements covering access to and us...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "ddbbc9e298ad764147aced6731cfeb1b719f5ef7f70c7ea54ffedbd01958d285",
+                "score": 0.016090874,
+                "excerpt": "the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450941099,
+            "url": "https://www.counselr.ai/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use for various reasons, including improving the Services, conducting research, and analyzing user behavior.",
+            "reference": "We may aggregate or de-identify Personal Information so that it may no longer be used to identify you and use such information to analyze the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties. URL: https://www.counselr.ai/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "ddbbc9e298ad764147aced6731cfeb1b719f5ef7f70c7ea54ffedbd01958d285",
+                "score": 0.03919513,
+                "excerpt": "the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "03e1318c284d92ab3e65048b3a0007082d1e1c8ec784fa6744d75e28e736309d",
+                "score": 0.0029579028,
+                "excerpt": "using, or negatively affect the display or function of, a website or certain areas or features of a website. For more details on cookies, please visit https://allaboutcookies.org/.\nAnalytics: We may use a variety of online analytics products that use cookies to help us analyze how users use our Services and enhance your experience when you use the Services.\n2. How we use personal information\nWe may use Personal Information for the following purposes:\nTo provide, administer, maintain and/or analy...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "2217affadb83ceccfa8e85ea68ef2ffd5c45e21441924b0c29bf91735828ac22",
+                "score": 0.002491968,
+                "excerpt": "about your use of the Services, such as the types of content that you view or engage with, the features you use and the actions you take, as well as your time zone, country, the dates and times of access, user inputs (including messages entered into the mobile application) and outputs from the system, user agent and version, type of computer or mobile device, and your computer connection.\nDevice Information: Includes name of the device, operating system, device identifiers, and browser you are u...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "1630cb7c5d128448b99201890d67956fca918895a2d5311357c1cdb68a0e1db4",
+                "score": 0.0018315102,
+                "excerpt": "including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safet...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "0634d27bd1cf02daa15e492f2fc1301344b3e5abeba48d24c56024e7ba05c509",
+                "score": 0.0016875096,
+                "excerpt": "this information if you use our Services.\n3. Disclosure of personal information\nIn certain circumstances we may provide your Personal Information to third parties without further notice to you, unless required by the law:\nVendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, cloud services, and other information t...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450941099,
+            "url": "https://www.counselr.ai/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users have the right to delete their Personal Information from the app's records, indicating that users can opt out of data collection or delete their data.",
+            "reference": "Delete your Personal Information from our records. URL: https://www.counselr.ai/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "dee87637b205969b39d4e44090de67b26dc420f8deb4bb39b456bdfffed7cbd8",
+                "score": 0.60743034,
+                "excerpt": "the right to:\nAccess your Personal Information and information relating to how it is processed.\nDelete your Personal Information from our records.\nRectify or update your Personal Information.\nTransfer your Personal Information to a third party (right to data portability).\nRestrict how we process your Personal Information.\nWithdraw your consent - where we rely on consent as the legal basis for processing at any time.\nObject to how we process your Personal Information.\nLodge a complaint with your ...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "1630cb7c5d128448b99201890d67956fca918895a2d5311357c1cdb68a0e1db4",
+                "score": 0.54137856,
+                "excerpt": "including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safet...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "c228bb9b51678b8321d936e22ecc199ec633d6e439dff446836efbfe74b625ed",
+                "score": 0.2221934,
+                "excerpt": "affiliates, vendors and service providers, law enforcement, and parties involved in Transactions.\nTo the extent provided for by local law and subject to applicable exceptions, individuals may have the following privacy rights in relation to their Personal Information:\nThe right to know information about our processing of your Personal Information, including the specific pieces of Personal Information that we have collected from you;\nThe right to request deletion of your Personal Information;\nThe...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "ddbbc9e298ad764147aced6731cfeb1b719f5ef7f70c7ea54ffedbd01958d285",
+                "score": 0.11299101,
+                "excerpt": "the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "7baaf9dc857afe0c941cc652821cbb27fceca2bddeeea4a51a1c61899212eb3f",
+                "score": 0.068040416,
+                "excerpt": "not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Counselr, through the Service, please email us at support@counselr.ai. We will investigate any notification and if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have consent from your parent or guardian to use our Services.\n7. Links to other websites\nThe Ser...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450941099,
+            "url": "https://www.counselr.ai/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that Personal Information may be disclosed to third parties in various scenarios, including assisting in business operations, in strategic transactions, and to comply with legal obligations.",
+            "reference": "In certain circumstances we may provide your Personal Information to third parties without further notice to you, unless required by the law: Vendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, Business Transfers: If we are involved in strategic transactions, Legal Requirements: We may share your Personal Information, including information about your interaction with our Services, with government authorities, industry peers, or other third parties... URL: https://www.counselr.ai/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "1630cb7c5d128448b99201890d67956fca918895a2d5311357c1cdb68a0e1db4",
+                "score": 0.52381617,
+                "excerpt": "including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safet...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "0634d27bd1cf02daa15e492f2fc1301344b3e5abeba48d24c56024e7ba05c509",
+                "score": 0.22712629,
+                "excerpt": "this information if you use our Services.\n3. Disclosure of personal information\nIn certain circumstances we may provide your Personal Information to third parties without further notice to you, unless required by the law:\nVendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, cloud services, and other information t...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "ddbbc9e298ad764147aced6731cfeb1b719f5ef7f70c7ea54ffedbd01958d285",
+                "score": 0.11377637,
+                "excerpt": "the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "c228bb9b51678b8321d936e22ecc199ec633d6e439dff446836efbfe74b625ed",
+                "score": 0.08882029,
+                "excerpt": "affiliates, vendors and service providers, law enforcement, and parties involved in Transactions.\nTo the extent provided for by local law and subject to applicable exceptions, individuals may have the following privacy rights in relation to their Personal Information:\nThe right to know information about our processing of your Personal Information, including the specific pieces of Personal Information that we have collected from you;\nThe right to request deletion of your Personal Information;\nThe...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "7baaf9dc857afe0c941cc652821cbb27fceca2bddeeea4a51a1c61899212eb3f",
+                "score": 0.044847902,
+                "excerpt": "not knowingly collect Personal Information from children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal Information to Counselr, through the Service, please email us at support@counselr.ai. We will investigate any notification and if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have consent from your parent or guardian to use our Services.\n7. Links to other websites\nThe Ser...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450941099,
+            "url": "https://www.counselr.ai/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with vendors and service providers, affiliates, and parties involved in Transactions.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Vendors and service providers",
+                        "Affiliates",
+                        "Parties involved in Transactions"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with various third parties for different purposes.",
+            "reference": "Vendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers... Affiliates: We may disclose Personal Information to our affiliates... Business Transfers: ... along with other assets. URL: https://www.counselr.ai/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0634d27bd1cf02daa15e492f2fc1301344b3e5abeba48d24c56024e7ba05c509",
+                "score": 0.4709799,
+                "excerpt": "this information if you use our Services.\n3. Disclosure of personal information\nIn certain circumstances we may provide your Personal Information to third parties without further notice to you, unless required by the law:\nVendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may provide Personal Information to vendors and service providers, including providers of hosting services, cloud services, and other information t...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "1630cb7c5d128448b99201890d67956fca918895a2d5311357c1cdb68a0e1db4",
+                "score": 0.30611205,
+                "excerpt": "including information about your interaction with our Services, with government authorities, industry peers, or other third parties (i) if required to do so by law or in the good faith belief that such action is necessary to comply with a legal obligation, (ii) to protect and defend our rights or property, (iii) if we determine, in our sole discretion, that there is a violation of our terms, policies, or the law; (iv) to detect or prevent fraud or other illegal activity; (v) to protect the safet...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "c228bb9b51678b8321d936e22ecc199ec633d6e439dff446836efbfe74b625ed",
+                "score": 0.24816957,
+                "excerpt": "affiliates, vendors and service providers, law enforcement, and parties involved in Transactions.\nTo the extent provided for by local law and subject to applicable exceptions, individuals may have the following privacy rights in relation to their Personal Information:\nThe right to know information about our processing of your Personal Information, including the specific pieces of Personal Information that we have collected from you;\nThe right to request deletion of your Personal Information;\nThe...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "ddbbc9e298ad764147aced6731cfeb1b719f5ef7f70c7ea54ffedbd01958d285",
+                "score": 0.15443976,
+                "excerpt": "the effectiveness of our Services, to improve and add features to our Services, to conduct research and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with third parties, publish such aggregated information or make such aggregated information generally available. We may collect aggregated information through the Services, through cookies, and...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            },
+            {
+                "id": "bb7ea58dc795761905a7ee41d13751ccc64ee13aca0d877a606a1b471c9661f6",
+                "score": 0.12940273,
+                "excerpt": "categories of Personal Information we collect and how we disclose that information. You can read more about the Personal Information we collect in “Personal information we collect” above, how we use Personal Information in “How we use personal information” above, and how we retain Personal Information in “Security and Retention” below.\nIdentifiers, such as your name, contact details, IP address, and other device identifiers: We disclose this information to our affiliates, vendors and service pro...",
+                "url": "https://www.counselr.ai/privacy-policy"
+            }
+        ]
+    }
+]

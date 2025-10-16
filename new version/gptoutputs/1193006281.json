@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1193006281,
+      "url": "https://www.flyyourvision.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects personal data directly provided by users and also collects data automatically, although the latter is not personally identifiable.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app collects both personal data provided by users and automatically collected data.",
+          "content": "The privacy policy states that the app collects personal data directly provided by users, such as names and emails, and also collects technical, engagement, activity, and transaction data automatically, which is not personally identifiable."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1193006281,
+      "url": "https://www.flyyourvision.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data directly provided by users, which includes personal information such as name and email when users communicate with the company, participate in surveys, send CVs, or subscribe to newsletters. Additionally, it collects automatically generated data that is not personally identifiable, including technical data (device type, IP address, operating system), engagement data (interaction with the app), activity data (usage frequency and duration), and transaction data (purchase details).",
+        "simple_answer": "The app collects personal data provided by users and automatically generated data.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that the data collected is the minimum necessary for providing its services.",
+          "content": "Personal data includes information voluntarily provided by users (like name and email) and automatically collected data (like device information and usage statistics)."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1193006281,
+      "url": "https://www.flyyourvision.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is used for various purposes including providing services, customer support, personalizing user experience, research and development, communication about services, marketing, and ensuring the integrity and security of the services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines multiple purposes for data collection.",
+          "content": "The purposes include providing services, customer support, personalizing experiences, research and development, communication, marketing, and ensuring service integrity and security."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use your personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1193006281,
+      "url": "https://www.flyyourvision.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt out of non-essential service emails at any time and can also opt out from receiving reminder notifications on their mobile device through device settings or the settings provided in the Services. However, the policy does not explicitly mention a process for deleting personal data collected by the app.",
+        "simple_answer": "Yes, users can opt out of non-essential emails and notifications, but the policy does not specify how to delete personal data.",
+        "extended_simple_answer": {
+          "comment": "While users have options to opt out of certain communications, the privacy policy lacks details on how users can delete their personal data.",
+          "content": "Users may opt out of non-essential service emails and reminder notifications. However, the policy does not provide a clear method for deleting personal data."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of certain communications but does not provide a clear mechanism for data deletion, which may be a concern for users wanting to manage their personal data more comprehensively.",
+      "reference": "How we use your personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1193006281,
+      "url": "https://www.flyyourvision.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not provide your personal data, such as your email, to third parties for their own marketing purposes. However, it may create aggregated and anonymous data from your personal data and share this with third parties to operate, understand, and improve the Services, develop new features, and for other lawful business purposes.",
+        "simple_answer": "No, the app does not share personal data with third parties for marketing purposes.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that personal data is not shared for marketing but may share aggregated data.",
+          "content": "The app does not provide your personal data to third parties for their own marketing purposes, but it may share aggregated and anonymous data with third parties for operational and improvement purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use your personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1193006281,
+      "url": "https://www.flyyourvision.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any particular third parties with whom the app shares data. It mentions that aggregated and anonymous data may be shared with third parties to operate, understand, and improve the Services, but does not provide details on specific third parties.",
+        "simple_answer": "The app does not specify any particular third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared in an aggregated or anonymous form, but does not name any specific third parties.",
+          "content": "Aggregated and anonymous data may be shared with third parties for operational and improvement purposes."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy suggests a focus on user privacy, as it emphasizes the sharing of non-personally identifiable information.",
+      "reference": "Section: How we use your personal data"
+    }
+  }
+]

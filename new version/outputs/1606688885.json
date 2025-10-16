@@ -1,0 +1,336 @@
+[
+    {
+        "meta": {
+            "id": 1606688885,
+            "url": "https://bit.ly/3HFZS2d",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states that it may collect, store, and process some data, including personal data.",
+            "reference": "We develop and publish iOS applications and we may collect, store and process some data, including personal data. This privacy policy (“Privacy Policy”) sets out the main principles on which the data collected from you, or that you provide to us, will be processed by us. URL: https://bit.ly/3HFZS2d"
+        },
+        "source_documents": [
+            {
+                "id": "41cfae46f3fc2d2b375343c15cbe2d24a94db8189824787de502db66c59f0441",
+                "score": 0.3820838,
+                "excerpt": "PRIVACY POLICY\nWe develop and publish iOS applications and we may collect, store and process some data, including personal data. This privacy policy (“Privacy Policy”) sets out the main principles on which the data collected from you, or that you provide to us, will be processed by us. This Privacy Policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.\nIf you have any questions related to this Privacy Policy or our practices around pr...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "509f24d2b1266716b935f91df06da81f3326a1c0842c387591f0e15c219d4063",
+                "score": 0.06681232,
+                "excerpt": "you want to make a purchase in the application, you may do this with the help of payment system provided by AppStore (managed by Apple) and integrated into the apps. The in-app payment system is managed by the AppStore administration or its authorized partner. Under no circumstances do we collect or process any information related to your payment instruments, such as bank card number, its validity term or your name as written on it.\nIII. DATA RETENTION\n1. By using our Platforms, you consent for ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "90e9ba9e6151806f581b8215e1da2183fc366a56b1f1836624ea9550b459f265",
+                "score": 0.034229323,
+                "excerpt": "data and the legal bases we rely on in each case.\nWhen you visit our Platforms, you may provide us with the following types of data, and we may collect and process such data in accordance with this Privacy Policy, as follows:\nContact Data (To respond to communications that you send to us)\nThis may include your name and your email address. This information will be collected by us if you communicate with us, for example if you use the links on our Platforms to communicate with us via email.\nCorres...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "496a48136a4cd92f188aa0cf6edc6435b236e6ac4094962a2457e9fd0d49e0c2",
+                "score": 0.0064882697,
+                "excerpt": "identifying you or your device across our Platforms.\nTo identify and respond to potential risks to the security of our Platforms (for example spammers, phishing attempts, screen scraping and other actions which may violate our Terms of Use).\nThis includes your IP address, your device’s unique identifier details, browser details including version, device operating system, geo-location, time zone setting and time/date of access requests, the amount of data transmitted and the requesting provider. ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "13009a165d189d5d1014d3873616d85eb71650483c2f50ab491749114fca1ef0",
+                "score": 0.0047552,
+                "excerpt": "data to comply with any legal or regulatory obligation, we may share your personal data with a regulator or law enforcement agency.\nVI. THIRD PARTY WEBSITES\nOur Platforms may contain links to third party websites. If you follow a link to a third-party website, please note that this Privacy Policy does not apply to those websites. We are not responsible or liable for the privacy policies or practices of those websites, so please check their policies before you submit any data to those websites.\nV...",
+                "url": "https://bit.ly/3HFZS2d"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606688885,
+            "url": "https://bit.ly/3HFZS2d",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Contact Data, Correspondence Data, Session Data, Cookie Data, Preference Data, and Payment Data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact Data",
+                        "Correspondence Data",
+                        "Session Data",
+                        "Cookie Data",
+                        "Preference Data",
+                        "Payment Data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states the various types of data collected by the app, hence providing comprehensive information on the data collection process.",
+            "reference": "Contact Data (To respond to communications that you send to us). URL: https://bit.ly/3HFZS2d, Correspondence Data (To help address issues you raise with us and to improve the Platforms and our services). URL: https://bit.ly/3HFZS2d, Session Data (To administer, maintain and improve the Platforms and our services, including identifying you or your device across our Platforms). URL: https://bit.ly/3HFZS2d, Cookie Data. URL: https://bit.ly/3HFZS2d, Preference data (To infer your interests, including serving and suggesting content that you might like, and tailoring advertising to you based on such preferences). URL: https://bit.ly/3HFZS2d, Payment data. URL: https://bit.ly/3HFZS2d"
+        },
+        "source_documents": [
+            {
+                "id": "41cfae46f3fc2d2b375343c15cbe2d24a94db8189824787de502db66c59f0441",
+                "score": 0.7130322,
+                "excerpt": "PRIVACY POLICY\nWe develop and publish iOS applications and we may collect, store and process some data, including personal data. This privacy policy (“Privacy Policy”) sets out the main principles on which the data collected from you, or that you provide to us, will be processed by us. This Privacy Policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.\nIf you have any questions related to this Privacy Policy or our practices around pr...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "90e9ba9e6151806f581b8215e1da2183fc366a56b1f1836624ea9550b459f265",
+                "score": 0.597373,
+                "excerpt": "data and the legal bases we rely on in each case.\nWhen you visit our Platforms, you may provide us with the following types of data, and we may collect and process such data in accordance with this Privacy Policy, as follows:\nContact Data (To respond to communications that you send to us)\nThis may include your name and your email address. This information will be collected by us if you communicate with us, for example if you use the links on our Platforms to communicate with us via email.\nCorres...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "496a48136a4cd92f188aa0cf6edc6435b236e6ac4094962a2457e9fd0d49e0c2",
+                "score": 0.11417085,
+                "excerpt": "identifying you or your device across our Platforms.\nTo identify and respond to potential risks to the security of our Platforms (for example spammers, phishing attempts, screen scraping and other actions which may violate our Terms of Use).\nThis includes your IP address, your device’s unique identifier details, browser details including version, device operating system, geo-location, time zone setting and time/date of access requests, the amount of data transmitted and the requesting provider. ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "509f24d2b1266716b935f91df06da81f3326a1c0842c387591f0e15c219d4063",
+                "score": 0.110855594,
+                "excerpt": "you want to make a purchase in the application, you may do this with the help of payment system provided by AppStore (managed by Apple) and integrated into the apps. The in-app payment system is managed by the AppStore administration or its authorized partner. Under no circumstances do we collect or process any information related to your payment instruments, such as bank card number, its validity term or your name as written on it.\nIII. DATA RETENTION\n1. By using our Platforms, you consent for ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "865064e5304d310fc6db5a4d713a6a89f2dc8bbc8539eb7716b4e2b5d8b64ac2",
+                "score": 0.0071214284,
+                "excerpt": "necessary cookies\nThese are cookies that are required for the operation of our Platforms. They include, for example, cookies that enable you to load webpages.\nAnalytical/performance cookies\nThese cookies allow us to recognize and count the number of visitors to our Platforms and to see how visitors move around our Platforms. This helps us to improve the way our Platforms works, for example, by ensuring that visitors are finding what they are looking for easily.\nFunctionality cookies\nThese are us...",
+                "url": "https://bit.ly/3HFZS2d"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606688885,
+            "url": "https://bit.ly/3HFZS2d",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by mentioning the reasons for collecting data such as responding to communications, improving services, and addressing security risks.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purposes for which data is collected, including responding to communications, improving services, and ensuring security on the platform.",
+            "reference": "This may include your name and your email address. This information will be collected by us if you communicate with us, for example if you use the links on our Platforms to communicate with us via email. URL: https://bit.ly/3HFZS2d"
+        },
+        "source_documents": [
+            {
+                "id": "41cfae46f3fc2d2b375343c15cbe2d24a94db8189824787de502db66c59f0441",
+                "score": 0.07935289,
+                "excerpt": "PRIVACY POLICY\nWe develop and publish iOS applications and we may collect, store and process some data, including personal data. This privacy policy (“Privacy Policy”) sets out the main principles on which the data collected from you, or that you provide to us, will be processed by us. This Privacy Policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.\nIf you have any questions related to this Privacy Policy or our practices around pr...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "90e9ba9e6151806f581b8215e1da2183fc366a56b1f1836624ea9550b459f265",
+                "score": 0.046205748,
+                "excerpt": "data and the legal bases we rely on in each case.\nWhen you visit our Platforms, you may provide us with the following types of data, and we may collect and process such data in accordance with this Privacy Policy, as follows:\nContact Data (To respond to communications that you send to us)\nThis may include your name and your email address. This information will be collected by us if you communicate with us, for example if you use the links on our Platforms to communicate with us via email.\nCorres...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "509f24d2b1266716b935f91df06da81f3326a1c0842c387591f0e15c219d4063",
+                "score": 0.024376597,
+                "excerpt": "you want to make a purchase in the application, you may do this with the help of payment system provided by AppStore (managed by Apple) and integrated into the apps. The in-app payment system is managed by the AppStore administration or its authorized partner. Under no circumstances do we collect or process any information related to your payment instruments, such as bank card number, its validity term or your name as written on it.\nIII. DATA RETENTION\n1. By using our Platforms, you consent for ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "496a48136a4cd92f188aa0cf6edc6435b236e6ac4094962a2457e9fd0d49e0c2",
+                "score": 0.0071214284,
+                "excerpt": "identifying you or your device across our Platforms.\nTo identify and respond to potential risks to the security of our Platforms (for example spammers, phishing attempts, screen scraping and other actions which may violate our Terms of Use).\nThis includes your IP address, your device’s unique identifier details, browser details including version, device operating system, geo-location, time zone setting and time/date of access requests, the amount of data transmitted and the requesting provider. ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "c4492a36bb2ff38efbc61a5b2552a0ef1261c708cd25c1bf60cbc4ca1056d59d",
+                "score": 0.0014607497,
+                "excerpt": "You may block cookies by updating the relevant settings on your device or browser to allow you to refuse the setting of some or all types of cookies.\nV. WHO DO WE SHARE YOUR DATA WITH?\nWe don't share your personal data except as consented by you or as described herein. We may need to share your personal data with selected third parties in the following circumstances:\nThird party service providers\nThis may include providers of certain systems and services that we use to host, administer and maint...",
+                "url": "https://bit.ly/3HFZS2d"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606688885,
+            "url": "https://bit.ly/3HFZS2d",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. The user has the right to request the erasure of personal data under certain circumstances, and to object to or restrict the processing of personal data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the right to request the erasure of personal data and to object to or restrict the processing of personal data. This indicates that users can opt out of data collection or delete data.",
+            "reference": "To request your personal data is erased where we do not have a compelling reason to continue to process such personal data in certain circumstances; To object to, or restrict, our processing of your personal data in certain circumstances; URL: https://bit.ly/3HFZS2d"
+        },
+        "source_documents": [
+            {
+                "id": "3fbb53418d54fc681986abb7173984f038a7244a2933f781edeecf4aec3c6986",
+                "score": 0.53357977,
+                "excerpt": "AND YOUR RIGHTS\nAs a result of us collecting and processing your personal data, you have the following legal rights:\n-\nTo access personal data we hold on you;\n-\nTo request us to make any changes to your personal data if it is inaccurate or incomplete;\n-\nTo request your personal data is erased where we do not have a compelling reason to continue to process such personal data in certain circumstances;\n-\nTo receive your personal data provided to us as a data controller in a structured, commonly use...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "e39c61f133dc0041f8c16c3cd705a5bb662d10c66a07bf1eb59ecdd7974b5039",
+                "score": 0.3176379,
+                "excerpt": "To object to, and not be subject to a decision which is based solely on, automated processing (including profiling), which produces legal effects or could significantly affect you;\n8. If we are processing your personal data with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal data conducted pursuant to lawful processing groun...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "d973242958dedbdc49dba2b6c495e4d1e3c076290ea2866f643ac8763640b906",
+                "score": 0.056756895,
+                "excerpt": "inadvertently gathered personal data from children, we will take reasonable measures to promptly erase such information from our records.\nXI. CHANGES TO THIS PRIVACY POLICY\n1. Any changes we may make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back regularly to keep informed of updates or changes to this Privacy Policy.\n2. This Privacy Policy was last updated in February 9th, 2022.",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "c4492a36bb2ff38efbc61a5b2552a0ef1261c708cd25c1bf60cbc4ca1056d59d",
+                "score": 0.028761586,
+                "excerpt": "You may block cookies by updating the relevant settings on your device or browser to allow you to refuse the setting of some or all types of cookies.\nV. WHO DO WE SHARE YOUR DATA WITH?\nWe don't share your personal data except as consented by you or as described herein. We may need to share your personal data with selected third parties in the following circumstances:\nThird party service providers\nThis may include providers of certain systems and services that we use to host, administer and maint...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "509f24d2b1266716b935f91df06da81f3326a1c0842c387591f0e15c219d4063",
+                "score": 0.027795624,
+                "excerpt": "you want to make a purchase in the application, you may do this with the help of payment system provided by AppStore (managed by Apple) and integrated into the apps. The in-app payment system is managed by the AppStore administration or its authorized partner. Under no circumstances do we collect or process any information related to your payment instruments, such as bank card number, its validity term or your name as written on it.\nIII. DATA RETENTION\n1. By using our Platforms, you consent for ...",
+                "url": "https://bit.ly/3HFZS2d"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606688885,
+            "url": "https://bit.ly/3HFZS2d",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties under certain circumstances such as with third-party service providers, third-party service providers for marketing purposes, and to comply with legal or regulatory requests.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share personal data with third parties in specific situations outlined within the document.",
+            "reference": "We don't share your personal data except as consented by you or as described herein. We may need to share your personal data with selected third parties...URL: https://bit.ly/3HFZS2d"
+        },
+        "source_documents": [
+            {
+                "id": "c4492a36bb2ff38efbc61a5b2552a0ef1261c708cd25c1bf60cbc4ca1056d59d",
+                "score": 0.9812749,
+                "excerpt": "You may block cookies by updating the relevant settings on your device or browser to allow you to refuse the setting of some or all types of cookies.\nV. WHO DO WE SHARE YOUR DATA WITH?\nWe don't share your personal data except as consented by you or as described herein. We may need to share your personal data with selected third parties in the following circumstances:\nThird party service providers\nThis may include providers of certain systems and services that we use to host, administer and maint...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "865064e5304d310fc6db5a4d713a6a89f2dc8bbc8539eb7716b4e2b5d8b64ac2",
+                "score": 0.91978675,
+                "excerpt": "necessary cookies\nThese are cookies that are required for the operation of our Platforms. They include, for example, cookies that enable you to load webpages.\nAnalytical/performance cookies\nThese cookies allow us to recognize and count the number of visitors to our Platforms and to see how visitors move around our Platforms. This helps us to improve the way our Platforms works, for example, by ensuring that visitors are finding what they are looking for easily.\nFunctionality cookies\nThese are us...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "13009a165d189d5d1014d3873616d85eb71650483c2f50ab491749114fca1ef0",
+                "score": 0.5979014,
+                "excerpt": "data to comply with any legal or regulatory obligation, we may share your personal data with a regulator or law enforcement agency.\nVI. THIRD PARTY WEBSITES\nOur Platforms may contain links to third party websites. If you follow a link to a third-party website, please note that this Privacy Policy does not apply to those websites. We are not responsible or liable for the privacy policies or practices of those websites, so please check their policies before you submit any data to those websites.\nV...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "509f24d2b1266716b935f91df06da81f3326a1c0842c387591f0e15c219d4063",
+                "score": 0.09186979,
+                "excerpt": "you want to make a purchase in the application, you may do this with the help of payment system provided by AppStore (managed by Apple) and integrated into the apps. The in-app payment system is managed by the AppStore administration or its authorized partner. Under no circumstances do we collect or process any information related to your payment instruments, such as bank card number, its validity term or your name as written on it.\nIII. DATA RETENTION\n1. By using our Platforms, you consent for ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "41cfae46f3fc2d2b375343c15cbe2d24a94db8189824787de502db66c59f0441",
+                "score": 0.047691282,
+                "excerpt": "PRIVACY POLICY\nWe develop and publish iOS applications and we may collect, store and process some data, including personal data. This privacy policy (“Privacy Policy”) sets out the main principles on which the data collected from you, or that you provide to us, will be processed by us. This Privacy Policy also aims to remind you about your rights and to provide you with all the elements you need to exercise them.\nIf you have any questions related to this Privacy Policy or our practices around pr...",
+                "url": "https://bit.ly/3HFZS2d"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606688885,
+            "url": "https://bit.ly/3HFZS2d",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third-party service providers for hosting, administration, maintenance, email services, payment processing, fraud prevention, analytics, and customer service. Additionally, data may be shared with third parties for marketing purposes and to comply with legal or regulatory requests.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Providers of systems and services for hosting and maintaining Platforms",
+                        "Email service providers",
+                        "Payment processors",
+                        "Fraud prevention vendors",
+                        "Analytics providers",
+                        "Customer service providers",
+                        "Marketing automation platforms",
+                        "Regulators or law enforcement agencies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions sharing data with various third parties for different purposes, including hosting, marketing, and legal compliance.",
+            "reference": "Third party service providers; Providers of systems and services that we use to host, administer and maintain our Platforms; Email service providers; Payment processors; Fraud prevention vendors; Analytics, customer service providers; Third party marketing automation platforms; Regulator or law enforcement agency. URL: https://bit.ly/3HFZS2d"
+        },
+        "source_documents": [
+            {
+                "id": "c4492a36bb2ff38efbc61a5b2552a0ef1261c708cd25c1bf60cbc4ca1056d59d",
+                "score": 0.9868281,
+                "excerpt": "You may block cookies by updating the relevant settings on your device or browser to allow you to refuse the setting of some or all types of cookies.\nV. WHO DO WE SHARE YOUR DATA WITH?\nWe don't share your personal data except as consented by you or as described herein. We may need to share your personal data with selected third parties in the following circumstances:\nThird party service providers\nThis may include providers of certain systems and services that we use to host, administer and maint...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "865064e5304d310fc6db5a4d713a6a89f2dc8bbc8539eb7716b4e2b5d8b64ac2",
+                "score": 0.75036985,
+                "excerpt": "necessary cookies\nThese are cookies that are required for the operation of our Platforms. They include, for example, cookies that enable you to load webpages.\nAnalytical/performance cookies\nThese cookies allow us to recognize and count the number of visitors to our Platforms and to see how visitors move around our Platforms. This helps us to improve the way our Platforms works, for example, by ensuring that visitors are finding what they are looking for easily.\nFunctionality cookies\nThese are us...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "13009a165d189d5d1014d3873616d85eb71650483c2f50ab491749114fca1ef0",
+                "score": 0.72076154,
+                "excerpt": "data to comply with any legal or regulatory obligation, we may share your personal data with a regulator or law enforcement agency.\nVI. THIRD PARTY WEBSITES\nOur Platforms may contain links to third party websites. If you follow a link to a third-party website, please note that this Privacy Policy does not apply to those websites. We are not responsible or liable for the privacy policies or practices of those websites, so please check their policies before you submit any data to those websites.\nV...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "509f24d2b1266716b935f91df06da81f3326a1c0842c387591f0e15c219d4063",
+                "score": 0.043284845,
+                "excerpt": "you want to make a purchase in the application, you may do this with the help of payment system provided by AppStore (managed by Apple) and integrated into the apps. The in-app payment system is managed by the AppStore administration or its authorized partner. Under no circumstances do we collect or process any information related to your payment instruments, such as bank card number, its validity term or your name as written on it.\nIII. DATA RETENTION\n1. By using our Platforms, you consent for ...",
+                "url": "https://bit.ly/3HFZS2d"
+            },
+            {
+                "id": "90e9ba9e6151806f581b8215e1da2183fc366a56b1f1836624ea9550b459f265",
+                "score": 0.040162582,
+                "excerpt": "data and the legal bases we rely on in each case.\nWhen you visit our Platforms, you may provide us with the following types of data, and we may collect and process such data in accordance with this Privacy Policy, as follows:\nContact Data (To respond to communications that you send to us)\nThis may include your name and your email address. This information will be collected by us if you communicate with us, for example if you use the links on our Platforms to communicate with us via email.\nCorres...",
+                "url": "https://bit.ly/3HFZS2d"
+            }
+        ]
+    }
+]

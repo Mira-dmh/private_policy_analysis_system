@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6473197423,
+      "url": "https://www.mysphereapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies the types of information collected, including personal information such as name, email address, date of birth, gender, and health-related answers, as well as device-specific information and usage data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The app collects personal information for providing a personalized experience and for the performance of the contract, as well as device-specific and usage information for improving the app and advertising."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the reasons for collection, ensuring transparency with users.",
+      "reference": "Processing Activities"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473197423,
+      "url": "https://www.mysphereapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: 1. Personal information you provide via the App, including your name, email address, date of birth, gender, and answers to pre-formulated questions about your health (which may include special categories of data). 2. Device-specific information such as device model, screen resolution, device memory, OS type and version, IP address, IDFA or AAID, etc. 3. Information provided by suppliers, such as type of internet connection, approximate location, and details of your use of the App, including time spent in the App, scrolling, clicks, etc.",
+        "simple_answer": "The app collects personal information, device-specific information, and usage data.",
+        "extended_simple_answer": {
+          "comment": "The data collected is necessary for providing the service and improving user experience.",
+          "content": "1. Personal information: name, email, date of birth, gender, health-related answers. 2. Device-specific information: model, resolution, memory, OS, IP address. 3. Usage data: internet connection type, location, app interaction details."
+        }
+      },
+      "analysis": "",
+      "reference": "Processing Activities"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473197423,
+      "url": "https://www.mysphereapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal information is collected to provide a personalized in-App experience, to assess the suitability of the Service, to make the App work safely, to analyze its performance, and to advertise the App. These purposes are outlined in the section detailing 'Processing Activities'.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app clearly states the reasons for collecting personal data, ensuring transparency.",
+          "content": "The purposes include providing a personalized experience, assessing service suitability, ensuring app functionality, analyzing performance, and advertising."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the purposes for which personal data is collected, aligning with GDPR requirements for transparency.",
+      "reference": "Processing Activities"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473197423,
+      "url": "https://www.mysphereapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that users can contact the company for additional information regarding their data processing. Users may have rights under applicable data protection laws, which could include the right to request deletion of their personal data.",
+        "simple_answer": "The policy does not specify an opt-out option, but users can contact the company for more information.",
+        "extended_simple_answer": {
+          "comment": "While the policy does not provide a clear opt-out mechanism, users are encouraged to reach out for further details.",
+          "content": "Users may have rights under data protection laws, including the right to request deletion of their personal data."
+        }
+      },
+      "analysis": "The absence of a clear opt-out or deletion process in the policy suggests that users may need to rely on their rights under data protection laws, which are not detailed in the document.",
+      "reference": "Processing Activities, Third Party Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473197423,
+      "url": "https://www.mysphereapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, including suppliers and professional advisors. Personal information may be disclosed to third parties such as Google Firebase for data storage and Google Analytics for service promotion and improvement. Additionally, personal information may be shared with professional advisors and authorities when necessary.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with third parties for various purposes, including service provision and analytics.",
+          "content": "Personal information is disclosed to suppliers like Google Firebase and Google Analytics, as well as to professional advisors and authorities when necessary."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal information may be shared with third parties for specific purposes, including service provision and compliance with legal obligations.",
+      "reference": "Third Party Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473197423,
+      "url": "https://www.mysphereapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties including suppliers such as Google Firebase Cloud Storage for data storage and service provision, and Google Analytics for Mobile Apps for promotion and improvement of the service. Additionally, personal information may be disclosed to professional advisors (solicitors, accountants, etc.) and to authorities such as court services or law enforcement agencies when necessary.",
+        "simple_answer": "The app shares data with Google Firebase, Google Analytics, professional advisors, and authorities.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with various third parties for different purposes.",
+          "content": "1. Suppliers: Google Firebase Cloud Storage (for data storage and service provision) and Google Analytics for Mobile Apps (for promotion and improvement). 2. Advisors: Professional advisors like solicitors and accountants. 3. Authorities: Court services or law enforcement agencies."
+        }
+      },
+      "analysis": "",
+      "reference": "Third Party Disclosure"
+    }
+  }
+]

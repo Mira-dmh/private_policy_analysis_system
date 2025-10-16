@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1332580637,
+      "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies the types of personal data collected, the purposes for which the data is processed, and the retention period for this data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the personal data collected and the reasons for its collection.",
+          "content": "NiceDay processes personal data such as first and last name, email address, and phone number for purposes like appointment scheduling and invoicing."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of personal data collected and the purposes for which they are used, ensuring transparency in data processing.",
+      "reference": "What personal data does NiceDay collect from you and for what purposes?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1332580637,
+      "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "NiceDay collects various types of personal data, including: first and last name, email address, phone number, name of employer, and additional information such as date of birth, residence, sex, and profile picture. This data is collected for purposes such as registration, account management, and to facilitate communication and invoicing.",
+        "simple_answer": "NiceDay collects personal data such as name, email, phone number, and other account-related information.",
+        "extended_simple_answer": {
+          "comment": "The data collected is necessary for account creation and service provision.",
+          "content": "The app collects first and last name, email address, phone number, name of employer, date of birth, residence, sex, and profile picture."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data does NiceDay collect from you and for what purposes?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1332580637,
+      "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. NiceDay processes personal data for specific purposes such as facilitating appointments, ensuring invoicing runs smoothly, and providing professional help through the application. The privacy policy outlines the types of personal data collected and the purposes for which they are used, ensuring compliance with the GDPR.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy provides detailed information on the purposes of data collection.",
+          "content": "NiceDay processes personal data for purposes including appointment scheduling, invoicing, and providing user support."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which personal data is collected, aligning with GDPR requirements for transparency.",
+      "reference": "What personal data does NiceDay collect from you and for what purposes?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1332580637,
+      "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by canceling their account. Additionally, users have the right to view, correct, or delete their personal data processed by NiceDay.",
+        "simple_answer": "Yes, users can cancel their account to opt out and have rights to delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal data.",
+          "content": "Users can cancel their account to stop data collection and have rights under GDPR to view, correct, or delete their personal data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users can cancel their accounts, which effectively opts them out of data collection. Furthermore, it emphasizes the rights users have under GDPR regarding their personal data.",
+      "reference": "What privacy rights do you have?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1332580637,
+      "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy states that NiceDay does not share personal data with third parties unless it is necessary for the purposes outlined in the policy. However, there are situations where third parties may have access to personal data, such as when a practitioner uses the application for treatment, in which case the practitioner is the data controller. Users are advised to refer to the privacy statement of the relevant practitioner for more information.",
+        "simple_answer": "Yes, the app may share data with third parties in certain situations, particularly when a practitioner is involved.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and depends on the context of use.",
+          "content": "If you use the application with a referral letter from a practitioner, that practitioner is the controller of your data, and you should refer to their privacy statement for details on data handling."
+        }
+      },
+      "analysis": "The app's data sharing practices are primarily governed by the relationship between the user and their practitioner, ensuring that users are informed about who controls their data.",
+      "reference": "Section: Are there situations where third parties have access to my personal data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1332580637,
+      "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It mentions that there are situations where third parties may have access to personal data, but does not detail who these third parties are.",
+        "simple_answer": "The app does not specify which third parties it shares data with.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that third parties may have access to personal data but does not provide specific names or categories.",
+          "content": "The privacy policy states that there are situations where third parties may have access to personal data, but it does not specify which third parties are involved."
+        }
+      },
+      "analysis": "The lack of specific information about third parties in the privacy policy may raise concerns for users regarding transparency and data sharing practices.",
+      "reference": "Section: Are there situations where third parties have access to my personal data?"
+    }
+  }
+]

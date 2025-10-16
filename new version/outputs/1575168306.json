@@ -1,0 +1,323 @@
+[
+    {
+        "meta": {
+            "id": 1575168306,
+            "url": "https://metacognium.com/App_privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that they may collect, store, use, and share personal information when using their services.",
+            "reference": "We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us. URL: https://metacognium.com/App_privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "776f5f366830efd84de1d140ce8e70e2a9e78be08f70045f50bdc58b4c75c0aa",
+                "score": 0.10894504,
+                "excerpt": "App’s Privacy Policy\nPRIVACY NOTICE\nThis privacy notice for Metacognium LLC (\"Company,\" \"We,\" \"us,\" or \"our\"), describes how and why we might collect, store, use, and/or share (\"process\") your information when you use our services (\"Services\"), such as when you:\nDownload and use our mobile application (Metacognium), or any other application of ours that links to this privacy notice\nEngage with us in other related ways, including any sales, marketing, or events\nQuestions or concerns? Reading this...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "9bc641c2fc4057146a3074a79e66fbce813c99496342177f7896a8f55ae0ae10",
+                "score": 0.03594832,
+                "excerpt": "HOW DO WE PROCESS YOUR INFORMATION?\n- WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?\n- WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?\n- HOW LONG DO WE KEEP YOUR INFORMATION?\n- HOW DO WE KEEP YOUR INFORMATION SAFE?\n- DO WE COLLECT INFORMATION FROM MINORS?\n- WHAT ARE YOUR PRIVACY RIGHTS?\n- CONTROLS FOR DO-NOT-TRACK FEATURES\n- DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?\n- DO WE MAKE UPDATES TO THIS NOTICE?\n- HOW CAN YOU CONTACT US ABOUT THIS NOTICE?\n- HOW ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "8b9905d3f217e028d19fbe46a40e0512602499643d2da8cd73314e1e4f3673ef",
+                "score": 0.03581319,
+                "excerpt": "and the products and features you use. The personal information we collect may include the following:\nnames\nemail addresses\npasswords\nSensitive Information. We do not process sensitive information.\nApplication Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:\nPush Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt o...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "613377d63c00da6bf299cff9f2ce5064e426a47f80ebf5ba79d492c28583ebeb",
+                "score": 0.001957017,
+                "excerpt": "we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.\n7. DO WE COLLECT INFORMATION FROM MINORS?\nWe do not knowingly solicit data from o...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "1a629f4bce87b77ba48ae13ab6af8b12ab2a6e9c78b4fe3723ac2604b31a43c3",
+                "score": 0.0019192374,
+                "excerpt": "may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click\nhere\nto learn more.\nIn some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:\nIf collection is clearly in the interests of an in...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1575168306,
+            "url": "https://metacognium.com/App_privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects names, email addresses, passwords, and application data which may include push notifications.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "names",
+                        "email addresses",
+                        "passwords",
+                        "push notifications"
+                    ]
+                }
+            },
+            "analysis": "Based on the identified context, the app collects various types of data including user names, email addresses, passwords, and application-related data such as push notifications.",
+            "reference": "names, email addresses, passwords, Push Notifications, URL: https://metacognium.com/App_privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "8b9905d3f217e028d19fbe46a40e0512602499643d2da8cd73314e1e4f3673ef",
+                "score": 0.5427724,
+                "excerpt": "and the products and features you use. The personal information we collect may include the following:\nnames\nemail addresses\npasswords\nSensitive Information. We do not process sensitive information.\nApplication Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:\nPush Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt o...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "9bc641c2fc4057146a3074a79e66fbce813c99496342177f7896a8f55ae0ae10",
+                "score": 0.085403666,
+                "excerpt": "HOW DO WE PROCESS YOUR INFORMATION?\n- WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?\n- WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?\n- HOW LONG DO WE KEEP YOUR INFORMATION?\n- HOW DO WE KEEP YOUR INFORMATION SAFE?\n- DO WE COLLECT INFORMATION FROM MINORS?\n- WHAT ARE YOUR PRIVACY RIGHTS?\n- CONTROLS FOR DO-NOT-TRACK FEATURES\n- DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?\n- DO WE MAKE UPDATES TO THIS NOTICE?\n- HOW CAN YOU CONTACT US ABOUT THIS NOTICE?\n- HOW ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "776f5f366830efd84de1d140ce8e70e2a9e78be08f70045f50bdc58b4c75c0aa",
+                "score": 0.08166611,
+                "excerpt": "App’s Privacy Policy\nPRIVACY NOTICE\nThis privacy notice for Metacognium LLC (\"Company,\" \"We,\" \"us,\" or \"our\"), describes how and why we might collect, store, use, and/or share (\"process\") your information when you use our services (\"Services\"), such as when you:\nDownload and use our mobile application (Metacognium), or any other application of ours that links to this privacy notice\nEngage with us in other related ways, including any sales, marketing, or events\nQuestions or concerns? Reading this...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "80dd018cfe99805a089bacf9bf83a72cf23387abc7cf5d6d05b3e64a9f36dcf1",
+                "score": 0.024609929,
+                "excerpt": "be completely or comprehensively removed from all our systems (e.g., backups, etc.).\nCCPA Privacy Notice\nThe California Code of Regulations defines a \"resident\" as:\n(1) every individual who is in the State of California for other than a temporary or transitory purpose and\n(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose CCPA Privacy\nAll other individuals are defined as \"non-residents.\"\nIf this definition...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "da0f7349a79e1d3a146511bf34473dc9e00ba6a5a609691e94e853566453d411",
+                "score": 0.021739595,
+                "excerpt": "financial information | YES |\n| C. Protected classification characteristics under California or federal law | Gender and date of birth | NO |\n| D. Commercial information | Transaction information, purchase history, financial details, and payment information | NO |\n| E. Biometric information | Fingerprints and voiceprints | NO |\n| F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applicat...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1575168306,
+            "url": "https://metacognium.com/App_privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that personal information is collected for various reasons like account creation, to offer support, send administrative information, fulfill orders, and protect individuals' vital interests. These purposes are declared in the document.",
+            "reference": "The personal information we collect may include the following: names, email addresses, passwords. Application Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission. Push Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). This information is primarily needed for the security and operation of our application(s) and for our internal analytics and reporting purposes. URL: https://metacognium.com/App_privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a629f4bce87b77ba48ae13ab6af8b12ab2a6e9c78b4fe3723ac2604b31a43c3",
+                "score": 0.067423776,
+                "excerpt": "may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click\nhere\nto learn more.\nIn some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:\nIf collection is clearly in the interests of an in...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "8b9905d3f217e028d19fbe46a40e0512602499643d2da8cd73314e1e4f3673ef",
+                "score": 0.03149938,
+                "excerpt": "and the products and features you use. The personal information we collect may include the following:\nnames\nemail addresses\npasswords\nSensitive Information. We do not process sensitive information.\nApplication Data. If you use our application(s), we also may collect the following information if you choose to provide us with access or permission:\nPush Notifications. We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt o...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "776f5f366830efd84de1d140ce8e70e2a9e78be08f70045f50bdc58b4c75c0aa",
+                "score": 0.025565214,
+                "excerpt": "App’s Privacy Policy\nPRIVACY NOTICE\nThis privacy notice for Metacognium LLC (\"Company,\" \"We,\" \"us,\" or \"our\"), describes how and why we might collect, store, use, and/or share (\"process\") your information when you use our services (\"Services\"), such as when you:\nDownload and use our mobile application (Metacognium), or any other application of ours that links to this privacy notice\nEngage with us in other related ways, including any sales, marketing, or events\nQuestions or concerns? Reading this...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "4262669a33a4bcf34915c27d51f3bbb6b81cdf64ee6819591c20a671f924e7a7",
+                "score": 0.021004366,
+                "excerpt": "our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.\nRight to be informed — Request to know\nDepending on the circumstances, you have a right to know:\nwhether we collect and use your personal information;\nthe categories of personal information that we collect;\nthe purposes for which the collected personal information is used;\nwhether we sell your personal information to third parties;\nthe categories of persona...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "4528f917b8e0427beb4be646855a3f32b75c0eba0569aa39c8504b34703b7c31",
+                "score": 0.015424552,
+                "excerpt": "process your information so you can create and log in to your account, as well as keep your account in working order.\nTo respond to user inquiries/offer support to users. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.\nTo send administrative information to you. We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.\n...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1575168306,
+            "url": "https://metacognium.com/App_privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. The user may request to opt out from future selling of personal information to third parties, and upon receiving such a request, the company will act upon it as soon as feasibly possible.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the option to opt out of data collection or request the deletion of their data, specifically mentioning the ability to opt out from selling personal information to third parties.",
+            "reference": "You may request to opt out from future selling of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission. URL: https://metacognium.com/App_privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "cb2abf191ea0d27d65e6c55020368c0f2bf9ed8bc8c45915aaf36e2ca8deca16",
+                "score": 0.79692537,
+                "excerpt": "of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.\nOther privacy rights\nYou may object to the processing of your personal information.\nYou may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.\nYou can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a reques...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "b471a9a62136c1ee92ccf765c982a8397e58b9b961ff9f63f5986481d7ca197a",
+                "score": 0.47993022,
+                "excerpt": "contact details for the data protection authorities are available here:\nhttps://www.edoeb.admin.ch/edoeb/en/home.html\n.\nWithdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section \"\nHOW CAN YOU CONTACT US ABOUT THIS ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "fc633d456bace1cb3632bb5f37301c496f7f15da4ec7b473c70c876093c5c2fc",
+                "score": 0.43122488,
+                "excerpt": "please contact us at legal@metacognium.com.\n8. WHAT ARE YOUR PRIVACY RIGHTS?\nIn some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "ccb809a2ceb0ba87edc11e661c6f30a6a15b5eb48aa28ef275a422c0ec1908b7",
+                "score": 0.3523132,
+                "excerpt": "else?\nWe may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf.\nWe may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be \"selling\" of your personal information.\nMetacognium LLC has not disclosed or ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "1a629f4bce87b77ba48ae13ab6af8b12ab2a6e9c78b4fe3723ac2604b31a43c3",
+                "score": 0.2705766,
+                "excerpt": "may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click\nhere\nto learn more.\nIn some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:\nIf collection is clearly in the interests of an in...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1575168306,
+            "url": "https://metacognium.com/App_privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share information in specific situations and with specific third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share information in specific situations and with specific third parties.",
+            "reference": "We may share information in specific situations and with specific third parties. URL: https://metacognium.com/App_privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fdc95ff05dfb3796d528219f5d2394bd9950a3a962b5d7f81a29f115ab262e8d",
+                "score": 0.20577459,
+                "excerpt": "of contents.\nWhat personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Metacognium LLC and the Services, the choices you make, and the products and features you use. Click here to learn more.\nDo we process any sensitive personal information? We do not process sensitive personal information.\nDo you receive any information from third parties? We do not receive any information from third parties.\nHo...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "776f5f366830efd84de1d140ce8e70e2a9e78be08f70045f50bdc58b4c75c0aa",
+                "score": 0.1538032,
+                "excerpt": "App’s Privacy Policy\nPRIVACY NOTICE\nThis privacy notice for Metacognium LLC (\"Company,\" \"We,\" \"us,\" or \"our\"), describes how and why we might collect, store, use, and/or share (\"process\") your information when you use our services (\"Services\"), such as when you:\nDownload and use our mobile application (Metacognium), or any other application of ours that links to this privacy notice\nEngage with us in other related ways, including any sales, marketing, or events\nQuestions or concerns? Reading this...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "613377d63c00da6bf299cff9f2ce5064e426a47f80ebf5ba79d492c28583ebeb",
+                "score": 0.050705366,
+                "excerpt": "we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.\n7. DO WE COLLECT INFORMATION FROM MINORS?\nWe do not knowingly solicit data from o...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "ba49d01cf69ced738c9e397b36cfcde3f9a529ef30ffd8ff8b40e79d5ff7fea6",
+                "score": 0.044847902,
+                "excerpt": "collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province\nIf disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records\nIf it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced\nIf the collection is solely for journ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "65dadce5f4b73ceb0bbe5ba50a92858869bb78d52008a05b2154b67c5fa1629a",
+                "score": 0.040922303,
+                "excerpt": "files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.\nIf you have questions or comments about your privacy rights, you may email us at legal@metacognium.com.\n9. CONTROLS FOR DO-NOT-TRACK FEATURES\nMost web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signal your privacy preference not to have data about your ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1575168306,
+            "url": "https://metacognium.com/App_privacy_policy/"
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1575168306,\n       \"url\": \"https://metacognium.com/App_privacy_policy/\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q6\",\n       \"question\": \"6. If the app shares data with third parties, what third parties does the app share data with?\",\n       \"answer\": {\n           \"full_answer\": \"The app shares data with service providers and may share or transfer information in connection with business transfers.\",\n           \"simple_answer\": \"NOTUSED\",\n           \"extended_simple_answer\": {\n               \"comment\": \"third parties\",\n               \"content\": [\"service providers\", \"companies involved in business transfers\"]\n           }\n       },\n       \"analysis\": \"The privacy policy outlines that the app may share data with specific third parties such as service providers and companies involved in business transfers.\",\n       \"reference\": \"We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf.\",\n       \"URL: https://metacognium.com/App_privacy_policy/\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "fdc95ff05dfb3796d528219f5d2394bd9950a3a962b5d7f81a29f115ab262e8d",
+                "score": 0.25330648,
+                "excerpt": "of contents.\nWhat personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Metacognium LLC and the Services, the choices you make, and the products and features you use. Click here to learn more.\nDo we process any sensitive personal information? We do not process sensitive personal information.\nDo you receive any information from third parties? We do not receive any information from third parties.\nHo...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "ba49d01cf69ced738c9e397b36cfcde3f9a529ef30ffd8ff8b40e79d5ff7fea6",
+                "score": 0.18565173,
+                "excerpt": "collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province\nIf disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records\nIf it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced\nIf the collection is solely for journ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "ccb809a2ceb0ba87edc11e661c6f30a6a15b5eb48aa28ef275a422c0ec1908b7",
+                "score": 0.1559763,
+                "excerpt": "else?\nWe may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf.\nWe may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be \"selling\" of your personal information.\nMetacognium LLC has not disclosed or ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "7ef44b6fca90e106701d0173100162e28fd8d861c4ace94b4236e3ac19473373",
+                "score": 0.10302442,
+                "excerpt": "are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided ...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            },
+            {
+                "id": "1a629f4bce87b77ba48ae13ab6af8b12ab2a6e9c78b4fe3723ac2604b31a43c3",
+                "score": 0.08181271,
+                "excerpt": "may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click\nhere\nto learn more.\nIn some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:\nIf collection is clearly in the interests of an in...",
+                "url": "https://metacognium.com/App_privacy_policy/"
+            }
+        ]
+    }
+]

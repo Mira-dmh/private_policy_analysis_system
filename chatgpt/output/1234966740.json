@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1234966740,
+      "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects various types of information from users, including contact information, business information, user account information, technical data, and device permissions.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app outlines the types of data collected and the purposes for which it is used.",
+          "content": "The app collects contact information, business information, user account information, technical data, and device permissions as detailed in the privacy policy."
+        }
+      },
+      "analysis": "",
+      "reference": "What Information Do We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1234966740,
+      "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: Contact Information (name, telephone number, email address), Business Information (facility name, phone number, address), User Account Information (name, address, organization’s name, username, password), Technical Data (device identifier, mobile device’s SIM serial number, device type, operating system, connection type, user preferences, push notification token, interaction information), and Device Permissions (for push notifications).",
+        "simple_answer": "The app collects contact information, business information, user account information, technical data, and device permissions.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of information to provide services and improve user experience.",
+          "content": "Contact Information, Business Information, User Account Information, Technical Data, Device Permissions."
+        }
+      },
+      "analysis": "",
+      "reference": "What Information Do We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1234966740,
+      "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use in the section titled 'How Do We Use Your Information?' It outlines various purposes such as complying with laws, providing requested services, managing user accounts, improving customer service, and enhancing user experience.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app provides a comprehensive list of purposes for data collection.",
+          "content": "The purposes include compliance with laws, responding to inquiries, improving services, and enhancing user experience."
+        }
+      },
+      "analysis": "",
+      "reference": "How Do We Use Your Information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1234966740,
+      "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt-out of receiving push notifications by changing the settings on their mobile device. Additionally, users may opt-out of access and device access permissions, which will disable the associated features in the App. However, the policy does not explicitly mention a process for deleting collected data.",
+        "simple_answer": "Yes, users can opt-out of push notifications and device access permissions.",
+        "extended_simple_answer": {
+          "comment": "While users can opt-out of certain data collection methods, the policy does not provide a clear method for deleting all collected data.",
+          "content": "Users can opt-out of receiving push notifications and device access permissions by changing their device settings. However, the privacy policy does not specify a process for deleting data collected by the App."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt-out of specific data collection methods, but it lacks clarity on how users can delete their data.",
+      "reference": "How Do We Use Your Information?; Device Permissions"
+    }
+  },
+  {
+    "meta": {
+      "id": 1234966740,
+      "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your information with third parties in various contexts, including with corporate subsidiaries and affiliates, during mergers or acquisitions, with your consent, and in response to legal processes without your consent.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data under specific circumstances, including legal requirements and business operations.",
+          "content": "The app may share your information with corporate subsidiaries and affiliates, during mergers or acquisitions, with your consent, and in response to legal processes."
+        }
+      },
+      "analysis": "",
+      "reference": "How Do We Share and Disclose Your Information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1234966740,
+      "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share your information with corporate subsidiaries and affiliates, and with their respective officers, directors, employees, accountants, attorneys, and agents. Additionally, it may disclose your information in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the company assets. The app may also ask for your consent to share your information with other unaffiliated third parties.",
+        "simple_answer": "The app shares data with corporate subsidiaries, affiliates, and may ask for your consent to share with other third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has specific contexts in which it shares data.",
+          "content": "Data may be shared with corporate subsidiaries and affiliates, during mergers or acquisitions, and with your consent for other third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "How Do We Share and Disclose Your Information?"
+    }
+  }
+]

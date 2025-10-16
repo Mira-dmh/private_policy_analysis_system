@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 1667268266,
+            "url": "https://thrivingonthespectrum.com/terms-privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions the collection of data from children, specifying the type of information collected and how it is used.",
+            "reference": "The types of information we may collect from children. URL: https://thrivingonthespectrum.com/terms-privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "61486d561c0350ae2bd5aa13626461b25fc31e4820de0f7d6df95bef8645d478",
+                "score": 0.047425874,
+                "excerpt": "communication protocol that protects the integrity and confidentiality of data exchanged between your device and our Website. However, please also remember that we cannot guarantee that our Services or the internet is 100% secure and that transmission of personal information to and from our Services is at your own risk. You should only access the services within a secure environment.\nChildren Under the Age of 13\nThis part of our Privacy Policy applies only to children under the age of 13 (“child...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "1bd34e059c524835f2e0206f976a3db7217d69a0fcb56a7482eff56b6549bb0c",
+                "score": 0.03971326,
+                "excerpt": "by the account creator. The nature of this feature allows children to disclose personal information about themselves. We do not monitor or review this content before it is posted, and we do not control the actions of third parties with whom your child shares his or her information. We encourage parents to educate their children about safe internet use and to monitor their children’s use of social features.\nWe may allow registered users of our App, including children, to activate or control certa...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "b954c5b6d8f1eb05e753cc7add4d35d743172e84480f677a402045412438c751",
+                "score": 0.028220989,
+                "excerpt": "storing information about your child’s preferences and past activity.\nDISCLOSURE OF INFORMATION COLLECTED FROM CHILDREN\nWe do not share, sell, rent, or transfer children’s personal information other than as described in this section.\nWe may disclose aggregated information about many of our users as described in the other sections of this Privacy Policy. In addition, we may disclose children’s personal information:\n-\nTo trusted third parties we use to support the internal operations of our Servic...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "0fa1efe0ca7bb72dd765ab08ebb9315608f9520900336f866d3004782bc7e95b",
+                "score": 0.027169233,
+                "excerpt": "personal information from children, including how a parent may revoke consent.\n-\nAll operators that collect or maintain information from children through this Website or our Apps.\nINFORMATION WE COLLECT FROM CHILDREN\nOur Website. Children can access our Website without providing any personal information. As described elsewhere in this Privacy Policy, however, we use certain technologies, such as cookies, to automatically collect information from our users (including children) when they access ou...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "727b0df18d431229e4aaf38405a7ba8d003e70e33a3501b296870776ad285d41",
+                "score": 0.019124037,
+                "excerpt": "of part or all of the functionality of the App.\nYou can review, change, or delete your child’s personal information by logging into your account and visiting his or her profile page, or by contacting us via email at tracey@thrivingonthespectrum.org.\nTo protect your privacy and security, we may require you to take certain steps or provide additional information to verify your identity before we provide any information or make corrections.\nOTHER OPERATORS\nNo other operators may collect or maintain...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1667268266,
+            "url": "https://thrivingonthespectrum.com/terms-privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as a child's age, first and last name, email address, location details (city, state, zip code), login credentials, user preferences, past activity, and voice audio files for specific features.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Age",
+                        "First and last name",
+                        "Email address",
+                        "Location details (city, state, zip code)",
+                        "Login credentials",
+                        "User preferences",
+                        "Past activity",
+                        "Voice audio files"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states the different types of personal information collected from children using the app.",
+            "reference": "We use the personal information we collect from your child to: Allow him or her to use our App; Enable access to App features like a visual schedule, notifications and reminders, self-regulation, and messaging; and To make our App more useful by storing information about your child’s preferences and past activity. URL: https://thrivingonthespectrum.com/terms-privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "61486d561c0350ae2bd5aa13626461b25fc31e4820de0f7d6df95bef8645d478",
+                "score": 0.06176271,
+                "excerpt": "communication protocol that protects the integrity and confidentiality of data exchanged between your device and our Website. However, please also remember that we cannot guarantee that our Services or the internet is 100% secure and that transmission of personal information to and from our Services is at your own risk. You should only access the services within a secure environment.\nChildren Under the Age of 13\nThis part of our Privacy Policy applies only to children under the age of 13 (“child...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "0fa1efe0ca7bb72dd765ab08ebb9315608f9520900336f866d3004782bc7e95b",
+                "score": 0.047869004,
+                "excerpt": "personal information from children, including how a parent may revoke consent.\n-\nAll operators that collect or maintain information from children through this Website or our Apps.\nINFORMATION WE COLLECT FROM CHILDREN\nOur Website. Children can access our Website without providing any personal information. As described elsewhere in this Privacy Policy, however, we use certain technologies, such as cookies, to automatically collect information from our users (including children) when they access ou...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "1bd34e059c524835f2e0206f976a3db7217d69a0fcb56a7482eff56b6549bb0c",
+                "score": 0.024940254,
+                "excerpt": "by the account creator. The nature of this feature allows children to disclose personal information about themselves. We do not monitor or review this content before it is posted, and we do not control the actions of third parties with whom your child shares his or her information. We encourage parents to educate their children about safe internet use and to monitor their children’s use of social features.\nWe may allow registered users of our App, including children, to activate or control certa...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "727b0df18d431229e4aaf38405a7ba8d003e70e33a3501b296870776ad285d41",
+                "score": 0.019681409,
+                "excerpt": "of part or all of the functionality of the App.\nYou can review, change, or delete your child’s personal information by logging into your account and visiting his or her profile page, or by contacting us via email at tracey@thrivingonthespectrum.org.\nTo protect your privacy and security, we may require you to take certain steps or provide additional information to verify your identity before we provide any information or make corrections.\nOTHER OPERATORS\nNo other operators may collect or maintain...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "ebe1538cb02e46873beb95e3ee8f2f8397e59bb33926cb278e05c539aa39b546",
+                "score": 0.019643761,
+                "excerpt": "information you provide to us or that we collect from you. This Privacy Policy does not apply to the privacy practices of any third-party whose website may be accessible through our Website, or to any third-party websites on which we advertise.\nInformation We Collect\nInformation You Provide to Us\nWe collect information you provide directly to us, such as when you fill out a form, contact us via email or online, create an account, or purchase a subscription. Such information may include your name...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1667268266,
+            "url": "https://thrivingonthespectrum.com/terms-privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use to provide services, enable access to features, store information about preferences and past activity, and make the app more useful.",
+            "reference": "We use the personal information we collect from your child to: Allow him or her to use our App; Enable access to App features like a visual schedule, notifications and reminders, self-regulation, and messaging; and To make our App more useful by storing information about your child’s preferences and past activity. URL: https://thrivingonthespectrum.com/terms-privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "1bd34e059c524835f2e0206f976a3db7217d69a0fcb56a7482eff56b6549bb0c",
+                "score": 0.037186775,
+                "excerpt": "by the account creator. The nature of this feature allows children to disclose personal information about themselves. We do not monitor or review this content before it is posted, and we do not control the actions of third parties with whom your child shares his or her information. We encourage parents to educate their children about safe internet use and to monitor their children’s use of social features.\nWe may allow registered users of our App, including children, to activate or control certa...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "c03939a617278248b6eb01d70568d969c01016339e1cb4dbe5eb33978cf5e94d",
+                "score": 0.030100338,
+                "excerpt": "PRIVACY POLICY\nLast Updated December 18, 2023\nThank you for choosing to be part of our community at Thriving on the Spectrum, LLC (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this Privacy Policy or our practices with regards to your personal information, please contact us at tracey@thrivingonthespectrum.org.\nWhen you visit www.thrivingonthespectrum.com and related websites and su...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "61486d561c0350ae2bd5aa13626461b25fc31e4820de0f7d6df95bef8645d478",
+                "score": 0.011869121,
+                "excerpt": "communication protocol that protects the integrity and confidentiality of data exchanged between your device and our Website. However, please also remember that we cannot guarantee that our Services or the internet is 100% secure and that transmission of personal information to and from our Services is at your own risk. You should only access the services within a secure environment.\nChildren Under the Age of 13\nThis part of our Privacy Policy applies only to children under the age of 13 (“child...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "20e92fd4ca9e180b87e8056f1ea6960bba1c41c4d3e8980111ca1c7fe9aa5e60",
+                "score": 0.011331754,
+                "excerpt": "site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected using Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information ...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "b954c5b6d8f1eb05e753cc7add4d35d743172e84480f677a402045412438c751",
+                "score": 0.010693758,
+                "excerpt": "storing information about your child’s preferences and past activity.\nDISCLOSURE OF INFORMATION COLLECTED FROM CHILDREN\nWe do not share, sell, rent, or transfer children’s personal information other than as described in this section.\nWe may disclose aggregated information about many of our users as described in the other sections of this Privacy Policy. In addition, we may disclose children’s personal information:\n-\nTo trusted third parties we use to support the internal operations of our Servic...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1667268266,
+            "url": "https://thrivingonthespectrum.com/terms-privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can review, change, or delete their child's personal information by logging into their account or contacting the provided email address. This indicates that users have the ability to opt out of data collection or delete data.",
+            "reference": "You can review, change, or delete your child’s personal information by logging into your account and visiting his or her profile page, or by contacting us via email at tracey@thrivingonthespectrum.org. URL: https://thrivingonthespectrum.com/terms-privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "727b0df18d431229e4aaf38405a7ba8d003e70e33a3501b296870776ad285d41",
+                "score": 0.29370826,
+                "excerpt": "of part or all of the functionality of the App.\nYou can review, change, or delete your child’s personal information by logging into your account and visiting his or her profile page, or by contacting us via email at tracey@thrivingonthespectrum.org.\nTo protect your privacy and security, we may require you to take certain steps or provide additional information to verify your identity before we provide any information or make corrections.\nOTHER OPERATORS\nNo other operators may collect or maintain...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "26902fba2f35a3900b1ca0320e33c0fa75611be25fecdf9dd754548797f0e215",
+                "score": 0.24202643,
+                "excerpt": "or for an investigation related to public safety.\nIf Thriving on the Spectrum, LLC is involved in a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of its assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding or event, we may transfer the personal information we have collected or maintain to the buyer or other successor.\nCONSENT; ACCESSING AND CORRECTING CHILDREN’S INFORMATION; REVOKING CONSENT\nUn...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "e81ee0488ba2b7491627be7531ab0db863e6fa032ab52c6ce1cb79dbf70023ad",
+                "score": 0.085251234,
+                "excerpt": "request in writing to us using the contact information provided below.\nChanges To This Privacy Policy\nWe may update this Privacy Policy from time to time. When we do, we will also revise the “last updated” date at the top of this page. We encourage you to periodically check this page to stay informed about how we collect, use, and disclose your information.\nCONTACT US\nIf you have questions or concerns regarding this Privacy Policy or our data collection practices, please contact us as follows:\nT...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "61486d561c0350ae2bd5aa13626461b25fc31e4820de0f7d6df95bef8645d478",
+                "score": 0.021698097,
+                "excerpt": "communication protocol that protects the integrity and confidentiality of data exchanged between your device and our Website. However, please also remember that we cannot guarantee that our Services or the internet is 100% secure and that transmission of personal information to and from our Services is at your own risk. You should only access the services within a secure environment.\nChildren Under the Age of 13\nThis part of our Privacy Policy applies only to children under the age of 13 (“child...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "20e92fd4ca9e180b87e8056f1ea6960bba1c41c4d3e8980111ca1c7fe9aa5e60",
+                "score": 0.018689308,
+                "excerpt": "site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected using Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information ...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1667268266,
+            "url": "https://thrivingonthespectrum.com/terms-privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share children's personal information with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share, sell, rent, or transfer children's personal information to third parties. It only discloses aggregated information or in specific legal circumstances.",
+            "reference": "We do not share, sell, rent, or transfer children’s personal information other than as described in this section. URL: https://thrivingonthespectrum.com/terms-privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "727b0df18d431229e4aaf38405a7ba8d003e70e33a3501b296870776ad285d41",
+                "score": 0.7791538,
+                "excerpt": "of part or all of the functionality of the App.\nYou can review, change, or delete your child’s personal information by logging into your account and visiting his or her profile page, or by contacting us via email at tracey@thrivingonthespectrum.org.\nTo protect your privacy and security, we may require you to take certain steps or provide additional information to verify your identity before we provide any information or make corrections.\nOTHER OPERATORS\nNo other operators may collect or maintain...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "1bd34e059c524835f2e0206f976a3db7217d69a0fcb56a7482eff56b6549bb0c",
+                "score": 0.73848045,
+                "excerpt": "by the account creator. The nature of this feature allows children to disclose personal information about themselves. We do not monitor or review this content before it is posted, and we do not control the actions of third parties with whom your child shares his or her information. We encourage parents to educate their children about safe internet use and to monitor their children’s use of social features.\nWe may allow registered users of our App, including children, to activate or control certa...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "b954c5b6d8f1eb05e753cc7add4d35d743172e84480f677a402045412438c751",
+                "score": 0.37011155,
+                "excerpt": "storing information about your child’s preferences and past activity.\nDISCLOSURE OF INFORMATION COLLECTED FROM CHILDREN\nWe do not share, sell, rent, or transfer children’s personal information other than as described in this section.\nWe may disclose aggregated information about many of our users as described in the other sections of this Privacy Policy. In addition, we may disclose children’s personal information:\n-\nTo trusted third parties we use to support the internal operations of our Servic...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "0fa1efe0ca7bb72dd765ab08ebb9315608f9520900336f866d3004782bc7e95b",
+                "score": 0.2903768,
+                "excerpt": "personal information from children, including how a parent may revoke consent.\n-\nAll operators that collect or maintain information from children through this Website or our Apps.\nINFORMATION WE COLLECT FROM CHILDREN\nOur Website. Children can access our Website without providing any personal information. As described elsewhere in this Privacy Policy, however, we use certain technologies, such as cookies, to automatically collect information from our users (including children) when they access ou...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "26902fba2f35a3900b1ca0320e33c0fa75611be25fecdf9dd754548797f0e215",
+                "score": 0.050988145,
+                "excerpt": "or for an investigation related to public safety.\nIf Thriving on the Spectrum, LLC is involved in a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of its assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding or event, we may transfer the personal information we have collected or maintain to the buyer or other successor.\nCONSENT; ACCESSING AND CORRECTING CHILDREN’S INFORMATION; REVOKING CONSENT\nUn...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1667268266,
+            "url": "https://thrivingonthespectrum.com/terms-privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with trusted third parties supporting internal operations, law enforcement agencies, and entities related to public safety.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "trusted third parties supporting internal operations",
+                        "law enforcement agencies",
+                        "entities related to public safety"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the disclosure of information to specific third parties based on certain conditions, such as internal operations support, legal requirements, and safety considerations.",
+            "reference": "To trusted third parties we use to support the internal operations of our Services and who are bound by contractual or other obligations to use the information only for such purpose and to keep the information confidential. When required to do so by law or legal process, such as to comply with any court order or subpoena or to respond to any government or regulatory request. To law enforcement agencies or for an investigation related to public safety. URL: https://thrivingonthespectrum.com/terms-privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "b954c5b6d8f1eb05e753cc7add4d35d743172e84480f677a402045412438c751",
+                "score": 0.5115336,
+                "excerpt": "storing information about your child’s preferences and past activity.\nDISCLOSURE OF INFORMATION COLLECTED FROM CHILDREN\nWe do not share, sell, rent, or transfer children’s personal information other than as described in this section.\nWe may disclose aggregated information about many of our users as described in the other sections of this Privacy Policy. In addition, we may disclose children’s personal information:\n-\nTo trusted third parties we use to support the internal operations of our Servic...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "727b0df18d431229e4aaf38405a7ba8d003e70e33a3501b296870776ad285d41",
+                "score": 0.50229645,
+                "excerpt": "of part or all of the functionality of the App.\nYou can review, change, or delete your child’s personal information by logging into your account and visiting his or her profile page, or by contacting us via email at tracey@thrivingonthespectrum.org.\nTo protect your privacy and security, we may require you to take certain steps or provide additional information to verify your identity before we provide any information or make corrections.\nOTHER OPERATORS\nNo other operators may collect or maintain...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "1bd34e059c524835f2e0206f976a3db7217d69a0fcb56a7482eff56b6549bb0c",
+                "score": 0.46547863,
+                "excerpt": "by the account creator. The nature of this feature allows children to disclose personal information about themselves. We do not monitor or review this content before it is posted, and we do not control the actions of third parties with whom your child shares his or her information. We encourage parents to educate their children about safe internet use and to monitor their children’s use of social features.\nWe may allow registered users of our App, including children, to activate or control certa...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "0fa1efe0ca7bb72dd765ab08ebb9315608f9520900336f866d3004782bc7e95b",
+                "score": 0.16491956,
+                "excerpt": "personal information from children, including how a parent may revoke consent.\n-\nAll operators that collect or maintain information from children through this Website or our Apps.\nINFORMATION WE COLLECT FROM CHILDREN\nOur Website. Children can access our Website without providing any personal information. As described elsewhere in this Privacy Policy, however, we use certain technologies, such as cookies, to automatically collect information from our users (including children) when they access ou...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            },
+            {
+                "id": "26902fba2f35a3900b1ca0320e33c0fa75611be25fecdf9dd754548797f0e215",
+                "score": 0.13106197,
+                "excerpt": "or for an investigation related to public safety.\nIf Thriving on the Spectrum, LLC is involved in a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of its assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding or event, we may transfer the personal information we have collected or maintain to the buyer or other successor.\nCONSENT; ACCESSING AND CORRECTING CHILDREN’S INFORMATION; REVOKING CONSENT\nUn...",
+                "url": "https://thrivingonthespectrum.com/terms-privacy/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,324 @@
+[
+    {
+        "meta": {
+            "id": 1606376184,
+            "url": "https://takalamhere.com/en/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data, including Sensitive Personal Data, is collected from users, highlighting the transparency in data collection.",
+            "reference": "This Privacy Policy outlines the foundation upon which any personal data that Takalam collects from you, or that you provide while using the Platform (collectively referred to as “Personal Data”, further defined below)... We employ various methods to collect data from and about you, including through:... URL: https://takalamhere.com/en/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0bd82de3470e54921896ce0f4233a39297650825cf0d7aaabf9860b75bd6cd47",
+                "score": 0.027690258,
+                "excerpt": "include links to third-party websites, plug-ins, and applications, including those of Counselors whose Services are offered through the use of the Platform. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Takalam does not control these third-party websites and applications and is not responsible for their privacy policies or their use of your personal data. When you leave the Platform, you are encouraged to read the privacy policy...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "fe7885540dc158ccf4af38b657122584a1f6af91c688e131d54ac5b922c42751",
+                "score": 0.027220903,
+                "excerpt": "Privacy Policy\nTakalam L.T.D. (“Takalam”), a limited liability company established in the United Arab Emirates, owns and maintains (a) www.TakalamHere.com, a wellness counselling website, as well as a mobile application (the “App”), and collectively (the \"Platform\").\nTakalam is dedicated to maintaining privacy protections that provide users with confidence and clarity whenever using the Platform. Respecting users' privacy is one of the most important pillars of Takalam’s operations. No other cou...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "666d3c656f3920f496b684c4983440bc01ff579a03a4e5f7558f3663fb5d6ef4",
+                "score": 0.023330769,
+                "excerpt": "unrelated purpose, we will notify you and explain the legal basis which allows us to do so. Please note that we may process your Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.\nLocation Information\nYou can choose whether or not to allow the Platform to collect and use real-time information about your device’s location through the device’s privacy settings. We will only use location data to enhance the functionality ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "9d8f868e6a141f145dfbcdb061bb26f7300126dc188913460231f6000dd5e541",
+                "score": 0.017712299,
+                "excerpt": "your Personal Data but is not considered Personal Data as this data does not directly or indirectly reveal your identity. We may aggregate your usage data to calculate the percentage of users accessing a specific feature. However, if we combine or connect aggregated data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy Policy.\nHow is your Personal Data collected?\nWe employ va...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0f50bab383c0307f076a7c0f2bc592ba5cb1b8daebd024f30828e1c1da0c1465",
+                "score": 0.01461567,
+                "excerpt": "consent. All credit/debit card details and personally identifiable information will NOT be, sold, shared, rented, or leased to any third parties. Takalam will not pass any debit/credit card details to third parties.\nPrivacy Policy and the User Agreement\nThe User Agreement, which all users voluntarily and knowingly agree to enter into by accessing the Platform, and this Privacy Policy constitute all terms and conditions for the use of the Platform. By your use of the Platform to obtain counsellin...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606376184,
+            "url": "https://takalamhere.com/en/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personal Data, Sensitive Personal Data (including health data), and AI Inputs and AI Outputs.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal Data",
+                        "Sensitive Personal Data (including health data)",
+                        "AI Inputs and AI Outputs"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the information provided in the privacy policy document about the types of data collected by the app, including Personal Data, Sensitive Personal Data, and AI Inputs and AI Outputs.",
+            "reference": "Personal Data or personal information means any information about an individual from which that person can be identified. We may collect, use, store, and transfer different kinds of Personal Data about you, which includes but is not limited to:...; We will only process your Sensitive Personal Data, including health data, in accordance with the applicable laws and regulations...; If you use features within the Services that incorporate artificial intelligence (AI) or machine learning, we may collect and process the information you provide to those features (such as prompts, messages, or uploaded content) ('AI Inputs'). We may also process the content generated by those features ('AI Outputs'), particularly where it is saved, shared, or used within your account... URL: https://takalamhere.com/en/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9d8f868e6a141f145dfbcdb061bb26f7300126dc188913460231f6000dd5e541",
+                "score": 0.06255973,
+                "excerpt": "your Personal Data but is not considered Personal Data as this data does not directly or indirectly reveal your identity. We may aggregate your usage data to calculate the percentage of users accessing a specific feature. However, if we combine or connect aggregated data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy Policy.\nHow is your Personal Data collected?\nWe employ va...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "19cedf9a9d99259db49568bd57c1207d7b0fc5e81e425730fd1f97551eafbba0",
+                "score": 0.060086653,
+                "excerpt": "use your Personal Data when the law allows us to. Most commonly, we will use your Personal Data when it is necessary. These are the legal basis for us processing your Personal Data:\nWe will only process your Sensitive Personal Data, including health data, in accordance with the applicable laws and regulations. The processing will be conducted solely for the purposes permitted by law and in a manner that ensures the protection of your privacy. The legal basis for processing your Sensitive Persona...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "a3e6e82acc70b2c93083b5ff9f493d6f852fa06a20d3574e43b2d1cdfa5fad33",
+                "score": 0.058238626,
+                "excerpt": "age. If we learn we have collected or received Personal Data from a person under 18, we will use that information only to respond directly to that child (or his/her parent or legal guardian) to inform the child that he/she cannot use the Platform, and we will subsequently delete that information. If you believe we might have any information from or about a person under 18 for which there is no legal parental or guardian consent, please contact us at dpo@Takalam.ae.\nWe employ robust mechanisms to...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0bd82de3470e54921896ce0f4233a39297650825cf0d7aaabf9860b75bd6cd47",
+                "score": 0.03179867,
+                "excerpt": "include links to third-party websites, plug-ins, and applications, including those of Counselors whose Services are offered through the use of the Platform. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Takalam does not control these third-party websites and applications and is not responsible for their privacy policies or their use of your personal data. When you leave the Platform, you are encouraged to read the privacy policy...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "fe7885540dc158ccf4af38b657122584a1f6af91c688e131d54ac5b922c42751",
+                "score": 0.021739595,
+                "excerpt": "Privacy Policy\nTakalam L.T.D. (“Takalam”), a limited liability company established in the United Arab Emirates, owns and maintains (a) www.TakalamHere.com, a wellness counselling website, as well as a mobile application (the “App”), and collectively (the \"Platform\").\nTakalam is dedicated to maintaining privacy protections that provide users with confidence and clarity whenever using the Platform. Respecting users' privacy is one of the most important pillars of Takalam’s operations. No other cou...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606376184,
+            "url": "https://takalamhere.com/en/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use in compliance with legal requirements.",
+            "reference": "We will notify you and explain the legal basis which allows us to do so. Please note that we may process your Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law. URL: https://takalamhere.com/en/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "666d3c656f3920f496b684c4983440bc01ff579a03a4e5f7558f3663fb5d6ef4",
+                "score": 0.17119971,
+                "excerpt": "unrelated purpose, we will notify you and explain the legal basis which allows us to do so. Please note that we may process your Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.\nLocation Information\nYou can choose whether or not to allow the Platform to collect and use real-time information about your device’s location through the device’s privacy settings. We will only use location data to enhance the functionality ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "19cedf9a9d99259db49568bd57c1207d7b0fc5e81e425730fd1f97551eafbba0",
+                "score": 0.09318171,
+                "excerpt": "use your Personal Data when the law allows us to. Most commonly, we will use your Personal Data when it is necessary. These are the legal basis for us processing your Personal Data:\nWe will only process your Sensitive Personal Data, including health data, in accordance with the applicable laws and regulations. The processing will be conducted solely for the purposes permitted by law and in a manner that ensures the protection of your privacy. The legal basis for processing your Sensitive Persona...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "a3e6e82acc70b2c93083b5ff9f493d6f852fa06a20d3574e43b2d1cdfa5fad33",
+                "score": 0.023779983,
+                "excerpt": "age. If we learn we have collected or received Personal Data from a person under 18, we will use that information only to respond directly to that child (or his/her parent or legal guardian) to inform the child that he/she cannot use the Platform, and we will subsequently delete that information. If you believe we might have any information from or about a person under 18 for which there is no legal parental or guardian consent, please contact us at dpo@Takalam.ae.\nWe employ robust mechanisms to...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0bd82de3470e54921896ce0f4233a39297650825cf0d7aaabf9860b75bd6cd47",
+                "score": 0.01678549,
+                "excerpt": "include links to third-party websites, plug-ins, and applications, including those of Counselors whose Services are offered through the use of the Platform. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Takalam does not control these third-party websites and applications and is not responsible for their privacy policies or their use of your personal data. When you leave the Platform, you are encouraged to read the privacy policy...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "b831d1f2ca5445af083fe7b6aa0d9396482585b51daa927259b655bcc7905e7c",
+                "score": 0.016152835,
+                "excerpt": "uses, particularly around marketing and advertising. We will always give you the option to choose not to receive marketing communications from us. If you do not wish to have your Personal Data used by us to promote our own or third parties’ products or services, you can opt-out by contacting us. You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us at any time by sending us an ema...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606376184,
+            "url": "https://takalamhere.com/en/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection by contacting the app, as stated in the privacy policy. The app provides options to stop receiving marketing messages and offers ways to choose not to have data used for advertisements.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions that users can opt-out of data collection or marketing communications by contacting the app directly through various means provided.",
+            "reference": "If you do not wish to have your Personal Data used by us to promote our own or third parties’ products or services, you can opt-out by contacting us. You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us at any time by sending us an email. URL: https://takalamhere.com/en/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b831d1f2ca5445af083fe7b6aa0d9396482585b51daa927259b655bcc7905e7c",
+                "score": 0.8838389,
+                "excerpt": "uses, particularly around marketing and advertising. We will always give you the option to choose not to receive marketing communications from us. If you do not wish to have your Personal Data used by us to promote our own or third parties’ products or services, you can opt-out by contacting us. You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by contacting us at any time by sending us an ema...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "214acc69b65c29cd9a26a86299cfaff0aca86ed91df0f45b55e47c83a52fea3d",
+                "score": 0.7851439,
+                "excerpt": "this way. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by contacting us.\nYour Legal Rights\nUnder certain circumstances, you have rights under data protection laws in relation to your Personal Data. In particular, you have the right to make the following requests at any time by contacting us at dpo@Takalam.ae:\nWe may need to request specific information from y...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "590f82664ddce89a429287b997b73055dab85af8c6f39d697e363f9c12de3d7e",
+                "score": 0.4764426,
+                "excerpt": "the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in this Privacy Policy.\nHowever, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your Personal Data conducted in reliance on lawful processing grounds other than consent. To be clear, we require your explicit consen...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0f50bab383c0307f076a7c0f2bc592ba5cb1b8daebd024f30828e1c1da0c1465",
+                "score": 0.21766995,
+                "excerpt": "consent. All credit/debit card details and personally identifiable information will NOT be, sold, shared, rented, or leased to any third parties. Takalam will not pass any debit/credit card details to third parties.\nPrivacy Policy and the User Agreement\nThe User Agreement, which all users voluntarily and knowingly agree to enter into by accessing the Platform, and this Privacy Policy constitute all terms and conditions for the use of the Platform. By your use of the Platform to obtain counsellin...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "981b893121a46783eea2d0c9370ae74ef95c83964f700a38455aaf55d35eb865",
+                "score": 0.20769641,
+                "excerpt": "safeguard the privacy and confidentiality of the data. This process will comply with the Local Laws.\nGDPR\nTakalam makes all reasonable efforts to comply with applicable, existing European Union (EU) data privacy regulations. In particular, the General Data Protection Regulation (2016/679) is a regulation in EU law on data protection and privacy applicable and available to all individuals within the European Union and the European Economic Area. This body of regulations, which also addresses the ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606376184,
+            "url": "https://takalamhere.com/en/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share data with third parties, including the ability for third parties to collect or share data about users.",
+            "reference": "Takalam does not control these third-party websites and applications and is not responsible for their privacy policies or their use of your personal data. URL: https://takalamhere.com/en/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "666d3c656f3920f496b684c4983440bc01ff579a03a4e5f7558f3663fb5d6ef4",
+                "score": 0.888372,
+                "excerpt": "unrelated purpose, we will notify you and explain the legal basis which allows us to do so. Please note that we may process your Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.\nLocation Information\nYou can choose whether or not to allow the Platform to collect and use real-time information about your device’s location through the device’s privacy settings. We will only use location data to enhance the functionality ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0bd82de3470e54921896ce0f4233a39297650825cf0d7aaabf9860b75bd6cd47",
+                "score": 0.8152325,
+                "excerpt": "include links to third-party websites, plug-ins, and applications, including those of Counselors whose Services are offered through the use of the Platform. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Takalam does not control these third-party websites and applications and is not responsible for their privacy policies or their use of your personal data. When you leave the Platform, you are encouraged to read the privacy policy...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0f50bab383c0307f076a7c0f2bc592ba5cb1b8daebd024f30828e1c1da0c1465",
+                "score": 0.7977145,
+                "excerpt": "consent. All credit/debit card details and personally identifiable information will NOT be, sold, shared, rented, or leased to any third parties. Takalam will not pass any debit/credit card details to third parties.\nPrivacy Policy and the User Agreement\nThe User Agreement, which all users voluntarily and knowingly agree to enter into by accessing the Platform, and this Privacy Policy constitute all terms and conditions for the use of the Platform. By your use of the Platform to obtain counsellin...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "57b114e842acc8794ada6b0859c5da38c42e1bd96a8d064801bc787ad7937988",
+                "score": 0.5158486,
+                "excerpt": "payment provider that is fully compliant with Payment Card Industry (PCI) data security standards. Any payment transactions are encrypted using SSL technology. Once we have received your information, we will use strict procedures, industry-standard physical, technical, and administrative safeguards and security features to try to prevent unauthorized access.\nDisclosures of your Personal Data\nYou agree that we have the right to share your Personal Data, with the exception of your personal health ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0e15214452f9791c8fe365572eb2519f45fcad4cb9a6077328c6f0e31ab5398c",
+                "score": 0.5142021,
+                "excerpt": "with our instructions.\nYour Sensitive Personal Data will not be transferred to any Third Parties without your explicit consent.\nTransfers of Personal Data outside of the United Arab Emirates; Application of GDPR Issues\nThe Personal Data that we collect from you is stored in the UAE, but may be shared within Takalam by Takalam employees/agents/contractors. This may involve your data being transferred to, and stored at, a destination outside of your country of residence, or outside of the jurisdic...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1606376184,
+            "url": "https://takalamhere.com/en/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Personal Data may be transferred, stored, processed, and used by affiliated companies and/or non-affiliated service providers in one or more countries outside the user's country. Takalam ensures protection of Personal Data by requiring all group companies to follow the same rules.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "affiliated companies and/or non-affiliated service providers"
+                }
+            },
+            "analysis": "The privacy policy states that Personal Data may be shared with affiliated companies and service providers outside the user's country. Takalam ensures protection by imposing rules on all group companies.",
+            "reference": "Personal Data that we collect from you is stored in the UAE...Your Personal Data may be transferred, stored, processed, and used by our affiliated companies and/or non-affiliated service providers in one or more countries outside your country. We ensure your Personal Data is protected in these cases by requiring all our group companies to follow the same rules when processing your Personal Data. URL: https://takalamhere.com/en/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "57b114e842acc8794ada6b0859c5da38c42e1bd96a8d064801bc787ad7937988",
+                "score": 0.69688743,
+                "excerpt": "payment provider that is fully compliant with Payment Card Industry (PCI) data security standards. Any payment transactions are encrypted using SSL technology. Once we have received your information, we will use strict procedures, industry-standard physical, technical, and administrative safeguards and security features to try to prevent unauthorized access.\nDisclosures of your Personal Data\nYou agree that we have the right to share your Personal Data, with the exception of your personal health ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "666d3c656f3920f496b684c4983440bc01ff579a03a4e5f7558f3663fb5d6ef4",
+                "score": 0.6964747,
+                "excerpt": "unrelated purpose, we will notify you and explain the legal basis which allows us to do so. Please note that we may process your Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.\nLocation Information\nYou can choose whether or not to allow the Platform to collect and use real-time information about your device’s location through the device’s privacy settings. We will only use location data to enhance the functionality ...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0e15214452f9791c8fe365572eb2519f45fcad4cb9a6077328c6f0e31ab5398c",
+                "score": 0.6128312,
+                "excerpt": "with our instructions.\nYour Sensitive Personal Data will not be transferred to any Third Parties without your explicit consent.\nTransfers of Personal Data outside of the United Arab Emirates; Application of GDPR Issues\nThe Personal Data that we collect from you is stored in the UAE, but may be shared within Takalam by Takalam employees/agents/contractors. This may involve your data being transferred to, and stored at, a destination outside of your country of residence, or outside of the jurisdic...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0bd82de3470e54921896ce0f4233a39297650825cf0d7aaabf9860b75bd6cd47",
+                "score": 0.57892436,
+                "excerpt": "include links to third-party websites, plug-ins, and applications, including those of Counselors whose Services are offered through the use of the Platform. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. Takalam does not control these third-party websites and applications and is not responsible for their privacy policies or their use of your personal data. When you leave the Platform, you are encouraged to read the privacy policy...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            },
+            {
+                "id": "0f50bab383c0307f076a7c0f2bc592ba5cb1b8daebd024f30828e1c1da0c1465",
+                "score": 0.5214407,
+                "excerpt": "consent. All credit/debit card details and personally identifiable information will NOT be, sold, shared, rented, or leased to any third parties. Takalam will not pass any debit/credit card details to third parties.\nPrivacy Policy and the User Agreement\nThe User Agreement, which all users voluntarily and knowingly agree to enter into by accessing the Platform, and this Privacy Policy constitute all terms and conditions for the use of the Platform. By your use of the Platform to obtain counsellin...",
+                "url": "https://takalamhere.com/en/privacy-policy"
+            }
+        ]
+    }
+]

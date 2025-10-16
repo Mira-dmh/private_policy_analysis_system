@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6444658101,
+      "url": "https://openup.com/privacy-policy-and-imprint/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that OpenUp processes users' personal data for the provision of its services, including when users create a MyOpenUp account or share personal data during counseling sessions.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of personal data collected and the purposes for which it is processed.",
+          "content": "OpenUp processes personal data such as email address, first name, year of birth, and health data based on user consent when creating a MyOpenUp account."
+        }
+      },
+      "analysis": "The privacy policy provides transparency regarding data collection practices, ensuring users are informed about what data is collected and for what purposes.",
+      "reference": "Section: What personal data do we process?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444658101,
+      "url": "https://openup.com/privacy-policy-and-imprint/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including: 1. For users creating a MyOpenUp account: - Email address - First name - Year of birth - Employer (if applicable) 2. For guidance from psychologists or lifestyle experts: - Phone number - Information about personal situation and well-being 3. For participating in OpenUp Spaces: - Phone number 4. For performing the OpenUp check-in: - Name - Email address - Information about personal situation and well-being 5. For HR roundtables: - Name - Email address - Job title - Organisation - Date",
+        "simple_answer": "The app collects personal data such as name, email address, phone number, year of birth, employer, and information about personal situation and well-being.",
+        "extended_simple_answer": {
+          "comment": "The data collected is used to provide services and facilitate communication.",
+          "content": "The app collects personal data including email address, first name, year of birth, employer, phone number, and information about personal situation and well-being."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: What personal data do we process?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444658101,
+      "url": "https://openup.com/privacy-policy-and-imprint/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. OpenUp processes users’ personal data for the provision of its services, such as providing access to the platform through a MyOpenUp account, facilitating communication, and offering guidance from psychologists and lifestyle experts. The specific purposes include creating accounts, conducting consultations, and preparing reports for employers, among others.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data processing, ensuring transparency.",
+          "content": "OpenUp processes personal data to provide services, facilitate communication, and prepare reports, among other purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which personal data is collected and processed, aligning with transparency requirements under GDPR.",
+      "reference": "Section: What personal data do we process?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444658101,
+      "url": "https://openup.com/privacy-policy-and-imprint/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and request the deletion of their personal data. The privacy policy states that users have the right to withdraw their consent at any time and can request the deletion of their personal data, subject to certain legal obligations that may require retention of some data.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have rights regarding their personal data.",
+          "content": "The privacy policy indicates that users can withdraw consent for data processing and request deletion of their personal data, although some data may need to be retained for legal reasons."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user rights regarding personal data, including opting out and deletion.",
+      "reference": "General Information section and What personal data do we process? section."
+    }
+  },
+  {
+    "meta": {
+      "id": 6444658101,
+      "url": "https://openup.com/privacy-policy-and-imprint/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app may share data with third parties, but only under specific circumstances. For example, when creating reports for employers, the data is pseudonymised or anonymised so that it cannot be traced back to natural persons. Personal data is only processed if explicit consent has been given by the user when creating a MyOpenUp account.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and requires user consent.",
+          "content": "Data is shared in a pseudonymised or anonymised form for reporting purposes, ensuring that it cannot be traced back to individuals."
+        }
+      },
+      "analysis": "The privacy policy indicates that while data may be shared with third parties, it is done in a manner that protects user identity and requires consent.",
+      "reference": "Section: What personal data do we process?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444658101,
+      "url": "https://openup.com/privacy-policy-and-imprint/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list specific third parties with whom the app shares data. However, it mentions that personal data may be processed for the preparation of reports for employers, and that this data is pseudonymised or anonymised to ensure it cannot be traced back to individuals. The sharing of personal data with third parties would only occur if explicit consent is given by the user when creating a MyOpenUp account.",
+        "simple_answer": "The app does not specify third parties but mentions data may be shared with employers in anonymised form.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes user consent for sharing personal data.",
+          "content": "Data may be shared with employers for reporting purposes, but it is anonymised or pseudonymised to protect user identity."
+        }
+      },
+      "analysis": "The privacy policy focuses on user consent and data protection, indicating that any sharing of personal data with third parties is done with care to maintain privacy.",
+      "reference": "Section: What personal data do we process?"
+    }
+  }
+]

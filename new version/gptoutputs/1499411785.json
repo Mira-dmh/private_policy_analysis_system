@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1499411785,
+      "url": "https://www.solmindfulness.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies the types of personal information collected, including contact information, content uploaded, profile information, registration information, feedback, demographic information, financial information, precise geolocation information, transaction information, usage information, marketing information, and other information that may be collected.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various categories of personal information that are collected from users.",
+          "content": "The app collects personal information such as contact details, uploaded content, profile data, registration info, feedback, demographic data, financial info, geolocation, transaction details, usage data, and marketing preferences."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected from users, ensuring transparency about data collection practices.",
+      "reference": "Personal Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1499411785,
+      "url": "https://www.solmindfulness.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including: business and personal contact information (name, email, phone number), content uploaded (text, images, audio, video), profile information (username, password, interests), registration information, feedback or correspondence, demographic information (city, state, age), financial information (payment card details), precise geolocation information, transaction information, usage information, marketing information, and other unspecified information. It also collects information from social media platforms and third-party sources.",
+        "simple_answer": "The app collects personal contact information, uploaded content, profile details, registration info, feedback, demographic data, financial info, geolocation, transaction details, usage data, marketing preferences, and info from social media and third parties.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of personal data to enhance user experience and service delivery.",
+          "content": "Types of data collected include contact info, uploaded content, profile details, registration info, feedback, demographic data, financial info, geolocation, transaction details, usage data, marketing preferences, and info from social media and third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1499411785,
+      "url": "https://www.solmindfulness.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal information is collected to provide and improve the Service, communicate with users, process transactions, and for marketing purposes, among other uses.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for which personal information is collected.",
+          "content": "The purposes include providing and improving the Service, communicating with users, processing transactions, and marketing activities."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which personal information is collected, ensuring transparency for users regarding their data.",
+      "reference": "How We Use Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1499411785,
+      "url": "https://www.solmindfulness.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by disabling cookies in their web browsers, although this may affect the functionality of the website. Additionally, users have the right to request deletion of their personal information as outlined in the 'Your Choices' section of the privacy policy.",
+        "simple_answer": "Yes, users can opt out of data collection and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data collection preferences.",
+          "content": "Users can disable cookies in their web browsers to opt out of certain data collection, but this may impact website functionality. They can also request deletion of their personal information."
+        }
+      },
+      "analysis": "The privacy policy provides users with the ability to manage their data collection preferences and request deletion of their personal information, ensuring compliance with privacy regulations.",
+      "reference": "Your Choices"
+    }
+  },
+  {
+    "meta": {
+      "id": 1499411785,
+      "url": "https://www.solmindfulness.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. The privacy policy states that personal information may be shared with third-party sources, including business partners, marketing partners, and publicly-available sources. Additionally, information may be collected by service providers and business partners, including for the purpose of providing measurement services and targeted advertising.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with various third parties for different purposes, including marketing and analytics.",
+          "content": "Personal information may be shared with third-party sources, and information may be collected by service providers and business partners."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines that data sharing with third parties is a part of their operations, which is common in many applications for purposes such as marketing and analytics.",
+      "reference": "How We Share your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1499411785,
+      "url": "https://www.solmindfulness.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third-party service providers and business partners, including Facebook, for purposes such as providing measurement services and targeting ads. Additionally, the app may receive personal information about users from third-party sources, such as business partners, marketing partners, publicly-available sources, and data providers.",
+        "simple_answer": "The app shares data with third-party service providers, business partners, and social media platforms like Facebook.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with various third parties for data sharing and advertising purposes.",
+          "content": "Data may be shared with service providers and business partners for measurement services and targeted advertising. The app may also receive information from third-party sources."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Share your Personal Information"
+    }
+  }
+]

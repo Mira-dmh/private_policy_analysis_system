@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1537989633,
+      "url": "https://learn.mindvue.com/home.aspx?pagename=privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal data is processed when users create an account, interact with customer support, purchase products, and visit the website or app. The policy outlines the types of personal data collected, such as email addresses, names, mailing addresses, and telephone numbers.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy provides detailed information on the types of personal data collected and the purposes for which it is processed.",
+          "content": "The policy states that personal data is processed when creating an account, purchasing products, and interacting with customer support."
+        }
+      },
+      "analysis": "",
+      "reference": "Categories of Personal Data Processed by CD2 Learning"
+    }
+  },
+  {
+    "meta": {
+      "id": 1537989633,
+      "url": "https://learn.mindvue.com/home.aspx?pagename=privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data such as email address, name, mailing address, and telephone number. When creating an account, users are asked to provide their email address and name (which can be a first name or nickname). If a user purchases a product, the app collects their name, mailing address, and telephone number. Additionally, the app may collect information such as IP address, geographic location, browser type, and page views through cookies and similar technologies.",
+        "simple_answer": "The app collects email address, name, mailing address, and telephone number.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of personal data for different purposes.",
+          "content": "When creating an account, users provide their email address and name. For purchases, the app collects name, mailing address, and telephone number. It also collects technical data like IP address and browser information through cookies."
+        }
+      },
+      "analysis": "",
+      "reference": "Categories of Personal Data Processed by CD2 Learning"
+    }
+  },
+  {
+    "meta": {
+      "id": 1537989633,
+      "url": "https://learn.mindvue.com/home.aspx?pagename=privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is processed for various purposes including account security, sending important information about the account, providing marketing information (with consent), and customer support. The legal grounds for processing this data are based on legitimate interests and consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The purposes include account security, sending important account information, marketing (with consent), and customer support."
+        }
+      },
+      "analysis": "",
+      "reference": "Categories of Personal Data Processed by CD2 Learning"
+    }
+  },
+  {
+    "meta": {
+      "id": 1537989633,
+      "url": "https://learn.mindvue.com/home.aspx?pagename=privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by declining cookies and similar technologies through their browser settings. Additionally, users can withdraw their consent for marketing communications at any time by clicking the unsubscribe link in marketing emails. If a parent discovers that their child has a registered account without consent, they can request the deletion of that child's personal information.",
+        "simple_answer": "Yes, users can opt out of data collection and request deletion of data.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data and privacy preferences.",
+          "content": "Users can decline cookies through browser settings and unsubscribe from marketing emails. Parents can request deletion of their child's personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "Cookies and Similar Technologies; Children"
+    }
+  },
+  {
+    "meta": {
+      "id": 1537989633,
+      "url": "https://learn.mindvue.com/home.aspx?pagename=privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. CD2 Learning uses cloud services from third parties, such as Mail Chimp, to assist in sending emails. These services track activities associated with the emails, such as whether they were opened or links were clicked. Additionally, site administrators who are not CD2 employees may be able to view personal information in the course of their activities on the site.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app utilizes third-party services for email communication and may allow site administrators access to personal information.",
+          "content": "CD2 Learning uses cloud services from third parties like Mail Chimp for email assistance, which tracks email engagement. Non-employee site administrators may also access personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "Recipients of Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1537989633,
+      "url": "https://learn.mindvue.com/home.aspx?pagename=privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "CD2 Learning uses cloud services from third parties such as Mail Chimp to assist in sending emails. Those services track the activities associated with these emails, such as whether they were opened, whether links in the emails were clicked on. Additionally, a third party (typically Authorize.Net) processes customer payment card information when CD2 Learning customers use a payment card to make a purchase on a CD2 Learning website.",
+        "simple_answer": "CD2 Learning shares data with third parties like Mail Chimp for email services and Authorize.Net for payment processing.",
+        "extended_simple_answer": {
+          "comment": "These third parties help in managing email communications and processing payments.",
+          "content": "CD2 Learning uses Mail Chimp for email tracking and Authorize.Net for payment processing."
+        }
+      },
+      "analysis": "",
+      "reference": "Categories of Recipients of Personal Data"
+    }
+  }
+]

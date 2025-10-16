@@ -1,0 +1,176 @@
+[
+    {
+        "meta": {
+            "id": 1511247522,
+            "url": "http://dosomethingapp.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "The app does not declare the collection of data as it does not ask for or collect any personally identifying information",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not collect any personally identifying information, indicating a lack of data collection declaration.",
+            "reference": "We do not ask for or collect any personally identifying information. URL: http://dosomethingapp.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "e6ea56a5848e7235573ba9f54d6cc9745aa0b896edba618b798560055d94484a",
+                "score": 0.08137364,
+                "excerpt": "Your privacy is important to us. It is DO SOMETHING EVERY SINGLE DAY PTY LTD's policy to respect your privacy regarding any information we may collect from you through our app, Do Something Every Single Day.\nWe do not ask for or collect any personally identifying information.\nWe do not store any information you enter into the app outside of the app i.e. unlike other apps, your entered information is not stored remotely in the cloud.\nWe do not share any data publicly or with third-parties, except...",
+                "url": "http://dosomethingapp.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1511247522,
+            "url": "http://dosomethingapp.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Aggregated analytics around app usage",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": "Aggregated analytics around app usage"
+                }
+            },
+            "analysis": "The privacy policy mentions that the app collects aggregated analytics around app usage, such as usage frequency, popular features, and time spent on specific screens.",
+            "reference": "We do collect aggregated analytics around app usage, using industry standard app developer tools, to help us know what is working well in the app & what is not, such as how often the app is used, what features are popular, how much time is being spent on specific screens - as the app does not ask for or collect personally identifying information, this information is not tied to the user. URL: http://dosomethingapp.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "e6ea56a5848e7235573ba9f54d6cc9745aa0b896edba618b798560055d94484a",
+                "score": 0.053601142,
+                "excerpt": "Your privacy is important to us. It is DO SOMETHING EVERY SINGLE DAY PTY LTD's policy to respect your privacy regarding any information we may collect from you through our app, Do Something Every Single Day.\nWe do not ask for or collect any personally identifying information.\nWe do not store any information you enter into the app outside of the app i.e. unlike other apps, your entered information is not stored remotely in the cloud.\nWe do not share any data publicly or with third-parties, except...",
+                "url": "http://dosomethingapp.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1511247522,
+            "url": "http://dosomethingapp.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "The app does not ask for or collect any personally identifying information. It collects aggregated analytics around app usage to improve app performance.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects aggregated analytics for app usage but does not collect personally identifying information. Therefore, it declares the purpose of data collection and use.",
+            "reference": "We do not ask for or collect any personally identifying information. We do collect aggregated analytics around app usage, using industry standard app developer tools, to help us know what is working well in the app & what is not. URL: http://dosomethingapp.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "e6ea56a5848e7235573ba9f54d6cc9745aa0b896edba618b798560055d94484a",
+                "score": 0.012241275,
+                "excerpt": "Your privacy is important to us. It is DO SOMETHING EVERY SINGLE DAY PTY LTD's policy to respect your privacy regarding any information we may collect from you through our app, Do Something Every Single Day.\nWe do not ask for or collect any personally identifying information.\nWe do not store any information you enter into the app outside of the app i.e. unlike other apps, your entered information is not stored remotely in the cloud.\nWe do not share any data publicly or with third-parties, except...",
+                "url": "http://dosomethingapp.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1511247522,
+            "url": "http://dosomethingapp.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection as the app does not ask for or collect personally identifying information.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not collect personally identifying information. Therefore, users can opt out of data collection.",
+            "reference": "We do not ask for or collect any personally identifying information. URL: http://dosomethingapp.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "e6ea56a5848e7235573ba9f54d6cc9745aa0b896edba618b798560055d94484a",
+                "score": 0.014392336,
+                "excerpt": "Your privacy is important to us. It is DO SOMETHING EVERY SINGLE DAY PTY LTD's policy to respect your privacy regarding any information we may collect from you through our app, Do Something Every Single Day.\nWe do not ask for or collect any personally identifying information.\nWe do not store any information you enter into the app outside of the app i.e. unlike other apps, your entered information is not stored remotely in the cloud.\nWe do not share any data publicly or with third-parties, except...",
+                "url": "http://dosomethingapp.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1511247522,
+            "url": "http://dosomethingapp.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share any data publicly or with third parties, except when required by law.",
+            "reference": "We do not share any data publicly or with third-parties, except when required to by law. URL: http://dosomethingapp.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "e6ea56a5848e7235573ba9f54d6cc9745aa0b896edba618b798560055d94484a",
+                "score": 0.9535353,
+                "excerpt": "Your privacy is important to us. It is DO SOMETHING EVERY SINGLE DAY PTY LTD's policy to respect your privacy regarding any information we may collect from you through our app, Do Something Every Single Day.\nWe do not ask for or collect any personally identifying information.\nWe do not store any information you enter into the app outside of the app i.e. unlike other apps, your entered information is not stored remotely in the cloud.\nWe do not share any data publicly or with third-parties, except...",
+                "url": "http://dosomethingapp.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1511247522,
+            "url": "http://dosomethingapp.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with any third parties.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share any data publicly or with third parties, except when required by law. Therefore, there are no specific third parties mentioned in the privacy policy.",
+            "reference": "We do not share any data publicly or with third-parties, except when required to by law. URL: http://dosomethingapp.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "e6ea56a5848e7235573ba9f54d6cc9745aa0b896edba618b798560055d94484a",
+                "score": 0.62772304,
+                "excerpt": "Your privacy is important to us. It is DO SOMETHING EVERY SINGLE DAY PTY LTD's policy to respect your privacy regarding any information we may collect from you through our app, Do Something Every Single Day.\nWe do not ask for or collect any personally identifying information.\nWe do not store any information you enter into the app outside of the app i.e. unlike other apps, your entered information is not stored remotely in the cloud.\nWe do not share any data publicly or with third-parties, except...",
+                "url": "http://dosomethingapp.com/privacy.html"
+            }
+        ]
+    }
+]

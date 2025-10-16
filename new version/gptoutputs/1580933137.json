@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1580933137,
+      "url": "https://www.onvy.health/privacy-app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal data when using the mobile app, specifying that personal data is any data that can be related to a specific natural person, such as their name or IP address.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of personal data collected and the purposes for which it is processed.",
+          "content": "In the introduction, it is mentioned that the policy provides information about the collection of personal data when using the app."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the collection of personal data, ensuring transparency for users regarding what data is collected and how it is used.",
+      "reference": "Section 1. Introduction"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580933137,
+      "url": "https://www.onvy.health/privacy-app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data such as user name, e-mail address, customer number of the account, time of download, payment information, and individual device identification number when users download the app from the stores. Additionally, it may collect health data based on the express consent of the data subject, particularly from fitness trackers and health apps.",
+        "simple_answer": "The app collects user name, e-mail address, customer number, time of download, payment information, device identification number, and potentially health data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of personal data necessary for its functionality and user interaction.",
+          "content": "The types of data collected include user name, e-mail address, customer number, time of download, payment information, device identification number, and health data with consent."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.2 and Section 2.1 of the privacy policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 1580933137,
+      "url": "https://www.onvy.health/privacy-app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is collected for various processing purposes, including obtaining user consent, fulfilling contracts, complying with legal obligations, and pursuing legitimate interests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the legal bases for data processing and the purposes for which personal data is collected.",
+          "content": "The purposes include obtaining consent, fulfilling contracts, legal obligations, and legitimate interests."
+        }
+      },
+      "analysis": "",
+      "reference": "1.2. Scope of data processing, processing purposes and legal bases"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580933137,
+      "url": "https://www.onvy.health/privacy-app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to revoke a given consent at any time, which allows them to opt out of data collection. Additionally, users have the right to request the correction or deletion of their personal data.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users can exercise their rights regarding their personal data as outlined in the privacy policy.",
+          "content": "Data subjects have the right to revoke a given consent at any time and the right to correction or deletion of their personal data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users can revoke consent and request deletion of their data, ensuring compliance with GDPR rights.",
+      "reference": "1.5. Rights of data subjects"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580933137,
+      "url": "https://www.onvy.health/privacy-app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties, particularly when transferring data to service providers or other third parties outside the EEA. The security of the data during transfer is guaranteed by adequacy decisions of the EU Commission or standard contractual clauses, depending on the circumstances.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Data may be shared with service providers outside the EEA, and security measures are in place for such transfers.",
+          "content": "Insofar as we transfer data to service providers or other third parties outside the EEA, the security of the data during the transfer is guaranteed by adequacy decisions of the EU Commission, or standard contractual clauses."
+        }
+      },
+      "analysis": "",
+      "reference": "1.3. Data processing outside the EEA"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580933137,
+      "url": "https://www.onvy.health/privacy-app",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify the exact third parties with whom the app shares data. However, it mentions that data may be transferred to service providers or other third parties outside the EEA, and that the legal basis for such transfers includes adequacy decisions of the EU Commission or standard contractual clauses. It also states that many providers have given contractual guarantees to protect the data.",
+        "simple_answer": "The app may share data with service providers or third parties outside the EEA, but specific names are not provided.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared with various service providers, particularly those outside the EEA, but does not list them specifically.",
+          "content": "Data may be shared with service providers or third parties outside the EEA, with legal bases for transfer including adequacy decisions or standard contractual clauses."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.3 - Data processing outside the EEA"
+    }
+  }
+]

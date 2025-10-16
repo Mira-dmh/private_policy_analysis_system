@@ -1,0 +1,336 @@
+[
+    {
+        "meta": {
+            "id": 1503638078,
+            "url": "https://ayadihealth.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various types of data, as detailed in the information collection section.",
+            "reference": "We collect information from and about users of our Website..., Automatic Information Collection and Tracking, URL: https://ayadihealth.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ba150245866c0fc60a9b18dd00cdec731febdeb799b0b20d50e36f42cafa22ea",
+                "score": 0.0018102111,
+                "excerpt": "collect certain details of your access to and use of the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the Website.\n- Device Information. We may collect information about your mobile device and internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number.\n- Stored Information and Files. For ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "df3d24c0ebdb2e81c10c78445010a03fe36b50145585fca785cd57b455905ca9",
+                "score": 0.0016743992,
+                "excerpt": "Privacy Policy\nLast modified: April 23, 2023\nIntroduction\nAYADI FZ LLC (“Company” or “We“) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes:\n- The types of information we may collect or that you may provide when you purchase, download, install, register with, access, or use the Ayadi Website (the “Website“).\n- Our practices for collecting, using, maintaining, protecting, and disclosing that information.\nThis policy applies onl...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "e590b70882c50f0dbd332bb17ea04b057374c9d8cde01ca864571ae3c8d88ac7",
+                "score": 0.0011604197,
+                "excerpt": "You may be required to provide financial information before placing an order through the Website.\n- Your search queries on the Website including filters, usage behavior, favorites, etc.\n- As well as– chat text.\nYou may also provide information for publication or display (“Posted“) on public areas of websites you access through the Website (collectively, “User Contributions“). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy setti...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "b948ec08e08145f622ef08838bbe522d5853a717ed6bab493c4a8cd1f04c5fa0",
+                "score": 0.00094730896,
+                "excerpt": "regarding your information and how we will treat it. If you do not agree with our policies and practices, do not download, register with, or use this Website. By downloading, registering with, or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we revise this policy means you accept those changes, so please check the policy periodically for updates.\nChildren Under the Age o...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "c8b3cadda64352eaead25a388583324285ab8fa0caa2eb6d1ce9a1ff5bd06f84",
+                "score": 0.0008360903,
+                "excerpt": "provide it.\n- Give you notices about your account, including expiration and renewal notices.\n- Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.\n- Notify you when Website updates are available, and of changes to any products or services we offer or provide though it.\n- Use the information provided to send over relevant marketing content / material.\nThe usage information we collect helps us to improve...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1503638078,
+            "url": "https://ayadihealth.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects traffic data, location data, logs, communication data, device information (unique device identifier, IP address, operating system, browser type, mobile network information, telephone number), stored information and files (metadata, photographs, audio and video clips, personal contacts, address book info), and may access search queries, favorites, chat text, and other user contributions.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Traffic data",
+                        "Location data",
+                        "Logs",
+                        "Communication data",
+                        "Device information (unique device identifier, IP address, operating system, browser type, mobile network information, telephone number)",
+                        "Stored information and files (metadata, photographs, audio and video clips, personal contacts, address book information)",
+                        "Search queries",
+                        "Chat text",
+                        "User contributions"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions various types of data that the app may collect, ranging from traffic data to user contributions. This data is collected for purposes outlined in the policy.",
+            "reference": "The app collects traffic data, location data, logs, communication data, device information (unique device identifier, IP address, operating system, browser type, mobile network information, telephone number), stored information and files (metadata, photographs, audio and video clips, personal contacts, address book info), and may access search queries, favorites, chat text, and other user contributions. URL: https://ayadihealth.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ba150245866c0fc60a9b18dd00cdec731febdeb799b0b20d50e36f42cafa22ea",
+                "score": 0.059646938,
+                "excerpt": "collect certain details of your access to and use of the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the Website.\n- Device Information. We may collect information about your mobile device and internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number.\n- Stored Information and Files. For ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "06cb7a9aafec71e576f1019bfb1b62c7ba91debd6f8609d5da0cd3b088aab8eb",
+                "score": 0.02433019,
+                "excerpt": "information will cause its location-based features to be disabled.\nInformation Collection and Tracking Technologies\nThe technologies we use for automatic information collection may include:\n- Cookies (or mobile cookies). A cookie is a small file placed on your smartphone. It may be possible to refuse to accept mobile cookies by activating the website setting on your device. However, if you select this setting you may be unable to access certain parts of our Website.\n- Web Beacons. Pages of the W...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "df3d24c0ebdb2e81c10c78445010a03fe36b50145585fca785cd57b455905ca9",
+                "score": 0.019345105,
+                "excerpt": "Privacy Policy\nLast modified: April 23, 2023\nIntroduction\nAYADI FZ LLC (“Company” or “We“) respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes:\n- The types of information we may collect or that you may provide when you purchase, download, install, register with, access, or use the Ayadi Website (the “Website“).\n- Our practices for collecting, using, maintaining, protecting, and disclosing that information.\nThis policy applies onl...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "7105a594fd95680cca9e50c3a3271e93adecb7c1fce6b0deb6d175749552c3dc",
+                "score": 0.019087434,
+                "excerpt": "Advertisers, ad networks, and ad servers.\n- Analytics companies.\n- Your mobile device manufacturer.\n- Your mobile service provider.\n- VOIP and video service providers\nThese third parties may use tracking technologies to collect information about you when you use this website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, websites, ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "e590b70882c50f0dbd332bb17ea04b057374c9d8cde01ca864571ae3c8d88ac7",
+                "score": 0.015247591,
+                "excerpt": "You may be required to provide financial information before placing an order through the Website.\n- Your search queries on the Website including filters, usage behavior, favorites, etc.\n- As well as– chat text.\nYou may also provide information for publication or display (“Posted“) on public areas of websites you access through the Website (collectively, “User Contributions“). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy setti...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1503638078,
+            "url": "https://ayadihealth.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions that the app declares the purpose of data collection and use in various contexts, including automatic information collection, choices about data submission, and disclosure of collected information.",
+            "reference": "The privacy policy mentions the purposes for data collection, use, and disclosure in several sections, including 'Automatic Information Collection and Tracking', 'Disclosure of Your Information', and 'Your Choices About Our Collection, Use, and Disclosure of Your Information'. URL: https://ayadihealth.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e590b70882c50f0dbd332bb17ea04b057374c9d8cde01ca864571ae3c8d88ac7",
+                "score": 0.01802074,
+                "excerpt": "You may be required to provide financial information before placing an order through the Website.\n- Your search queries on the Website including filters, usage behavior, favorites, etc.\n- As well as– chat text.\nYou may also provide information for publication or display (“Posted“) on public areas of websites you access through the Website (collectively, “User Contributions“). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy setti...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "e3406650ed0380376e7c611822868777a749dec8a9bd4767a0561ebc40c18dd9",
+                "score": 0.010570489,
+                "excerpt": "your consent.\n- To comply with any court order, law, or legal process, including to respond to any government or regulatory request.\n- To enforce our rights arising from any contracts entered into between you and us, including the Website EULA, and for billing and collection.\n- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Ayadi, our customers or others. This includes exchanging information with other companies and organizations for the purpos...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "c8b3cadda64352eaead25a388583324285ab8fa0caa2eb6d1ce9a1ff5bd06f84",
+                "score": 0.007876706,
+                "excerpt": "provide it.\n- Give you notices about your account, including expiration and renewal notices.\n- Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.\n- Notify you when Website updates are available, and of changes to any products or services we offer or provide though it.\n- Use the information provided to send over relevant marketing content / material.\nThe usage information we collect helps us to improve...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "ba150245866c0fc60a9b18dd00cdec731febdeb799b0b20d50e36f42cafa22ea",
+                "score": 0.00685048,
+                "excerpt": "collect certain details of your access to and use of the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the Website.\n- Device Information. We may collect information about your mobile device and internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number.\n- Stored Information and Files. For ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "f35e36d0d613c448777cc984282c4c905a62f1021b7f1a725fe279f5d87b4753",
+                "score": 0.0047000605,
+                "excerpt": "other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.\n- To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Ayadi’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information h...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1503638078,
+            "url": "https://ayadihealth.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the option to opt out of data collection or delete their data by adjusting user preferences in their account profile or by submitting a detailed request via the contact us page.",
+            "reference": "If you do not want us to use your email address to promote our own or third parties’ products or services, you can opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. Upon your request, we shall delete your personal information which will also require deleting your user account. For data deletion requests, please submit a detailed request using the contact us page. URL: https://ayadihealth.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9fb87f9c8175464c8d482cf810a1457879896ab001c78cc539103026f2bdb16d",
+                "score": 0.896614,
+                "excerpt": "be inaccessible or not function properly.\n- Promotion by the Company. If you do not want us to use your email address to promote our own or third parties’ products or services, you can opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes.\n- Targeted Advertising by the Company. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertis...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "ba150245866c0fc60a9b18dd00cdec731febdeb799b0b20d50e36f42cafa22ea",
+                "score": 0.33862367,
+                "excerpt": "collect certain details of your access to and use of the Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the Website.\n- Device Information. We may collect information about your mobile device and internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number.\n- Stored Information and Files. For ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "e3406650ed0380376e7c611822868777a749dec8a9bd4767a0561ebc40c18dd9",
+                "score": 0.07613248,
+                "excerpt": "your consent.\n- To comply with any court order, law, or legal process, including to respond to any government or regulatory request.\n- To enforce our rights arising from any contracts entered into between you and us, including the Website EULA, and for billing and collection.\n- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Ayadi, our customers or others. This includes exchanging information with other companies and organizations for the purpos...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "fc549cc5b2caaa109b6da2ebf2a75fe96f30e7a84212bc96b1ac0acbc9cb4296",
+                "score": 0.06430005,
+                "excerpt": "review and change your personal information by logging into the Website and visiting your account profile page.\nUpon your request, we shall delete your personal information which will also require deleting your user account. For data deletion requests, please submit a detailed request using the contact us page. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.\nIf you delete your Use...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "b948ec08e08145f622ef08838bbe522d5853a717ed6bab493c4a8cd1f04c5fa0",
+                "score": 0.034164816,
+                "excerpt": "regarding your information and how we will treat it. If you do not agree with our policies and practices, do not download, register with, or use this Website. By downloading, registering with, or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we revise this policy means you accept those changes, so please check the policy periodically for updates.\nChildren Under the Age o...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1503638078,
+            "url": "https://ayadihealth.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes as specified in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that data is shared with various third parties for different purposes, indicating that the app shares data with third parties.",
+            "reference": "To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Ayadi’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by Ayadi about our Website users is among the assets transferred.URL: https://ayadihealth.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "f35e36d0d613c448777cc984282c4c905a62f1021b7f1a725fe279f5d87b4753",
+                "score": 0.17967445,
+                "excerpt": "other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.\n- To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Ayadi’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information h...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "7105a594fd95680cca9e50c3a3271e93adecb7c1fce6b0deb6d175749552c3dc",
+                "score": 0.062103126,
+                "excerpt": "Advertisers, ad networks, and ad servers.\n- Analytics companies.\n- Your mobile device manufacturer.\n- Your mobile service provider.\n- VOIP and video service providers\nThese third parties may use tracking technologies to collect information about you when you use this website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, websites, ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "c8b3cadda64352eaead25a388583324285ab8fa0caa2eb6d1ce9a1ff5bd06f84",
+                "score": 0.060307644,
+                "excerpt": "provide it.\n- Give you notices about your account, including expiration and renewal notices.\n- Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.\n- Notify you when Website updates are available, and of changes to any products or services we offer or provide though it.\n- Use the information provided to send over relevant marketing content / material.\nThe usage information we collect helps us to improve...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "06cb7a9aafec71e576f1019bfb1b62c7ba91debd6f8609d5da0cd3b088aab8eb",
+                "score": 0.03904829,
+                "excerpt": "information will cause its location-based features to be disabled.\nInformation Collection and Tracking Technologies\nThe technologies we use for automatic information collection may include:\n- Cookies (or mobile cookies). A cookie is a small file placed on your smartphone. It may be possible to refuse to accept mobile cookies by activating the website setting on your device. However, if you select this setting you may be unable to access certain parts of our Website.\n- Web Beacons. Pages of the W...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "e590b70882c50f0dbd332bb17ea04b057374c9d8cde01ca864571ae3c8d88ac7",
+                "score": 0.037326887,
+                "excerpt": "You may be required to provide financial information before placing an order through the Website.\n- Your search queries on the Website including filters, usage behavior, favorites, etc.\n- As well as– chat text.\nYou may also provide information for publication or display (“Posted“) on public areas of websites you access through the Website (collectively, “User Contributions“). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy setti...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1503638078,
+            "url": "https://ayadihealth.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with advertisers, ad networks, ad servers, analytics companies, mobile device manufacturers, mobile service providers, and VOIP and video service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Advertisers, ad networks, and ad servers",
+                        "Analytics companies",
+                        "Mobile device manufacturers",
+                        "Mobile service providers",
+                        "VOIP and video service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states the various third parties with which the app shares data.",
+            "reference": "Advertisers, ad networks, and ad servers\nAnalytics companies\nYour mobile device manufacturer\nYour mobile service provider\nVOIP and video service providers\nURL: https://ayadihealth.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "f35e36d0d613c448777cc984282c4c905a62f1021b7f1a725fe279f5d87b4753",
+                "score": 0.6791787,
+                "excerpt": "other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.\n- To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Ayadi’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information h...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "7105a594fd95680cca9e50c3a3271e93adecb7c1fce6b0deb6d175749552c3dc",
+                "score": 0.34942174,
+                "excerpt": "Advertisers, ad networks, and ad servers.\n- Analytics companies.\n- Your mobile device manufacturer.\n- Your mobile service provider.\n- VOIP and video service providers\nThese third parties may use tracking technologies to collect information about you when you use this website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, websites, ...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "c8b3cadda64352eaead25a388583324285ab8fa0caa2eb6d1ce9a1ff5bd06f84",
+                "score": 0.26999876,
+                "excerpt": "provide it.\n- Give you notices about your account, including expiration and renewal notices.\n- Carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.\n- Notify you when Website updates are available, and of changes to any products or services we offer or provide though it.\n- Use the information provided to send over relevant marketing content / material.\nThe usage information we collect helps us to improve...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "06cb7a9aafec71e576f1019bfb1b62c7ba91debd6f8609d5da0cd3b088aab8eb",
+                "score": 0.107812636,
+                "excerpt": "information will cause its location-based features to be disabled.\nInformation Collection and Tracking Technologies\nThe technologies we use for automatic information collection may include:\n- Cookies (or mobile cookies). A cookie is a small file placed on your smartphone. It may be possible to refuse to accept mobile cookies by activating the website setting on your device. However, if you select this setting you may be unable to access certain parts of our Website.\n- Web Beacons. Pages of the W...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            },
+            {
+                "id": "e3406650ed0380376e7c611822868777a749dec8a9bd4767a0561ebc40c18dd9",
+                "score": 0.045183755,
+                "excerpt": "your consent.\n- To comply with any court order, law, or legal process, including to respond to any government or regulatory request.\n- To enforce our rights arising from any contracts entered into between you and us, including the Website EULA, and for billing and collection.\n- If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Ayadi, our customers or others. This includes exchanging information with other companies and organizations for the purpos...",
+                "url": "https://ayadihealth.co/privacy-policy/"
+            }
+        ]
+    }
+]

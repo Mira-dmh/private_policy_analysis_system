@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1453180679,
+      "url": "https://lettheinsideout.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It informs users about the personal details collected when they register with InsideOut, including account data, contact data, health data, preferences data, and technical data. Users are also informed that their consent is required for certain data sharing and that they can control data collection through their mobile device settings.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app provides transparency regarding the types of data collected and the necessity of user consent.",
+          "content": "When you register with InsideOut, you, or your employer, give us some personal details. This is so we can provide you with the services that you need or ask for. We will inform you about our data collection by referring to this Privacy Policy and we will ask for your consent to share data where necessary."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and emphasizes the importance of user consent, ensuring transparency in data handling practices.",
+      "reference": "What Data Do We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1453180679,
+      "url": "https://lettheinsideout.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of personal details, including: Account Data (login and account information), Contact Data (name, office details, role, work email, and emergency contact details), Health Data (mental health information, counsellor observations, video session details, messaging chat details, and safeguarding status), Preferences Data (marketing and cookie preferences), and Technical Data (device IDs, call state, network access, storage information, battery information, cookies, IP addresses, referrer headers, and web beacons).",
+        "simple_answer": "The app collects Account Data, Contact Data, Health Data, Preferences Data, and Technical Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to provide its services and ensure user safety.",
+          "content": "Account Data, Contact Data, Health Data, Preferences Data, Technical Data."
+        }
+      },
+      "analysis": "",
+      "reference": "What Data Do We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1453180679,
+      "url": "https://lettheinsideout.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is collected to provide the service users want and expect, to keep users and others safe, and to maintain and improve services. The legal grounds for these purposes include the performance of the arrangement with users, vital interests, and legitimate business interests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific reasons for data collection, ensuring transparency about how user data is utilized.",
+          "content": "The purposes include providing the app services, ensuring safety, and improving services."
+        }
+      },
+      "analysis": "The privacy policy clearly articulates the reasons for data collection, which enhances user trust and compliance with data protection regulations.",
+      "reference": "Section: Why Do We Collect Your Personal Details?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1453180679,
+      "url": "https://lettheinsideout.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not providing certain personal details, such as Health Data, which is collected through a questionnaire. Additionally, users can withdraw their consent at any time, but doing so may prevent them from booking further sessions with a counsellor. Users can also request to update or delete their Health Data by contacting the company.",
+        "simple_answer": "Yes, users can opt out and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can choose not to share certain information.",
+          "content": "Users can opt out of providing Health Data by not completing the questionnaire. They can withdraw consent at any time, but this may limit their access to services. Users can also request updates or deletion of their Health Data via email."
+        }
+      },
+      "analysis": "The policy provides users with options to manage their data, including opting out of certain data collections and the ability to request deletion.",
+      "reference": "What Data Do We Collect?; Using Your Health Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1453180679,
+      "url": "https://lettheinsideout.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app may share data with third parties in specific circumstances. Health Data, which is considered special category personal data, is only shared with third parties such as emergency services when the counsellor believes that the user's life is at risk or if the user poses a risk to themselves or others. Additionally, the app may share Technical Data with professional advisors for business purposes, but it will never share any medical information for this purpose. The app does not share Health Data with employers, except in the case of missed sessions.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions, primarily for safety reasons and business purposes.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and primarily focused on user safety and business operations.",
+          "content": "Health Data is shared with emergency services if there is a risk to life. Technical Data may be shared with professional advisors, but medical information is not shared for business purposes. Health Data is never shared with employers, except for missed sessions."
+        }
+      },
+      "analysis": "The app has strict guidelines on data sharing, focusing on user safety and confidentiality. It ensures that sensitive Health Data is only shared when absolutely necessary and with explicit consent.",
+      "reference": "Section: Using Your Health Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1453180679,
+      "url": "https://lettheinsideout.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with emergency services if the counsellor believes that the user's life is in danger or if the user is at risk from someone else or is a risk to someone else. This sharing is done only with the user's explicit consent or when it is deemed necessary for the user's vital interests.",
+        "simple_answer": "The app shares data with emergency services.",
+        "extended_simple_answer": {
+          "comment": "Data is shared only in critical situations and with user consent.",
+          "content": "The app may share data with emergency services if the counsellor believes the user's life is at risk or if the user poses a risk to themselves or others. This is done only with explicit consent or when necessary for the user's vital interests."
+        }
+      },
+      "analysis": "The app prioritizes user consent and safety when sharing data with third parties, specifically emergency services in critical situations.",
+      "reference": "Section: Using Your Health Data"
+    }
+  }
+]

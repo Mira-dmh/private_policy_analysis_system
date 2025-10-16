@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6504493957,
+      "url": "https://app.thevillagefs.org/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal information and personal health information are collected from both health care providers and patients. For health care providers, it collects name, business contact information, specialization, and college registration number (if applicable). For patients, it collects name (or initials), email, date and time of the appointment, written instructions from the provider, files attached during or after the appointment, and results of interactive forms and assessments.",
+        "simple_answer": "Yes, the app declares the collection of data from health care providers and patients.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the types of data it collects from users.",
+          "content": "From health care providers, it collects name, business contact information, specialization, and college registration number. From patients, it collects name (or initials), email, appointment details, notes, attached files, and assessment results."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, ensuring users are informed about what personal and health information is being gathered.",
+      "reference": "Section: What we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504493957,
+      "url": "https://app.thevillagefs.org/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: From health care providers, it collects name, business contact information, specialization, and college registration number (if applicable). From patients, it collects name (or initials) and email of the patient, date and time of the appointment, any written instructions by the provider added to the 'notes for patient' after the appointment, files attached by the provider or patient during or after the appointment, and in some cases, results of interactive forms and assessments that are assigned and completed through the system.",
+        "simple_answer": "The app collects personal information from health care providers and patients, including names, contact information, appointment details, and attached files.",
+        "extended_simple_answer": {
+          "comment": "The data collected is essential for providing health care services through the app.",
+          "content": "From health care providers: name, business contact information, specialization, college registration number. From patients: name (or initials), email, appointment date and time, notes from the provider, attached files, and results of assessments."
+        }
+      },
+      "analysis": "",
+      "reference": "What we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504493957,
+      "url": "https://app.thevillagefs.org/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it will never use personal or personal health information for other purposes than why it is provided with consent and necessary to deliver service.",
+        "simple_answer": "Yes, it declares the purpose.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that data is collected for the purpose of providing health care services.",
+          "content": "OnCall Health will never use personal or personal health information for other purposes than why it is provided with consent and necessary to deliver service."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purpose of data collection, emphasizing that it is limited to what is necessary for providing services and requires user consent.",
+      "reference": "How we use it"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504493957,
+      "url": "https://app.thevillagefs.org/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, OnCall Health allows users to close their accounts immediately upon request and destroys or anonymizes all personal information.",
+        "simple_answer": "Yes, users can delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to delete their personal information by closing their accounts.",
+          "content": "OnCall Health closes accounts immediately upon request and destroys or anonymizes all personal information."
+        }
+      },
+      "analysis": "The policy clearly states that users can request to close their accounts, which results in the deletion of their personal information.",
+      "reference": "How we protect it"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504493957,
+      "url": "https://app.thevillagefs.org/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that OnCall Health shares personal or personal health information with third parties. It emphasizes that OnCall Health will never collect, use, or disclose personal or personal health information without the consent of the individual it relates to.",
+        "simple_answer": "No, the app does not share data with third parties without consent.",
+        "extended_simple_answer": {
+          "comment": "The policy highlights the importance of user consent in handling personal information.",
+          "content": "OnCall Health will never collect, use or disclose personal or personal health information without consent of the individual it relates to."
+        }
+      },
+      "analysis": "The privacy policy focuses on user consent and does not mention any third-party data sharing, indicating a strong commitment to user privacy.",
+      "reference": "Our commitment"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504493957,
+      "url": "https://app.thevillagefs.org/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any third parties with whom the app shares data. It emphasizes that OnCall Health will never collect, use, or disclose personal or personal health information without the consent of the individual it relates to.",
+        "simple_answer": "The app does not share data with any third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy highlights the importance of user consent before any data sharing.",
+          "content": "OnCall Health will never collect, use or disclose personal or personal health information without consent of the individual it relates to."
+        }
+      },
+      "analysis": "The privacy policy clearly states that data sharing with third parties is contingent upon user consent, and it does not mention any specific third parties.",
+      "reference": "Our commitment"
+    }
+  }
+]

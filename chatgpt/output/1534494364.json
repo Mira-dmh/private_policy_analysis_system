@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1534494364,
+      "url": "https://moss.tools/apps/anzan/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that if you choose to use the Service, you agree to the collection and use of information in relation to the privacy policy. The Personal Information collected is used for providing and improving the Service.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the collection of personal information for service improvement.",
+          "content": "The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534494364,
+      "url": "https://moss.tools/apps/anzan/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects certain personally identifiable information, which may include data such as your device Internet Protocol (IP) address, device name, operating system version, the configuration of the application when utilizing the Service, the time and date of your use of the Service, and other statistics. Additionally, it may collect Log Data in case of an error in the application.",
+        "simple_answer": "The app collects personally identifiable information and Log Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to improve the service and for error handling.",
+          "content": "The collected data includes your device IP address, device name, operating system version, application configuration, usage time and date, and other statistics."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use, Log Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534494364,
+      "url": "https://moss.tools/apps/anzan/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the Personal Information collected is used for providing and improving the Service. It specifies that the information will not be used or shared with anyone except as described in the Privacy Policy.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app clearly states its intentions regarding data collection.",
+          "content": "The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534494364,
+      "url": "https://moss.tools/apps/anzan/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users have the option to refuse cookies, which may limit data collection by third-party services. Additionally, users can contact the service for questions or suggestions regarding their privacy.",
+        "simple_answer": "Users can refuse cookies but the policy does not explicitly mention opting out of data collection or deleting data.",
+        "extended_simple_answer": {
+          "comment": "While users can refuse cookies, the policy lacks clear instructions on opting out of data collection or deleting personal data.",
+          "content": "The policy states that users can refuse cookies, which may limit data collection by third-party services. However, it does not provide a clear mechanism for opting out of data collection or deleting personal data."
+        }
+      },
+      "analysis": "The privacy policy provides limited options for users regarding data collection and deletion, focusing more on cookie management.",
+      "reference": "Information Collection and Use, Cookies"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534494364,
+      "url": "https://moss.tools/apps/anzan/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third-party companies and individuals to facilitate the Service, provide the Service on our behalf, perform Service-related services, or assist in analyzing how the Service is used. These third parties have access to your Personal Information but are obligated not to disclose or use it for any other purpose.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app partners with third-party services for various operational purposes.",
+          "content": "These third parties may access your Personal Information to perform tasks on behalf of the app, but they are required to keep that information confidential."
+        }
+      },
+      "analysis": "",
+      "reference": "Service Providers"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534494364,
+      "url": "https://moss.tools/apps/anzan/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third-party companies and individuals to facilitate the Service, provide the Service on our behalf, perform Service-related services, or assist in analyzing how the Service is used. However, these third parties are obligated not to disclose or use the information for any other purpose.",
+        "simple_answer": "The app shares data with third-party companies and individuals for service-related purposes.",
+        "extended_simple_answer": {
+          "comment": "The app partners with third parties for various service-related tasks.",
+          "content": "These third parties have access to your Personal Information to perform tasks assigned to them on our behalf, but they cannot disclose or use the information for any other purpose."
+        }
+      },
+      "analysis": "",
+      "reference": "Service Providers"
+    }
+  }
+]

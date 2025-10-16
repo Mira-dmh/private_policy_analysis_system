@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 6454837552,
+            "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that Personal Information may be collected and used for specific purposes, and it describes different scenarios where data processing is allowed.",
+            "reference": "In order to make the Mobile Application and Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. URL: https://mymind2.goodbarber.app/docs/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "c3f0426a09026471d2f635f43bfbec9ff9ca11912388657cc54872cffff3bdbc",
+                "score": 0.05350215,
+                "excerpt": "not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:\nProcessing your Personal Information depends on how you interact with the Mobile Application and Services, where you are located in the world and if one of the following applies: (i) you have given your consent for one or more specific purposes; this, however, does not apply, whenever the processing of Personal Information is subject to European d...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "4bf9dd78bb94f67bf248055bf0b95da2be7b54bebbc637018b373146b64bcaee",
+                "score": 0.05127242,
+                "excerpt": "collected.\nYou acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Mobile Application and Services and submitting your information you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Mobile Application and Services.\nIf you have any questions regarding the information we may hold about you or if you wish to exercise your rights, you may use the follo...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "5292319750e147f427671a44878182d247713d7f26dcaad53253bc54cd364da5",
+                "score": 0.048496,
+                "excerpt": "as defined in the GDPR upon which we collect and process your Personal Information:\nNote that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases above. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a require...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "a1c109c8dad53daaabb82a19e27a5e16ff50dbb15766bf1abeb546b3ea5aa9a4",
+                "score": 0.03825006,
+                "excerpt": "Information. We act in the capacity of a data controller when we ask you to submit your Personal Information that is necessary to ensure your access and use of the Mobile Application and Services. In such instances, we are a data controller because we determine the purposes and means of the processing of Personal Information and we comply with data controllers’ obligations set forth in the GDPR.\nWe act in the capacity of a data processor in situations when you submit Personal Information through...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "cfa27636e43cfc66fb9b389d745cbb6188c25568c926fb865f8317438546e16b",
+                "score": 0.035880696,
+                "excerpt": "adjust your device settings accordingly.\nThe Mobile Application and Services contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave the Mobile Application and Services and to read the privacy statements of each and every resource that may collect Personal Information.\nWe secure information you provide on computer servers in ...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6454837552,
+            "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personal Information such as demographic information (age and gender), device information (IP addresses), location information (city and state), and online behavioral data (social media website usage, page views, search results, and links).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Demographic information (age and gender)",
+                        "Device information (IP addresses)",
+                        "Location information (city and state)",
+                        "Online behavioral data (social media website usage, page views, search results, links)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section of the privacy policy that mentions the collection of Personal Information from various sources including demographic, device, location, and online behavioral data.",
+            "reference": "Personal Information we collect from other sources may include demographic information, such as age and gender, device information, such as IP addresses, location, such as city and state, and online behavioral data, such as information about your use of social media websites, page view information and search results and links. URL: https://mymind2.goodbarber.app/docs/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "288edde786cd0f1e5e02bf4fb0d3c2d407ba9ad583d30f891da3e9f38c639f9d",
+                "score": 0.20497774,
+                "excerpt": "the following:\nSome of the information we collect is directly from you via the Mobile Application and Services. However, we may also collect Personal Information about you from other sources such as public databases, social media platforms, third-party data providers, and our joint marketing partners. Personal Information we collect from other sources may include demographic information, such as age and gender, device information, such as IP addresses, location, such as city and state, and onlin...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "0497cbabfb1200d2b6359b560566575c93c0c7d61ed05dc294a501e5e89489ae",
+                "score": 0.0992954,
+                "excerpt": "We respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) in the “MyMind” mobile application (“Mobile Application” or “Service”) and any of its related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and disclosing that Personal Information. It also d...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "c3f0426a09026471d2f635f43bfbec9ff9ca11912388657cc54872cffff3bdbc",
+                "score": 0.06705629,
+                "excerpt": "not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:\nProcessing your Personal Information depends on how you interact with the Mobile Application and Services, where you are located in the world and if one of the following applies: (i) you have given your consent for one or more specific purposes; this, however, does not apply, whenever the processing of Personal Information is subject to European d...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "5292319750e147f427671a44878182d247713d7f26dcaad53253bc54cd364da5",
+                "score": 0.064771704,
+                "excerpt": "as defined in the GDPR upon which we collect and process your Personal Information:\nNote that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases above. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a require...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "4bf9dd78bb94f67bf248055bf0b95da2be7b54bebbc637018b373146b64bcaee",
+                "score": 0.045606945,
+                "excerpt": "collected.\nYou acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Mobile Application and Services and submitting your information you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to access or use the Mobile Application and Services.\nIf you have any questions regarding the information we may hold about you or if you wish to exercise your rights, you may use the follo...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6454837552,
+            "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the information collected may be used for specific purposes, indicating a declaration of the purposes of data collection and use.",
+            "reference": "Any of the information we collect from you may be used for the following purposes: Processing your Personal Information depends on how you interact with the Mobile Application and Services...URL: https://mymind2.goodbarber.app/docs/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "c3f0426a09026471d2f635f43bfbec9ff9ca11912388657cc54872cffff3bdbc",
+                "score": 0.3357863,
+                "excerpt": "not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:\nProcessing your Personal Information depends on how you interact with the Mobile Application and Services, where you are located in the world and if one of the following applies: (i) you have given your consent for one or more specific purposes; this, however, does not apply, whenever the processing of Personal Information is subject to European d...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "a1c109c8dad53daaabb82a19e27a5e16ff50dbb15766bf1abeb546b3ea5aa9a4",
+                "score": 0.21436232,
+                "excerpt": "Information. We act in the capacity of a data controller when we ask you to submit your Personal Information that is necessary to ensure your access and use of the Mobile Application and Services. In such instances, we are a data controller because we determine the purposes and means of the processing of Personal Information and we comply with data controllers’ obligations set forth in the GDPR.\nWe act in the capacity of a data processor in situations when you submit Personal Information through...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "6b9b0975ca7609084483281708edbe4fbdfe6315027c96e892855508906c19d2",
+                "score": 0.051082738,
+                "excerpt": "SSL secured communication channel and is encrypted and protected with digital signatures, and the Mobile Application and Services are also in compliance with strict vulnerability standards in order to create as secure of an environment as possible for Users. We will share payment data with the Payment Processors only to the extent necessary for the purposes of processing your payments, refunding such payments, and dealing with complaints and queries related to such payments and refunds.\nPlease n...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "5292319750e147f427671a44878182d247713d7f26dcaad53253bc54cd364da5",
+                "score": 0.017442485,
+                "excerpt": "as defined in the GDPR upon which we collect and process your Personal Information:\nNote that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases above. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a require...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "d23aa0cbfa5b0eb3b4cb5f02e143bd10e0909476c95df35a5248cb1d2e4b9e6b",
+                "score": 0.011288074,
+                "excerpt": "and Services. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through the Mobile Application and Services, please contact us to request that we delete that child’s Personal Information from our Services.\nWe encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through the Mobile Application and Services without their...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6454837552,
+            "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have certain data protection rights, including the right to correct, amend, delete, or limit the use of their Personal Information. Users can also withdraw consent for processing their data and request the erasure of their Personal Information.",
+            "reference": "If you are a resident of the European Economic Area ('EEA'), you have certain data protection rights and we aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us. URL: https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "URL": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "a30bb0c4e84cb76f3e985aaf297bc4713caa945bafc753a3ec40874872e2bdff",
+                "score": 0.2963487,
+                "excerpt": "be enforced after the expiration of the retention period.\nDepending on your location, data transfers may involve transferring and storing your information in a country other than your own. However, this will not include countries outside the European Union and European Economic Area. If any such transfer takes place, you can find out more by checking the relevant sections of this Policy or inquire with us using the information provided in the contact section.\nIf you are a resident of the Europea...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "10382d433fdb88a06ba3cd18ad5fdd0b4be9b994cbb5c31045365a69cd6c9fe6",
+                "score": 0.2810108,
+                "excerpt": "obtain the erasure of your Personal Information from us. These circumstances include: the Personal Information is no longer necessary in relation to the purposes for which it was collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to eras...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "288edde786cd0f1e5e02bf4fb0d3c2d407ba9ad583d30f891da3e9f38c639f9d",
+                "score": 0.25367606,
+                "excerpt": "the following:\nSome of the information we collect is directly from you via the Mobile Application and Services. However, we may also collect Personal Information about you from other sources such as public databases, social media platforms, third-party data providers, and our joint marketing partners. Personal Information we collect from other sources may include demographic information, such as age and gender, device information, such as IP addresses, location, such as city and state, and onlin...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "72554d7dba47adc93417d1561ef714e5c78989a5826200da93827dc7d9a29a09",
+                "score": 0.23493282,
+                "excerpt": "the extent that the legal basis for our processing of your Personal Information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.\n(ii) You have the right to learn if your Personal Information is being processed by us, obtain disclosure regarding certain aspects of the processing, and obtain a copy of your Personal Information undergoing processing.\n(iii) You have the right to verify the accuracy of ...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "5292319750e147f427671a44878182d247713d7f26dcaad53253bc54cd364da5",
+                "score": 0.21337718,
+                "excerpt": "as defined in the GDPR upon which we collect and process your Personal Information:\nNote that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases above. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a require...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6454837552,
+            "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not share any information with unaffiliated third parties. It only shares information with Service Providers to perform services on its behalf or comply with legal requirements.",
+            "reference": "We will not share any personally identifiable information with third parties and will not share any information with unaffiliated third parties. Service Providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. URL: https://mymind2.goodbarber.app/docs/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "6964d8831bd29ef0017651976b5394a1c9c371ae9a827f490545e09aa6fe0e55",
+                "score": 0.89947516,
+                "excerpt": "with third parties and will not share any information with unaffiliated third parties.\nService Providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. Service Providers are given the information they need only in order to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their own marketing or other purposes.\nWe will retain and us...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "0e70d50e26bff45c5bdb9fcabdfc7113745289f1eb14eb80908d391f4065949a",
+                "score": 0.8118252,
+                "excerpt": "about you. The Personal Information you can delete may change as the Mobile Application and Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below. If you would like to delete your Personal Information or permanently delete your account, you can do so on the settings page of your account...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "22371ab9ca5b35b530c5d9b05ce2ab71bae9624d59a977be8edeb5ad2733a143",
+                "score": 0.79486305,
+                "excerpt": "exchanged between you and the Mobile Application and Services cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.\nAs the security of Personal Information depends in part on the security of the device you use to communicate with us and the security you use to protect your credentials, please take appropriate measures to protect this information.\nIn the event we become aware that the security of the Mobile ...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "cfa27636e43cfc66fb9b389d745cbb6188c25568c926fb865f8317438546e16b",
+                "score": 0.7550956,
+                "excerpt": "adjust your device settings accordingly.\nThe Mobile Application and Services contain links to other resources that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other resources or third parties. We encourage you to be aware when you leave the Mobile Application and Services and to read the privacy statements of each and every resource that may collect Personal Information.\nWe secure information you provide on computer servers in ...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "5292319750e147f427671a44878182d247713d7f26dcaad53253bc54cd364da5",
+                "score": 0.6689884,
+                "excerpt": "as defined in the GDPR upon which we collect and process your Personal Information:\nNote that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases above. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a require...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6454837552,
+            "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Service Providers",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Service Providers"
+                }
+            },
+            "analysis": "The app shares data with Service Providers as mentioned in the privacy policy.",
+            "reference": "Service Providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. Service Providers are given the information they need only in order to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their own marketing or other purposes. We will not share any personally identifiable information with third parties and will not share any information with unaffiliated third parties. URL: https://mymind2.goodbarber.app/docs/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "6964d8831bd29ef0017651976b5394a1c9c371ae9a827f490545e09aa6fe0e55",
+                "score": 0.9558166,
+                "excerpt": "with third parties and will not share any information with unaffiliated third parties.\nService Providers are not authorized to use or disclose your information except as necessary to perform services on our behalf or comply with legal requirements. Service Providers are given the information they need only in order to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their own marketing or other purposes.\nWe will retain and us...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "5292319750e147f427671a44878182d247713d7f26dcaad53253bc54cd364da5",
+                "score": 0.73659015,
+                "excerpt": "as defined in the GDPR upon which we collect and process your Personal Information:\nNote that under some legislations we may be allowed to process information until you object to such processing by opting out, without having to rely on consent or any other of the legal bases above. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a require...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "6b9b0975ca7609084483281708edbe4fbdfe6315027c96e892855508906c19d2",
+                "score": 0.64556694,
+                "excerpt": "SSL secured communication channel and is encrypted and protected with digital signatures, and the Mobile Application and Services are also in compliance with strict vulnerability standards in order to create as secure of an environment as possible for Users. We will share payment data with the Payment Processors only to the extent necessary for the purposes of processing your payments, refunding such payments, and dealing with complaints and queries related to such payments and refunds.\nPlease n...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "0e70d50e26bff45c5bdb9fcabdfc7113745289f1eb14eb80908d391f4065949a",
+                "score": 0.49609762,
+                "excerpt": "about you. The Personal Information you can delete may change as the Mobile Application and Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below. If you would like to delete your Personal Information or permanently delete your account, you can do so on the settings page of your account...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            },
+            {
+                "id": "22371ab9ca5b35b530c5d9b05ce2ab71bae9624d59a977be8edeb5ad2733a143",
+                "score": 0.44257626,
+                "excerpt": "exchanged between you and the Mobile Application and Services cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third party, despite best efforts.\nAs the security of Personal Information depends in part on the security of the device you use to communicate with us and the security you use to protect your credentials, please take appropriate measures to protect this information.\nIn the event we become aware that the security of the Mobile ...",
+                "url": "https://mymind2.goodbarber.app/docs/privacy_policy.html"
+            }
+        ]
+    }
+]

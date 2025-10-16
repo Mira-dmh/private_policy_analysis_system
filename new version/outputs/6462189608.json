@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 6462189608,
+            "url": "https://metpsy.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the collection of various types of information directly from the users.",
+            "reference": "We collect information directly from you when you create an account, use the Services, request customer support, or otherwise communicate with us. This information includes: Identification Information, Health Information, Other Survey Information, Communication Information. We may also collect any other information you choose to provide. URL: https://metpsy.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5174c96f73b8498569ea814c664b37d13a510fdd3c782797f2b08bdae44db767",
+                "score": 0.016593177,
+                "excerpt": "you.\nCOLLECTION OF INFORMATION\nInformation You Provide to Us\nWe collect information directly from you when you create an account, use the Services, request customer support, or otherwise communicate with us. This information includes:\n– Identification Information: we collect your name, email address, phone number, and country/state of residence.\n– Health Information: we collect information about your diet, weight, sex, mental health, gastrointestinal symptoms, diagnoses, and medication use.\n– Ot...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "0c50a5ff4cc6e7138c3b5d5f58c13803c6650cdbfe1851ac50365d34957820f8",
+                "score": 0.01374232,
+                "excerpt": "Privacy Notice\nLast Updated: Monday July 21st 2025\nThis Privacy Notice describes how MetPsy [Metabolic Mental Health Inc.] and our subsidiaries and affiliated companies (collectively, “MetPsy,” “we,” or “us”) collect, use, disclose and otherwise process information about you. This Privacy Notice applies to information we collect when you access or use our websites (collectively, the “Website”), our metabolic mental health coaching services (the “Services”), or when you otherwise interact with us...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f76fc33e0c1baf2bf09d317978b3a0d827fae255b25a067314cd1e79e0585eb4",
+                "score": 0.011158031,
+                "excerpt": "use information in other circumstances after giving you notice and/or getting your consent.\nTARGETED ADVERTISING AND ANALYTICS\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Website, including your IP address, web browser and mobile network information, pages viewed, time...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "62884960bdde92a3431ab4aa956627d79676d7f69aa7b0d5210f6d7b69b96ea7",
+                "score": 0.0029810327,
+                "excerpt": "having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices.\nDISCLOSURE OF INFORMATION\nWe disclose information as follows:\n– Vendors: we disclose information to vendors, service providers, contractors and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service,...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "e5209810ef59b86d7b009cceef37864f9bbe1337a7c8b37e0070dd6bb31035a9",
+                "score": 0.0016941031,
+                "excerpt": "we have operations and vendors in the United States and other countries. Therefore, we and our vendors may transfer your personal information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection to your home jurisdiction.\nCONTACT US\nIf you have any questions about this Privacy Notice, please contact us at hello@metpsy.com.",
+                "url": "https://metpsy.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6462189608,
+            "url": "https://metpsy.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Identification Information, Health Information, Other Survey Information, Communication Information, Internet Activity Information, Audio Information, and Information collected by Cookies and Similar Tracking Technologies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identification Information",
+                        "Health Information",
+                        "Other Survey Information",
+                        "Communication Information",
+                        "Internet Activity Information",
+                        "Audio Information",
+                        "Information collected by Cookies and Similar Tracking Technologies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the various types of data collected by the app when the user interacts with the service.",
+            "reference": "The app collects information directly from users, including identification information, health information, other survey information, communication information, internet activity information, audio information, and information collected by cookies and similar tracking technologies. URL: https://metpsy.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5174c96f73b8498569ea814c664b37d13a510fdd3c782797f2b08bdae44db767",
+                "score": 0.3572311,
+                "excerpt": "you.\nCOLLECTION OF INFORMATION\nInformation You Provide to Us\nWe collect information directly from you when you create an account, use the Services, request customer support, or otherwise communicate with us. This information includes:\n– Identification Information: we collect your name, email address, phone number, and country/state of residence.\n– Health Information: we collect information about your diet, weight, sex, mental health, gastrointestinal symptoms, diagnoses, and medication use.\n– Ot...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f072b5c71f72ab3a13f2e98ce8a06380bb309c80bd778758accc2c89a5c27cdb",
+                "score": 0.06681232,
+                "excerpt": "collect information about your activity on our Website and interaction with our communications, such as access times, browsing behavior (such as pages viewed and links clicked), the page you visited before navigating to our Website, and information about your activity on specific pages (such as mouse movements and keystrokes).\n– Audio Information: If you call our coaches or customer service team, we may monitor and retain those conversations.\n– Information Collected by Cookies and Similar Tracki...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "100cdebf48ec0a953de6ae33e3d53e6dde107f6f233a9f6b2b8cc3e2d80f6ce4",
+                "score": 0.050705366,
+                "excerpt": "connect third-party accounts like Oura, Apple Health, or Google Fit with the Services and share information about your activity (such as steps taken, calories burned, and hours slept). You can also connect third-party continuous glucose monitoring accounts with the Service and share your glucose levels.\nWe may also collect information you share when you interact with us on social media platforms like Instagram and X.\nDerived Information\nWe may derive information or draw inferences about you base...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "0c50a5ff4cc6e7138c3b5d5f58c13803c6650cdbfe1851ac50365d34957820f8",
+                "score": 0.043936532,
+                "excerpt": "Privacy Notice\nLast Updated: Monday July 21st 2025\nThis Privacy Notice describes how MetPsy [Metabolic Mental Health Inc.] and our subsidiaries and affiliated companies (collectively, “MetPsy,” “we,” or “us”) collect, use, disclose and otherwise process information about you. This Privacy Notice applies to information we collect when you access or use our websites (collectively, the “Website”), our metabolic mental health coaching services (the “Services”), or when you otherwise interact with us...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f76fc33e0c1baf2bf09d317978b3a0d827fae255b25a067314cd1e79e0585eb4",
+                "score": 0.032713126,
+                "excerpt": "use information in other circumstances after giving you notice and/or getting your consent.\nTARGETED ADVERTISING AND ANALYTICS\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Website, including your IP address, web browser and mobile network information, pages viewed, time...",
+                "url": "https://metpsy.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6462189608,
+            "url": "https://metpsy.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app describes the purposes of data collection and use, such as service delivery, communication, marketing and advertising, targeted advertising, analytics, research and development, protection and compliance, and more.",
+            "reference": "We use the information we collect for the following purposes: Service Delivery, Communication, Marketing and Advertising, Research and Development, Protection and Compliance, Notice/Consent. URL: https://metpsy.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "100cdebf48ec0a953de6ae33e3d53e6dde107f6f233a9f6b2b8cc3e2d80f6ce4",
+                "score": 0.042642392,
+                "excerpt": "connect third-party accounts like Oura, Apple Health, or Google Fit with the Services and share information about your activity (such as steps taken, calories burned, and hours slept). You can also connect third-party continuous glucose monitoring accounts with the Service and share your glucose levels.\nWe may also collect information you share when you interact with us on social media platforms like Instagram and X.\nDerived Information\nWe may derive information or draw inferences about you base...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f76fc33e0c1baf2bf09d317978b3a0d827fae255b25a067314cd1e79e0585eb4",
+                "score": 0.02870708,
+                "excerpt": "use information in other circumstances after giving you notice and/or getting your consent.\nTARGETED ADVERTISING AND ANALYTICS\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Website, including your IP address, web browser and mobile network information, pages viewed, time...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "62884960bdde92a3431ab4aa956627d79676d7f69aa7b0d5210f6d7b69b96ea7",
+                "score": 0.006097562,
+                "excerpt": "having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices.\nDISCLOSURE OF INFORMATION\nWe disclose information as follows:\n– Vendors: we disclose information to vendors, service providers, contractors and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service,...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "2ca03efba932db2cdb5a9de3351e528ac254f55ad182dfc92fec44af081d42b9",
+                "score": 0.0023141264,
+                "excerpt": "metabolic mental health journey, respond to your questions, inform you of price or Services changes, and send you other transactional or relationship messages.\n– Marketing and Advertising: we use information to send direct marketing messages (including via email) and target advertisements to you on third-party platforms and websites as described in the “Targeted Advertising and Analytics” section below. You can opt out of direct marketing messages we send by following the instructions in those c...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "0c50a5ff4cc6e7138c3b5d5f58c13803c6650cdbfe1851ac50365d34957820f8",
+                "score": 0.0020992735,
+                "excerpt": "Privacy Notice\nLast Updated: Monday July 21st 2025\nThis Privacy Notice describes how MetPsy [Metabolic Mental Health Inc.] and our subsidiaries and affiliated companies (collectively, “MetPsy,” “we,” or “us”) collect, use, disclose and otherwise process information about you. This Privacy Notice applies to information we collect when you access or use our websites (collectively, the “Website”), our metabolic mental health coaching services (the “Services”), or when you otherwise interact with us...",
+                "url": "https://metpsy.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6462189608,
+            "url": "https://metpsy.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by following the instructions provided in the direct marketing messages sent or by reaching out via the 'Contact Us' section.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can opt out of data collection by following specific instructions provided in the direct marketing messages or by contacting the company directly.",
+            "reference": "You can opt out of direct marketing messages we send by following the instructions in those communications (such as by clicking 'unsubscribe' in the emails) or by reaching out via the 'Contact Us' section below. URL: https://metpsy.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "2ca03efba932db2cdb5a9de3351e528ac254f55ad182dfc92fec44af081d42b9",
+                "score": 0.07172112,
+                "excerpt": "metabolic mental health journey, respond to your questions, inform you of price or Services changes, and send you other transactional or relationship messages.\n– Marketing and Advertising: we use information to send direct marketing messages (including via email) and target advertisements to you on third-party platforms and websites as described in the “Targeted Advertising and Analytics” section below. You can opt out of direct marketing messages we send by following the instructions in those c...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "e5209810ef59b86d7b009cceef37864f9bbe1337a7c8b37e0070dd6bb31035a9",
+                "score": 0.023509452,
+                "excerpt": "we have operations and vendors in the United States and other countries. Therefore, we and our vendors may transfer your personal information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection to your home jurisdiction.\nCONTACT US\nIf you have any questions about this Privacy Notice, please contact us at hello@metpsy.com.",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f76fc33e0c1baf2bf09d317978b3a0d827fae255b25a067314cd1e79e0585eb4",
+                "score": 0.02215887,
+                "excerpt": "use information in other circumstances after giving you notice and/or getting your consent.\nTARGETED ADVERTISING AND ANALYTICS\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Website, including your IP address, web browser and mobile network information, pages viewed, time...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "62884960bdde92a3431ab4aa956627d79676d7f69aa7b0d5210f6d7b69b96ea7",
+                "score": 0.01798621,
+                "excerpt": "having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices.\nDISCLOSURE OF INFORMATION\nWe disclose information as follows:\n– Vendors: we disclose information to vendors, service providers, contractors and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service,...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f072b5c71f72ab3a13f2e98ce8a06380bb309c80bd778758accc2c89a5c27cdb",
+                "score": 0.012821214,
+                "excerpt": "collect information about your activity on our Website and interaction with our communications, such as access times, browsing behavior (such as pages viewed and links clicked), the page you visited before navigating to our Website, and information about your activity on specific pages (such as mouse movements and keystrokes).\n– Audio Information: If you call our coaches or customer service team, we may monitor and retain those conversations.\n– Information Collected by Cookies and Similar Tracki...",
+                "url": "https://metpsy.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6462189608,
+            "url": "https://metpsy.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as described in the Privacy Policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for various purposes such as communication, marketing, advertising, and in certain corporate transactions.",
+            "reference": "We disclose information as follows: Vendors: we disclose information to vendors, service providers, contractors, and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service, data enrichment, analytics, and marketing and advertising. Advertising Partners: we disclose information to third parties for the purposes described in the Marketing and Advertising subsection above. URL: https://metpsy.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "100cdebf48ec0a953de6ae33e3d53e6dde107f6f233a9f6b2b8cc3e2d80f6ce4",
+                "score": 0.72242916,
+                "excerpt": "connect third-party accounts like Oura, Apple Health, or Google Fit with the Services and share information about your activity (such as steps taken, calories burned, and hours slept). You can also connect third-party continuous glucose monitoring accounts with the Service and share your glucose levels.\nWe may also collect information you share when you interact with us on social media platforms like Instagram and X.\nDerived Information\nWe may derive information or draw inferences about you base...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "0dadbc5f4070c244b9b215debfb6f04e32b2a690dc54ac465e0a278c21d51667",
+                "score": 0.30084828,
+                "excerpt": "if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of MetPsy, our users, the public, or others.\n– Corporate Transactions: we reserve the right to disclose information in connection with or during negotiations of certain corporate transactions, including the merger, sale of company assets, financing, or acquisition of all or a portion of ou...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "62884960bdde92a3431ab4aa956627d79676d7f69aa7b0d5210f6d7b69b96ea7",
+                "score": 0.110855594,
+                "excerpt": "having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices.\nDISCLOSURE OF INFORMATION\nWe disclose information as follows:\n– Vendors: we disclose information to vendors, service providers, contractors and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service,...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f072b5c71f72ab3a13f2e98ce8a06380bb309c80bd778758accc2c89a5c27cdb",
+                "score": 0.08882029,
+                "excerpt": "collect information about your activity on our Website and interaction with our communications, such as access times, browsing behavior (such as pages viewed and links clicked), the page you visited before navigating to our Website, and information about your activity on specific pages (such as mouse movements and keystrokes).\n– Audio Information: If you call our coaches or customer service team, we may monitor and retain those conversations.\n– Information Collected by Cookies and Similar Tracki...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f76fc33e0c1baf2bf09d317978b3a0d827fae255b25a067314cd1e79e0585eb4",
+                "score": 0.072374016,
+                "excerpt": "use information in other circumstances after giving you notice and/or getting your consent.\nTARGETED ADVERTISING AND ANALYTICS\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Website, including your IP address, web browser and mobile network information, pages viewed, time...",
+                "url": "https://metpsy.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6462189608,
+            "url": "https://metpsy.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with vendors, advertising partners, professional advisors, legal authorities, corporate transactions, and affiliates.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Vendors",
+                        "Advertising Partners",
+                        "Professional Advisors",
+                        "Legal Authorities",
+                        "Corporate Transactions",
+                        "Affiliates"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions several third parties with whom the app shares data for various purposes.",
+            "reference": "Vendors: we disclose information to vendors, service providers, contractors and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service, data enrichment, analytics, and marketing and advertising. Advertising Partners: we disclose information to third parties for the purposes described in the Marketing and Advertising subsection above. Professional Advisors: we disclose information to our lawyers and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests. Legal Authorities: we may disclose information to legal authorities and others for the purposes described in the Protection and Compliance subsection above, including if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements and if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of MetPsy, our users, the public, or others. Corporate Transactions: we reserve the right to disclose information in connection with or during negotiations of certain corporate transactions, including the merger, sale of company assets, financing, or acquisition of all or a portion of our business by another company. Affiliates: we reserve the right to disclose information between and among MetPsy and any current or future parents, affiliates, subsidiaries, and other companies under common control and ownership. URL: https://metpsy.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "62884960bdde92a3431ab4aa956627d79676d7f69aa7b0d5210f6d7b69b96ea7",
+                "score": 0.6735139,
+                "excerpt": "having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.info/choices.\nDISCLOSURE OF INFORMATION\nWe disclose information as follows:\n– Vendors: we disclose information to vendors, service providers, contractors and consultants that need this information to provide services to us, such as companies that assist us with web hosting, payment processing, fraud prevention, customer service,...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "100cdebf48ec0a953de6ae33e3d53e6dde107f6f233a9f6b2b8cc3e2d80f6ce4",
+                "score": 0.52959794,
+                "excerpt": "connect third-party accounts like Oura, Apple Health, or Google Fit with the Services and share information about your activity (such as steps taken, calories burned, and hours slept). You can also connect third-party continuous glucose monitoring accounts with the Service and share your glucose levels.\nWe may also collect information you share when you interact with us on social media platforms like Instagram and X.\nDerived Information\nWe may derive information or draw inferences about you base...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "0dadbc5f4070c244b9b215debfb6f04e32b2a690dc54ac465e0a278c21d51667",
+                "score": 0.3828911,
+                "excerpt": "if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of MetPsy, our users, the public, or others.\n– Corporate Transactions: we reserve the right to disclose information in connection with or during negotiations of certain corporate transactions, including the merger, sale of company assets, financing, or acquisition of all or a portion of ou...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "f76fc33e0c1baf2bf09d317978b3a0d827fae255b25a067314cd1e79e0585eb4",
+                "score": 0.3211406,
+                "excerpt": "use information in other circumstances after giving you notice and/or getting your consent.\nTARGETED ADVERTISING AND ANALYTICS\nWe engage others to provide analytics services, serve advertisements, and perform related services across the web and in mobile applications. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of our Website, including your IP address, web browser and mobile network information, pages viewed, time...",
+                "url": "https://metpsy.com/privacy-policy/"
+            },
+            {
+                "id": "e5209810ef59b86d7b009cceef37864f9bbe1337a7c8b37e0070dd6bb31035a9",
+                "score": 0.15443976,
+                "excerpt": "we have operations and vendors in the United States and other countries. Therefore, we and our vendors may transfer your personal information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection to your home jurisdiction.\nCONTACT US\nIf you have any questions about this Privacy Notice, please contact us at hello@metpsy.com.",
+                "url": "https://metpsy.com/privacy-policy/"
+            }
+        ]
+    }
+]

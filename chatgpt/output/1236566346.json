@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1236566346,
+      "url": "https://sintelly.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of personal data to provide, improve, and personalize its services. The privacy policy details the types of personal data collected, including account data, communications, conversational data, and more.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of personal data collected and their usage.",
+          "content": "Sintelly collects various types of personal data to provide, improve, and personalize our Services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, ensuring transparency about data practices.",
+      "reference": "Personal Data Collection & Usage"
+    }
+  },
+  {
+    "meta": {
+      "id": 1236566346,
+      "url": "https://sintelly.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "Sintelly collects various types of personal data, including Account Data (email address, personal identifiers, password, etc.), Communications with Sintelly (email address, platform, operating system version, etc.), Conversational Data (user interactions), Concerning Language and Escalation Data (indications of needing more support), Hardware Diagnostic and Login Information (login info, crash reports), Survey and Assessment Data (health surveys, service feedback), and Usage Data (analytics information, log files, device information).",
+        "simple_answer": "Sintelly collects Account Data, Communications Data, Conversational Data, Concerning Language Data, Hardware Diagnostic Data, Survey Data, and Usage Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of personal data to enhance user experience and improve services.",
+          "content": "The types of data collected include: 1. Account Data: Email, personal identifiers, password, etc. 2. Communications Data: Email, platform, OS version, etc. 3. Conversational Data: User interactions. 4. Concerning Language Data: Indicators of needing support. 5. Hardware Diagnostic Data: Login info, crash reports. 6. Survey Data: Health surveys, service feedback. 7. Usage Data: Analytics, log files, device info."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Data Collection & Usage"
+    }
+  },
+  {
+    "meta": {
+      "id": 1236566346,
+      "url": "https://sintelly.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is collected to provide, improve, and personalize the Services. Each type of personal data collected has a detailed explanation of how it is used, such as for account creation, user support, improving services, and inviting users to participate in research.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for each type of data collected.",
+          "content": "For example, account data is used for creating accounts, improving services, and sending communications. Conversational data is used to provide and improve services."
+        }
+      },
+      "analysis": "The privacy policy is clear in stating the purposes for which personal data is collected, ensuring transparency for users.",
+      "reference": "Personal Data Collection & Usage section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1236566346,
+      "url": "https://sintelly.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and request deletion of their data. The privacy policy outlines various user rights, including the right to withdraw consent and the right to erasure of personal data.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have specific rights regarding their personal data.",
+          "content": "The privacy policy states that users have the right to withdraw consent and the right to erasure, allowing them to opt out of data collection and request deletion of their data."
+        }
+      },
+      "analysis": "The privacy policy provides clear options for users to manage their personal data, including opting out of data collection and requesting deletion.",
+      "reference": "User Rights section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1236566346,
+      "url": "https://sintelly.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, including service providers, partner programs, and in interactions with third-party services. These third parties may have limited and controlled access to personal data for the services they provide, such as hosting or customer service.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data to enhance its services and for operational purposes.",
+          "content": "Sintelly uses third-party service providers, like Amazon Web Services, that assist us in providing our Services. These third parties may have limited and controlled access to personal data for the services they provide, such as hosting or customer service."
+        }
+      },
+      "analysis": "The sharing of data with third parties is a common practice to facilitate service delivery and improve user experience. However, it is important for users to be aware of how their data is being used and shared.",
+      "reference": "Sharing of Personal Data, Section a. Service Providers"
+    }
+  },
+  {
+    "meta": {
+      "id": 1236566346,
+      "url": "https://sintelly.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "Sintelly shares personal data with third-party service providers, such as Amazon Web Services, that assist in providing their Services. These third parties may have limited and controlled access to personal data for the services they provide, such as hosting or customer service. Additionally, Sintelly may share data with partner programs and in interactions with other third-party services.",
+        "simple_answer": "Sintelly shares data with third-party service providers like Amazon Web Services and partner programs.",
+        "extended_simple_answer": {
+          "comment": "Sintelly collaborates with various third parties to enhance its services.",
+          "content": "Third-party service providers, partner programs, and interactions with other third-party services."
+        }
+      },
+      "analysis": "The privacy policy indicates that Sintelly relies on third-party service providers for various operational needs, which necessitates sharing personal data with them. This is a common practice in app services to ensure functionality and support.",
+      "reference": "Sharing of Personal Data, Section a. Service Providers"
+    }
+  }
+]

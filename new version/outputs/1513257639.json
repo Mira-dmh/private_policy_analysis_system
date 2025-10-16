@@ -1,0 +1,180 @@
+[
+    {
+        "meta": {
+            "id": 1513257639,
+            "url": "https://www.clearful.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states the app collects data, indicating the declaration of data collection.",
+            "reference": "This app collects analytical data on how individuals interact with the solution. Additional information can be found directly in the app URL: https://www.clearful.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5ee1b3209c4ad5df5dec41c0679986e662bef7d742e531e57135b097b7b9e527",
+                "score": 4.64744e-05,
+                "excerpt": "Start a free digital journal\nGain clarity, calmness, and control in your life with the award-winning journaling app.\n4.8\nApp Store\nMac App Store\nGoogle Play Store\nWeb\nGuided Journals\nLog In\nStart a journal — it's free\nPrivacy Policy",
+                "url": "https://www.clearful.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1513257639,
+            "url": "https://www.clearful.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as email addresses, journal entries, and any other information users provide.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email addresses",
+                        "Journal entries",
+                        "Other information provided by users"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the types of data collected by the app, including email addresses, journal entries, and information provided by users.",
+            "reference": "The data collected includes email addresses, journal entries, and any other information users provide. URL: https://www.clearful.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5ee1b3209c4ad5df5dec41c0679986e662bef7d742e531e57135b097b7b9e527",
+                "score": 0.000101503836,
+                "excerpt": "Start a free digital journal\nGain clarity, calmness, and control in your life with the award-winning journaling app.\n4.8\nApp Store\nMac App Store\nGoogle Play Store\nWeb\nGuided Journals\nLog In\nStart a journal — it's free\nPrivacy Policy",
+                "url": "https://www.clearful.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1513257639,
+            "url": "https://www.clearful.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the purpose of data collection and use in its privacy policy.",
+            "reference": "N/A. URL: https://www.clearful.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5ee1b3209c4ad5df5dec41c0679986e662bef7d742e531e57135b097b7b9e527",
+                "score": 2.6688529e-05,
+                "excerpt": "Start a free digital journal\nGain clarity, calmness, and control in your life with the award-winning journaling app.\n4.8\nApp Store\nMac App Store\nGoogle Play Store\nWeb\nGuided Journals\nLog In\nStart a journal — it's free\nPrivacy Policy",
+                "url": "https://www.clearful.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1513257639,
+            "url": "https://www.clearful.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection or delete data by uninstalling the app and contacting support for data deletion requests.",
+            "reference": "Users should keep in mind that if they choose not to provide certain data, some features of the app may be limited or unavailable. At any point, users can uninstall the app; refer to the information provided in the app on how to make use of data subject rights, including deletion requests. URL: https://www.clearful.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5ee1b3209c4ad5df5dec41c0679986e662bef7d742e531e57135b097b7b9e527",
+                "score": 0.0017961492,
+                "excerpt": "Start a free digital journal\nGain clarity, calmness, and control in your life with the award-winning journaling app.\n4.8\nApp Store\nMac App Store\nGoogle Play Store\nWeb\nGuided Journals\nLog In\nStart a journal — it's free\nPrivacy Policy",
+                "url": "https://www.clearful.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1513257639,
+            "url": "https://www.clearful.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "The app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The answer is derived from the privacy policy document which did not mention sharing data with third parties.",
+            "reference": "N/A. URL: https://www.clearful.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5ee1b3209c4ad5df5dec41c0679986e662bef7d742e531e57135b097b7b9e527",
+                "score": 0.000712446,
+                "excerpt": "Start a free digital journal\nGain clarity, calmness, and control in your life with the award-winning journaling app.\n4.8\nApp Store\nMac App Store\nGoogle Play Store\nWeb\nGuided Journals\nLog In\nStart a journal — it's free\nPrivacy Policy",
+                "url": "https://www.clearful.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1513257639,
+            "url": "https://www.clearful.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties such as analytics providers, hosting providers, and payment processors.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "analytics providers, hosting providers, payment processors"
+                }
+            },
+            "analysis": "The privacy policy specifies the third parties with whom data may be shared, highlighting analytics providers, hosting providers, and payment processors.",
+            "reference": "The app shares data with third parties such as analytics providers, hosting providers, and payment processors. URL: https://www.clearful.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5ee1b3209c4ad5df5dec41c0679986e662bef7d742e531e57135b097b7b9e527",
+                "score": 0.00041731575,
+                "excerpt": "Start a free digital journal\nGain clarity, calmness, and control in your life with the award-winning journaling app.\n4.8\nApp Store\nMac App Store\nGoogle Play Store\nWeb\nGuided Journals\nLog In\nStart a journal — it's free\nPrivacy Policy",
+                "url": "https://www.clearful.com/privacy-policy"
+            }
+        ]
+    }
+]

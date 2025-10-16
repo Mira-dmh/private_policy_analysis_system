@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 869648628,
+            "url": "https://www.owaves.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states in its privacy policy that it collects various types of information.",
+            "reference": "When you use our Services, we collect the following types of information: Information You Provide Us, Account Information, Additional Information. URL: https://www.owaves.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7393e4e29d1b54ae3df9e22a46186e055f9f16b9084d9a2a02f4fa7df75bb8ea",
+                "score": 0.05634009,
+                "excerpt": "We believe that transparency is the key to any healthy relationship. At Owaves, we’re all about health. We appreciate that you are trusting us with information that is important to you, and we want to be transparent about how we use it.\nHere we describe the privacy practices for our applications, software, websites, APIs, products, and services (the “Services”). You will learn about the data we collect, how we use it, the controls we give you over your information, and the measures we take to ke...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "6acf03c75ac3fcfa5bf667449cf6184d255cd7f0a3863aedc8fd5aa581a4ff49",
+                "score": 0.053601142,
+                "excerpt": "and remains responsible for personal information that we transfer to others who process it on our behalf. If you have a complaint about our Privacy Shield compliance, please contact us. You can also refer a complaint to our chosen independent dispute resolution body JAMS, and in certain circumstances, invoke the Privacy Shield arbitration process. Owaves complies with applicable data protection and privacy regulations, including GDPR and CCPA, and will provide users with their respective rights ...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "4e250d18c11cae651f52fb72216c8f07b141057afc113b68911e46ca15ec90ba",
+                "score": 0.02732453,
+                "excerpt": "data. While we take significant steps to safeguard your information, no security system is completely impenetrable, and Owaves cannot guarantee absolute security. If you have a security-related concern, please contact us.\nOur International Operations and Data Transfers\nWe operate internationally and transfer information to the United States and other countries for the purposes described in this policy.\nPlease note that the countries where we operate may have privacy and data protection laws that...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "6b884337b92d922fb9b11fc27686bb202a326cc61b6c732897e32359ab485c75",
+                "score": 0.0067975316,
+                "excerpt": "to other users of the Services; using your notification settings, you can limit the notifications you receive from us; and under your application settings, you can revoke the access of the Apple Health data that you previously connected to your Owaves account.\nYou may withdraw your consent to the use and sharing of your anonymized and aggregated data at any time by terminating your Owaves account in accordance with this Privacy Policy.\nData Retention\nWe keep your account information, like your n...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "e4ea32cdc75893a550f1202d054a747adf54c1971468eb47fdaa950554a26317",
+                "score": 0.005752545,
+                "excerpt": "other users to find and connect with you. For example, your account contact information allows other users to add you as a friend. When another user has your email or mobile phone number in their contact list or in their friend network on a connected service, we show that user that you are a user of the Services.\nImprove, Personalize, and Develop the Services\nWe use the information we collect to improve and personalize the Services and to develop new ones. For example, we use the information to ...",
+                "url": "https://www.owaves.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 869648628,
+            "url": "https://www.owaves.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects information such as account information (name, email, password, mobile number), additional information like logs for food, weight, sleep, water, geolocation data, and information obtained from third parties like exercise or activity data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Account information (name, email, password, mobile number)",
+                        "Additional information (logs for food, weight, sleep, water)",
+                        "Geolocation data",
+                        "Information obtained from third parties (exercise or activity data)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the information provided in the 'Information We Collect' section of the privacy policy, where it details the types of data collected by the app.",
+            "reference": "The app collects information such as account information (name, email, password, mobile number), additional information like logs for food, weight, sleep, water, geolocation data, and information obtained from third parties like exercise or activity data. URL: https://www.owaves.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7393e4e29d1b54ae3df9e22a46186e055f9f16b9084d9a2a02f4fa7df75bb8ea",
+                "score": 0.5365254,
+                "excerpt": "We believe that transparency is the key to any healthy relationship. At Owaves, we’re all about health. We appreciate that you are trusting us with information that is important to you, and we want to be transparent about how we use it.\nHere we describe the privacy practices for our applications, software, websites, APIs, products, and services (the “Services”). You will learn about the data we collect, how we use it, the controls we give you over your information, and the measures we take to ke...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "90c14049ba3805c3b49af1a4a8c5cea6caeb6b9ffc766230becc3baf7a16c6ae",
+                "score": 0.23458195,
+                "excerpt": "help improve your experience or enable certain features of the Services, you may choose to provide us with additional information, like your logs for food, weight, sleep, water, or female health tracking; an alarm; and messages on discussion boards or to your friends on the Services.\nYou may also connect with friends on the Services or invite friends who have not yet joined by providing their email addresses, accessing social networking accounts, or using the contact list on your mobile device.\n...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "6acf03c75ac3fcfa5bf667449cf6184d255cd7f0a3863aedc8fd5aa581a4ff49",
+                "score": 0.14187483,
+                "excerpt": "and remains responsible for personal information that we transfer to others who process it on our behalf. If you have a complaint about our Privacy Shield compliance, please contact us. You can also refer a complaint to our chosen independent dispute resolution body JAMS, and in certain circumstances, invoke the Privacy Shield arbitration process. Owaves complies with applicable data protection and privacy regulations, including GDPR and CCPA, and will provide users with their respective rights ...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "541a13c04bd369f72ecf1b4bab1fd398726b7cce71ecd0d03fa7ee5702e1d38c",
+                "score": 0.12646118,
+                "excerpt": "identifiers.\n- Demographic information, such as your gender, age, health information, and physical characteristics or description, which may be protected by law.\n- Activity information, such as your exercise, activity, sleep, or health data, including the number of steps you take and any similar information to which you grant us access from another service.\n- Geolocation data, if you have granted us access to that information.\n- Electronic, visual, or similar information, such as your profile ph...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "7f325a38bd6f9441d36ccd43ba8e0cf0ac7ec03d83ebc25650441b4a01ab7c1e",
+                "score": 0.07906799,
+                "excerpt": "account settings and tools as described in the “Your Rights To Access and Control Your Personal Data” section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact us through our website, and we wil...",
+                "url": "https://www.owaves.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 869648628,
+            "url": "https://www.owaves.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app clearly declares the purpose of data collection and use, including improving and personalizing services, developing new features, communicating with users, and providing personalized wellness services.",
+            "reference": "We use the information we collect to improve and personalize the Services and to develop new ones. For example, we use the information to troubleshoot and protect against errors; perform data analysis and testing; conduct research and surveys; and develop new features and Services. URL: https://www.owaves.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "4e250d18c11cae651f52fb72216c8f07b141057afc113b68911e46ca15ec90ba",
+                "score": 0.1161611,
+                "excerpt": "data. While we take significant steps to safeguard your information, no security system is completely impenetrable, and Owaves cannot guarantee absolute security. If you have a security-related concern, please contact us.\nOur International Operations and Data Transfers\nWe operate internationally and transfer information to the United States and other countries for the purposes described in this policy.\nPlease note that the countries where we operate may have privacy and data protection laws that...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "e4ea32cdc75893a550f1202d054a747adf54c1971468eb47fdaa950554a26317",
+                "score": 0.0773781,
+                "excerpt": "other users to find and connect with you. For example, your account contact information allows other users to add you as a friend. When another user has your email or mobile phone number in their contact list or in their friend network on a connected service, we show that user that you are a user of the Services.\nImprove, Personalize, and Develop the Services\nWe use the information we collect to improve and personalize the Services and to develop new ones. For example, we use the information to ...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "7f325a38bd6f9441d36ccd43ba8e0cf0ac7ec03d83ebc25650441b4a01ab7c1e",
+                "score": 0.04689926,
+                "excerpt": "account settings and tools as described in the “Your Rights To Access and Control Your Personal Data” section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact us through our website, and we wil...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "819554af368c650e8efb4c98ab35cb05206f8d0888aed0b71d6465cd95381b03",
+                "score": 0.041930523,
+                "excerpt": "account on another service, we may receive information from the other service. For example, if you connect to Facebook, we may receive information like your name, profile picture, age range, language, and email address. You may also choose to grant us access to your exercise or activity data from another service, like Apple Health. You can stop sharing the information from the other service with us by removing our access to that other service.\nHow We Use Information\nWe use the information we col...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "1ad8f1913ffbaed2ba11d3072068a6629f22ffe0eacf9da4b09cff2695d63e18",
+                "score": 0.04038907,
+                "excerpt": "purposes and are not medical or clinical advice.\nCommunicate With You\nWe use your information when needed to send you Service notifications and respond to you when you contact us. We also use your information to promote new features or products that we think you would be interested in. You can control marketing communications and most Service notifications by using your notification preferences in account settings or via the “Unsubscribe” link in an email.\nPromote Safety and Security\nWe use the ...",
+                "url": "https://www.owaves.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 869648628,
+            "url": "https://www.owaves.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection and delete their data. Users can withdraw their consent at any time by using account settings and tools, stopping the use of features, removing third-party service access, or deleting their data or account.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the option to opt out of data collection and delete their data through various mechanisms provided by the app.",
+            "reference": "You may exercise these rights using your account settings and tools as described in the 'Your Rights To Access and Control Your Personal Data' section. URL: https://www.owaves.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d9eba82809b0a36095df70e982f14d2c448e6f6b6fc41322408796daa97494ca",
+                "score": 0.82893884,
+                "excerpt": "controls that we offer, in certain circumstances, you can seek to restrict our processing of your data, or object to our processing of your data based on our legitimate interests. Under the GDPR, you have a general right to object to the use of your information for direct marketing purposes. Please note that you can always delete your account at any time.\nIf you need further assistance regarding your rights, please contact us through our website, and we will consider your request in accordance w...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "e7204337708b0558c1a5a8a7908050a1577cafb68612d28142418c86fb7685b9",
+                "score": 0.78825736,
+                "excerpt": "use your account settings and tools to withdraw your consent at any time, including by stopping use of a feature, removing our access to a third-party service, or deleting your data or your account.\nOur Legal Bases for Processing Personal Data\nFor personal data subject to the GDPR, we rely on several legal bases to process the data, including:\n- When you have given your consent, which you may withdraw at any time using your account settings and other tools;\n- When the processing is necessary to ...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "c393c9ddd6d2e933682a9ea823e2f0cea32c646cbc65d2a632bc81836bee9c7e",
+                "score": 0.605799,
+                "excerpt": "also download information in a commonly used file format, including data about your activities, body, foods, and sleep, by contacting us with a request.\nEditing and Deleting Data. By logging into your account and using your account settings and profile edit tools, you can change and delete your personal information. For instance, you can edit or delete the profile data you provide and delete your account if you wish.\nIf you choose to delete your account, please note that while most of your infor...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "6acf03c75ac3fcfa5bf667449cf6184d255cd7f0a3863aedc8fd5aa581a4ff49",
+                "score": 0.47076702,
+                "excerpt": "and remains responsible for personal information that we transfer to others who process it on our behalf. If you have a complaint about our Privacy Shield compliance, please contact us. You can also refer a complaint to our chosen independent dispute resolution body JAMS, and in certain circumstances, invoke the Privacy Shield arbitration process. Owaves complies with applicable data protection and privacy regulations, including GDPR and CCPA, and will provide users with their respective rights ...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "7f325a38bd6f9441d36ccd43ba8e0cf0ac7ec03d83ebc25650441b4a01ab7c1e",
+                "score": 0.345326,
+                "excerpt": "account settings and tools as described in the “Your Rights To Access and Control Your Personal Data” section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact us through our website, and we wil...",
+                "url": "https://www.owaves.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 869648628,
+            "url": "https://www.owaves.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares anonymized and aggregated user data with academic institutions, research entities, healthcare organizations, insurance providers, technology partners, and other third-party collaborators for scientific research, algorithmic development, product improvement, or commercial purposes, including monetization or sale of aggregated, anonymized datasets.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that the app shares anonymized and aggregated user data with various third parties for research, development, and commercial purposes.",
+            "reference": "We may share anonymized and aggregated user data with academic institutions, research entities, healthcare organizations, insurance providers, technology partners, and other third-party collaborators for scientific research, algorithmic development, product improvement, or commercial purposes, including monetization or sale of aggregated, anonymized datasets. Owaves adheres to the highest industry standards to minimize any risk of personally identifiable information (PII) disclosure. URL: https://www.owaves.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "90c14049ba3805c3b49af1a4a8c5cea6caeb6b9ffc766230becc3baf7a16c6ae",
+                "score": 0.71492666,
+                "excerpt": "help improve your experience or enable certain features of the Services, you may choose to provide us with additional information, like your logs for food, weight, sleep, water, or female health tracking; an alarm; and messages on discussion boards or to your friends on the Services.\nYou may also connect with friends on the Services or invite friends who have not yet joined by providing their email addresses, accessing social networking accounts, or using the contact list on your mobile device.\n...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "c2638c416c2126838883c17e7e07a428f33648934529c8e138b200645304c3e3",
+                "score": 0.58776563,
+                "excerpt": "tools. For certain information, we provide you with privacy preferences in account settings and other tools to control how your information is visible to other users of the Services. Just remember that if you choose to participate in a challenge, information like your profile photo, posted messages, total steps in the challenge, personal statistics, and achievements, is not governed by your privacy preferences and will be visible to all other challenge participants.\nFor External Processing\nWe tr...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "32082ed8c7bbe6ab42493f307fb651381edc267947011ced5794505c8c30b0b6",
+                "score": 0.36184096,
+                "excerpt": "it cannot reasonably be used to identify an individual. We may disclose such information publicly and to third parties, for example, in public reports about exercise and activity, to partners under agreement with us, or as part of the community benchmarking information we provide to users of our subscription Services.\nIf we are involved in a merger, acquisition, or sale of assets, we will continue to take measures to protect the confidentiality of personal information and give affected users not...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "32f8a221f35ebd4e2053b1c0da9345d8a5c69b94ccd00b844e77f1b70d3f34ca",
+                "score": 0.3366581,
+                "excerpt": "adheres to the highest industry standards to minimize any risk of personally identifiable information (PII) disclosure.\nFor Legal Reasons to Prevent Harm\nWe may preserve or disclose information about you to comply with a law, regulation, legal process, or governmental request; to assert legal rights or defend against legal claims; or to prevent, detect, or investigate illegal activity, fraud, abuse, violations of our terms, or threats to the security of the Services or the physical safety of any...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "6b884337b92d922fb9b11fc27686bb202a326cc61b6c732897e32359ab485c75",
+                "score": 0.2949252,
+                "excerpt": "to other users of the Services; using your notification settings, you can limit the notifications you receive from us; and under your application settings, you can revoke the access of the Apple Health data that you previously connected to your Owaves account.\nYou may withdraw your consent to the use and sharing of your anonymized and aggregated data at any time by terminating your Owaves account in accordance with this Privacy Policy.\nData Retention\nWe keep your account information, like your n...",
+                "url": "https://www.owaves.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 869648628,
+            "url": "https://www.owaves.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with corporate affiliates, service providers, partners, academic institutions, research entities, healthcare organizations, insurance providers, technology partners, and other third-party collaborators.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "corporate affiliates",
+                        "service providers",
+                        "partners",
+                        "academic institutions",
+                        "research entities",
+                        "healthcare organizations",
+                        "insurance providers",
+                        "technology partners",
+                        "other third-party collaborators"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app shares data with various third parties for different purposes such as processing information, scientific research, and product improvement.",
+            "reference": "We transfer information to our corporate affiliates, service providers, and other partners who process it for us... scientific research, algorithmic development, product improvement, or commercial purposes... URL: https://www.owaves.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "90c14049ba3805c3b49af1a4a8c5cea6caeb6b9ffc766230becc3baf7a16c6ae",
+                "score": 0.6500231,
+                "excerpt": "help improve your experience or enable certain features of the Services, you may choose to provide us with additional information, like your logs for food, weight, sleep, water, or female health tracking; an alarm; and messages on discussion boards or to your friends on the Services.\nYou may also connect with friends on the Services or invite friends who have not yet joined by providing their email addresses, accessing social networking accounts, or using the contact list on your mobile device.\n...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "c2638c416c2126838883c17e7e07a428f33648934529c8e138b200645304c3e3",
+                "score": 0.5874699,
+                "excerpt": "tools. For certain information, we provide you with privacy preferences in account settings and other tools to control how your information is visible to other users of the Services. Just remember that if you choose to participate in a challenge, information like your profile photo, posted messages, total steps in the challenge, personal statistics, and achievements, is not governed by your privacy preferences and will be visible to all other challenge participants.\nFor External Processing\nWe tr...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "32f8a221f35ebd4e2053b1c0da9345d8a5c69b94ccd00b844e77f1b70d3f34ca",
+                "score": 0.42024264,
+                "excerpt": "adheres to the highest industry standards to minimize any risk of personally identifiable information (PII) disclosure.\nFor Legal Reasons to Prevent Harm\nWe may preserve or disclose information about you to comply with a law, regulation, legal process, or governmental request; to assert legal rights or defend against legal claims; or to prevent, detect, or investigate illegal activity, fraud, abuse, violations of our terms, or threats to the security of the Services or the physical safety of any...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "32082ed8c7bbe6ab42493f307fb651381edc267947011ced5794505c8c30b0b6",
+                "score": 0.41353634,
+                "excerpt": "it cannot reasonably be used to identify an individual. We may disclose such information publicly and to third parties, for example, in public reports about exercise and activity, to partners under agreement with us, or as part of the community benchmarking information we provide to users of our subscription Services.\nIf we are involved in a merger, acquisition, or sale of assets, we will continue to take measures to protect the confidentiality of personal information and give affected users not...",
+                "url": "https://www.owaves.com/privacy"
+            },
+            {
+                "id": "819554af368c650e8efb4c98ab35cb05206f8d0888aed0b71d6465cd95381b03",
+                "score": 0.38850203,
+                "excerpt": "account on another service, we may receive information from the other service. For example, if you connect to Facebook, we may receive information like your name, profile picture, age range, language, and email address. You may also choose to grant us access to your exercise or activity data from another service, like Apple Health. You can stop sharing the information from the other service with us by removing our access to that other service.\nHow We Use Information\nWe use the information we col...",
+                "url": "https://www.owaves.com/privacy"
+            }
+        ]
+    }
+]

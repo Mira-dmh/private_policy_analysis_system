@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 659065074,
+      "url": "http://robertsammons.com/mathtrainer/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "The app does not declare the collection of data as it states that your data is stored locally on your device and that it contains no analytics, attribution links, or tracking software.",
+        "simple_answer": "No, the app does not declare the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes user privacy by not collecting data.",
+          "content": "Your data is stored locally on your device, and the app contains no analytics, attribution links, or tracking software."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 659065074,
+      "url": "http://robertsammons.com/mathtrainer/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app does not declare the collection of any data as it contains no analytics, attribution links, or tracking software.",
+        "simple_answer": "The app does not collect any data.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes user privacy by not collecting data.",
+          "content": "Your data is stored locally on your device, and the app does not have any analytics or tracking features."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 659065074,
+      "url": "http://robertsammons.com/mathtrainer/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "The app does not explicitly declare the purpose of data collection and use, as it states that your data is stored locally on your device and mentions the option to use iCloud, which is subject to its own terms and conditions. Additionally, it notes that Math Trainer contains no analytics, attribution links, or tracking software.",
+        "simple_answer": "No, the app does not explicitly declare the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy indicates that data is stored locally and does not involve tracking or analytics.",
+          "content": "Your data is stored locally on your device, and while you may choose to use iCloud, the app does not provide a clear purpose for data collection and use."
+        }
+      },
+      "analysis": "The lack of explicit declaration regarding the purpose of data collection may raise concerns for users who want transparency about how their data is handled.",
+      "reference": "Your Data section of the privacy policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 659065074,
+      "url": "http://robertsammons.com/mathtrainer/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of data collection as Math Trainer contains no analytics, attribution links, or tracking software. Additionally, since data is stored locally on the device, the user can delete their data at any time.",
+        "simple_answer": "Yes, the user can opt out and delete data.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect data through analytics or tracking, allowing users to have full control over their data.",
+          "content": "Your data is stored locally on your device, and you may choose to use iCloud as a feature which is bound by the terms and conditions of iCloud. Math Trainer contains no analytics, attribution links or tracking software."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 659065074,
+      "url": "http://robertsammons.com/mathtrainer/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, the app does not share data with third parties.",
+        "simple_answer": "No.",
+        "extended_simple_answer": {
+          "comment": "The app does not have any analytics or tracking software that would share data.",
+          "content": "Math Trainer contains no analytics, attribution links or tracking software."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 659065074,
+      "url": "http://robertsammons.com/mathtrainer/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with any third parties.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that the app contains no analytics or tracking software, indicating no data sharing.",
+          "content": "Math Trainer contains no analytics, attribution links or tracking software."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Data"
+    }
+  }
+]

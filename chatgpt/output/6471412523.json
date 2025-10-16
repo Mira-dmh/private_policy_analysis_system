@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6471412523,
+      "url": "https://myhappymind.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when users access the website, the company learns certain information about them both automatically and through voluntary actions. The policy outlines that information is collected through user interactions, automatic data collection technologies, and cookies.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of data collected and the methods of collection.",
+          "content": "The policy mentions that information is collected when users fill out forms, communicate via contact forms, and through automatic data collection technologies like Google Analytics. It also discusses the use of cookies and server logs to gather information about site usage."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the data collection practices, ensuring transparency for users regarding what information is collected and how it is used.",
+      "reference": "Information We Collect About You"
+    }
+  },
+  {
+    "meta": {
+      "id": 6471412523,
+      "url": "https://myhappymind.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including information that users provide by filling out forms, communicating via contact forms, and ordering products or services. It also collects automatic data through technologies like Google Analytics, which includes information about users' equipment, browsing actions, and patterns, such as location, traffic patterns, IP address, operating system, and browser type. Additionally, the app uses cookies and server logs to gather information about site usage, including the date and time of visits, pages viewed, and time spent on the site.",
+        "simple_answer": "The app collects user-provided information, automatic data (like IP address and browsing patterns), and data from cookies.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps improve services and user experience.",
+          "content": "The app collects user-provided information through forms and communications, automatic data via Google Analytics (like IP address and browsing patterns), and information from cookies (like visit times and pages viewed)."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect About You"
+    }
+  },
+  {
+    "meta": {
+      "id": 6471412523,
+      "url": "https://myhappymind.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to deliver the requested product and/or service, to improve overall performance, and to provide users with offers, promotions, and information.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app specifies how the collected data will be utilized.",
+          "content": "The information collected is used to deliver the requested product and/or service, improve overall performance, and provide offers, promotions, and information."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect About You"
+    }
+  },
+  {
+    "meta": {
+      "id": 6471412523,
+      "url": "https://myhappymind.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that if the Company learns it has collected personal information from a child under 13 without verification of parental consent, it will delete that information. Users can contact the Company at hello@myhappymind.org if they believe their data has been collected improperly.",
+        "simple_answer": "The policy does not provide a clear option to opt out of data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "While there is no explicit opt-out option mentioned, users can reach out to the Company regarding their data.",
+          "content": "If you believe we might have any information from or about a child under 13, please contact us at hello@myhappymind.org."
+        }
+      },
+      "analysis": "The lack of a clear opt-out mechanism may raise concerns for users who wish to control their data. The policy primarily focuses on the collection and use of data rather than user control over it.",
+      "reference": "Children Under The Age Of 13 section and Information We Collect About You section."
+    }
+  },
+  {
+    "meta": {
+      "id": 6471412523,
+      "url": "https://myhappymind.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies and other tracking technologies to collect information about you when you use our website, which may be associated with your personal information.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app utilizes third-party services for advertisements and content, which may involve data sharing.",
+          "content": "These third parties may collect information about your online activities over time and across different websites and may use this information for targeted advertising."
+        }
+      },
+      "analysis": "The privacy policy clearly states that third parties may collect data through cookies and other tracking technologies, indicating that user data can be shared with these entities.",
+      "reference": "Third Party Use Of Cookies"
+    }
+  },
+  {
+    "meta": {
+      "id": 6471412523,
+      "url": "https://myhappymind.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies and other tracking technologies to collect information about users when they use the website, which may be associated with personal information or used to provide interest-based advertising.",
+        "simple_answer": "The app shares data with advertisers, ad networks, content providers, and application providers.",
+        "extended_simple_answer": {
+          "comment": "The app does not control how these third parties use tracking technologies.",
+          "content": "These third parties may collect information about your online activities over time and across different websites and services."
+        }
+      },
+      "analysis": "",
+      "reference": "Third Party Use Of Cookies"
+    }
+  }
+]

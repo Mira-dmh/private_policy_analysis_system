@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1321563535,
+      "url": "https://connectedmind.me/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It describes how it collects, uses, protects, and discloses Personal Data from or about users when they access, use, or interact with its websites and related business operations.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of Personal Data collected and the methods of collection.",
+          "content": "The policy outlines that Personal Data is collected directly from users or through their interactions with the app, and it specifies various categories of data that may be collected."
+        }
+      },
+      "analysis": "The privacy policy provides a clear declaration of data collection practices, ensuring transparency for users regarding their Personal Data.",
+      "reference": "Section: 'What We Do' and 'Categories of Personal Data We Collect'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1321563535,
+      "url": "https://connectedmind.me/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following categories of Personal Data: Identifiers (such as real name, email address, telephone number, mailing address, gender, online identifier, IP address), Financial Information (bank account number, credit card number), Commercial Information (records of products or services purchased), Internet or Other Similar Network Activity (browsing history, search history), Non-Sensitive Geolocation Information (city, state, ZIP code), Professional or Employment-Related Information (current employer, job title), and User Generated Information (feedback and comments).",
+        "simple_answer": "The app collects Identifiers, Financial Information, Commercial Information, Internet Activity, Geolocation Information, Employment Information, and User Generated Information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of personal data to enhance user experience and provide services.",
+          "content": "The types of data collected include personal identifiers, financial details, commercial records, internet activity, geolocation, employment-related information, and user-generated content."
+        }
+      },
+      "analysis": "",
+      "reference": "Categories of Personal Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1321563535,
+      "url": "https://connectedmind.me/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the Personal Data collected is used to operate and improve the services provided through the app, as well as to communicate with users and fulfill their requests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines that the data is collected for operational purposes and to enhance user experience.",
+          "content": "The policy states that Personal Data is collected to operate, improve, and communicate regarding the services provided."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which Personal Data is collected, ensuring transparency for users regarding how their information will be used.",
+      "reference": "Section: Our Roles and Responsibilities"
+    }
+  },
+  {
+    "meta": {
+      "id": 1321563535,
+      "url": "https://connectedmind.me/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the option not to provide any Personal Data that is requested in connection with their access to, use of, or interaction with the Operations. However, if users do not provide certain required Personal Data, they may not be able to access or use specific features of the Operations. The policy does not explicitly mention a process for deleting data, but it implies that users can choose not to provide data.",
+        "simple_answer": "Yes, users can opt out of providing Personal Data, but may lose access to certain features.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of providing data, the policy does not detail a specific process for deleting data once collected.",
+          "content": "Users can choose not to provide Personal Data, but this may limit their access to certain features of the Operations."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of providing Personal Data, but it does not provide a clear mechanism for data deletion after it has been collected.",
+      "reference": "Section: Sources of Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1321563535,
+      "url": "https://connectedmind.me/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share Personal Data with third parties, including Clients and other transactional third parties who provide necessary Personal Data to enable certain features and functionalities of the Operations.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collects Personal Data from third parties to enhance its services.",
+          "content": "We may also receive Personal Data about you from third parties, including, without limitation, online and offline sources, social media platforms, advertising networks or other public or commercial sources, which may include, without limitation, the following categories of third parties: Transactional Third Parties: This category includes our Clients and other third parties who are not related to us but provide us with Personal Data necessary to enable us to provide you with certain features and functionalities of our Operations."
+        }
+      },
+      "analysis": "",
+      "reference": "Sources of Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1321563535,
+      "url": "https://connectedmind.me/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties including transactional third parties, which consist of Clients and other third parties who provide Personal Data necessary for the app to provide certain features and functionalities of its Operations.",
+        "simple_answer": "The app shares data with Clients and other transactional third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collects data from various sources, including third parties, to enhance its services.",
+          "content": "The app may receive Personal Data about you from third parties, including online and offline sources, social media platforms, advertising networks, and other public or commercial sources."
+        }
+      },
+      "analysis": "",
+      "reference": "Sources of Personal Data"
+    }
+  }
+]

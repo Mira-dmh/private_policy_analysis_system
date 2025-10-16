@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1412024302,
+      "url": "https://www.cognifit.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when you use their services, they collect various types of information, including account information and additional information that users may choose to provide.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes transparency regarding data collection.",
+          "content": "The policy outlines that they collect information such as name, email address, password, and optional details like profile photo and biography."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of information collected from users, ensuring users are informed about data collection practices.",
+      "reference": "Section 1: Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1412024302,
+      "url": "https://www.cognifit.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including account information such as name, email address, password, and in some cases, date of birth and gender. Users may also provide additional information like a profile photo, biography, nationality, location, company, university, and profession.",
+        "simple_answer": "The app collects account information and optional additional information.",
+        "extended_simple_answer": {
+          "comment": "The app requires basic account information and allows users to provide more details to enhance their experience.",
+          "content": "Account information includes name, email, password, and optionally, date of birth and gender. Additional information can include profile photo, biography, nationality, location, company, university, and profession."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1. Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1412024302,
+      "url": "https://www.cognifit.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use in its Privacy Policy. It states that the basic purpose of the Privacy Policy is to inform users about what data is collected and how it is used, empowering them to make informed decisions about the information they share.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The Privacy Policy emphasizes transparency regarding data collection and usage.",
+          "content": "The policy outlines that users should always know what data is collected and how it is used, and that they should have meaningful control over both."
+        }
+      },
+      "analysis": "",
+      "reference": "We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. That's the basic purpose of this Privacy Policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 1412024302,
+      "url": "https://www.cognifit.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to access and control their personal data, which includes the ability to delete their data. The privacy policy states that users can exercise their rights regarding their personal data, including opting out of data collection and requesting deletion.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users are empowered to manage their personal data.",
+          "content": "The privacy policy outlines that users have rights to access and control their personal data, which includes the ability to delete it."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal data, allowing for opt-out and deletion.",
+      "reference": "Your Rights to Access and Control Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1412024302,
+      "url": "https://www.cognifit.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties as described in the privacy policy. Specifically, it mentions that information may be shared with third-party service providers to perform services on behalf of CogniFit, and for analytics and advertising services provided by others.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data to enhance services and for advertising purposes.",
+          "content": "Information may be shared with third-party service providers to perform services on behalf of CogniFit, and for analytics and advertising services provided by others."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: How Information Is Shared"
+    }
+  },
+  {
+    "meta": {
+      "id": 1412024302,
+      "url": "https://www.cognifit.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties such as analytics providers, advertising partners, and other service providers that assist in delivering the services. Specific third parties are not named in the policy, but it mentions that data may be shared for purposes like analytics and advertising.",
+        "simple_answer": "The app shares data with analytics providers, advertising partners, and service providers.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data sharing is done to enhance service delivery and user experience.",
+          "content": "Data may be shared with analytics and advertising partners, as well as other service providers."
+        }
+      },
+      "analysis": "The privacy policy outlines the types of third parties with whom data may be shared, focusing on analytics and advertising, but does not specify individual companies.",
+      "reference": "Section: How Information Is Shared"
+    }
+  }
+]

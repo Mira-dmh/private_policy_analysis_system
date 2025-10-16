@@ -1,0 +1,324 @@
+[
+    {
+        "meta": {
+            "id": 1634039293,
+            "url": "https://www.atomei.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal information to provide services, including basic account information and geolocation data.",
+            "reference": "The Company collects information about you, including information that directly or indirectly identifies you, only if you choose to share it with the Company. We receive information in a number of ways, including when you perform actions using the App. URL: https://www.atomei.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "ca0ae4c177dc2434dbbf566135d8c18a4cf5c077878eb52eb7ee1cc6c8eb06d0",
+                "score": 0.14402843,
+                "excerpt": "information we collect to analyse, develop and improve the Services. To do this, The Atom App uses third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. The Atom App may use third party service providers from time to time to carry out certain functions for us. Where we use such outside service providers, we require those third parties to protect personal information in the same manner in which we protect it and to not ...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "0bd343b2a90b2bfb814505a38f10c7a42a64438dc6e4af6294574072c1b3e41d",
+                "score": 0.14342749,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nSamvid Sharma, Founder of The Atom App, recognizes the importance of confidentiality and the protection of personal information. Our privacy policy (the “Privacy Policy”) explains the information we collect and hold and how we use and share it. The Privacy Policy also explains your rights in connection with our website/related mobile application The Atom App and services (hereinafter collectively referred to as the “Services”).\nOUR COMMITMENT\nWe review this policy and...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ad43e3ee0a0b7e346f2758b02350c7c94e7a1fc4ae38e5fba6256fb3f1eb1c57",
+                "score": 0.068040416,
+                "excerpt": "information such as your e-mail address, and the username and password used for logging into your account.\n-\nProfile, activity, and usage information:. Information may also be collected when you perform actions on the app such as the date, time, and geo-location information (not your precise location, but restricted to your nearest city/town).\n-\nWe collect and process Geolocation information, in the form of the nearest city, when you’re using our Services. The Services include does not include f...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "3fd442b265fb819db64519128590cb7cb45a1f513d703b50d3ad8b4a3f0f4158",
+                "score": 0.005641909,
+                "excerpt": "from our systems. Additionally, we may retain information where deletion requests are made to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.\nCONTACT US\nIf you wish to request access to personal information about you, request a correction to information about you, or if have q...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "20593acfa9fa385b9e200a4b579178ff2605582d9dafe53a1606190ac4e8ec80",
+                "score": 0.005533388,
+                "excerpt": "promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications;\n- Manage your account and send you technical notices, updates, security alerts, and support and administrative messages;\n- Monitor and analyse trends, usage, and activities; and\n- Carry out any other purpose for which the information was collected.\nPersonal information supplied to us is confidential and we do not disclose the information t...",
+                "url": "https://www.atomei.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1634039293,
+            "url": "https://www.atomei.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The Atom App collects account information (e-mail address, username, password), profile, activity, and usage information (date, time, and geo-location information restricted to the nearest city/town), and geolocation information in the form of the nearest city.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Account information (e-mail address, username, password)",
+                        "Profile, activity, and usage information (date, time, geo-location information)",
+                        "Geolocation information in the form of the nearest city"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the sections describing the personal information collected by The Atom App, including account details, usage information, and geolocation data.",
+            "reference": "Account information: Basic account information such as your e-mail address, and the username and password used for logging into your account. Profile, activity, and usage information:. Information may also be collected when you perform actions on the app such as the date, time, and geo-location information (not your precise location, but restricted to your nearest city/town). We collect and process Geolocation information, in the form of the nearest city, when you’re using our Services. URL: https://www.atomei.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0bd343b2a90b2bfb814505a38f10c7a42a64438dc6e4af6294574072c1b3e41d",
+                "score": 0.30746198,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nSamvid Sharma, Founder of The Atom App, recognizes the importance of confidentiality and the protection of personal information. Our privacy policy (the “Privacy Policy”) explains the information we collect and hold and how we use and share it. The Privacy Policy also explains your rights in connection with our website/related mobile application The Atom App and services (hereinafter collectively referred to as the “Services”).\nOUR COMMITMENT\nWe review this policy and...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ad43e3ee0a0b7e346f2758b02350c7c94e7a1fc4ae38e5fba6256fb3f1eb1c57",
+                "score": 0.24382246,
+                "excerpt": "information such as your e-mail address, and the username and password used for logging into your account.\n-\nProfile, activity, and usage information:. Information may also be collected when you perform actions on the app such as the date, time, and geo-location information (not your precise location, but restricted to your nearest city/town).\n-\nWe collect and process Geolocation information, in the form of the nearest city, when you’re using our Services. The Services include does not include f...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ca0ae4c177dc2434dbbf566135d8c18a4cf5c077878eb52eb7ee1cc6c8eb06d0",
+                "score": 0.17455094,
+                "excerpt": "information we collect to analyse, develop and improve the Services. To do this, The Atom App uses third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. The Atom App may use third party service providers from time to time to carry out certain functions for us. Where we use such outside service providers, we require those third parties to protect personal information in the same manner in which we protect it and to not ...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "20593acfa9fa385b9e200a4b579178ff2605582d9dafe53a1606190ac4e8ec80",
+                "score": 0.051749542,
+                "excerpt": "promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications;\n- Manage your account and send you technical notices, updates, security alerts, and support and administrative messages;\n- Monitor and analyse trends, usage, and activities; and\n- Carry out any other purpose for which the information was collected.\nPersonal information supplied to us is confidential and we do not disclose the information t...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "3fd442b265fb819db64519128590cb7cb45a1f513d703b50d3ad8b4a3f0f4158",
+                "score": 0.017576884,
+                "excerpt": "from our systems. Additionally, we may retain information where deletion requests are made to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.\nCONTACT US\nIf you wish to request access to personal information about you, request a correction to information about you, or if have q...",
+                "url": "https://www.atomei.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1634039293,
+            "url": "https://www.atomei.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states the purpose of data collection and use in the privacy policy document by mentioning how they use the information collected to respond to user inquiries, communicate services, manage accounts, send notifications, and monitor trends and activities.",
+            "reference": "The Atom App may also use your personal information to: - Respond to your comments, questions and requests, and to provide customer service; - Communicate with you about services, offers and promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications; - Manage your account and send you technical notices, updates, security alerts, and support and administrative messages; - Monitor and analyse trends, usage, and activities; URL: https://www.atomei.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "ca0ae4c177dc2434dbbf566135d8c18a4cf5c077878eb52eb7ee1cc6c8eb06d0",
+                "score": 0.7942254,
+                "excerpt": "information we collect to analyse, develop and improve the Services. To do this, The Atom App uses third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. The Atom App may use third party service providers from time to time to carry out certain functions for us. Where we use such outside service providers, we require those third parties to protect personal information in the same manner in which we protect it and to not ...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ad43e3ee0a0b7e346f2758b02350c7c94e7a1fc4ae38e5fba6256fb3f1eb1c57",
+                "score": 0.42262378,
+                "excerpt": "information such as your e-mail address, and the username and password used for logging into your account.\n-\nProfile, activity, and usage information:. Information may also be collected when you perform actions on the app such as the date, time, and geo-location information (not your precise location, but restricted to your nearest city/town).\n-\nWe collect and process Geolocation information, in the form of the nearest city, when you’re using our Services. The Services include does not include f...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "0bd343b2a90b2bfb814505a38f10c7a42a64438dc6e4af6294574072c1b3e41d",
+                "score": 0.045777272,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nSamvid Sharma, Founder of The Atom App, recognizes the importance of confidentiality and the protection of personal information. Our privacy policy (the “Privacy Policy”) explains the information we collect and hold and how we use and share it. The Privacy Policy also explains your rights in connection with our website/related mobile application The Atom App and services (hereinafter collectively referred to as the “Services”).\nOUR COMMITMENT\nWe review this policy and...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "20593acfa9fa385b9e200a4b579178ff2605582d9dafe53a1606190ac4e8ec80",
+                "score": 0.039342504,
+                "excerpt": "promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications;\n- Manage your account and send you technical notices, updates, security alerts, and support and administrative messages;\n- Monitor and analyse trends, usage, and activities; and\n- Carry out any other purpose for which the information was collected.\nPersonal information supplied to us is confidential and we do not disclose the information t...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "fd741caa1fabc2ebac59c2bcf419374ac09b0631adcc51420dda21ce82ba324a",
+                "score": 0.015663648,
+                "excerpt": "websites. This information may be used to understand and analyse trends, to administer the site and app, to learn about user behaviour on the site, to improve our product and services.\nCHANGES IN PRIVACY POLICY\nWe may update this Privacy Policy from time to time. If any changes are made to the Privacy Policy, it will be posted on the website and application in a timely manner. We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information pract...",
+                "url": "https://www.atomei.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1634039293,
+            "url": "https://www.atomei.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "No, the user cannot opt out of data collection or delete data.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that information may be retained for various reasons such as compliance with the law, prevent fraud, and other actions permitted by law, indicating that users cannot opt out or delete data.",
+            "reference": "Additionally, we may retain information where deletion requests are made to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy. URL: https://www.atomei.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3fd442b265fb819db64519128590cb7cb45a1f513d703b50d3ad8b4a3f0f4158",
+                "score": 0.047691282,
+                "excerpt": "from our systems. Additionally, we may retain information where deletion requests are made to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.\nCONTACT US\nIf you wish to request access to personal information about you, request a correction to information about you, or if have q...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ca0ae4c177dc2434dbbf566135d8c18a4cf5c077878eb52eb7ee1cc6c8eb06d0",
+                "score": 0.021368887,
+                "excerpt": "information we collect to analyse, develop and improve the Services. To do this, The Atom App uses third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. The Atom App may use third party service providers from time to time to carry out certain functions for us. Where we use such outside service providers, we require those third parties to protect personal information in the same manner in which we protect it and to not ...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "fd741caa1fabc2ebac59c2bcf419374ac09b0631adcc51420dda21ce82ba324a",
+                "score": 0.014728614,
+                "excerpt": "websites. This information may be used to understand and analyse trends, to administer the site and app, to learn about user behaviour on the site, to improve our product and services.\nCHANGES IN PRIVACY POLICY\nWe may update this Privacy Policy from time to time. If any changes are made to the Privacy Policy, it will be posted on the website and application in a timely manner. We encourage you to review the Privacy Policy whenever you interact with us to stay informed about our information pract...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "20593acfa9fa385b9e200a4b579178ff2605582d9dafe53a1606190ac4e8ec80",
+                "score": 0.0140636265,
+                "excerpt": "promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications;\n- Manage your account and send you technical notices, updates, security alerts, and support and administrative messages;\n- Monitor and analyse trends, usage, and activities; and\n- Carry out any other purpose for which the information was collected.\nPersonal information supplied to us is confidential and we do not disclose the information t...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "533bd4d580d78ad489485ff2bbaf1f05137d14459a4d0d3f5d4654662b70c91f",
+                "score": 0.008030813,
+                "excerpt": "App has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The Atom App privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.\nAlthough most browsers and devices accept cookies by default, their settings us...",
+                "url": "https://www.atomei.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1634039293,
+            "url": "https://www.atomei.app/privacy-policy"
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1634039293,\n       \"url\": \"https://www.atomei.app/privacy-policy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q5\",\n       \"question\": \"5. Does the app share data with third parties?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, the app shares data with third-party service providers to carry out certain functions, and these third parties are required to protect personal information in the same manner as the app does.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy states that the app uses third-party service providers to carry out certain functions, and these third parties are required to protect personal information in the same manner. This indicates that data is shared with third parties.\",\n       \"reference\": \"We may also use your personal information to: - Respond to your comments, questions and requests, and to provide customer service; - Communicate with you about services, offers and promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications; - Manage your account and send you technical notices, updates, security alerts, and support and administrative messages; - Monitor and analyse trends, usage, and activities; URL: https://www.atomei.app/privacy-policy\",\n       \"URL: https://www.atomei.app/privacy-policy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "ca0ae4c177dc2434dbbf566135d8c18a4cf5c077878eb52eb7ee1cc6c8eb06d0",
+                "score": 0.8492224,
+                "excerpt": "information we collect to analyse, develop and improve the Services. To do this, The Atom App uses third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. The Atom App may use third party service providers from time to time to carry out certain functions for us. Where we use such outside service providers, we require those third parties to protect personal information in the same manner in which we protect it and to not ...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "3fd442b265fb819db64519128590cb7cb45a1f513d703b50d3ad8b4a3f0f4158",
+                "score": 0.63849723,
+                "excerpt": "from our systems. Additionally, we may retain information where deletion requests are made to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.\nCONTACT US\nIf you wish to request access to personal information about you, request a correction to information about you, or if have q...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "533bd4d580d78ad489485ff2bbaf1f05137d14459a4d0d3f5d4654662b70c91f",
+                "score": 0.5865228,
+                "excerpt": "App has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The Atom App privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.\nAlthough most browsers and devices accept cookies by default, their settings us...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "20593acfa9fa385b9e200a4b579178ff2605582d9dafe53a1606190ac4e8ec80",
+                "score": 0.3100673,
+                "excerpt": "promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications;\n- Manage your account and send you technical notices, updates, security alerts, and support and administrative messages;\n- Monitor and analyse trends, usage, and activities; and\n- Carry out any other purpose for which the information was collected.\nPersonal information supplied to us is confidential and we do not disclose the information t...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ad43e3ee0a0b7e346f2758b02350c7c94e7a1fc4ae38e5fba6256fb3f1eb1c57",
+                "score": 0.1603975,
+                "excerpt": "information such as your e-mail address, and the username and password used for logging into your account.\n-\nProfile, activity, and usage information:. Information may also be collected when you perform actions on the app such as the date, time, and geo-location information (not your precise location, but restricted to your nearest city/town).\n-\nWe collect and process Geolocation information, in the form of the nearest city, when you’re using our Services. The Services include does not include f...",
+                "url": "https://www.atomei.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1634039293,
+            "url": "https://www.atomei.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The Atom App shares data with third-party analytics providers like Amplitude to gain insights into how the Services are used and to improve them.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Amplitude"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the use of third-party analytics providers like Amplitude to gain insights and improve the services, highlighting the data sharing activity with such third parties.",
+            "reference": "third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. URL: https://www.atomei.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "ca0ae4c177dc2434dbbf566135d8c18a4cf5c077878eb52eb7ee1cc6c8eb06d0",
+                "score": 0.7226249,
+                "excerpt": "information we collect to analyse, develop and improve the Services. To do this, The Atom App uses third-party analytics providers like Amplitude to gain insights into how our Services are used and to help us improve the Services. The Atom App may use third party service providers from time to time to carry out certain functions for us. Where we use such outside service providers, we require those third parties to protect personal information in the same manner in which we protect it and to not ...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "3fd442b265fb819db64519128590cb7cb45a1f513d703b50d3ad8b4a3f0f4158",
+                "score": 0.51616865,
+                "excerpt": "from our systems. Additionally, we may retain information where deletion requests are made to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.\nCONTACT US\nIf you wish to request access to personal information about you, request a correction to information about you, or if have q...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "20593acfa9fa385b9e200a4b579178ff2605582d9dafe53a1606190ac4e8ec80",
+                "score": 0.13822897,
+                "excerpt": "promotions, and provide news and information we think will be of interest to you, - where you have not opted out of receiving such messages and notifications;\n- Manage your account and send you technical notices, updates, security alerts, and support and administrative messages;\n- Monitor and analyse trends, usage, and activities; and\n- Carry out any other purpose for which the information was collected.\nPersonal information supplied to us is confidential and we do not disclose the information t...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "533bd4d580d78ad489485ff2bbaf1f05137d14459a4d0d3f5d4654662b70c91f",
+                "score": 0.111627996,
+                "excerpt": "App has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. The Atom App privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.\nAlthough most browsers and devices accept cookies by default, their settings us...",
+                "url": "https://www.atomei.app/privacy-policy"
+            },
+            {
+                "id": "ad43e3ee0a0b7e346f2758b02350c7c94e7a1fc4ae38e5fba6256fb3f1eb1c57",
+                "score": 0.10212548,
+                "excerpt": "information such as your e-mail address, and the username and password used for logging into your account.\n-\nProfile, activity, and usage information:. Information may also be collected when you perform actions on the app such as the date, time, and geo-location information (not your precise location, but restricted to your nearest city/town).\n-\nWe collect and process Geolocation information, in the form of the nearest city, when you’re using our Services. The Services include does not include f...",
+                "url": "https://www.atomei.app/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1603796306,
+      "url": "https://www.theshareco.org/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects personal data from users when they download the app, use its services, or communicate with the company. The types of information gathered include first and last name, email address, mobile number, country, IP address, payment information, and any additional information provided by the user.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of information collected from users.",
+          "content": "The information we learn from customers helps personalize and continually improve your experience at Share. Here are the types of information we gather: Information You Give Us. You provide information when you download the app, search, read and watch the content, use the services or communicate with us."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of personal data collected from users, indicating transparency in data collection practices.",
+      "reference": "Types of Information Gathered"
+    }
+  },
+  {
+    "meta": {
+      "id": 1603796306,
+      "url": "https://www.theshareco.org/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including: first and last name, email address, mobile number (for account authentication via OTP), country/province/state, IP address, payment information, and any additional information provided directly or indirectly through the website or online presence such as cookies.",
+        "simple_answer": "The app collects personal data such as name, email, mobile number, IP address, and payment information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers information to personalize and improve user experience.",
+          "content": "Types of information collected include: first and last name, email address, mobile number, country/province/state, IP address, payment information, and additional information through cookies."
+        }
+      },
+      "analysis": "",
+      "reference": "Types of Information Gathered"
+    }
+  },
+  {
+    "meta": {
+      "id": 1603796306,
+      "url": "https://www.theshareco.org/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The information collected is primarily used to provide, maintain, protect, and improve the application, website, and services. Specific purposes include identifying users, processing payments, improving services, sending communications, and marketing purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various purposes for data collection, ensuring transparency in its practices.",
+          "content": "The purposes include user identification, service provision, payment processing, service improvement, communication, and marketing."
+        }
+      },
+      "analysis": "The privacy policy clearly states the various ways in which user data is utilized, ensuring users are informed about the handling of their personal information.",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1603796306,
+      "url": "https://www.theshareco.org/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can withdraw their consent for data collection and can delete their personal data. Users can withdraw their consent by contacting Share through the provided contact information or the contact page. Additionally, personal data will be deleted from the database immediately after the user terminates their account.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to withdraw consent and delete their data.",
+          "content": "Users can withdraw their consent by contacting Share and their personal data will be deleted upon account termination."
+        }
+      },
+      "analysis": "",
+      "reference": "How Do We Get Your Consent; How Long Do We Keep Your Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1603796306,
+      "url": "https://www.theshareco.org/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares customer information with third-party service providers to perform functions on its behalf, such as processing payments and sending emails. However, these third parties have access to personal information only to perform their functions and may not use it for other purposes.",
+        "simple_answer": "Yes, the app shares data with third-party service providers.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell customer information but shares it with third parties for specific functions.",
+          "content": "Examples of third-party service providers include payment processors like Stripe and email delivery platforms."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while the app shares data with third-party service providers, it does not sell customer information. The sharing is limited to what is necessary for the service providers to perform their functions.",
+      "reference": "How We Share Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1603796306,
+      "url": "https://www.theshareco.org/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party service providers such as payment processors (e.g., Stripe), email delivery platforms (e.g., MailChimp and Klaviyo), and data analysis services. These third parties have access to personal information needed to perform their functions but may not use it for other purposes.",
+        "simple_answer": "The app shares data with third-party service providers like Stripe, MailChimp, and Klaviyo.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell personal information but shares it with trusted partners for specific functions.",
+          "content": "Third-party service providers include payment processors (Stripe), email services (MailChimp, Klaviyo), and data analysis companies."
+        }
+      },
+      "analysis": "The privacy policy clearly states that customer information is shared only with third-party service providers who perform functions on behalf of the app, ensuring that the data is used solely for the intended purposes.",
+      "reference": "How We Share Information"
+    }
+  }
+]

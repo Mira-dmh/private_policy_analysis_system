@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 6446163219,
+            "url": "https://iti.iasistech.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects information from and about users, which indicates the declaration of data collection.",
+            "reference": "We collect information from and about users of our App. URL: https://iti.iasistech.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0b4ed5fa94ca1163bd4eb2ca7952a5c6aa1979405bc21d365846da6211efa65a",
+                "score": 0.17724052,
+                "excerpt": "for updates.\nThe App is not intended for children under 16 years of age, and we do not knowingly collect personal information from children under 16. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us via the Contact Information listed below.\nCalifornia residents under 16 years of age may have a...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "8b5ab3828f60f4f717633eb500abc2ca9df87c4bf2397d67fb2beb27c3d6e194",
+                "score": 0.17497347,
+                "excerpt": "IASIS Technologies Corporation respect your privacy and are committed to protecting it through our compliance with this policy.\nThis policy describes:\nThis policy applies only to information we collect in this App and in email, text, and other electronic communications sent through or in connection with this App, and any other related sources.\nOur websites and apps, and these other third parties may have their own privacy policies, which we encourage you to read before providing information on o...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "3756734b06764f194283d52646d7cf559a676b297288a54e76a3c2c97d0b2470",
+                "score": 0.07423137,
+                "excerpt": "may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.\nWhen you download, access, and use the App, it may use technology t...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "be1b51cc5e4fc9feeb6b420151621d2fb8462738d82a3fae431aab52167dc12d",
+                "score": 0.031618766,
+                "excerpt": "apps, or other online services (behavioral tracking). Click here [INCLUDE AS LINK TO DO NOT TRACK DISCLOSURES] for information on how you can opt out of behavioral tracking on or through this app and how we respond to browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.]\nThe technologies we use for automatic information collection may include:\nWhen you use the App or its content, certain third parties may use automatic information collection te...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "212a2dfd5d3abbde582043e7c638f7f23fe2ffdd0e84ee32048f14a1f08b4a5e",
+                "score": 0.031321116,
+                "excerpt": "used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Your Choices About Our Collection, Use, and Disclosure of Your Information below.”\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nThe usage information we collect helps us to improve our App and to...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446163219,
+            "url": "https://iti.iasistech.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects user-provided information, usage information, and location information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "User-provided information",
+                        "Usage information",
+                        "Location information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app collects user-provided information, usage information, and location information, which are the types of data collected by the app.",
+            "reference": "This information includes: You may also provide information for publication or display ('Posted') on public areas of the app or websites you access through the App (collectively, 'User Contributions'). Your User Contributions are Posted and transmitted to others at your own risk. Although you may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we &hellip;. URL: https://iti.iasistech.com/privacy-policy; The usage information we collect helps us to improve our App and to deliver a better and more personalized experience by enabling us to: We use location information we collect to determine the location of the User. (See collection purpose for location information below. We may also use your information to contact you about our own and third parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data (the order form or registration form) or adjust your user preferences in your account profile. For more information, see 'Your Choices About Our Collection, Use, and Disclosure of Your Information.' We may use the information we collect to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if... URL: https://iti.iasistech.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "be1b51cc5e4fc9feeb6b420151621d2fb8462738d82a3fae431aab52167dc12d",
+                "score": 0.1665398,
+                "excerpt": "apps, or other online services (behavioral tracking). Click here [INCLUDE AS LINK TO DO NOT TRACK DISCLOSURES] for information on how you can opt out of behavioral tracking on or through this app and how we respond to browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.]\nThe technologies we use for automatic information collection may include:\nWhen you use the App or its content, certain third parties may use automatic information collection te...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "3756734b06764f194283d52646d7cf559a676b297288a54e76a3c2c97d0b2470",
+                "score": 0.15778464,
+                "excerpt": "may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.\nWhen you download, access, and use the App, it may use technology t...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "8b5ab3828f60f4f717633eb500abc2ca9df87c4bf2397d67fb2beb27c3d6e194",
+                "score": 0.10393038,
+                "excerpt": "IASIS Technologies Corporation respect your privacy and are committed to protecting it through our compliance with this policy.\nThis policy describes:\nThis policy applies only to information we collect in this App and in email, text, and other electronic communications sent through or in connection with this App, and any other related sources.\nOur websites and apps, and these other third parties may have their own privacy policies, which we encourage you to read before providing information on o...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "0b4ed5fa94ca1163bd4eb2ca7952a5c6aa1979405bc21d365846da6211efa65a",
+                "score": 0.08586246,
+                "excerpt": "for updates.\nThe App is not intended for children under 16 years of age, and we do not knowingly collect personal information from children under 16. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us via the Contact Information listed below.\nCalifornia residents under 16 years of age may have a...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "212a2dfd5d3abbde582043e7c638f7f23fe2ffdd0e84ee32048f14a1f08b4a5e",
+                "score": 0.053206205,
+                "excerpt": "used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Your Choices About Our Collection, Use, and Disclosure of Your Information below.”\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nThe usage information we collect helps us to improve our App and to...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446163219,
+            "url": "https://iti.iasistech.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use by mentioning that users' information is used for improving the app, providing a better user experience, displaying advertisements, and contacting users about goods and services of interest.",
+            "reference": "We use information that we collect about you or that you provide to us, including any personal information, to: The usage information we collect helps us to improve our App and to deliver a better and more personalized experience by enabling us to: We may also use your information to contact you about our own and third parties' goods and services that may be of interest to you. If you do not want us to use your information in this way, please check the relevant box located on the form on which we collect your data (the order form or registration form) or adjust your user preferences in your account profile. For more information, see “Your Choices About Our Collection, Use, and Disclosure of Your Information.”, URL: https://iti.iasistech.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "212a2dfd5d3abbde582043e7c638f7f23fe2ffdd0e84ee32048f14a1f08b4a5e",
+                "score": 0.34125313,
+                "excerpt": "used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Your Choices About Our Collection, Use, and Disclosure of Your Information below.”\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nThe usage information we collect helps us to improve our App and to...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "38388c20916474065f0192a5ed3561e9a6bbfd69a3150df5ded94f6fa15bcdd3",
+                "score": 0.0705596,
+                "excerpt": "preferences in your account profile. For more information, see “Your Choices About Our Collection, Use, and Disclosure of Your Information.”\nWe may use the information we collect to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.\nWe may disclose aggregated informatio...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "be1b51cc5e4fc9feeb6b420151621d2fb8462738d82a3fae431aab52167dc12d",
+                "score": 0.04885778,
+                "excerpt": "apps, or other online services (behavioral tracking). Click here [INCLUDE AS LINK TO DO NOT TRACK DISCLOSURES] for information on how you can opt out of behavioral tracking on or through this app and how we respond to browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.]\nThe technologies we use for automatic information collection may include:\nWhen you use the App or its content, certain third parties may use automatic information collection te...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "3756734b06764f194283d52646d7cf559a676b297288a54e76a3c2c97d0b2470",
+                "score": 0.027220903,
+                "excerpt": "may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.\nWhen you download, access, and use the App, it may use technology t...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "8b5ab3828f60f4f717633eb500abc2ca9df87c4bf2397d67fb2beb27c3d6e194",
+                "score": 0.010288301,
+                "excerpt": "IASIS Technologies Corporation respect your privacy and are committed to protecting it through our compliance with this policy.\nThis policy describes:\nThis policy applies only to information we collect in this App and in email, text, and other electronic communications sent through or in connection with this App, and any other related sources.\nOur websites and apps, and these other third parties may have their own privacy policies, which we encourage you to read before providing information on o...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446163219,
+            "url": "https://iti.iasistech.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request the deletion of personal information by sending an email to the provided address. However, complete deletion of personal information may require deleting the user account as mentioned in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can opt out of data collection or request the deletion of personal information by following the instructions provided.",
+            "reference": "You may also send us an email at [EMAIL ADDRESS? ] to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. URL: https://iti.iasistech.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "1a32d49abe49be7bf88cbdab737cbb24fbf713756481a4689d0f70ab07431944",
+                "score": 0.8976953,
+                "excerpt": "can opt out of receiving targeted ads from members of the Network Advertising Initiative (\"NAI\") on the NAI's website.\nCalifornia residents may have additional personal information rights and choices. Please see “Your California Privacy Rights” Section below for more information.\nYou can review and change your personal information by logging into the App and visiting your account profile page.\nYou may also send us an email at [EMAIL ADDRESS? ] to request access to, correct, or delete any persona...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "3756734b06764f194283d52646d7cf559a676b297288a54e76a3c2c97d0b2470",
+                "score": 0.7177049,
+                "excerpt": "may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.\nWhen you download, access, and use the App, it may use technology t...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "38388c20916474065f0192a5ed3561e9a6bbfd69a3150df5ded94f6fa15bcdd3",
+                "score": 0.27874735,
+                "excerpt": "preferences in your account profile. For more information, see “Your Choices About Our Collection, Use, and Disclosure of Your Information.”\nWe may use the information we collect to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.\nWe may disclose aggregated informatio...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "be1b51cc5e4fc9feeb6b420151621d2fb8462738d82a3fae431aab52167dc12d",
+                "score": 0.13811268,
+                "excerpt": "apps, or other online services (behavioral tracking). Click here [INCLUDE AS LINK TO DO NOT TRACK DISCLOSURES] for information on how you can opt out of behavioral tracking on or through this app and how we respond to browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.]\nThe technologies we use for automatic information collection may include:\nWhen you use the App or its content, certain third parties may use automatic information collection te...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "212a2dfd5d3abbde582043e7c638f7f23fe2ffdd0e84ee32048f14a1f08b4a5e",
+                "score": 0.08195955,
+                "excerpt": "used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Your Choices About Our Collection, Use, and Disclosure of Your Information below.”\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nThe usage information we collect helps us to improve our App and to...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446163219,
+            "url": "https://iti.iasistech.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that third parties may collect information through automatic information collection technologies, which may be associated with personal information, and use it for interest-based advertising or other targeted content. This indicates that the app shares data with third parties.",
+            "reference": "These third parties may use tracking technologies to collect information about you when you use this app. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, apps, and other online services websites. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. URL: https://iti.iasistech.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3756734b06764f194283d52646d7cf559a676b297288a54e76a3c2c97d0b2470",
+                "score": 0.91715443,
+                "excerpt": "may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.\nWhen you download, access, and use the App, it may use technology t...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "c3f9fb55f9e8fdde659fae97b2559a381cbd1b12a45ad53b3e545e9406125458",
+                "score": 0.86938226,
+                "excerpt": "governed by our terms of use. See the “Terms of Use” Section herein.\nCalifornia residents may have additional personal information rights and choices. Please see Your California Privacy Rights Section immediately below for more information.\nIf you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit HYPERLINK TO CCPA PRIVACY NOTICE FOR CALIFORNIA RESIDENTS?\nCalifo...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "be1b51cc5e4fc9feeb6b420151621d2fb8462738d82a3fae431aab52167dc12d",
+                "score": 0.8076124,
+                "excerpt": "apps, or other online services (behavioral tracking). Click here [INCLUDE AS LINK TO DO NOT TRACK DISCLOSURES] for information on how you can opt out of behavioral tracking on or through this app and how we respond to browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.]\nThe technologies we use for automatic information collection may include:\nWhen you use the App or its content, certain third parties may use automatic information collection te...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "212a2dfd5d3abbde582043e7c638f7f23fe2ffdd0e84ee32048f14a1f08b4a5e",
+                "score": 0.6238353,
+                "excerpt": "used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Your Choices About Our Collection, Use, and Disclosure of Your Information below.”\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nThe usage information we collect helps us to improve our App and to...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "0b4ed5fa94ca1163bd4eb2ca7952a5c6aa1979405bc21d365846da6211efa65a",
+                "score": 0.5622366,
+                "excerpt": "for updates.\nThe App is not intended for children under 16 years of age, and we do not knowingly collect personal information from children under 16. If we learn we have collected or received personal information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 16, please contact us via the Contact Information listed below.\nCalifornia residents under 16 years of age may have a...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446163219,
+            "url": "https://iti.iasistech.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with certain third parties who use automatic information collection technologies. These third parties may collect information about the user's online activities and provide interest-based advertising or other targeted content.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Third parties who use automatic information collection technologies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that certain third parties may collect information about the user's online activities and provide targeted advertising or content. This implies that the app shares data with these specific third parties.",
+            "reference": "These third parties may use tracking technologies to collect information about you when you use this app. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites, apps, and other online services websites. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content. URL: https://iti.iasistech.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "be1b51cc5e4fc9feeb6b420151621d2fb8462738d82a3fae431aab52167dc12d",
+                "score": 0.7962924,
+                "excerpt": "apps, or other online services (behavioral tracking). Click here [INCLUDE AS LINK TO DO NOT TRACK DISCLOSURES] for information on how you can opt out of behavioral tracking on or through this app and how we respond to browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.]\nThe technologies we use for automatic information collection may include:\nWhen you use the App or its content, certain third parties may use automatic information collection te...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "3756734b06764f194283d52646d7cf559a676b297288a54e76a3c2c97d0b2470",
+                "score": 0.78596646,
+                "excerpt": "may set certain privacy settings for such information by logging into your account profile (See privacy settings instructions, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of third parties with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.\nWhen you download, access, and use the App, it may use technology t...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "c3f9fb55f9e8fdde659fae97b2559a381cbd1b12a45ad53b3e545e9406125458",
+                "score": 0.5890073,
+                "excerpt": "governed by our terms of use. See the “Terms of Use” Section herein.\nCalifornia residents may have additional personal information rights and choices. Please see Your California Privacy Rights Section immediately below for more information.\nIf you are a California resident, California law may provide you with additional rights regarding our use of your personal information. To learn more about your California privacy rights, visit HYPERLINK TO CCPA PRIVACY NOTICE FOR CALIFORNIA RESIDENTS?\nCalifo...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "212a2dfd5d3abbde582043e7c638f7f23fe2ffdd0e84ee32048f14a1f08b4a5e",
+                "score": 0.46879062,
+                "excerpt": "used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Your Choices About Our Collection, Use, and Disclosure of Your Information below.”\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nThe usage information we collect helps us to improve our App and to...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            },
+            {
+                "id": "38388c20916474065f0192a5ed3561e9a6bbfd69a3150df5ded94f6fa15bcdd3",
+                "score": 0.37972334,
+                "excerpt": "preferences in your account profile. For more information, see “Your Choices About Our Collection, Use, and Disclosure of Your Information.”\nWe may use the information we collect to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.\nWe may disclose aggregated informatio...",
+                "url": "https://iti.iasistech.com/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 1112006222,
+            "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they collect Personal Information to identify users and provide various services.",
+            "reference": "As described in further detail below, TELUS Health collects, uses and discloses Personal Information to identify you, establish eligibility, and provide technology-enabled total health, wellbeing and human resources services (such as pensions and benefits, employee assistance programs, and health management programs), including through our websites and apps. URL: https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+        },
+        "source_documents": [
+            {
+                "id": "af6604344c073875d410c14de6751735dddf53d0a0efb870a1f66785d2d39a8d",
+                "score": 0.012624949,
+                "excerpt": "the course of providing health services to the individual, including information contained in a medical record.\nPersonal Information - Any information about an identifiable individual, other than business contact information used to contact an individual in their business or professional capacity. Personal Information does not include anonymized or aggregated information that cannot reasonably be associated with a specific individual.\nTELUS Health - In this Privacy Commitment, the words \"we\", \"u...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "13f01a49af26469e0add292f082f2ccaeaf6b1a491edb7b159033b30e9599efb",
+                "score": 0.011777843,
+                "excerpt": "analyze and improve our services and to communicate with you.\nOur Privacy Commitment and practices are consistent with the 10 Fair Information Principles, and we strive to apply the principles of Privacy by Design in the development and review of our products and services.\nAdditional information about how TELUS Health collects, uses and discloses Personal Information in connection with certain products and services can be found here:\nhttps://www.telus.com/en/health/about-telus-health/privacy\n.1....",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "2a5d326e16b0cf8a8f32de786fc8acd4d73be522d5553c20d0c0fb149c243103",
+                "score": 0.0067975316,
+                "excerpt": "TELUS Health Corporate Privacy Commitment\nTELUS Health offers a variety of health, wellness and workplace management products and services that are designed to build and maintain healthy communities and workplaces. TELUS Health is committed to delivering remarkable experiences for the benefit of all customers and individuals we serve while also protecting Personal Information and respecting privacy.\nTELUS Health commitment to protect your privacy\nThis Privacy Commitment explains the collection, ...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "965387d3562496e35e698f5c8b9cb71961a7115964250949b2de4de8d0dbb28f",
+                "score": 0.0028118587,
+                "excerpt": "laws of the receiving jurisdiction, which may differ from the laws of your jurisdiction.\nIf your Personal information is transferred outside of your jurisdiction, we will take appropriate measures to ensure an equivalent standard of Personal Information protection under applicable law. We will also obtain consent where this is required under applicable law. Please contact us if you want more information on how we protect Personal Information transferred out of your jurisdiction.\n12. Notice to us...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "5157920dab3bb50945d674d61c81ea75ed9fe5e76a3b0b4641e38e0a49a1291e",
+                "score": 0.0014664583,
+                "excerpt": "Information to set up an account for you where required to access and use the TELUS Health services.\nWe also collect other information from you as you use the TELUS Health services, such as:\n- app usage information\n- website and device information\n- cookies\nWe may use Personal Information to send you relevant marketing messages. You can opt out of receiving marketing messages at any time by following the unsubscribe instructions included in each of our marketing messages or by contacting us as s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1112006222,
+            "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal health information, personal information, app usage information, website and device information, cookies, lifestyle information, and data related to health outcomes.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal Health Information",
+                        "Personal Information",
+                        "App usage information",
+                        "Website and device information",
+                        "Cookies",
+                        "Lifestyle information",
+                        "Data related to health outcomes"
+                    ]
+                }
+            },
+            "analysis": "The Privacy Commitment document specifies the various types of data that the app collects, ranging from personal health information to lifestyle information and data related to health outcomes.",
+            "reference": "Personal Health Information - Any Personal Information regulated under applicable health privacy legislation in the jurisdictions in which we operate...Personal Information - Any information about an identifiable individual, other than business contact information used to contact an individual in their business or professional capacity... App usage information, website and device information, cookies... Your alcohol consumption, tobacco/nicotine use, eating and nutrition... - URL: https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+        },
+        "source_documents": [
+            {
+                "id": "13f01a49af26469e0add292f082f2ccaeaf6b1a491edb7b159033b30e9599efb",
+                "score": 0.060863446,
+                "excerpt": "analyze and improve our services and to communicate with you.\nOur Privacy Commitment and practices are consistent with the 10 Fair Information Principles, and we strive to apply the principles of Privacy by Design in the development and review of our products and services.\nAdditional information about how TELUS Health collects, uses and discloses Personal Information in connection with certain products and services can be found here:\nhttps://www.telus.com/en/health/about-telus-health/privacy\n.1....",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "af6604344c073875d410c14de6751735dddf53d0a0efb870a1f66785d2d39a8d",
+                "score": 0.052037824,
+                "excerpt": "the course of providing health services to the individual, including information contained in a medical record.\nPersonal Information - Any information about an identifiable individual, other than business contact information used to contact an individual in their business or professional capacity. Personal Information does not include anonymized or aggregated information that cannot reasonably be associated with a specific individual.\nTELUS Health - In this Privacy Commitment, the words \"we\", \"u...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "5157920dab3bb50945d674d61c81ea75ed9fe5e76a3b0b4641e38e0a49a1291e",
+                "score": 0.030792167,
+                "excerpt": "Information to set up an account for you where required to access and use the TELUS Health services.\nWe also collect other information from you as you use the TELUS Health services, such as:\n- app usage information\n- website and device information\n- cookies\nWe may use Personal Information to send you relevant marketing messages. You can opt out of receiving marketing messages at any time by following the unsubscribe instructions included in each of our marketing messages or by contacting us as s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "2a5d326e16b0cf8a8f32de786fc8acd4d73be522d5553c20d0c0fb149c243103",
+                "score": 0.0154839875,
+                "excerpt": "TELUS Health Corporate Privacy Commitment\nTELUS Health offers a variety of health, wellness and workplace management products and services that are designed to build and maintain healthy communities and workplaces. TELUS Health is committed to delivering remarkable experiences for the benefit of all customers and individuals we serve while also protecting Personal Information and respecting privacy.\nTELUS Health commitment to protect your privacy\nThis Privacy Commitment explains the collection, ...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "f25398bde714bf99c4681d0f5fedf8b9a46461ebfc21527e05b0b8d3c4ee3950",
+                "score": 0.010052369,
+                "excerpt": "your use of our services, such as your weight, height, body mass index, waist circumference, cholesterol, lipoprotein, triglycerides, glucose and blood pressure readings, sleep patterns or other similar information provided by you through connected devices or through any assessment you complete.\nLifestyle information:\nYour alcohol consumption, tobacco/nicotine use, eating and nutrition (e.g., number of servings of food groups and nutrition related questions), cardiovascular disease risk, emotion...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1112006222,
+            "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as mainly to identify the user, establish eligibility, and provide health, wellbeing, and human resources services, analyze and improve services, and communicate with the user.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that TELUS Health collects, uses, and discloses Personal Information to identify users, provide various services, analyze and improve services, and communicate with users, outlining the purpose of data collection and use.",
+            "reference": "TELUS Health collects, uses and discloses Personal Information to identify you, establish eligibility, and provide technology-enabled total health, wellbeing and human resources services, including through our websites and apps. We also use your information to analyze and improve our services and to communicate with you. URL: https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+        },
+        "source_documents": [
+            {
+                "id": "2a5d326e16b0cf8a8f32de786fc8acd4d73be522d5553c20d0c0fb149c243103",
+                "score": 0.03061778,
+                "excerpt": "TELUS Health Corporate Privacy Commitment\nTELUS Health offers a variety of health, wellness and workplace management products and services that are designed to build and maintain healthy communities and workplaces. TELUS Health is committed to delivering remarkable experiences for the benefit of all customers and individuals we serve while also protecting Personal Information and respecting privacy.\nTELUS Health commitment to protect your privacy\nThis Privacy Commitment explains the collection, ...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "f70119c8533c4f00fe18750cffa341f3176f50e81ba050e2ec8862254bfcedff",
+                "score": 0.019985152,
+                "excerpt": "outside of TELUS Health to whom we have referred you, we will direct you to the appropriate third party who can assist you.\nTo collect, use or disclose Personal Information outside of the purposes contemplated in this Privacy Commitment, we will seek additional consent from you where required.\nWhen you provide Personal Information on behalf of a third party, such as a beneficiary, you represent that you have obtained all requisite consents and authority for us to collect, use, disclose and other...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "1fc5a6d8b786991c159dde33636c25186d365be45b7ec7cf9ec32d5b313a0bf4",
+                "score": 0.007093862,
+                "excerpt": "we rely on consent to collect, use and disclose your Personal Information (which may depend on the jurisdiction in which you are based), you can withdraw your consent to such collection, use and disclosure, subject to our legal, regulatory and contractual restrictions. However, if you refuse to provide certain information or withdraw your consent, this may limit our ability to provide you with the TELUS Health services. The withdrawal of your consent does not affect the lawfulness of our collect...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "af6604344c073875d410c14de6751735dddf53d0a0efb870a1f66785d2d39a8d",
+                "score": 0.006097562,
+                "excerpt": "the course of providing health services to the individual, including information contained in a medical record.\nPersonal Information - Any information about an identifiable individual, other than business contact information used to contact an individual in their business or professional capacity. Personal Information does not include anonymized or aggregated information that cannot reasonably be associated with a specific individual.\nTELUS Health - In this Privacy Commitment, the words \"we\", \"u...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "5157920dab3bb50945d674d61c81ea75ed9fe5e76a3b0b4641e38e0a49a1291e",
+                "score": 0.0031480708,
+                "excerpt": "Information to set up an account for you where required to access and use the TELUS Health services.\nWe also collect other information from you as you use the TELUS Health services, such as:\n- app usage information\n- website and device information\n- cookies\nWe may use Personal Information to send you relevant marketing messages. You can opt out of receiving marketing messages at any time by following the unsubscribe instructions included in each of our marketing messages or by contacting us as s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1112006222,
+            "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can withdraw consent to data collection, use, and disclosure, which includes the ability to delete personal information or close their account.",
+            "reference": "You can close your account associated with the TELUS Health services at any time. To close your account or request to delete your Personal Information, you may be able to make a request through your account or you can contact us as set out below. If your request relates to healthcare or other services received from a third party outside of TELUS Health to whom we have referred you, we will direct you to the appropriate third party who can assist you. URL: https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+        },
+        "source_documents": [
+            {
+                "id": "1fc5a6d8b786991c159dde33636c25186d365be45b7ec7cf9ec32d5b313a0bf4",
+                "score": 0.6345433,
+                "excerpt": "we rely on consent to collect, use and disclose your Personal Information (which may depend on the jurisdiction in which you are based), you can withdraw your consent to such collection, use and disclosure, subject to our legal, regulatory and contractual restrictions. However, if you refuse to provide certain information or withdraw your consent, this may limit our ability to provide you with the TELUS Health services. The withdrawal of your consent does not affect the lawfulness of our collect...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "1f04cff6f30acc717cee44aa9779de183762a23a24dcb9601ce5dd0f20e86248",
+                "score": 0.36613634,
+                "excerpt": "to the third party.\nFor more information about our retention processes or to request deletion of your Personal Information, please contact us at [email protected].\n14. Safeguards\nWe have implemented a comprehensive information security program.\n15. Data Subject Rights Requests\nYou can request access to or correction of your Personal Information, or withdraw your consent to the collection, use or disclosure of your Personal Information, by contacting us at\n[email protected]\nor utilizing service-s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "287afd28ef32e2bbfb04a3a5b70c7b5a4729733da23f76af87226aca331b4bd9",
+                "score": 0.17610413,
+                "excerpt": "protecting your Personal Health Information and we are directly accountable to you. In Alberta, Northwest Territories, and Yukon, your Healthcare Practitioners who are designated as ‘health information custodians’ or ‘custodians’ under applicable legislation (Alberta’s Health Information Act, Northwest Territories’ Health Information Act, and Yukon’s Health Information Privacy and Management Act), have overall responsibility for the privacy of your Personal Health Information and TELUS Health co...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "f25398bde714bf99c4681d0f5fedf8b9a46461ebfc21527e05b0b8d3c4ee3950",
+                "score": 0.0921962,
+                "excerpt": "your use of our services, such as your weight, height, body mass index, waist circumference, cholesterol, lipoprotein, triglycerides, glucose and blood pressure readings, sleep patterns or other similar information provided by you through connected devices or through any assessment you complete.\nLifestyle information:\nYour alcohol consumption, tobacco/nicotine use, eating and nutrition (e.g., number of servings of food groups and nutrition related questions), cardiovascular disease risk, emotion...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "5157920dab3bb50945d674d61c81ea75ed9fe5e76a3b0b4641e38e0a49a1291e",
+                "score": 0.09170696,
+                "excerpt": "Information to set up an account for you where required to access and use the TELUS Health services.\nWe also collect other information from you as you use the TELUS Health services, such as:\n- app usage information\n- website and device information\n- cookies\nWe may use Personal Information to send you relevant marketing messages. You can opt out of receiving marketing messages at any time by following the unsubscribe instructions included in each of our marketing messages or by contacting us as s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1112006222,
+            "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares aggregated or anonymized information or insights with the TELUS Family and their clients, partners, and third-party service providers for research, planning, risk management, and product development. They ensure that the shared information cannot identify individuals and cannot be associated back to them.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": "Aggregated or anonymized information or insights with the TELUS Family and their clients, partners, and third-party service providers"
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares aggregated or anonymized information with specific parties for research and development purposes while ensuring the data's privacy.",
+            "reference": "We may share aggregated or anonymized information or insights with the TELUS Family and our clients, partners and third-party service providers to assist in research, planning, risk management, workforce analytics, or product and service development. When we provide this information, we take appropriate measures to ensure that the data does not identify you and cannot be associated back to you. URL: https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+        },
+        "source_documents": [
+            {
+                "id": "f70119c8533c4f00fe18750cffa341f3176f50e81ba050e2ec8862254bfcedff",
+                "score": 0.54676837,
+                "excerpt": "outside of TELUS Health to whom we have referred you, we will direct you to the appropriate third party who can assist you.\nTo collect, use or disclose Personal Information outside of the purposes contemplated in this Privacy Commitment, we will seek additional consent from you where required.\nWhen you provide Personal Information on behalf of a third party, such as a beneficiary, you represent that you have obtained all requisite consents and authority for us to collect, use, disclose and other...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "1f04cff6f30acc717cee44aa9779de183762a23a24dcb9601ce5dd0f20e86248",
+                "score": 0.53043413,
+                "excerpt": "to the third party.\nFor more information about our retention processes or to request deletion of your Personal Information, please contact us at [email protected].\n14. Safeguards\nWe have implemented a comprehensive information security program.\n15. Data Subject Rights Requests\nYou can request access to or correction of your Personal Information, or withdraw your consent to the collection, use or disclosure of your Personal Information, by contacting us at\n[email protected]\nor utilizing service-s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "b1550ca69b240936f834957026eaf2a9c15fcc859dd7d61f7a3ef5c6dfcf2117",
+                "score": 0.14487323,
+                "excerpt": "and the security of your Personal Information;\n- To conduct analytics and/or research in a privacy protective manner to:\n- Better understand and improve the TELUS Health services;\n- To operate and expand our business opportunities; and\n- To improve health outcomes.\nWe may share aggregated or anonymized information or insights with the TELUS Family and our clients, partners and third-party service providers to assist in research, planning, risk management, workforce analytics, or product and serv...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "5157920dab3bb50945d674d61c81ea75ed9fe5e76a3b0b4641e38e0a49a1291e",
+                "score": 0.03296124,
+                "excerpt": "Information to set up an account for you where required to access and use the TELUS Health services.\nWe also collect other information from you as you use the TELUS Health services, such as:\n- app usage information\n- website and device information\n- cookies\nWe may use Personal Information to send you relevant marketing messages. You can opt out of receiving marketing messages at any time by following the unsubscribe instructions included in each of our marketing messages or by contacting us as s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "287afd28ef32e2bbfb04a3a5b70c7b5a4729733da23f76af87226aca331b4bd9",
+                "score": 0.032283258,
+                "excerpt": "protecting your Personal Health Information and we are directly accountable to you. In Alberta, Northwest Territories, and Yukon, your Healthcare Practitioners who are designated as ‘health information custodians’ or ‘custodians’ under applicable legislation (Alberta’s Health Information Act, Northwest Territories’ Health Information Act, and Yukon’s Health Information Privacy and Management Act), have overall responsibility for the privacy of your Personal Health Information and TELUS Health co...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1112006222,
+            "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "TELUS Family, clients, partners, and third-party service providers",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "TELUS Family",
+                        "clients",
+                        "partners",
+                        "third-party service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that TELUS Health may share aggregated or anonymized information with the TELUS Family, clients, partners, and third-party service providers for various purposes.",
+            "reference": "We may share aggregated or anonymized information or insights with the TELUS Family and our clients, partners and third-party service providers to assist in research, planning, risk management, workforce analytics, or product and service development. When we provide this information, we take appropriate measures to ensure that the data does not identify you and cannot be associated back to you. URL: https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+        },
+        "source_documents": [
+            {
+                "id": "f70119c8533c4f00fe18750cffa341f3176f50e81ba050e2ec8862254bfcedff",
+                "score": 0.304145,
+                "excerpt": "outside of TELUS Health to whom we have referred you, we will direct you to the appropriate third party who can assist you.\nTo collect, use or disclose Personal Information outside of the purposes contemplated in this Privacy Commitment, we will seek additional consent from you where required.\nWhen you provide Personal Information on behalf of a third party, such as a beneficiary, you represent that you have obtained all requisite consents and authority for us to collect, use, disclose and other...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "1f04cff6f30acc717cee44aa9779de183762a23a24dcb9601ce5dd0f20e86248",
+                "score": 0.2971639,
+                "excerpt": "to the third party.\nFor more information about our retention processes or to request deletion of your Personal Information, please contact us at [email protected].\n14. Safeguards\nWe have implemented a comprehensive information security program.\n15. Data Subject Rights Requests\nYou can request access to or correction of your Personal Information, or withdraw your consent to the collection, use or disclosure of your Personal Information, by contacting us at\n[email protected]\nor utilizing service-s...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "b1550ca69b240936f834957026eaf2a9c15fcc859dd7d61f7a3ef5c6dfcf2117",
+                "score": 0.2905781,
+                "excerpt": "and the security of your Personal Information;\n- To conduct analytics and/or research in a privacy protective manner to:\n- Better understand and improve the TELUS Health services;\n- To operate and expand our business opportunities; and\n- To improve health outcomes.\nWe may share aggregated or anonymized information or insights with the TELUS Family and our clients, partners and third-party service providers to assist in research, planning, risk management, workforce analytics, or product and serv...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "540d3cf822c563ada484052021fcdafce488584bcf45da00c87f5cd78a890e44",
+                "score": 0.0921962,
+                "excerpt": "TELUS Health;\n- If you contact us with a complaint or query;\n- When you engage with us over social media; and/or\n- From legally authorized third parties.\n6. Children’s information\nWe will not knowingly collect, use or disclose your Personal Information if you are under the age of majority in your area (or such other age as specified by applicable law in the jurisdiction in which you are based) without the permission of your parent or guardian. If you are underage and want to access our counselli...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            },
+            {
+                "id": "37b9d20ab50111f97184ac0e352db71e69ddddb4c15983d044525bcf6522ca8a",
+                "score": 0.072374016,
+                "excerpt": "who are contracted to perform services or functions on our behalf where they require the information to assist us in serving you. We use contractual controls to protect this information and limit its use to what is necessary for the service provider to perform the service.\n11. Storage of information and international transfers\nTELUS Health is a global organization with affiliates and partners located in many countries around the world. The TELUS Health services are managed in Canada, the Europea...",
+                "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate"
+            }
+        ]
+    }
+]

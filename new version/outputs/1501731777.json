@@ -1,0 +1,330 @@
+[
+    {
+        "meta": {
+            "id": 1501731777,
+            "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects Personal Information when users register or use the product.",
+            "reference": "We collect Personal Information when you register for an account or when you use the Product. This can include information about the content you provide or the frequency and duration of your activities. When you register with us, the Product will directly ask you for and/or collect Personal Information (for example: gender, country of residence, relationship status, etc.). URL: http://mindwindowapp.com/support/policies/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ce72c1474fc63bb2da04af4fc0b8cf9eea84ff884de9450eabf11e9962d0989f",
+                "score": 0.34587815,
+                "excerpt": "Last Updated: January 08, 2020\nThe following Privacy Policy explains how information about you is collected, used and disclosed by the Arizona Board of Regents on behalf of the University of Arizona (“University,” “we,” or “us”) when you access or use the ‘Mind Window’ mobile application (“Mind Window,” or “Product”), or when you otherwise interact with us. By using the Product, you (“you”) agree that your personal information and data (collectively, “Personal Information”) will be dealt with in...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "df64035eeae1d19f9ca1d40561be634290ddef8fa80f834f70d69ea9ee8bf8fe",
+                "score": 0.021656677,
+                "excerpt": "that is under our control. We review our security and privacy policies (posted on our website at https://mindwindowapp.com/support/policies/) periodically and improve them where it is reasonably possible to do so. We do not guarantee that loss, unauthorized use, corruption and/or alteration of information will never occur, but we use all reasonable efforts to prevent it.\nContacting Us\nIf you have any questions about this Privacy Policy, please contact us at support@MindWindowApp.com.",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9b1cd7a0805ef546150a4ed510091a69a26b694bd4d9e0c34263bbd5aea56b27",
+                "score": 0.014392336,
+                "excerpt": "register for an account or when you use the Product. This can include information about the content you provide or the frequency and duration of your activities. When you register with us, the Product will directly ask you for and/or collect Personal Information (for example: gender, country of residence, relationship status, etc.). We may collect information about the mobile device you use to access the Product, including the hardware model, operating system and version, device identifiers, and...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9d1f6bb35b4e46f63e0fddc1a6bd569eaa69fdc284d8405b1c06d7ddff42b9d4",
+                "score": 0.011115014,
+                "excerpt": "based in the United States (through the Google Firebase platform). By accessing or using the Product or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. Should you use the Product in other countries, you may not have the same rights as you do under U.S. law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. The complete Privacy and Security statement...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9e5dfdc2cd698521fa433d981c9bb8d2af9057525d0e1177dd572646be728280",
+                "score": 0.0024438866,
+                "excerpt": "and, in the case of physical records, locked storage facilities. For all records, access to Personal Information is restricted to only those individuals involved in the management or analysis of such data.\nWe cannot guarantee the security of data you submit via the Product in transit over the internet and any such submission is at entirely your own risk. However, communication between the Product and our servers utilizes industry-standard https protocol for secure, encrypted data transmission. A...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1501731777,
+            "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as gender, country of residence, relationship status, mobile device information (hardware model, operating system, device identifiers, mobile network information), and any data provided when contacting customer support.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Gender",
+                        "Country of residence",
+                        "Relationship status",
+                        "Mobile device information",
+                        "Contact details (when contacting customer support)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document mentions the types of data collected, ranging from personal information to mobile device details and customer support interaction data.",
+            "reference": "The app collects Personal Information when you register for an account or when you use the Product. This can include information about the content you provide or the frequency and duration of your activities. ... When you register with us, the Product will directly ask you for and/or collect Personal Information (for example: gender, country of residence, relationship status, etc.). We may collect information about the mobile device you use to access the Product, including the hardware model, operating system and version, device identifiers, and mobile network information. ... If you contact us in relation to the Product (via email, telephone, post or otherwise), we may collect and retain your contact details and your communication for the purpose of handling your query and keeping records of communications. URL: http://mindwindowapp.com/support/policies/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ce72c1474fc63bb2da04af4fc0b8cf9eea84ff884de9450eabf11e9962d0989f",
+                "score": 0.36590973,
+                "excerpt": "Last Updated: January 08, 2020\nThe following Privacy Policy explains how information about you is collected, used and disclosed by the Arizona Board of Regents on behalf of the University of Arizona (“University,” “we,” or “us”) when you access or use the ‘Mind Window’ mobile application (“Mind Window,” or “Product”), or when you otherwise interact with us. By using the Product, you (“you”) agree that your personal information and data (collectively, “Personal Information”) will be dealt with in...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9b1cd7a0805ef546150a4ed510091a69a26b694bd4d9e0c34263bbd5aea56b27",
+                "score": 0.091544405,
+                "excerpt": "register for an account or when you use the Product. This can include information about the content you provide or the frequency and duration of your activities. When you register with us, the Product will directly ask you for and/or collect Personal Information (for example: gender, country of residence, relationship status, etc.). We may collect information about the mobile device you use to access the Product, including the hardware model, operating system and version, device identifiers, and...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "df64035eeae1d19f9ca1d40561be634290ddef8fa80f834f70d69ea9ee8bf8fe",
+                "score": 0.011463797,
+                "excerpt": "that is under our control. We review our security and privacy policies (posted on our website at https://mindwindowapp.com/support/policies/) periodically and improve them where it is reasonably possible to do so. We do not guarantee that loss, unauthorized use, corruption and/or alteration of information will never occur, but we use all reasonable efforts to prevent it.\nContacting Us\nIf you have any questions about this Privacy Policy, please contact us at support@MindWindowApp.com.",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9d1f6bb35b4e46f63e0fddc1a6bd569eaa69fdc284d8405b1c06d7ddff42b9d4",
+                "score": 0.007232764,
+                "excerpt": "based in the United States (through the Google Firebase platform). By accessing or using the Product or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. Should you use the Product in other countries, you may not have the same rights as you do under U.S. law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. The complete Privacy and Security statement...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "79533c8d5d9e3e08e4b48c53b9fee09c9dab6d1141205b295bd8dd70a289a817",
+                "score": 0.0040072887,
+                "excerpt": "the services you request and send you related information, including receipts or confirmations;\n- Send you technical notices, updates, security alerts and support and administrative messages;\n- Monitor and analyze trends, usage and activities in connection with our Services;\n- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the University.\nSharing Personal Information\nWe do not rent, sell, or share Personal Information a...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1501731777,
+            "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that personal information collected is used for specific purposes, such as providing and improving services, sending relevant information, monitoring trends, and preventing fraud.",
+            "reference": "Personal Information and other details about you that you supply as part of the registration process or that are collected by us when you use the Product are used to provide you with the services as set out in the Consent to Research Form. URL: http://mindwindowapp.com/support/policies/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9d1f6bb35b4e46f63e0fddc1a6bd569eaa69fdc284d8405b1c06d7ddff42b9d4",
+                "score": 0.10302442,
+                "excerpt": "based in the United States (through the Google Firebase platform). By accessing or using the Product or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. Should you use the Product in other countries, you may not have the same rights as you do under U.S. law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. The complete Privacy and Security statement...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9b1cd7a0805ef546150a4ed510091a69a26b694bd4d9e0c34263bbd5aea56b27",
+                "score": 0.057599206,
+                "excerpt": "register for an account or when you use the Product. This can include information about the content you provide or the frequency and duration of your activities. When you register with us, the Product will directly ask you for and/or collect Personal Information (for example: gender, country of residence, relationship status, etc.). We may collect information about the mobile device you use to access the Product, including the hardware model, operating system and version, device identifiers, and...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "ce72c1474fc63bb2da04af4fc0b8cf9eea84ff884de9450eabf11e9962d0989f",
+                "score": 0.028925717,
+                "excerpt": "Last Updated: January 08, 2020\nThe following Privacy Policy explains how information about you is collected, used and disclosed by the Arizona Board of Regents on behalf of the University of Arizona (“University,” “we,” or “us”) when you access or use the ‘Mind Window’ mobile application (“Mind Window,” or “Product”), or when you otherwise interact with us. By using the Product, you (“you”) agree that your personal information and data (collectively, “Personal Information”) will be dealt with in...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "df64035eeae1d19f9ca1d40561be634290ddef8fa80f834f70d69ea9ee8bf8fe",
+                "score": 0.013636836,
+                "excerpt": "that is under our control. We review our security and privacy policies (posted on our website at https://mindwindowapp.com/support/policies/) periodically and improve them where it is reasonably possible to do so. We do not guarantee that loss, unauthorized use, corruption and/or alteration of information will never occur, but we use all reasonable efforts to prevent it.\nContacting Us\nIf you have any questions about this Privacy Policy, please contact us at support@MindWindowApp.com.",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "79533c8d5d9e3e08e4b48c53b9fee09c9dab6d1141205b295bd8dd70a289a817",
+                "score": 0.0017683518,
+                "excerpt": "the services you request and send you related information, including receipts or confirmations;\n- Send you technical notices, updates, security alerts and support and administrative messages;\n- Monitor and analyze trends, usage and activities in connection with our Services;\n- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the University.\nSharing Personal Information\nWe do not rent, sell, or share Personal Information a...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1501731777,
+            "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy mentions that users can opt out of data collection or delete data.",
+            "reference": "We reserve the right to use a persistent store of additional data in the future and such changes will be updated in this Privacy Policy. Mobile Notifications/Alerts With your consent, we may send local notifications to your mobile device. These notifications are local to your device but we reserve the right to change these notifications to utilize server-based push services at any point in the future. You can elect to stop receiving these messages at any time by changing the notification settings for the Product on your mobile device. URL: http://mindwindowapp.com/support/policies/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "df64035eeae1d19f9ca1d40561be634290ddef8fa80f834f70d69ea9ee8bf8fe",
+                "score": 0.04069295,
+                "excerpt": "that is under our control. We review our security and privacy policies (posted on our website at https://mindwindowapp.com/support/policies/) periodically and improve them where it is reasonably possible to do so. We do not guarantee that loss, unauthorized use, corruption and/or alteration of information will never occur, but we use all reasonable efforts to prevent it.\nContacting Us\nIf you have any questions about this Privacy Policy, please contact us at support@MindWindowApp.com.",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9d1f6bb35b4e46f63e0fddc1a6bd569eaa69fdc284d8405b1c06d7ddff42b9d4",
+                "score": 0.016152835,
+                "excerpt": "based in the United States (through the Google Firebase platform). By accessing or using the Product or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. Should you use the Product in other countries, you may not have the same rights as you do under U.S. law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. The complete Privacy and Security statement...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "ce72c1474fc63bb2da04af4fc0b8cf9eea84ff884de9450eabf11e9962d0989f",
+                "score": 0.0140636265,
+                "excerpt": "Last Updated: January 08, 2020\nThe following Privacy Policy explains how information about you is collected, used and disclosed by the Arizona Board of Regents on behalf of the University of Arizona (“University,” “we,” or “us”) when you access or use the ‘Mind Window’ mobile application (“Mind Window,” or “Product”), or when you otherwise interact with us. By using the Product, you (“you”) agree that your personal information and data (collectively, “Personal Information”) will be dealt with in...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "d2b190025b09b68561527a5139e70e5a26c485eb5a868203bed149025dfacb94",
+                "score": 0.011869121,
+                "excerpt": "automatic log-ins, your username and password will be persistently stored locally on your device in accordance with the standard technology provided by your device’s operating system. If you wish to prevent the persistent storage of information on your device, then this capability can be turned off in the Product. We reserve the right to use a persistent store of additional data in the future and such changes will be updated in this Privacy Policy.\nMobile Notifications/Alerts\nWith your consent, ...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9e5dfdc2cd698521fa433d981c9bb8d2af9057525d0e1177dd572646be728280",
+                "score": 0.007289077,
+                "excerpt": "and, in the case of physical records, locked storage facilities. For all records, access to Personal Information is restricted to only those individuals involved in the management or analysis of such data.\nWe cannot guarantee the security of data you submit via the Product in transit over the internet and any such submission is at entirely your own risk. However, communication between the Product and our servers utilizes industry-standard https protocol for secure, encrypted data transmission. A...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1501731777,
+            "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third-party vendors, consultants, service providers, and others under specific circumstances.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share Personal Information in certain situations, such as to provide products or services, in response to requests complying with the law, and to protect rights and safety.",
+            "reference": "We do not rent, sell, or share Personal Information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances: - For third party vendors, consultants and other service providers to carry out work on our behalf; - In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process; - To protect the rights, property and safety of the University or others; and - Under your consent or at your direction. URL: http://mindwindowapp.com/support/policies/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "79533c8d5d9e3e08e4b48c53b9fee09c9dab6d1141205b295bd8dd70a289a817",
+                "score": 0.5922539,
+                "excerpt": "the services you request and send you related information, including receipts or confirmations;\n- Send you technical notices, updates, security alerts and support and administrative messages;\n- Monitor and analyze trends, usage and activities in connection with our Services;\n- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the University.\nSharing Personal Information\nWe do not rent, sell, or share Personal Information a...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "df64035eeae1d19f9ca1d40561be634290ddef8fa80f834f70d69ea9ee8bf8fe",
+                "score": 0.10894504,
+                "excerpt": "that is under our control. We review our security and privacy policies (posted on our website at https://mindwindowapp.com/support/policies/) periodically and improve them where it is reasonably possible to do so. We do not guarantee that loss, unauthorized use, corruption and/or alteration of information will never occur, but we use all reasonable efforts to prevent it.\nContacting Us\nIf you have any questions about this Privacy Policy, please contact us at support@MindWindowApp.com.",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9d1f6bb35b4e46f63e0fddc1a6bd569eaa69fdc284d8405b1c06d7ddff42b9d4",
+                "score": 0.056548133,
+                "excerpt": "based in the United States (through the Google Firebase platform). By accessing or using the Product or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. Should you use the Product in other countries, you may not have the same rights as you do under U.S. law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. The complete Privacy and Security statement...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9e5dfdc2cd698521fa433d981c9bb8d2af9057525d0e1177dd572646be728280",
+                "score": 0.05520869,
+                "excerpt": "and, in the case of physical records, locked storage facilities. For all records, access to Personal Information is restricted to only those individuals involved in the management or analysis of such data.\nWe cannot guarantee the security of data you submit via the Product in transit over the internet and any such submission is at entirely your own risk. However, communication between the Product and our servers utilizes industry-standard https protocol for secure, encrypted data transmission. A...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "ce72c1474fc63bb2da04af4fc0b8cf9eea84ff884de9450eabf11e9962d0989f",
+                "score": 0.04426588,
+                "excerpt": "Last Updated: January 08, 2020\nThe following Privacy Policy explains how information about you is collected, used and disclosed by the Arizona Board of Regents on behalf of the University of Arizona (“University,” “we,” or “us”) when you access or use the ‘Mind Window’ mobile application (“Mind Window,” or “Product”), or when you otherwise interact with us. By using the Product, you (“you”) agree that your personal information and data (collectively, “Personal Information”) will be dealt with in...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1501731777,
+            "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third party vendors, consultants, and other service providers to carry out work on behalf of the University, in response to legal requests, to protect rights, property, and safety, and with user consent or direction.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Third party vendors",
+                        "Consultants",
+                        "Other service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with third party vendors, consultants, and other service providers for work on behalf of the University, responding to legal requests, protecting rights and safety, and with user consent or direction.",
+            "reference": "For third party vendors, consultants and other service providers to carry out work on our behalf; In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process; To protect the rights, property and safety of the University or others; and Under your consent or at your direction. URL: http://mindwindowapp.com/support/policies/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "79533c8d5d9e3e08e4b48c53b9fee09c9dab6d1141205b295bd8dd70a289a817",
+                "score": 0.4315243,
+                "excerpt": "the services you request and send you related information, including receipts or confirmations;\n- Send you technical notices, updates, security alerts and support and administrative messages;\n- Monitor and analyze trends, usage and activities in connection with our Services;\n- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of the University.\nSharing Personal Information\nWe do not rent, sell, or share Personal Information a...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9e5dfdc2cd698521fa433d981c9bb8d2af9057525d0e1177dd572646be728280",
+                "score": 0.030792167,
+                "excerpt": "and, in the case of physical records, locked storage facilities. For all records, access to Personal Information is restricted to only those individuals involved in the management or analysis of such data.\nWe cannot guarantee the security of data you submit via the Product in transit over the internet and any such submission is at entirely your own risk. However, communication between the Product and our servers utilizes industry-standard https protocol for secure, encrypted data transmission. A...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "df64035eeae1d19f9ca1d40561be634290ddef8fa80f834f70d69ea9ee8bf8fe",
+                "score": 0.029873092,
+                "excerpt": "that is under our control. We review our security and privacy policies (posted on our website at https://mindwindowapp.com/support/policies/) periodically and improve them where it is reasonably possible to do so. We do not guarantee that loss, unauthorized use, corruption and/or alteration of information will never occur, but we use all reasonable efforts to prevent it.\nContacting Us\nIf you have any questions about this Privacy Policy, please contact us at support@MindWindowApp.com.",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "9d1f6bb35b4e46f63e0fddc1a6bd569eaa69fdc284d8405b1c06d7ddff42b9d4",
+                "score": 0.016979992,
+                "excerpt": "based in the United States (through the Google Firebase platform). By accessing or using the Product or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. Should you use the Product in other countries, you may not have the same rights as you do under U.S. law. Where this is the case, we will take appropriate measures to protect information about you in accordance with this Privacy Policy. The complete Privacy and Security statement...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            },
+            {
+                "id": "ce72c1474fc63bb2da04af4fc0b8cf9eea84ff884de9450eabf11e9962d0989f",
+                "score": 0.011201214,
+                "excerpt": "Last Updated: January 08, 2020\nThe following Privacy Policy explains how information about you is collected, used and disclosed by the Arizona Board of Regents on behalf of the University of Arizona (“University,” “we,” or “us”) when you access or use the ‘Mind Window’ mobile application (“Mind Window,” or “Product”), or when you otherwise interact with us. By using the Product, you (“you”) agree that your personal information and data (collectively, “Personal Information”) will be dealt with in...",
+                "url": "http://mindwindowapp.com/support/policies/privacy-policy/"
+            }
+        ]
+    }
+]

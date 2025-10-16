@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 1212999482,
+            "url": "https://www.iubenda.com/privacy-policy/78522884",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the application collects Personal Data from its Users.",
+            "reference": "This Application collects some Personal Data from its Users. URL: https://www.iubenda.com/privacy-policy/78522884"
+        },
+        "source_documents": [
+            {
+                "id": "f41cf6c34bf2360574b229c7191a51ae2a54dacc98484a0e8382af9bfd8e17ab",
+                "score": 0.86060363,
+                "excerpt": "impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.\nThe User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.\nThe User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.\nIn addition to the information contained in this privacy p...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "04dfc94d61bdf047367bc1ce6d911fed28e94177b42f2dc87bfa904a6d7359b3",
+                "score": 0.3619537,
+                "excerpt": "This Application collects some Personal Data from its Users.\nUsers may be subject to different protection standards and broader standards may therefore apply to some. Users can contact the Owner, to learn more about such standards.\nThis document can be printed for reference by using the print command in the settings of any browser.\nPersonal Data: Application opens; device information; Usage Data; User ID\nPersonal Data: device information; purchase history\nPersonal Data: various types of Data as ...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "82069dd36d57c969104af9760d31c43451f50648303863395336d16640c7646d",
+                "score": 0.112600096,
+                "excerpt": "be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.\nUnless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.\nU...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "c45862593b5137407dcdac44ca66be061e920c4e340f8a74ed35ae40f75e167a",
+                "score": 0.020884216,
+                "excerpt": "be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.\nThe Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Infrastruct...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "39eed6eb22c9ad563021eb03b1c24dc620afa9cb3a5bac29235ebaf486f395f7",
+                "score": 0.01621503,
+                "excerpt": "processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, commu...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1212999482,
+            "url": "https://www.iubenda.com/privacy-policy/78522884",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects device information, Usage Data, Application opens, User ID, purchase history, diagnostics, and product interaction.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "device information",
+                        "Usage Data",
+                        "Application opens",
+                        "User ID",
+                        "purchase history",
+                        "diagnostics",
+                        "product interaction"
+                    ]
+                }
+            },
+            "analysis": "The types of data collected by the app are explicitly listed in the privacy policy document under the section 'Among the types of Personal Data that this Application collects.'",
+            "reference": "Personal Data: device information; Usage Data; Application opens; User ID; purchase history; diagnostics; product interaction. URL: https://www.iubenda.com/privacy-policy/78522884"
+        },
+        "source_documents": [
+            {
+                "id": "04dfc94d61bdf047367bc1ce6d911fed28e94177b42f2dc87bfa904a6d7359b3",
+                "score": 0.95751673,
+                "excerpt": "This Application collects some Personal Data from its Users.\nUsers may be subject to different protection standards and broader standards may therefore apply to some. Users can contact the Owner, to learn more about such standards.\nThis document can be printed for reference by using the print command in the settings of any browser.\nPersonal Data: Application opens; device information; Usage Data; User ID\nPersonal Data: device information; purchase history\nPersonal Data: various types of Data as ...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "f41cf6c34bf2360574b229c7191a51ae2a54dacc98484a0e8382af9bfd8e17ab",
+                "score": 0.7576151,
+                "excerpt": "impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.\nThe User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.\nThe User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.\nIn addition to the information contained in this privacy p...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "c45862593b5137407dcdac44ca66be061e920c4e340f8a74ed35ae40f75e167a",
+                "score": 0.26990253,
+                "excerpt": "be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.\nThe Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Infrastruct...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "82069dd36d57c969104af9760d31c43451f50648303863395336d16640c7646d",
+                "score": 0.14330755,
+                "excerpt": "be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.\nUnless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.\nU...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "39eed6eb22c9ad563021eb03b1c24dc620afa9cb3a5bac29235ebaf486f395f7",
+                "score": 0.055823144,
+                "excerpt": "processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, commu...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1212999482,
+            "url": "https://www.iubenda.com/privacy-policy/78522884",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "No specific declaration of the purpose of data collection and use is provided in the privacy policy.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy does not explicitly state the purposes for which data is collected and used, leading to the conclusion that the app does not declare the purpose of data collection and use.",
+            "reference": "No specific declaration of the purpose of data collection and use is provided in the privacy policy. URL: https://www.iubenda.com/privacy-policy/78522884"
+        },
+        "source_documents": [
+            {
+                "id": "f41cf6c34bf2360574b229c7191a51ae2a54dacc98484a0e8382af9bfd8e17ab",
+                "score": 0.8492224,
+                "excerpt": "impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.\nThe User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.\nThe User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.\nIn addition to the information contained in this privacy p...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "82069dd36d57c969104af9760d31c43451f50648303863395336d16640c7646d",
+                "score": 0.38601097,
+                "excerpt": "be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.\nUnless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.\nU...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "c45862593b5137407dcdac44ca66be061e920c4e340f8a74ed35ae40f75e167a",
+                "score": 0.16599831,
+                "excerpt": "be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.\nThe Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Infrastruct...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "1b71b17bcc17c8a5fed5d1f4a5ba14002053e3c03f3258f73827fc6cb6dd78ba",
+                "score": 0.09756223,
+                "excerpt": "the purposes of processing, the categories of recipients of the Personal Data, if any, and further information about Personal Data can be found in the section titled “Detailed information on the processing of Personal Data” within this document.\nThe Owner may process Personal Data relating to Users if one of the following applies:\nIn any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "39eed6eb22c9ad563021eb03b1c24dc620afa9cb3a5bac29235ebaf486f395f7",
+                "score": 0.09351231,
+                "excerpt": "processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, commu...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1212999482,
+            "url": "https://www.iubenda.com/privacy-policy/78522884",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection for direct marketing purposes. They can object to the processing for direct marketing purposes at any time, free of charge, and without providing any justification. This will result in the Personal Data no longer being processed for such purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the right to object to the processing of their Personal Data for direct marketing purposes, free of charge and without providing justification, thereby allowing them to opt out of data collection for such purposes.",
+            "reference": "Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. URL: https://www.iubenda.com/privacy-policy/78522884"
+        },
+        "source_documents": [
+            {
+                "id": "d182bcb3f5fdedee7560c785b53ae092097f311ad055347780cd4654c2333587",
+                "score": 0.6725468,
+                "excerpt": "obliged to retain Personal Data for a longer period whenever required to fulfil a legal obligation or upon order of an authority.\nOnce the retention period expires, Personal Data shall be deleted. Therefore, the right of access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.\nUsers may exercise certain rights regarding their Data processed by the Owner.\nIn particular, Users have the right to do the fo...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "38170ebad53687ad641f6a4786a7eaad82ea32076cf1a971f674e560694738a0",
+                "score": 0.5130509,
+                "excerpt": "by providing a ground related to their particular situation to justify the objection.\nUsers must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time, free of charge and without providing any justification. Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "82069dd36d57c969104af9760d31c43451f50648303863395336d16640c7646d",
+                "score": 0.086632065,
+                "excerpt": "be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.\nUnless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.\nU...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "f41cf6c34bf2360574b229c7191a51ae2a54dacc98484a0e8382af9bfd8e17ab",
+                "score": 0.07369627,
+                "excerpt": "impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.\nThe User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.\nThe User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.\nIn addition to the information contained in this privacy p...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "c45862593b5137407dcdac44ca66be061e920c4e340f8a74ed35ae40f75e167a",
+                "score": 0.062445287,
+                "excerpt": "be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.\nThe Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Infrastruct...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1212999482,
+            "url": "https://www.iubenda.com/privacy-policy/78522884",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that users are responsible for any third-party Personal Data obtained, published, or shared through this Application, indicating that data is indeed shared with third parties.",
+            "reference": "Users are responsible for any third-party Personal Data obtained, published or shared through this Application. URL: https://www.iubenda.com/privacy-policy/78522884"
+        },
+        "source_documents": [
+            {
+                "id": "82069dd36d57c969104af9760d31c43451f50648303863395336d16640c7646d",
+                "score": 0.8098782,
+                "excerpt": "be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.\nUnless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.\nU...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "f41cf6c34bf2360574b229c7191a51ae2a54dacc98484a0e8382af9bfd8e17ab",
+                "score": 0.7090191,
+                "excerpt": "impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.\nThe User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.\nThe User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.\nIn addition to the information contained in this privacy p...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "39eed6eb22c9ad563021eb03b1c24dc620afa9cb3a5bac29235ebaf486f395f7",
+                "score": 0.45353413,
+                "excerpt": "processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, commu...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "04dfc94d61bdf047367bc1ce6d911fed28e94177b42f2dc87bfa904a6d7359b3",
+                "score": 0.3687466,
+                "excerpt": "This Application collects some Personal Data from its Users.\nUsers may be subject to different protection standards and broader standards may therefore apply to some. Users can contact the Owner, to learn more about such standards.\nThis document can be printed for reference by using the print command in the settings of any browser.\nPersonal Data: Application opens; device information; Usage Data; User ID\nPersonal Data: device information; purchase history\nPersonal Data: various types of Data as ...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "c45862593b5137407dcdac44ca66be061e920c4e340f8a74ed35ae40f75e167a",
+                "score": 0.043284845,
+                "excerpt": "be processed and stored for as long as required by the purpose they have been collected for and may be retained for longer due to applicable legal obligation or based on the Users’ consent.\nThe Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Infrastruct...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1212999482,
+            "url": "https://www.iubenda.com/privacy-policy/78522884",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties such as third-party technical service providers, mail carriers, hosting providers, IT companies, and communications agencies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "third-party technical service providers",
+                        "mail carriers",
+                        "hosting providers",
+                        "IT companies",
+                        "communications agencies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share data with certain types of persons in charge, including external parties, who may act as Data Processors. These third parties are essential for the operation of the application in various aspects.",
+            "reference": "third parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time. URL: https://www.iubenda.com/privacy-policy/78522884"
+        },
+        "source_documents": [
+            {
+                "id": "39eed6eb22c9ad563021eb03b1c24dc620afa9cb3a5bac29235ebaf486f395f7",
+                "score": 0.5995438,
+                "excerpt": "processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, commu...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "f41cf6c34bf2360574b229c7191a51ae2a54dacc98484a0e8382af9bfd8e17ab",
+                "score": 0.5519059,
+                "excerpt": "impossible or involves disproportionate effort. At the Users’ request, the Owner will inform them about those recipients.\nThe User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of this Application or the related Services.\nThe User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities.\nIn addition to the information contained in this privacy p...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "82069dd36d57c969104af9760d31c43451f50648303863395336d16640c7646d",
+                "score": 0.4853405,
+                "excerpt": "be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.\nUnless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.\nU...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "04dfc94d61bdf047367bc1ce6d911fed28e94177b42f2dc87bfa904a6d7359b3",
+                "score": 0.17092276,
+                "excerpt": "This Application collects some Personal Data from its Users.\nUsers may be subject to different protection standards and broader standards may therefore apply to some. Users can contact the Owner, to learn more about such standards.\nThis document can be printed for reference by using the print command in the settings of any browser.\nPersonal Data: Application opens; device information; Usage Data; User ID\nPersonal Data: device information; purchase history\nPersonal Data: various types of Data as ...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            },
+            {
+                "id": "38170ebad53687ad641f6a4786a7eaad82ea32076cf1a971f674e560694738a0",
+                "score": 0.047425874,
+                "excerpt": "by providing a ground related to their particular situation to justify the objection.\nUsers must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time, free of charge and without providing any justification. Where the User objects to processing for direct marketing purposes, the Personal Data will no longer be processed for such purposes. To learn whether the Owner is processing Personal Data for direct marketing...",
+                "url": "https://www.iubenda.com/privacy-policy/78522884"
+            }
+        ]
+    }
+]

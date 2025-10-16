@@ -1,0 +1,340 @@
+[
+    {
+        "meta": {
+            "id": 1624198363,
+            "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the collection of various types of data from students, schools, guardians, and other users.",
+            "reference": "Student information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students.... Automatically generated information. We gather certain information automatically when Students use the Service... Clayful may gather this information using cookies... URL: https://www.clayfulhealth.com/legal/student-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a9f5af412e085c9d084e4cf5c00d5c90ca483803cc617ef75147c32b8aed50c7",
+                "score": 0.0035796429,
+                "excerpt": "analytics services.\nWith professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us.\nAs required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. In particular, we may be a manda...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "bc2039bfbceac6535549ced3690a2dcd114c33ca51812180b1ad341b32a7e173",
+                "score": 0.003324437,
+                "excerpt": "COPPA. Clayful does not sell, license, or rent any student’s personal information, it does not engage in, inform, influence or enable advertising to students, and does not use students’ personal information other than to provide the Service or comply with legal obligations as described below.\nStudent information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students. From Schools, we collect a student ID...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "032ed330440432742048141927af753084bb6a4e9e12a52e08035e2acbb67a08",
+                "score": 0.0023596608,
+                "excerpt": "the other company and other parties assisting with the transaction.\nCOPPA permits guardians to request access to or deletion of children’s information and to instruct companies to stop collecting or using children’s information. Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwi...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "aa84889bd20aef84232319c18f6d48cd8ca7f1061faa47cc71f2dd240de1dd79",
+                "score": 0.0008761799,
+                "excerpt": "Students use the Service, such as IP address, browser type, information about how, how often and when a user engages with a page or feature of the Service. Clayful may gather this information using cookies (small data files on a computer’s browser), web beacons (invisible electronic images embedded on web pages) and similar technologies. In some cases, third parties may deliver cookies to the user’s browser on Clayful’s behalf. For example, Clayful uses Google Analytics to help measure the perfo...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "73fe0c5dd765e22a379c3271c327959610b22a7da009f7f77b5de05a6b915887",
+                "score": 0.0007014083,
+                "excerpt": "a School that 40% of its students experience anxiety about standardized tests) or sharing anonymized conversations in marketing materials and investor communications. We do not share identifiable student information with Schools or other third parties unless required to do so by law.\nImproving the Service. We use students’ information and automatically generated information to assess the effectiveness of coaching sessions and to improve our Service.\nResearch and development. We may use aggregate...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1624198363,
+            "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects a variety of data, including student information like student ID, attendance data, grade level, grades, demographic information, names, usernames/passwords, email addresses, phone numbers, information from chats, survey responses, and location information. It also collects school user information such as names and email addresses, guardians' information like names, emails, phone numbers, and addresses, and automatically generated information like IP addresses, browser types, engagement data, and information related to coaching sessions.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "student ID",
+                        "attendance data",
+                        "grade level",
+                        "grades",
+                        "demographic information",
+                        "names",
+                        "usernames/passwords",
+                        "email addresses",
+                        "phone numbers",
+                        "information from chats",
+                        "survey/emotional assessment responses",
+                        "location information",
+                        "school user information like names and email addresses",
+                        "guardians' information like names, emails, phone numbers, and addresses",
+                        "automatically generated information like IP address, browser type, engagement information, information related to coaching sessions"
+                    ]
+                }
+            },
+            "analysis": "The answer was derived from the section of the privacy policy that details the types of data collected from students, schools, guardians, and automatically generated sources.",
+            "reference": "N/A. URL: https://www.clayfulhealth.com/legal/student-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bc2039bfbceac6535549ced3690a2dcd114c33ca51812180b1ad341b32a7e173",
+                "score": 0.026506126,
+                "excerpt": "COPPA. Clayful does not sell, license, or rent any student’s personal information, it does not engage in, inform, influence or enable advertising to students, and does not use students’ personal information other than to provide the Service or comply with legal obligations as described below.\nStudent information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students. From Schools, we collect a student ID...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "aa84889bd20aef84232319c18f6d48cd8ca7f1061faa47cc71f2dd240de1dd79",
+                "score": 0.012722708,
+                "excerpt": "Students use the Service, such as IP address, browser type, information about how, how often and when a user engages with a page or feature of the Service. Clayful may gather this information using cookies (small data files on a computer’s browser), web beacons (invisible electronic images embedded on web pages) and similar technologies. In some cases, third parties may deliver cookies to the user’s browser on Clayful’s behalf. For example, Clayful uses Google Analytics to help measure the perfo...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "73fe0c5dd765e22a379c3271c327959610b22a7da009f7f77b5de05a6b915887",
+                "score": 0.004166256,
+                "excerpt": "a School that 40% of its students experience anxiety about standardized tests) or sharing anonymized conversations in marketing materials and investor communications. We do not share identifiable student information with Schools or other third parties unless required to do so by law.\nImproving the Service. We use students’ information and automatically generated information to assess the effectiveness of coaching sessions and to improve our Service.\nResearch and development. We may use aggregate...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "032ed330440432742048141927af753084bb6a4e9e12a52e08035e2acbb67a08",
+                "score": 0.0030634168,
+                "excerpt": "the other company and other parties assisting with the transaction.\nCOPPA permits guardians to request access to or deletion of children’s information and to instruct companies to stop collecting or using children’s information. Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwi...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "a9f5af412e085c9d084e4cf5c00d5c90ca483803cc617ef75147c32b8aed50c7",
+                "score": 0.0019043302,
+                "excerpt": "analytics services.\nWith professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us.\nAs required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. In particular, we may be a manda...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1624198363,
+            "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use, outlining various purposes it collects data for like coaching, creating aggregated/anonymized information, improving the service, research and development, providing customer support, and legal compliance.",
+            "reference": "Clayful may use personal information for: Coaching. We use students’ information to connect them with a coach and facilitate the coaching sessions. Creating aggregated/anonymized information. We may aggregate or anonymize the personal information we collect such that the resulting information (“Resulting Information”) cannot reasonably be linked to an individual or School... Legal compliance. We use personal information to comply with applicable laws and lawful requests, protect the rights and safety of Clayful, students, and others... URL: https://www.clayfulhealth.com/legal/student-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "aa84889bd20aef84232319c18f6d48cd8ca7f1061faa47cc71f2dd240de1dd79",
+                "score": 0.0107767265,
+                "excerpt": "Students use the Service, such as IP address, browser type, information about how, how often and when a user engages with a page or feature of the Service. Clayful may gather this information using cookies (small data files on a computer’s browser), web beacons (invisible electronic images embedded on web pages) and similar technologies. In some cases, third parties may deliver cookies to the user’s browser on Clayful’s behalf. For example, Clayful uses Google Analytics to help measure the perfo...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "bc2039bfbceac6535549ced3690a2dcd114c33ca51812180b1ad341b32a7e173",
+                "score": 0.0075187176,
+                "excerpt": "COPPA. Clayful does not sell, license, or rent any student’s personal information, it does not engage in, inform, influence or enable advertising to students, and does not use students’ personal information other than to provide the Service or comply with legal obligations as described below.\nStudent information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students. From Schools, we collect a student ID...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "73fe0c5dd765e22a379c3271c327959610b22a7da009f7f77b5de05a6b915887",
+                "score": 0.004054334,
+                "excerpt": "a School that 40% of its students experience anxiety about standardized tests) or sharing anonymized conversations in marketing materials and investor communications. We do not share identifiable student information with Schools or other third parties unless required to do so by law.\nImproving the Service. We use students’ information and automatically generated information to assess the effectiveness of coaching sessions and to improve our Service.\nResearch and development. We may use aggregate...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "a9f5af412e085c9d084e4cf5c00d5c90ca483803cc617ef75147c32b8aed50c7",
+                "score": 0.002019014,
+                "excerpt": "analytics services.\nWith professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us.\nAs required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. In particular, we may be a manda...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "032ed330440432742048141927af753084bb6a4e9e12a52e08035e2acbb67a08",
+                "score": 0.0010403185,
+                "excerpt": "the other company and other parties assisting with the transaction.\nCOPPA permits guardians to request access to or deletion of children’s information and to instruct companies to stop collecting or using children’s information. Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwi...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1624198363,
+            "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can request access to or deletion of their data by contacting the Schools, and the Schools will forward the requests to Clayful unless specified otherwise by contract or law.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can request access to or deletion of their data by contacting the Schools, indicating that there is a way for users to opt out of data collection or delete data.",
+            "reference": "Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwise. URL: https://www.clayfulhealth.com/legal/student-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "032ed330440432742048141927af753084bb6a4e9e12a52e08035e2acbb67a08",
+                "score": 0.33556855,
+                "excerpt": "the other company and other parties assisting with the transaction.\nCOPPA permits guardians to request access to or deletion of children’s information and to instruct companies to stop collecting or using children’s information. Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwi...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "a9f5af412e085c9d084e4cf5c00d5c90ca483803cc617ef75147c32b8aed50c7",
+                "score": 0.028816197,
+                "excerpt": "analytics services.\nWith professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us.\nAs required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. In particular, we may be a manda...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "bc2039bfbceac6535549ced3690a2dcd114c33ca51812180b1ad341b32a7e173",
+                "score": 0.0041179177,
+                "excerpt": "COPPA. Clayful does not sell, license, or rent any student’s personal information, it does not engage in, inform, influence or enable advertising to students, and does not use students’ personal information other than to provide the Service or comply with legal obligations as described below.\nStudent information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students. From Schools, we collect a student ID...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "73fe0c5dd765e22a379c3271c327959610b22a7da009f7f77b5de05a6b915887",
+                "score": 0.0021912407,
+                "excerpt": "a School that 40% of its students experience anxiety about standardized tests) or sharing anonymized conversations in marketing materials and investor communications. We do not share identifiable student information with Schools or other third parties unless required to do so by law.\nImproving the Service. We use students’ information and automatically generated information to assess the effectiveness of coaching sessions and to improve our Service.\nResearch and development. We may use aggregate...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "aa84889bd20aef84232319c18f6d48cd8ca7f1061faa47cc71f2dd240de1dd79",
+                "score": 0.0014437558,
+                "excerpt": "Students use the Service, such as IP address, browser type, information about how, how often and when a user engages with a page or feature of the Service. Clayful may gather this information using cookies (small data files on a computer’s browser), web beacons (invisible electronic images embedded on web pages) and similar technologies. In some cases, third parties may deliver cookies to the user’s browser on Clayful’s behalf. For example, Clayful uses Google Analytics to help measure the perfo...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1624198363,
+            "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does share data with third parties for various reasons such as providing the service effectively and legal compliance.",
+            "reference": "With service providers. Clayful may disclose information to third parties as necessary for them to help us provide the Service, including hosting, chat, and analytics services. URL: https://www.clayfulhealth.com/legal/student-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "73fe0c5dd765e22a379c3271c327959610b22a7da009f7f77b5de05a6b915887",
+                "score": 0.43512127,
+                "excerpt": "a School that 40% of its students experience anxiety about standardized tests) or sharing anonymized conversations in marketing materials and investor communications. We do not share identifiable student information with Schools or other third parties unless required to do so by law.\nImproving the Service. We use students’ information and automatically generated information to assess the effectiveness of coaching sessions and to improve our Service.\nResearch and development. We may use aggregate...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "a9f5af412e085c9d084e4cf5c00d5c90ca483803cc617ef75147c32b8aed50c7",
+                "score": 0.16858302,
+                "excerpt": "analytics services.\nWith professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us.\nAs required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. In particular, we may be a manda...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "aa84889bd20aef84232319c18f6d48cd8ca7f1061faa47cc71f2dd240de1dd79",
+                "score": 0.13409412,
+                "excerpt": "Students use the Service, such as IP address, browser type, information about how, how often and when a user engages with a page or feature of the Service. Clayful may gather this information using cookies (small data files on a computer’s browser), web beacons (invisible electronic images embedded on web pages) and similar technologies. In some cases, third parties may deliver cookies to the user’s browser on Clayful’s behalf. For example, Clayful uses Google Analytics to help measure the perfo...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "032ed330440432742048141927af753084bb6a4e9e12a52e08035e2acbb67a08",
+                "score": 0.030908957,
+                "excerpt": "the other company and other parties assisting with the transaction.\nCOPPA permits guardians to request access to or deletion of children’s information and to instruct companies to stop collecting or using children’s information. Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwi...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "bc2039bfbceac6535549ced3690a2dcd114c33ca51812180b1ad341b32a7e173",
+                "score": 0.011331754,
+                "excerpt": "COPPA. Clayful does not sell, license, or rent any student’s personal information, it does not engage in, inform, influence or enable advertising to students, and does not use students’ personal information other than to provide the Service or comply with legal obligations as described below.\nStudent information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students. From Schools, we collect a student ID...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1624198363,
+            "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers, professional advisors, and parties as required by law or to ensure safety.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers",
+                        "Professional advisors",
+                        "Parties as required by law or to ensure safety"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app may disclose information to service providers, professional advisors, and parties as required by law or to ensure safety. This provides a clear understanding of the third parties with whom data may be shared.",
+            "reference": "With service providers. Clayful may disclose information to third parties as necessary for them to help us provide the Service, including hosting, chat, and analytics services. With professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us. As required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. URL: https://www.clayfulhealth.com/legal/student-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "73fe0c5dd765e22a379c3271c327959610b22a7da009f7f77b5de05a6b915887",
+                "score": 0.6401861,
+                "excerpt": "a School that 40% of its students experience anxiety about standardized tests) or sharing anonymized conversations in marketing materials and investor communications. We do not share identifiable student information with Schools or other third parties unless required to do so by law.\nImproving the Service. We use students’ information and automatically generated information to assess the effectiveness of coaching sessions and to improve our Service.\nResearch and development. We may use aggregate...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "a9f5af412e085c9d084e4cf5c00d5c90ca483803cc617ef75147c32b8aed50c7",
+                "score": 0.2168396,
+                "excerpt": "analytics services.\nWith professional advisors. Clayful may disclose information to professional advisors like lawyers and accountants where doing so is necessary to facilitate the services those advisors provide to us.\nAs required by law or to ensure safety. Clayful may be required to disclose or grant access to personal information to law enforcement, government authorities, and other parties in order to comply with law enforcement requests and legal processes. In particular, we may be a manda...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "032ed330440432742048141927af753084bb6a4e9e12a52e08035e2acbb67a08",
+                "score": 0.088504665,
+                "excerpt": "the other company and other parties assisting with the transaction.\nCOPPA permits guardians to request access to or deletion of children’s information and to instruct companies to stop collecting or using children’s information. Since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School, unless Clayful’s contract with the School or applicable law requires otherwi...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "aa84889bd20aef84232319c18f6d48cd8ca7f1061faa47cc71f2dd240de1dd79",
+                "score": 0.07146149,
+                "excerpt": "Students use the Service, such as IP address, browser type, information about how, how often and when a user engages with a page or feature of the Service. Clayful may gather this information using cookies (small data files on a computer’s browser), web beacons (invisible electronic images embedded on web pages) and similar technologies. In some cases, third parties may deliver cookies to the user’s browser on Clayful’s behalf. For example, Clayful uses Google Analytics to help measure the perfo...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            },
+            {
+                "id": "bc2039bfbceac6535549ced3690a2dcd114c33ca51812180b1ad341b32a7e173",
+                "score": 0.008985428,
+                "excerpt": "COPPA. Clayful does not sell, license, or rent any student’s personal information, it does not engage in, inform, influence or enable advertising to students, and does not use students’ personal information other than to provide the Service or comply with legal obligations as described below.\nStudent information. With Schools and/or guardians consent, we collect student information as needed to provide and evaluate its Service from both Schools and students. From Schools, we collect a student ID...",
+                "url": "https://www.clayfulhealth.com/legal/student-privacy-policy"
+            }
+        ]
+    }
+]

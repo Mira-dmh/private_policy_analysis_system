@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1493155192,
+      "url": "https://wevibin.co/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal information is collected when users purchase services or create an account, and it also mentions the collection of information related to cognitive performance and attention testing services, as well as web-behavior information through tracking technology.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of information collected directly from users and through third parties.",
+          "content": "The app collects personal information such as name, address, payment information, and additional data for cognitive testing services. It also collects web-behavior information through tracking technologies."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected from users, ensuring transparency about data collection practices.",
+      "reference": "Section 1: Information we collect directly from you or through a third party"
+    }
+  },
+  {
+    "meta": {
+      "id": 1493155192,
+      "url": "https://wevibin.co/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including personal information such as name, billing and shipping address, payment information, and contact information when users create an account or purchase services. Additionally, it collects information related to cognitive performance and attention tests, which may include age, gender, focus difficulties, smoking habits, caffeine consumption, medication usage, and test results. The app also collects web-behavior information through tracking technologies like cookies, and it may gather data on the usage of wearable devices, including the day/time worn and duration of use.",
+        "simple_answer": "The app collects personal information, test-related data, web-behavior information, and usage data from wearable devices.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a range of data to enhance user experience and provide services.",
+          "content": "Data collected includes personal information (name, address, payment info), cognitive test data (age, gender, focus difficulties), web behavior (via cookies), and device usage data."
+        }
+      },
+      "analysis": "The collection of diverse data types allows the app to provide tailored services and improve user experience, while also ensuring compliance with privacy standards.",
+      "reference": "Section 1: Information we collect directly from you or through a third party"
+    }
+  },
+  {
+    "meta": {
+      "id": 1493155192,
+      "url": "https://wevibin.co/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to operate, provide, analyze, and improve the Services, provide test results, offer customer support, conduct surveys or polls, and send marketing communications.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The purposes include providing services, analyzing and improving services, providing test results, customer support, conducting surveys, and sending marketing communications."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the various purposes for which user data is collected and utilized, ensuring transparency in data handling practices.",
+      "reference": "Section 3: How we use your information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1493155192,
+      "url": "https://wevibin.co/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of receiving surveys, polls, or requests for reviews and testimonials by contacting WeVibin. Additionally, users can discontinue the use of the Services if they do not agree with the Privacy Policy, which implies they can stop data collection by ceasing to use the Services.",
+        "simple_answer": "Yes, users can opt out of certain data collection and can stop using the Services.",
+        "extended_simple_answer": {
+          "comment": "Users have control over some aspects of data collection.",
+          "content": "Users can opt out of receiving surveys and marketing communications by contacting WeVibin. They can also stop data collection by discontinuing the use of the Services."
+        }
+      },
+      "analysis": "The policy indicates that users have the ability to opt out of specific data collection practices, particularly regarding surveys and marketing communications. Furthermore, the option to stop using the Services effectively halts any data collection.",
+      "reference": "Section 3, How we use your information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1493155192,
+      "url": "https://wevibin.co/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, WeVibin will use and share your personal information with third parties only in the ways that are described in this Privacy Policy Statement.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is limited to the ways described in the privacy policy.",
+          "content": "WeVibin shares personal information to provide services, analyze and improve services, provide test results, conduct customer support, and send marketing communications."
+        }
+      },
+      "analysis": "The app shares data with third parties as outlined in the privacy policy, specifically for service provision and improvement.",
+      "reference": "Section 3: How we use your information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1493155192,
+      "url": "https://wevibin.co/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares personal information with third parties only in the ways described in the Privacy Policy Statement. Specifically, it may share data to provide services, analyze and improve services, provide test results, conduct customer support, and send marketing communications. However, the specific third parties are not explicitly named in the policy.",
+        "simple_answer": "The app shares data with third parties as described in the Privacy Policy, but does not specify which third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared for various purposes but does not list specific third parties.",
+          "content": "The app shares data to provide services, analyze and improve services, provide test results, conduct customer support, and send marketing communications."
+        }
+      },
+      "analysis": "The Privacy Policy outlines the general purposes for which data may be shared but lacks specific details on the third parties involved.",
+      "reference": "Section 3: How we use your information"
+    }
+  }
+]

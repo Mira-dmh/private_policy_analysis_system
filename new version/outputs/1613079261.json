@@ -1,0 +1,325 @@
+[
+    {
+        "meta": {
+            "id": 1613079261,
+            "url": "http://www.plusscommunities.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data at various points, providing notices to users.",
+            "reference": "We will collect information at various points throughout a person’s engagement with a Pluss Client to be able to adequately support that person’s customer or staff experience. URL: http://www.plusscommunities.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7f4f1caa72391df2a495c80a9a3ca713a8f8fceeb5ed93a0ecb5edc55241604a",
+                "score": 0.30766997,
+                "excerpt": "username and password\nimages uploaded by you through the app, including any personal information that may be included in the metadata of those images\nany other personal information submitted to us by you\nHow we collect and hold personal information\nWe will collect information via our software which is used by the relevant Pluss Client. We will collect information at various points throughout a person’s engagement with a Pluss Client to be able to adequately support that person’s customer or staf...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "ed807f6f7e628b269c1c349490fd522346d5ea57de8b1a974cbaa5ebd216a9ea",
+                "score": 0.08050192,
+                "excerpt": "Privacy policy.\nThis following document sets forth the Privacy Policy for Pluss Communities Pty Ltd ACN 158 226 405\nAt Pluss Communities (Pluss) we recognise the importance of your privacy and understand your concerns about the security of the personal information you provide to us. This personal information is mostly that of Pluss clients’ customers as well as their staff.\nWe supply a software as a service customer experience platform, an App. Via the App, Pluss clients and their customers are ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "a3ef69941a46e5878e77b225dd505b9152bcad734a3cf0e2a24beb79c739add1",
+                "score": 0.037047166,
+                "excerpt": "collected, used, disclosed, stored, destroyed and how an individual may gain access to or make complaints about the personal information held about them.\nThis policy (‘Privacy Policy’) details the type of personal information we may collect, how we manage personal information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard personal information and tell you how to contact us regarding our privacy ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8bc02288ecbeaba511ca8cda3b353ca4971ffa4f47964a35c9c196bd90cbebaa",
+                "score": 0.015365342,
+                "excerpt": "it strictly confidential. We will only disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Where such a disclosure is necessary, we will require that the third party undertake to treat the personal information in accordance with the APPs.\nOtherwise, we will only disclose a person’s personal information to third parties without the person’s consent if the disc...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "3f8fa0804dcb0ff0af0ca5dab32b0e70c1ab0aaf8a85860c8d79835ac4fbf3c7",
+                "score": 0.0014664583,
+                "excerpt": "who can be contacted regarding any concerns.\nYour Rights: If you are not satisfied with how we handle your privacy concerns, you may complain to the New Zealand Privacy Commissioner. You also have the right to take a complaint to the Human Rights Review Tribunal.\nEnforcement: We recognise that under the Privacy Act 2020 the Commissioner may issue compliance notices, and that serious misconduct may result in penalties of up to NZD 10,000 or criminal proceedings.\nPurposes for which we collect, hol...",
+                "url": "http://www.plusscommunities.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1613079261,
+            "url": "http://www.plusscommunities.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects contact information (such as names, telephone numbers, postal addresses, and e-mail addresses), app user account information (such as username and password), images uploaded by users through the app (including any personal information in the metadata), and any other personal information submitted by users.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact information (names, telephone numbers, postal addresses, e-mail addresses)",
+                        "App user account information (username and password)",
+                        "Images uploaded by users through the app (including metadata)",
+                        "Other personal information submitted by users"
+                    ]
+                }
+            },
+            "analysis": "Based on the privacy policy document, various types of personal information are collected by the app. This includes contact information, app user account details, images uploaded through the app, and other personal information submitted by users.",
+            "reference": "contact information, such as names, telephone numbers, postal addresses and e-mail addresses; App user account information such as username and password; images uploaded by you through the app, including any personal information that may be included in the metadata of those images; any other personal information submitted to us by you. URL: http://www.plusscommunities.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a3ef69941a46e5878e77b225dd505b9152bcad734a3cf0e2a24beb79c739add1",
+                "score": 0.56559867,
+                "excerpt": "collected, used, disclosed, stored, destroyed and how an individual may gain access to or make complaints about the personal information held about them.\nThis policy (‘Privacy Policy’) details the type of personal information we may collect, how we manage personal information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard personal information and tell you how to contact us regarding our privacy ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "7f4f1caa72391df2a495c80a9a3ca713a8f8fceeb5ed93a0ecb5edc55241604a",
+                "score": 0.21568096,
+                "excerpt": "username and password\nimages uploaded by you through the app, including any personal information that may be included in the metadata of those images\nany other personal information submitted to us by you\nHow we collect and hold personal information\nWe will collect information via our software which is used by the relevant Pluss Client. We will collect information at various points throughout a person’s engagement with a Pluss Client to be able to adequately support that person’s customer or staf...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "ed807f6f7e628b269c1c349490fd522346d5ea57de8b1a974cbaa5ebd216a9ea",
+                "score": 0.09041373,
+                "excerpt": "Privacy policy.\nThis following document sets forth the Privacy Policy for Pluss Communities Pty Ltd ACN 158 226 405\nAt Pluss Communities (Pluss) we recognise the importance of your privacy and understand your concerns about the security of the personal information you provide to us. This personal information is mostly that of Pluss clients’ customers as well as their staff.\nWe supply a software as a service customer experience platform, an App. Via the App, Pluss clients and their customers are ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8002582a874597ecf3c27951e1b48befa809dbd9b6c339dd4b29ce312f392701",
+                "score": 0.015603535,
+                "excerpt": "subject to our privacy standards, policies and procedures. We recommend that you make your own enquires as to the privacy policies of these third parties and we are in no way responsible for the privacy practices of these third parties.\nCookies and IP addresses\nIn some cases, we may also collect your personal information using cookies. When you access our website, we may send a ‘cookie’ (which is a small summary text file containing a unique ID number) to your computer.\nThis enables us or our th...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8bc02288ecbeaba511ca8cda3b353ca4971ffa4f47964a35c9c196bd90cbebaa",
+                "score": 0.0038244836,
+                "excerpt": "it strictly confidential. We will only disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Where such a disclosure is necessary, we will require that the third party undertake to treat the personal information in accordance with the APPs.\nOtherwise, we will only disclose a person’s personal information to third parties without the person’s consent if the disc...",
+                "url": "http://www.plusscommunities.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1613079261,
+            "url": "http://www.plusscommunities.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that at or before the time personal information is collected, a clear statement is provided explaining the purpose of the collection, how the information will be used and disclosed.",
+            "reference": "At or before the time we collect your personal information (for example, when you use our App), we will provide you with a clear statement explaining: who is collecting your information, the purpose of the collection, how your information will be used and disclosed, and whether your information may be transferred outside of Australia or New Zealand. URL: http://www.plusscommunities.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7f4f1caa72391df2a495c80a9a3ca713a8f8fceeb5ed93a0ecb5edc55241604a",
+                "score": 0.43434134,
+                "excerpt": "username and password\nimages uploaded by you through the app, including any personal information that may be included in the metadata of those images\nany other personal information submitted to us by you\nHow we collect and hold personal information\nWe will collect information via our software which is used by the relevant Pluss Client. We will collect information at various points throughout a person’s engagement with a Pluss Client to be able to adequately support that person’s customer or staf...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8bc02288ecbeaba511ca8cda3b353ca4971ffa4f47964a35c9c196bd90cbebaa",
+                "score": 0.062445287,
+                "excerpt": "it strictly confidential. We will only disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Where such a disclosure is necessary, we will require that the third party undertake to treat the personal information in accordance with the APPs.\nOtherwise, we will only disclose a person’s personal information to third parties without the person’s consent if the disc...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "3f8fa0804dcb0ff0af0ca5dab32b0e70c1ab0aaf8a85860c8d79835ac4fbf3c7",
+                "score": 0.03567855,
+                "excerpt": "who can be contacted regarding any concerns.\nYour Rights: If you are not satisfied with how we handle your privacy concerns, you may complain to the New Zealand Privacy Commissioner. You also have the right to take a complaint to the Human Rights Review Tribunal.\nEnforcement: We recognise that under the Privacy Act 2020 the Commissioner may issue compliance notices, and that serious misconduct may result in penalties of up to NZD 10,000 or criminal proceedings.\nPurposes for which we collect, hol...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "a3ef69941a46e5878e77b225dd505b9152bcad734a3cf0e2a24beb79c739add1",
+                "score": 0.015663648,
+                "excerpt": "collected, used, disclosed, stored, destroyed and how an individual may gain access to or make complaints about the personal information held about them.\nThis policy (‘Privacy Policy’) details the type of personal information we may collect, how we manage personal information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard personal information and tell you how to contact us regarding our privacy ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "ed807f6f7e628b269c1c349490fd522346d5ea57de8b1a974cbaa5ebd216a9ea",
+                "score": 0.010408314,
+                "excerpt": "Privacy policy.\nThis following document sets forth the Privacy Policy for Pluss Communities Pty Ltd ACN 158 226 405\nAt Pluss Communities (Pluss) we recognise the importance of your privacy and understand your concerns about the security of the personal information you provide to us. This personal information is mostly that of Pluss clients’ customers as well as their staff.\nWe supply a software as a service customer experience platform, an App. Via the App, Pluss clients and their customers are ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1613079261,
+            "url": "http://www.plusscommunities.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by setting their browser to not accept cookies or deleting data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can set their browser not to accept cookies if they do not wish to receive them, indicating the ability to opt out of data collection. Additionally, the policy outlines the process of destroying or de-identifying personal information when it is no longer needed, providing the option to delete data.",
+            "reference": "If you do not wish to receive cookies, you can set your browser so that your computer does not accept them. We use secure methods to destroy or to permanently de-identify personal information when it is no longer needed. For example, paper records are shredded or destroyed securely... URL: http://www.plusscommunities.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "1f1a3b761b10e2ccdbc5bc02957b940f5d9b31ce4efa4807d916821856d0ca8b",
+                "score": 0.03581319,
+                "excerpt": "research our users' habits so that we can improve our products, services and information. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them.\nWe may gather your IP addresses (that is, the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user’s movement, and gather broad demographic information. This information does not identify you personally.\nIn some cases, we may use Google Ana...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "2dfcb4f946fc5dc49aeb9a5d107471fc5edbf89d31d3dfc31e813af14d7e606d",
+                "score": 0.03289904,
+                "excerpt": "NSW 2001\nTelephone 1300 363 992\nFacsimile (02) 9284 9666\nEmail enquiries@oaic.gov.au\nContacting us\nOur contact details are:\nPluss Communities Pty Ltd\nAddress - 20 Mayneview Street Milton Qld 4064\nTelephone – 0417644642\nemail: team@plusscommunities.com\nYou can contact our Privacy Officer about your privacy concerns through team@plusscommunities.com\nChanges to this Privacy Policy\nIf we change the way we use personal information at any time, we will update this privacy policy. By continuing to deal...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "6567d5e968636b5d94d4927899d3db5c19f97a7bef1b9f987ef2edb2b05c69ee",
+                "score": 0.019271137,
+                "excerpt": "affiliated businesses), our contractual arrangements with them include specific privacy requirements.\nOverseas Disclosure of Personal Information\nAll personal information we collect is stored and backed up exclusively in Australia. We do not transfer personal information overseas unless required for the provision of services, or with your explicit consent.Should personal information ever be transferred outside Australia or New Zealand, we will ensure that equivalent privacy safeguards are in pla...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8002582a874597ecf3c27951e1b48befa809dbd9b6c339dd4b29ce312f392701",
+                "score": 0.018159512,
+                "excerpt": "subject to our privacy standards, policies and procedures. We recommend that you make your own enquires as to the privacy policies of these third parties and we are in no way responsible for the privacy practices of these third parties.\nCookies and IP addresses\nIn some cases, we may also collect your personal information using cookies. When you access our website, we may send a ‘cookie’ (which is a small summary text file containing a unique ID number) to your computer.\nThis enables us or our th...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "3f8fa0804dcb0ff0af0ca5dab32b0e70c1ab0aaf8a85860c8d79835ac4fbf3c7",
+                "score": 0.01665704,
+                "excerpt": "who can be contacted regarding any concerns.\nYour Rights: If you are not satisfied with how we handle your privacy concerns, you may complain to the New Zealand Privacy Commissioner. You also have the right to take a complaint to the Human Rights Review Tribunal.\nEnforcement: We recognise that under the Privacy Act 2020 the Commissioner may issue compliance notices, and that serious misconduct may result in penalties of up to NZD 10,000 or criminal proceedings.\nPurposes for which we collect, hol...",
+                "url": "http://www.plusscommunities.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1613079261,
+            "url": "http://www.plusscommunities.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information will only be disclosed to third parties if necessary for specific purposes, ensuring strict confidentiality otherwise.",
+            "reference": "We will only disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. URL: http://www.plusscommunities.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "8bc02288ecbeaba511ca8cda3b353ca4971ffa4f47964a35c9c196bd90cbebaa",
+                "score": 0.7599387,
+                "excerpt": "it strictly confidential. We will only disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Where such a disclosure is necessary, we will require that the third party undertake to treat the personal information in accordance with the APPs.\nOtherwise, we will only disclose a person’s personal information to third parties without the person’s consent if the disc...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "ed807f6f7e628b269c1c349490fd522346d5ea57de8b1a974cbaa5ebd216a9ea",
+                "score": 0.08464395,
+                "excerpt": "Privacy policy.\nThis following document sets forth the Privacy Policy for Pluss Communities Pty Ltd ACN 158 226 405\nAt Pluss Communities (Pluss) we recognise the importance of your privacy and understand your concerns about the security of the personal information you provide to us. This personal information is mostly that of Pluss clients’ customers as well as their staff.\nWe supply a software as a service customer experience platform, an App. Via the App, Pluss clients and their customers are ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "3f8fa0804dcb0ff0af0ca5dab32b0e70c1ab0aaf8a85860c8d79835ac4fbf3c7",
+                "score": 0.07558479,
+                "excerpt": "who can be contacted regarding any concerns.\nYour Rights: If you are not satisfied with how we handle your privacy concerns, you may complain to the New Zealand Privacy Commissioner. You also have the right to take a complaint to the Human Rights Review Tribunal.\nEnforcement: We recognise that under the Privacy Act 2020 the Commissioner may issue compliance notices, and that serious misconduct may result in penalties of up to NZD 10,000 or criminal proceedings.\nPurposes for which we collect, hol...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "a3ef69941a46e5878e77b225dd505b9152bcad734a3cf0e2a24beb79c739add1",
+                "score": 0.054600604,
+                "excerpt": "collected, used, disclosed, stored, destroyed and how an individual may gain access to or make complaints about the personal information held about them.\nThis policy (‘Privacy Policy’) details the type of personal information we may collect, how we manage personal information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard personal information and tell you how to contact us regarding our privacy ...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "7f4f1caa72391df2a495c80a9a3ca713a8f8fceeb5ed93a0ecb5edc55241604a",
+                "score": 0.038321972,
+                "excerpt": "username and password\nimages uploaded by you through the app, including any personal information that may be included in the metadata of those images\nany other personal information submitted to us by you\nHow we collect and hold personal information\nWe will collect information via our software which is used by the relevant Pluss Client. We will collect information at various points throughout a person’s engagement with a Pluss Client to be able to adequately support that person’s customer or staf...",
+                "url": "http://www.plusscommunities.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1613079261,
+            "url": "http://www.plusscommunities.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties based on specific criteria outlined in the privacy policy.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Third parties for necessary legal reasons, protection of rights, safety, compliance with law, and with user consent"
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with third parties under specific circumstances such as legal obligations, safety concerns, and user consent.",
+            "reference": "necessary to protect or enforce our legal rights or interests or to defend any claims; necessary to prevent or lessen a serious threat to a person’s health or safety; required or authorised by law; or permitted by another exception in the Privacy Act. Where we wish to use or disclose a person’s personal information for other purposes, we will obtain the person’s consent. URL: http://www.plusscommunities.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "8bc02288ecbeaba511ca8cda3b353ca4971ffa4f47964a35c9c196bd90cbebaa",
+                "score": 0.6043989,
+                "excerpt": "it strictly confidential. We will only disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Where such a disclosure is necessary, we will require that the third party undertake to treat the personal information in accordance with the APPs.\nOtherwise, we will only disclose a person’s personal information to third parties without the person’s consent if the disc...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8002582a874597ecf3c27951e1b48befa809dbd9b6c339dd4b29ce312f392701",
+                "score": 0.083890386,
+                "excerpt": "subject to our privacy standards, policies and procedures. We recommend that you make your own enquires as to the privacy policies of these third parties and we are in no way responsible for the privacy practices of these third parties.\nCookies and IP addresses\nIn some cases, we may also collect your personal information using cookies. When you access our website, we may send a ‘cookie’ (which is a small summary text file containing a unique ID number) to your computer.\nThis enables us or our th...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "8801955fb4806a5be706753fc77004742f867a12328ee82f2b227d5a85e82ea3",
+                "score": 0.079638734,
+                "excerpt": "on paper, by electronic means or both. We have physical, electronic and procedural safeguards in place for personal information and take reasonable steps to ensure that personal information is protected from misuse, interference, loss, unauthorized access, modification and disclosure. We use industry accepted and compliant technology and security so that we are satisfied that personal information is transmitted safely to us through the internet or other electronic means.\nThe steps we take to sec...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "6567d5e968636b5d94d4927899d3db5c19f97a7bef1b9f987ef2edb2b05c69ee",
+                "score": 0.074500255,
+                "excerpt": "affiliated businesses), our contractual arrangements with them include specific privacy requirements.\nOverseas Disclosure of Personal Information\nAll personal information we collect is stored and backed up exclusively in Australia. We do not transfer personal information overseas unless required for the provision of services, or with your explicit consent.Should personal information ever be transferred outside Australia or New Zealand, we will ensure that equivalent privacy safeguards are in pla...",
+                "url": "http://www.plusscommunities.com/privacy"
+            },
+            {
+                "id": "3f8fa0804dcb0ff0af0ca5dab32b0e70c1ab0aaf8a85860c8d79835ac4fbf3c7",
+                "score": 0.073430054,
+                "excerpt": "who can be contacted regarding any concerns.\nYour Rights: If you are not satisfied with how we handle your privacy concerns, you may complain to the New Zealand Privacy Commissioner. You also have the right to take a complaint to the Human Rights Review Tribunal.\nEnforcement: We recognise that under the Privacy Act 2020 the Commissioner may issue compliance notices, and that serious misconduct may result in penalties of up to NZD 10,000 or criminal proceedings.\nPurposes for which we collect, hol...",
+                "url": "http://www.plusscommunities.com/privacy"
+            }
+        ]
+    }
+]

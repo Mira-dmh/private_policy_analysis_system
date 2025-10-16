@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 6502899871,
+            "url": "https://charmhealth.com/privacy-policy.html"
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 6502899871,\n       \"url\": \"https://charmhealth.com/privacy-policy.html\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q1\",\n       \"question\": \"1. Does the app declare the collection of data?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, the app declares the collection of data.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy clearly states that the app collects data such as usage details, stored files, and patient-entered health information.\",\n       \"reference\": \"Your usage details such as time, frequency, duration and pattern of use, features used and the amount of storage used will be recorded by us in order to enhance your experience of the MedicalMine services and to help us provide you the best possible service. URL: https://charmhealth.com/privacy-policy.html\",\n\"Patient entered health information is shared by the patient with practitioners in accordance with permissions set by the patient. URL: https://charmhealth.com/privacy-policy.html\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "3880d179ebd35986943d8784807b1f240f0930537582d5c4f7f6990a6901f51b",
+                "score": 0.05340333,
+                "excerpt": "your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.\nAny changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nat...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "7dc2c575c59b1e648a3a3c62a42ab3701ab5533ddb0df0123ab4159ccc9cba01",
+                "score": 0.0003275843,
+                "excerpt": "for forgotten password or user account information. We will not use your email address to send you any promotional and marketing materials. MedicalMine never shares your email address with external entities.\nSome pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, ...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "ded2858ad74ce43df33635a0ac8b2d2f89e986f4a28553b9a44df26fb50cfeca",
+                "score": 0.0002846224,
+                "excerpt": "check back at our website periodically.\nThe general medical information made available on our web site or by the application is for informational and educational purpose only and does not constitute medical advice. Any health related questions you may have about the treatments should be discussed with your medical provider. Medical Mine Incorporated is not responsible for any medical advice provided by its employees or by the participants in the supported forums. Such forums are created for disc...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "cd46dc6fc39446c274be924eda1b598cac5c43b05315855fe51dfb10e91f4db7",
+                "score": 0.00026738262,
+                "excerpt": "18. If you are not yet 18 years of age, please leave this site immediately.Parents are urged to monitor and supervise their children’s on-line activity.\nIf you have any questions or concerns regarding this Privacy Policy Statement, please contact us at legal@medicalmine.com. We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity.",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "68b2c2d4ec6d31b7029ff51b376191bc1a3038b507aba1caf6fa2fff1f3dda9e",
+                "score": 0.00025915826,
+                "excerpt": "HIPAA Security Rule that apply to business associates under the HITECH Act, and the privacy and security provisions of the HITECH Act that are applicable to business associates.\nMedicalMine permits use and disclosure of PHI in accordance with the HIPAA and HITECH, as described below:\nWe may disclose protected health information if the disclosure is required by law. We reserve the right to make any other uses of your health information that are permitted to a Business Associate. However, except a...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502899871,
+            "url": "https://charmhealth.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects email addresses, IP addresses, browser details, log files details (such as error codes, files accessed), time zone information, operating system details, cookies (temporary and permanent), and usage details like frequency, duration, and patterns of use.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email addresses",
+                        "IP addresses",
+                        "Browser details",
+                        "Log files details",
+                        "Time zone information",
+                        "Operating system details",
+                        "Cookies (temporary and permanent)",
+                        "Usage details (time, frequency, duration, patterns of use)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the privacy policy document that mentions the specifics of the data collected by the app.",
+            "reference": "Your email address when you elect to remain logged in so as to maintain and recall your preferences within the website... We use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor details collected in our log files to analyze the trends, administer the website, track visitor's movements and to improve our website... We use temporary and permanent cookies to en... URL: https://charmhealth.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "3880d179ebd35986943d8784807b1f240f0930537582d5c4f7f6990a6901f51b",
+                "score": 0.068787284,
+                "excerpt": "your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.\nAny changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nat...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "91924c107f76e74bbb14c29e8c9730c76d662e9d899050d4cb3f8021e9bd87f0",
+                "score": 0.0020992735,
+                "excerpt": "Credit Card number. Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement.\nWe use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor det...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "6999b5bfe670fe7d196d7fa0ddaf2d9a4f450aeb22813339851ca4e8f1d3c662",
+                "score": 0.0014953384,
+                "excerpt": "task lists, messages and other data stored in your user account at our facilities in the United States. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your user account. Hence, your files and data may remain on our servers even after deletion or termination of your user account. We assure you that the contents of your user account will not be disclosed to anyone and will not be accessible even to employees of Medica...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "68b2c2d4ec6d31b7029ff51b376191bc1a3038b507aba1caf6fa2fff1f3dda9e",
+                "score": 0.0010649627,
+                "excerpt": "HIPAA Security Rule that apply to business associates under the HITECH Act, and the privacy and security provisions of the HITECH Act that are applicable to business associates.\nMedicalMine permits use and disclosure of PHI in accordance with the HIPAA and HITECH, as described below:\nWe may disclose protected health information if the disclosure is required by law. We reserve the right to make any other uses of your health information that are permitted to a Business Associate. However, except a...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "7dc2c575c59b1e648a3a3c62a42ab3701ab5533ddb0df0123ab4159ccc9cba01",
+                "score": 0.0007793661,
+                "excerpt": "for forgotten password or user account information. We will not use your email address to send you any promotional and marketing materials. MedicalMine never shares your email address with external entities.\nSome pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, ...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502899871,
+            "url": "https://charmhealth.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that any changes to the Privacy Policy Statement will be communicated to users to inform them of the nature of information collected, manner of collection, use, and sharing of information. Additionally, users are given the ability to opt out of new uses of Personal Information.",
+            "reference": "Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses. URL: https://charmhealth.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "3880d179ebd35986943d8784807b1f240f0930537582d5c4f7f6990a6901f51b",
+                "score": 0.09073549,
+                "excerpt": "your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.\nAny changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nat...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "7dc2c575c59b1e648a3a3c62a42ab3701ab5533ddb0df0123ab4159ccc9cba01",
+                "score": 0.0024060889,
+                "excerpt": "for forgotten password or user account information. We will not use your email address to send you any promotional and marketing materials. MedicalMine never shares your email address with external entities.\nSome pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, ...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "4acbec1e7c788bf2479305425679e9cdc83f2e7ad62053d665a57156795f6810",
+                "score": 0.0020992735,
+                "excerpt": "browser and MedicalMine applications are encrypted using Secure Socket Layer (SSL).\nDuring the Registration Process for creating a Practice or Patient account, we request your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "ded2858ad74ce43df33635a0ac8b2d2f89e986f4a28553b9a44df26fb50cfeca",
+                "score": 0.0014269596,
+                "excerpt": "check back at our website periodically.\nThe general medical information made available on our web site or by the application is for informational and educational purpose only and does not constitute medical advice. Any health related questions you may have about the treatments should be discussed with your medical provider. Medical Mine Incorporated is not responsible for any medical advice provided by its employees or by the participants in the supported forums. Such forums are created for disc...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "68b2c2d4ec6d31b7029ff51b376191bc1a3038b507aba1caf6fa2fff1f3dda9e",
+                "score": 0.00091819005,
+                "excerpt": "HIPAA Security Rule that apply to business associates under the HITECH Act, and the privacy and security provisions of the HITECH Act that are applicable to business associates.\nMedicalMine permits use and disclosure of PHI in accordance with the HIPAA and HITECH, as described below:\nWe may disclose protected health information if the disclosure is required by law. We reserve the right to make any other uses of your health information that are permitted to a Business Associate. However, except a...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502899871,
+            "url": "https://charmhealth.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy states that users will be notified by email and provided with the ability to opt out if their personal information is used in a manner different from the stated collection purpose. Additionally, users have the option to delete data stored on user accounts.",
+            "reference": "we will notify you by email and provide you with the ability to opt out of these new uses. ... we also keep backup copies of data including the contents of your user account. Hence, your files and data may remain on our servers even after deletion or termination of your user account. ... Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement. ... we reserve the right to make any other uses of your health information that are permitted to a Business Associate. ... Patient entered health information is shared by the patient with practitioners in accordance with permissions set by the patient. ... URL: https://charmhealth.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "3880d179ebd35986943d8784807b1f240f0930537582d5c4f7f6990a6901f51b",
+                "score": 0.03289904,
+                "excerpt": "your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.\nAny changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nat...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "cd46dc6fc39446c274be924eda1b598cac5c43b05315855fe51dfb10e91f4db7",
+                "score": 0.015189049,
+                "excerpt": "18. If you are not yet 18 years of age, please leave this site immediately.Parents are urged to monitor and supervise their children’s on-line activity.\nIf you have any questions or concerns regarding this Privacy Policy Statement, please contact us at legal@medicalmine.com. We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity.",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "6999b5bfe670fe7d196d7fa0ddaf2d9a4f450aeb22813339851ca4e8f1d3c662",
+                "score": 0.0062170783,
+                "excerpt": "task lists, messages and other data stored in your user account at our facilities in the United States. In order to prevent loss of data due to errors or system failures, we also keep backup copies of data including the contents of your user account. Hence, your files and data may remain on our servers even after deletion or termination of your user account. We assure you that the contents of your user account will not be disclosed to anyone and will not be accessible even to employees of Medica...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "68b2c2d4ec6d31b7029ff51b376191bc1a3038b507aba1caf6fa2fff1f3dda9e",
+                "score": 0.0046818224,
+                "excerpt": "HIPAA Security Rule that apply to business associates under the HITECH Act, and the privacy and security provisions of the HITECH Act that are applicable to business associates.\nMedicalMine permits use and disclosure of PHI in accordance with the HIPAA and HITECH, as described below:\nWe may disclose protected health information if the disclosure is required by law. We reserve the right to make any other uses of your health information that are permitted to a Business Associate. However, except a...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "91924c107f76e74bbb14c29e8c9730c76d662e9d899050d4cb3f8021e9bd87f0",
+                "score": 0.003429604,
+                "excerpt": "Credit Card number. Subject to your prior consent and where necessary for processing future payments, your financial information will be stored in encrypted form on secure servers of our reputed Payment Gateway Service Provider who is beholden to treating your Personal Information in accordance with this Privacy Policy Statement.\nWe use the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone, operating system and other visitor det...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502899871,
+            "url": "https://charmhealth.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No data is shared with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share data with third parties.",
+            "reference": "MedicalMine never shares your email address with external entities. URL: https://charmhealth.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "ded2858ad74ce43df33635a0ac8b2d2f89e986f4a28553b9a44df26fb50cfeca",
+                "score": 0.14247034,
+                "excerpt": "check back at our website periodically.\nThe general medical information made available on our web site or by the application is for informational and educational purpose only and does not constitute medical advice. Any health related questions you may have about the treatments should be discussed with your medical provider. Medical Mine Incorporated is not responsible for any medical advice provided by its employees or by the participants in the supported forums. Such forums are created for disc...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "7dc2c575c59b1e648a3a3c62a42ab3701ab5533ddb0df0123ab4159ccc9cba01",
+                "score": 0.07626997,
+                "excerpt": "for forgotten password or user account information. We will not use your email address to send you any promotional and marketing materials. MedicalMine never shares your email address with external entities.\nSome pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, ...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "4acbec1e7c788bf2479305425679e9cdc83f2e7ad62053d665a57156795f6810",
+                "score": 0.0607519,
+                "excerpt": "browser and MedicalMine applications are encrypted using Secure Socket Layer (SSL).\nDuring the Registration Process for creating a Practice or Patient account, we request your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "3880d179ebd35986943d8784807b1f240f0930537582d5c4f7f6990a6901f51b",
+                "score": 0.04054074,
+                "excerpt": "your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.\nAny changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nat...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "68b2c2d4ec6d31b7029ff51b376191bc1a3038b507aba1caf6fa2fff1f3dda9e",
+                "score": 0.008881675,
+                "excerpt": "HIPAA Security Rule that apply to business associates under the HITECH Act, and the privacy and security provisions of the HITECH Act that are applicable to business associates.\nMedicalMine permits use and disclosure of PHI in accordance with the HIPAA and HITECH, as described below:\nWe may disclose protected health information if the disclosure is required by law. We reserve the right to make any other uses of your health information that are permitted to a Business Associate. However, except a...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502899871,
+            "url": "https://charmhealth.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "External entities",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "External entities"
+                }
+            },
+            "analysis": "The privacy policy states that the app does not share email addresses with external entities. This implies that email addresses are not shared with any third parties outside the app.",
+            "reference": "We will not use your email address to send you any promotional and marketing materials. MedicalMine never shares your email address with external entities. URL: https://charmhealth.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "7dc2c575c59b1e648a3a3c62a42ab3701ab5533ddb0df0123ab4159ccc9cba01",
+                "score": 0.10650459,
+                "excerpt": "for forgotten password or user account information. We will not use your email address to send you any promotional and marketing materials. MedicalMine never shares your email address with external entities.\nSome pages of our website contain external links. You are advised to verify the privacy practices of such other websites. We are not responsible for the manner of use or misuse of information made available by you at such other websites. We encourage you not to provide Personal Information, ...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "ded2858ad74ce43df33635a0ac8b2d2f89e986f4a28553b9a44df26fb50cfeca",
+                "score": 0.04698664,
+                "excerpt": "check back at our website periodically.\nThe general medical information made available on our web site or by the application is for informational and educational purpose only and does not constitute medical advice. Any health related questions you may have about the treatments should be discussed with your medical provider. Medical Mine Incorporated is not responsible for any medical advice provided by its employees or by the participants in the supported forums. Such forums are created for disc...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "4acbec1e7c788bf2479305425679e9cdc83f2e7ad62053d665a57156795f6810",
+                "score": 0.038683496,
+                "excerpt": "browser and MedicalMine applications are encrypted using Secure Socket Layer (SSL).\nDuring the Registration Process for creating a Practice or Patient account, we request your name and email address. You will also be asked to choose a unique username and a password, which will be used solely for the purpose of providing access to your user account. Your name and email address will be used to inform you regarding new services, releases, upcoming events and changes in this Privacy Policy Statement...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "68b2c2d4ec6d31b7029ff51b376191bc1a3038b507aba1caf6fa2fff1f3dda9e",
+                "score": 0.03216145,
+                "excerpt": "HIPAA Security Rule that apply to business associates under the HITECH Act, and the privacy and security provisions of the HITECH Act that are applicable to business associates.\nMedicalMine permits use and disclosure of PHI in accordance with the HIPAA and HITECH, as described below:\nWe may disclose protected health information if the disclosure is required by law. We reserve the right to make any other uses of your health information that are permitted to a Business Associate. However, except a...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            },
+            {
+                "id": "3880d179ebd35986943d8784807b1f240f0930537582d5c4f7f6990a6901f51b",
+                "score": 0.031678624,
+                "excerpt": "your email address when you elect to remain logged in so as to maintain and recall your preferences within the website. We may from time to time employ the use of pixel tags on the website and in emails. Pixel tags such as web beacons are 1x1 images that are embedded onto a web page to document traffic and for website analytics without collecting any Personal Information.\nAny changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nat...",
+                "url": "https://charmhealth.com/privacy-policy.html"
+            }
+        ]
+    }
+]

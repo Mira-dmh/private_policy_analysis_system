@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6444675471,
+      "url": "https://recoveryoutcomes.net/Account/GetFile?file=TermsConditionsPrivacy_OitApp.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal information and/or medical information upon registration. It states that by registering, users consent to the processing of their personal information and undertake to obtain written consent from each patient to process their personal information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes the importance of obtaining consent for processing personal information.",
+          "content": "Upon registration for Outcomes IT, users consent to the processing of Personal information and/or Medical Information connected to such registration."
+        }
+      },
+      "analysis": "",
+      "reference": "PRIVACY POLICY section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444675471,
+      "url": "https://recoveryoutcomes.net/Account/GetFile?file=TermsConditionsPrivacy_OitApp.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information which may include your OutcomesIT End-User username, OutcomesIT End-User password, first and last name, email address, health practitioner, social worker, occupational therapist, or nurse registration number, telephone number, and date of birth.",
+        "simple_answer": "The app collects personal information such as name, email, registration number, and contact details.",
+        "extended_simple_answer": {
+          "comment": "This data is necessary for registration and usage of the app.",
+          "content": "The app collects personal information including username, password, name, email address, registration number, telephone number, and date of birth."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: DOWNLOAD & INSTALL"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444675471,
+      "url": "https://recoveryoutcomes.net/Account/GetFile?file=TermsConditionsPrivacy_OitApp.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the purpose of data collection and use is to process personal information and/or medical information connected to the registration of registered healthcare practitioners, and to facilitate proper care and treatment of patients. It also states that users must obtain written consent from each patient to process their personal information.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that data is collected to ensure proper care and treatment of patients and requires user consent for processing personal information.",
+          "content": "The app collects personal information to facilitate the provision of care and treatment to patients and requires written consent from patients for processing their personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "Privacy Policy section regarding data processing and purpose."
+    }
+  },
+  {
+    "meta": {
+      "id": 6444675471,
+      "url": "https://recoveryoutcomes.net/Account/GetFile?file=TermsConditionsPrivacy_OitApp.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users must obtain written consent from each patient to process their personal information, which implies a level of control over the data being processed. Amendments to the privacy policy will be communicated to users, but specific opt-out or data deletion procedures are not detailed.",
+        "simple_answer": "No, the policy does not explicitly allow users to opt out of data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the need for consent from patients for processing their personal information, but does not provide clear options for users to opt out or delete their data.",
+          "content": "The privacy policy indicates that users must obtain written consent from patients to process their personal information, suggesting some control over data. However, it does not provide explicit options for opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The absence of explicit opt-out or data deletion options in the privacy policy suggests that users may have limited control over their data once collected.",
+      "reference": "Privacy Policy section regarding consent and data processing."
+    }
+  },
+  {
+    "meta": {
+      "id": 6444675471,
+      "url": "https://recoveryoutcomes.net/Account/GetFile?file=TermsConditionsPrivacy_OitApp.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. However, it does mention that users must obtain written consent from each patient to process their personal information, implying that data handling is done with care and in compliance with privacy laws. The policy emphasizes safeguarding the privacy of clients and registered End-Users.",
+        "simple_answer": "No, the app does not explicitly share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy focuses on user consent and safeguarding privacy, suggesting careful handling of data.",
+          "content": "The app requires users to obtain written consent from patients to process their personal information, indicating a commitment to privacy."
+        }
+      },
+      "analysis": "The privacy policy emphasizes the importance of user consent and does not provide information about sharing data with third parties, which suggests a focus on privacy protection.",
+      "reference": "Privacy Policy section regarding data processing and user consent."
+    }
+  },
+  {
+    "meta": {
+      "id": 6444675471,
+      "url": "https://recoveryoutcomes.net/Account/GetFile?file=TermsConditionsPrivacy_OitApp.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention any third parties with whom the app shares data. It primarily focuses on the processing of personal information by OutcomesIT and the responsibilities of the registered healthcare practitioners regarding patient consent for processing personal information.",
+        "simple_answer": "The app does not specify any third parties with whom it shares data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes the responsibility of the registered healthcare practitioners to obtain consent from patients for processing their personal information, but does not detail any third-party data sharing.",
+          "content": "The privacy policy does not provide information on third-party data sharing."
+        }
+      },
+      "analysis": "The absence of specific third-party data sharing details suggests a focus on internal data processing and compliance with privacy laws rather than external sharing.",
+      "reference": "Privacy Policy section regarding data processing and responsibilities of registered healthcare practitioners."
+    }
+  }
+]

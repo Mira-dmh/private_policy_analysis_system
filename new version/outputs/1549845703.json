@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1549845703,
+            "url": "https://mindalcove.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that the app declares the collection of data and outlines how it is collected and used.",
+            "reference": "Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. URL: https://mindalcove.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7bfe0e88a69ab3dfc0a2e0d16e90690882889ce119a1aae6770b710641687e97",
+                "score": 0.010328152,
+                "excerpt": "required to do so by law. Information collected via Our server logs includes users' IP addresses and the pages visited; this will be used to manage the web system and troubleshoot problems. We also use third-party analytics, tracking, optimization and targeting tools to understand how users engage with our Website so that we can improve it and cater personalized content/ads according to their preferences.\nHOW INFORMATION IS COLLECTED\nBefore or at the time of collecting personal information, we w...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "7cd1de01c92d01386cd8c6333a5c2126728ceec4f3b71fb37c71a33242755058",
+                "score": 0.0059571536,
+                "excerpt": "to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns regarding this Privacy Policy, you should contact our Customer Care.\nANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEAD...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "dce3158a14523d890f5db9401b2d2489484cad260375f082e339019030394b7d",
+                "score": 0.0043653264,
+                "excerpt": "your invaluable information also to support the ongoing cause that you may share across on this Platform. We ask for this information so that we can understand more about the people who support us. This privacy policy contains information about the Website “www.mindalcove.com” and is committed to maintaining the privacy of all the users. To provide You with Our uninterrupted use of the Website, We may collect and, in some circumstances, disclose information about you with your permission. To ens...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "730ceb5b39d94acf82d39e80e4b65cf13658d1871a6236c7f8a343c0c08a8d6b",
+                "score": 0.0022872277,
+                "excerpt": "object to the processing of personal data;\ne. The right to complain about a supervisory authority.\nf. The right to obtain information as to whether personal data are transferred to a third country or an international organization. Where you hold an account with any of our services, you are entitled to a copy of all personal data which we hold concerning you. You are also entitled to request that we restrict how we use your data in your account when you log in.\nCONFIDENTIALITY\nYou further acknowl...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "d085c84a24983e66a274487e2376cc57c62137863c5a811841168a07e6f6db4f",
+                "score": 0.0021074724,
+                "excerpt": "as not revealing account/login related information to any other person and informing our customer care team about any suspicious activity or where your account has/may have been compromised.\nOUR USE OF YOUR INFORMATION\nThe information provided by you shall be used to provide and improve the service for you and all users.\na. To provide and help you with services on your request.\nb. For maintaining an internal record.\nc. For enhancing the Services provided.\nd. For maintaining record under the lega...",
+                "url": "https://mindalcove.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1549845703,
+            "url": "https://mindalcove.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personal data like Email Id for verification purpose, Tracking Information such as IP address of the device and Device ID when connected to the Internet, and Details of Website usage for analytics.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal data (e.g., Email Id)",
+                        "Tracking Information (e.g., IP address, Device ID)",
+                        "Details of Website usage for analytics"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of data mentioned in the 'INFORMATION WE COLLECT' section of the privacy policy document.",
+            "reference": "Personal data i.e. Email Id for verification purpose. Tracking Information such as, but not limited to the IP address of your device and Device ID when connected to the Internet. This information may include the URL that you just came from... Details of Website usage for analytics. URL: https://mindalcove.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7cd1de01c92d01386cd8c6333a5c2126728ceec4f3b71fb37c71a33242755058",
+                "score": 0.069668226,
+                "excerpt": "to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns regarding this Privacy Policy, you should contact our Customer Care.\nANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEAD...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "7bfe0e88a69ab3dfc0a2e0d16e90690882889ce119a1aae6770b710641687e97",
+                "score": 0.05834584,
+                "excerpt": "required to do so by law. Information collected via Our server logs includes users' IP addresses and the pages visited; this will be used to manage the web system and troubleshoot problems. We also use third-party analytics, tracking, optimization and targeting tools to understand how users engage with our Website so that we can improve it and cater personalized content/ads according to their preferences.\nHOW INFORMATION IS COLLECTED\nBefore or at the time of collecting personal information, we w...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "d085c84a24983e66a274487e2376cc57c62137863c5a811841168a07e6f6db4f",
+                "score": 0.01102947,
+                "excerpt": "as not revealing account/login related information to any other person and informing our customer care team about any suspicious activity or where your account has/may have been compromised.\nOUR USE OF YOUR INFORMATION\nThe information provided by you shall be used to provide and improve the service for you and all users.\na. To provide and help you with services on your request.\nb. For maintaining an internal record.\nc. For enhancing the Services provided.\nd. For maintaining record under the lega...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "6cb52c7068ec9befa50d12fa8be3fd52888c373b7659a320866e2383ff5e5388",
+                "score": 0.007968815,
+                "excerpt": "URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your computer or device browser information, and other information associated with your interaction with the Website;\nc. Details of Website usage for analytics.\nThis privacy policy also applies to data we collect from users who are not registered as members of this Website, including, but not limited to, browsing behavior, pages viewed etc. We also collect and store personal information provided ...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "323d74ca29fb0324f1cf6abbf17e87a6a0b52d426c019f1a53bf75112f1ad8a5",
+                "score": 0.0069576087,
+                "excerpt": "fulfilment of those purposes. We will collect personal information by lawful and fair means and with the knowledge and consent of the individual concerned.\nPersonal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.\nEXTERNAL LINKS ON THE WEBSITE\nThe Website may include advertisements, hyperlinks to other Websites or resources. We have no control over any other website or resources or c...",
+                "url": "https://mindalcove.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1549845703,
+            "url": "https://mindalcove.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that before collecting personal information, they will identify the purposes for which the information is being collected. It also mentions that personal information will be used solely to fulfill specified purposes, and data collection will be done with the knowledge and consent of the individual concerned.",
+            "reference": "Before or at the time of collecting personal information, we will identify the purposes for which information is being collected... We will collect and use your personal information solely to fulfil those purposes specified by us, within the scope of the consent of the individual concerned... We will collect personal information by lawful and fair means and with the knowledge and consent of the individual concerned. URL: https://mindalcove.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7bfe0e88a69ab3dfc0a2e0d16e90690882889ce119a1aae6770b710641687e97",
+                "score": 0.3974121,
+                "excerpt": "required to do so by law. Information collected via Our server logs includes users' IP addresses and the pages visited; this will be used to manage the web system and troubleshoot problems. We also use third-party analytics, tracking, optimization and targeting tools to understand how users engage with our Website so that we can improve it and cater personalized content/ads according to their preferences.\nHOW INFORMATION IS COLLECTED\nBefore or at the time of collecting personal information, we w...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "323d74ca29fb0324f1cf6abbf17e87a6a0b52d426c019f1a53bf75112f1ad8a5",
+                "score": 0.06656919,
+                "excerpt": "fulfilment of those purposes. We will collect personal information by lawful and fair means and with the knowledge and consent of the individual concerned.\nPersonal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.\nEXTERNAL LINKS ON THE WEBSITE\nThe Website may include advertisements, hyperlinks to other Websites or resources. We have no control over any other website or resources or c...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "7cd1de01c92d01386cd8c6333a5c2126728ceec4f3b71fb37c71a33242755058",
+                "score": 0.061199225,
+                "excerpt": "to the manner of collection or use of your information, please do not use or access the Site. If you have any questions or concerns regarding this Privacy Policy, you should contact our Customer Care.\nANY CAPITALIZED WORDS USED HENCEFORTH SHALL HAVE THE MEANING ACCORDED TO THEM UNDER THIS AGREEMENT. FURTHER, ALL HEADING USED HEREIN ARE ONLY FOR THE PURPOSE OF ARRANGING THE VARIOUS PROVISIONS OF THE AGREEMENT IN ANY MANNER. NEITHER THE USER NOR THE CREATORS OF THIS PRIVACY POLICY MAY USE THE HEAD...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "d085c84a24983e66a274487e2376cc57c62137863c5a811841168a07e6f6db4f",
+                "score": 0.029873092,
+                "excerpt": "as not revealing account/login related information to any other person and informing our customer care team about any suspicious activity or where your account has/may have been compromised.\nOUR USE OF YOUR INFORMATION\nThe information provided by you shall be used to provide and improve the service for you and all users.\na. To provide and help you with services on your request.\nb. For maintaining an internal record.\nc. For enhancing the Services provided.\nd. For maintaining record under the lega...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "dce3158a14523d890f5db9401b2d2489484cad260375f082e339019030394b7d",
+                "score": 0.019870713,
+                "excerpt": "your invaluable information also to support the ongoing cause that you may share across on this Platform. We ask for this information so that we can understand more about the people who support us. This privacy policy contains information about the Website “www.mindalcove.com” and is committed to maintaining the privacy of all the users. To provide You with Our uninterrupted use of the Website, We may collect and, in some circumstances, disclose information about you with your permission. To ens...",
+                "url": "https://mindalcove.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1549845703,
+            "url": "https://mindalcove.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by sending an email to contact@mindalcove.com.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can withdraw their consent, or request to download or delete their data at any time by contacting the provided email address.",
+            "reference": "To withdraw your consent, or to request the download or delete your data with us for any or all our services at any time, please email to contact@mindalcove.com. URL: https://mindalcove.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bcee406ec6cb8debed47d9b1b18eb86e37e1d262d520a83ab628d478bc165fa0",
+                "score": 0.8984106,
+                "excerpt": "Policy shall be deemed as accepted by the User on their continued use of the Website.\nCONSENT WITHDRAWAL, DATA DOWNLOAD & DATA REMOVAL REQUESTS\nTo withdraw your consent, or to request the download or delete your data with us for any or all our services at any time, please email to contact@mindalcove.com\nCONTACT US\nIf you have any questions or concerns regarding this privacy policy, you should contact us by sending an e-mail to please email to contact@mindalcove.com",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "3c6843c8c0e1bf5147b13d6edd70ba329e5116ceaa30ee3429c3a7004232d548",
+                "score": 0.5727825,
+                "excerpt": "to protect such data from unauthorized access by members inside and outside the Website. We follow generally accepted industry standards to protect the Personal Information submitted to us and information that we have accessed. However, as effective as encryption technology is, no security system is impenetrable. Our Website cannot guarantee the security of our database, nor can we guarantee that information you provide will not be intercepted while being transmitted to the Website over the Inte...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "15703ca90c48ca042815e11ad5579165f7f207eacbaa1887328cb5e9f8bf7674",
+                "score": 0.18817474,
+                "excerpt": "requested by You involves a third party, such information as is reasonably necessary by the Website to carry out Your service request may be shared with such third party. We also do use your contact information to send you offers based on your interests and prior activity and also to view the content preferred by you. The Website may also use contact information internally to direct its efforts for service improvement but shall immediately delete all such information upon withdrawal of your cons...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "0d0a3a12028200a792b2db196f0f7e99050ca30ef14ced627dc71bb4120c6dec",
+                "score": 0.16092426,
+                "excerpt": "by you on the completeness, accuracy or existence of any advertising, services or other materials on, or available from, such Websites. These external third party websites and resource providers may have their privacy policies governing the collection, storage, retention and disclosure of Your Personal Information that You may be subject to. We recommend that you enter the Website and review their privacy policy.\nPlease note, however, that if you delete cookies or refuse to accept them, you migh...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "730ceb5b39d94acf82d39e80e4b65cf13658d1871a6236c7f8a343c0c08a8d6b",
+                "score": 0.10338596,
+                "excerpt": "object to the processing of personal data;\ne. The right to complain about a supervisory authority.\nf. The right to obtain information as to whether personal data are transferred to a third country or an international organization. Where you hold an account with any of our services, you are entitled to a copy of all personal data which we hold concerning you. You are also entitled to request that we restrict how we use your data in your account when you log in.\nCONFIDENTIALITY\nYou further acknowl...",
+                "url": "https://mindalcove.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1549845703,
+            "url": "https://mindalcove.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as necessary to carry out service requests or send offers based on user interests and prior activity.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share data with third parties in situations where it is necessary to carry out service requests or send offers based on user interests and prior activity.",
+            "reference": "Where any service requested by You involves a third party, such information as is reasonably necessary by the Website to carry out Your service request may be shared with such third party. We also do use your contact information to send you offers based on your interests and prior activity. URL: https://mindalcove.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d085c84a24983e66a274487e2376cc57c62137863c5a811841168a07e6f6db4f",
+                "score": 0.10105592,
+                "excerpt": "as not revealing account/login related information to any other person and informing our customer care team about any suspicious activity or where your account has/may have been compromised.\nOUR USE OF YOUR INFORMATION\nThe information provided by you shall be used to provide and improve the service for you and all users.\na. To provide and help you with services on your request.\nb. For maintaining an internal record.\nc. For enhancing the Services provided.\nd. For maintaining record under the lega...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "15703ca90c48ca042815e11ad5579165f7f207eacbaa1887328cb5e9f8bf7674",
+                "score": 0.077937685,
+                "excerpt": "requested by You involves a third party, such information as is reasonably necessary by the Website to carry out Your service request may be shared with such third party. We also do use your contact information to send you offers based on your interests and prior activity and also to view the content preferred by you. The Website may also use contact information internally to direct its efforts for service improvement but shall immediately delete all such information upon withdrawal of your cons...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "b472bb0a1031f2ac97e2bc84a9673db1fe2dad80bd8500d3e42e3001e9d77861",
+                "score": 0.071073666,
+                "excerpt": "provided email address.\nAs a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed:\na. External Service Providers: There may be several services offered by external service providers that help you use our Website. If you choose to use these optional services, and in the course of doing so, disclose information to the external se...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "6cb52c7068ec9befa50d12fa8be3fd52888c373b7659a320866e2383ff5e5388",
+                "score": 0.055515114,
+                "excerpt": "URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your computer or device browser information, and other information associated with your interaction with the Website;\nc. Details of Website usage for analytics.\nThis privacy policy also applies to data we collect from users who are not registered as members of this Website, including, but not limited to, browsing behavior, pages viewed etc. We also collect and store personal information provided ...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "379fd6ece289749c6490ebaee01dd00db26421956e5d587a3918ebeac4d6b1cf",
+                "score": 0.054903854,
+                "excerpt": "of agreed services, and you retain sole discretion to seek for discontinuation of such communications at any point of time.\nOTHER INFORMATION COLLECTORS\nExcept as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Website or other sites throughout the Internet, different rules may apply to their use or disclosure of t...",
+                "url": "https://mindalcove.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1549845703,
+            "url": "https://mindalcove.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "External service providers, law enforcement agencies, and other government officials are the third parties with which the app may share data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "External Service Providers",
+                        "Law Enforcement Agencies",
+                        "Other Government Officials"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may disclose personally identifiable information to external service providers, law enforcement agencies, and other government officials as necessary.",
+            "reference": "External Service Providers: There may be several services offered by external service providers that help you use our Website. If you choose to use these optional services, and in the course of doing so, disclose information to the external service providers, and/or permit them to collect information about you, then their use of your information is governed by their privacy policy. Law and Order: We cooperate with law enforcement inquiries, as well as other third parties to enforce laws, such as intellectual property rights, fraud and other rights. We can (and you authorize us to) disclose any information about you to law enforcement where the FIR is filed against the user and other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us or you to legal liability. URL: https://mindalcove.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b472bb0a1031f2ac97e2bc84a9673db1fe2dad80bd8500d3e42e3001e9d77861",
+                "score": 0.2429233,
+                "excerpt": "provided email address.\nAs a matter of policy, we do not sell or rent any personally identifiable information about you to any third party. However, the following describes some of the ways that your personally identifiable information may be disclosed:\na. External Service Providers: There may be several services offered by external service providers that help you use our Website. If you choose to use these optional services, and in the course of doing so, disclose information to the external se...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "379fd6ece289749c6490ebaee01dd00db26421956e5d587a3918ebeac4d6b1cf",
+                "score": 0.19868536,
+                "excerpt": "of agreed services, and you retain sole discretion to seek for discontinuation of such communications at any point of time.\nOTHER INFORMATION COLLECTORS\nExcept as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are on our Website or other sites throughout the Internet, different rules may apply to their use or disclosure of t...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "15703ca90c48ca042815e11ad5579165f7f207eacbaa1887328cb5e9f8bf7674",
+                "score": 0.15065254,
+                "excerpt": "requested by You involves a third party, such information as is reasonably necessary by the Website to carry out Your service request may be shared with such third party. We also do use your contact information to send you offers based on your interests and prior activity and also to view the content preferred by you. The Website may also use contact information internally to direct its efforts for service improvement but shall immediately delete all such information upon withdrawal of your cons...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "614617e86a9db167836edaf5b921052c0b9274fef03b6abaec732f6fba78ea50",
+                "score": 0.14767806,
+                "excerpt": "the survey creator directly to better understand how they might share your survey responses. Information collected will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made thereunder or any other law for the time being in force. Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never...",
+                "url": "https://mindalcove.com/privacy-policy"
+            },
+            {
+                "id": "6cb52c7068ec9befa50d12fa8be3fd52888c373b7659a320866e2383ff5e5388",
+                "score": 0.08929565,
+                "excerpt": "URL is on the Website or not), which URL you next go to (whether this URL is on the Website or not), your computer or device browser information, and other information associated with your interaction with the Website;\nc. Details of Website usage for analytics.\nThis privacy policy also applies to data we collect from users who are not registered as members of this Website, including, but not limited to, browsing behavior, pages viewed etc. We also collect and store personal information provided ...",
+                "url": "https://mindalcove.com/privacy-policy"
+            }
+        ]
+    }
+]

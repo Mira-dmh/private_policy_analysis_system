@@ -1,0 +1,340 @@
+[
+    {
+        "meta": {
+            "id": 1552340992,
+            "url": "https://blazer-stage.web.app/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects data, including personal identifiers, information through feedback surveys, and data collected automatically.",
+            "reference": "The following describes the information we collect and how we obtain it. URL: https://blazer-stage.web.app/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "aec4cf836c8cbcf6ce9a86ad6111faacfec591a353ea086992a1b59491952ce4",
+                "score": 0.045777272,
+                "excerpt": "D YOUR DATA\nJeboah Miranda Foundation Blazer Application\nPrivacy Policy\nLast Updated on January 31, 2021\nJeboah Miranda Foundation and Jeboah Miranda Enterprise Inc. (“We or “Us”) want you to understand how we handle your data. We also want you to know your rights and choices.\nThis policy describes how we handle your data when you use The Blazer Application (the “Application”)\nWhat Information Do We Gather About You?\nThe following describes the information we collect and how we obtain it.\nA) Inf...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e9fb0b256fc8f23d2a0a114183dcac2590f95cc7ace2cb63a7ce293bb9e501ec",
+                "score": 0.032589745,
+                "excerpt": "your location tracking settings to allow us to match you with other User’s in your chosen location/geographic area and any other relevant information (“Personal Identifiers”).\nWe gather information through random feedback surveys that pop up in the application when in use and when you choose to click on the “Report a problem /submit feedback” link at the bottom of the settings page. We ask you for your consent to use this information when you participate in these Programs and events. This can in...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "b9136fa2012af27de35d23eefa8404b00dc857028eb134f893bfa5361f98b743",
+                "score": 0.029035643,
+                "excerpt": "platforms. This includes aggregate data on our followers (e.g., age, gender and location), engagement data (e.g., “likes,” comments, shares, reposts and clicks), awareness data, users’ profiles or bios.\nA note about future updates:\nWe plan to improve our Application and we may create new features. These updates sometimes require us to collect new information, or use what we already have differently. If there is a significant or material change in the way we handle your personal information, we w...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "3559cd8f556930747d275b275255b8d666529376abc3c6731d08a9254d6e7e4c",
+                "score": 0.016403032,
+                "excerpt": "you when We have a valid reason. This is called “lawful basis.” Our lawful basis includes one or more of the following:\nWe have a legitimate interest in gathering and processing personal information, for example: (1) to ensure that our networks and information are secure; (2) to administer the Application Programs (3) to conduct our marketing activities provided all of Your personal identifiers are removed.\nWhat About Links to Third-Party Services?\nThe Blazer Application contains links to third-...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "36234bcb6f822622438315494c212be7bcfda6888707f4db7ecb920f17eb76b1",
+                "score": 0.004166256,
+                "excerpt": "to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.\nWe also identify groups of users to whom We sho...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1552340992,
+            "url": "https://blazer-stage.web.app/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as contact information, location settings, feedback survey responses (including age, gender, religion, ethnicity, relationship status), data for personalized advertising, demographic data, and information tracked automatically through cookies and other technologies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact information",
+                        "Location settings",
+                        "Feedback survey responses",
+                        "Data for personalized advertising",
+                        "Demographic data",
+                        "Automatically tracked data"
+                    ]
+                }
+            },
+            "analysis": "Various types of data are collected by the app as outlined in the privacy policy document, including personal information, location data, survey responses, advertisement-related data, and automatically tracked data.",
+            "reference": "The app collects data such as contact information, location settings, feedback survey responses (including age, gender, religion, ethnicity, relationship status), data for personalized advertising, demographic data, and information tracked automatically through cookies and other technologies. URL: https://blazer-stage.web.app/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "b9136fa2012af27de35d23eefa8404b00dc857028eb134f893bfa5361f98b743",
+                "score": 0.40327308,
+                "excerpt": "platforms. This includes aggregate data on our followers (e.g., age, gender and location), engagement data (e.g., “likes,” comments, shares, reposts and clicks), awareness data, users’ profiles or bios.\nA note about future updates:\nWe plan to improve our Application and we may create new features. These updates sometimes require us to collect new information, or use what we already have differently. If there is a significant or material change in the way we handle your personal information, we w...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e9fb0b256fc8f23d2a0a114183dcac2590f95cc7ace2cb63a7ce293bb9e501ec",
+                "score": 0.17161581,
+                "excerpt": "your location tracking settings to allow us to match you with other User’s in your chosen location/geographic area and any other relevant information (“Personal Identifiers”).\nWe gather information through random feedback surveys that pop up in the application when in use and when you choose to click on the “Report a problem /submit feedback” link at the bottom of the settings page. We ask you for your consent to use this information when you participate in these Programs and events. This can in...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "aec4cf836c8cbcf6ce9a86ad6111faacfec591a353ea086992a1b59491952ce4",
+                "score": 0.087563835,
+                "excerpt": "D YOUR DATA\nJeboah Miranda Foundation Blazer Application\nPrivacy Policy\nLast Updated on January 31, 2021\nJeboah Miranda Foundation and Jeboah Miranda Enterprise Inc. (“We or “Us”) want you to understand how we handle your data. We also want you to know your rights and choices.\nThis policy describes how we handle your data when you use The Blazer Application (the “Application”)\nWhat Information Do We Gather About You?\nThe following describes the information we collect and how we obtain it.\nA) Inf...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "36234bcb6f822622438315494c212be7bcfda6888707f4db7ecb920f17eb76b1",
+                "score": 0.0433658,
+                "excerpt": "to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.\nWe also identify groups of users to whom We sho...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "19db0cef17141aae927c79a2a340e3a747253421f12646a087d26ed9540d95f6",
+                "score": 0.0279544,
+                "excerpt": "to Cookies) across its platform, to track the entire User journey. For more information on Mixpanel’s privacy policy please review: https://mixpanel.com/legal/privacy-policy/\nYou choose whether to enable GPS features when you first install the app. You can edit that setting on your device at any time. If you enable these features, your GPS location can be found by satellite, cell phone tower or Wi-Fi and used by the app. If you save a location-based search in your history, that data moves and is...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1552340992,
+            "url": "https://blazer-stage.web.app/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The data is being collected for the Application to be effective, improve and personalize the user experience, apply for funding, show personalized advertising, and create audiences for third-party advertisers.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states the purposes of data collection and use, including improving user experience, applying for funding, personalized advertising, and creating audiences for third-party advertisers.",
+            "reference": "The data is being collected for the Application to be effective and in order to improve and personalize Your experience and allow Us to apply for and receive funding in order to sustain the Application. We Allow for Personalized Advertising on The Blazer Application and Create Audiences for Third-Party Advertisers. URL: https://blazer-stage.web.app/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "b9136fa2012af27de35d23eefa8404b00dc857028eb134f893bfa5361f98b743",
+                "score": 0.30002728,
+                "excerpt": "platforms. This includes aggregate data on our followers (e.g., age, gender and location), engagement data (e.g., “likes,” comments, shares, reposts and clicks), awareness data, users’ profiles or bios.\nA note about future updates:\nWe plan to improve our Application and we may create new features. These updates sometimes require us to collect new information, or use what we already have differently. If there is a significant or material change in the way we handle your personal information, we w...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "3559cd8f556930747d275b275255b8d666529376abc3c6731d08a9254d6e7e4c",
+                "score": 0.052521676,
+                "excerpt": "you when We have a valid reason. This is called “lawful basis.” Our lawful basis includes one or more of the following:\nWe have a legitimate interest in gathering and processing personal information, for example: (1) to ensure that our networks and information are secure; (2) to administer the Application Programs (3) to conduct our marketing activities provided all of Your personal identifiers are removed.\nWhat About Links to Third-Party Services?\nThe Blazer Application contains links to third-...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e9fb0b256fc8f23d2a0a114183dcac2590f95cc7ace2cb63a7ce293bb9e501ec",
+                "score": 0.013222822,
+                "excerpt": "your location tracking settings to allow us to match you with other User’s in your chosen location/geographic area and any other relevant information (“Personal Identifiers”).\nWe gather information through random feedback surveys that pop up in the application when in use and when you choose to click on the “Report a problem /submit feedback” link at the bottom of the settings page. We ask you for your consent to use this information when you participate in these Programs and events. This can in...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "aec4cf836c8cbcf6ce9a86ad6111faacfec591a353ea086992a1b59491952ce4",
+                "score": 0.010489091,
+                "excerpt": "D YOUR DATA\nJeboah Miranda Foundation Blazer Application\nPrivacy Policy\nLast Updated on January 31, 2021\nJeboah Miranda Foundation and Jeboah Miranda Enterprise Inc. (“We or “Us”) want you to understand how we handle your data. We also want you to know your rights and choices.\nThis policy describes how we handle your data when you use The Blazer Application (the “Application”)\nWhat Information Do We Gather About You?\nThe following describes the information we collect and how we obtain it.\nA) Inf...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "36234bcb6f822622438315494c212be7bcfda6888707f4db7ecb920f17eb76b1",
+                "score": 0.010288301,
+                "excerpt": "to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.\nWe also identify groups of users to whom We sho...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1552340992,
+            "url": "https://blazer-stage.web.app/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by adjusting device settings, uninstalling the app, emailing a specific address with 'Opt Out' in the subject line, replying 'STOP' to text alerts, or using alternative keywords provided by the app.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines multiple methods through which users can opt out of data collection or delete data, ensuring user control over their personal information.",
+            "reference": "You can opt out any time by adjusting your device settings, or by uninstalling our app. You can opt out of text alerts any time by replying 'STOP,' or any alternative keyword we’ve shared with you. Email us at keynotespeaker@jeboahmiranda.ca. with 'Opt Out' in the subject line or as indicated on the landing page. URL: https://blazer-stage.web.app/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "da48450e5c29ea7eb56e7dd1f31cff1f41ea910169ee9b1e958a349433ef5b58",
+                "score": 0.9396923,
+                "excerpt": "at keynotespeaker@jeboahmiranda.ca. with “Opt Out” in the subject line or as indicated on the landing page.\nYou can opt out any time by adjusting your device settings, or by uninstalling our app.\nYou can opt out of text alerts any time by replying “STOP,” or any alternative keyword we’ve shared with you.\nWe complete any opt-out request as quickly as we can. This opt-out request won’t prohibit us from sending you important nonmarketing notices.\nHow Do You Access, Change, Delete, Update or Exercis...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "33637443623ed43ab38bbd3df315831df3e32cbb358bf909428a9f7424872e04",
+                "score": 0.28061637,
+                "excerpt": "and apps.\nWe Aggregate (or De-identify) Personal Information Into Larger Findings.\nSometimes we aggregate or de-identify information so that it can no longer identify you, under applicable laws. This helps us better understand and represent our users for the Application Programs or compile survey results. We can use and disclose this aggregated or de-identified information for any purpose, unless an applicable law says otherwise.\nWith Whom Do We Share the Information We Gather?\nWith Service Prov...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "c2f9d01e4f265482f1e5e82df324fbc8fed0a72211e7dc7fba9d37bb292f8d64",
+                "score": 0.019794779,
+                "excerpt": "changed, whether you’d like your information suppressed from our database or whether there are limitations you’d like us to put on how we use your personal information. Please use the email address linked to that personal information — we only complete requests on the information linked to your email address. To verify your identity, we will email the email address you provide us, and which matches our records, and wait for your response. In some instances, we may also ask for additional informa...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e333ab28df21df725eefda8751ed7fe889d05e8be3746f9bdbd33958296d81bf",
+                "score": 0.017917344,
+                "excerpt": "removing identifying details.\nHow Do You Protect My Information?\nWe protect your personal information with a series of organizational, technological and physical safeguards. We use Google Cloud and Firebase to help safeguard Your Data as they have designed their software services in such way that securely encrypts all data.\nData on servers is managed and segregated by Google Cloud or Firebase but we cannot guarantee its absolute security.\nWe recommend that you use complex and unique passwords fo...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e9fb0b256fc8f23d2a0a114183dcac2590f95cc7ace2cb63a7ce293bb9e501ec",
+                "score": 0.01243165,
+                "excerpt": "your location tracking settings to allow us to match you with other User’s in your chosen location/geographic area and any other relevant information (“Personal Identifiers”).\nWe gather information through random feedback surveys that pop up in the application when in use and when you choose to click on the “Report a problem /submit feedback” link at the bottom of the settings page. We ask you for your consent to use this information when you participate in these Programs and events. This can in...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1552340992,
+            "url": "https://blazer-stage.web.app/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for personalized advertising. The data shared includes information collected through ad tracking technologies, demographic data, and information inferred from user data.",
+            "reference": "We Allow for Personalized Advertising on The Blazer Application and Create Audiences for Third-Party Advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. URL: https://blazer-stage.web.app/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "33637443623ed43ab38bbd3df315831df3e32cbb358bf909428a9f7424872e04",
+                "score": 0.82615143,
+                "excerpt": "and apps.\nWe Aggregate (or De-identify) Personal Information Into Larger Findings.\nSometimes we aggregate or de-identify information so that it can no longer identify you, under applicable laws. This helps us better understand and represent our users for the Application Programs or compile survey results. We can use and disclose this aggregated or de-identified information for any purpose, unless an applicable law says otherwise.\nWith Whom Do We Share the Information We Gather?\nWith Service Prov...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "b9136fa2012af27de35d23eefa8404b00dc857028eb134f893bfa5361f98b743",
+                "score": 0.74279505,
+                "excerpt": "platforms. This includes aggregate data on our followers (e.g., age, gender and location), engagement data (e.g., “likes,” comments, shares, reposts and clicks), awareness data, users’ profiles or bios.\nA note about future updates:\nWe plan to improve our Application and we may create new features. These updates sometimes require us to collect new information, or use what we already have differently. If there is a significant or material change in the way we handle your personal information, we w...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "36234bcb6f822622438315494c212be7bcfda6888707f4db7ecb920f17eb76b1",
+                "score": 0.6274948,
+                "excerpt": "to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.\nWe also identify groups of users to whom We sho...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e9fb0b256fc8f23d2a0a114183dcac2590f95cc7ace2cb63a7ce293bb9e501ec",
+                "score": 0.5410451,
+                "excerpt": "your location tracking settings to allow us to match you with other User’s in your chosen location/geographic area and any other relevant information (“Personal Identifiers”).\nWe gather information through random feedback surveys that pop up in the application when in use and when you choose to click on the “Report a problem /submit feedback” link at the bottom of the settings page. We ask you for your consent to use this information when you participate in these Programs and events. This can in...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "3559cd8f556930747d275b275255b8d666529376abc3c6731d08a9254d6e7e4c",
+                "score": 0.4907924,
+                "excerpt": "you when We have a valid reason. This is called “lawful basis.” Our lawful basis includes one or more of the following:\nWe have a legitimate interest in gathering and processing personal information, for example: (1) to ensure that our networks and information are secure; (2) to administer the Application Programs (3) to conduct our marketing activities provided all of Your personal identifiers are removed.\nWhat About Links to Third-Party Services?\nThe Blazer Application contains links to third-...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1552340992,
+            "url": "https://blazer-stage.web.app/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties operating in Health care, CPG, Retail, Health and Wellness, Health, Education, Beauty, Pharmaceuticals, Non-profit, Technology, Advertising, and Marketing.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Health care",
+                        "CPG",
+                        "Retail",
+                        "Health and Wellness",
+                        "Health",
+                        "Education",
+                        "Beauty",
+                        "Pharmaceuticals",
+                        "Non-profit",
+                        "Technology",
+                        "Advertising",
+                        "Marketing"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with third parties operating in various sectors for personalized advertising purposes.",
+            "reference": "We gather data and work with third parties such operating in Health care, CPG, Retail, Health and Wellness, Health, Education, Beauty, Pharmaceuticals, Non-profit, Technology, Advertising and Marketing to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. URL: https://blazer-stage.web.app/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "33637443623ed43ab38bbd3df315831df3e32cbb358bf909428a9f7424872e04",
+                "score": 0.75110084,
+                "excerpt": "and apps.\nWe Aggregate (or De-identify) Personal Information Into Larger Findings.\nSometimes we aggregate or de-identify information so that it can no longer identify you, under applicable laws. This helps us better understand and represent our users for the Application Programs or compile survey results. We can use and disclose this aggregated or de-identified information for any purpose, unless an applicable law says otherwise.\nWith Whom Do We Share the Information We Gather?\nWith Service Prov...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "b9136fa2012af27de35d23eefa8404b00dc857028eb134f893bfa5361f98b743",
+                "score": 0.6334103,
+                "excerpt": "platforms. This includes aggregate data on our followers (e.g., age, gender and location), engagement data (e.g., “likes,” comments, shares, reposts and clicks), awareness data, users’ profiles or bios.\nA note about future updates:\nWe plan to improve our Application and we may create new features. These updates sometimes require us to collect new information, or use what we already have differently. If there is a significant or material change in the way we handle your personal information, we w...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "e9fb0b256fc8f23d2a0a114183dcac2590f95cc7ace2cb63a7ce293bb9e501ec",
+                "score": 0.3429015,
+                "excerpt": "your location tracking settings to allow us to match you with other User’s in your chosen location/geographic area and any other relevant information (“Personal Identifiers”).\nWe gather information through random feedback surveys that pop up in the application when in use and when you choose to click on the “Report a problem /submit feedback” link at the bottom of the settings page. We ask you for your consent to use this information when you participate in these Programs and events. This can in...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "36234bcb6f822622438315494c212be7bcfda6888707f4db7ecb920f17eb76b1",
+                "score": 0.30435172,
+                "excerpt": "to show you personalized ads on behalf of advertisers. This data comes from ad tracking technologies set by us or the third party (e.g., cookies), the information you provide (e.g., your email address), your use of The Blazer Application information from advertisers or advertising vendors (e.g., demographic data) and anything inferred from any of this information. We only use or share this information in a manner that does not reveal your identity.\nWe also identify groups of users to whom We sho...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            },
+            {
+                "id": "19db0cef17141aae927c79a2a340e3a747253421f12646a087d26ed9540d95f6",
+                "score": 0.24526574,
+                "excerpt": "to Cookies) across its platform, to track the entire User journey. For more information on Mixpanel’s privacy policy please review: https://mixpanel.com/legal/privacy-policy/\nYou choose whether to enable GPS features when you first install the app. You can edit that setting on your device at any time. If you enable these features, your GPS location can be found by satellite, cell phone tower or Wi-Fi and used by the app. If you save a location-based search in your history, that data moves and is...",
+                "url": "https://blazer-stage.web.app/privacy-policy.html"
+            }
+        ]
+    }
+]

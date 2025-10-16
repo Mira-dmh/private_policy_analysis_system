@@ -1,0 +1,299 @@
+[
+    {
+        "meta": {
+            "id": 1521793590,
+            "url": "https://www.portages.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of personally identifiable information (PII) and non-personal information (NPI) from users.",
+            "reference": "We collect PII that you directly provide to us so you can receive information from us. We also collect Non-Personal Information (“NPI”) from you. NPI is information which cannot be easily used to personally identify you and includes, for example, the type of web browser you use to access our Site, the URL of the previous website you visited, clickstream patterns, your ISP, your operating system, and your IP address. URL: https://www.portages.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6ffee31a4253d6f31485ebad13d6b4cb3457a7dd82282a8bf0775341db506457",
+                "score": 0.0015011822,
+                "excerpt": "Privacy policy.\nIntroduction\nWe recognize that you may have questions about our collection, use and disclosure of personally identifiable information (“PII”) that you send to us and other information we collect during the course of your visit to www.portages.io (“Site”). We value our relationship with you and want to help keep your experience on our Site secure, enjoyable, efficient and easy.\nContact\nIf you have any questions or comments about this Privacy Statement, please contact us at support...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "00df5433c35de35c4a462215989e4f609fc2ec5fd4255af2205a171646eebb70",
+                "score": 0.00046552691,
+                "excerpt": "support@portages.io. Before updates are made through this means, appropriate validation of your identity will be made.\nProtecting PII\nWe strive to maintain reasonable data security measures. However, no security measures are invulnerable to attack. We are not responsible for the security of your PII that you transmit to us over networks that we do not control, including, but not limited to, wireless networks.\nTaking your PII\nYou may request that we provide you with the PII you have provided to u...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "d061c6170da2cdf1051f92456230ec3c2beca16d7822a113ac6513ff0ff4cb58",
+                "score": 0.00041084853,
+                "excerpt": "system and your IP address.\nPII and NPI are collectively referred to as “Information.”\nHow we use the Information we Collect\nPII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site.\nNPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience.\nIf you would like to...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "52f90820c86a26efa02f683475acb4302d5a9b2ddd3900e20419b613a44bdf34",
+                "score": 0.00029365462,
+                "excerpt": "Storage\nWe will keep your Information for as long as is necessary for the continued provision of services to you, or where we have a legitimate interest to continue doing so.\nPrivacy Statement Changes\nWe reserve the right to modify, add or remove any terms and conditions in this Privacy Statement without prior notice or liability to you. Any changes we make will be effective immediately following posting on the Site.\nIf you are subscribed to our mailing list with a valid e-mail address, you will...",
+                "url": "https://www.portages.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1521793590,
+            "url": "https://www.portages.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personally Identifiable Information (PII) and Non-Personal Information (NPI). PII includes first name, initial, last name, social security number, state identification card number, or address information. NPI includes web browser type, previous website URL, clickstream patterns, ISP, operating system, and IP address.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "First name",
+                        "Initial",
+                        "Last name",
+                        "Social security number",
+                        "State identification card number",
+                        "Address information",
+                        "Web browser type",
+                        "Previous website URL",
+                        "Clickstream patterns",
+                        "ISP",
+                        "Operating system",
+                        "IP address"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states the types of data collected by the app, including Personally Identifiable Information (PII) and Non-Personal Information (NPI). The PII consists of specific personal details like name and identification numbers, while the NPI includes details that cannot identify a specific individual.",
+            "reference": "PII consists of a first name or initial and last name in combination of one or more of the following: social security number, state identification card number or address information. We collect PII that you directly provide to us so you can receive information from us. We also collect Non-Personal Information (“NPI”) from you. NPI is information which cannot be easily used to personally identify you and includes, for example, the type of web browser you use to access our Site, the URL of the previous website you visited, clickstream patterns, your ISP, your operating system and your IP address. URL: https://www.portages.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6ffee31a4253d6f31485ebad13d6b4cb3457a7dd82282a8bf0775341db506457",
+                "score": 0.03882902,
+                "excerpt": "Privacy policy.\nIntroduction\nWe recognize that you may have questions about our collection, use and disclosure of personally identifiable information (“PII”) that you send to us and other information we collect during the course of your visit to www.portages.io (“Site”). We value our relationship with you and want to help keep your experience on our Site secure, enjoyable, efficient and easy.\nContact\nIf you have any questions or comments about this Privacy Statement, please contact us at support...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "d061c6170da2cdf1051f92456230ec3c2beca16d7822a113ac6513ff0ff4cb58",
+                "score": 0.0023231625,
+                "excerpt": "system and your IP address.\nPII and NPI are collectively referred to as “Information.”\nHow we use the Information we Collect\nPII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site.\nNPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience.\nIf you would like to...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "52f90820c86a26efa02f683475acb4302d5a9b2ddd3900e20419b613a44bdf34",
+                "score": 0.0006190417,
+                "excerpt": "Storage\nWe will keep your Information for as long as is necessary for the continued provision of services to you, or where we have a legitimate interest to continue doing so.\nPrivacy Statement Changes\nWe reserve the right to modify, add or remove any terms and conditions in this Privacy Statement without prior notice or liability to you. Any changes we make will be effective immediately following posting on the Site.\nIf you are subscribed to our mailing list with a valid e-mail address, you will...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "00df5433c35de35c4a462215989e4f609fc2ec5fd4255af2205a171646eebb70",
+                "score": 0.0003935756,
+                "excerpt": "support@portages.io. Before updates are made through this means, appropriate validation of your identity will be made.\nProtecting PII\nWe strive to maintain reasonable data security measures. However, no security measures are invulnerable to attack. We are not responsible for the security of your PII that you transmit to us over networks that we do not control, including, but not limited to, wireless networks.\nTaking your PII\nYou may request that we provide you with the PII you have provided to u...",
+                "url": "https://www.portages.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1521793590,
+            "url": "https://www.portages.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states in its privacy policy how it uses personally identifiable information (PII) and non-personal information (NPI) collected from users.",
+            "reference": "PII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site. NPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience. URL: https://www.portages.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d061c6170da2cdf1051f92456230ec3c2beca16d7822a113ac6513ff0ff4cb58",
+                "score": 0.017644463,
+                "excerpt": "system and your IP address.\nPII and NPI are collectively referred to as “Information.”\nHow we use the Information we Collect\nPII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site.\nNPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience.\nIf you would like to...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "6ffee31a4253d6f31485ebad13d6b4cb3457a7dd82282a8bf0775341db506457",
+                "score": 0.016340127,
+                "excerpt": "Privacy policy.\nIntroduction\nWe recognize that you may have questions about our collection, use and disclosure of personally identifiable information (“PII”) that you send to us and other information we collect during the course of your visit to www.portages.io (“Site”). We value our relationship with you and want to help keep your experience on our Site secure, enjoyable, efficient and easy.\nContact\nIf you have any questions or comments about this Privacy Statement, please contact us at support...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "00df5433c35de35c4a462215989e4f609fc2ec5fd4255af2205a171646eebb70",
+                "score": 0.00048785712,
+                "excerpt": "support@portages.io. Before updates are made through this means, appropriate validation of your identity will be made.\nProtecting PII\nWe strive to maintain reasonable data security measures. However, no security measures are invulnerable to attack. We are not responsible for the security of your PII that you transmit to us over networks that we do not control, including, but not limited to, wireless networks.\nTaking your PII\nYou may request that we provide you with the PII you have provided to u...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "52f90820c86a26efa02f683475acb4302d5a9b2ddd3900e20419b613a44bdf34",
+                "score": 0.00039204178,
+                "excerpt": "Storage\nWe will keep your Information for as long as is necessary for the continued provision of services to you, or where we have a legitimate interest to continue doing so.\nPrivacy Statement Changes\nWe reserve the right to modify, add or remove any terms and conditions in this Privacy Statement without prior notice or liability to you. Any changes we make will be effective immediately following posting on the Site.\nIf you are subscribed to our mailing list with a valid e-mail address, you will...",
+                "url": "https://www.portages.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1521793590,
+            "url": "https://www.portages.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt-out of site tracking by clicking on a provided link. Users can also request the deletion or changes to their personally identifiable information (PII) by contacting the support email.",
+            "reference": "If you would like to opt-out from our Site tracking, please click <<here>>. Note that if you opt-out, we may no longer be able to deliver services to you. URL: https://www.portages.com/privacy-policy. You may request that we make changes to your PII at any time by contacting us at support@portages.io. URL: https://www.portages.com/privacy-policy."
+        },
+        "source_documents": [
+            {
+                "id": "d061c6170da2cdf1051f92456230ec3c2beca16d7822a113ac6513ff0ff4cb58",
+                "score": 0.25571522,
+                "excerpt": "system and your IP address.\nPII and NPI are collectively referred to as “Information.”\nHow we use the Information we Collect\nPII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site.\nNPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience.\nIf you would like to...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "52f90820c86a26efa02f683475acb4302d5a9b2ddd3900e20419b613a44bdf34",
+                "score": 0.03897507,
+                "excerpt": "Storage\nWe will keep your Information for as long as is necessary for the continued provision of services to you, or where we have a legitimate interest to continue doing so.\nPrivacy Statement Changes\nWe reserve the right to modify, add or remove any terms and conditions in this Privacy Statement without prior notice or liability to you. Any changes we make will be effective immediately following posting on the Site.\nIf you are subscribed to our mailing list with a valid e-mail address, you will...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "00df5433c35de35c4a462215989e4f609fc2ec5fd4255af2205a171646eebb70",
+                "score": 0.010489091,
+                "excerpt": "support@portages.io. Before updates are made through this means, appropriate validation of your identity will be made.\nProtecting PII\nWe strive to maintain reasonable data security measures. However, no security measures are invulnerable to attack. We are not responsible for the security of your PII that you transmit to us over networks that we do not control, including, but not limited to, wireless networks.\nTaking your PII\nYou may request that we provide you with the PII you have provided to u...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "6ffee31a4253d6f31485ebad13d6b4cb3457a7dd82282a8bf0775341db506457",
+                "score": 0.002396731,
+                "excerpt": "Privacy policy.\nIntroduction\nWe recognize that you may have questions about our collection, use and disclosure of personally identifiable information (“PII”) that you send to us and other information we collect during the course of your visit to www.portages.io (“Site”). We value our relationship with you and want to help keep your experience on our Site secure, enjoyable, efficient and easy.\nContact\nIf you have any questions or comments about this Privacy Statement, please contact us at support...",
+                "url": "https://www.portages.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1521793590,
+            "url": "https://www.portages.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No data is shared with unaffiliated third parties, except for disclosures related to emergencies, protecting third-party rights, or legal requirements.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not disclose information to other unaffiliated third parties but only in specific circumstances such as preventing emergencies, protecting third-party rights, or as required by law.",
+            "reference": "We do not disclose information to other unaffiliated third parties. URL: https://www.portages.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "00df5433c35de35c4a462215989e4f609fc2ec5fd4255af2205a171646eebb70",
+                "score": 0.0894546,
+                "excerpt": "support@portages.io. Before updates are made through this means, appropriate validation of your identity will be made.\nProtecting PII\nWe strive to maintain reasonable data security measures. However, no security measures are invulnerable to attack. We are not responsible for the security of your PII that you transmit to us over networks that we do not control, including, but not limited to, wireless networks.\nTaking your PII\nYou may request that we provide you with the PII you have provided to u...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "d061c6170da2cdf1051f92456230ec3c2beca16d7822a113ac6513ff0ff4cb58",
+                "score": 0.01778039,
+                "excerpt": "system and your IP address.\nPII and NPI are collectively referred to as “Information.”\nHow we use the Information we Collect\nPII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site.\nNPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience.\nIf you would like to...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "6ffee31a4253d6f31485ebad13d6b4cb3457a7dd82282a8bf0775341db506457",
+                "score": 0.00094730896,
+                "excerpt": "Privacy policy.\nIntroduction\nWe recognize that you may have questions about our collection, use and disclosure of personally identifiable information (“PII”) that you send to us and other information we collect during the course of your visit to www.portages.io (“Site”). We value our relationship with you and want to help keep your experience on our Site secure, enjoyable, efficient and easy.\nContact\nIf you have any questions or comments about this Privacy Statement, please contact us at support...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "52f90820c86a26efa02f683475acb4302d5a9b2ddd3900e20419b613a44bdf34",
+                "score": 0.0005399804,
+                "excerpt": "Storage\nWe will keep your Information for as long as is necessary for the continued provision of services to you, or where we have a legitimate interest to continue doing so.\nPrivacy Statement Changes\nWe reserve the right to modify, add or remove any terms and conditions in this Privacy Statement without prior notice or liability to you. Any changes we make will be effective immediately following posting on the Site.\nIf you are subscribed to our mailing list with a valid e-mail address, you will...",
+                "url": "https://www.portages.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1521793590,
+            "url": "https://www.portages.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Authorized Representatives.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Authorized Representatives"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that the app shares data with Authorized Representatives, which are the third parties directly worked with by the app.",
+            "reference": "We reserve the right to disclose any Information we collect to third parties we directly work with ('Authorized Representatives'). URL: https://www.portages.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "00df5433c35de35c4a462215989e4f609fc2ec5fd4255af2205a171646eebb70",
+                "score": 0.20228557,
+                "excerpt": "support@portages.io. Before updates are made through this means, appropriate validation of your identity will be made.\nProtecting PII\nWe strive to maintain reasonable data security measures. However, no security measures are invulnerable to attack. We are not responsible for the security of your PII that you transmit to us over networks that we do not control, including, but not limited to, wireless networks.\nTaking your PII\nYou may request that we provide you with the PII you have provided to u...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "d061c6170da2cdf1051f92456230ec3c2beca16d7822a113ac6513ff0ff4cb58",
+                "score": 0.03149938,
+                "excerpt": "system and your IP address.\nPII and NPI are collectively referred to as “Information.”\nHow we use the Information we Collect\nPII may be used for our business purposes and in a manner consistent with this Privacy Statement. This use includes, but is not limited to, maintaining, evaluating and improving our sales, services to you, and our Site.\nNPI is used to track your usage of the Site and other internal purposes, such as Site maintenance, evaluation and end user-experience.\nIf you would like to...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "6ffee31a4253d6f31485ebad13d6b4cb3457a7dd82282a8bf0775341db506457",
+                "score": 0.0016420668,
+                "excerpt": "Privacy policy.\nIntroduction\nWe recognize that you may have questions about our collection, use and disclosure of personally identifiable information (“PII”) that you send to us and other information we collect during the course of your visit to www.portages.io (“Site”). We value our relationship with you and want to help keep your experience on our Site secure, enjoyable, efficient and easy.\nContact\nIf you have any questions or comments about this Privacy Statement, please contact us at support...",
+                "url": "https://www.portages.com/privacy-policy"
+            },
+            {
+                "id": "52f90820c86a26efa02f683475acb4302d5a9b2ddd3900e20419b613a44bdf34",
+                "score": 0.0008167381,
+                "excerpt": "Storage\nWe will keep your Information for as long as is necessary for the continued provision of services to you, or where we have a legitimate interest to continue doing so.\nPrivacy Statement Changes\nWe reserve the right to modify, add or remove any terms and conditions in this Privacy Statement without prior notice or liability to you. Any changes we make will be effective immediately following posting on the Site.\nIf you are subscribed to our mailing list with a valid e-mail address, you will...",
+                "url": "https://www.portages.com/privacy-policy"
+            }
+        ]
+    }
+]

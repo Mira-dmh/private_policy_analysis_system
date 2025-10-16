@@ -1,0 +1,336 @@
+[
+    {
+        "meta": {
+            "id": 1553723926,
+            "url": "https://pingoo.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that certain information is collected to provide the service or support requested.",
+            "reference": "We need to collect certain information about you to provide you with the Service or support you request. The type of information we collect varies depending on how you access and use our Service. You can also choose to voluntarily provide information to us. Below we describe the types of information we collect and where we collect it from. URL: https://pingoo.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a5a218dce4a18c0d67c19140f2f26fd4c0544d497244a4b0162b1716e089a158",
+                "score": 0.10557884,
+                "excerpt": "are required by law and regulations to collect and process this information about you, and, at other times, we consider it to be in our legitimate interest to collect and process this information, taking into consideration your privacy rights. In rare cases, we also may be required to process your data to protect your vital interests or for a task in the public good.\nEuropean users also have several rights under the General Data Protection Regulation, including the right to access, update, and r...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "f9b2d58edca7922b84b925a287b861dbeca68cf70f5b14fb6a8e1a6b04b1f6f5",
+                "score": 0.03594832,
+                "excerpt": "may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at Pingoo.app/support.\nManaging Your Account\nYou remain in control of the information you provide to Pingoo. You may review, edit, or delete any information you submit to us at any time by signing into your Pingoo account; however, deletion of this information may restrict your ability to effectively use the Service. You may also request to delete your account ...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "39a1bb250622bccdfc1699854bc477902527f1c649cf4adbbead92cebf2a15cf",
+                "score": 0.0061212815,
+                "excerpt": "Privacy Policy\nPingoo is dedicated to helping people around the world practice and master whatever they are learning. When you share information with us, we can help you achieve that goal by helping you find the right content and making your studying quicker and more effective.\nThis Privacy Policy is meant to help you understand how we collect and use the personal information you provide on our websites, https://www.pingoo.ai/, https://woundscribe.ai and the two official Pingoo iOS and Android m...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "6ffcec3c71cbcc02534c2adcef554c347809ae02ed0dc25602cba81290d14301",
+                "score": 0.0051797125,
+                "excerpt": "in the aggregate or as part of anonymized datasets, for example, by publishing a report on trends in the usage of its website.\nYour Choices About How We Use Your Information\nPromotional Communications\nYou may receive promotional email messages from Pingoo when you first interact with the Service or by making a request to us. You can opt out of receiving promotional email messages from Pingoo at the time we collect your information by following the instructions on screen, in those email messages,...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "47e1832eeff68a5c9aef04834595d18987b16aa995b84705e9675bda94af5126",
+                "score": 0.004886375,
+                "excerpt": "from your mobile device while downloading or using our mobile apps or services.\nLog information. When you use Pingoo, we automatically collect and store certain information about this activity. This data includes details of how you used our service, like your search queries, clicks and site navigation information, or other activity. It also may include data such as:\nBrowser type\nLanguage preference and time zone\nReferring site, and the date and time of each visitor request\nConnection information...",
+                "url": "https://pingoo.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1553723926,
+            "url": "https://pingoo.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Account information, transactional information, log information, browser type, language preference, time zone, referring site, date and time of requests, connection information, IP address, log-in and log-out times, device-specific information, geolocation information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Account information",
+                        "Transactional information",
+                        "Log information",
+                        "Browser type",
+                        "Language preference and time zone",
+                        "Referring site and date and time of requests",
+                        "Connection information like ISP or mobile operator",
+                        "IP address",
+                        "Log-in and log-out times",
+                        "Device-specific information",
+                        "Geolocation information"
+                    ]
+                }
+            },
+            "analysis": "The app collects various types of data such as account information, transactional information, log information, browser type, language preference, geolocation information, among others, as outlined in the privacy policy.",
+            "reference": "Account information. We collect the information you provide when you sign up for a Pingoo account...information such as a credit card number, billing address, and full name. Log information...details of how you used our service, like your search queries, clicks...Browser type...Language preference and time zone...Referring site, and the date and time of each visitor request...Connection information like ISP or mobile operator...Internet Protocol (IP) address...Log-in and log-out times. Device information...hardware model, operating system version, device identifiers like IDFA and UDID, and mobile network...Geolocation information...use your IP address to generate a general approximation of where you are located. URL: https://pingoo.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9e94d97b94ef4361eb4e39a61d14bf4f4321b19070d4d2c7c534bef550f975ee",
+                "score": 0.20118472,
+                "excerpt": "we describe the types of information we collect and where we collect it from.\nInformation You Provide to Us to Use the Service\nAccount information. We collect the information you provide when you sign up for a Pingoo account, log in to your account, communicate with us, answer our surveys, upload content, or otherwise use the Services. We request an email address when you choose to sign up for the Service so we can provide the Services to you and allow us to comply with applicable regulations. W...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "39a1bb250622bccdfc1699854bc477902527f1c649cf4adbbead92cebf2a15cf",
+                "score": 0.08299415,
+                "excerpt": "Privacy Policy\nPingoo is dedicated to helping people around the world practice and master whatever they are learning. When you share information with us, we can help you achieve that goal by helping you find the right content and making your studying quicker and more effective.\nThis Privacy Policy is meant to help you understand how we collect and use the personal information you provide on our websites, https://www.pingoo.ai/, https://woundscribe.ai and the two official Pingoo iOS and Android m...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "47e1832eeff68a5c9aef04834595d18987b16aa995b84705e9675bda94af5126",
+                "score": 0.069541745,
+                "excerpt": "from your mobile device while downloading or using our mobile apps or services.\nLog information. When you use Pingoo, we automatically collect and store certain information about this activity. This data includes details of how you used our service, like your search queries, clicks and site navigation information, or other activity. It also may include data such as:\nBrowser type\nLanguage preference and time zone\nReferring site, and the date and time of each visitor request\nConnection information...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "a5a218dce4a18c0d67c19140f2f26fd4c0544d497244a4b0162b1716e089a158",
+                "score": 0.04232459,
+                "excerpt": "are required by law and regulations to collect and process this information about you, and, at other times, we consider it to be in our legitimate interest to collect and process this information, taking into consideration your privacy rights. In rare cases, we also may be required to process your data to protect your vital interests or for a task in the public good.\nEuropean users also have several rights under the General Data Protection Regulation, including the right to access, update, and r...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "4b5ba05405f05f8852e7b6913bc5404a5d32f614b87f75c9d2c447cf31fb9fd6",
+                "score": 0.030329255,
+                "excerpt": "provide us with additional information in order to obtain a better user experience. This additional information will be processed with your consent and/or to provide you with services you request. This information includes your survey responses, participation in contests, promotions or other marketing efforts, suggestions for improvements, referrals, or any other actions on the Service.\nInformation We Get Automatically When You Use the Service\nDevice information. Like most website operators, Pin...",
+                "url": "https://pingoo.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1553723926,
+            "url": "https://pingoo.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use, including information about how the collected data is utilized and shared.",
+            "reference": "We may process data for any other purpose disclosed to you in connection with the Service from time to time. If we intend to process your personal data for a purpose other than that set out above and which is not compatible with the original processing purpose, we will provide you with relevant information prior to such processing and will obtain your consent where necessary. URL: https://pingoo.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a5a218dce4a18c0d67c19140f2f26fd4c0544d497244a4b0162b1716e089a158",
+                "score": 0.10266401,
+                "excerpt": "are required by law and regulations to collect and process this information about you, and, at other times, we consider it to be in our legitimate interest to collect and process this information, taking into consideration your privacy rights. In rare cases, we also may be required to process your data to protect your vital interests or for a task in the public good.\nEuropean users also have several rights under the General Data Protection Regulation, including the right to access, update, and r...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "1d1c173c94715aefb9eb69e0b1b7114b1a4eb6333cc3c2fdc18368f26f276e5b",
+                "score": 0.031321116,
+                "excerpt": "used by Pingoo and our partners’ affiliates, analytics, or service providers to collect and store data about our users in order to provide the Service in accordance with our agreement with you under the Terms of Service. These are an essential technology for allowing Pingoo to pursue our legitimate interests in operating and improving the Service.\nInformation We Combine\nWe also collect some information from other sources and combine that with information we collect from you. To ensure a proper e...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "7ce7bf301a851bb04d3bd1e57018154f3449e92a2aa35aca467d9b5da9d9441d",
+                "score": 0.012288597,
+                "excerpt": "legitimate interests in operating and improving Pingoo by allowing us to better understand the functionality of our mobile software on your device. This software may record information such as how often you use the application, the events and activities that occur within the application, aggregated usage, performance data, and where the application was downloaded from.\nFulfilling any other purpose disclosed to you in connection with the Service.\nCommunicating with You About the Service\nWe also u...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "39a1bb250622bccdfc1699854bc477902527f1c649cf4adbbead92cebf2a15cf",
+                "score": 0.01107216,
+                "excerpt": "Privacy Policy\nPingoo is dedicated to helping people around the world practice and master whatever they are learning. When you share information with us, we can help you achieve that goal by helping you find the right content and making your studying quicker and more effective.\nThis Privacy Policy is meant to help you understand how we collect and use the personal information you provide on our websites, https://www.pingoo.ai/, https://woundscribe.ai and the two official Pingoo iOS and Android m...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "f9b2d58edca7922b84b925a287b861dbeca68cf70f5b14fb6a8e1a6b04b1f6f5",
+                "score": 0.0073173973,
+                "excerpt": "may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at Pingoo.app/support.\nManaging Your Account\nYou remain in control of the information you provide to Pingoo. You may review, edit, or delete any information you submit to us at any time by signing into your Pingoo account; however, deletion of this information may restrict your ability to effectively use the Service. You may also request to delete your account ...",
+                "url": "https://pingoo.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1553723926,
+            "url": "https://pingoo.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of receiving promotional email messages from Pingoo at the time of information collection by following the provided instructions. However, opting out may impact the user's use of the services. Users can still receive non-promotional communications even after opting out.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The policy clearly states that users have the option to opt out of promotional email messages from Pingoo, showing that users can indeed choose to not have their data collected for promotional purposes.",
+            "reference": "You may receive promotional email messages from Pingoo when you first interact with the Service or by making a request to us. You can opt out of receiving promotional email messages from Pingoo at the time we collect your information by following the instructions on screen, in those email messages, or by changing your notification settings in your Pingoo account. Opting out of receiving communications may impact your use of the Services. If you decide to opt out, we will still send you non-promotional communications, such as digital receipts and messages about your account or our ongoing business relations. URL: https://pingoo.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6ffcec3c71cbcc02534c2adcef554c347809ae02ed0dc25602cba81290d14301",
+                "score": 0.7874412,
+                "excerpt": "in the aggregate or as part of anonymized datasets, for example, by publishing a report on trends in the usage of its website.\nYour Choices About How We Use Your Information\nPromotional Communications\nYou may receive promotional email messages from Pingoo when you first interact with the Service or by making a request to us. You can opt out of receiving promotional email messages from Pingoo at the time we collect your information by following the instructions on screen, in those email messages,...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "a5a218dce4a18c0d67c19140f2f26fd4c0544d497244a4b0162b1716e089a158",
+                "score": 0.7643643,
+                "excerpt": "are required by law and regulations to collect and process this information about you, and, at other times, we consider it to be in our legitimate interest to collect and process this information, taking into consideration your privacy rights. In rare cases, we also may be required to process your data to protect your vital interests or for a task in the public good.\nEuropean users also have several rights under the General Data Protection Regulation, including the right to access, update, and r...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "f9b2d58edca7922b84b925a287b861dbeca68cf70f5b14fb6a8e1a6b04b1f6f5",
+                "score": 0.21866935,
+                "excerpt": "may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at Pingoo.app/support.\nManaging Your Account\nYou remain in control of the information you provide to Pingoo. You may review, edit, or delete any information you submit to us at any time by signing into your Pingoo account; however, deletion of this information may restrict your ability to effectively use the Service. You may also request to delete your account ...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "689857d85e939df5d2523de4a5f4abc7b6ca31615dd17d77cce580cf5e40f241",
+                "score": 0.04054074,
+                "excerpt": "information submitted to us, both during transmission and once we receive it. For example, our website and apps are designed to be protected by HTTPS encryption. When you enter credit card information on our order forms, that information is intended to be encrypted and is designed to be protected by our third-party payment providers. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Inter...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "39a1bb250622bccdfc1699854bc477902527f1c649cf4adbbead92cebf2a15cf",
+                "score": 0.013222822,
+                "excerpt": "Privacy Policy\nPingoo is dedicated to helping people around the world practice and master whatever they are learning. When you share information with us, we can help you achieve that goal by helping you find the right content and making your studying quicker and more effective.\nThis Privacy Policy is meant to help you understand how we collect and use the personal information you provide on our websites, https://www.pingoo.ai/, https://woundscribe.ai and the two official Pingoo iOS and Android m...",
+                "url": "https://pingoo.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1553723926,
+            "url": "https://pingoo.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties under specific circumstances.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app shares information with third parties under certain conditions with the user's consent, for external processing, to respond to legal requests, and compliance with applicable laws. This indicates data sharing with third parties.",
+            "reference": "Pingoo shares your information in the following circumstances:\n- With your consent. We will share personal information with companies, organizations, or individuals outside of Pingoo when we have your consent to do so.\n- For external processing. Pingoo provides personal and non-personal information to our partners, trusted organizations, vendors, and other affiliated organizations to process it on our behalf.\n- To respond to legal and other requests and to prevent harm.\n\nURL: https://pingoo.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "47e1832eeff68a5c9aef04834595d18987b16aa995b84705e9675bda94af5126",
+                "score": 0.6034062,
+                "excerpt": "from your mobile device while downloading or using our mobile apps or services.\nLog information. When you use Pingoo, we automatically collect and store certain information about this activity. This data includes details of how you used our service, like your search queries, clicks and site navigation information, or other activity. It also may include data such as:\nBrowser type\nLanguage preference and time zone\nReferring site, and the date and time of each visitor request\nConnection information...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "a1d0c03f9db1a5c6b0428ce4899a100b6163b41db1b5d6ef08205e1a6afec66f",
+                "score": 0.41187945,
+                "excerpt": "you or activities you perform on Pingoo may be displayed publicly, for example, information included on your user profile, topics you have taken, or scores you have achieved.\nHow Pingoo Shares Information\nPingoo shares your information in the following circumstances:\nWith your consent. We will share personal information with companies, organizations, or individuals outside of Pingoo when we have your consent to do so.\nFor external processing. Pingoo provides personal and non-personal information...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "0bb994c5dfcfc9201a9885b8120b42eeea50a90cd46d2746b109897687480a6d",
+                "score": 0.3680649,
+                "excerpt": "and third parties’ rights and property and enforcing our Terms of Service or other applicable agreements or policies, including our Community Guidelines and Honor Code.\nVerifying your identity. In some cases, we may need to verify your identity in order to protect the security and integrity of the Service and your account.\nComplying with any applicable laws or regulations. This includes appropriately responding to lawful requests for information from the government or third parties through legal...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "9793957d45d93c2e7b4292bb82e48db94363df7fdc8712731478ce4863fa6928",
+                "score": 0.3366581,
+                "excerpt": "personal information with us. (such as your name, date of birth, and email address) to pre-populate our sign-up form. You may, optionally, choose to provide additional information during the sign-up or linking process, such as a friends list, to enable certain features on Pingoo when it is offered to you.\nOther users. Pingoo may receive information about you from other users. For example, if another user chooses to use our referral service to tell a friend about our service, we may ask that user...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "f9b2d58edca7922b84b925a287b861dbeca68cf70f5b14fb6a8e1a6b04b1f6f5",
+                "score": 0.27454585,
+                "excerpt": "may be read, collected, and used by others who access them. To request removal of your personal information from these areas, contact us at Pingoo.app/support.\nManaging Your Account\nYou remain in control of the information you provide to Pingoo. You may review, edit, or delete any information you submit to us at any time by signing into your Pingoo account; however, deletion of this information may restrict your ability to effectively use the Service. You may also request to delete your account ...",
+                "url": "https://pingoo.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1553723926,
+            "url": "https://pingoo.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Pingoo shares data with companies, organizations, or individuals outside of Pingoo with user consent, external processing partners, and for legal requests.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Companies, organizations, or individuals with user consent",
+                        "External processing partners",
+                        "Legal requests"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that Pingoo shares data with third parties based on user consent, for external processing, and in response to legal requests.",
+            "reference": "Pingoo shares your information in the following circumstances: With your consent. We will share personal information with companies, organizations, or individuals outside of Pingoo when we have your consent to do so. For external processing. Pingoo provides personal and non-personal information to our partners, trusted organizations, vendors, and other affiliated organizations to process it on our behalf. To respond to legal and other requests and to prevent harm. Pingoo will share all categories of personal information with companies, organizations, or individuals outside of Pingoo if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary. URL: https://pingoo.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a1d0c03f9db1a5c6b0428ce4899a100b6163b41db1b5d6ef08205e1a6afec66f",
+                "score": 0.61895317,
+                "excerpt": "you or activities you perform on Pingoo may be displayed publicly, for example, information included on your user profile, topics you have taken, or scores you have achieved.\nHow Pingoo Shares Information\nPingoo shares your information in the following circumstances:\nWith your consent. We will share personal information with companies, organizations, or individuals outside of Pingoo when we have your consent to do so.\nFor external processing. Pingoo provides personal and non-personal information...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "47e1832eeff68a5c9aef04834595d18987b16aa995b84705e9675bda94af5126",
+                "score": 0.37011155,
+                "excerpt": "from your mobile device while downloading or using our mobile apps or services.\nLog information. When you use Pingoo, we automatically collect and store certain information about this activity. This data includes details of how you used our service, like your search queries, clicks and site navigation information, or other activity. It also may include data such as:\nBrowser type\nLanguage preference and time zone\nReferring site, and the date and time of each visitor request\nConnection information...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "0bb994c5dfcfc9201a9885b8120b42eeea50a90cd46d2746b109897687480a6d",
+                "score": 0.28776783,
+                "excerpt": "and third parties’ rights and property and enforcing our Terms of Service or other applicable agreements or policies, including our Community Guidelines and Honor Code.\nVerifying your identity. In some cases, we may need to verify your identity in order to protect the security and integrity of the Service and your account.\nComplying with any applicable laws or regulations. This includes appropriately responding to lawful requests for information from the government or third parties through legal...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "b94ff1f0a284800ad436f88a2c27b2fad49cb527f52ccbd2315f7c89f3d3478c",
+                "score": 0.23458195,
+                "excerpt": "other requests and to prevent harm. Pingoo will share all categories of personal information with companies, organizations, or individuals outside of Pingoo if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:\nRespond to or meet any applicable law, regulation, legal process, or other enforceable governmental request.\nEnforce our Terms of Service, including investigation of potential violations.\nDetect, prevent, or otherwise a...",
+                "url": "https://pingoo.app/privacy-policy"
+            },
+            {
+                "id": "1d1c173c94715aefb9eb69e0b1b7114b1a4eb6333cc3c2fdc18368f26f276e5b",
+                "score": 0.19574778,
+                "excerpt": "used by Pingoo and our partners’ affiliates, analytics, or service providers to collect and store data about our users in order to provide the Service in accordance with our agreement with you under the Terms of Service. These are an essential technology for allowing Pingoo to pursue our legitimate interests in operating and improving the Service.\nInformation We Combine\nWe also collect some information from other sources and combine that with information we collect from you. To ensure a proper e...",
+                "url": "https://pingoo.app/privacy-policy"
+            }
+        ]
+    }
+]

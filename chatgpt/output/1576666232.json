@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1576666232,
+      "url": "https://peakpath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal data is collected from users directly, from wearable devices, and through the use of its products, coach interactions, or website visits.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the sources of personal data collection.",
+          "content": "We collect Personal data from: You, that you either provide to us yourself or that we collect from your wearable device, or through the use of our products, coach interactions or website visits."
+        }
+      },
+      "analysis": "",
+      "reference": "From where do we collect personal data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576666232,
+      "url": "https://peakpath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of Personal data, including identity information, contact information, health information, and application usage data. Specifically, it collects data that you provide directly, data from your wearable device, and data from your employer such as your email address and organizational belonging.",
+        "simple_answer": "The app collects identity information, contact information, health information, and application usage data.",
+        "extended_simple_answer": {
+          "comment": "The types of data collected are essential for providing services and managing user relationships.",
+          "content": "The app collects Personal data from you, your wearable device, and your employer, including identity information, contact information, health information, and application usage data."
+        }
+      },
+      "analysis": "",
+      "reference": "From where do we collect personal data?; Categories of Personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576666232,
+      "url": "https://peakpath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is processed to administer the use of services, analyze personal data, conduct research, manage wearable distribution, respond to questions and complaints, and evaluate and improve services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency.",
+          "content": "The purposes include managing customer relationships, analyzing data for health results, conducting research, managing wearable distribution, responding to inquiries, and improving services."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: When and why do we process personal data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576666232,
+      "url": "https://peakpath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it does state that users have rights regarding their personal data, which may include the right to request deletion under certain circumstances, as per applicable legislation.",
+        "simple_answer": "The policy does not explicitly state an opt-out option, but users may have rights to request deletion.",
+        "extended_simple_answer": {
+          "comment": "Users should refer to their rights under applicable legislation for more details.",
+          "content": "The privacy policy indicates that users have rights regarding their personal data, which may include deletion rights, but does not provide a clear opt-out mechanism."
+        }
+      },
+      "analysis": "The absence of a clear opt-out mechanism in the policy suggests that users may need to rely on their rights under applicable data protection laws to manage their data.",
+      "reference": "The section discussing user rights and data processing under applicable legislation."
+    }
+  },
+  {
+    "meta": {
+      "id": 1576666232,
+      "url": "https://peakpath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share Personally Identifiable Information (PII) with third parties. It may share anonymized and aggregated data for research purposes or to inform about services, but this data does not contain personal information.",
+        "simple_answer": "No, the app does not share personal data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that any shared data is anonymized and aggregated, thus protecting user privacy.",
+          "content": "Results regarding health data shared with the public will be based on anonymized and aggregated data, and personally identifiable information is never shared with employers or external parties."
+        }
+      },
+      "analysis": "",
+      "reference": "We share the results regarding your health data with your employer only in an anonymized and aggregated form. Personally Identifiable Information, e.g. contact information or identity information is never shared with your employer, and is only used during the processing step to separate data by employer, departments, roles and/or office."
+    }
+  },
+  {
+    "meta": {
+      "id": 1576666232,
+      "url": "https://peakpath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares anonymized and minimized data with selected universities, institutions, and other parties for research purposes, but does not share any Personally Identifiable Information (PII) with such external parties.",
+        "simple_answer": "The app shares anonymized data with selected universities and institutions for research.",
+        "extended_simple_answer": {
+          "comment": "The sharing is done in a way that protects user privacy.",
+          "content": "The app shares anonymized and minimized data with selected universities, institutions, and other parties for research purposes, but does not share any Personally Identifiable Information (PII) with such external parties."
+        }
+      },
+      "analysis": "",
+      "reference": "To conduct research section"
+    }
+  }
+]

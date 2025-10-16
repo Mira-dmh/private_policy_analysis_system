@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 6444764148,
+            "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data in its privacy policy.",
+            "reference": "We may collect personal data about you from the following sources: Directly from you. This is information you have voluntarily provided whilst entering your personal details on the Service. URL: https://emergeandsee.disciplemedia.com/onboarding_documents"
+        },
+        "source_documents": [
+            {
+                "id": "fa29b530f4115763b437dd22b3c3b043fa8cbc81eb660665cb5ff8b2de48dcbc",
+                "score": 0.3860688,
+                "excerpt": "Before continuing please review our Privacy Policy and Terms & Conditions\nUpdated on: 20/11/2022\nThanks for downloading the Emerge & See Connect App. In order for you to participate in this App We will need you to review this Privacy Policy and the associated Terms of Service. Thank you. This Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal dat...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "7b0cad0ad2df1d3b955d6fe55bb47b4e8382aab422a2cf3a60bdfa14358fe6fd",
+                "score": 0.049958527,
+                "excerpt": "not collect other users’ and users' content or information, or otherwise access the App, using automated means (such as harvesting bots, robots, spiders or scraping techniques) or otherwise, without our prior written permission; that any content you upload or post to the App (with the exception of private messages, which are confidential in nature) will be considered non-confidential and non-proprietary and that such content may be viewable by any users of the App (whether registered or unregist...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4124ef0157b77df8d82655c5d6c19f64456ac46f7fec779ee9d2e6fe3c082bd6",
+                "score": 0.02355433,
+                "excerpt": "only used for Our internal purposes.\nWe record the last IP address you accessed the service from so that We can protect the service from malicious access. As part of this We may look up the approximate location of the IP address such as country and city.\nYour decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\n...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "09d2f381aa7fee0efe3f7f314790da5586cd557df20da793d1ff577847ec17e7",
+                "score": 0.021574067,
+                "excerpt": "be responsible for any damages or consequences caused by your use of them.\nWe may change this Privacy Policy from time to time, and if We do so, you will be notified at your next available interaction with the Service, at which time you will be provided with the updated Privacy Policy to review and consent to before you are able to continue using the Service.\nIf you have any questions about this Privacy Policy, would like to exercise any of your statutory rights or to make a complaint, please wr...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4f7d63537f5610a7503b0b9192c2c58b3ace93ceb44e1120f653001b669d5e47",
+                "score": 0.021004366,
+                "excerpt": "Data Controller for the purposes of any personal data you provide. For information on how we and the Publisher (as \"Data Controller\") use your personal data, please see the associated Privacy Policy.\nYou must review and accept these Terms before you can use the App. Unless otherwise specified in the App details on the applicable App Store, to use the App you must be 18 or older (or be 13 or older and have your parent or guardian's consent).\nWe license use of the App to you on the basis of these ...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444764148,
+            "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as IP address, email address, username, password, approximate location, and any optional information provided by the user.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "IP address",
+                        "email address",
+                        "username",
+                        "password",
+                        "approximate location",
+                        "optional user-provided information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that specifies the different types of personal information collected by the app.",
+            "reference": "Personal information such as your IP address, email address, username, password, approximate location, and any optional information you may choose to provide to Us as part of your experience within the Service (e.g. text, photograph)., URL: https://emergeandsee.disciplemedia.com/onboarding_documents"
+        },
+        "source_documents": [
+            {
+                "id": "fa29b530f4115763b437dd22b3c3b043fa8cbc81eb660665cb5ff8b2de48dcbc",
+                "score": 0.56997234,
+                "excerpt": "Before continuing please review our Privacy Policy and Terms & Conditions\nUpdated on: 20/11/2022\nThanks for downloading the Emerge & See Connect App. In order for you to participate in this App We will need you to review this Privacy Policy and the associated Terms of Service. Thank you. This Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal dat...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "68cf726a6bc57aa6a1e3f7a360bfdda0b419cfa41fe0c25c8d5f59d4923db054",
+                "score": 0.22575782,
+                "excerpt": "collect personal data about you from: From an agent/third party acting on your behalf.\nWe will only ever collect the information We need to enable us to undertake the specific information processing activities noted later in this section. We collect and process two distinct kinds of information: * Non-personal information such as the pages you have accessed, helping Us to determine how many people use Our Service, how many people visit on a regular basis, and how popular each of Our pages are. T...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4124ef0157b77df8d82655c5d6c19f64456ac46f7fec779ee9d2e6fe3c082bd6",
+                "score": 0.022802636,
+                "excerpt": "only used for Our internal purposes.\nWe record the last IP address you accessed the service from so that We can protect the service from malicious access. As part of this We may look up the approximate location of the IP address such as country and city.\nYour decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\n...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "7b0cad0ad2df1d3b955d6fe55bb47b4e8382aab422a2cf3a60bdfa14358fe6fd",
+                "score": 0.016914913,
+                "excerpt": "not collect other users’ and users' content or information, or otherwise access the App, using automated means (such as harvesting bots, robots, spiders or scraping techniques) or otherwise, without our prior written permission; that any content you upload or post to the App (with the exception of private messages, which are confidential in nature) will be considered non-confidential and non-proprietary and that such content may be viewable by any users of the App (whether registered or unregist...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "09d2f381aa7fee0efe3f7f314790da5586cd557df20da793d1ff577847ec17e7",
+                "score": 0.013325147,
+                "excerpt": "be responsible for any damages or consequences caused by your use of them.\nWe may change this Privacy Policy from time to time, and if We do so, you will be notified at your next available interaction with the Service, at which time you will be provided with the updated Privacy Policy to review and consent to before you are able to continue using the Service.\nIf you have any questions about this Privacy Policy, would like to exercise any of your statutory rights or to make a complaint, please wr...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444764148,
+            "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use in order to provide mental health support, resources, and connection to NSW & ACT Emergency Service members.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the purpose of the service is to provide mental health support, resources, and connection to specific emergency service members. This aligns with declaring the purpose of data collection and use.",
+            "reference": "The purpose of this Service is to provide mental health support, resources and connection to NSW & ACT Emergency Service members. URL: https://emergeandsee.disciplemedia.com/onboarding_documents"
+        },
+        "source_documents": [
+            {
+                "id": "fa29b530f4115763b437dd22b3c3b043fa8cbc81eb660665cb5ff8b2de48dcbc",
+                "score": 0.53591824,
+                "excerpt": "Before continuing please review our Privacy Policy and Terms & Conditions\nUpdated on: 20/11/2022\nThanks for downloading the Emerge & See Connect App. In order for you to participate in this App We will need you to review this Privacy Policy and the associated Terms of Service. Thank you. This Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal dat...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4124ef0157b77df8d82655c5d6c19f64456ac46f7fec779ee9d2e6fe3c082bd6",
+                "score": 0.29007506,
+                "excerpt": "only used for Our internal purposes.\nWe record the last IP address you accessed the service from so that We can protect the service from malicious access. As part of this We may look up the approximate location of the IP address such as country and city.\nYour decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\n...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4f7d63537f5610a7503b0b9192c2c58b3ace93ceb44e1120f653001b669d5e47",
+                "score": 0.08299415,
+                "excerpt": "Data Controller for the purposes of any personal data you provide. For information on how we and the Publisher (as \"Data Controller\") use your personal data, please see the associated Privacy Policy.\nYou must review and accept these Terms before you can use the App. Unless otherwise specified in the App details on the applicable App Store, to use the App you must be 18 or older (or be 13 or older and have your parent or guardian's consent).\nWe license use of the App to you on the basis of these ...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "09d2f381aa7fee0efe3f7f314790da5586cd557df20da793d1ff577847ec17e7",
+                "score": 0.030675802,
+                "excerpt": "be responsible for any damages or consequences caused by your use of them.\nWe may change this Privacy Policy from time to time, and if We do so, you will be notified at your next available interaction with the Service, at which time you will be provided with the updated Privacy Policy to review and consent to before you are able to continue using the Service.\nIf you have any questions about this Privacy Policy, would like to exercise any of your statutory rights or to make a complaint, please wr...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "7b0cad0ad2df1d3b955d6fe55bb47b4e8382aab422a2cf3a60bdfa14358fe6fd",
+                "score": 0.010248601,
+                "excerpt": "not collect other users’ and users' content or information, or otherwise access the App, using automated means (such as harvesting bots, robots, spiders or scraping techniques) or otherwise, without our prior written permission; that any content you upload or post to the App (with the exception of private messages, which are confidential in nature) will be considered non-confidential and non-proprietary and that such content may be viewable by any users of the App (whether registered or unregist...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444764148,
+            "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the user's decision to disclose personal information is entirely voluntary, and they can withdraw consent for the processing of personal data. Additionally, the policy states that users have the right to request the deletion of their data and that data will be securely and permanently deleted under certain conditions.",
+            "reference": "Your decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App. We will securely and permanently delete your personal information when there is no justification for its further retention, or you have asked Us to delete it. URL: https://emergeandsee.disciplemedia.com/onboarding_documents"
+        },
+        "source_documents": [
+            {
+                "id": "4124ef0157b77df8d82655c5d6c19f64456ac46f7fec779ee9d2e6fe3c082bd6",
+                "score": 0.08269734,
+                "excerpt": "only used for Our internal purposes.\nWe record the last IP address you accessed the service from so that We can protect the service from malicious access. As part of this We may look up the approximate location of the IP address such as country and city.\nYour decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\n...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "fa29b530f4115763b437dd22b3c3b043fa8cbc81eb660665cb5ff8b2de48dcbc",
+                "score": 0.03534408,
+                "excerpt": "Before continuing please review our Privacy Policy and Terms & Conditions\nUpdated on: 20/11/2022\nThanks for downloading the Emerge & See Connect App. In order for you to participate in this App We will need you to review this Privacy Policy and the associated Terms of Service. Thank you. This Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal dat...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "7cad68eb571dfed50d78361d3398cf1d114028f19aedc9ac9fd89552cf9cca17",
+                "score": 0.022715755,
+                "excerpt": "to refuse to act on the request.\nPlease consider your request responsibly before submitting it. We’ll respond as soon as We can. Generally, this will be within one month from when We receive your validated request but, if the request is going to take longer to deal with, We will let you know.\nTo contact Us please see Section 11 below. If We do not address your request or fail to provide you with a valid reason why We are unable to do so, you have the right to contact your national data protectio...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "8c9bbd385c06958d57505a173f7434fa44c54aa1ceeb6dfaef202d797f0b642f",
+                "score": 0.018055335,
+                "excerpt": "voluntarily submitting your personal data to us you consent to these international transfer. If you later wish to withdraw your consent, please contact the Data Controller using the details in Section\nCookies are small text files sent by websites to your web browser and sent back to them each time you access or use the site, and may be necessary for the site to function. They are unique to you or your web browser and may contain personally identifiable information as well as technical informatio...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "326799d8ab3a3b1db30b1f83cef099b86964cf7e2a62a9a2293c736b54844c05",
+                "score": 0.017712299,
+                "excerpt": "on the Artist’s behalf. These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations and/or activities.\nThis Service, and any services available from it, are not directed to users under the age of 13. If you learn that a user under the age of 13 has provided Us with their personal information without having parental or guardian consent, please contact Us (see Section 11) immediately so we can take appropriate action.\nIf...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444764148,
+            "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that personal information collected on the app may be shared with service providers or contractors for promotional and marketing activities, indicating data sharing with third parties.",
+            "reference": "Personal information collected on this site may be shared with any service providers contracted to operate this site, or those contracted to perform promotional and marketing activities on the Artist’s behalf. These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations and/or activities. URL: https://emergeandsee.disciplemedia.com/onboarding_documents"
+        },
+        "source_documents": [
+            {
+                "id": "7b0cad0ad2df1d3b955d6fe55bb47b4e8382aab422a2cf3a60bdfa14358fe6fd",
+                "score": 0.8697146,
+                "excerpt": "not collect other users’ and users' content or information, or otherwise access the App, using automated means (such as harvesting bots, robots, spiders or scraping techniques) or otherwise, without our prior written permission; that any content you upload or post to the App (with the exception of private messages, which are confidential in nature) will be considered non-confidential and non-proprietary and that such content may be viewable by any users of the App (whether registered or unregist...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "e2feb7bc59887baa586c45b5753f51e9a5eec9e4c791d78464664a1865ba23e2",
+                "score": 0.7049733,
+                "excerpt": "your use of the App will be uninterrupted or error free, that the information obtained from the App will be accurate, complete, current, or reliable, that the quality of the App will be satisfactory to you, or that errors or defects will be corrected. You acknowledge and accept that we are not responsible for any loss or damage of any kind that you may suffer as a result of any interruption or delay to your access to the App, or as a result of any failure or error in the transfer of data over th...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "b6b377eec16214bb4d4aeb62a6139f9769e9ab707470dab29c365d7796cadf5c",
+                "score": 0.67490816,
+                "excerpt": "the following information: Posts and comments in the App that you choose to make available. Please bare in mind that any posts and comments you make are in the public domain and may be viewed by non-registered users in the App, on public web pages, and by other users of the App via periodic emails showing recent App activity.\nYou may also send friend requests to other users and, should they accept, you will have the ability to send one-to-one and group messages to them. These messages are comple...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "929095a00edd14dcb82658696c0b495918d1dd406827a91e6b1cb5c6ae11a060",
+                "score": 0.6130049,
+                "excerpt": "under these Terms, or any part of them, nor may you sub-license your rights under these Terms, to any third party.\nThese terms do not grant you any rights to use any of our, our licensors’ or the Publisher’s intellectual property, such as trade marks, domain names, logos or other branded features, which belong to us and our licensors respectively.\nWe respect the intellectual property rights of others and expect users of the App to do the same. As part of the functionality of the App we may allow...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4124ef0157b77df8d82655c5d6c19f64456ac46f7fec779ee9d2e6fe3c082bd6",
+                "score": 0.5501845,
+                "excerpt": "only used for Our internal purposes.\nWe record the last IP address you accessed the service from so that We can protect the service from malicious access. As part of this We may look up the approximate location of the IP address such as country and city.\nYour decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\n...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444764148,
+            "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with social media applications and channels such as Facebook, Twitter, Pinterest, YouTube, Instagram and on the Publisher’s own websites.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Facebook",
+                        "Twitter",
+                        "Pinterest",
+                        "YouTube",
+                        "Instagram",
+                        "Publisher’s own websites"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app may share user content with various third-party social media applications and channels, as well as on the Publisher's own websites.",
+            "reference": "social media applications and channels such as Facebook, Twitter, Pinterest, YouTube, Instagram and on the Publisher’s own websites; * l. that you waive any moral rights or equivalent rights in any jurisdiction in relation to any content that you upload or post to the App and that we can use such content without referencing you as the author of such work and that we can adapt and amend such content in our sole discretion; * m. to compensate and defend us fully against any claims or legal proceedings brought against us by any person as a result of your breach of these Terms; * n. to keep your password secure at all times and not to disclose your password to any other person; * o. not to allow any other person to use or access your account; and * p. to comply with all laws applicable to you. We may terminate these Terms and close your account at any time without notice if we cease to provide the App. In addition to our right to remove any content from the App, we reserve the right to suspend, restrict or terminate your access to the App at any time without notice if we have reasonable grounds to believe you have breached any of these Terms including Emerge & See Connect App Terms and Conditions. We also reserve the ",
+            "URL": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+        },
+        "source_documents": [
+            {
+                "id": "7b0cad0ad2df1d3b955d6fe55bb47b4e8382aab422a2cf3a60bdfa14358fe6fd",
+                "score": 0.74316806,
+                "excerpt": "not collect other users’ and users' content or information, or otherwise access the App, using automated means (such as harvesting bots, robots, spiders or scraping techniques) or otherwise, without our prior written permission; that any content you upload or post to the App (with the exception of private messages, which are confidential in nature) will be considered non-confidential and non-proprietary and that such content may be viewable by any users of the App (whether registered or unregist...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "e2feb7bc59887baa586c45b5753f51e9a5eec9e4c791d78464664a1865ba23e2",
+                "score": 0.73545164,
+                "excerpt": "your use of the App will be uninterrupted or error free, that the information obtained from the App will be accurate, complete, current, or reliable, that the quality of the App will be satisfactory to you, or that errors or defects will be corrected. You acknowledge and accept that we are not responsible for any loss or damage of any kind that you may suffer as a result of any interruption or delay to your access to the App, or as a result of any failure or error in the transfer of data over th...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "562718b9befcf773176b8cc30db8a96cbe7abc8ff07e52598a7432f124027946",
+                "score": 0.62909126,
+                "excerpt": "such as Facebook, Twitter, Pinterest, YouTube, Instagram and on the Publisher’s own websites; * l. that you waive any moral rights or equivalent rights in any jurisdiction in relation to any content that you upload or post to the App and that we can use such content without referencing you as the author of such work and that we can adapt and amend such content in our sole discretion; * m. to compensate and defend us fully against any claims or legal proceedings brought against us by any person a...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "4124ef0157b77df8d82655c5d6c19f64456ac46f7fec779ee9d2e6fe3c082bd6",
+                "score": 0.56427854,
+                "excerpt": "only used for Our internal purposes.\nWe record the last IP address you accessed the service from so that We can protect the service from malicious access. As part of this We may look up the approximate location of the IP address such as country and city.\nYour decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\n...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            },
+            {
+                "id": "929095a00edd14dcb82658696c0b495918d1dd406827a91e6b1cb5c6ae11a060",
+                "score": 0.42769548,
+                "excerpt": "under these Terms, or any part of them, nor may you sub-license your rights under these Terms, to any third party.\nThese terms do not grant you any rights to use any of our, our licensors’ or the Publisher’s intellectual property, such as trade marks, domain names, logos or other branded features, which belong to us and our licensors respectively.\nWe respect the intellectual property rights of others and expect users of the App to do the same. As part of the functionality of the App we may allow...",
+                "url": "https://emergeandsee.disciplemedia.com/onboarding_documents"
+            }
+        ]
+    }
+]

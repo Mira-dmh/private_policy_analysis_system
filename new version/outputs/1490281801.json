@@ -1,0 +1,324 @@
+[
+    {
+        "meta": {
+            "id": 1490281801,
+            "url": "https://brainexplorer.net/privacy-notice/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is collected from the app users.",
+            "reference": "Your game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected. - URL: https://brainexplorer.net/privacy-notice/"
+        },
+        "source_documents": [
+            {
+                "id": "08ac758de317233f4256947bd98bc7d25dfbd31753373866ee06f67c15680d62",
+                "score": 0.030100338,
+                "excerpt": "towards this.\nWill taking part be bad for me in any way?\nAll the measures are safe. The risk of harm from taking part will be no greater than in ordinary life.\nWhat data will I be sharing?\nYour game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected.\nWhat will you do with this data?\nWe’ll use it for our academic research, and to create summary data that all app users can see. We’ll app...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "cd673f2c5c0b9d1703a130f75e50b66bc9ce310a2ad51153960b11bf98ff4154",
+                "score": 0.007785655,
+                "excerpt": "need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions.\nIs it secure?\nThe data is not encrypted before it is submitted over the internet. However, no personal information is used by the app or sent to us.\nDo I have to take part in the research to use the app?\nIf you don’t want to take part in the research, go to the ap...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "8e6ee0712b4f13b263791580f941f4586c7c4d240cd7d5ba6ab73922270dcd14",
+                "score": 0.005598249,
+                "excerpt": "Privacy Notice\nParticipant Information\nUCL Research Ethics Committee Approval ID Number: 16711/002\nHi! We are researchers from University College London (UCL) and we want to understand how the brain works.\nYou can play games and we get useful data on how the brain works. Whenever you play a game, your score is automatically sent to our server in an anonymised form. To collect these data, we need to have your consent.\nPlease read the rest of the information carefully. You can find it again at any...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "22e6f04111fd5d707484da10e600babcf79b4780de885be3dceccdf81b9c71d4",
+                "score": 0.003707253,
+                "excerpt": "the experiment’ to ‘Off’ ‘in the app under ‘Profile’. This option will keep the data that you have already sent us, but prevents any new transmission of your data.\nYou can also withdraw your consent completely from the experiment at any time. To do this, go to the app ‘Profile’ section and choose ‘Withdraw consent’ option. This will delete your data from our data store. However, we won’t be able to remove any data that have already been processed or made available for further research.\nYou can a...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08b9fd812bd7ad80ad689362bbec7633ca0424f695e276602e9b903cca22d8d3",
+                "score": 0.0011424496,
+                "excerpt": "on how UCL uses participant information can be found in our ‘general’ privacy notice here\nThe information that is required to be provided to participants under data protection legislation (GDPR and DPA 2018) is provided across both the ‘local’ and ‘general’ privacy notices.\nThe lawful basis that will be used to process your personal data is: ‘Public task’ for personal data.\nYour personal data will be processed so long as it is required for the research project. If we are able to anonymise or pse...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490281801,
+            "url": "https://brainexplorer.net/privacy-notice/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects game scores, basic details provided by the user, and responses to occasional questionnaires.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Game scores",
+                        "Basic details",
+                        "Responses to questionnaires"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that specifies what data will be shared by the users and how it will be used.",
+            "reference": "Your game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected. URL: https://brainexplorer.net/privacy-notice/"
+        },
+        "source_documents": [
+            {
+                "id": "08ac758de317233f4256947bd98bc7d25dfbd31753373866ee06f67c15680d62",
+                "score": 0.19238758,
+                "excerpt": "towards this.\nWill taking part be bad for me in any way?\nAll the measures are safe. The risk of harm from taking part will be no greater than in ordinary life.\nWhat data will I be sharing?\nYour game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected.\nWhat will you do with this data?\nWe’ll use it for our academic research, and to create summary data that all app users can see. We’ll app...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "8e6ee0712b4f13b263791580f941f4586c7c4d240cd7d5ba6ab73922270dcd14",
+                "score": 0.015365342,
+                "excerpt": "Privacy Notice\nParticipant Information\nUCL Research Ethics Committee Approval ID Number: 16711/002\nHi! We are researchers from University College London (UCL) and we want to understand how the brain works.\nYou can play games and we get useful data on how the brain works. Whenever you play a game, your score is automatically sent to our server in an anonymised form. To collect these data, we need to have your consent.\nPlease read the rest of the information carefully. You can find it again at any...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08b9fd812bd7ad80ad689362bbec7633ca0424f695e276602e9b903cca22d8d3",
+                "score": 0.0054059,
+                "excerpt": "on how UCL uses participant information can be found in our ‘general’ privacy notice here\nThe information that is required to be provided to participants under data protection legislation (GDPR and DPA 2018) is provided across both the ‘local’ and ‘general’ privacy notices.\nThe lawful basis that will be used to process your personal data is: ‘Public task’ for personal data.\nYour personal data will be processed so long as it is required for the research project. If we are able to anonymise or pse...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "cd673f2c5c0b9d1703a130f75e50b66bc9ce310a2ad51153960b11bf98ff4154",
+                "score": 0.0027044294,
+                "excerpt": "need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions.\nIs it secure?\nThe data is not encrypted before it is submitted over the internet. However, no personal information is used by the app or sent to us.\nDo I have to take part in the research to use the app?\nIf you don’t want to take part in the research, go to the ap...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "ce5781f837c91970216367836f591addbe3398d961f4a7be88379b10d4d0c845",
+                "score": 0.001264422,
+                "excerpt": "residence and native language. In addition, you will be asked about your own or your family’s history of mental health problems. You do not have to provide any information you are uncomfortable with. After that, you’re free to play the games. If you agree at the end of this consent form to send us your data we’ll get useful data each time you play that will help us promote research. You will also be asked to fill in some questionnaires from time to time that may involve questions about your mood...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490281801,
+            "url": "https://brainexplorer.net/privacy-notice/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use for academic research and to create summary data for all app users.",
+            "reference": "We’ll use it for our academic research, and to create summary data that all app users can see. URL: https://brainexplorer.net/privacy-notice/"
+        },
+        "source_documents": [
+            {
+                "id": "08ac758de317233f4256947bd98bc7d25dfbd31753373866ee06f67c15680d62",
+                "score": 0.03767939,
+                "excerpt": "towards this.\nWill taking part be bad for me in any way?\nAll the measures are safe. The risk of harm from taking part will be no greater than in ordinary life.\nWhat data will I be sharing?\nYour game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected.\nWhat will you do with this data?\nWe’ll use it for our academic research, and to create summary data that all app users can see. We’ll app...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "cd673f2c5c0b9d1703a130f75e50b66bc9ce310a2ad51153960b11bf98ff4154",
+                "score": 0.0042812545,
+                "excerpt": "need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions.\nIs it secure?\nThe data is not encrypted before it is submitted over the internet. However, no personal information is used by the app or sent to us.\nDo I have to take part in the research to use the app?\nIf you don’t want to take part in the research, go to the ap...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "8e6ee0712b4f13b263791580f941f4586c7c4d240cd7d5ba6ab73922270dcd14",
+                "score": 0.0029121784,
+                "excerpt": "Privacy Notice\nParticipant Information\nUCL Research Ethics Committee Approval ID Number: 16711/002\nHi! We are researchers from University College London (UCL) and we want to understand how the brain works.\nYou can play games and we get useful data on how the brain works. Whenever you play a game, your score is automatically sent to our server in an anonymised form. To collect these data, we need to have your consent.\nPlease read the rest of the information carefully. You can find it again at any...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08b9fd812bd7ad80ad689362bbec7633ca0424f695e276602e9b903cca22d8d3",
+                "score": 0.0006190417,
+                "excerpt": "on how UCL uses participant information can be found in our ‘general’ privacy notice here\nThe information that is required to be provided to participants under data protection legislation (GDPR and DPA 2018) is provided across both the ‘local’ and ‘general’ privacy notices.\nThe lawful basis that will be used to process your personal data is: ‘Public task’ for personal data.\nYour personal data will be processed so long as it is required for the research project. If we are able to anonymise or pse...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "22e6f04111fd5d707484da10e600babcf79b4780de885be3dceccdf81b9c71d4",
+                "score": 0.0002959571,
+                "excerpt": "the experiment’ to ‘Off’ ‘in the app under ‘Profile’. This option will keep the data that you have already sent us, but prevents any new transmission of your data.\nYou can also withdraw your consent completely from the experiment at any time. To do this, go to the app ‘Profile’ section and choose ‘Withdraw consent’ option. This will delete your data from our data store. However, we won’t be able to remove any data that have already been processed or made available for further research.\nYou can a...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490281801,
+            "url": "https://brainexplorer.net/privacy-notice/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can withdraw consent or delete their data either partially or completely. They can change preferences in the app's 'Profile' section to opt-out of data collection or choose to delete all data from the app.",
+            "reference": "To do this, go to the app ‘Profile’ section and choose ‘Withdraw consent’ option. This will delete your data from our data store. However, we won’t be able to remove any data that have already been processed or made available for further research. You can also just delete this app from your device at any time, although after you do this, you won’t be able to withdraw your consent and we cannot delete the data that you have already provided. URL: https://brainexplorer.net/privacy-notice/"
+        },
+        "source_documents": [
+            {
+                "id": "22e6f04111fd5d707484da10e600babcf79b4780de885be3dceccdf81b9c71d4",
+                "score": 0.44107103,
+                "excerpt": "the experiment’ to ‘Off’ ‘in the app under ‘Profile’. This option will keep the data that you have already sent us, but prevents any new transmission of your data.\nYou can also withdraw your consent completely from the experiment at any time. To do this, go to the app ‘Profile’ section and choose ‘Withdraw consent’ option. This will delete your data from our data store. However, we won’t be able to remove any data that have already been processed or made available for further research.\nYou can a...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "cd673f2c5c0b9d1703a130f75e50b66bc9ce310a2ad51153960b11bf98ff4154",
+                "score": 0.14438999,
+                "excerpt": "need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions.\nIs it secure?\nThe data is not encrypted before it is submitted over the internet. However, no personal information is used by the app or sent to us.\nDo I have to take part in the research to use the app?\nIf you don’t want to take part in the research, go to the ap...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08ac758de317233f4256947bd98bc7d25dfbd31753373866ee06f67c15680d62",
+                "score": 0.009936418,
+                "excerpt": "towards this.\nWill taking part be bad for me in any way?\nAll the measures are safe. The risk of harm from taking part will be no greater than in ordinary life.\nWhat data will I be sharing?\nYour game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected.\nWhat will you do with this data?\nWe’ll use it for our academic research, and to create summary data that all app users can see. We’ll app...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "8e6ee0712b4f13b263791580f941f4586c7c4d240cd7d5ba6ab73922270dcd14",
+                "score": 0.002217013,
+                "excerpt": "Privacy Notice\nParticipant Information\nUCL Research Ethics Committee Approval ID Number: 16711/002\nHi! We are researchers from University College London (UCL) and we want to understand how the brain works.\nYou can play games and we get useful data on how the brain works. Whenever you play a game, your score is automatically sent to our server in an anonymised form. To collect these data, we need to have your consent.\nPlease read the rest of the information carefully. You can find it again at any...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08b9fd812bd7ad80ad689362bbec7633ca0424f695e276602e9b903cca22d8d3",
+                "score": 0.0021322616,
+                "excerpt": "on how UCL uses participant information can be found in our ‘general’ privacy notice here\nThe information that is required to be provided to participants under data protection legislation (GDPR and DPA 2018) is provided across both the ‘local’ and ‘general’ privacy notices.\nThe lawful basis that will be used to process your personal data is: ‘Public task’ for personal data.\nYour personal data will be processed so long as it is required for the research project. If we are able to anonymise or pse...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490281801,
+            "url": "https://brainexplorer.net/privacy-notice/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that no personal information is used or sent by the app, ensuring that no data is shared with third parties.",
+            "reference": "However, no personal information is used by the app or sent to us. URL: https://brainexplorer.net/privacy-notice/"
+        },
+        "source_documents": [
+            {
+                "id": "cd673f2c5c0b9d1703a130f75e50b66bc9ce310a2ad51153960b11bf98ff4154",
+                "score": 0.9658352,
+                "excerpt": "need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions.\nIs it secure?\nThe data is not encrypted before it is submitted over the internet. However, no personal information is used by the app or sent to us.\nDo I have to take part in the research to use the app?\nIf you don’t want to take part in the research, go to the ap...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08ac758de317233f4256947bd98bc7d25dfbd31753373866ee06f67c15680d62",
+                "score": 0.7970834,
+                "excerpt": "towards this.\nWill taking part be bad for me in any way?\nAll the measures are safe. The risk of harm from taking part will be no greater than in ordinary life.\nWhat data will I be sharing?\nYour game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected.\nWhat will you do with this data?\nWe’ll use it for our academic research, and to create summary data that all app users can see. We’ll app...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "22e6f04111fd5d707484da10e600babcf79b4780de885be3dceccdf81b9c71d4",
+                "score": 0.007176882,
+                "excerpt": "the experiment’ to ‘Off’ ‘in the app under ‘Profile’. This option will keep the data that you have already sent us, but prevents any new transmission of your data.\nYou can also withdraw your consent completely from the experiment at any time. To do this, go to the app ‘Profile’ section and choose ‘Withdraw consent’ option. This will delete your data from our data store. However, we won’t be able to remove any data that have already been processed or made available for further research.\nYou can a...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "8e6ee0712b4f13b263791580f941f4586c7c4d240cd7d5ba6ab73922270dcd14",
+                "score": 0.0043653264,
+                "excerpt": "Privacy Notice\nParticipant Information\nUCL Research Ethics Committee Approval ID Number: 16711/002\nHi! We are researchers from University College London (UCL) and we want to understand how the brain works.\nYou can play games and we get useful data on how the brain works. Whenever you play a game, your score is automatically sent to our server in an anonymised form. To collect these data, we need to have your consent.\nPlease read the rest of the information carefully. You can find it again at any...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "ce5781f837c91970216367836f591addbe3398d961f4a7be88379b10d4d0c845",
+                "score": 0.003324437,
+                "excerpt": "residence and native language. In addition, you will be asked about your own or your family’s history of mental health problems. You do not have to provide any information you are uncomfortable with. After that, you’re free to play the games. If you agree at the end of this consent form to send us your data we’ll get useful data each time you play that will help us promote research. You will also be asked to fill in some questionnaires from time to time that may involve questions about your mood...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490281801,
+            "url": "https://brainexplorer.net/privacy-notice/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with any third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share data with any third parties, ensuring the protection of user data.",
+            "reference": "We will never sell your data to any third party. URL: https://brainexplorer.net/privacy-notice/"
+        },
+        "source_documents": [
+            {
+                "id": "cd673f2c5c0b9d1703a130f75e50b66bc9ce310a2ad51153960b11bf98ff4154",
+                "score": 0.7424217,
+                "excerpt": "need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions.\nIs it secure?\nThe data is not encrypted before it is submitted over the internet. However, no personal information is used by the app or sent to us.\nDo I have to take part in the research to use the app?\nIf you don’t want to take part in the research, go to the ap...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08ac758de317233f4256947bd98bc7d25dfbd31753373866ee06f67c15680d62",
+                "score": 0.41134733,
+                "excerpt": "towards this.\nWill taking part be bad for me in any way?\nAll the measures are safe. The risk of harm from taking part will be no greater than in ordinary life.\nWhat data will I be sharing?\nYour game scores, the basic details you give us and your responses to occasional questionnaires will be sent to us. No passive data, such as GPS location, will be collected.\nWhat will you do with this data?\nWe’ll use it for our academic research, and to create summary data that all app users can see. We’ll app...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "ce5781f837c91970216367836f591addbe3398d961f4a7be88379b10d4d0c845",
+                "score": 0.0012545944,
+                "excerpt": "residence and native language. In addition, you will be asked about your own or your family’s history of mental health problems. You do not have to provide any information you are uncomfortable with. After that, you’re free to play the games. If you agree at the end of this consent form to send us your data we’ll get useful data each time you play that will help us promote research. You will also be asked to fill in some questionnaires from time to time that may involve questions about your mood...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "08b9fd812bd7ad80ad689362bbec7633ca0424f695e276602e9b903cca22d8d3",
+                "score": 0.0012113064,
+                "excerpt": "on how UCL uses participant information can be found in our ‘general’ privacy notice here\nThe information that is required to be provided to participants under data protection legislation (GDPR and DPA 2018) is provided across both the ‘local’ and ‘general’ privacy notices.\nThe lawful basis that will be used to process your personal data is: ‘Public task’ for personal data.\nYour personal data will be processed so long as it is required for the research project. If we are able to anonymise or pse...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            },
+            {
+                "id": "22e6f04111fd5d707484da10e600babcf79b4780de885be3dceccdf81b9c71d4",
+                "score": 0.0010944522,
+                "excerpt": "the experiment’ to ‘Off’ ‘in the app under ‘Profile’. This option will keep the data that you have already sent us, but prevents any new transmission of your data.\nYou can also withdraw your consent completely from the experiment at any time. To do this, go to the app ‘Profile’ section and choose ‘Withdraw consent’ option. This will delete your data from our data store. However, we won’t be able to remove any data that have already been processed or made available for further research.\nYou can a...",
+                "url": "https://brainexplorer.net/privacy-notice/"
+            }
+        ]
+    }
+]

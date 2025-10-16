@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 6480124934,
+            "url": "https://www.brella.io/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they collect personal data from various sources based on the purposes for processing, demonstrating the declaration of data collection.",
+            "reference": "We collect your personal data from different sources, depending on our purposes for processing personal data. In our business relationships we collect personal data from the contact person of our business partner, our other business partners and public sources (such as the internet and trade register). In other matters we collect personal data from the data subject themselves as well as the means by which they disclose data to us (e.g. LinkedIn or cookies). URL: https://www.brella.io/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "dcb63a8614a18f41cac8d8d77070610c6fbb07aed341e76e27ecb7319c2171e4",
+                "score": 0.0031850608,
+                "excerpt": "the data subjects.\nOur legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies).\n4. FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?\nWe collect your personal data from different sources, depending on our purposes for processing personal data. In our bu...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "ae9a0ef27132d8f74c1c6c2a847c43f2ccb09dc9bdbb1086d59aa16dd61ce0d3",
+                "score": 0.0028118587,
+                "excerpt": "Brella Ltd's General Privacy Notice\nWith this Brella Ltd’s General Privacy Notice we provide you information on why and how we process your personal data in our in our general business operations (not including Brella service).\nIf you would like to know how we process personal data in our Brella service, please have a look at our Brella Service’s Privacy Notice.\n1. WHAT DEFINITIONS ARE USED IN THIS PRIVACY NOTICE?\nController means a party that is in charge of the personal data processing activit...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "a1201a71d234e392727f9f4410dfc734d2b4f482edc65cd1b8e1ae7eb3ba0dcc",
+                "score": 0.0021827165,
+                "excerpt": "you have any questions related to your personal data, please be in contact with our acting DPO.\n10. CAN THIS PRIVACY NOTICE BE AMENDED?\nWe have a unilateral right to modify this Privacy Notice. The modifications take effect immediately when we post the up-to-date version of our Privacy Notice to our website.\nLast update on 18 November 2023.",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "65c9845037267b2ab97b66104320b0d7a02234e2a7d103eef0c77ffd68928e87",
+                "score": 0.00054634205,
+                "excerpt": "means a data protection document that has been drafted according to Articles 13 and 14 of the GDPR, and with which the controller may inform its data subjects of the ways their personal data is processed.\nProcessor means a party that processes personal data for and on behalf of the controller.\nPurpose for processing means the reason why the controller processes personal data of a data subject.\n2. WHO IS THE CONTROLLER AND/OR JOINT CONTROLLER FOR YOUR DATA?\nBrella Ltd. (business ID: 2765076-7) is...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "b2863dc25ca322540df6706ee0f9ab163e2bd0b350307e95f89a0525a7949c29",
+                "score": 0.00049553596,
+                "excerpt": "to fulfil the purpose of data processing.\n7. WHAT DATA PROTECTION RIGHTS DO YOU HAVE?\nYou may have the right to use the below listed data protection rights under the GDPR:\n- Right to inspect (art. 15)\n- Right to rectify (art. 16)\n- Right to erasure (art. 17)\n- Right to restriction of processing (art. 18)\n- Right to data portability (art. 20)\n- Right to object (art. 21)\n- Automated individual decision-making, including profiling (art. 22)\nIf you would like to use your rights or inquire something ...",
+                "url": "https://www.brella.io/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480124934,
+            "url": "https://www.brella.io/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data such as contact details, IP addresses, and other data disclosed by the data subjects.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact details",
+                        "IP addresses",
+                        "Other data disclosed by data subjects"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app collects personal data from data subjects for various purposes, including contact details, IP addresses, and other data provided by the users.",
+            "reference": "We process contact details, IP addresses and other data disclosed to us by the data subjects. URL: https://www.brella.io/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "dcb63a8614a18f41cac8d8d77070610c6fbb07aed341e76e27ecb7319c2171e4",
+                "score": 0.012288597,
+                "excerpt": "the data subjects.\nOur legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies).\n4. FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?\nWe collect your personal data from different sources, depending on our purposes for processing personal data. In our bu...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "65c9845037267b2ab97b66104320b0d7a02234e2a7d103eef0c77ffd68928e87",
+                "score": 0.0034429806,
+                "excerpt": "means a data protection document that has been drafted according to Articles 13 and 14 of the GDPR, and with which the controller may inform its data subjects of the ways their personal data is processed.\nProcessor means a party that processes personal data for and on behalf of the controller.\nPurpose for processing means the reason why the controller processes personal data of a data subject.\n2. WHO IS THE CONTROLLER AND/OR JOINT CONTROLLER FOR YOUR DATA?\nBrella Ltd. (business ID: 2765076-7) is...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "ae9a0ef27132d8f74c1c6c2a847c43f2ccb09dc9bdbb1086d59aa16dd61ce0d3",
+                "score": 0.0023231625,
+                "excerpt": "Brella Ltd's General Privacy Notice\nWith this Brella Ltd’s General Privacy Notice we provide you information on why and how we process your personal data in our in our general business operations (not including Brella service).\nIf you would like to know how we process personal data in our Brella service, please have a look at our Brella Service’s Privacy Notice.\n1. WHAT DEFINITIONS ARE USED IN THIS PRIVACY NOTICE?\nController means a party that is in charge of the personal data processing activit...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "a1201a71d234e392727f9f4410dfc734d2b4f482edc65cd1b8e1ae7eb3ba0dcc",
+                "score": 0.00055277866,
+                "excerpt": "you have any questions related to your personal data, please be in contact with our acting DPO.\n10. CAN THIS PRIVACY NOTICE BE AMENDED?\nWe have a unilateral right to modify this Privacy Notice. The modifications take effect immediately when we post the up-to-date version of our Privacy Notice to our website.\nLast update on 18 November 2023.",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "b2863dc25ca322540df6706ee0f9ab163e2bd0b350307e95f89a0525a7949c29",
+                "score": 0.00055062474,
+                "excerpt": "to fulfil the purpose of data processing.\n7. WHAT DATA PROTECTION RIGHTS DO YOU HAVE?\nYou may have the right to use the below listed data protection rights under the GDPR:\n- Right to inspect (art. 15)\n- Right to rectify (art. 16)\n- Right to erasure (art. 17)\n- Right to restriction of processing (art. 18)\n- Right to data portability (art. 20)\n- Right to object (art. 21)\n- Automated individual decision-making, including profiling (art. 22)\nIf you would like to use your rights or inquire something ...",
+                "url": "https://www.brella.io/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480124934,
+            "url": "https://www.brella.io/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use.",
+            "reference": "Our legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies). URL: https://www.brella.io/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "dcb63a8614a18f41cac8d8d77070610c6fbb07aed341e76e27ecb7319c2171e4",
+                "score": 0.014785407,
+                "excerpt": "the data subjects.\nOur legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies).\n4. FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?\nWe collect your personal data from different sources, depending on our purposes for processing personal data. In our bu...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "b2863dc25ca322540df6706ee0f9ab163e2bd0b350307e95f89a0525a7949c29",
+                "score": 0.012821214,
+                "excerpt": "to fulfil the purpose of data processing.\n7. WHAT DATA PROTECTION RIGHTS DO YOU HAVE?\nYou may have the right to use the below listed data protection rights under the GDPR:\n- Right to inspect (art. 15)\n- Right to rectify (art. 16)\n- Right to erasure (art. 17)\n- Right to restriction of processing (art. 18)\n- Right to data portability (art. 20)\n- Right to object (art. 21)\n- Automated individual decision-making, including profiling (art. 22)\nIf you would like to use your rights or inquire something ...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "65c9845037267b2ab97b66104320b0d7a02234e2a7d103eef0c77ffd68928e87",
+                "score": 0.012194132,
+                "excerpt": "means a data protection document that has been drafted according to Articles 13 and 14 of the GDPR, and with which the controller may inform its data subjects of the ways their personal data is processed.\nProcessor means a party that processes personal data for and on behalf of the controller.\nPurpose for processing means the reason why the controller processes personal data of a data subject.\n2. WHO IS THE CONTROLLER AND/OR JOINT CONTROLLER FOR YOUR DATA?\nBrella Ltd. (business ID: 2765076-7) is...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "ae9a0ef27132d8f74c1c6c2a847c43f2ccb09dc9bdbb1086d59aa16dd61ce0d3",
+                "score": 0.0025016968,
+                "excerpt": "Brella Ltd's General Privacy Notice\nWith this Brella Ltd’s General Privacy Notice we provide you information on why and how we process your personal data in our in our general business operations (not including Brella service).\nIf you would like to know how we process personal data in our Brella service, please have a look at our Brella Service’s Privacy Notice.\n1. WHAT DEFINITIONS ARE USED IN THIS PRIVACY NOTICE?\nController means a party that is in charge of the personal data processing activit...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "e7fe1b174c2330be3878290526800fb22ec92936623ab7ebc667d001fb92fed9",
+                "score": 0.0011559008,
+                "excerpt": "data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers.\nAs our servers are located within the EU, by default we shall not transfer your personal data outside the EU/EEA. However, if you use our service outside the EU/EEA or to transfer personal data outside the EU/EEA we may transfer personal data outside the EU and the EEA. When doing so, we ensure adequate safeguards for the data transfer, s...",
+                "url": "https://www.brella.io/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480124934,
+            "url": "https://www.brella.io/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by contacting the Data Protection Officer (DPO) at dpo@brella.io or Brella support at support@brella.io.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the ability to request the deletion of their personal data by contacting the Data Protection Officer or Brella support.",
+            "reference": "You can request for your personal data to be deleted from Brella by contacting our DPO at dpo@brella.io or Brella support at support@brella.io. URL: https://www.brella.io/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "b2863dc25ca322540df6706ee0f9ab163e2bd0b350307e95f89a0525a7949c29",
+                "score": 0.35913935,
+                "excerpt": "to fulfil the purpose of data processing.\n7. WHAT DATA PROTECTION RIGHTS DO YOU HAVE?\nYou may have the right to use the below listed data protection rights under the GDPR:\n- Right to inspect (art. 15)\n- Right to rectify (art. 16)\n- Right to erasure (art. 17)\n- Right to restriction of processing (art. 18)\n- Right to data portability (art. 20)\n- Right to object (art. 21)\n- Automated individual decision-making, including profiling (art. 22)\nIf you would like to use your rights or inquire something ...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "a1201a71d234e392727f9f4410dfc734d2b4f482edc65cd1b8e1ae7eb3ba0dcc",
+                "score": 0.029929748,
+                "excerpt": "you have any questions related to your personal data, please be in contact with our acting DPO.\n10. CAN THIS PRIVACY NOTICE BE AMENDED?\nWe have a unilateral right to modify this Privacy Notice. The modifications take effect immediately when we post the up-to-date version of our Privacy Notice to our website.\nLast update on 18 November 2023.",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "dcb63a8614a18f41cac8d8d77070610c6fbb07aed341e76e27ecb7319c2171e4",
+                "score": 0.020177318,
+                "excerpt": "the data subjects.\nOur legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies).\n4. FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?\nWe collect your personal data from different sources, depending on our purposes for processing personal data. In our bu...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "e7fe1b174c2330be3878290526800fb22ec92936623ab7ebc667d001fb92fed9",
+                "score": 0.008283626,
+                "excerpt": "data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers.\nAs our servers are located within the EU, by default we shall not transfer your personal data outside the EU/EEA. However, if you use our service outside the EU/EEA or to transfer personal data outside the EU/EEA we may transfer personal data outside the EU and the EEA. When doing so, we ensure adequate safeguards for the data transfer, s...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "65c9845037267b2ab97b66104320b0d7a02234e2a7d103eef0c77ffd68928e87",
+                "score": 0.002923543,
+                "excerpt": "means a data protection document that has been drafted according to Articles 13 and 14 of the GDPR, and with which the controller may inform its data subjects of the ways their personal data is processed.\nProcessor means a party that processes personal data for and on behalf of the controller.\nPurpose for processing means the reason why the controller processes personal data of a data subject.\n2. WHO IS THE CONTROLLER AND/OR JOINT CONTROLLER FOR YOUR DATA?\nBrella Ltd. (business ID: 2765076-7) is...",
+                "url": "https://www.brella.io/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480124934,
+            "url": "https://www.brella.io/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may transfer personal data to third party service providers, such as data storage service providers and communications services providers, ensuring safeguards and personal data processing agreements.",
+            "reference": "We may transfer your personal data to third party service providers, as it is a normal course of doing business in a digitalized world (i.e. data storage service providers and communications services providers). When personal data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers. URL: https://www.brella.io/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "e7fe1b174c2330be3878290526800fb22ec92936623ab7ebc667d001fb92fed9",
+                "score": 0.7268136,
+                "excerpt": "data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers.\nAs our servers are located within the EU, by default we shall not transfer your personal data outside the EU/EEA. However, if you use our service outside the EU/EEA or to transfer personal data outside the EU/EEA we may transfer personal data outside the EU and the EEA. When doing so, we ensure adequate safeguards for the data transfer, s...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "dcb63a8614a18f41cac8d8d77070610c6fbb07aed341e76e27ecb7319c2171e4",
+                "score": 0.7033458,
+                "excerpt": "the data subjects.\nOur legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies).\n4. FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?\nWe collect your personal data from different sources, depending on our purposes for processing personal data. In our bu...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "a1201a71d234e392727f9f4410dfc734d2b4f482edc65cd1b8e1ae7eb3ba0dcc",
+                "score": 0.0028449097,
+                "excerpt": "you have any questions related to your personal data, please be in contact with our acting DPO.\n10. CAN THIS PRIVACY NOTICE BE AMENDED?\nWe have a unilateral right to modify this Privacy Notice. The modifications take effect immediately when we post the up-to-date version of our Privacy Notice to our website.\nLast update on 18 November 2023.",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "b2863dc25ca322540df6706ee0f9ab163e2bd0b350307e95f89a0525a7949c29",
+                "score": 0.0016941031,
+                "excerpt": "to fulfil the purpose of data processing.\n7. WHAT DATA PROTECTION RIGHTS DO YOU HAVE?\nYou may have the right to use the below listed data protection rights under the GDPR:\n- Right to inspect (art. 15)\n- Right to rectify (art. 16)\n- Right to erasure (art. 17)\n- Right to restriction of processing (art. 18)\n- Right to data portability (art. 20)\n- Right to object (art. 21)\n- Automated individual decision-making, including profiling (art. 22)\nIf you would like to use your rights or inquire something ...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "65c9845037267b2ab97b66104320b0d7a02234e2a7d103eef0c77ffd68928e87",
+                "score": 0.0012399962,
+                "excerpt": "means a data protection document that has been drafted according to Articles 13 and 14 of the GDPR, and with which the controller may inform its data subjects of the ways their personal data is processed.\nProcessor means a party that processes personal data for and on behalf of the controller.\nPurpose for processing means the reason why the controller processes personal data of a data subject.\n2. WHO IS THE CONTROLLER AND/OR JOINT CONTROLLER FOR YOUR DATA?\nBrella Ltd. (business ID: 2765076-7) is...",
+                "url": "https://www.brella.io/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480124934,
+            "url": "https://www.brella.io/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Brella may share data with third-party service providers involved in data storage and communications services.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "data storage service providers",
+                        "communications services providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that data may be transferred to third-party service providers, ensuring data processing agreements and safeguards in place.",
+            "reference": "We may transfer your personal data to third party service providers, as it is a normal course of doing business in a digitalized world (i.e., data storage service providers and communications services providers). When personal data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers. URL: https://www.brella.io/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "e7fe1b174c2330be3878290526800fb22ec92936623ab7ebc667d001fb92fed9",
+                "score": 0.95869267,
+                "excerpt": "data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers.\nAs our servers are located within the EU, by default we shall not transfer your personal data outside the EU/EEA. However, if you use our service outside the EU/EEA or to transfer personal data outside the EU/EEA we may transfer personal data outside the EU and the EEA. When doing so, we ensure adequate safeguards for the data transfer, s...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "dcb63a8614a18f41cac8d8d77070610c6fbb07aed341e76e27ecb7319c2171e4",
+                "score": 0.5643386,
+                "excerpt": "the data subjects.\nOur legal basis for processing personal data depends on the purpose for which we process personal data. Therefore, our legal basis is the performance of a contract in contractual matters, our legitimate interests in recruiting as well as communications and consent in ePrivacy matters (basically meaning cookies).\n4. FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?\nWe collect your personal data from different sources, depending on our purposes for processing personal data. In our bu...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "65c9845037267b2ab97b66104320b0d7a02234e2a7d103eef0c77ffd68928e87",
+                "score": 0.0107351625,
+                "excerpt": "means a data protection document that has been drafted according to Articles 13 and 14 of the GDPR, and with which the controller may inform its data subjects of the ways their personal data is processed.\nProcessor means a party that processes personal data for and on behalf of the controller.\nPurpose for processing means the reason why the controller processes personal data of a data subject.\n2. WHO IS THE CONTROLLER AND/OR JOINT CONTROLLER FOR YOUR DATA?\nBrella Ltd. (business ID: 2765076-7) is...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "b2863dc25ca322540df6706ee0f9ab163e2bd0b350307e95f89a0525a7949c29",
+                "score": 0.004886375,
+                "excerpt": "to fulfil the purpose of data processing.\n7. WHAT DATA PROTECTION RIGHTS DO YOU HAVE?\nYou may have the right to use the below listed data protection rights under the GDPR:\n- Right to inspect (art. 15)\n- Right to rectify (art. 16)\n- Right to erasure (art. 17)\n- Right to restriction of processing (art. 18)\n- Right to data portability (art. 20)\n- Right to object (art. 21)\n- Automated individual decision-making, including profiling (art. 22)\nIf you would like to use your rights or inquire something ...",
+                "url": "https://www.brella.io/privacy-notice"
+            },
+            {
+                "id": "ae9a0ef27132d8f74c1c6c2a847c43f2ccb09dc9bdbb1086d59aa16dd61ce0d3",
+                "score": 0.003209961,
+                "excerpt": "Brella Ltd's General Privacy Notice\nWith this Brella Ltd’s General Privacy Notice we provide you information on why and how we process your personal data in our in our general business operations (not including Brella service).\nIf you would like to know how we process personal data in our Brella service, please have a look at our Brella Service’s Privacy Notice.\n1. WHAT DEFINITIONS ARE USED IN THIS PRIVACY NOTICE?\nController means a party that is in charge of the personal data processing activit...",
+                "url": "https://www.brella.io/privacy-notice"
+            }
+        ]
+    }
+]

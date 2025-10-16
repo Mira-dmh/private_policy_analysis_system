@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1582815027,
+      "url": "http://44.235.70.104/privacypolicy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal information is collected when users register on the app, express interest in obtaining information, participate in activities, or contact the company. The types of personal information collected include names, phone numbers, email addresses, and payment data, among others.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes the importance of understanding what information is collected and how it is used.",
+          "content": "The app collects personal information that users voluntarily provide, including names, phone numbers, email addresses, and payment data. It also collects information regarding the mobile device used to access the app."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, ensuring transparency about data collection practices.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1582815027,
+      "url": "http://44.235.70.104/privacypolicy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that you voluntarily provide, which may include names, phone numbers, email addresses, debit/credit card numbers, and other similar information. It also collects payment data necessary for processing purchases, as well as mobile device data such as mobile device ID, model, manufacturer, operating system, version information, and Internet Protocol (IP) address.",
+        "simple_answer": "The app collects personal information, payment data, and mobile device data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of data to enhance user experience and ensure security.",
+          "content": "Personal information includes names, phone numbers, email addresses, and payment details. Mobile device data includes device ID, model, operating system, and IP address."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1582815027,
+      "url": "http://44.235.70.104/privacypolicy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information collected via the app is used for various business purposes, including facilitating account creation, posting testimonials, requesting feedback, enabling user-to-user communications, managing user accounts, and for other business purposes such as data analysis and improving the app and user experience.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific purposes for data collection.",
+          "content": "The purposes include account creation, testimonials, feedback requests, user communications, account management, and business analysis."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: HOW DO WE USE YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1582815027,
+      "url": "http://44.235.70.104/privacypolicy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and have the right to review, update, or delete the data collected from them. The privacy policy states that users can contact the company to request the deletion of their personal information.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have rights regarding their personal information.",
+          "content": "The privacy policy indicates that users can review, update, or delete the data collected from them by contacting the company."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 11: HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1582815027,
+      "url": "http://44.235.70.104/privacypolicy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share information with third parties, but only with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is based on specific legal bases.",
+          "content": "We may process or share your data that we hold based on the following legal basis: Consent, Legitimate Interests."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: WILL YOUR INFORMATION BE SHARED WITH ANYONE?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1582815027,
+      "url": "http://44.235.70.104/privacypolicy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share your information with third parties such as payment processors like Stripe and PayPal, as well as other third parties if you have given specific consent for a specific purpose.",
+        "simple_answer": "The app shares data with payment processors like Stripe and PayPal.",
+        "extended_simple_answer": {
+          "comment": "The app shares data primarily for payment processing and with third parties when consent is given.",
+          "content": "We may process or share your data that we hold based on the following legal basis: Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: WILL YOUR INFORMATION BE SHARED WITH ANYONE?"
+    }
+  }
+]

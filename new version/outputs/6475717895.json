@@ -1,0 +1,336 @@
+[
+    {
+        "meta": {
+            "id": 6475717895,
+            "url": "https://static.iqmasters.app/privacy-en.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that Codeway may process personal data specified in the policy.",
+            "reference": "Codeway may process your personal data for the purposes specified in this Privacy Policy. The personal data of users collected and used by Codeway include your name, surname, e-mail address, phone number, order information, age group, and other personal data obtained during app usage. URL: https://static.iqmasters.app/privacy-en.html"
+        },
+        "source_documents": [
+            {
+                "id": "8f9afd8e6c9109362e557f3ba54042e9daa203de90539a00bff4fe6952f02ea1",
+                "score": 0.52587104,
+                "excerpt": "to request such personal data by law and shall be transferred, classified and shared with third parties within the country or abroad under the conditions stipulated by legislation and upon your explicit consent if necessary, and they may be processed by other means listed under the legislation and be subject to other procedures set forth in the legislation.\nThis Privacy Policy is adopted for the continuance and improvement of the activities carried out by Codeway in line with the principles set ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "731e480dd18befc33c2ad2c9f65b8c5ba460065f1ff0671646e8f13615fcfc55",
+                "score": 0.11104825,
+                "excerpt": "your personal data\n● Conditions that are necessary in order to fulfill our legal obligation\n● It is necessary to process your personal data, provided that we establish a contractual relationship with you, or that it is directly related to our performance obligation arising from this contract |\n|\nMarketing Data |\n● Your explicit consent (acquired via Apple and/or Google) |\nThird Party Websites and Applications\nIQ Masters; may contain links to other websites or apps that are unknown to Codeway and...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "034c31092047c539510b3bce12113cf2fd17e147530152186a3393aceeb1041e",
+                "score": 0.021532876,
+                "excerpt": "for this information, with the understanding that we may be unable to provide you with some of your desired services without it.\nWhile using the IQ Masters App, you may provide information through third party websites and apps to Codeway, please be aware that your liability and obligations against third party apps or website will continue and Codeway shall not be held responsible any terms, conditions, rules or policies determined by third parties.\nCookies\nCookies are little text files that are ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "bf4c1933b99f1f0b1548900dd27a629190d1d6f1fb4692278b3ab87f64cc02aa",
+                "score": 0.01433703,
+                "excerpt": "information |\n|\nMarketing Data |\nIDFA, IDVF |\nWe may collect your abovementioned data directly from you through electronic or physical mediums, your mobile device, third party applications or third party sources which you can access our application through these mediums such as Apple App Store, Google Play App Store (similar platforms together with “App Stores”), for the purposes of compliance with legal obligations, enhancing our services, administering your use of our services, as well as enab...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "b012919fdc116fed9104d60c72749f7aa751be4eb8db687f6a230c8b94aa1c7e",
+                "score": 0.012624949,
+                "excerpt": "about you. If you choose to answer these questions, we may collect and process your answers to these questions mainly in order to customize our services (for example, to determine which games should be offered first or in what order).\n- In some surveys, you may provide us with information about how you feel. Please note that we do not infer any health-related characteristics from this information. We only collect and process this information for the purposes stated herein.\nIt is entirely up to y...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475717895,
+            "url": "https://static.iqmasters.app/privacy-en.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data such as name, surname, email address, phone number, order information, age group, gender, survey responses, In-app purchase history, Internet Protocol Address (IP Address), Identifier for Advertisers (IDFA), and Identifier for Vendors/Developers (IDVF).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name and surname",
+                        "Email address",
+                        "Phone number",
+                        "Order information",
+                        "Age group",
+                        "Gender",
+                        "Survey responses",
+                        "In-app purchase history",
+                        "IP Address",
+                        "IDFA",
+                        "IDVF"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly outlines the specific types of personal data collected by the app, ranging from basic contact details to more targeted information such as survey responses and identifiers for advertising purposes.",
+            "reference": "Name and surname, e-mail address, phone number, order information, age group and gender, information, survey responses, answers, choices or other data that you provide through use of IQ Masters application, your scores and performances in the games, Identifier for Advertisers (IDFA), Identifier for Vendors/Developers (IDVF), and Internet Protocol Address-IP Address. URL: https://static.iqmasters.app/privacy-en.html."
+        },
+        "source_documents": [
+            {
+                "id": "8f9afd8e6c9109362e557f3ba54042e9daa203de90539a00bff4fe6952f02ea1",
+                "score": 0.836688,
+                "excerpt": "to request such personal data by law and shall be transferred, classified and shared with third parties within the country or abroad under the conditions stipulated by legislation and upon your explicit consent if necessary, and they may be processed by other means listed under the legislation and be subject to other procedures set forth in the legislation.\nThis Privacy Policy is adopted for the continuance and improvement of the activities carried out by Codeway in line with the principles set ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "034c31092047c539510b3bce12113cf2fd17e147530152186a3393aceeb1041e",
+                "score": 0.12710987,
+                "excerpt": "for this information, with the understanding that we may be unable to provide you with some of your desired services without it.\nWhile using the IQ Masters App, you may provide information through third party websites and apps to Codeway, please be aware that your liability and obligations against third party apps or website will continue and Codeway shall not be held responsible any terms, conditions, rules or policies determined by third parties.\nCookies\nCookies are little text files that are ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "731e480dd18befc33c2ad2c9f65b8c5ba460065f1ff0671646e8f13615fcfc55",
+                "score": 0.10356715,
+                "excerpt": "your personal data\n● Conditions that are necessary in order to fulfill our legal obligation\n● It is necessary to process your personal data, provided that we establish a contractual relationship with you, or that it is directly related to our performance obligation arising from this contract |\n|\nMarketing Data |\n● Your explicit consent (acquired via Apple and/or Google) |\nThird Party Websites and Applications\nIQ Masters; may contain links to other websites or apps that are unknown to Codeway and...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "8335e7439b8ad76386b07220a6e2d54a4c7c2ec65f0d09627f26dd71ad3f99f3",
+                "score": 0.073430054,
+                "excerpt": "and used by Codeway in particular, are as follows: your name and surname, e-mail address and phone number which we will receive once you contact Codeway, your order information if you make a purchase through in-app purchase; if you choose to answer to the relevant questions, you age group and gender; and information, survey responses, answers, choices or other data that you provide through use of IQ Masters application (IQ Masters) and your scores and performances in the games that you play thro...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "b012919fdc116fed9104d60c72749f7aa751be4eb8db687f6a230c8b94aa1c7e",
+                "score": 0.06681232,
+                "excerpt": "about you. If you choose to answer these questions, we may collect and process your answers to these questions mainly in order to customize our services (for example, to determine which games should be offered first or in what order).\n- In some surveys, you may provide us with information about how you feel. Please note that we do not infer any health-related characteristics from this information. We only collect and process this information for the purposes stated herein.\nIt is entirely up to y...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475717895,
+            "url": "https://static.iqmasters.app/privacy-en.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app describes the data collected, how it is used, stored, protected, and shared. It specifies various purposes for processing personal data, such as marketing analysis, creating user accounts, informing about new products, and fulfilling legal obligations.",
+            "reference": "This Privacy Policy describes which data we collect, how we intend to use, store, protect and share the data we collect, how you can withdraw your consent for the processing of these data and how you can correct and revise the data. Capitalized terms in this Policy shall have the meanings specified in the Terms and Conditions unless defined separately in this Policy. URL: https://static.iqmasters.app/privacy-en.html"
+        },
+        "source_documents": [
+            {
+                "id": "6c2dbe921c0dbc8daee6ab242aaff5e0b4314fdd8ff46e7c690b587f7315bb7a",
+                "score": 0.88161486,
+                "excerpt": "of the purpose of its use provided that it is required by other laws or a separate granted by you in this regard.\nIn cases that you allow Codeway to store your personal data for additional time by giving your consent, such data shall be immediately deleted, destructed or anonymized upon the expiry of such additional time or once the purpose of processing no longer exists.\nTechnical and Administrative Measures\nCodeway stores the personal data it processes in accordance with relevant legislation f...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "8f9afd8e6c9109362e557f3ba54042e9daa203de90539a00bff4fe6952f02ea1",
+                "score": 0.59443355,
+                "excerpt": "to request such personal data by law and shall be transferred, classified and shared with third parties within the country or abroad under the conditions stipulated by legislation and upon your explicit consent if necessary, and they may be processed by other means listed under the legislation and be subject to other procedures set forth in the legislation.\nThis Privacy Policy is adopted for the continuance and improvement of the activities carried out by Codeway in line with the principles set ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "270d0afe06d5b8d6a5899eddf8d3e759dea4c2046734de8e285ede92cd9f7055",
+                "score": 0.40851274,
+                "excerpt": "improving our services and the features of the application (You can opt out of our use for your information to improve our services by filing a request through the “Data Subject Application Form” at support@codeway.co) |\n|\nMarketing Data |\n● conducting marketing analysis studies ● execution of advertising/campaign/promotion processes |\nBesides, the purposes of processing personal data may be updated in line with our obligations arising from our company policies and legislation; in particular,\n· ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "b012919fdc116fed9104d60c72749f7aa751be4eb8db687f6a230c8b94aa1c7e",
+                "score": 0.22798456,
+                "excerpt": "about you. If you choose to answer these questions, we may collect and process your answers to these questions mainly in order to customize our services (for example, to determine which games should be offered first or in what order).\n- In some surveys, you may provide us with information about how you feel. Please note that we do not infer any health-related characteristics from this information. We only collect and process this information for the purposes stated herein.\nIt is entirely up to y...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "2f542fb82208d98e05e554d4d018080d13f40d0bced645b49caf3d5ab61e5606",
+                "score": 0.12485182,
+                "excerpt": "in accordance with law and good faith, (ii) being accurate and, where necessary, up-to-date, (iii) being processed for specific, explicit and legitimate purposes, (iv) being limited for the purpose for which they are processed and data minimization; and (v) being stored for the period stipulated in the relevant legislation or required for the purpose for which they are processed.\n3. Purposes of Processing Personal Data and Legal Reasons\nYour personal data will be processed via automatic or non-a...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475717895,
+            "url": "https://static.iqmasters.app/privacy-en.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Users can opt out of data collection or request deletion of their data by submitting a request through the “Data Subject Application Form” at support@codeway.co.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the process for users to opt out of data collection or request deletion of their data.",
+            "reference": "You can opt out of our collection and processing of such data, you can submit a request to support@codeway.co. If you choose to opt out, please note that our services will not be customized. URL: https://static.iqmasters.app/privacy-en.html"
+        },
+        "source_documents": [
+            {
+                "id": "270d0afe06d5b8d6a5899eddf8d3e759dea4c2046734de8e285ede92cd9f7055",
+                "score": 0.3685193,
+                "excerpt": "improving our services and the features of the application (You can opt out of our use for your information to improve our services by filing a request through the “Data Subject Application Form” at support@codeway.co) |\n|\nMarketing Data |\n● conducting marketing analysis studies ● execution of advertising/campaign/promotion processes |\nBesides, the purposes of processing personal data may be updated in line with our obligations arising from our company policies and legislation; in particular,\n· ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "7e75bab9d024b04cf53ae618755b4fb674cf3cf65b11df614ede4c4f264f2216",
+                "score": 0.36330795,
+                "excerpt": "delete – To request deletion of personal data under the conditions stipulated in GDPR,\n· The right to restrict processing - To request the restriction of the processing of personal data under the conditions stipulated in the GDPR,\n· Right to object to processing - To object to the processing of personal data under the conditions stipulated in the GDPR,\n· Right to data portability - To request the data collected by Codeway to be transferred directly to another organization or under certain condit...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "b012919fdc116fed9104d60c72749f7aa751be4eb8db687f6a230c8b94aa1c7e",
+                "score": 0.35925174,
+                "excerpt": "about you. If you choose to answer these questions, we may collect and process your answers to these questions mainly in order to customize our services (for example, to determine which games should be offered first or in what order).\n- In some surveys, you may provide us with information about how you feel. Please note that we do not infer any health-related characteristics from this information. We only collect and process this information for the purposes stated herein.\nIt is entirely up to y...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "1a38ec818ee3dce9278fbd26c16803de1315b308457df5f62e55b1a0e364ddae",
+                "score": 0.13591877,
+                "excerpt": "is processed incompletely or inaccurately; requesting notification of the transactions made under this scope to third parties to whom personal data have been transferred;\n· Request deletion, destruction or anonymization of personal data if the reasons for the processing have disappeared and request notification of the transactions made under this scope to third parties to whom personal data have been transferred;\n· Object to occurrence of any result that is to your detriment by means of the anal...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "6c2dbe921c0dbc8daee6ab242aaff5e0b4314fdd8ff46e7c690b587f7315bb7a",
+                "score": 0.08819004,
+                "excerpt": "of the purpose of its use provided that it is required by other laws or a separate granted by you in this regard.\nIn cases that you allow Codeway to store your personal data for additional time by giving your consent, such data shall be immediately deleted, destructed or anonymized upon the expiry of such additional time or once the purpose of processing no longer exists.\nTechnical and Administrative Measures\nCodeway stores the personal data it processes in accordance with relevant legislation f...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475717895,
+            "url": "https://static.iqmasters.app/privacy-en.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that personal data may be transferred to service providers and third parties such as Facebook SDK, Adjust, and Firebase Analytics for various purposes.",
+            "reference": "Codeway may also transfer your personal data to service providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes: － Sharing identity, communication and transaction security information with authorized public institutions and organizations for the purpose of execution of activities in compliance with legislation, monitor and execution of legal affairs, informing authorized persons, institutions, and organizations. － Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes. URL: https://static.iqmasters.app/privacy-en.html"
+        },
+        "source_documents": [
+            {
+                "id": "b411ce91b3c7e0fb3ca70446ebfb29994b8f46f97c8a69bd470ab346f3e725e7",
+                "score": 0.99333304,
+                "excerpt": "unauthorized third parties, Codeway notifies this situation to Users immediately and, if necessary, to relevant data protection authority and takes necessary measures.\n4. Transferring Personal Data to Third Parties\nThe procedures and principles to be applied for transferring of personal data are regulated in articles 8 and 9 of the PDP Law, and the personal and special categories of data of the supplier may be transferred to third parties within the country or abroad since we may use servers and...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "8f9afd8e6c9109362e557f3ba54042e9daa203de90539a00bff4fe6952f02ea1",
+                "score": 0.75635755,
+                "excerpt": "to request such personal data by law and shall be transferred, classified and shared with third parties within the country or abroad under the conditions stipulated by legislation and upon your explicit consent if necessary, and they may be processed by other means listed under the legislation and be subject to other procedures set forth in the legislation.\nThis Privacy Policy is adopted for the continuance and improvement of the activities carried out by Codeway in line with the principles set ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "80e81b02edc0927698890097b0d503b5ac7bbdc42adf4b80c444e8aad5521ff9",
+                "score": 0.74632394,
+                "excerpt": "of legal affairs, informing authorized persons, institutions and organizations.\n· Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.\n5. Age Limitation\nWe do not permit the use of our application by children under the age of 16.\nWe do not knowingly collect or process personal data from anyone under the age of 16. If you learn that someone under the age of 16 has provided us with person...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "034c31092047c539510b3bce12113cf2fd17e147530152186a3393aceeb1041e",
+                "score": 0.5411361,
+                "excerpt": "for this information, with the understanding that we may be unable to provide you with some of your desired services without it.\nWhile using the IQ Masters App, you may provide information through third party websites and apps to Codeway, please be aware that your liability and obligations against third party apps or website will continue and Codeway shall not be held responsible any terms, conditions, rules or policies determined by third parties.\nCookies\nCookies are little text files that are ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "24d6488e9fa946b6cc94e742ecdd4ac026b32e090b1e2b32f6f0cc520dcd399e",
+                "score": 0.50978726,
+                "excerpt": "It ensures that personal data on papers is necessarily stored in lockers and accessed only by authorized persons. Adequate security measures (for situations such as electric leakage, fire, deluge, thievery etc.) are taken based on the nature of the environment where sensitive data is stored.\nBackup. Codeway periodically backs up the data it stores. As a backup mechanism, it uses the backup facilities provided by the cloud infrastructure providers, as well as the backup solutions it develops when...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475717895,
+            "url": "https://static.iqmasters.app/privacy-en.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties such as Facebook SDK, Adjust, and Firebase Analytics.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Facebook SDK",
+                        "Adjust",
+                        "Firebase Analytics"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with specific third parties embedded into the service for various purposes.",
+            "reference": "Codeway may also transfer your personal data to services providers of our Company, third parties such as Facebook SDK, Adjust and Firebase Analytics which are embedded into our service for the following purposes: ... URL: https://static.iqmasters.app/privacy-en.html"
+        },
+        "source_documents": [
+            {
+                "id": "b411ce91b3c7e0fb3ca70446ebfb29994b8f46f97c8a69bd470ab346f3e725e7",
+                "score": 0.92121595,
+                "excerpt": "unauthorized third parties, Codeway notifies this situation to Users immediately and, if necessary, to relevant data protection authority and takes necessary measures.\n4. Transferring Personal Data to Third Parties\nThe procedures and principles to be applied for transferring of personal data are regulated in articles 8 and 9 of the PDP Law, and the personal and special categories of data of the supplier may be transferred to third parties within the country or abroad since we may use servers and...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "80e81b02edc0927698890097b0d503b5ac7bbdc42adf4b80c444e8aad5521ff9",
+                "score": 0.5434691,
+                "excerpt": "of legal affairs, informing authorized persons, institutions and organizations.\n· Sharing identity and contact information to manage after-sales support services, conduct business activities and manage customer relationship management processes.\n5. Age Limitation\nWe do not permit the use of our application by children under the age of 16.\nWe do not knowingly collect or process personal data from anyone under the age of 16. If you learn that someone under the age of 16 has provided us with person...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "8f9afd8e6c9109362e557f3ba54042e9daa203de90539a00bff4fe6952f02ea1",
+                "score": 0.53758764,
+                "excerpt": "to request such personal data by law and shall be transferred, classified and shared with third parties within the country or abroad under the conditions stipulated by legislation and upon your explicit consent if necessary, and they may be processed by other means listed under the legislation and be subject to other procedures set forth in the legislation.\nThis Privacy Policy is adopted for the continuance and improvement of the activities carried out by Codeway in line with the principles set ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "731e480dd18befc33c2ad2c9f65b8c5ba460065f1ff0671646e8f13615fcfc55",
+                "score": 0.36206648,
+                "excerpt": "your personal data\n● Conditions that are necessary in order to fulfill our legal obligation\n● It is necessary to process your personal data, provided that we establish a contractual relationship with you, or that it is directly related to our performance obligation arising from this contract |\n|\nMarketing Data |\n● Your explicit consent (acquired via Apple and/or Google) |\nThird Party Websites and Applications\nIQ Masters; may contain links to other websites or apps that are unknown to Codeway and...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            },
+            {
+                "id": "034c31092047c539510b3bce12113cf2fd17e147530152186a3393aceeb1041e",
+                "score": 0.30850264,
+                "excerpt": "for this information, with the understanding that we may be unable to provide you with some of your desired services without it.\nWhile using the IQ Masters App, you may provide information through third party websites and apps to Codeway, please be aware that your liability and obligations against third party apps or website will continue and Codeway shall not be held responsible any terms, conditions, rules or policies determined by third parties.\nCookies\nCookies are little text files that are ...",
+                "url": "https://static.iqmasters.app/privacy-en.html"
+            }
+        ]
+    }
+]

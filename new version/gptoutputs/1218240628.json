@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1218240628,
+      "url": "https://onourem.com/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that while using the Service, users are asked to provide certain personally identifiable information that can be used to contact or identify them, which includes data such as email address, first name, last name, and usage data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of personal data collected.",
+          "content": "While using Our Service, We ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information includes, but is not limited to: Email address, First name and last name, Usage Data."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1218240628,
+      "url": "https://onourem.com/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Data, which includes certain personally identifiable information such as email address, first name and last name, and Usage Data. Usage Data is collected automatically and includes information such as the Device's Internet Protocol address (IP address), browser type, browser version, the pages of the Service that are visited, and the time and date of the visit.",
+        "simple_answer": "The app collects Personal Data like email address, name, and Usage Data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both personally identifiable information and automatically collected data.",
+          "content": "Personal Data includes email address, first name, last name, and Usage Data, which consists of information like IP address, browser type, and pages visited."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1218240628,
+      "url": "https://onourem.com/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it uses your personal data to provide and improve the Service. By using the Service, you explicitly agree to the collection and use of information in accordance with the Privacy Policy.",
+        "simple_answer": "Yes, the app states the purpose of data collection is to provide and improve the Service.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app explicitly mentions that it collects personal data to enhance the user experience and improve its services."
+        }
+      },
+      "analysis": "",
+      "reference": "The purpose of data collection and use is stated in the introduction of the Privacy Policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 1218240628,
+      "url": "https://onourem.com/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not using the service. However, the policy does not explicitly mention a process for deleting data once collected.",
+        "simple_answer": "Yes, users can opt out by not using the service.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that by using the service, users agree to data collection. It does not provide a clear method for deleting data.",
+          "content": "Users can opt out of data collection by choosing not to use the service, but the policy does not specify how to delete data that has already been collected."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out by not using the service, but lacks details on how users can delete their data.",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1218240628,
+      "url": "https://onourem.com/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your data with third parties, including Service Providers who process data on behalf of the Company. This is done to facilitate the Service, provide the Service on behalf of the Company, perform services related to the Service, or assist the Company in analyzing how the Service is used.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is primarily for service facilitation and analysis.",
+          "content": "The app may share your data with Service Providers, which are third-party companies or individuals employed by the Company to assist in various functions related to the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1218240628,
+      "url": "https://onourem.com/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list the specific third parties with whom the app shares data. However, it mentions that data may be shared with Service Providers, which are defined as any natural or legal person who processes the data on behalf of the Company, including third-party companies or individuals employed to facilitate the Service or assist in analyzing how the Service is used.",
+        "simple_answer": "The app shares data with Service Providers, but does not specify which third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared with various entities that help in providing the service, but does not provide specific names.",
+          "content": "Data may be shared with Service Providers who process data on behalf of the Company."
+        }
+      },
+      "analysis": "The lack of specific names for third parties in the privacy policy may raise concerns for users about transparency in data sharing practices.",
+      "reference": "Section: Collecting and Using Your Personal Data"
+    }
+  }
+]

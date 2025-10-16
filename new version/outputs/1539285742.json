@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 1539285742,
+            "url": "https://linesofzen.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data, mentioning various types of data collected such as location information, stored information, and information from cookies & other technologies.",
+            "reference": "We may determine the approximate location of your device from your IP address. We collect and use this information to, for example, calculate how many people visit our Services from certain geographic regions. - Information from cookies & other technologies: A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails. - URL: https://linesofzen.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "b32fa442dc9f30657c191cef8312f1da9fd98634c3948baced3bc53fd7d17b7a",
+                "score": 0.009783876,
+                "excerpt": "protect your personal information when transferring it from the EU.\nAnalytics Services Provided by Others\nAnalytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "20abcd3c3dbf194482b09ae88839242d83bcec6c018b9158550ddbc603e2beab",
+                "score": 0.009376237,
+                "excerpt": "For example, we collect information about the features in our app that you access along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our Services better, and understand and make predictions about user retention.\n- Location information: We may determine the approximate location of your device from your...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "d8e6f16d33907144c13676dcf7924fbe794f577c597a7d8449f8d19ff04d9016",
+                "score": 0.0085443305,
+                "excerpt": "Privacy Policy\nLast Updated: April 26, 2022\nYour privacy is critically important to us. At Peer Assembly, we have a few fundamental principles:\n- We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.\n- We store personal information for only as long as we have a reason to keep it.\n- We aim to make it as simple as possible for you to control what information on your website is shared publ...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "fbbdab831c7823eb44cc98fc528255366b5feb66b23ef293f53ef1b03b3b0696",
+                "score": 0.005060332,
+                "excerpt": "in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for co...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "29622cb2a68681aa5a1523f3e7fa828f72cae1a65961c55cf86b2c7821e151f1",
+                "score": 0.004792317,
+                "excerpt": "an original graciously shared by Automattic on GitHub. You’re more than welcome to copy it, adapt it, and repurpose it for your own use.\nWe only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that w...",
+                "url": "https://linesofzen.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1539285742,
+            "url": "https://linesofzen.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects a variety of data types including identifiers, commercial information, characteristics protected by law, internet or other electronic network activity information, geolocation data, audio, electronic, visual or similar information, professional or employment-related information, and inferences made about users.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identifiers",
+                        "Commercial information",
+                        "Characteristics protected by law",
+                        "Internet or other electronic network activity information",
+                        "Geolocation data",
+                        "Audio, electronic, visual or similar information",
+                        "Professional or employment-related information",
+                        "Inferences made about users"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section listing the categories of personal information collected from California residents.",
+            "reference": "Identifiers (like your name, contact information, and device and online identifiers); Commercial information (your billing information and purchase history, for example); Characteristics protected by law (for example, you might provide your gender as part of a research survey for us); Internet or other electronic network activity information (such as your usage of our Services, like the actions you take as an administrator of a WordPress.com site); Geolocation data (such as your location based on your IP address); Audio, electronic, visual or similar information (such as your profile picture, if you uploaded one); Professional or employment-related information (for example, your company and team information if you are a Happy Tools user, or information you provide in a job application); and Inferences we make (such as likelihood of retention or attrition). URL: https://linesofzen.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "20abcd3c3dbf194482b09ae88839242d83bcec6c018b9158550ddbc603e2beab",
+                "score": 0.28806815,
+                "excerpt": "For example, we collect information about the features in our app that you access along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our Services better, and understand and make predictions about user retention.\n- Location information: We may determine the approximate location of your device from your...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "bf14115b530311dfb3cf7679a1f22d4227dff1d218cb0701b21947e10d9cb19d",
+                "score": 0.13466208,
+                "excerpt": "us to provide a list of the “categories” of personal information we collect, as that term is defined in the law, so, here it is. In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:\n- Identifiers (like your name, contact information, and device and online identifiers);\n- Commercial information (your billing information and purchase history, for example);\n- Characteristics protected by law (for example, you...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "29622cb2a68681aa5a1523f3e7fa828f72cae1a65961c55cf86b2c7821e151f1",
+                "score": 0.11536139,
+                "excerpt": "an original graciously shared by Automattic on GitHub. You’re more than welcome to copy it, adapt it, and repurpose it for your own use.\nWe only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that w...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "b32fa442dc9f30657c191cef8312f1da9fd98634c3948baced3bc53fd7d17b7a",
+                "score": 0.058131598,
+                "excerpt": "protect your personal information when transferring it from the EU.\nAnalytics Services Provided by Others\nAnalytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "b83d560e10c239835ae83610e2eeac4e5b54cfa12d13f808b3233e8721aed9a2",
+                "score": 0.014172367,
+                "excerpt": "(aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.\nEuropean General Data Protection Regulation (GDPR)\nIf you are located in a country that falls under the scope of the GDPR, data protection laws give you certain rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:\n- Request access to your personal data;\n- Request correction or deletion of you...",
+                "url": "https://linesofzen.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1539285742,
+            "url": "https://linesofzen.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that they collect information from users to provide services, communicate with users, and enhance user experience, which indicates a clear declaration of the purpose of data collection and use.",
+            "reference": "We only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. URL: https://linesofzen.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "fbbdab831c7823eb44cc98fc528255366b5feb66b23ef293f53ef1b03b3b0696",
+                "score": 0.0669342,
+                "excerpt": "in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for co...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "4ad30e9faece4b0bf591c29a4fb36b4a2e28f94d12f2308724cb1ebdb21eae68",
+                "score": 0.05781161,
+                "excerpt": "example, via a support email or one of our other feedback mechanisms), we reserve the right to publish that request in order to clarify or respond to your request, or to help us support other users.\nWe have a long-standing policy that we do not sell our users’ data. We aren’t a data broker, we don’t sell your personal information to data brokers, and we don’t sell your information to other companies that want to spam you with marketing emails.\nWe generally discard information about you when it’s...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "20abcd3c3dbf194482b09ae88839242d83bcec6c018b9158550ddbc603e2beab",
+                "score": 0.04689926,
+                "excerpt": "For example, we collect information about the features in our app that you access along with information about your device (e.g., screen size, name of cellular network, and mobile device manufacturer). We use this information to, for example, provide our Services to you, get insights on how people use our Services so we can make our Services better, and understand and make predictions about user retention.\n- Location information: We may determine the approximate location of your device from your...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "29622cb2a68681aa5a1523f3e7fa828f72cae1a65961c55cf86b2c7821e151f1",
+                "score": 0.018511046,
+                "excerpt": "an original graciously shared by Automattic on GitHub. You’re more than welcome to copy it, adapt it, and repurpose it for your own use.\nWe only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that w...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "d8e6f16d33907144c13676dcf7924fbe794f577c597a7d8449f8d19ff04d9016",
+                "score": 0.016529556,
+                "excerpt": "Privacy Policy\nLast Updated: April 26, 2022\nYour privacy is critically important to us. At Peer Assembly, we have a few fundamental principles:\n- We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.\n- We store personal information for only as long as we have a reason to keep it.\n- We aim to make it as simple as possible for you to control what information on your website is shared publ...",
+                "url": "https://linesofzen.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1539285742,
+            "url": "https://linesofzen.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data in certain ways depending on the context. For example, users can limit access to information on their mobile devices, opt out of marketing communications, set their browsers to reject cookies, and request access to or deletion of their data under certain data protection laws like the GDPR or CCPA.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy outlines various ways in which users can opt out of data collection or delete their data, including limiting access on mobile devices, opting out of marketing communications, rejecting cookies in browsers, and requesting data access or deletion under specific data protection laws.",
+            "reference": "Limit access to information on your mobile device: Your mobile device operating system should provide you with the option to discontinue our ability to collect stored information or location information via our mobile apps. If you choose to limit this, you may not be able to use certain features, like geotagging for photographs. Opt out of marketing communications: You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices. Set your browser to reject cookies: Note that certain features of Peer Assembly’s websites may not function properly without the aid of cookies. European General Data Protection Regulation (GDPR) If you are located in a country that falls under the scope of the GDPR, data protection laws give you certain rights. California Consumer Privacy Act (CCPA) The California Consumer Privacy Act (“CCPA”) requires us to provide California residents with some additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. The CCPA also requires us to provide a list of the “categories” of personal information we collect, as that term is defined in the law, so, here it is. In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used. URL: https://linesofzen.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "3505d3750257776ebe8e7453f34e02902c79603991454e613a1a4b5fcac03ef7",
+                "score": 0.94197524,
+                "excerpt": "certain features of our Services — for example, premium themes that carry an additional charge — may not be accessible.\n- Limit access to information on your mobile device: Your mobile device operating system should provide you with the option to discontinue our ability to collect stored information or location information via our mobile apps. If you choose to limit this, you may not be able to use certain features, like geotagging for photographs.\n- Opt out of marketing communications: You may ...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "837cd0b270bdf99d0a4f0b216a24330f4c15e91ae11bbef3f976ee57e6c85cab",
+                "score": 0.9175984,
+                "excerpt": "likelihood of retention or attrition).\nIf you are a California resident, you have additional rights under the CCPA, subject to any exemptions provided by the law, including the right to:\n- Request to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, the categories of third parties we share it with, and the specific pieces of information we collect about y...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "b83d560e10c239835ae83610e2eeac4e5b54cfa12d13f808b3233e8721aed9a2",
+                "score": 0.66137636,
+                "excerpt": "(aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to or deletion of your data.\nEuropean General Data Protection Regulation (GDPR)\nIf you are located in a country that falls under the scope of the GDPR, data protection laws give you certain rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:\n- Request access to your personal data;\n- Request correction or deletion of you...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "77ec7ce4212bdd8d026f87964445c9f4cd5019180cf4233fc4d08583bdb35069",
+                "score": 0.44474563,
+                "excerpt": "traffic to Peer Assembly’s websites and investigate issues if something goes wrong on one of our websites. As another example, when you delete a post, page, or comment from your WordPress.com site, it stays in your Trash folder for thirty days in case you change your mind and would like to restore that content, because starting from scratch is no fun. After the thirty days are up, the deleted content may remain on our backups and caches until purged.\nSecurity\nWhile no online service is 100% secu...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "4ad30e9faece4b0bf591c29a4fb36b4a2e28f94d12f2308724cb1ebdb21eae68",
+                "score": 0.09602549,
+                "excerpt": "example, via a support email or one of our other feedback mechanisms), we reserve the right to publish that request in order to clarify or respond to your request, or to help us support other users.\nWe have a long-standing policy that we do not sell our users’ data. We aren’t a data broker, we don’t sell your personal information to data brokers, and we don’t sell your information to other companies that want to spam you with marketing emails.\nWe generally discard information about you when it’s...",
+                "url": "https://linesofzen.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1539285742,
+            "url": "https://linesofzen.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares information about users with limited circumstances and appropriate safeguards in place.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "In the privacy policy document, it is explicitly stated that the app shares information about users in limited circumstances with appropriate privacy safeguards.",
+            "reference": "We share information about you in limited circumstances, and with appropriate safeguards on your privacy. - Subsidiaries and independent contractors: We may disclose information about you to our subsidiaries and independent contractors who need the information to help us provide our Services or process the information on our behalf. We require our subsidiaries and independent contractors to follow this Privacy Policy for any personal information that we share with them. - Third-party vendors: We may share information about you with third-party vendors who need the information in order to provide their services to us, or to provide their services to you or your site. This includes vendors that help us provide our Services to you; those that help us understand and enhance our Services (like analytics providers); those that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams); other third-party tools that help us manage operations; and companies that make products available on our websites (like the extensions on URL: https://linesofzen.com/privacy.html",
+            "tags": "privacy, data sharing, third parties"
+        },
+        "source_documents": [
+            {
+                "id": "db9e79813adfd9f030b5335c2e7ec9a3bf20e83ef81024cb4da50441f500d633",
+                "score": 0.856092,
+                "excerpt": "our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or (5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.\nWe share information about you in limited circumstances, and with appropriate safeguards on your privacy.\n- Subsidiaries and independent contractors: We may disclose information about you to our subsidiaries and independent contractors wh...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "ac7c79a9c1b9ae38d2de733d79bd400784dd87887703ea9236352422d54e23c5",
+                "score": 0.36319503,
+                "excerpt": "information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.\n- With your consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties when you author...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "b32fa442dc9f30657c191cef8312f1da9fd98634c3948baced3bc53fd7d17b7a",
+                "score": 0.24256428,
+                "excerpt": "protect your personal information when transferring it from the EU.\nAnalytics Services Provided by Others\nAnalytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "0d04d3244fe1cd0bc15e299cb58fe639c229f2947da6a2e6fbc33268fa59e729",
+                "score": 0.13741668,
+                "excerpt": "for some of the processing activities across all of our Services worldwide.\nHow to Reach Us\nIf you have a question about this Privacy Policy, please contact us via email.\nOther Things You Should Know (Keep Reading!)\nBecause Peer Assembly’s Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of ...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "64c01910e60fd5d0c4a3bf9cf128f6066019539a147d407cf6731af177d54d4d",
+                "score": 0.13466208,
+                "excerpt": "that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams); other third-party tools that help us manage operations; and companies that make products available on our websites (like the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you.\n- Legal and regulatory requirements: ...",
+                "url": "https://linesofzen.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1539285742,
+            "url": "https://linesofzen.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with its subsidiaries, independent contractors, third-party vendors, and companies that make tools available on its websites.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Subsidiaries and independent contractors",
+                        "Third-party vendors",
+                        "Companies that make tools available on websites"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing information with subsidiaries, independent contractors, third-party vendors, and companies providing tools on their websites.",
+            "reference": "Subsidiaries and independent contractors: We may disclose information about you to our subsidiaries and independent contractors who need the information to help us provide our Services or process the information on our behalf. Third-party vendors: We may share information about you with third-party vendors who need the information in order to provide their services to us, or to provide their services to you or your site. Companies that make tools available on websites: We may share information about you with companies that make products available on our websites... URL: https://linesofzen.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "db9e79813adfd9f030b5335c2e7ec9a3bf20e83ef81024cb4da50441f500d633",
+                "score": 0.7634837,
+                "excerpt": "our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or (5) You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.\nWe share information about you in limited circumstances, and with appropriate safeguards on your privacy.\n- Subsidiaries and independent contractors: We may disclose information about you to our subsidiaries and independent contractors wh...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "ac7c79a9c1b9ae38d2de733d79bd400784dd87887703ea9236352422d54e23c5",
+                "score": 0.57320064,
+                "excerpt": "information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.\n- With your consent: We may share and disclose information with your consent or at your direction. For example, we may share your information with third parties when you author...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "64c01910e60fd5d0c4a3bf9cf128f6066019539a147d407cf6731af177d54d4d",
+                "score": 0.5715275,
+                "excerpt": "that make tools to help us run our operations (like programs that help us with task management, scheduling, word processing, email and other communications, and collaboration among our teams); other third-party tools that help us manage operations; and companies that make products available on our websites (like the extensions on WooCommerce.com), who may need information about you in order to, for example, provide technical or other support services to you.\n- Legal and regulatory requirements: ...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "b32fa442dc9f30657c191cef8312f1da9fd98634c3948baced3bc53fd7d17b7a",
+                "score": 0.2516477,
+                "excerpt": "protect your personal information when transferring it from the EU.\nAnalytics Services Provided by Others\nAnalytics providers may set tracking technologies (like cookies) to collect information about your use of our Services and across other websites and online services. These technologies allow these third parties to recognize your device to compile information about you or others who use your device. This information allows us and other companies to, among other things, analyze and track usage...",
+                "url": "https://linesofzen.com/privacy.html"
+            },
+            {
+                "id": "4ad30e9faece4b0bf591c29a4fb36b4a2e28f94d12f2308724cb1ebdb21eae68",
+                "score": 0.18698418,
+                "excerpt": "example, via a support email or one of our other feedback mechanisms), we reserve the right to publish that request in order to clarify or respond to your request, or to help us support other users.\nWe have a long-standing policy that we do not sell our users’ data. We aren’t a data broker, we don’t sell your personal information to data brokers, and we don’t sell your information to other companies that want to spam you with marketing emails.\nWe generally discard information about you when it’s...",
+                "url": "https://linesofzen.com/privacy.html"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1667268266,
+      "url": "https://thrivingonthespectrum.com/terms-privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects information you provide directly, such as when you fill out a form or create an account, as well as information collected automatically, such as your IP address and device identifiers.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app collects both personal information you provide and automatic data.",
+          "content": "The privacy policy specifies that information is collected directly from users when they interact with the app, as well as automatically through their usage of the app."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1667268266,
+      "url": "https://thrivingonthespectrum.com/terms-privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects two main types of data: information you provide directly to us and information we collect automatically. The information you provide may include your name, contact information (physical address, email address, and/or telephone number), and payment information. The information collected automatically may include your IP address, web browser and operating system, the date and time of your visit, the pages you navigate to and from, and how long you stay on each page.",
+        "simple_answer": "The app collects personal information you provide and automatically collected data like IP address and browsing details.",
+        "extended_simple_answer": {
+          "comment": "The app collects both user-provided and automatically collected data.",
+          "content": "User-provided data includes name, contact information, and payment details. Automatically collected data includes IP address, browser type, visit times, and page navigation."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1667268266,
+      "url": "https://thrivingonthespectrum.com/terms-privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used for various business or commercial purposes, including administering and improving the services, responding to inquiries, processing transactions, sending periodic emails, enabling third-party service providers, preventing fraud, and complying with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific purposes for data collection, ensuring transparency.",
+          "content": "The purposes include operating and improving services, responding to user inquiries, processing transactions, sending communications, enabling third-party services, preventing fraud, and complying with legal obligations."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1667268266,
+      "url": "https://thrivingonthespectrum.com/terms-privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt out of certain communications by following the instructions in each communication. However, the privacy policy does not explicitly state that users can opt out of all data collection or delete their data. It mentions that users can refuse cookies, which may inhibit their use of the website, but does not provide a clear mechanism for deleting personal data collected.",
+        "simple_answer": "Users can opt out of certain communications but not all data collection.",
+        "extended_simple_answer": {
+          "comment": "While users have some control over communications, the policy lacks clarity on full data deletion options.",
+          "content": "Users can opt out of communications by following instructions in emails. Refusing cookies is possible, but this may limit website functionality. The policy does not specify a method for users to delete their data."
+        }
+      },
+      "analysis": "The privacy policy provides limited options for users regarding data collection and deletion, focusing more on communication preferences.",
+      "reference": "How We Use Your Information; Cookies and Tracking Technologies"
+    }
+  },
+  {
+    "meta": {
+      "id": 1667268266,
+      "url": "https://thrivingonthespectrum.com/terms-privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. As you navigate the Website, third parties may gather information from and about you. Companies that offer services or products through links on the Website may use cookies to collect and use information about you, and they will use such information in accordance with their own privacy policies.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app does not directly share personal information but allows third parties to collect data through cookies.",
+          "content": "Third parties may gather information from users as they navigate the Website, and they may use cookies to collect and use information about users in accordance with their own privacy policies."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collected by Third Parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 1667268266,
+      "url": "https://thrivingonthespectrum.com/terms-privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties that offer services or products through links on the website, such as Google Play and Apple’s App Store. These third parties may use cookies to collect and use information about users, and they will use such information in accordance with their own privacy policies.",
+        "simple_answer": "The app shares data with third parties like Google Play and Apple’s App Store.",
+        "extended_simple_answer": {
+          "comment": "Third parties may collect information through cookies.",
+          "content": "The app may share data with third parties that offer services or products through links on the website, such as Google Play and Apple’s App Store. These third parties may use cookies to collect and use information about users, and they will use such information in accordance with their own privacy policies."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collected by Third Parties"
+    }
+  }
+]

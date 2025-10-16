@@ -1,0 +1,342 @@
+[
+    {
+        "meta": {
+            "id": 6448851631,
+            "url": "https://www.genaufactory.com/genau-data-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the data collected when using the app and the conditions under which it is collected.",
+            "reference": "The following data is processed in the course of using our app: General app accesses, E-mail address, User Generated Content, Push messages ('Message_Usage'), Network access, General app accesses. URL: https://www.genaufactory.com/genau-data-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d7e4c7f87593ae2e8cf14533e3609c245545f9a017fe6e56b065541609b89250",
+                "score": 0.6818327,
+                "excerpt": "data to ensure stability and security for you.\nThe data is stored by us for 30 days. The recipient of the data is our server host, who works for us within the framework of an order data agreement.\nWhat data is processed when using our app?\nWhen you install our app, the data required for the start-up is collected and processed. This is the data that you agreed to the collection of, insofar as you have granted the corresponding authorisations (such as GPS data) to the respective operator of the Ap...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f92d97d953426cd518f801093216844e712b71ea1903813deaf5982b27b1f115",
+                "score": 0.31531417,
+                "excerpt": "to disclose data (information to law enforcement agencies and courts; information to public bodies that receive data on the basis of statutory provisions, e.g., social insurance institutions, tax authorities, etc.) or we involve third parties bound to professional secrecy to enforce our claims.\nAre you obliged to provide personal data?\nIf you use the services offered by our app and wish to use the full range of functions of the app, you must provide the personal data that is required for the res...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "e7bd2e2291bf729c948a8ee70635bac8e4c75d7e2eac568d9a128785821e433b",
+                "score": 0.15765491,
+                "excerpt": "have the option of contacting us. If you contact us by e-mail, we will process in particular your e-mail address, the time of the e-mail and the data resulting from the message text (including attachments, if applicable). The purpose of processing the above-mentioned data is to process the contact enquiry and to be able to contact the enquirer in order to respond to the request. The legal basis for the processing of personal data described here is Art. 6 (1) f GDPR. Our legitimate interest is to...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f91722ce1ae7e412dff728cd93026540a2f8afac9095b58b58f1abee1935a866",
+                "score": 0.14235108,
+                "excerpt": "Hollyhill Industrial Estate, Hollyhill Ln, Knocknaheeney, Cork, Ireland, to install our app.\nAs far as we are aware, Apple collects and processes the following data;\ndevice identifiers,\nIP addresses\nIt cannot be excluded that Apple also transmits the information to a server in a third country. This could in particular be Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014. We cannot influence which personal data Apple processes with your registration and the provision of downloads i...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "66afd2afb78507179e1289ea7f8f393c3140d96164a1ec04b8f3691637fb3c5d",
+                "score": 0.11221036,
+                "excerpt": "Privacy Policy\nWelcome to Genau, we, GenauStudio, appreciate your interest in our apps. We attach great importance to protecting your data and safeguarding your privacy. We would like to explain below which data we process, when and for what purpose and on what legal basis.\nThis privacy policy contains information about our data protection provisions and measures as well as the rights to which you are entitled within the framework of the German Federal Data Protection Act (BDSG), and the EU`s Ge...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6448851631,
+            "url": "https://www.genaufactory.com/genau-data-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects the following types of data: general app accesses, e-mail address, user-generated content, push messages, network access, IP address, user agent, date and time, time zone difference, specific page content, access status, HTTP status code, data transmitted, website source, browser, operating system, browser language and version.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "General app accesses",
+                        "E-mail address",
+                        "User Generated Content",
+                        "Push messages ('Message_Usage')",
+                        "Network access",
+                        "IP address",
+                        "User agent",
+                        "Date and time",
+                        "Time zone difference",
+                        "Specific page content",
+                        "Access status",
+                        "HTTP status code",
+                        "Amount of data transferred",
+                        "Website source",
+                        "Browser",
+                        "Operating system",
+                        "Browser language and version"
+                    ]
+                }
+            },
+            "analysis": "The data types collected by the app are clearly mentioned in the privacy policy, providing a comprehensive list of the information processing.",
+            "reference": "The app collects the following data: General app accesses, E-mail address, User Generated Content, Push messages ('Message_Usage'), Network accesses, IP address, User agent, Date and time of request, Time zone difference, Specific page content, Access status, HTTP status code, Amount of data transferred in each case, Website from which request came, Browser, Operating system and its interface, Language and version of the browser software. URL: https://www.genaufactory.com/genau-data-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d7e4c7f87593ae2e8cf14533e3609c245545f9a017fe6e56b065541609b89250",
+                "score": 0.56463873,
+                "excerpt": "data to ensure stability and security for you.\nThe data is stored by us for 30 days. The recipient of the data is our server host, who works for us within the framework of an order data agreement.\nWhat data is processed when using our app?\nWhen you install our app, the data required for the start-up is collected and processed. This is the data that you agreed to the collection of, insofar as you have granted the corresponding authorisations (such as GPS data) to the respective operator of the Ap...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f91722ce1ae7e412dff728cd93026540a2f8afac9095b58b58f1abee1935a866",
+                "score": 0.45689437,
+                "excerpt": "Hollyhill Industrial Estate, Hollyhill Ln, Knocknaheeney, Cork, Ireland, to install our app.\nAs far as we are aware, Apple collects and processes the following data;\ndevice identifiers,\nIP addresses\nIt cannot be excluded that Apple also transmits the information to a server in a third country. This could in particular be Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014. We cannot influence which personal data Apple processes with your registration and the provision of downloads i...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "9dc7a0f3af3d91c0c3369a645c9e0bf30f375b152ef1555a6ff5367dec4838e4",
+                "score": 0.24364243,
+                "excerpt": "these third-party providers and also consents to certain data from the respective profiles of the user being transferred to Genau Apps.\nUse of Google SDK / Google Firebase / Google Analytics\nWe use the developer platform Google Firebase and the associated functions and services of Google LLC (\"Google\"), 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and Google Ireland Limited (\"Google\"), Gordon House, Barrow Street, Dublin 4, Ireland. Google Firebase is a platform for developers of apps...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "66afd2afb78507179e1289ea7f8f393c3140d96164a1ec04b8f3691637fb3c5d",
+                "score": 0.21750368,
+                "excerpt": "Privacy Policy\nWelcome to Genau, we, GenauStudio, appreciate your interest in our apps. We attach great importance to protecting your data and safeguarding your privacy. We would like to explain below which data we process, when and for what purpose and on what legal basis.\nThis privacy policy contains information about our data protection provisions and measures as well as the rights to which you are entitled within the framework of the German Federal Data Protection Act (BDSG), and the EU`s Ge...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "e7bd2e2291bf729c948a8ee70635bac8e4c75d7e2eac568d9a128785821e433b",
+                "score": 0.11818139,
+                "excerpt": "have the option of contacting us. If you contact us by e-mail, we will process in particular your e-mail address, the time of the e-mail and the data resulting from the message text (including attachments, if applicable). The purpose of processing the above-mentioned data is to process the contact enquiry and to be able to contact the enquirer in order to respond to the request. The legal basis for the processing of personal data described here is Art. 6 (1) f GDPR. Our legitimate interest is to...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6448851631,
+            "url": "https://www.genaufactory.com/genau-data-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use in the privacy policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purpose of processing different types of data collected by the app, such as contact emails and data collected when using the app, indicating transparency in data collection purposes.",
+            "reference": "The purpose of processing the above-mentioned data is to process the contact enquiry and to be able to contact the enquirer in order to respond to the request. The purpose of this processing is the retrievability of our app from your device and to enable a correct display of our app on your device or in your browser. Furthermore, we use the data to optimise our app and to ensure the security of our systems. URL: https://www.genaufactory.com/genau-data-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "e7bd2e2291bf729c948a8ee70635bac8e4c75d7e2eac568d9a128785821e433b",
+                "score": 0.27747297,
+                "excerpt": "have the option of contacting us. If you contact us by e-mail, we will process in particular your e-mail address, the time of the e-mail and the data resulting from the message text (including attachments, if applicable). The purpose of processing the above-mentioned data is to process the contact enquiry and to be able to contact the enquirer in order to respond to the request. The legal basis for the processing of personal data described here is Art. 6 (1) f GDPR. Our legitimate interest is to...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "ee51b5ddfdd1665dddaa6598cb5db1c12fe3138966742acee5689513992e6870",
+                "score": 0.2180027,
+                "excerpt": "Mean Time (GMT)\nContent of the request (specific page)\nAccess status / HTTP status code\nAmount of data transferred in each case\nWebsite from which the request came\nBrowser\nOperating system and its interface\nLanguage and version of the browser software\nThe purpose of this processing is the retrievability of our app from your device and to enable a correct display of our app on your device or in your browser. Furthermore, we use the data to optimise our app and to ensure the security of our system...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "66afd2afb78507179e1289ea7f8f393c3140d96164a1ec04b8f3691637fb3c5d",
+                "score": 0.21076629,
+                "excerpt": "Privacy Policy\nWelcome to Genau, we, GenauStudio, appreciate your interest in our apps. We attach great importance to protecting your data and safeguarding your privacy. We would like to explain below which data we process, when and for what purpose and on what legal basis.\nThis privacy policy contains information about our data protection provisions and measures as well as the rights to which you are entitled within the framework of the German Federal Data Protection Act (BDSG), and the EU`s Ge...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "d7e4c7f87593ae2e8cf14533e3609c245545f9a017fe6e56b065541609b89250",
+                "score": 0.19837458,
+                "excerpt": "data to ensure stability and security for you.\nThe data is stored by us for 30 days. The recipient of the data is our server host, who works for us within the framework of an order data agreement.\nWhat data is processed when using our app?\nWhen you install our app, the data required for the start-up is collected and processed. This is the data that you agreed to the collection of, insofar as you have granted the corresponding authorisations (such as GPS data) to the respective operator of the Ap...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f91722ce1ae7e412dff728cd93026540a2f8afac9095b58b58f1abee1935a866",
+                "score": 0.09859886,
+                "excerpt": "Hollyhill Industrial Estate, Hollyhill Ln, Knocknaheeney, Cork, Ireland, to install our app.\nAs far as we are aware, Apple collects and processes the following data;\ndevice identifiers,\nIP addresses\nIt cannot be excluded that Apple also transmits the information to a server in a third country. This could in particular be Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014. We cannot influence which personal data Apple processes with your registration and the provision of downloads i...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6448851631,
+            "url": "https://www.genaufactory.com/genau-data-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by deactivating the push service in the respective system settings of the operating system of their device.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can prevent their data from being processed further by deactivating the push service in the system settings of their device, indicating the ability to opt out of data collection.",
+            "reference": "You can prevent your data from being processed further by deactivating the push service in the respective system settings of the operating system of your device. URL: https://www.genaufactory.com/genau-data-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "bc8221ada4980cfb63956261da40e7fbfb30206c1c62913b8455628c93cf1816",
+                "score": 0.72036827,
+                "excerpt": "the right to object. You can prevent your data from being processed further by deactivating the push service in the respective system settings of the operating system of your device.\nNetwork access\nThe legal basis for this data processing is Art. 6 para. 1 lit. b) GDPR. Your data will be treated confidentially by us and deleted if you revoke the rights to use it or it is no longer required to provide the services and there is no legal obligation to retain it. The provision of personal data is ne...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "e7bd2e2291bf729c948a8ee70635bac8e4c75d7e2eac568d9a128785821e433b",
+                "score": 0.49266866,
+                "excerpt": "have the option of contacting us. If you contact us by e-mail, we will process in particular your e-mail address, the time of the e-mail and the data resulting from the message text (including attachments, if applicable). The purpose of processing the above-mentioned data is to process the contact enquiry and to be able to contact the enquirer in order to respond to the request. The legal basis for the processing of personal data described here is Art. 6 (1) f GDPR. Our legitimate interest is to...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "7eaa0fe607d9963b818f5c4f5edaafc3b069738a7995332c123c7ecf3ae5a648",
+                "score": 0.2893717,
+                "excerpt": "you consent to the processing of data about you by Google in the manner and for the purposes set out above.\nThe legal basis for the processing of personal data described here is Art. 6 (1) f GDPR. Our necessary legitimate interest lies in the great benefit that the functions described above have for our offer. With the service, we open up the possibility for you to experience the same personalised experience on all devices and thus enable you to better use and inform yourself through our app.\nAs...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "014035d43c409c4884a35bc8ae43571c635c12c2a9caaa732c309d128390b06f",
+                "score": 0.061199225,
+                "excerpt": "in our internal processes may make it necessary to amend this privacy policy. In the event of such a change, we will inform you of this in our privacy policy.\nData subject rights\nIn principle, you have the following rights:\nRight to information (Art. 15 GDPR).\nRight to rectification (Art. 16 GDPR)\nRight to object (Art. 21 GDPR)\nRight to erasure (Art. 17 GDPR)\nRight to restriction of processing (Art. 18f. GDPR)\nRight to data portability (Art. 20 GDPR)\nFor requests of this nature, please contact u...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f8a22eb75a959e5308056ac069c33a31f4bb1f2bbe7661b298796269456ceb96",
+                "score": 0.047161866,
+                "excerpt": "necessary for the conclusion of a contract. You are also not obliged to provide the personal data. However, failure to provide the data could result in you not being able to use our app or not being able to use it to its full extent. The legal basis for this data processing is Art. 6 para. 1 lit. a) GDPR.\nPush messages\nThe legal basis for Push messages is Art. 6 para. 1 lit. f) GDPR. A push service is used to provide you with useful tips and information directly on your mobile device or similar ...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6448851631,
+            "url": "https://www.genaufactory.com/genau-data-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that data can be shared with third parties bound by professional secrecy. This implies that the app may indeed share data with third parties.",
+            "reference": "we involve third parties bound to professional secrecy to enforce our claims. URL: https://www.genaufactory.com/genau-data-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f92d97d953426cd518f801093216844e712b71ea1903813deaf5982b27b1f115",
+                "score": 0.9394706,
+                "excerpt": "to disclose data (information to law enforcement agencies and courts; information to public bodies that receive data on the basis of statutory provisions, e.g., social insurance institutions, tax authorities, etc.) or we involve third parties bound to professional secrecy to enforce our claims.\nAre you obliged to provide personal data?\nIf you use the services offered by our app and wish to use the full range of functions of the app, you must provide the personal data that is required for the res...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f91722ce1ae7e412dff728cd93026540a2f8afac9095b58b58f1abee1935a866",
+                "score": 0.72894126,
+                "excerpt": "Hollyhill Industrial Estate, Hollyhill Ln, Knocknaheeney, Cork, Ireland, to install our app.\nAs far as we are aware, Apple collects and processes the following data;\ndevice identifiers,\nIP addresses\nIt cannot be excluded that Apple also transmits the information to a server in a third country. This could in particular be Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014. We cannot influence which personal data Apple processes with your registration and the provision of downloads i...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "9dc7a0f3af3d91c0c3369a645c9e0bf30f375b152ef1555a6ff5367dec4838e4",
+                "score": 0.66508436,
+                "excerpt": "these third-party providers and also consents to certain data from the respective profiles of the user being transferred to Genau Apps.\nUse of Google SDK / Google Firebase / Google Analytics\nWe use the developer platform Google Firebase and the associated functions and services of Google LLC (\"Google\"), 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and Google Ireland Limited (\"Google\"), Gordon House, Barrow Street, Dublin 4, Ireland. Google Firebase is a platform for developers of apps...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "5ff2eb17f775d51bcab9336342baf71ebf39a12192bd018bccb451f5ee7b79ff",
+                "score": 0.5413483,
+                "excerpt": "by Google LLC or by Google Ireland Limited, depending on the location from which this application is accessed. To facilitate the sign-in and authentication process, Firebase Authentication may use third party identity services and store the information on their platform.\nWe use Google's service to store information on a user-by-user basis in Firebase Authentication. Knowing a user's identity allows our app to store user data securely in the cloud and provide you with the same personalised experi...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "1de4ddd82d94147a5bd676b1a4de3d1033ea0439140e03dcdd41ee07bae16191",
+                "score": 0.42847255,
+                "excerpt": "be downloaded from the app stores \"Google Playstore\" and \"Apple App Store\". Downloading our app may require prior registration with the respective app store and installation of the app store software.\nApp installation via the Google Playstore\nYou can use the Google service \"Google Play\" of Google Ireland Limited (\"Google\"), Gordon House, Barrow Street, Dublin 4, Ireland, to install our app.\nAs far as we are aware, Google collects and processes the following data;\nLicense check,\nnetwork access,\nn...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6448851631,
+            "url": "https://www.genaufactory.com/genau-data-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Google LLC, Google Ireland Limited, and Apple Inc.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Google LLC",
+                        "Google Ireland Limited",
+                        "Apple Inc."
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with Google and Apple. This indicates that the app shares data with Google LLC, Google Ireland Limited, and Apple Inc.",
+            "reference": "Google LLC, Google Ireland Limited, Apple Inc. URL: https://www.genaufactory.com/genau-data-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f92d97d953426cd518f801093216844e712b71ea1903813deaf5982b27b1f115",
+                "score": 0.91212356,
+                "excerpt": "to disclose data (information to law enforcement agencies and courts; information to public bodies that receive data on the basis of statutory provisions, e.g., social insurance institutions, tax authorities, etc.) or we involve third parties bound to professional secrecy to enforce our claims.\nAre you obliged to provide personal data?\nIf you use the services offered by our app and wish to use the full range of functions of the app, you must provide the personal data that is required for the res...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "9dc7a0f3af3d91c0c3369a645c9e0bf30f375b152ef1555a6ff5367dec4838e4",
+                "score": 0.5787458,
+                "excerpt": "these third-party providers and also consents to certain data from the respective profiles of the user being transferred to Genau Apps.\nUse of Google SDK / Google Firebase / Google Analytics\nWe use the developer platform Google Firebase and the associated functions and services of Google LLC (\"Google\"), 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA and Google Ireland Limited (\"Google\"), Gordon House, Barrow Street, Dublin 4, Ireland. Google Firebase is a platform for developers of apps...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "f91722ce1ae7e412dff728cd93026540a2f8afac9095b58b58f1abee1935a866",
+                "score": 0.57630354,
+                "excerpt": "Hollyhill Industrial Estate, Hollyhill Ln, Knocknaheeney, Cork, Ireland, to install our app.\nAs far as we are aware, Apple collects and processes the following data;\ndevice identifiers,\nIP addresses\nIt cannot be excluded that Apple also transmits the information to a server in a third country. This could in particular be Apple Inc. One Apple Park Way, Cupertino, California, USA, 95014. We cannot influence which personal data Apple processes with your registration and the provision of downloads i...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "5ff2eb17f775d51bcab9336342baf71ebf39a12192bd018bccb451f5ee7b79ff",
+                "score": 0.47615337,
+                "excerpt": "by Google LLC or by Google Ireland Limited, depending on the location from which this application is accessed. To facilitate the sign-in and authentication process, Firebase Authentication may use third party identity services and store the information on their platform.\nWe use Google's service to store information on a user-by-user basis in Firebase Authentication. Knowing a user's identity allows our app to store user data securely in the cloud and provide you with the same personalised experi...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            },
+            {
+                "id": "bfc348966c31e0a7340cd95150a6a4e3e092016788318528cae45be7c2748bbc",
+                "score": 0.26038948,
+                "excerpt": "6 (1) f GDPR. Our necessary legitimate interest lies in the great benefit that the functions described above have for our offer. The use of Google Firebase Firestore gives us the opportunity to provide you with better use and information through our app.\nAs part of the order processing, Google is entitled to use subcontractors. A list of these subcontractors can be found at https://privacy.google.com/businesses/subprocessors/.\nYou have a right to object. You can prevent your data from being proc...",
+                "url": "https://www.genaufactory.com/genau-data-privacy"
+            }
+        ]
+    }
+]

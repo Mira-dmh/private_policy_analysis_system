@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1613079261,
+      "url": "http://www.plusscommunities.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. At or before the time of collecting personal information, a clear statement is provided explaining who is collecting the information, the purpose of the collection, how the information will be used and disclosed, and whether it may be transferred outside of Australia or New Zealand.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app ensures transparency in data collection practices.",
+          "content": "A clear statement is provided at or before the time of collection, detailing the collector, purpose, usage, and potential transfer of information."
+        }
+      },
+      "analysis": "",
+      "reference": "How we collect and hold personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1613079261,
+      "url": "http://www.plusscommunities.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including contact information (such as names, telephone numbers, postal addresses, and email addresses), app user account information (such as username and password), images uploaded by users (including any personal information in the metadata of those images), and any other personal information submitted by users.",
+        "simple_answer": "The app collects contact information, user account information, uploaded images, and other personal information.",
+        "extended_simple_answer": {
+          "comment": "The types of data collected are essential for user engagement and support.",
+          "content": "Contact information, app user account information, images uploaded through the app, and any other personal information submitted."
+        }
+      },
+      "analysis": "",
+      "reference": "The types of information we collect and hold"
+    }
+  },
+  {
+    "meta": {
+      "id": 1613079261,
+      "url": "http://www.plusscommunities.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. At or before the time of collecting personal information, a clear statement is provided explaining who is collecting the information, the purpose of the collection, how the information will be used and disclosed, and whether it may be transferred outside of Australia or New Zealand.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy ensures transparency regarding data collection.",
+          "content": "A clear statement is provided at or before the time of collection, detailing the purpose and use of the information."
+        }
+      },
+      "analysis": "",
+      "reference": "How we collect and hold personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1613079261,
+      "url": "http://www.plusscommunities.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that personal information is collected at various points and that users have rights regarding their personal information, including the ability to complain if they are not satisfied with how their privacy concerns are handled. The policy implies that users may have some control over their data, but specific opt-out or deletion processes are not detailed.",
+        "simple_answer": "The policy does not explicitly mention an opt-out or data deletion process.",
+        "extended_simple_answer": {
+          "comment": "While the policy outlines rights regarding personal information, it lacks specific details on opting out or deleting data.",
+          "content": "Users have rights to complain about privacy concerns, but the policy does not provide a clear mechanism for opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The absence of explicit information on opting out or deleting data suggests that users may need to contact the Privacy Officer for clarification on their rights and options regarding their personal information.",
+      "reference": "The types of information we collect and hold; Your Rights"
+    }
+  },
+  {
+    "meta": {
+      "id": 1613079261,
+      "url": "http://www.plusscommunities.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share personal information with third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Disclosure to third parties will only occur if it is necessary to protect or enforce legal rights, prevent a serious threat to health or safety, required by law, or permitted by another exception in the Privacy Act. Consent will be obtained for other purposes.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "The app has specific conditions under which it can share data with third parties.",
+          "content": "Personal information may be disclosed to third parties if necessary for the primary purpose of collection, for related secondary purposes, to protect legal rights, prevent serious threats, or as required by law. Consent is required for other uses."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the circumstances under which personal information may be shared with third parties, emphasizing the need for consent in cases outside of those specified.",
+      "reference": "Purposes for which we collect, hold, use and disclose personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1613079261,
+      "url": "http://www.plusscommunities.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose personal information to third parties if it is necessary for the primary purpose of collecting the information, or for a related secondary purpose that could be reasonably expected. Additionally, personal information may be disclosed to relevant government entities. However, specific third parties are not named in the policy.",
+        "simple_answer": "The app may share data with relevant government entities and third parties necessary for the primary purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The policy does not specify individual third parties.",
+          "content": "Data may be shared with third parties necessary for the primary purpose of collection or with relevant government entities."
+        }
+      },
+      "analysis": "The privacy policy outlines that data sharing occurs primarily for operational purposes and compliance with legal requirements, but does not provide a detailed list of specific third parties.",
+      "reference": "Purposes for which we collect, hold, use and disclose personal information"
+    }
+  }
+]

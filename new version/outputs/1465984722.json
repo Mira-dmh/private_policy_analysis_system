@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 1465984722,
+            "url": "https://www.checkingin.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of Personal Information by CheckingIn.",
+            "reference": "In this policy, we explain what Personal Information we collect from Users, and how we use, share, and manage it. For the purposes of this policy “User” means, as the case may be, any user of CheckingIn’s Apps... This policy is intended to establish responsible and transparent practices for the management of Personal Information... URL: https://www.checkingin.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fba86be2926e85ce64736469db14af5264ede409e471e3296090f70089c6a8e4",
+                "score": 0.08195955,
+                "excerpt": "legal requirements. This policy sets out the standards, responsibilities and obligations of CheckingIn in respect of any Personal Information collected, accessed or processed by CheckingIn in the course of its business operations\nPlease note that when you visit our websites, use our Apps, sign up for, participate in or purchase a specific product, service, program, contest, promotion or event available through CheckingIn, additional terms and conditions may be provided regarding the collection, ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "3793e6b0ad34043ac2d368e422fa5d8d63457a7b34196017556f43f992d0072e",
+                "score": 0.03044435,
+                "excerpt": "Last update: March 21, 2024\n1. Scope & Interpretation\nThis Privacy Policy (the “policy”) applies to CheckingIn Software Ltd. (“CheckingIn”), its affiliates and to websites and computer applications running on mobile devices (“Apps”) operated by CheckingIn and such affiliates and subsidiaries. All references in this policy to “CheckingIn” and to “us”, “we”, or “our” refer to all or any of the foregoing.\nIn this policy, we explain what Personal Information we collect from Users, and how we use, sh...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "dc112368a3785504c76aca4583d3eb58131466ce137b605f2e1118f9ef013856",
+                "score": 0.013584392,
+                "excerpt": "through your usage of our Apps to our Customer in an anonymized fashion. All such data is anonymized and no such information regarding your usage of our Apps will ever be shared on an individual or personalized level. As such, anonymized usage data will not be considered Personal Information for the purposes of this policy. CheckingIn’s use or sharing of such data shall be governed in accordance with CheckingIn’s Terms of Use. Canadian law permits or requires the use or sharing of Personal Infor...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "294e9fd1ce587c39c7918bb7b36c16b0e7af9301d74f9cf7b2aa5f100a9c5508",
+                "score": 0.00685048,
+                "excerpt": "as a credit card, or are participating in a contest, promotion or event, that is offered by a third party together with CheckingIn, you may also have to provide your consent preferences or withdraw your consent with that third party separately.\nPlease note that it may take some time for all of our records to reflect changes in your preferences. For example, if you request that you not receive personalized marketing communications from CheckingIn, your preference may not be captured for a promoti...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "ac4559ee5e8b76a5093759b68846b5ae07d9016aa2ac5082e7508c47375c8f98",
+                "score": 0.0062170783,
+                "excerpt": "through our Apps or websites or in any other direct manner.\n2. Through a Customer: A Customer of CheckingIn may provide Personal information to us through that group or organization.\n3. Through technology: We may collect Personal Information and non-personal information through various technologies directly from you or your group or organization. For instance, we may access Personal Information about you when you interact with us electronically such as through our information technology systems,...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1465984722,
+            "url": "https://www.checkingin.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Personal Information, non-personal information, user and usage data, type of device, IP address, operating system, website or ad interaction data, search terms",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal Information",
+                        "non-personal information",
+                        "user and usage data",
+                        "type of device",
+                        "IP address",
+                        "operating system",
+                        "website or ad interaction data",
+                        "search terms"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app collects various types of data, including personal information, non-personal information, user and usage data, device information, IP address, operating system, website interaction data, and search terms.",
+            "reference": "we may store Personal Information and non-personal information, such as your name, email address, location and language preference...which search terms were used, to help us optimize...URL: https://www.checkingin.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "41894d0bfb43a4bf396fa2dd8a400bb8193bc91696287cbc747814638082101d",
+                "score": 0.055515114,
+                "excerpt": "or computer, cookies, web beacons, single-pixel gifs and other technologies to help us collect and store Personal Information or non-personal information about you or to enable us to present offers to you, including interest-based ads. These technologies are used to help us understand what actions you take on our own and on third parties’ websites. For instance, we may store Personal Information and non-personal information, such as your name, email address, location and language preference, on ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "ac4559ee5e8b76a5093759b68846b5ae07d9016aa2ac5082e7508c47375c8f98",
+                "score": 0.05439932,
+                "excerpt": "through our Apps or websites or in any other direct manner.\n2. Through a Customer: A Customer of CheckingIn may provide Personal information to us through that group or organization.\n3. Through technology: We may collect Personal Information and non-personal information through various technologies directly from you or your group or organization. For instance, we may access Personal Information about you when you interact with us electronically such as through our information technology systems,...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "294e9fd1ce587c39c7918bb7b36c16b0e7af9301d74f9cf7b2aa5f100a9c5508",
+                "score": 0.020293485,
+                "excerpt": "as a credit card, or are participating in a contest, promotion or event, that is offered by a third party together with CheckingIn, you may also have to provide your consent preferences or withdraw your consent with that third party separately.\nPlease note that it may take some time for all of our records to reflect changes in your preferences. For example, if you request that you not receive personalized marketing communications from CheckingIn, your preference may not be captured for a promoti...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "19e8b5f5df12e8c002d97858dd7dc7a2f1f6e0dd4f98d2bf98b3dd6960629622",
+                "score": 0.018797074,
+                "excerpt": "such purposes as much as possible); and\nManaging and facilitating the use of our websites and mobile applications, which may include using cookies and other similar technology.\nWe use third-party use cookies, web beacons and other site-related technologies for various purposes including session management, traffic monitoring, personalization, transactions (e.g. credit card sales), marketing or promotional purposes, to better understand which web, mobile or other electronic features you use, or t...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "fba86be2926e85ce64736469db14af5264ede409e471e3296090f70089c6a8e4",
+                "score": 0.010489091,
+                "excerpt": "legal requirements. This policy sets out the standards, responsibilities and obligations of CheckingIn in respect of any Personal Information collected, accessed or processed by CheckingIn in the course of its business operations\nPlease note that when you visit our websites, use our Apps, sign up for, participate in or purchase a specific product, service, program, contest, promotion or event available through CheckingIn, additional terms and conditions may be provided regarding the collection, ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1465984722,
+            "url": "https://www.checkingin.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The privacy policy mentions that the purpose for which Personal Information will be used is typically identified at or before the time the Personal Information is collected, and the use of Personal Information is limited to the purposes described in the policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app identifies the purpose for which Personal Information will be used, and the use of Personal Information is restricted to the purposes specified in the policy.",
+            "reference": "We identify the purpose for which Personal Information will be used typically at or before the time the Personal Information is collected. Our use of Personal Information is limited to the purposes described in this policy. URL: https://www.checkingin.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "b157227b8b44f25f5cb15b3e18fa0aa7f1f85ad45bc4a59728bcf766e8e6f4f3",
+                "score": 0.3165805,
+                "excerpt": "sites and the Internet.\n6. How We Use Personal Information – Purposes\nWe identify the purpose for which Personal Information will be used typically at or before the time the Personal Information is collected. Our use of Personal Information is limited to the purposes described in this policy, the purposes set out in the terms and conditions of any product, service, program, contest, promotion or event in connection with which Personal Information was collected, purposes required by law and purpo...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "17a3cdf91b8590a3145489a02a0de995fe4f4f811e09b661b845da076aed9e1a",
+                "score": 0.073963374,
+                "excerpt": "to our websites.\nYou may delete or disable certain of these technologies, such as cookies, at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites.\nIf you choose to download or use our Apps, we may receive Personal Information and non-personal information such as a unique identifier for your device. Most devices, tablets and browsers allow you to turn off the tracking of your location. However, if you do so, you may not be able to use ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "9e508f9de36785172d66a4578e9921819c5faeafd2d0a08d92a6bf70cc7b52c3",
+                "score": 0.05781161,
+                "excerpt": "the collection, use and sharing of Personal Information by Customers as those entities will have their own policies which will apply to such collection, use and sharing of Personal Information. However, if we receive from a Customer Personal Information or non-personal information that we link to Personal Information, then this policy will apply to the collection, use and sharing of that information by CheckingIn.\n“Personal Information” as used in this policy means information about an identifia...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "ac4559ee5e8b76a5093759b68846b5ae07d9016aa2ac5082e7508c47375c8f98",
+                "score": 0.05419873,
+                "excerpt": "through our Apps or websites or in any other direct manner.\n2. Through a Customer: A Customer of CheckingIn may provide Personal information to us through that group or organization.\n3. Through technology: We may collect Personal Information and non-personal information through various technologies directly from you or your group or organization. For instance, we may access Personal Information about you when you interact with us electronically such as through our information technology systems,...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "19e8b5f5df12e8c002d97858dd7dc7a2f1f6e0dd4f98d2bf98b3dd6960629622",
+                "score": 0.050611433,
+                "excerpt": "such purposes as much as possible); and\nManaging and facilitating the use of our websites and mobile applications, which may include using cookies and other similar technology.\nWe use third-party use cookies, web beacons and other site-related technologies for various purposes including session management, traffic monitoring, personalization, transactions (e.g. credit card sales), marketing or promotional purposes, to better understand which web, mobile or other electronic features you use, or t...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1465984722,
+            "url": "https://www.checkingin.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the ability to delete or disable certain technologies such as cookies at any time through their browser. This indicates that users can opt-out of data collection.",
+            "reference": "You may delete or disable certain of these technologies, such as cookies, at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites. URL: https://www.checkingin.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "17a3cdf91b8590a3145489a02a0de995fe4f4f811e09b661b845da076aed9e1a",
+                "score": 0.16572809,
+                "excerpt": "to our websites.\nYou may delete or disable certain of these technologies, such as cookies, at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites.\nIf you choose to download or use our Apps, we may receive Personal Information and non-personal information such as a unique identifier for your device. Most devices, tablets and browsers allow you to turn off the tracking of your location. However, if you do so, you may not be able to use ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "41894d0bfb43a4bf396fa2dd8a400bb8193bc91696287cbc747814638082101d",
+                "score": 0.14780103,
+                "excerpt": "or computer, cookies, web beacons, single-pixel gifs and other technologies to help us collect and store Personal Information or non-personal information about you or to enable us to present offers to you, including interest-based ads. These technologies are used to help us understand what actions you take on our own and on third parties’ websites. For instance, we may store Personal Information and non-personal information, such as your name, email address, location and language preference, on ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "321137aa19cb4546d45b3318f7ecb38ecab3c48117d01c135eaf41b20fa8d681",
+                "score": 0.02806074,
+                "excerpt": "Personal Information.\nUnless permitted or required by law, CheckingIn will not collect, use or share Personal Information without first obtaining consent. We will obtain consent when we want to use Personal Information for a new purpose or for a purpose other than those stated at the time of collection, in this policy or in the terms and conditions of a specific product, service, program, contest, promotion or event you signed up for, participated in or purchased.\nConsent can be “express” throug...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "df7adb60ca348ff291c472ca5bceab3b188cff3fa689bf439f7e953a5e14e3ad",
+                "score": 0.025035424,
+                "excerpt": "Information\nWe actively retain Personal Information only as long as it is required for our relationship and a certain period of time afterwards to respond to queries or as required by federal and provincial laws. When this period ends, Personal Information is scheduled for destruction according to our record retention policies. Depending on the nature of the Personal Information and the purpose for which it was collected, this schedule may vary.\nWhere We Keep, Use Personal Information\nIn general...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "294e9fd1ce587c39c7918bb7b36c16b0e7af9301d74f9cf7b2aa5f100a9c5508",
+                "score": 0.022759154,
+                "excerpt": "as a credit card, or are participating in a contest, promotion or event, that is offered by a third party together with CheckingIn, you may also have to provide your consent preferences or withdraw your consent with that third party separately.\nPlease note that it may take some time for all of our records to reflect changes in your preferences. For example, if you request that you not receive personalized marketing communications from CheckingIn, your preference may not be captured for a promoti...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1465984722,
+            "url": "https://www.checkingin.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares Personal Information about users with other organizations outside of CheckingIn to provide products, services, programs, promotions, or help with business operations. This sharing includes sub-contractors, third party service providers, and other organizations that assist in improving products and services. However, the app limits the use of Personal Information and requires appropriate safeguards for protection.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app may share Personal Information with external organizations to support various aspects of its business, ensuring limitations on use and protective measures.",
+            "reference": "We may share Personal Information about you with other organizations outside of CheckingIn that help CheckingIn provide products, services, programs, promotions, contests or events or help us with our business operations. These other organizations may include sub-contractors, third party service providers, third parties that offer products, services, programs, promotions, contests or events under one of our brands, or organizations that help us improve our products, services, programs, promotions, contests or events as well as our business and technology systems, procedures and infrastructure. When CheckingIn shares Personal Information with any such party, we limit the use of such Personal Information to tho... URL: https://www.checkingin.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "c35171d65eebc8a29795bf4eee783978b94842e16b9a20769d7bd84dae3a673b",
+                "score": 0.8624676,
+                "excerpt": "provided in every commercial electronic message we send, or you can send an email to hello@checkingin.co for assistance. 9. How We Share Personal Information\nWe may share Personal Information about you with other organizations outside of CheckingIn that help CheckingIn provide products, services, programs, promotions, contests or events or help us with our business operations. These other organizations may include sub-contractors, third party service providers, third parties that offer products,...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "034a87051f7eff488537c336605cfe35f149d9a0e7a591e2d1612cbfd910e76d",
+                "score": 0.8155265,
+                "excerpt": "and fraud; and\nProcessing your transactions or contacting you about special\noffers;\nIn the event you are a part of a group or organization that is a Customer of CheckingIn, we may use or and share data you provide through your usage of our Apps to our Customer in an anonymized fashion. All such data is anonymized and no such information regarding your usage of our Apps will ever be shared on an individual or personalized level. As such, anonymized usage data will not be considered Personal Infor...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "17a3cdf91b8590a3145489a02a0de995fe4f4f811e09b661b845da076aed9e1a",
+                "score": 0.61474097,
+                "excerpt": "to our websites.\nYou may delete or disable certain of these technologies, such as cookies, at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites.\nIf you choose to download or use our Apps, we may receive Personal Information and non-personal information such as a unique identifier for your device. Most devices, tablets and browsers allow you to turn off the tracking of your location. However, if you do so, you may not be able to use ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "dc112368a3785504c76aca4583d3eb58131466ce137b605f2e1118f9ef013856",
+                "score": 0.44113123,
+                "excerpt": "through your usage of our Apps to our Customer in an anonymized fashion. All such data is anonymized and no such information regarding your usage of our Apps will ever be shared on an individual or personalized level. As such, anonymized usage data will not be considered Personal Information for the purposes of this policy. CheckingIn’s use or sharing of such data shall be governed in accordance with CheckingIn’s Terms of Use. Canadian law permits or requires the use or sharing of Personal Infor...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "294e9fd1ce587c39c7918bb7b36c16b0e7af9301d74f9cf7b2aa5f100a9c5508",
+                "score": 0.2635994,
+                "excerpt": "as a credit card, or are participating in a contest, promotion or event, that is offered by a third party together with CheckingIn, you may also have to provide your consent preferences or withdraw your consent with that third party separately.\nPlease note that it may take some time for all of our records to reflect changes in your preferences. For example, if you request that you not receive personalized marketing communications from CheckingIn, your preference may not be captured for a promoti...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1465984722,
+            "url": "https://www.checkingin.co/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with sub-contractors, third party service providers, third parties offering products or services, and organizations assisting in improving products, services, programs, promotions, contests, events, and business operations.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "sub-contractors",
+                        "third party service providers",
+                        "third parties offering products or services",
+                        "organizations assisting in improving products, services, programs, promotions, contests, events, and business operations"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app shares data with various third parties, including sub-contractors, service providers, and organizations helping with business operations.",
+            "reference": "We may share Personal Information about you with other organizations outside of CheckingIn that help CheckingIn provide products, services, programs, promotions, contests or events or help us with our business operations. These other organizations may include sub-contractors, third party service providers, third parties that offer products, services, programs, promotions, contests or events under one of our brands, or organizations that help us improve our products, services, programs, promotions, contests or events as well as our business and technology systems... URL: https://www.checkingin.co/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "c35171d65eebc8a29795bf4eee783978b94842e16b9a20769d7bd84dae3a673b",
+                "score": 0.8949732,
+                "excerpt": "provided in every commercial electronic message we send, or you can send an email to hello@checkingin.co for assistance. 9. How We Share Personal Information\nWe may share Personal Information about you with other organizations outside of CheckingIn that help CheckingIn provide products, services, programs, promotions, contests or events or help us with our business operations. These other organizations may include sub-contractors, third party service providers, third parties that offer products,...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "034a87051f7eff488537c336605cfe35f149d9a0e7a591e2d1612cbfd910e76d",
+                "score": 0.7187918,
+                "excerpt": "and fraud; and\nProcessing your transactions or contacting you about special\noffers;\nIn the event you are a part of a group or organization that is a Customer of CheckingIn, we may use or and share data you provide through your usage of our Apps to our Customer in an anonymized fashion. All such data is anonymized and no such information regarding your usage of our Apps will ever be shared on an individual or personalized level. As such, anonymized usage data will not be considered Personal Infor...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "17a3cdf91b8590a3145489a02a0de995fe4f4f811e09b661b845da076aed9e1a",
+                "score": 0.6003055,
+                "excerpt": "to our websites.\nYou may delete or disable certain of these technologies, such as cookies, at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites.\nIf you choose to download or use our Apps, we may receive Personal Information and non-personal information such as a unique identifier for your device. Most devices, tablets and browsers allow you to turn off the tracking of your location. However, if you do so, you may not be able to use ...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "dc112368a3785504c76aca4583d3eb58131466ce137b605f2e1118f9ef013856",
+                "score": 0.3309035,
+                "excerpt": "through your usage of our Apps to our Customer in an anonymized fashion. All such data is anonymized and no such information regarding your usage of our Apps will ever be shared on an individual or personalized level. As such, anonymized usage data will not be considered Personal Information for the purposes of this policy. CheckingIn’s use or sharing of such data shall be governed in accordance with CheckingIn’s Terms of Use. Canadian law permits or requires the use or sharing of Personal Infor...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            },
+            {
+                "id": "b157227b8b44f25f5cb15b3e18fa0aa7f1f85ad45bc4a59728bcf766e8e6f4f3",
+                "score": 0.2712517,
+                "excerpt": "sites and the Internet.\n6. How We Use Personal Information – Purposes\nWe identify the purpose for which Personal Information will be used typically at or before the time the Personal Information is collected. Our use of Personal Information is limited to the purposes described in this policy, the purposes set out in the terms and conditions of any product, service, program, contest, promotion or event in connection with which Personal Information was collected, purposes required by law and purpo...",
+                "url": "https://www.checkingin.co/privacy-policy/"
+            }
+        ]
+    }
+]

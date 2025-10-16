@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1436471710,
+            "url": "https://www.neeuro.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data is collected when users interact with the app for various reasons.",
+            "reference": "Neeuro collects personal data about you when you: (i) register for an account on our applications, (ii) use our products, (iii) sign up for our newsletter, (iv) online purchase, (v) communicates with us, or/and (vi) Neeuro’s programs. URL: https://www.neeuro.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5e297ef637789dda7f02f0f71209aa3f68ba3dc728aa7e9a582e90186fc49cc2",
+                "score": 0.0705596,
+                "excerpt": "links to other websites and microsites, whose privacy practices may differ from those of Neeuro. If you submit personal data to any of those sites, your personal data is not subject to this privacy policy. Links can be from content providers or/and partners who may use our logo or/and style as a result of a co-branding agreement yet they may still not follow the same policies as this privacy policy with respect to collection of your personal data.\nSome parts of our applications may include socia...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "2d99ea0a4dea015f34920f9fb5edb2a855ca5ec13ad1907b25b6536ea02880dc",
+                "score": 0.032528225,
+                "excerpt": "of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. After this time, your personal data will either be securely deleted or anonymised (so that it can no longer be associated with you) so that it can be used for analytical purposes.\n10. CHILDREN’S PRIVACY\nNeeuro mobile applications and programs are appropriate for children’s use, including those who are below 14 years of a...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "90dd7535440c931226f9f7dbf05962dd862b035315fcac2db8e18bb683915a9c",
+                "score": 0.02479816,
+                "excerpt": "Your privacy is important to Neeuro Pte. Ltd. (“Neeuro”, “we”, “us”, or “our”), a company registered in Singapore, Co. Registration No: 201302274H (“Neeuro”) and we are committed to protect the privacy of our users.\nThis Privacy Policy applies to all Neeuro products, mobile applications, warranty registration, services, programs, and websites, including the Neeuro SenzeBand (in all its models) and associated mobile software, the Neeuro Enterprise portal, and Neeuro website located at www.neeuro....",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "e7a435e42969ef2ba0a19d23c6f194c71371eda91b68f859674c6c2fce0cf71f",
+                "score": 0.01784874,
+                "excerpt": "of 2012)(“Act”).\nNeeuro collects personal data about you when you: (i) register for an account on our applications, (ii) use our products, (iii) sign up for our newsletter, (iv) online purchase, (v) communicates with us, or/and (vi) Neeuro’s programs. The personal data we collect consists of the following:\nUsing our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are generated for you as part of your engagement with Neeuro’s ...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "93a38756ba5c2c841f4e3c45fb6f442638bcfa9b3e353b1a008a42e5197d051c",
+                "score": 0.014899643,
+                "excerpt": "by us or on our behalf. Such information may include payment information credit card number, account authentication information and contact information like your full name, billing and shipping address and email address.\nWe received personal data about you when you use the services of our business partners, such as companies featured on our News page.\nWe collect and store your personal data (e.g. name, birth month, birth year, gender, highest education level and geographic region) when you parti...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1436471710,
+            "url": "https://www.neeuro.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data such as name, birth month, birth year, gender, highest education level, geographic region, EEG data (raw recordings, performance data).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Birth month",
+                        "Birth year",
+                        "Gender",
+                        "Highest education level",
+                        "Geographic region",
+                        "EEG data (raw recordings, performance data)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section discussing the collection of personal data and EEG data by the app.",
+            "reference": "We collect and store your personal data (e.g. name, birth month, birth year, gender, highest education level and geographic region) when you participate in Neeuro’s programmes conducted by us and our collaborators.URL: https://www.neeuro.com/privacy-policy/, Using our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are generated for you as part of your engagement with Neeuro’s Services.URL: https://www.neeuro.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "93a38756ba5c2c841f4e3c45fb6f442638bcfa9b3e353b1a008a42e5197d051c",
+                "score": 0.18802562,
+                "excerpt": "by us or on our behalf. Such information may include payment information credit card number, account authentication information and contact information like your full name, billing and shipping address and email address.\nWe received personal data about you when you use the services of our business partners, such as companies featured on our News page.\nWe collect and store your personal data (e.g. name, birth month, birth year, gender, highest education level and geographic region) when you parti...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "e7a435e42969ef2ba0a19d23c6f194c71371eda91b68f859674c6c2fce0cf71f",
+                "score": 0.13869494,
+                "excerpt": "of 2012)(“Act”).\nNeeuro collects personal data about you when you: (i) register for an account on our applications, (ii) use our products, (iii) sign up for our newsletter, (iv) online purchase, (v) communicates with us, or/and (vi) Neeuro’s programs. The personal data we collect consists of the following:\nUsing our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are generated for you as part of your engagement with Neeuro’s ...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "d301aa688faa4b6b753a9b143c797cf0a208676a7154460fd54f27758b387730",
+                "score": 0.102844074,
+                "excerpt": "collect information from a school user.\nThe child’s information that we collect and how we use these are described below:\n(a) Collection of the child’s email address, name, gender, birth month and year, password, country, and level of education for use during child’s registration process and in account configuration to create and maintain the child’s account.\n(b) Using our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are g...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "90dd7535440c931226f9f7dbf05962dd862b035315fcac2db8e18bb683915a9c",
+                "score": 0.0607519,
+                "excerpt": "Your privacy is important to Neeuro Pte. Ltd. (“Neeuro”, “we”, “us”, or “our”), a company registered in Singapore, Co. Registration No: 201302274H (“Neeuro”) and we are committed to protect the privacy of our users.\nThis Privacy Policy applies to all Neeuro products, mobile applications, warranty registration, services, programs, and websites, including the Neeuro SenzeBand (in all its models) and associated mobile software, the Neeuro Enterprise portal, and Neeuro website located at www.neeuro....",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "2d99ea0a4dea015f34920f9fb5edb2a855ca5ec13ad1907b25b6536ea02880dc",
+                "score": 0.049130786,
+                "excerpt": "of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. After this time, your personal data will either be securely deleted or anonymised (so that it can no longer be associated with you) so that it can be used for analytical purposes.\n10. CHILDREN’S PRIVACY\nNeeuro mobile applications and programs are appropriate for children’s use, including those who are below 14 years of a...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1436471710,
+            "url": "https://www.neeuro.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as described in the privacy policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purposes of collecting and using data, ensuring transparency for users.",
+            "reference": "This Privacy Policy applies to all Neeuro products, mobile applications, warranty registration, services, programs, and websites, including the Neeuro SenzeBand and associated software. By continuing to use the products and services, users are deemed to have consented to the terms of the Privacy Policy. URL: https://www.neeuro.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "2d99ea0a4dea015f34920f9fb5edb2a855ca5ec13ad1907b25b6536ea02880dc",
+                "score": 0.120232075,
+                "excerpt": "of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. After this time, your personal data will either be securely deleted or anonymised (so that it can no longer be associated with you) so that it can be used for analytical purposes.\n10. CHILDREN’S PRIVACY\nNeeuro mobile applications and programs are appropriate for children’s use, including those who are below 14 years of a...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "d301aa688faa4b6b753a9b143c797cf0a208676a7154460fd54f27758b387730",
+                "score": 0.09057447,
+                "excerpt": "collect information from a school user.\nThe child’s information that we collect and how we use these are described below:\n(a) Collection of the child’s email address, name, gender, birth month and year, password, country, and level of education for use during child’s registration process and in account configuration to create and maintain the child’s account.\n(b) Using our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are g...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "e7a435e42969ef2ba0a19d23c6f194c71371eda91b68f859674c6c2fce0cf71f",
+                "score": 0.01155267,
+                "excerpt": "of 2012)(“Act”).\nNeeuro collects personal data about you when you: (i) register for an account on our applications, (ii) use our products, (iii) sign up for our newsletter, (iv) online purchase, (v) communicates with us, or/and (vi) Neeuro’s programs. The personal data we collect consists of the following:\nUsing our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are generated for you as part of your engagement with Neeuro’s ...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "90dd7535440c931226f9f7dbf05962dd862b035315fcac2db8e18bb683915a9c",
+                "score": 0.009125637,
+                "excerpt": "Your privacy is important to Neeuro Pte. Ltd. (“Neeuro”, “we”, “us”, or “our”), a company registered in Singapore, Co. Registration No: 201302274H (“Neeuro”) and we are committed to protect the privacy of our users.\nThis Privacy Policy applies to all Neeuro products, mobile applications, warranty registration, services, programs, and websites, including the Neeuro SenzeBand (in all its models) and associated mobile software, the Neeuro Enterprise portal, and Neeuro website located at www.neeuro....",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "0cdefc476c2fa5ec3018d9d4eb508800c67e737ef6bd21199941c62dc97ac043",
+                "score": 0.004810983,
+                "excerpt": "products and services immediately and write to notify us that you wish for us to stop collecting, using or sharing your personal data and we will process your request within a reasonable time from such a request. Please ensure that your notification contains sufficient and specific information to enable us to comply with your request.\nTo unsubscribe from e.g. newsletters or marketing emails you will be able to do so via the “Unsubscribe” link in our email. If you wish to opt out at a later date,...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1436471710,
+            "url": "https://www.neeuro.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can request to stop collecting, using, or sharing their personal data, and there are mechanisms in place for users to opt-out or delete data.",
+            "reference": "Should you wish to withdraw your consent to Neeuro’s use of your personal data, please stop using our products and services immediately and write to notify us that you wish for us to stop collecting, using or sharing your personal data and we will process your request within a reasonable time from such a request. URL: https://www.neeuro.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "0cdefc476c2fa5ec3018d9d4eb508800c67e737ef6bd21199941c62dc97ac043",
+                "score": 0.90747637,
+                "excerpt": "products and services immediately and write to notify us that you wish for us to stop collecting, using or sharing your personal data and we will process your request within a reasonable time from such a request. Please ensure that your notification contains sufficient and specific information to enable us to comply with your request.\nTo unsubscribe from e.g. newsletters or marketing emails you will be able to do so via the “Unsubscribe” link in our email. If you wish to opt out at a later date,...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "d301aa688faa4b6b753a9b143c797cf0a208676a7154460fd54f27758b387730",
+                "score": 0.22832851,
+                "excerpt": "collect information from a school user.\nThe child’s information that we collect and how we use these are described below:\n(a) Collection of the child’s email address, name, gender, birth month and year, password, country, and level of education for use during child’s registration process and in account configuration to create and maintain the child’s account.\n(b) Using our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are g...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "795e74fc44e47b662bf592d6942c83f605bf2f7e8fcda9a1c2a6e48c131ba49b",
+                "score": 0.114566505,
+                "excerpt": "information that we may have collected by referring to section 8 to learn how to request to withdraw consent. The data storage and retention period for children is the same as described in section 9.\nWe value your privacy and are committed to protect the information we receive from you. The personal data we collect about you is kept secure from unauthorized access, use or disclosure. Only authorized employees have access to this information.\nNo security measures are 100% effective and Neeuro can...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "8300c26fce8d96c8f9a04624facb23731c28b7d7460593a61780af600a9c1599",
+                "score": 0.048767094,
+                "excerpt": "cookies on our websites to help you personalise or enhance the functionality of our website, or to analyse visitor traffic for marketing or other purposes. Cookies can make our website more useful by storing information about your preferences, thus enabling us to improve our website. The information that we collect using cookies is non-personal information. Most web browsers are initially set to accept cookies. You are always free to decline our cookies if your browser permits, but please note t...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "2d99ea0a4dea015f34920f9fb5edb2a855ca5ec13ad1907b25b6536ea02880dc",
+                "score": 0.04138472,
+                "excerpt": "of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. After this time, your personal data will either be securely deleted or anonymised (so that it can no longer be associated with you) so that it can be used for analytical purposes.\n10. CHILDREN’S PRIVACY\nNeeuro mobile applications and programs are appropriate for children’s use, including those who are below 14 years of a...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1436471710,
+            "url": "https://www.neeuro.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not sell, trade, or transfer personally identifiable information to third parties, except for authorized third parties who assist in operating the website or conducting business.",
+            "reference": "We do not sell, trade or otherwise transfer to third parties your personally identifiable information. This does not include authorised third parties who assist us in operating our website, applications, conducting our business or servicing you... URL: https://www.neeuro.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5e297ef637789dda7f02f0f71209aa3f68ba3dc728aa7e9a582e90186fc49cc2",
+                "score": 0.7779754,
+                "excerpt": "links to other websites and microsites, whose privacy practices may differ from those of Neeuro. If you submit personal data to any of those sites, your personal data is not subject to this privacy policy. Links can be from content providers or/and partners who may use our logo or/and style as a result of a co-branding agreement yet they may still not follow the same policies as this privacy policy with respect to collection of your personal data.\nSome parts of our applications may include socia...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "93a38756ba5c2c841f4e3c45fb6f442638bcfa9b3e353b1a008a42e5197d051c",
+                "score": 0.31142685,
+                "excerpt": "by us or on our behalf. Such information may include payment information credit card number, account authentication information and contact information like your full name, billing and shipping address and email address.\nWe received personal data about you when you use the services of our business partners, such as companies featured on our News page.\nWe collect and store your personal data (e.g. name, birth month, birth year, gender, highest education level and geographic region) when you parti...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "c1a4c20f06ad006291eab62e1ed91cb46d359cb617d5b7d2ed1a9f33ac72adb9",
+                "score": 0.28110948,
+                "excerpt": "may result because you have released and shared personal data with others.\nWe encourage you to read these third parties’ privacy policies to find out how they collect and process your personal data before you submit any personal data to them. By clicking on such links and leaving the website, we can no longer exercise control over any information you give to any other entity after leaving our website. Any access to such other sites or pages is therefore entirely at your own risk.\nWhere Neeuro ha...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "e7a435e42969ef2ba0a19d23c6f194c71371eda91b68f859674c6c2fce0cf71f",
+                "score": 0.104294725,
+                "excerpt": "of 2012)(“Act”).\nNeeuro collects personal data about you when you: (i) register for an account on our applications, (ii) use our products, (iii) sign up for our newsletter, (iv) online purchase, (v) communicates with us, or/and (vi) Neeuro’s programs. The personal data we collect consists of the following:\nUsing our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are generated for you as part of your engagement with Neeuro’s ...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "d301aa688faa4b6b753a9b143c797cf0a208676a7154460fd54f27758b387730",
+                "score": 0.088504665,
+                "excerpt": "collect information from a school user.\nThe child’s information that we collect and how we use these are described below:\n(a) Collection of the child’s email address, name, gender, birth month and year, password, country, and level of education for use during child’s registration process and in account configuration to create and maintain the child’s account.\n(b) Using our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are g...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1436471710,
+            "url": "https://www.neeuro.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with authorised third parties who assist in operating the website, applications, conducting business, or servicing users.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "authorised third parties who assist in operating the website, applications, conducting business, or servicing users"
+                }
+            },
+            "analysis": "The privacy policy mentions that authorised third parties may help in operating the services, which implies data sharing with these specific third parties for operational purposes.",
+            "reference": "This does not include authorised third parties who assist us in operating our website, applications, conducting our business or servicing you... as long as these parties agree to keep this information confidential. URL: https://www.neeuro.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5e297ef637789dda7f02f0f71209aa3f68ba3dc728aa7e9a582e90186fc49cc2",
+                "score": 0.61103386,
+                "excerpt": "links to other websites and microsites, whose privacy practices may differ from those of Neeuro. If you submit personal data to any of those sites, your personal data is not subject to this privacy policy. Links can be from content providers or/and partners who may use our logo or/and style as a result of a co-branding agreement yet they may still not follow the same policies as this privacy policy with respect to collection of your personal data.\nSome parts of our applications may include socia...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "93a38756ba5c2c841f4e3c45fb6f442638bcfa9b3e353b1a008a42e5197d051c",
+                "score": 0.28328544,
+                "excerpt": "by us or on our behalf. Such information may include payment information credit card number, account authentication information and contact information like your full name, billing and shipping address and email address.\nWe received personal data about you when you use the services of our business partners, such as companies featured on our News page.\nWe collect and store your personal data (e.g. name, birth month, birth year, gender, highest education level and geographic region) when you parti...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "c1a4c20f06ad006291eab62e1ed91cb46d359cb617d5b7d2ed1a9f33ac72adb9",
+                "score": 0.17695588,
+                "excerpt": "may result because you have released and shared personal data with others.\nWe encourage you to read these third parties’ privacy policies to find out how they collect and process your personal data before you submit any personal data to them. By clicking on such links and leaving the website, we can no longer exercise control over any information you give to any other entity after leaving our website. Any access to such other sites or pages is therefore entirely at your own risk.\nWhere Neeuro ha...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "e7a435e42969ef2ba0a19d23c6f194c71371eda91b68f859674c6c2fce0cf71f",
+                "score": 0.0794957,
+                "excerpt": "of 2012)(“Act”).\nNeeuro collects personal data about you when you: (i) register for an account on our applications, (ii) use our products, (iii) sign up for our newsletter, (iv) online purchase, (v) communicates with us, or/and (vi) Neeuro’s programs. The personal data we collect consists of the following:\nUsing our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are generated for you as part of your engagement with Neeuro’s ...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            },
+            {
+                "id": "d301aa688faa4b6b753a9b143c797cf0a208676a7154460fd54f27758b387730",
+                "score": 0.031261913,
+                "excerpt": "collect information from a school user.\nThe child’s information that we collect and how we use these are described below:\n(a) Collection of the child’s email address, name, gender, birth month and year, password, country, and level of education for use during child’s registration process and in account configuration to create and maintain the child’s account.\n(b) Using our products will allow us to collect, store and use EEG data that include raw recordings, scores or performance data that are g...",
+                "url": "https://www.neeuro.com/privacy-policy/"
+            }
+        ]
+    }
+]

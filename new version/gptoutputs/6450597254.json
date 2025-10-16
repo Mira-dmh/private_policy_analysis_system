@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6450597254,
+      "url": "https://reliefmind.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal identification information may be collected from users in various ways, including when users visit the website, register, subscribe to the newsletter, respond to surveys, fill out forms, and engage in other activities.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines various methods through which personal information is collected.",
+          "content": "We may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features, or resources we make available on our Website."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450597254,
+      "url": "https://reliefmind.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal identification information from users, which may include their name, email address, mailing address, and phone number. This information is collected in various ways, such as when users visit the website, register, subscribe to the newsletter, respond to surveys, or fill out forms.",
+        "simple_answer": "The app collects personal identification information like name, email address, mailing address, and phone number.",
+        "extended_simple_answer": {
+          "comment": "The collection of data is voluntary, and users can refuse to provide personal information, although it may limit their ability to engage in certain activities.",
+          "content": "Users may be asked for their name, email address, mailing address, and phone number when they engage with the website."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450597254,
+      "url": "https://reliefmind.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information may be used to personalize user experience, improve the website, and send periodic emails regarding user inquiries and updates.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines specific purposes for collecting personal information.",
+          "content": "The purposes include personalizing user experience, improving the website based on user feedback, and sending periodic emails with updates and information."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: How We Use Collected Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450597254,
+      "url": "https://reliefmind.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can refuse to supply personal identification information, which may prevent them from engaging in certain Website-related activities. However, the policy does not explicitly mention a process for deleting data once collected.",
+        "simple_answer": "Users can opt out of providing personal information but there's no mention of a data deletion process.",
+        "extended_simple_answer": {
+          "comment": "While users can choose not to provide personal information, the policy lacks details on how users can delete their data.",
+          "content": "Users may be asked for their name, email address, mailing address, and phone number. We will collect personal identification information from users only if they voluntarily submit such information to us. Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Website-related activities."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of providing personal information but does not provide a clear mechanism for data deletion.",
+      "reference": "Section 1: Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450597254,
+      "url": "https://reliefmind.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, trade, or rent users' personal identification information to others. However, it may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers.",
+        "simple_answer": "No, the app does not sell or rent personal data, but may share aggregated demographic information.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy by not sharing personal identification information.",
+          "content": "The app may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Sharing Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450597254,
+      "url": "https://reliefmind.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not sell, trade, or rent users' personal identification information to others. However, it may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers for the purposes outlined in the privacy policy.",
+        "simple_answer": "The app shares aggregated demographic information with business partners and advertisers.",
+        "extended_simple_answer": {
+          "comment": "The app does not share personal identification information.",
+          "content": "The app may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Sharing Your Personal Information"
+    }
+  }
+]

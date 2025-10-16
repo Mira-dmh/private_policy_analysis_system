@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1444463273,
+      "url": "https://vaultplatform.com/product-privacy-statement",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It explains how personal data is collected, used, disclosed, or otherwise processed on behalf of business customers and their personnel.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy statement provides detailed information about the types of personal data collected and the circumstances under which it is shared.",
+          "content": "The privacy statement outlines that personal data may be collected from users when they report incidents or misconduct, and it specifies the types of personal data that may be collected."
+        }
+      },
+      "analysis": "",
+      "reference": "Overview section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1444463273,
+      "url": "https://vaultplatform.com/product-privacy-statement",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including: business and personal contact information (such as first and last name, email address, relationship with the Business Customer, role, department, work site and location, and electronic identifying number), content uploaded to the Services (including text, images, audio, and video), profile information (such as username and password), feedback or correspondence, and other personal data that may include work history, skills, and experience.",
+        "simple_answer": "The app collects personal contact information, uploaded content, profile information, feedback, and other personal data.",
+        "extended_simple_answer": {
+          "comment": "The data collected is primarily on behalf of the Business Customer and may include sensitive information depending on user interactions.",
+          "content": "Types of data collected include: business and personal contact information, content uploaded (text, images, audio, video), profile information (username, password), feedback or correspondence, and other personal data."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Data We Collect on The Business Customer’s Behalf"
+    }
+  },
+  {
+    "meta": {
+      "id": 1444463273,
+      "url": "https://vaultplatform.com/product-privacy-statement",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It explains that personal data is collected to provide a solution for misconduct reporting for workplace personnel and outlines how the data is processed on behalf of the Business Customers. The privacy statement details that the data is used in accordance with the Business Customer's instructions and for the provision of the Services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy statement provides clarity on the purpose of data collection.",
+          "content": "The purpose of data collection includes providing misconduct reporting solutions and processing personal data as instructed by Business Customers."
+        }
+      },
+      "analysis": "",
+      "reference": "Overview section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1444463273,
+      "url": "https://vaultplatform.com/product-privacy-statement",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that users can choose what personal data to provide when reporting misconduct, and they can submit reports anonymously. For specific inquiries regarding data collection and deletion, users are advised to contact their Business Customer directly.",
+        "simple_answer": "No explicit opt-out or deletion option is mentioned; users should contact their Business Customer for inquiries.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes that the Business Customer is the data controller, and users should refer to them for data-related requests.",
+          "content": "Users can choose what personal data to provide when reporting misconduct and can submit reports anonymously. For any concerns about data collection or deletion, users should contact their Business Customer."
+        }
+      },
+      "analysis": "The privacy policy primarily places the responsibility of data management on the Business Customer, indicating that users should reach out to them for any data-related requests.",
+      "reference": "Overview, Personal Data We Collect on The Business Customer’s Behalf"
+    }
+  },
+  {
+    "meta": {
+      "id": 1444463273,
+      "url": "https://vaultplatform.com/product-privacy-statement",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with the Business Customer until the End User submits a misconduct report. However, it may collect and share personal data about the End User that is provided by other End Users when submitting a misconduct report. The Business Customer is primarily responsible for how personal data is processed and shared.",
+        "simple_answer": "Yes, the app may share data with the Business Customer and other End Users.",
+        "extended_simple_answer": {
+          "comment": "The app acts as a data processor, and the Business Customer is the data controller.",
+          "content": "The app does not share personal data unless instructed by the End User through a misconduct report. It may also collect data provided by other End Users."
+        }
+      },
+      "analysis": "The app's data sharing practices are primarily governed by the relationship between the End User and the Business Customer, with Vault Platform acting as a data processor.",
+      "reference": "Overview, Personal Data We Collect on The Business Customer’s Behalf"
+    }
+  },
+  {
+    "meta": {
+      "id": 1444463273,
+      "url": "https://vaultplatform.com/product-privacy-statement",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any third parties with whom the app shares data. It primarily states that Vault Platform acts as a data processor on behalf of the Business Customer, who is the data controller. Therefore, any sharing of personal data is done at the direction of the Business Customer, and the specifics of such sharing would depend on the Business Customer's policies and agreements.",
+        "simple_answer": "The app does not specify third parties; it shares data at the direction of the Business Customer.",
+        "extended_simple_answer": {
+          "comment": "The app's data sharing is governed by the Business Customer's instructions.",
+          "content": "Vault Platform acts as a data processor, and any sharing of personal data is determined by the Business Customer, who is the data controller."
+        }
+      },
+      "analysis": "The privacy policy emphasizes that Vault Platform is a data processor and does not independently share data with third parties unless directed by the Business Customer.",
+      "reference": "Overview section and Personal Data We Collect on The Business Customer’s Behalf section."
+    }
+  }
+]

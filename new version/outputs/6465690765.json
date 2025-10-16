@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 6465690765,
+            "url": "https://dreamdrift.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects information from various sources like direct user input and through the operation of the services.",
+            "reference": "We only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better. We collect this information from three sources: if and when you provide information to us, automatically through operating our Services, and from outside sources. Let’s go over the information that we collect. URL: https://dreamdrift.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f3ccf6944c26d32ad70e74fdfc1f6fa4ec6c0664561aa496aed9ea6bfc540063",
+                "score": 0.08137364,
+                "excerpt": "communicate with you; to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or\n- You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.\nIf you are located in the EEA, the United Kingdom, or Switzerland and you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "c9a669b108c6d411e52125d0ee4fef351a98e02914c3a3e6d8520abdbe4c5abf",
+                "score": 0.033526164,
+                "excerpt": "you, along with the choices that you have with respect to that information.\nThroughout this Privacy Policy we’ll refer to DreamDrift’s Sites, Apps, and other services collectively as “Services.”\nInformation We Collect\nWe only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better.\nWe collect this information from three sources: if and when you provide information to us, automatically through opera...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "e7fd29a34a199aaf9ef9c16c5f3851d305c7bd84c26616bbf0da7dea19d4a66d",
+                "score": 0.019271137,
+                "excerpt": "the section above on “How We Use the Information We Collect” — and we’re not legally required to keep it.\nFor example, we keep web server logs for a few months. We retain the logs for this period of time in order to, among other things, analyze traffic, and investigate issues if something goes wrong.\nAs another example, when you close your account we wait for a 5-day recovery window and then permanently delete all of your entries, their attachments, and your account data.\nSecurity\nWhile no onlin...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "7b1a8642b48723690328407b4cce773c3197d63e134f68d8fc638431d14700c2",
+                "score": 0.011687257,
+                "excerpt": "personal data.\nYou also have the right to make a complaint to a government supervisory authority.\nA note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:\n- The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "66a605193adf5c2e3146a9b43bc3bfaa6c59b534bb9a494007e5f1b7b1d39c6d",
+                "score": 0.010169658,
+                "excerpt": "Privacy Policy\nYour privacy is critically important to us. At DreamDrift we have a few fundamental principles:\n- We are thoughtful about the personal information we ask you to provide and the personal information that we collect about you through the operation of our services.\n- We store personal information for only as long as we have a reason to keep it.\n- We aim to make it as simple as possible for you to control what information in your journal is shared publicly (or kept private), indexed b...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6465690765,
+            "url": "https://dreamdrift.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects identifiers, commercial information, characteristics protected by law, internet or other electronic network activity information, geolocation data, and audio, electronic, visual, or similar information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identifiers (like your name, contact information, and device and online identifiers)",
+                        "Commercial information (your billing information and purchase history)",
+                        "Characteristics protected by law",
+                        "Internet or other electronic network activity information",
+                        "Geolocation data",
+                        "Audio, electronic, visual or similar information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the specific types of data that the app collects, including different categories of personal information.",
+            "reference": "The app collects identifiers, commercial information, characteristics protected by law, internet or other electronic network activity information, geolocation data, and audio, electronic, visual, or similar information. URL: https://dreamdrift.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f3ccf6944c26d32ad70e74fdfc1f6fa4ec6c0664561aa496aed9ea6bfc540063",
+                "score": 0.23739909,
+                "excerpt": "communicate with you; to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or\n- You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.\nIf you are located in the EEA, the United Kingdom, or Switzerland and you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "2e3d862723bb57ed8fbf3a6d83f67d31c4112436075177a858ca169f35b4c59f",
+                "score": 0.2052962,
+                "excerpt": "we collected the following categories of personal information, depending on the Services used:\n- Identifiers (like your name, contact information, and device and online identifiers);\n- Commercial information (your billing information and purchase history, for example);\n- Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);\n- Internet or other electronic network activity information (such as your usage of our Services);\n- Geolocation d...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "caeb4ca72601bfe9441dbd33fd40b8e65f2cbbeb3df24601303cf51221c45b54",
+                "score": 0.115960725,
+                "excerpt": "the Site is governed by the Google Analytics Terms of Use and the Google Privacy Policy.\nInformation We Collect from Other Sources\nWe may also get information about you from other sources. For example:\n- Third Party Account Information: When you connect an account from another service we typically get some basic information about your account with them. For example, when you connect DreamDrift to your Apple or Google account in order to log in, we may access certain user data such as your name, ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "c9a669b108c6d411e52125d0ee4fef351a98e02914c3a3e6d8520abdbe4c5abf",
+                "score": 0.10894504,
+                "excerpt": "you, along with the choices that you have with respect to that information.\nThroughout this Privacy Policy we’ll refer to DreamDrift’s Sites, Apps, and other services collectively as “Services.”\nInformation We Collect\nWe only collect information about you if we have a reason to do so — for example, to provide our Services, to communicate with you, or to make our Services better.\nWe collect this information from three sources: if and when you provide information to us, automatically through opera...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "42a074b98fb46b4c17edc42493c55081f7f2d87a16f87da4769227763a359437",
+                "score": 0.10338596,
+                "excerpt": "choose not to provide us with certain information, but this may limit the features of the Services you are able to use.\nInformation We Collect Automatically\nWe also collect some information automatically:\n- Log information: Like most online service providers, we collect information that web browsers, mobile devices, and servers typically make available, including the browser type, IP address, unique device identifiers, language preference, referring site, the date and time of access, operating s...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6465690765,
+            "url": "https://dreamdrift.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the various purposes for which personal information is collected and used.",
+            "reference": "We use your personal information to: Provide you with Services and customer support; Market Services to you and send you news and information that we believe interests you; Respond to your requests, resolve disputes, and/or troubleshoot problems; Improve the Services and personalize your experience; Communicate with you about the Services; Monitor and analyze trends, usage, and activities in connection with our Services; Detect, investigate, and help prevent security incidents and other malicious, deceptive, fraudulent, or illegal activity, and help protect rights and property of ours and others; and Comply with our legal and financial obligations. URL: https://dreamdrift.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "11111d2f2847b42f8d69385e726d2f384efd52bcd6fb16a6fee2a047f0e61801",
+                "score": 0.11736965,
+                "excerpt": "to advertising platforms, data brokers, or information resellers.\nHow We Use the Information We Collect\nWe use your personal information to:\n- Provide you with Services and customer support;\n- Market Services to you and send you news and information that we believe interests you;\n- Respond to your requests, resolve disputes, and/or troubleshoot problems;\n- Improve the Services and personalize your experience;\n- Communicate with you about the Services;\n- Monitor and analyze trends, usage, and act...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "7b1a8642b48723690328407b4cce773c3197d63e134f68d8fc638431d14700c2",
+                "score": 0.07369627,
+                "excerpt": "personal data.\nYou also have the right to make a complaint to a government supervisory authority.\nA note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that:\n- The use is necessary in order to fulfill our commitments to you under the applicable terms of service or other agreements with you or is necessary to administer your account — for example, in ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "caeb4ca72601bfe9441dbd33fd40b8e65f2cbbeb3df24601303cf51221c45b54",
+                "score": 0.07146149,
+                "excerpt": "the Site is governed by the Google Analytics Terms of Use and the Google Privacy Policy.\nInformation We Collect from Other Sources\nWe may also get information about you from other sources. For example:\n- Third Party Account Information: When you connect an account from another service we typically get some basic information about your account with them. For example, when you connect DreamDrift to your Apple or Google account in order to log in, we may access certain user data such as your name, ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "e7fd29a34a199aaf9ef9c16c5f3851d305c7bd84c26616bbf0da7dea19d4a66d",
+                "score": 0.049958527,
+                "excerpt": "the section above on “How We Use the Information We Collect” — and we’re not legally required to keep it.\nFor example, we keep web server logs for a few months. We retain the logs for this period of time in order to, among other things, analyze traffic, and investigate issues if something goes wrong.\nAs another example, when you close your account we wait for a 5-day recovery window and then permanently delete all of your entries, their attachments, and your account data.\nSecurity\nWhile no onlin...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "f3ccf6944c26d32ad70e74fdfc1f6fa4ec6c0664561aa496aed9ea6bfc540063",
+                "score": 0.03179867,
+                "excerpt": "communicate with you; to understand our user retention and attrition; to monitor and prevent any problems with our Services; and to personalize your experience; or\n- You have given us your consent — for example before we place certain cookies on your device and access and analyze them later on.\nIf you are located in the EEA, the United Kingdom, or Switzerland and you have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6465690765,
+            "url": "https://dreamdrift.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the option to limit/update the information they provide, delete the app to stop data collection, opt out of marketing communications, set their browser to reject cookies, and opt out of the internal analytics program.",
+            "reference": "You can stop all collection of information by the App(s) by uninstalling the App(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. Opt out of marketing communications: You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices. Set your browser to reject cookies: You can usually choose to set your browser to remove or reject browser cookies before using our Sites, with the drawback that certain features may not function properly without the aid of cookies. Opt out of our internal analytics program: You can do this through your app settings. By opting out, you will stop sharing information with our analytics tool about events or actions that happen after the opt-out. URL: https://dreamdrift.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3eacae5c461dd8b63b378a05ea1ac9f2c90f385cfbdac7a9fd626cebf444d577",
+                "score": 0.9638481,
+                "excerpt": "several choices available when it comes to information about you:\n- Limit/Update the Information You Provide: You can review, change, and/or delete certain of your personal information by logging into the Site or the App and accessing your account.\n- Delete the App: You can stop all collection of information by the App(s) by uninstalling the App(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network....",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "22b0d44d6fff2ae1c6400af149755bea9d65ae0bdb54e8ccc3329e12acdd6b43",
+                "score": 0.94355595,
+                "excerpt": "our internal analytics program: You can do this through your app settings. By opting out, you will stop sharing information with our analytics tool about events or actions that happen after the opt-out.\nYour Rights\nIf you are located in certain parts of the world, including some US states and countries that fall under the scope of the European General Data Protection Regulation (aka the “GDPR”), you may have certain rights regarding your personal information, like the right to request access to ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "84c25439122e88c47740e62fd0d94dc2e5129d65da0bc7ae86b20af717855262",
+                "score": 0.90878,
+                "excerpt": "some US states you have additional rights, subject to any exemptions provided by your state’s respective law, including the right to:\n- Request a copy of the specific pieces of information we collect about you and, if you’re in California, to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, and the categories of third parties we share it with;\n- Request ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "d95684e190813056d42e5046bea9c7e30ea0d73c766086f34e8a5cff198b0619",
+                "score": 0.67437226,
+                "excerpt": "under 16 years of age. We do not collect or process your sensitive personal information except where it is strictly necessary to provide you with our service, where the processing is not for the purpose of inferring characteristics about you, or for other purposes that do not require an option to limit under California law.\nContacting Us About These Rights\nYou can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "e7fd29a34a199aaf9ef9c16c5f3851d305c7bd84c26616bbf0da7dea19d4a66d",
+                "score": 0.34753713,
+                "excerpt": "the section above on “How We Use the Information We Collect” — and we’re not legally required to keep it.\nFor example, we keep web server logs for a few months. We retain the logs for this period of time in order to, among other things, analyze traffic, and investigate issues if something goes wrong.\nAs another example, when you close your account we wait for a 5-day recovery window and then permanently delete all of your entries, their attachments, and your account data.\nSecurity\nWhile no onlin...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6465690765,
+            "url": "https://dreamdrift.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares information with third party vendors and other parties to provide services, marketing efforts, analytics, and more.",
+            "reference": "We may share information about you with third party vendors, consultants, and advisors who help us provide our Services or who otherwise perform services for us. This includes vendors that help us provide our Services to you... We require vendors to agree to privacy commitments in order to share information with them. URL: https://dreamdrift.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "8e5fcf7355ff6c873830a35c716d41f3732c7df7ac9a89f74a40734b2adfbd8d",
+                "score": 0.96903247,
+                "excerpt": "of our emails, we may still send you Services related communications (e.g., emails related to your account or the App).\nHow We Share Information\nWe share information about you in limited circumstances, and with appropriate safeguards to protect your privacy. These are spelled out below:\n- Third Party Vendors: We may share information about you with third party vendors, consultants, and advisors who help us provide our Services or who otherwise perform services for us. This includes vendors that ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "11111d2f2847b42f8d69385e726d2f384efd52bcd6fb16a6fee2a047f0e61801",
+                "score": 0.91730267,
+                "excerpt": "to advertising platforms, data brokers, or information resellers.\nHow We Use the Information We Collect\nWe use your personal information to:\n- Provide you with Services and customer support;\n- Market Services to you and send you news and information that we believe interests you;\n- Respond to your requests, resolve disputes, and/or troubleshoot problems;\n- Improve the Services and personalize your experience;\n- Communicate with you about the Services;\n- Monitor and analyze trends, usage, and act...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "84c25439122e88c47740e62fd0d94dc2e5129d65da0bc7ae86b20af717855262",
+                "score": 0.31341976,
+                "excerpt": "some US states you have additional rights, subject to any exemptions provided by your state’s respective law, including the right to:\n- Request a copy of the specific pieces of information we collect about you and, if you’re in California, to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, and the categories of third parties we share it with;\n- Request ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "caeb4ca72601bfe9441dbd33fd40b8e65f2cbbeb3df24601303cf51221c45b54",
+                "score": 0.30239108,
+                "excerpt": "the Site is governed by the Google Analytics Terms of Use and the Google Privacy Policy.\nInformation We Collect from Other Sources\nWe may also get information about you from other sources. For example:\n- Third Party Account Information: When you connect an account from another service we typically get some basic information about your account with them. For example, when you connect DreamDrift to your Apple or Google account in order to log in, we may access certain user data such as your name, ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "2e3d862723bb57ed8fbf3a6d83f67d31c4112436075177a858ca169f35b4c59f",
+                "score": 0.22000709,
+                "excerpt": "we collected the following categories of personal information, depending on the Services used:\n- Identifiers (like your name, contact information, and device and online identifiers);\n- Commercial information (your billing information and purchase history, for example);\n- Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);\n- Internet or other electronic network activity information (such as your usage of our Services);\n- Geolocation d...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6465690765,
+            "url": "https://dreamdrift.app/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third-party vendors, consultants, and advisors, subsidiaries, business transfers, legal, regulatory, and other obligations, and Google Analytics. Some examples include payment providers, cloud storage services, SMS messaging services, analytics providers, and advertising platforms",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Third-party vendors, consultants, and advisors",
+                        "Subsidiaries",
+                        "Business transfers",
+                        "Legal, regulatory, and other obligations",
+                        "Google Analytics"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions various categories of third parties with whom the app may share data, including vendors providing services, subsidiaries, entities in business transfers, legal entities, and Google Analytics. These partnerships are outlined with a focus on protecting user privacy.",
+            "reference": "Third Party Vendors: We may share information about you with third party vendors, consultants, and advisors who help us provide our Services or who otherwise perform services for us... URL: https://dreamdrift.app/privacy-policy; Subsidiaries: We may disclose information about you to a current or future parent company, any subsidiaries, joint ventures, or other companies under a common control... URL: https://dreamdrift.app/privacy-policy; Business Transfers: In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company... URL: https://dreamdrift.app/privacy-policy; Legal, Regulatory, & Other Obligations: We may disclose information about you if we believe in good faith that such disclosure is necessary... URL: https://dreamdrift.app/privacy-policy; Google Analytics: The collection of information on the Site is governed by the Google Analytics Terms of Use and the Google Privacy Policy... URL: https://dreamdrift.app/privacy-policy",
+            "URL": "https://dreamdrift.app/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "8e5fcf7355ff6c873830a35c716d41f3732c7df7ac9a89f74a40734b2adfbd8d",
+                "score": 0.9757624,
+                "excerpt": "of our emails, we may still send you Services related communications (e.g., emails related to your account or the App).\nHow We Share Information\nWe share information about you in limited circumstances, and with appropriate safeguards to protect your privacy. These are spelled out below:\n- Third Party Vendors: We may share information about you with third party vendors, consultants, and advisors who help us provide our Services or who otherwise perform services for us. This includes vendors that ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "11111d2f2847b42f8d69385e726d2f384efd52bcd6fb16a6fee2a047f0e61801",
+                "score": 0.9233162,
+                "excerpt": "to advertising platforms, data brokers, or information resellers.\nHow We Use the Information We Collect\nWe use your personal information to:\n- Provide you with Services and customer support;\n- Market Services to you and send you news and information that we believe interests you;\n- Respond to your requests, resolve disputes, and/or troubleshoot problems;\n- Improve the Services and personalize your experience;\n- Communicate with you about the Services;\n- Monitor and analyze trends, usage, and act...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "cfcbaa99fd35c7c417c723930bb12cd60f42fb25bd8f2a671faa23ab3f041b8f",
+                "score": 0.5476757,
+                "excerpt": "management, scheduling, word processing, email and other communications, and collaboration among our teams), and other third-party tools that help us manage operations. We require vendors to agree to privacy commitments in order to share information with them;\n- Subsidiaries: We may disclose information about you to a current or future parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), in which case we will require our Affili...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "caeb4ca72601bfe9441dbd33fd40b8e65f2cbbeb3df24601303cf51221c45b54",
+                "score": 0.36636302,
+                "excerpt": "the Site is governed by the Google Analytics Terms of Use and the Google Privacy Policy.\nInformation We Collect from Other Sources\nWe may also get information about you from other sources. For example:\n- Third Party Account Information: When you connect an account from another service we typically get some basic information about your account with them. For example, when you connect DreamDrift to your Apple or Google account in order to log in, we may access certain user data such as your name, ...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            },
+            {
+                "id": "2e3d862723bb57ed8fbf3a6d83f67d31c4112436075177a858ca169f35b4c59f",
+                "score": 0.27855107,
+                "excerpt": "we collected the following categories of personal information, depending on the Services used:\n- Identifiers (like your name, contact information, and device and online identifiers);\n- Commercial information (your billing information and purchase history, for example);\n- Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);\n- Internet or other electronic network activity information (such as your usage of our Services);\n- Geolocation d...",
+                "url": "https://dreamdrift.app/privacy-policy"
+            }
+        ]
+    }
+]

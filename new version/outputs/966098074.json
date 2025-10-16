@@ -1,0 +1,218 @@
+[
+    {
+        "meta": {
+            "id": 966098074,
+            "url": "https://www.exclaimapp.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that Exclaim collects specific information for analytics and webforms. This declaration indicates that the app is transparent about its data collection practices.",
+            "reference": "Information collected: Exclaim servers collect the following information for analytics: - Internet Protocol (IP) address of computer being used - web pages requested - referring web page - browser used - date and time. Webforms: Exclaim website uses webform on this site. These forms require users to give contact information: First Name, Last Name, NPI Number. We also ask for either your email address or your phone number. Contact information from the registration form is used only to contact you and will not be sold to another party. URL: https://www.exclaimapp.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d11251b68e52bb4b6f791f6b2d4b840cc09c91d8a1a7bc7756ba58ab18f07956",
+                "score": 0.0019043302,
+                "excerpt": "personal information collected from this site for the purpose of communication back to individuals who contact us via the site.\nDistribution of collected information:\n- Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.\n- Exclaim will not distribute or sell personal information to third-party organizations.\nPrivacy Statement Revisions:\nThis Privacy Statement was last revised ...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            },
+            {
+                "id": "63061d8880f8d8cbdffc63ec86666163114ab088e3635eca5ed4df266c168965",
+                "score": 0.00040606395,
+                "excerpt": "Privacy Policy\nThe Exclaim team is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.\nIn...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 966098074,
+            "url": "https://www.exclaimapp.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Internet Protocol (IP) addresses, web pages requested, referring web pages, browser used, and date and time.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol (IP) addresses",
+                        "web pages requested",
+                        "referring web pages",
+                        "browser used",
+                        "date and time"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the types of data collected by the app, which includes IP addresses, web page requests, browser information, and timestamps.",
+            "reference": "Exclaim servers collect the following information for analytics: - Internet Protocol (IP) address of computer being used - web pages requested - referring web page - browser used - date and time URL: https://www.exclaimapp.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d11251b68e52bb4b6f791f6b2d4b840cc09c91d8a1a7bc7756ba58ab18f07956",
+                "score": 0.004962942,
+                "excerpt": "personal information collected from this site for the purpose of communication back to individuals who contact us via the site.\nDistribution of collected information:\n- Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.\n- Exclaim will not distribute or sell personal information to third-party organizations.\nPrivacy Statement Revisions:\nThis Privacy Statement was last revised ...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            },
+            {
+                "id": "63061d8880f8d8cbdffc63ec86666163114ab088e3635eca5ed4df266c168965",
+                "score": 0.0027362213,
+                "excerpt": "Privacy Policy\nThe Exclaim team is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.\nIn...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 966098074,
+            "url": "https://www.exclaimapp.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information collected from the website is used for the purpose of communication back to individuals who contact the site.",
+            "reference": "Exclaim will only use personal information collected from this site for the purpose of communication back to individuals who contact us via the site. URL: https://www.exclaimapp.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d11251b68e52bb4b6f791f6b2d4b840cc09c91d8a1a7bc7756ba58ab18f07956",
+                "score": 0.0047737225,
+                "excerpt": "personal information collected from this site for the purpose of communication back to individuals who contact us via the site.\nDistribution of collected information:\n- Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.\n- Exclaim will not distribute or sell personal information to third-party organizations.\nPrivacy Statement Revisions:\nThis Privacy Statement was last revised ...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            },
+            {
+                "id": "63061d8880f8d8cbdffc63ec86666163114ab088e3635eca5ed4df266c168965",
+                "score": 0.0025809042,
+                "excerpt": "Privacy Policy\nThe Exclaim team is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.\nIn...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 966098074,
+            "url": "https://www.exclaimapp.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "No, the user cannot opt out of data collection or delete data.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that Exclaim will use personal information collected from the site for communication purposes and does not provide an opt-out option for data collection.",
+            "reference": "Exclaim will only use personal information collected from this site for the purpose of communication back to individuals who contact us via the site. URL: https://www.exclaimapp.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d11251b68e52bb4b6f791f6b2d4b840cc09c91d8a1a7bc7756ba58ab18f07956",
+                "score": 0.02199022,
+                "excerpt": "personal information collected from this site for the purpose of communication back to individuals who contact us via the site.\nDistribution of collected information:\n- Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.\n- Exclaim will not distribute or sell personal information to third-party organizations.\nPrivacy Statement Revisions:\nThis Privacy Statement was last revised ...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            },
+            {
+                "id": "63061d8880f8d8cbdffc63ec86666163114ab088e3635eca5ed4df266c168965",
+                "score": 0.0015792594,
+                "excerpt": "Privacy Policy\nThe Exclaim team is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.\nIn...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 966098074,
+            "url": "https://www.exclaimapp.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No data is shared with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information collected will not be distributed or sold to third-party organizations. This indicates that the app does not share data with third parties.",
+            "reference": "Exclaim will not distribute or sell personal information to third-party organizations. URL: https://www.exclaimapp.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d11251b68e52bb4b6f791f6b2d4b840cc09c91d8a1a7bc7756ba58ab18f07956",
+                "score": 0.0067188703,
+                "excerpt": "personal information collected from this site for the purpose of communication back to individuals who contact us via the site.\nDistribution of collected information:\n- Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.\n- Exclaim will not distribute or sell personal information to third-party organizations.\nPrivacy Statement Revisions:\nThis Privacy Statement was last revised ...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            },
+            {
+                "id": "63061d8880f8d8cbdffc63ec86666163114ab088e3635eca5ed4df266c168965",
+                "score": 0.0017961492,
+                "excerpt": "Privacy Policy\nThe Exclaim team is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.\nIn...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 966098074,
+            "url": "https://www.exclaimapp.com/privacy-policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not distribute or sell personal information to third-party organizations, indicating it does not share data with third parties.",
+            "reference": "Exclaim will not distribute or sell personal information to third-party organizations. URL: https://www.exclaimapp.com/privacy-policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d11251b68e52bb4b6f791f6b2d4b840cc09c91d8a1a7bc7756ba58ab18f07956",
+                "score": 0.014842416,
+                "excerpt": "personal information collected from this site for the purpose of communication back to individuals who contact us via the site.\nDistribution of collected information:\n- Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law.\n- Exclaim will not distribute or sell personal information to third-party organizations.\nPrivacy Statement Revisions:\nThis Privacy Statement was last revised ...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            },
+            {
+                "id": "63061d8880f8d8cbdffc63ec86666163114ab088e3635eca5ed4df266c168965",
+                "score": 0.006289902,
+                "excerpt": "Privacy Policy\nThe Exclaim team is committed to protecting the privacy and accuracy of confidential information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize access, personal information is not actively shared. In particular, we do not re-distribute or sell personal information collected on our web servers.\nIn...",
+                "url": "https://www.exclaimapp.com/privacy-policy.html"
+            }
+        ]
+    }
+]

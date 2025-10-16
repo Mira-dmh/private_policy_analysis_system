@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1523689201,
+      "url": "https://dreamcloud.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal information when users interact with the website or mobile app. It specifies that personal information is collected to provide services and improve offerings, and it includes information that users provide voluntarily as well as usage data.",
+        "simple_answer": "Yes, the app declares the collection of personal information.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines the types of personal information collected and the purposes for which it is used.",
+          "content": "The app collects personal information such as name, address, social security number, and health or financial information, which is necessary for providing services and improving offerings."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: COLLECTION AND USE OF PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1523689201,
+      "url": "https://dreamcloud.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information, which includes unique identifiers such as name, address, social security number, and health or financial information. It also collects non-personal information, such as browser type, files requested, geographic location, and aggregated data about visitors. Additionally, it may collect mobile-specific data like device IDs, request types, and location information if location-enabled services are used.",
+        "simple_answer": "The app collects personal information (like name and health info) and non-personal information (like browser type and location data).",
+        "extended_simple_answer": {
+          "comment": "The app gathers both personal and non-personal data to enhance user experience and provide services.",
+          "content": "Personal information includes identifiers like name and health data, while non-personal information includes browser type and aggregated usage statistics."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: COLLECTION AND USE OF PERSONAL INFORMATION; Section 3: NON-PERSONAL INFORMATION; Section 5: MOBILE PRIVACY"
+    }
+  },
+  {
+    "meta": {
+      "id": 1523689201,
+      "url": "https://dreamcloud.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is collected to provide services to users and to improve and enhance service offerings. Additionally, it mentions that the purposes for which information is being collected will be identified before or at the time of collection.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that personal information is collected for service provision and improvement.",
+          "content": "The app collects personal information to provide services and improve offerings, and it identifies the purposes for data collection."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: COLLECTION AND USE OF PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1523689201,
+      "url": "https://dreamcloud.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of non-essential cookies by choosing to 'Opt-Out' when prompted. However, essential cookies necessary for the basic functionality of the site cannot be disabled. The policy does not explicitly mention a process for deleting personal data, but it states that personal information will only be retained for as long as necessary for the fulfillment of specified purposes.",
+        "simple_answer": "Yes, users can opt out of non-essential cookies.",
+        "extended_simple_answer": {
+          "comment": "Users have some control over data collection through cookie preferences.",
+          "content": "Users can opt out of non-essential cookies, but essential cookies cannot be disabled. The policy does not detail a specific process for deleting personal data."
+        }
+      },
+      "analysis": "The privacy policy provides users with the ability to manage their cookie preferences, which is a form of opting out of certain data collection practices. However, it lacks a clear procedure for users to delete their personal data.",
+      "reference": "Section 4: COOKIE POLICY"
+    }
+  },
+  {
+    "meta": {
+      "id": 1523689201,
+      "url": "https://dreamcloud.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, license, or transfer personal information to third parties outside of DreamCloud and its affiliated companies, except as necessary to provide services, as required by law, or in connection with judicial or governmental proceedings, or in connection with the sale of DreamCloud assets.",
+        "simple_answer": "No, the app does not share personal data with third parties except under specific circumstances.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares data when necessary.",
+          "content": "Personal information is only shared as necessary to provide services, comply with legal requirements, or during asset sales."
+        }
+      },
+      "analysis": "The privacy policy clearly states the conditions under which personal information may be shared, emphasizing user privacy and legal compliance.",
+      "reference": "Section 1: COLLECTION AND USE OF PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1523689201,
+      "url": "https://dreamcloud.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share personal information with third parties as necessary to provide you with information, services, or products that DreamCloud offers independently or jointly with others, as required by law, or in connection with judicial or governmental proceedings, or in connection with the sale of all or substantially all of DreamCloud assets or of the assets of a division of DreamCloud.",
+        "simple_answer": "The app shares data with third parties as necessary for services, legal requirements, or asset sales.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is limited to specific circumstances.",
+          "content": "Data may be shared for service provision, legal compliance, or during asset sales."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing is not arbitrary but is limited to specific situations that are necessary for operational, legal, or business reasons.",
+      "reference": "Section 1: COLLECTION AND USE OF PERSONAL INFORMATION"
+    }
+  }
+]

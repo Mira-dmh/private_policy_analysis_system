@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1580242680,
+      "url": "https://www.termsfeed.com/live/8a0f8b2b-f919-4815-9da6-5ea809c8829b",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that while using the Service, users may be asked to provide certain personally identifiable information, and it also collects Usage Data automatically when using the Service.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected, including personal data and usage data.",
+          "content": "While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Usage Data is collected automatically when using the Service."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, ensuring transparency regarding data collection practices.",
+      "reference": "Collecting and Using Your Personal Data, Types of Data Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580242680,
+      "url": "https://www.termsfeed.com/live/8a0f8b2b-f919-4815-9da6-5ea809c8829b",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Data, which may include personally identifiable information such as Usage Data, which is collected automatically and may include information like the Device's Internet Protocol address, browser type, pages visited, time and date of visits, and other diagnostic data. Additionally, it may collect pictures and other information from the device's camera and photo library with prior permission.",
+        "simple_answer": "The app collects Personal Data and Usage Data, including device information and pictures from the camera.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to enhance user experience and provide services.",
+          "content": "Types of data collected include Personal Data (like contact information) and Usage Data (like IP address, browser type, and pages visited). It may also collect pictures and information from the device's camera and photo library with user permission."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data, Types of Data Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580242680,
+      "url": "https://www.termsfeed.com/live/8a0f8b2b-f919-4815-9da6-5ea809c8829b",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the Company may use Personal Data for various purposes including to provide and maintain the Service, manage user accounts, perform contracts, contact users, provide news and offers, manage requests, conduct business transfers, and for other purposes such as data analysis and improving services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines multiple purposes for data collection, ensuring transparency.",
+          "content": "The purposes include providing and maintaining the Service, managing accounts, contacting users, and improving services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the various purposes for which personal data is collected and used, ensuring users are informed about how their data will be utilized.",
+      "reference": "Section: Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580242680,
+      "url": "https://www.termsfeed.com/live/8a0f8b2b-f919-4815-9da6-5ea809c8829b",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of data collection by disabling access to certain information through their device settings. Additionally, the user has the ability to delete their personal data, although the specific process for deletion is not detailed in the policy.",
+        "simple_answer": "Yes, users can opt out by changing device settings.",
+        "extended_simple_answer": {
+          "comment": "The policy allows users to manage their data preferences.",
+          "content": "Users can enable or disable access to information collected from their device's camera and photo library at any time through their device settings."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have control over their data collection preferences, which is a positive aspect for user privacy.",
+      "reference": "Section: Information Collected while Using the Application"
+    }
+  },
+  {
+    "meta": {
+      "id": 1580242680,
+      "url": "https://www.termsfeed.com/live/8a0f8b2b-f919-4815-9da6-5ea809c8829b",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares personal information with third parties in several situations, including with Service Providers to monitor and analyze the use of the Service, during business transfers such as mergers or acquisitions, with affiliates, and with business partners.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app may share your personal information in various scenarios, ensuring that third parties adhere to the privacy policy.",
+          "content": "The app shares personal information with Service Providers, during business transfers, with affiliates, and with business partners."
+        }
+      },
+      "analysis": "",
+      "reference": "We may share Your personal information in the following situations: With Service Providers, For business transfers, With Affiliates, With business partners."
+    }
+  },
+  {
+    "meta": {
+      "id": 1580242680,
+      "url": "https://www.termsfeed.com/live/8a0f8b2b-f919-4815-9da6-5ea809c8829b",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with the following third parties: Service Providers, Affiliates, and business partners. Service Providers are entities that process data on behalf of the Company, while Affiliates include the parent company and subsidiaries. Business partners may also receive shared information.",
+        "simple_answer": "The app shares data with Service Providers, Affiliates, and business partners.",
+        "extended_simple_answer": {
+          "comment": "The app has specific categories of third parties with whom it shares data.",
+          "content": "1. Service Providers: To monitor and analyze the use of the Service and to contact users. 2. Affiliates: Including the parent company and subsidiaries, with a requirement to honor the Privacy Policy. 3. Business partners: In connection with business operations."
+        }
+      },
+      "analysis": "",
+      "reference": "We may share Your personal information in the following situations: With Service Providers, With Affiliates, With business partners."
+    }
+  }
+]

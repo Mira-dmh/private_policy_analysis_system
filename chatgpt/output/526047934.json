@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 526047934,
+      "url": "https://komodomath.com/general/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that information is collected during interactions with the app, including personal data such as name, address, email, and device information, among others.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of information collected from users.",
+          "content": "The policy states that information is collected when users create accounts, subscribe to services, interact with the app, and more."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of information collected and the circumstances under which it is gathered, ensuring transparency about data collection practices.",
+      "reference": "WHAT INFORMATION WE COLLECT ABOUT YOU"
+    }
+  },
+  {
+    "meta": {
+      "id": 526047934,
+      "url": "https://komodomath.com/general/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including but not limited to your name, address, gender, email address, phone number, birthday, Twitter handle, device type, and subjects of interest. Additionally, it collects information about how you use the website and apps, such as your IP address, geographical location, device information, browser type, referral source, length of visit, number of page views, and search queries. It may also collect information from third parties, such as schools providing pupil information.",
+        "simple_answer": "The app collects personal data like name, address, email, phone number, and usage data such as IP address and device information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of personal and usage data to enhance user experience and provide services.",
+          "content": "The types of data collected include personal information you provide (like name and contact details), usage data (like IP address and device information), and information received from third parties (like schools)."
+        }
+      },
+      "analysis": "",
+      "reference": "WHAT INFORMATION WE COLLECT ABOUT YOU"
+    }
+  },
+  {
+    "meta": {
+      "id": 526047934,
+      "url": "https://komodomath.com/general/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to process requests, communicate with users, provide information about products and services, send marketing communications, and administer accounts.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The app uses personal data to process requests, communicate with users, provide information about products and services, send marketing communications, and administer accounts."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW WE USE INFORMATION ABOUT YOU"
+    }
+  },
+  {
+    "meta": {
+      "id": 526047934,
+      "url": "https://komodomath.com/general/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by rejecting non-essential cookies. Additionally, users have rights regarding their personal data, including the right to access or change their personal data, which implies they can request deletion of their data.",
+        "simple_answer": "Yes, users can opt out of non-essential cookies and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their cookie preferences.",
+          "content": "Users can reject non-essential cookies to opt out of certain data collection. They also have rights to access or change their personal data, which includes the ability to request deletion."
+        }
+      },
+      "analysis": "The privacy policy provides users with options to manage their data collection preferences and outlines their rights regarding personal data.",
+      "reference": "Cookies and how you use our website and apps; Rights and choices"
+    }
+  },
+  {
+    "meta": {
+      "id": 526047934,
+      "url": "https://komodomath.com/general/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your information with third parties as outlined in the privacy policy. However, it explicitly states that they do not sell your information to third parties.",
+        "simple_answer": "Yes, but they do not sell your information.",
+        "extended_simple_answer": {
+          "comment": "The app shares information under certain circumstances but does not sell it.",
+          "content": "We may share your information as set out in the section 'When We Share Your Information'."
+        }
+      },
+      "analysis": "The privacy policy indicates that while data may be shared with third parties, it is done in a controlled manner and not for profit.",
+      "reference": "HOW WE USE INFORMATION ABOUT YOU"
+    }
+  },
+  {
+    "meta": {
+      "id": 526047934,
+      "url": "https://komodomath.com/general/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share your information with third parties such as schools and other institutions that provide pupil information. Additionally, if you are a job applicant, the app may contact your referees to provide information about you.",
+        "simple_answer": "The app shares data with schools, institutions, and referees.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell your information to third parties but may share it under specific circumstances.",
+          "content": "The app shares data with schools and institutions that provide pupil information, and may contact referees for job applicants."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW WE USE INFORMATION ABOUT YOU"
+    }
+  }
+]

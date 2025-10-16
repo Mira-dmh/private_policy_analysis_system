@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1671328374,
+            "url": "https://sites.google.com/view/mindrace/accueil",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states in its privacy policy that it collects various types of information.",
+            "reference": "We collect information through our iPhone app, including: Performance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics. Device information: We collect information about your device, including the type of device, operating system, and unique device identifier. Location information: We may collect information about your location if you have allowed the app to access your device's location services. Other information: We may collect other information you choose to provide, such as feedback or support requests. URL: https://sites.google.com/view/mindrace/accueil"
+        },
+        "source_documents": [
+            {
+                "id": "0275c06eb2762f808f94cb751c934a99c0f41cc4b26c3792804dece8adf3231c",
+                "score": 0.34268153,
+                "excerpt": "users. This Privacy Policy explains how we collect, use, and share information through our iPhone app [App Name], which stores performance-related data on the iPhone.\nInformation We Collect\nWe collect information through our iPhone app, including:\nPerformance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics.\nDevice information: We collect information about your device, including the type of device, operating system, and...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9c8a6927742e682a31dc3bf7671a34bcfc9237860cc1218a8ae1cda74973250d",
+                "score": 0.20866227,
+                "excerpt": "us:\nBy email: marcelfuchs@gmx.de\nBy phone number: +33683322720\nBy mail : FUCHS, 14 rue Claude Decaen, 75012 Paris, France\nGDPR Privacy Policy\nThis privacy policy outlines how your personal information is collected, used, and protected by Mind Race. This policy applies to all users of the app, regardless of location.\nCollection of Personal Information:\nInformation you provide directly: We may collect information that you provide directly through the app, such as your name, email address, and othe...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9451fe3a2d8ae7ad89c4c6a006cf21d05530c1850afa3ac76fa7ebb9db066c41",
+                "score": 0.10194652,
+                "excerpt": "to provide you with the app and its features, or as required by law.\nYour Rights:\nAccessing your personal information: You have the right to access the personal information that we have collected from you.\nRequesting deletion of your personal information: You have the right to request that we delete your personal information. To delete collected data on your device please uninstall the app and install it again if you wish so.\nObjecting to processing: You have the right to object to our processin...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "f1db70bd124a139a836fafa9f6fcbef7e43f96ba7162d342b7ecae3f49e311ae",
+                "score": 0.099820666,
+                "excerpt": "may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nThird parties/SDKs\nThis app does not use third parties/SDKs.\nChanges to this Privacy Policy\nWe may update Our Privacy Policy from time ...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "3b9501f42c50d533d1b049e40b51b51395d92614919e900c81c6817fce5008a5",
+                "score": 0.09351231,
+                "excerpt": "use the information you provide to respond to your support requests.\nSharing of Information\nWe do not sell your personal information, as defined by the CPRA. We may share your information with third-party service providers, such as data analysis and storage providers, who help us provide and improve our iPhone app.\nYour Privacy Rights\nUnder the CPRA, you have the right to:\nRequest that we delete your personal information: You have the right to request that we delete your personal information. To...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671328374,
+            "url": "https://sites.google.com/view/mindrace/accueil",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects performance data, device information, location information, and other information provided by the user.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Performance data",
+                        "Device information",
+                        "Location information",
+                        "Other information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section 'Information We Collect' that explicitly mentions the type of data collected by the app.",
+            "reference": "Performance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics. Device information: We collect information about your device, including the type of device, operating system, and unique device identifier. Location information: We may collect information about your location if you have allowed the app to access your device's location services. Other information: We may collect other information you choose to provide, such as feedback or support requests. URL: https://sites.google.com/view/mindrace/accueil"
+        },
+        "source_documents": [
+            {
+                "id": "0275c06eb2762f808f94cb751c934a99c0f41cc4b26c3792804dece8adf3231c",
+                "score": 0.6361271,
+                "excerpt": "users. This Privacy Policy explains how we collect, use, and share information through our iPhone app [App Name], which stores performance-related data on the iPhone.\nInformation We Collect\nWe collect information through our iPhone app, including:\nPerformance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics.\nDevice information: We collect information about your device, including the type of device, operating system, and...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9c8a6927742e682a31dc3bf7671a34bcfc9237860cc1218a8ae1cda74973250d",
+                "score": 0.26874945,
+                "excerpt": "us:\nBy email: marcelfuchs@gmx.de\nBy phone number: +33683322720\nBy mail : FUCHS, 14 rue Claude Decaen, 75012 Paris, France\nGDPR Privacy Policy\nThis privacy policy outlines how your personal information is collected, used, and protected by Mind Race. This policy applies to all users of the app, regardless of location.\nCollection of Personal Information:\nInformation you provide directly: We may collect information that you provide directly through the app, such as your name, email address, and othe...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "fdd990a33b24a91d133e3416601a06f20ed02ced5825c25d021ec470ea75ae26",
+                "score": 0.2600135,
+                "excerpt": "including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nPerformance Data\nPerformance related data in the \"Mind Race\" app may include user pseudon...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9451fe3a2d8ae7ad89c4c6a006cf21d05530c1850afa3ac76fa7ebb9db066c41",
+                "score": 0.15443976,
+                "excerpt": "to provide you with the app and its features, or as required by law.\nYour Rights:\nAccessing your personal information: You have the right to access the personal information that we have collected from you.\nRequesting deletion of your personal information: You have the right to request that we delete your personal information. To delete collected data on your device please uninstall the app and install it again if you wish so.\nObjecting to processing: You have the right to object to our processin...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "bdec5cb8cb3e9cae2c31a045ecf145d87cbb358c727c70f9798af499e8f7fae4",
+                "score": 0.114368536,
+                "excerpt": "data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).\nYou means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nCollecting and Using Your Personal Data\nPersonal Data\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information tha...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671328374,
+            "url": "https://sites.google.com/view/mindrace/accueil",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use by mentioning how the collected information is utilized to provide and improve the app, personalize the user experience, and provide support.",
+            "reference": "We use the information we collect to provide and improve our iPhone app, including: Personalizing your experience: We use your performance data to personalize your experience with the app and provide you with relevant information and feedback. Improving the app: We use the information we collect to understand how the app is being used and to make improvements to the app. Providing support: We use the information you provide to respond to your support requests. URL: https://sites.google.com/view/mindrace/accueil"
+        },
+        "source_documents": [
+            {
+                "id": "0275c06eb2762f808f94cb751c934a99c0f41cc4b26c3792804dece8adf3231c",
+                "score": 0.40157047,
+                "excerpt": "users. This Privacy Policy explains how we collect, use, and share information through our iPhone app [App Name], which stores performance-related data on the iPhone.\nInformation We Collect\nWe collect information through our iPhone app, including:\nPerformance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics.\nDevice information: We collect information about your device, including the type of device, operating system, and...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9c8a6927742e682a31dc3bf7671a34bcfc9237860cc1218a8ae1cda74973250d",
+                "score": 0.16789974,
+                "excerpt": "us:\nBy email: marcelfuchs@gmx.de\nBy phone number: +33683322720\nBy mail : FUCHS, 14 rue Claude Decaen, 75012 Paris, France\nGDPR Privacy Policy\nThis privacy policy outlines how your personal information is collected, used, and protected by Mind Race. This policy applies to all users of the app, regardless of location.\nCollection of Personal Information:\nInformation you provide directly: We may collect information that you provide directly through the app, such as your name, email address, and othe...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9b5239120baa530a9f85361b18c0d2860a88e12051d3f29156d41c0e86fb9891",
+                "score": 0.10613344,
+                "excerpt": "Privacy Policy\nLast updated: February 11, 2023\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nPlease note that Mind Race utilizes the standard Apple Framework, i...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "0fe43533972cfec85196e5837639b46f397be01847ac9c98e9b014e2a7a1a733",
+                "score": 0.04296247,
+                "excerpt": "their data, and can choose whether to delete it or keep it. But remember that no method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nUse of Your Personal Data\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Servic...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9451fe3a2d8ae7ad89c4c6a006cf21d05530c1850afa3ac76fa7ebb9db066c41",
+                "score": 0.032405518,
+                "excerpt": "to provide you with the app and its features, or as required by law.\nYour Rights:\nAccessing your personal information: You have the right to access the personal information that we have collected from you.\nRequesting deletion of your personal information: You have the right to request that we delete your personal information. To delete collected data on your device please uninstall the app and install it again if you wish so.\nObjecting to processing: You have the right to object to our processin...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671328374,
+            "url": "https://sites.google.com/view/mindrace/accueil",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. Users have the right to request deletion of their personal information and opt-out of the collection of personal information. Performance-related data can be conveniently deleted from the 'Game Over Screen' or upon uninstalling the application.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "User's rights to data deletion",
+                    "content": "Request deletion of personal information and opt-out of data collection"
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the right to request deletion of their personal information and to opt-out of data collection, indicating that users can indeed opt out of data collection or delete data. Additionally, the policy mentions that performance-related data can be deleted from the 'Game Over Screen' or upon uninstalling the application.",
+            "reference": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You...Performance-related data is collected and stored on the device, and can be conveniently deleted from the 'Game Over Screen' or upon uninstalling the application. URL: https://sites.google.com/view/mindrace/accueil"
+        },
+        "source_documents": [
+            {
+                "id": "3b9501f42c50d533d1b049e40b51b51395d92614919e900c81c6817fce5008a5",
+                "score": 0.85034436,
+                "excerpt": "use the information you provide to respond to your support requests.\nSharing of Information\nWe do not sell your personal information, as defined by the CPRA. We may share your information with third-party service providers, such as data analysis and storage providers, who help us provide and improve our iPhone app.\nYour Privacy Rights\nUnder the CPRA, you have the right to:\nRequest that we delete your personal information: You have the right to request that we delete your personal information. To...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "0fe43533972cfec85196e5837639b46f397be01847ac9c98e9b014e2a7a1a733",
+                "score": 0.72710437,
+                "excerpt": "their data, and can choose whether to delete it or keep it. But remember that no method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nUse of Your Personal Data\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Servic...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "f1004ca8cbbe98617121f35edb735af002b2d0ec37a0ddb18649c8ae88aa0dfb",
+                "score": 0.70801073,
+                "excerpt": "outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a ...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9451fe3a2d8ae7ad89c4c6a006cf21d05530c1850afa3ac76fa7ebb9db066c41",
+                "score": 0.6460137,
+                "excerpt": "to provide you with the app and its features, or as required by law.\nYour Rights:\nAccessing your personal information: You have the right to access the personal information that we have collected from you.\nRequesting deletion of your personal information: You have the right to request that we delete your personal information. To delete collected data on your device please uninstall the app and install it again if you wish so.\nObjecting to processing: You have the right to object to our processin...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9c8a6927742e682a31dc3bf7671a34bcfc9237860cc1218a8ae1cda74973250d",
+                "score": 0.13892843,
+                "excerpt": "us:\nBy email: marcelfuchs@gmx.de\nBy phone number: +33683322720\nBy mail : FUCHS, 14 rue Claude Decaen, 75012 Paris, France\nGDPR Privacy Policy\nThis privacy policy outlines how your personal information is collected, used, and protected by Mind Race. This policy applies to all users of the app, regardless of location.\nCollection of Personal Information:\nInformation you provide directly: We may collect information that you provide directly through the app, such as your name, email address, and othe...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671328374,
+            "url": "https://sites.google.com/view/mindrace/accueil",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third-party service providers.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share information with third-party service providers to help provide and improve the iPhone app.",
+            "reference": "We may share your information with third-party service providers, such as data analysis and storage providers, who help us provide and improve our iPhone app. URL: https://sites.google.com/view/mindrace/accueil"
+        },
+        "source_documents": [
+            {
+                "id": "3b9501f42c50d533d1b049e40b51b51395d92614919e900c81c6817fce5008a5",
+                "score": 0.9545628,
+                "excerpt": "use the information you provide to respond to your support requests.\nSharing of Information\nWe do not sell your personal information, as defined by the CPRA. We may share your information with third-party service providers, such as data analysis and storage providers, who help us provide and improve our iPhone app.\nYour Privacy Rights\nUnder the CPRA, you have the right to:\nRequest that we delete your personal information: You have the right to request that we delete your personal information. To...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "0275c06eb2762f808f94cb751c934a99c0f41cc4b26c3792804dece8adf3231c",
+                "score": 0.90448195,
+                "excerpt": "users. This Privacy Policy explains how we collect, use, and share information through our iPhone app [App Name], which stores performance-related data on the iPhone.\nInformation We Collect\nWe collect information through our iPhone app, including:\nPerformance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics.\nDevice information: We collect information about your device, including the type of device, operating system, and...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "f1db70bd124a139a836fafa9f6fcbef7e43f96ba7162d342b7ecae3f49e311ae",
+                "score": 0.7256486,
+                "excerpt": "may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nThird parties/SDKs\nThis app does not use third parties/SDKs.\nChanges to this Privacy Policy\nWe may update Our Privacy Policy from time ...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "d2e473aa8935611691083cd39548d29031021b1a4a4645f935a90744bb155c23",
+                "score": 0.19208428,
+                "excerpt": "following situations:\nWith Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.\nFor business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.\nWith Affiliates: We may share Your information with Our affiliates, in which case we will...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "9451fe3a2d8ae7ad89c4c6a006cf21d05530c1850afa3ac76fa7ebb9db066c41",
+                "score": 0.12252322,
+                "excerpt": "to provide you with the app and its features, or as required by law.\nYour Rights:\nAccessing your personal information: You have the right to access the personal information that we have collected from you.\nRequesting deletion of your personal information: You have the right to request that we delete your personal information. To delete collected data on your device please uninstall the app and install it again if you wish so.\nObjecting to processing: You have the right to object to our processin...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671328374,
+            "url": "https://sites.google.com/view/mindrace/accueil",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Service Providers, business partners, affiliates, other users, with consent.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service Providers",
+                        "business partners",
+                        "affiliates",
+                        "other users",
+                        "consent"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with Service Providers, business partners, affiliates, other users, and with consent.",
+            "reference": "With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You. For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing. With Affiliates: We may share Your information with Our affiliates. With business partners: We may share Your information with Our business partners. With other users: when You share personal information or otherwise interact in the public areas with other users. With Your consent: We may disclose Your personal information for any other purpose with Your consent. URL: https://sites.google.com/view/mindrace/accueil"
+        },
+        "source_documents": [
+            {
+                "id": "3b9501f42c50d533d1b049e40b51b51395d92614919e900c81c6817fce5008a5",
+                "score": 0.92121595,
+                "excerpt": "use the information you provide to respond to your support requests.\nSharing of Information\nWe do not sell your personal information, as defined by the CPRA. We may share your information with third-party service providers, such as data analysis and storage providers, who help us provide and improve our iPhone app.\nYour Privacy Rights\nUnder the CPRA, you have the right to:\nRequest that we delete your personal information: You have the right to request that we delete your personal information. To...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "d2e473aa8935611691083cd39548d29031021b1a4a4645f935a90744bb155c23",
+                "score": 0.7527403,
+                "excerpt": "following situations:\nWith Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.\nFor business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.\nWith Affiliates: We may share Your information with Our affiliates, in which case we will...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "0275c06eb2762f808f94cb751c934a99c0f41cc4b26c3792804dece8adf3231c",
+                "score": 0.7322091,
+                "excerpt": "users. This Privacy Policy explains how we collect, use, and share information through our iPhone app [App Name], which stores performance-related data on the iPhone.\nInformation We Collect\nWe collect information through our iPhone app, including:\nPerformance data: We collect data related to your performance using the app, such as your scores, progress, and other performance metrics.\nDevice information: We collect information about your device, including the type of device, operating system, and...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "f1db70bd124a139a836fafa9f6fcbef7e43f96ba7162d342b7ecae3f49e311ae",
+                "score": 0.51170135,
+                "excerpt": "may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nThird parties/SDKs\nThis app does not use third parties/SDKs.\nChanges to this Privacy Policy\nWe may update Our Privacy Policy from time ...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            },
+            {
+                "id": "89a49af8ef22efb3b3e60638914901a0fe97e1fe6fb45a33fc643bf5c0a3ec17",
+                "score": 0.357119,
+                "excerpt": "functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your inform...",
+                "url": "https://sites.google.com/view/mindrace/accueil"
+            }
+        ]
+    }
+]

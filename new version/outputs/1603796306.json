@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1603796306,
+            "url": "https://www.theshareco.org/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects and processes personal data, indicating a clear declaration of data collection.",
+            "reference": "The personal data of the users that are collected and processed through... Share™ Mobile Application URL: https://www.theshareco.org/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "fa977d724672a65fe852a988855ff4653dcbb9dbe50e97e4cb4ee4c2f2b84478",
+                "score": 0.022243667,
+                "excerpt": "Privacy Policy\nShare™ is owned and operated by TheShareCo Pte Ltd.\nShare™ values your privacy. This notice describes what information we collect, how we use it, and, if necessary, those with whom we share it.\nBy downloading and using the Share™ application and website, you are accepting the practices described in this Privacy Policy. Your use of the application and website is also subject to our Terms of Service.\nThis Privacy Policy may change from time to time. Your continued use of the applica...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "1514ea42f6d6fa049139c9d99897b24fe162fa9f51e014c13f5bbe03b90b9f8f",
+                "score": 0.016152835,
+                "excerpt": "contracts we might have with you or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe.\nYou can see more about these rights here: https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en\nCALIFORNIA Online Privacy Protection Act Compliance (CALOPPA)\nCalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. T...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "2cbaa5fd49c00a4894bbdf86f116957924212391645b3423febbe8a3da14ee05",
+                "score": 0.01374232,
+                "excerpt": "Process payments.\n- Improve our services, website, and how we operate our business.\n- Understand and enhance your experience using our website and services.\n- Send emails through bulk email delivery platforms such as MailChimp and Klaviyo.\n- Respond to your comments or questions through our support team (Chat and email).\n- Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages.\n- Communicate with you ab...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "38bfba5ba29f9dab9ba01aa0f8592c1d990da04d9d7073980ab868eea7da64ee",
+                "score": 0.007725534,
+                "excerpt": "Share™ Desktop and Web Application\nwill be under responsibility and in charge of TheShareCo Pte Ltd (Hereinafter referred to as “Share”).\nTypes of Information Gathered\nThe information we learn from customers helps personalize and continually improve your experience at Share. Here are the types of information we gather:\nInformation You Give Us. You provide information when you download the app, search, read and watch the content, use the services or communicate with us. As a result of those actio...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d4196e0336dc6a1ddfc071f7686e057629a4719a468ad93f2bfe32e2df692be5",
+                "score": 0.0067188703,
+                "excerpt": "your web browser accesses Share or third-party content served by or on behalf of Share on other websites. Some of the information we collect and analyze includes the Internet protocol (IP) address; computer and connection information such as browser type, version, and connection speed; purchase history; and the content you searched for, viewed, and possibly purchased.\nHow Long Do We Keep Your Data\nThe personal data will be kept for the time necessary to provide the services or as long as the use...",
+                "url": "https://www.theshareco.org/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1603796306,
+            "url": "https://www.theshareco.org/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects the following types of data: First and last name, Email address, Mobile Number, Country/province/state, IP address, Payment information, Any additional information provided directly or indirectly, Cookies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "First and last name",
+                        "Email address",
+                        "Mobile Number",
+                        "Country/province/state",
+                        "IP address",
+                        "Payment information",
+                        "Any additional information provided directly or indirectly",
+                        "Cookies"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the information provided in the 'Types of Information Gathered' section of the privacy policy.",
+            "reference": "The app collects the following information: First and last name, Email address, Mobile Number, Country/province/state, IP address, Payment information, Any additional information relating to you that you provide to us directly through our websites or indirectly through our websites or online presence such as ‘cookies’. URL: https://www.theshareco.org/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "38bfba5ba29f9dab9ba01aa0f8592c1d990da04d9d7073980ab868eea7da64ee",
+                "score": 0.42321965,
+                "excerpt": "Share™ Desktop and Web Application\nwill be under responsibility and in charge of TheShareCo Pte Ltd (Hereinafter referred to as “Share”).\nTypes of Information Gathered\nThe information we learn from customers helps personalize and continually improve your experience at Share. Here are the types of information we gather:\nInformation You Give Us. You provide information when you download the app, search, read and watch the content, use the services or communicate with us. As a result of those actio...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "fa977d724672a65fe852a988855ff4653dcbb9dbe50e97e4cb4ee4c2f2b84478",
+                "score": 0.15947905,
+                "excerpt": "Privacy Policy\nShare™ is owned and operated by TheShareCo Pte Ltd.\nShare™ values your privacy. This notice describes what information we collect, how we use it, and, if necessary, those with whom we share it.\nBy downloading and using the Share™ application and website, you are accepting the practices described in this Privacy Policy. Your use of the application and website is also subject to our Terms of Service.\nThis Privacy Policy may change from time to time. Your continued use of the applica...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d4196e0336dc6a1ddfc071f7686e057629a4719a468ad93f2bfe32e2df692be5",
+                "score": 0.1504028,
+                "excerpt": "your web browser accesses Share or third-party content served by or on behalf of Share on other websites. Some of the information we collect and analyze includes the Internet protocol (IP) address; computer and connection information such as browser type, version, and connection speed; purchase history; and the content you searched for, viewed, and possibly purchased.\nHow Long Do We Keep Your Data\nThe personal data will be kept for the time necessary to provide the services or as long as the use...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "64a0d835287d346efb6314f677c2a324192c1733bff6be0732323a4de88829c4",
+                "score": 0.093678005,
+                "excerpt": "of processing the purchase of the services. Share reserves the right to contract any payment platform available in the market, which treats your data for the exclusive purpose of processing the purchase of the services.\nPlease consult Stripe’s Privacy Policy here: https://stripe.com/privacy-center/legal\nGOOGLE Analytics. We use Google Analytics provided by Google, Inc., USA (“Google”). These tool and technologies collect and analyze certain types of information, including IP addresses, device an...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "2cbaa5fd49c00a4894bbdf86f116957924212391645b3423febbe8a3da14ee05",
+                "score": 0.013273886,
+                "excerpt": "Process payments.\n- Improve our services, website, and how we operate our business.\n- Understand and enhance your experience using our website and services.\n- Send emails through bulk email delivery platforms such as MailChimp and Klaviyo.\n- Respond to your comments or questions through our support team (Chat and email).\n- Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages.\n- Communicate with you ab...",
+                "url": "https://www.theshareco.org/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1603796306,
+            "url": "https://www.theshareco.org/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use within the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the various purposes for which data is collected and used by the app.",
+            "reference": "Improve our services, website, and how we operate our business. Understand and enhance your experience using our website and services. Send emails through bulk email delivery platforms such as MailChimp and Klaviyo. Respond to your comments or questions through our support team (Chat and email). Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages. Communicate with you about upcoming events and news about services offered by Share and our selected partners. Marketing purposes of Share. Link or combine your information with other information we get from third parties to help understand your needs and provide you with better service. Protect, investigate and deter against fraudulent, unauthorized or illegal activity. URL: https://www.theshareco.org/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2cbaa5fd49c00a4894bbdf86f116957924212391645b3423febbe8a3da14ee05",
+                "score": 0.1504028,
+                "excerpt": "Process payments.\n- Improve our services, website, and how we operate our business.\n- Understand and enhance your experience using our website and services.\n- Send emails through bulk email delivery platforms such as MailChimp and Klaviyo.\n- Respond to your comments or questions through our support team (Chat and email).\n- Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages.\n- Communicate with you ab...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d4196e0336dc6a1ddfc071f7686e057629a4719a468ad93f2bfe32e2df692be5",
+                "score": 0.02931223,
+                "excerpt": "your web browser accesses Share or third-party content served by or on behalf of Share on other websites. Some of the information we collect and analyze includes the Internet protocol (IP) address; computer and connection information such as browser type, version, and connection speed; purchase history; and the content you searched for, viewed, and possibly purchased.\nHow Long Do We Keep Your Data\nThe personal data will be kept for the time necessary to provide the services or as long as the use...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "64a0d835287d346efb6314f677c2a324192c1733bff6be0732323a4de88829c4",
+                "score": 0.02898063,
+                "excerpt": "of processing the purchase of the services. Share reserves the right to contract any payment platform available in the market, which treats your data for the exclusive purpose of processing the purchase of the services.\nPlease consult Stripe’s Privacy Policy here: https://stripe.com/privacy-center/legal\nGOOGLE Analytics. We use Google Analytics provided by Google, Inc., USA (“Google”). These tool and technologies collect and analyze certain types of information, including IP addresses, device an...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "38bfba5ba29f9dab9ba01aa0f8592c1d990da04d9d7073980ab868eea7da64ee",
+                "score": 0.0226292,
+                "excerpt": "Share™ Desktop and Web Application\nwill be under responsibility and in charge of TheShareCo Pte Ltd (Hereinafter referred to as “Share”).\nTypes of Information Gathered\nThe information we learn from customers helps personalize and continually improve your experience at Share. Here are the types of information we gather:\nInformation You Give Us. You provide information when you download the app, search, read and watch the content, use the services or communicate with us. As a result of those actio...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d5e6bbfd9c953f143a60b7c5927ec804c9d37c64fcce2ca6c86064fc8aa68021",
+                "score": 0.011961099,
+                "excerpt": "protect such information from interception. We restrict authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information.\nShare follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once Share receives it. No method of transmission over the Internet, or method...",
+                "url": "https://www.theshareco.org/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1603796306,
+            "url": "https://www.theshareco.org/privacy"
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1603796306,\n       \"url\": \"https://www.theshareco.org/privacy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q4\",\n       \"question\": \"4. Can the user opt out of data collection or delete data?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, the user can opt-out of data collection or delete data by contacting the company.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy clearly states that users can change, modify, rectify, and delete their information by contacting the company. Additionally, users can opt-out of Share email by following the instructions in the email provided.\",\n       \"reference\": \"You can change, modify, rectify and delete your Information at any time, please contact us through the contact information.\nTo opt-out of Share email, follow the instructions included in the email. Your request should be processed within 48 hours. URL: https://www.theshareco.org/privacy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "4e672221c7f523eecff3ff94ac5cf5242a2f97501954c38889d1773d7c4993e6",
+                "score": 0.7879312,
+                "excerpt": "whom.\n- Access to your personal data.\n- Request to delete any personal information about you.\n- Not be discriminated against for exercising their privacy rights.\nChildren's Online Privacy Protection\nWe are in compliance with the requirements of the GDPR (General Data Protection Regulation), and the California Online Privacy Protection Act (CalOPPA), the Personal Data Protection Act 2012 (PDPA – Singapore regulation) regarding the protection of the personal data of minors. We do not collect any i...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "6bac5f8115960225946ad5b353b8266e59af9e62f6ca42d2d63c77243a1302bf",
+                "score": 0.61589676,
+                "excerpt": "place of work or place of the alleged infringement. If you consider that the processing of your personal data is not appropriate to the regulations, as well as in the case of not seeing the exercise of your rights satisfied. The control authority in which the claim was filed will inform the claimant about the course and result of the claim.\nEU Members’ Rights (GDPR Compliant)\nIf you are habitually located in the European Union, you have the right to access, rectify, download or erase your inform...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "1ec91e75376f30edaebfc9f66eceaf415faf2016617ec5fba18c68ff3b63458b",
+                "score": 0.4675749,
+                "excerpt": "to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.\n- Revoke consent: Where you have previously provided your consent, such as to permit us to process health-related data about you, you have the right to withdraw your consent to the processing of your information at any time. For example, you can withdraw your consent by updating your sett...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "8dd1e239a1283c476553a1030ef4b46f0139ff601952e1bd81838b53be0be051",
+                "score": 0.43434134,
+                "excerpt": "more about its cross border data transfers.\n- It provided more information about privacy rights that exist in some countries where Stripe offers Services.\n- It has moved the details for its contact information into the Privacy Center.\nPlease review its updated Privacy Policy carefully. If you have questions, please check out the rest of its Privacy Center and/or contact Stripe.\nYour Rights\nYou have the following rights in relation to your personal data provided to Share:\n- Access your personal d...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "1514ea42f6d6fa049139c9d99897b24fe162fa9f51e014c13f5bbe03b90b9f8f",
+                "score": 0.36116472,
+                "excerpt": "contracts we might have with you or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe.\nYou can see more about these rights here: https://ec.europa.eu/info/law/law-topic/data-protection/reform/rights-citizens_en\nCALIFORNIA Online Privacy Protection Act Compliance (CALOPPA)\nCalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. T...",
+                "url": "https://www.theshareco.org/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1603796306,
+            "url": "https://www.theshareco.org/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions sharing customer information with third-party service providers and outlines the types of functions they perform. This indicates that the app shares data with third parties.",
+            "reference": "Information about our customers is an important part of our business...Third-Party Service Providers. We employ other companies and individuals to perform functions on our behalf.... They have access to personal information needed to perform their functions, but may not use it for other purposes. URL: https://www.theshareco.org/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2cbaa5fd49c00a4894bbdf86f116957924212391645b3423febbe8a3da14ee05",
+                "score": 0.6391732,
+                "excerpt": "Process payments.\n- Improve our services, website, and how we operate our business.\n- Understand and enhance your experience using our website and services.\n- Send emails through bulk email delivery platforms such as MailChimp and Klaviyo.\n- Respond to your comments or questions through our support team (Chat and email).\n- Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages.\n- Communicate with you ab...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d4196e0336dc6a1ddfc071f7686e057629a4719a468ad93f2bfe32e2df692be5",
+                "score": 0.45389718,
+                "excerpt": "your web browser accesses Share or third-party content served by or on behalf of Share on other websites. Some of the information we collect and analyze includes the Internet protocol (IP) address; computer and connection information such as browser type, version, and connection speed; purchase history; and the content you searched for, viewed, and possibly purchased.\nHow Long Do We Keep Your Data\nThe personal data will be kept for the time necessary to provide the services or as long as the use...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d5e6bbfd9c953f143a60b7c5927ec804c9d37c64fcce2ca6c86064fc8aa68021",
+                "score": 0.43404144,
+                "excerpt": "protect such information from interception. We restrict authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information.\nShare follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once Share receives it. No method of transmission over the Internet, or method...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "9e20fa365ef7fb72c7f9052b51ef5e828e909ccf2725e8c945b99496cbc019f3",
+                "score": 0.3566707,
+                "excerpt": "customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.\nThird-Party Service Providers. We employ other companies and individuals to perform functions on our behalf. Examples include process payments (Stripe), sending email, analyzing data, providing marketing assistance, providing search results and links. They have access to personal information needed to perform their functions, but may not u...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "6deb23e4b5b9c938c7998f159549639f8556a408b8d9dff74b019b9978950f6a",
+                "score": 0.11636177,
+                "excerpt": "expressly included in this Privacy Policy, this document addresses only the use and disclosure of information Share collects from you. If you disclose your information to others, whether other users or suppliers on Share, different rules may apply to their use or disclosure of the information you disclose to them. Share does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. Share is not responsible for the priv...",
+                "url": "https://www.theshareco.org/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1603796306,
+            "url": "https://www.theshareco.org/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third-party service providers such as Stripe for processing payments and sending emails.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Stripe"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with third-party service providers like Stripe for specific functions such as processing payments and sending emails. This indicates a clear sharing of data with Stripe.",
+            "reference": "Third-Party Service Providers. We employ other companies and individuals to perform functions on our behalf. Examples include process payments (Stripe), sending email... They have access to personal information needed to perform their functions, but may not use it for other purposes. URL: https://www.theshareco.org/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2cbaa5fd49c00a4894bbdf86f116957924212391645b3423febbe8a3da14ee05",
+                "score": 0.5921361,
+                "excerpt": "Process payments.\n- Improve our services, website, and how we operate our business.\n- Understand and enhance your experience using our website and services.\n- Send emails through bulk email delivery platforms such as MailChimp and Klaviyo.\n- Respond to your comments or questions through our support team (Chat and email).\n- Send you related information, including confirmations, invoices, technical notices, updates, security alerts and support and administrative messages.\n- Communicate with you ab...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "64264e4f2c3ad69bf150e557d10a8c7898f3e663df4c18f6714c8e04b8d46449",
+                "score": 0.4809053,
+                "excerpt": "One such party is Stripe – our payment gateway provider, which you may find its updated Privacy Policy here: https://stripe.com/en-in/privacy-center/legal. The following are a few highlights of the changes it has made as of April 28, 2021:\n- It included a new introduction that provides you more information about Stripe.\n- It updated the policy to remove services that it no longer offers (e.g. Stripe Shop), to remove references to product brands it no longer uses (e.g. Remember Me is now Link wit...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "9e20fa365ef7fb72c7f9052b51ef5e828e909ccf2725e8c945b99496cbc019f3",
+                "score": 0.41881573,
+                "excerpt": "customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below.\nThird-Party Service Providers. We employ other companies and individuals to perform functions on our behalf. Examples include process payments (Stripe), sending email, analyzing data, providing marketing assistance, providing search results and links. They have access to personal information needed to perform their functions, but may not u...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d4196e0336dc6a1ddfc071f7686e057629a4719a468ad93f2bfe32e2df692be5",
+                "score": 0.33350322,
+                "excerpt": "your web browser accesses Share or third-party content served by or on behalf of Share on other websites. Some of the information we collect and analyze includes the Internet protocol (IP) address; computer and connection information such as browser type, version, and connection speed; purchase history; and the content you searched for, viewed, and possibly purchased.\nHow Long Do We Keep Your Data\nThe personal data will be kept for the time necessary to provide the services or as long as the use...",
+                "url": "https://www.theshareco.org/privacy"
+            },
+            {
+                "id": "d5e6bbfd9c953f143a60b7c5927ec804c9d37c64fcce2ca6c86064fc8aa68021",
+                "score": 0.29665425,
+                "excerpt": "protect such information from interception. We restrict authorized access to your personal information to those persons who have a legitimate purpose to know that information to provide products or services to you and those persons you have authorized to have access to such information.\nShare follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once Share receives it. No method of transmission over the Internet, or method...",
+                "url": "https://www.theshareco.org/privacy"
+            }
+        ]
+    }
+]

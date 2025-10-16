@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1588978095,
+      "url": "https://mcmillenhealth.org/policies/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that McMillen Health collects a variety of personal information from users through the Services, including information collected automatically as a result of using the app.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the types of data collected and the methods of collection.",
+          "content": "The privacy policy outlines that personal information is collected both directly from users and automatically through their use of the app."
+        }
+      },
+      "analysis": "The privacy policy clearly states the collection of personal information, ensuring transparency about data practices.",
+      "reference": "WHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1588978095,
+      "url": "https://mcmillenhealth.org/policies/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects a variety of personal information, including directly from users and automatically as a result of their use of the Services. This includes information such as first name, last name, ZIP code, email address, and location information if permitted. Additionally, it collects automatically generated data such as device attributes, unique device ID, performance data, IP address, and usage information like pages visited and time spent on specific pages.",
+        "simple_answer": "The app collects personal information like name, email, ZIP code, and location data, as well as automatically generated data about device and usage.",
+        "extended_simple_answer": {
+          "comment": "The app collects both personal and automatically generated data.",
+          "content": "Personal information includes first name, last name, ZIP code, and email address. Automatically collected data includes device attributes, unique device ID, performance data, IP address, and usage statistics."
+        }
+      },
+      "analysis": "",
+      "reference": "WHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1588978095,
+      "url": "https://mcmillenhealth.org/policies/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that McMillen Health is committed to protecting the privacy of individuals and outlines that personal information may be collected to provide services or features. Users are informed that they have choices about the information collected and that certain information is necessary to provide specific services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes the importance of user consent and the necessity of certain information for service provision.",
+          "content": "The policy indicates that by using the Services, users acknowledge the collection and use of their information as described, and it specifies that users may decline to provide information but may not be able to use certain features if they do."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purpose of data collection, emphasizing user consent and the necessity of information for service delivery.",
+      "reference": "PRIVACY STATEMENT section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1588978095,
+      "url": "https://mcmillenhealth.org/policies/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have choices about the information collected. They may decline to provide information when asked, but if they choose not to provide necessary information, they may not be able to use certain services or features. Additionally, users can change their browser settings to block the automatic collection of certain information. However, the policy does not explicitly mention a process for deleting data once collected.",
+        "simple_answer": "Yes, users can opt out of some data collection.",
+        "extended_simple_answer": {
+          "comment": "Users can decline to provide information and adjust browser settings.",
+          "content": "Users have the option to decline providing personal information when requested. If they do not provide necessary information, they may not be able to use certain features. They can also change their browser settings to block automatic data collection."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of certain data collection practices, but it does not provide a clear mechanism for deleting data that has already been collected.",
+      "reference": "WHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1588978095,
+      "url": "https://mcmillenhealth.org/policies/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, McMillen Health will not sell, rent, lease, loan or provide personal information in any way to a third-party.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "McMillen Health is committed to protecting user privacy.",
+          "content": "The privacy policy explicitly states that personal information will not be shared with third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "PRIVACY POLICY"
+    }
+  },
+  {
+    "meta": {
+      "id": 1588978095,
+      "url": "https://mcmillenhealth.org/policies/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share personal information with third parties. McMillen Health will not sell, rent, lease, loan, or provide personal information in any way to a third party.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "McMillen Health is committed to protecting user privacy and does not engage in sharing personal information.",
+          "content": "McMillen Health will not sell, rent, lease, loan, or provide personal information in any way to a third party."
+        }
+      },
+      "analysis": "",
+      "reference": "PRIVACY POLICY"
+    }
+  }
+]

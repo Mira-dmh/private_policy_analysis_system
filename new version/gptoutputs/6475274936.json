@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6475274936,
+      "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when you use their products and services, they might collect and use your related information, and they explain how they collect, use, store, and share this information in their privacy policy.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of information collected and the methods of collection.",
+          "content": "The policy specifies that they collect information you voluntarily provide, device or network information, payment verification information, and health-related data when using their products."
+        }
+      },
+      "analysis": "",
+      "reference": "This information is derived from the introductory section of the privacy policy, which explains the collection and use of data."
+    }
+  },
+  {
+    "meta": {
+      "id": 6475274936,
+      "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1. Information voluntarily provided by users, such as account details, email address, phone number, and device information when users register or provide feedback. 2. Device or network information, including device name, model, operating system, and application version. 3. Payment verification information from Apple regarding completed transactions. 4. Personal information related to sports and health products, such as gender, birthday, age, height, weight, and regional information. 5. Permissions for accessing device features like location, camera, microphone, and notifications to enhance user experience.",
+        "simple_answer": "The app collects personal information, device information, payment verification data, and health-related data.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of data to improve user experience and functionality.",
+          "content": "This includes personal information (like email and phone number), device information (like model and OS), payment verification from Apple, and health-related data (like age and weight)."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: The Scope of Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475274936,
+      "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide continuous and stable network product operation support, verify payment results, and improve user experience and convenience of products and services. Additionally, it mentions that certain information is collected to realize the basic functions of sports and health products.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection, including operational support and user experience enhancement.",
+          "content": "The app collects information to provide continuous and stable network product operation support, verify payment results, and improve user experience and convenience of products and services. It also collects data necessary for the basic functions of sports and health products."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.1, 1.2, 1.3"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475274936,
+      "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can request the deletion of their data by contacting the data protection officer through the provided contact information. Additionally, users can manage their permissions and opt out of certain data collection by adjusting their device settings.",
+        "simple_answer": "Yes, users can delete their data and manage permissions.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to request data deletion and can control permissions through device settings.",
+          "content": "You can contact our data protection officer to request the deletion of your data through the contact information provided by us. Notification about specific feature permissions: If you need to turn off feature permissions that are enabled to use the specific feature mentioned above, most mobile devices will support this requirement."
+        }
+      },
+      "analysis": "",
+      "reference": "You can contact our data protection officer to request the deletion of your data through the contact information provided by us. (Section: Privacy Policy)"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475274936,
+      "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third-party service providers to enhance its products and services. These third parties include data analysis services, third-party payment services, and advertising services. The privacy policies of these third parties are provided for users to review how they process data.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app integrates various third-party services to improve user experience.",
+          "content": "The third parties include AppsFlyer, Bugly, Firebase, AdColony, Admob, Applovin, Chartboost, Facebook, and Fyber, each with their own privacy policies."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.4 Third Party Service Providers"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475274936,
+      "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with several third-party service providers for various purposes, including data analysis and in-app advertising. The third parties mentioned in the privacy policy are: AppsFlyer (data analysis), Bugly (performance monitoring), Firebase (data analysis), AdColony (in-app advertising), Admob (in-app advertising), Applovin (in-app advertising), Chartboost (in-app advertising), Facebook (in-app advertising), and Fyber (in-app advertising). Each of these third parties has its own privacy policy that can be reviewed for more information on how they process data.",
+        "simple_answer": "The app shares data with third-party service providers such as AppsFlyer, Bugly, Firebase, AdColony, Admob, Applovin, Chartboost, Facebook, and Fyber.",
+        "extended_simple_answer": {
+          "comment": "These third parties are involved in data analysis and in-app advertising.",
+          "content": "AppsFlyer, Bugly, Firebase, AdColony, Admob, Applovin, Chartboost, Facebook, Fyber."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.4 Third Party Service Providers"
+    }
+  }
+]

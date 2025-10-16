@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1525390977,
+      "url": "https://www.positiveintelligence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that various types of information may be collected, including registration information, payment information, information users choose to provide, user submissions, and usage data and technical information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The app collects registration information, payment information, user submissions, and usage data, as detailed in Section 2 of the privacy policy."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected from users, ensuring transparency about data practices.",
+      "reference": "Section 2: What data do we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1525390977,
+      "url": "https://www.positiveintelligence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including Registration Information (name, e-mail, date of birth), Payment Information (credit/debit card details), Information You Choose to Provide (user account updates, survey responses), User Submissions (comments, messages), and Usage Data and Technical Information (IP address, browser type, usage statistics).",
+        "simple_answer": "The app collects Registration Information, Payment Information, user-provided information, User Submissions, and Usage Data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a range of data to enhance user experience and service delivery.",
+          "content": "The types of data collected include: 1. Registration Information (name, e-mail, date of birth) 2. Payment Information (credit/debit card details) 3. Information You Choose to Provide (user account updates, survey responses) 4. User Submissions (comments, messages) 5. Usage Data and Technical Information (IP address, browser type, usage statistics)."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What data do we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1525390977,
+      "url": "https://www.positiveintelligence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected may be used for notifying users about new features and offerings, delivering features, content, services, and products available through the Services, and contacting users regarding the administration of any features or functions of the Services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies various purposes for which the collected data may be utilized.",
+          "content": "The purposes include notifying users about new features, delivering services, and contacting users regarding service administration."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: How do we use the data we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1525390977,
+      "url": "https://www.positiveintelligence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of certain data collection practices and can request deletion of their personal data. The privacy policy states that users have the right to request deletion of their personal information and can opt out of receiving promotional communications by following the unsubscribe instructions provided in those communications.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their preferences.",
+          "content": "The privacy policy indicates that users can opt out of promotional communications and request the deletion of their personal information."
+        }
+      },
+      "analysis": "The privacy policy provides users with options to manage their data, including opting out of data collection and requesting deletion of their information.",
+      "reference": "Section 3: How do we use the data we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1525390977,
+      "url": "https://www.positiveintelligence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy states that the data collected may be shared with third-party service providers and partners for various purposes, including the delivery of services and features. However, it also clarifies that the policy does not apply to third-party applications or technologies that integrate with their services, and any data collected by such third parties is subject to their own privacy practices.",
+        "simple_answer": "Yes, the app may share data with third-party service providers and partners.",
+        "extended_simple_answer": {
+          "comment": "The app's privacy policy indicates that while data may be shared with third parties, it does not cover third-party platforms' data practices.",
+          "content": "The policy specifies that it does not apply to third-party applications or technologies that integrate with their services, and any data collected by such third parties is subject to their own privacy practices."
+        }
+      },
+      "analysis": "The app shares data with third parties primarily for service delivery and functionality, but users should be aware of the separate privacy practices of those third parties.",
+      "reference": "Section 1: Introduction and Section 3: How do we use the data we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1525390977,
+      "url": "https://www.positiveintelligence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom data is shared. It states that the policy does not apply to third-party applications or technologies that integrate with the Services, and any data collected from or provided to third-party platforms is subject to the practices of those third-party providers.",
+        "simple_answer": "The app does not specify particular third parties for data sharing.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes that data shared with third-party platforms is governed by their own privacy practices.",
+          "content": "The Privacy Policy explicitly states that it does not apply to third-party applications or technologies that integrate with the Services, and any data collected from or provided to third-party platforms is subject to the practices of the applicable third-party providers."
+        }
+      },
+      "analysis": "The lack of specific third-party names suggests a general caution regarding data sharing, emphasizing user responsibility to review third-party privacy policies.",
+      "reference": "Section 1: Introduction"
+    }
+  }
+]

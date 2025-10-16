@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1534773757,
+      "url": "http://www.tree-bath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies various types of information collected from users, including customer user information, account information, demographic information, location data, and more.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The policy details the collection of personal data such as names, email addresses, location data, and more, for various legitimate interests."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of information collected and the reasons for collection, indicating transparency in data practices.",
+      "reference": "TYPES OF INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534773757,
+      "url": "http://www.tree-bath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data including Customer User Information (name, username, contact information), Account Information (name, email address, password, telephone number), Client Account Information (business contact information), Cookies and Tracking Information (first party and third party), Demographic Information (age, location, IP address), Distance Information (location data from GPS, Wi-Fi, cellular technology), Email Interconnectivity (data related to email interactions), Employment Information (for job applicants), Feedback/Support Information (data from inquiries), Mailing List Information (email or postal address), Mobile Device Information (unique identifying information from mobile devices), Order Placement Information (name, addresses, email, phone number, payment information), and Survey Information (data provided through surveys).",
+        "simple_answer": "The app collects personal information, account information, location data, demographic information, and more.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of personal and usage data to enhance user experience and provide services.",
+          "content": "Types of data collected include user information, account details, cookies, demographic data, location data, email interaction data, employment data, feedback, mailing list data, mobile device data, order information, and survey responses."
+        }
+      },
+      "analysis": "",
+      "reference": "TYPES OF INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534773757,
+      "url": "http://www.tree-bath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the information collected is used for legitimate interests such as contacting customers, providing account functionalities, understanding users, and fulfilling contracts related to services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of data collected and their respective purposes.",
+          "content": "The policy states that data is collected for legitimate interests such as communication, account management, understanding user behavior, and fulfilling service contracts."
+        }
+      },
+      "analysis": "",
+      "reference": "TYPES OF INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534773757,
+      "url": "http://www.tree-bath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the option to opt out of data collection and can request the deletion of their personal data. The privacy policy states that users can manage their preferences regarding cookies and tracking technologies, and they can also contact Treebath to request the deletion of their personal information.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their privacy preferences.",
+          "content": "The privacy policy mentions that users can opt out of cookies and tracking technologies, and they can contact Treebath to request the deletion of their personal data."
+        }
+      },
+      "analysis": "The privacy policy provides users with rights regarding their personal data, including the ability to opt out of data collection and request deletion.",
+      "reference": "YOUR CHOICES"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534773757,
+      "url": "http://www.tree-bath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, particularly for behavior-based advertising. A third party uses technology, such as cookies, to collect information about your use of the website to provide tailored advertising. Additionally, where required by law, the use of third-party cookies is based upon consent.",
+        "simple_answer": "Yes, the app shares data with third parties for advertising purposes.",
+        "extended_simple_answer": {
+          "comment": "The app engages in behavior-based advertising, which involves sharing data with third parties.",
+          "content": "We participate in behavior-based advertising, this means that a third party uses technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites. Where required by law, we base the use of third party cookies upon consent."
+        }
+      },
+      "analysis": "",
+      "reference": "SHARING OF INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1534773757,
+      "url": "http://www.tree-bath.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties for behavior-based advertising, where a third party uses technology (e.g., a cookie) to collect information about your use of the website to provide advertising tailored to your interests. Additionally, if surveys are provided by a third party service provider, the third party’s privacy policy applies to the collection, use, and disclosure of your information.",
+        "simple_answer": "The app shares data with third parties for advertising and survey purposes.",
+        "extended_simple_answer": {
+          "comment": "The app engages in behavior-based advertising and may share data with third-party service providers for surveys.",
+          "content": "Third parties involved include those providing advertising services and survey service providers."
+        }
+      },
+      "analysis": "",
+      "reference": "SHARING OF INFORMATION"
+    }
+  }
+]

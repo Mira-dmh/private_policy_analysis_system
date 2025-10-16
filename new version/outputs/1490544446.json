@@ -1,0 +1,338 @@
+[
+    {
+        "meta": {
+            "id": 1490544446,
+            "url": "https://www.theaqapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that the app collects various forms of personal information for the purpose of providing services and enhancing user experience.",
+            "reference": "Our primary purpose for collecting personal information is to provide you with a secure, smooth, efficient, and effectively personalized service and user experience. URL: https://www.theaqapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "4b04ee11a2ca02cf108ea7feb0be49bacb7be331592eac646e324dca27a665ad",
+                "score": 0.0075772414,
+                "excerpt": "use of the Services, which is governed by US law, you are transferring your Personal Information to the United States and you consent to that transfer.\nEU and Swiss residents: Please bear in mind that we may transfer your Personal Information to the United States where data protection is not deemed adequate under applicable data protection law.Nonetheless, Mindwell undertakes to respect the confidentiality of your Personal Information and to use reasonable efforts to assure that you can exercise...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "0d590737603d0ed9a3fc74aca50c463b3182c890384189313acae8e36784f819",
+                "score": 0.0065388246,
+                "excerpt": "related to your heart rate, activity and other factors designed to inform the Site and/or the Services with regard to Mindfulness. Please consult your device documentation on how to manage local storage and how to apply appropriate security controls to your device for the protection of information. Mindwell is in no way responsible for the protection of data and information stored within the Apple HealthKit database. It is strongly recommended that you review Apple’s applicable policies and proc...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "aa1e65bc08b8f4707a3e387d281307246e1388828e79c468a568c9daaf9333ad",
+                "score": 0.005139611,
+                "excerpt": "first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, and as you use the Site and/or Services, you may provide other information about your focus, breathing, heart rate, sleep, health and fitness activities, health condition and nutritional info and practices (collectively, “Personal Information”). You will also have an option to permit us to import into the Site and/or Services data from third-party services such as Apple HealthKit, among others. We w...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "46f0fe29e81cde7e381fecce10ecd20a827f1bb882af62d40338c935b9025ec9",
+                "score": 0.004848533,
+                "excerpt": "This policy describes the ways Mindwell Labs, Inc. (hereinafter, “Mindwell”, “we”, “our” or “us”) collect, store, use and protect your data. The purpose of this policy is to ensure that Mindwell provides you notice of our data collection and use policies. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in the Terms of Service.\nPRIVACY IS IMPORTANT TO MINDWELL\nHere at Mindwell, your privacy is important to us and this policy provides an overview of how we emp...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "4d0a1c706a0070c24da4df04fd09c75404e4786f049e4fffe2f5eaa016226a3b",
+                "score": 0.0028118587,
+                "excerpt": "or applications that use similar cookies.\nMARKETING\nWe do not sell your personal data to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize the Services, content and advertising. If you do not wish to receive marketing communications from us or participate in our ad programs, you can send an email to info@mindwelllabs.com.\nHOW WE PROTECT YOUR INFORMATION\nW...",
+                "url": "https://www.theaqapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490544446,
+            "url": "https://www.theaqapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, focus, breathing, heart rate, sleep, health and fitness activities, health condition, and nutritional info and practices.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "First and last name",
+                        "Gender",
+                        "Date of birth",
+                        "Height",
+                        "Weight",
+                        "Mental fitness and mindfulness goals",
+                        "Focus",
+                        "Breathing",
+                        "Heart rate",
+                        "Sleep",
+                        "Health and fitness activities",
+                        "Health condition",
+                        "Nutritional info and practices"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived by extracting a list of personal data types mentioned in the privacy policy where the app declares the collection of data.",
+            "reference": "First and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, focus, breathing, heart rate, sleep, health and fitness activities, health condition, and nutritional info and practices. URL: https://www.theaqapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "aa1e65bc08b8f4707a3e387d281307246e1388828e79c468a568c9daaf9333ad",
+                "score": 0.06278921,
+                "excerpt": "first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, and as you use the Site and/or Services, you may provide other information about your focus, breathing, heart rate, sleep, health and fitness activities, health condition and nutritional info and practices (collectively, “Personal Information”). You will also have an option to permit us to import into the Site and/or Services data from third-party services such as Apple HealthKit, among others. We w...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "0d590737603d0ed9a3fc74aca50c463b3182c890384189313acae8e36784f819",
+                "score": 0.03327394,
+                "excerpt": "related to your heart rate, activity and other factors designed to inform the Site and/or the Services with regard to Mindfulness. Please consult your device documentation on how to manage local storage and how to apply appropriate security controls to your device for the protection of information. Mindwell is in no way responsible for the protection of data and information stored within the Apple HealthKit database. It is strongly recommended that you review Apple’s applicable policies and proc...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "4d0a1c706a0070c24da4df04fd09c75404e4786f049e4fffe2f5eaa016226a3b",
+                "score": 0.021532876,
+                "excerpt": "or applications that use similar cookies.\nMARKETING\nWe do not sell your personal data to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize the Services, content and advertising. If you do not wish to receive marketing communications from us or participate in our ad programs, you can send an email to info@mindwelllabs.com.\nHOW WE PROTECT YOUR INFORMATION\nW...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "46f0fe29e81cde7e381fecce10ecd20a827f1bb882af62d40338c935b9025ec9",
+                "score": 0.011158031,
+                "excerpt": "This policy describes the ways Mindwell Labs, Inc. (hereinafter, “Mindwell”, “we”, “our” or “us”) collect, store, use and protect your data. The purpose of this policy is to ensure that Mindwell provides you notice of our data collection and use policies. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in the Terms of Service.\nPRIVACY IS IMPORTANT TO MINDWELL\nHere at Mindwell, your privacy is important to us and this policy provides an overview of how we emp...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "8a861abf8272ade47eb2844e3d4ee817e952ce2c98e81e66ae552c9f689e3fb9",
+                "score": 0.0067188703,
+                "excerpt": "AND HOW WE RESPOND TO DO NOT TRACK SIGNALS\nOnline tracking is the collection of data about an individual’s Internet activity used to deliver targeted advertisements and for other purposes. Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) incorporate a “Do Not Track” (DNT) or similar feature that signals to websites that a visitor does not want to have his/her online activity and behaviour tracked. If an online service elects to respond to a particular DNT signal, the ...",
+                "url": "https://www.theaqapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490544446,
+            "url": "https://www.theaqapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects personal information to provide a secure, smooth, efficient, and personalized user experience.",
+            "reference": "Our primary purpose for collecting personal information is to provide you with a secure, smooth, efficient, and effectively personalized service and user experience. URL: https://www.theaqapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "46f0fe29e81cde7e381fecce10ecd20a827f1bb882af62d40338c935b9025ec9",
+                "score": 0.13753247,
+                "excerpt": "This policy describes the ways Mindwell Labs, Inc. (hereinafter, “Mindwell”, “we”, “our” or “us”) collect, store, use and protect your data. The purpose of this policy is to ensure that Mindwell provides you notice of our data collection and use policies. Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in the Terms of Service.\nPRIVACY IS IMPORTANT TO MINDWELL\nHere at Mindwell, your privacy is important to us and this policy provides an overview of how we emp...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "0d590737603d0ed9a3fc74aca50c463b3182c890384189313acae8e36784f819",
+                "score": 0.06176271,
+                "excerpt": "related to your heart rate, activity and other factors designed to inform the Site and/or the Services with regard to Mindfulness. Please consult your device documentation on how to manage local storage and how to apply appropriate security controls to your device for the protection of information. Mindwell is in no way responsible for the protection of data and information stored within the Apple HealthKit database. It is strongly recommended that you review Apple’s applicable policies and proc...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "4d0a1c706a0070c24da4df04fd09c75404e4786f049e4fffe2f5eaa016226a3b",
+                "score": 0.016721142,
+                "excerpt": "or applications that use similar cookies.\nMARKETING\nWe do not sell your personal data to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize the Services, content and advertising. If you do not wish to receive marketing communications from us or participate in our ad programs, you can send an email to info@mindwelllabs.com.\nHOW WE PROTECT YOUR INFORMATION\nW...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "aa1e65bc08b8f4707a3e387d281307246e1388828e79c468a568c9daaf9333ad",
+                "score": 0.010408314,
+                "excerpt": "first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, and as you use the Site and/or Services, you may provide other information about your focus, breathing, heart rate, sleep, health and fitness activities, health condition and nutritional info and practices (collectively, “Personal Information”). You will also have an option to permit us to import into the Site and/or Services data from third-party services such as Apple HealthKit, among others. We w...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "2efa4f6d5d2b052633342e9425a3b2a041c20139adcf02770681104cc5c27fab",
+                "score": 0.0094490815,
+                "excerpt": "with relevant laws.\nAGGREGATED PERSONAL DATA AND NON-PERSONAL INFORMATION\nWe may share or disclose aggregated personal data or non-personal information with service providers or with other persons we conduct business with, including but not limited potential third-parties for the purpose of showcasing the performance of the Services. These service providers and other persons may also share with us aggregated non-personal information that they have independently developed or acquired. Additionall...",
+                "url": "https://www.theaqapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490544446,
+            "url": "https://www.theaqapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection, indicating that users have the option to control the collection of their data.",
+            "reference": "If you do not wish to receive marketing communications from us or participate in our ad programs, you can send an email to info@mindwelllabs.com. URL: https://www.theaqapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "8a861abf8272ade47eb2844e3d4ee817e952ce2c98e81e66ae552c9f689e3fb9",
+                "score": 0.20817892,
+                "excerpt": "AND HOW WE RESPOND TO DO NOT TRACK SIGNALS\nOnline tracking is the collection of data about an individual’s Internet activity used to deliver targeted advertisements and for other purposes. Some web browsers (including Safari, Internet Explorer, Firefox, and Chrome) incorporate a “Do Not Track” (DNT) or similar feature that signals to websites that a visitor does not want to have his/her online activity and behaviour tracked. If an online service elects to respond to a particular DNT signal, the ...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "4d0a1c706a0070c24da4df04fd09c75404e4786f049e4fffe2f5eaa016226a3b",
+                "score": 0.16465074,
+                "excerpt": "or applications that use similar cookies.\nMARKETING\nWe do not sell your personal data to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize the Services, content and advertising. If you do not wish to receive marketing communications from us or participate in our ad programs, you can send an email to info@mindwelllabs.com.\nHOW WE PROTECT YOUR INFORMATION\nW...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "e7124aeac5d1f60330a3a4a9d5327f74eaa77146ae9239136aba378dad11885f",
+                "score": 0.047337715,
+                "excerpt": "enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Mindwell, our employees, our users, or others.\nBUSINESS TRANSFERS\nWe may choose to buy or sell assets. In these types of transactions, company data is a business asset that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, company data which may include your personal information could be ...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "4b04ee11a2ca02cf108ea7feb0be49bacb7be331592eac646e324dca27a665ad",
+                "score": 0.04069295,
+                "excerpt": "use of the Services, which is governed by US law, you are transferring your Personal Information to the United States and you consent to that transfer.\nEU and Swiss residents: Please bear in mind that we may transfer your Personal Information to the United States where data protection is not deemed adequate under applicable data protection law.Nonetheless, Mindwell undertakes to respect the confidentiality of your Personal Information and to use reasonable efforts to assure that you can exercise...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "aa1e65bc08b8f4707a3e387d281307246e1388828e79c468a568c9daaf9333ad",
+                "score": 0.025468083,
+                "excerpt": "first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, and as you use the Site and/or Services, you may provide other information about your focus, breathing, heart rate, sleep, health and fitness activities, health condition and nutritional info and practices (collectively, “Personal Information”). You will also have an option to permit us to import into the Site and/or Services data from third-party services such as Apple HealthKit, among others. We w...",
+                "url": "https://www.theaqapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490544446,
+            "url": "https://www.theaqapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share Personal Information with third-party services such as Apple, Amazon, and Mixpanel for various purposes, including providing health or fitness services, analytics purposes, and showcasing the performance of the Services.",
+            "reference": "We may share your Personal Information with the following third-party services: Apple and Amazon. We also share your Personal Information with Mixpanel, for analytics purposes. URL: https://www.theaqapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "aa1e65bc08b8f4707a3e387d281307246e1388828e79c468a568c9daaf9333ad",
+                "score": 0.7296161,
+                "excerpt": "first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, and as you use the Site and/or Services, you may provide other information about your focus, breathing, heart rate, sleep, health and fitness activities, health condition and nutritional info and practices (collectively, “Personal Information”). You will also have an option to permit us to import into the Site and/or Services data from third-party services such as Apple HealthKit, among others. We w...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "e7124aeac5d1f60330a3a4a9d5327f74eaa77146ae9239136aba378dad11885f",
+                "score": 0.5745738,
+                "excerpt": "enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Mindwell, our employees, our users, or others.\nBUSINESS TRANSFERS\nWe may choose to buy or sell assets. In these types of transactions, company data is a business asset that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, company data which may include your personal information could be ...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "0d590737603d0ed9a3fc74aca50c463b3182c890384189313acae8e36784f819",
+                "score": 0.55922985,
+                "excerpt": "related to your heart rate, activity and other factors designed to inform the Site and/or the Services with regard to Mindfulness. Please consult your device documentation on how to manage local storage and how to apply appropriate security controls to your device for the protection of information. Mindwell is in no way responsible for the protection of data and information stored within the Apple HealthKit database. It is strongly recommended that you review Apple’s applicable policies and proc...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "d978c9548b4005a5e8429406c303ac81e7ff2726a5443dbed6ae2260403fa0c0",
+                "score": 0.5263884,
+                "excerpt": "subject to the terms and conditions and privacy policies of such third parties. Users acknowledge and agree that Mindwell is not responsible for any third party terms and conditions, nor for privacy policies and use of information by such third parties. Among others, we may share your Personal Information with the following third-party services: Apple and Amazon. We also share your Personal Information with Mixpanel, for analytics purposes (you can access their privacy policy here: https://mixpa...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "2efa4f6d5d2b052633342e9425a3b2a041c20139adcf02770681104cc5c27fab",
+                "score": 0.40016317,
+                "excerpt": "with relevant laws.\nAGGREGATED PERSONAL DATA AND NON-PERSONAL INFORMATION\nWe may share or disclose aggregated personal data or non-personal information with service providers or with other persons we conduct business with, including but not limited potential third-parties for the purpose of showcasing the performance of the Services. These service providers and other persons may also share with us aggregated non-personal information that they have independently developed or acquired. Additionall...",
+                "url": "https://www.theaqapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1490544446,
+            "url": "https://www.theaqapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Apple, Amazon, and Mixpanel.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Apple",
+                        "Amazon",
+                        "Mixpanel"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions specific third parties with which the app shares data.",
+            "reference": "We may share your Personal Information with the following third-party services: Apple and Amazon. We also share your Personal Information with Mixpanel, for analytics purposes. URL: https://www.theaqapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d978c9548b4005a5e8429406c303ac81e7ff2726a5443dbed6ae2260403fa0c0",
+                "score": 0.6136997,
+                "excerpt": "subject to the terms and conditions and privacy policies of such third parties. Users acknowledge and agree that Mindwell is not responsible for any third party terms and conditions, nor for privacy policies and use of information by such third parties. Among others, we may share your Personal Information with the following third-party services: Apple and Amazon. We also share your Personal Information with Mixpanel, for analytics purposes (you can access their privacy policy here: https://mixpa...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "2efa4f6d5d2b052633342e9425a3b2a041c20139adcf02770681104cc5c27fab",
+                "score": 0.57707834,
+                "excerpt": "with relevant laws.\nAGGREGATED PERSONAL DATA AND NON-PERSONAL INFORMATION\nWe may share or disclose aggregated personal data or non-personal information with service providers or with other persons we conduct business with, including but not limited potential third-parties for the purpose of showcasing the performance of the Services. These service providers and other persons may also share with us aggregated non-personal information that they have independently developed or acquired. Additionall...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "aa1e65bc08b8f4707a3e387d281307246e1388828e79c468a568c9daaf9333ad",
+                "score": 0.54243916,
+                "excerpt": "first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals, and as you use the Site and/or Services, you may provide other information about your focus, breathing, heart rate, sleep, health and fitness activities, health condition and nutritional info and practices (collectively, “Personal Information”). You will also have an option to permit us to import into the Site and/or Services data from third-party services such as Apple HealthKit, among others. We w...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "e7124aeac5d1f60330a3a4a9d5327f74eaa77146ae9239136aba378dad11885f",
+                "score": 0.48627052,
+                "excerpt": "enforce or apply our Terms of Service and other agreements; or protect the rights, property, or safety of Mindwell, our employees, our users, or others.\nBUSINESS TRANSFERS\nWe may choose to buy or sell assets. In these types of transactions, company data is a business asset that would be transferred. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, company data which may include your personal information could be ...",
+                "url": "https://www.theaqapp.com/privacy"
+            },
+            {
+                "id": "4d0a1c706a0070c24da4df04fd09c75404e4786f049e4fffe2f5eaa016226a3b",
+                "score": 0.37147856,
+                "excerpt": "or applications that use similar cookies.\nMARKETING\nWe do not sell your personal data to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize the Services, content and advertising. If you do not wish to receive marketing communications from us or participate in our ad programs, you can send an email to info@mindwelllabs.com.\nHOW WE PROTECT YOUR INFORMATION\nW...",
+                "url": "https://www.theaqapp.com/privacy"
+            }
+        ]
+    }
+]

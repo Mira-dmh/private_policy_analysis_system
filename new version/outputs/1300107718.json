@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 1300107718,
+            "url": "http://ggapps.net/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may collect User Provided and Automatically Collected Information, as well as information from surveys to assist in research, without asking for personal information.",
+            "reference": "We may disclose User Provided and Automatically Collected Information; The application allows users to take on surveys to assist research; When you fill our surveys, we will not ask you for personal information. URL: http://ggapps.net/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e8bf58253577e1325a95f4413de287dfdc1fc45db72d1d0cf74411c1b4efdf58",
+                "score": 0.23510839,
+                "excerpt": "described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\n- as required by law, such as to comply with a subpoena, or similar legal process;\n- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\n- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose t...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "325da2890c985ae8a2d36d40a6c4eba7923fbcfe533d8d174e7c2f749e7b9b76",
+                "score": 0.14330755,
+                "excerpt": "system, the type of mobile Internet browsers you use, and information about the way you use the Application.\nResearch and surveys\nThe application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to e...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "2ffe9d168ca718acff1753b484db49873d89974c61393071e8d828633dd45e81",
+                "score": 0.03265138,
+                "excerpt": "can prevent all potential security breaches.\nChanges\nThis Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.\nYour Consent\nBy using the Application, you are consen...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "9219bf48c14db4c3a8e397a9c953f17340d15972eb026cbcaac199e88519fea7",
+                "score": 0.0153063545,
+                "excerpt": "use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net\nData Retention Policy, Managing Your Information\nWe will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to d...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "cdbd78d87defe654752e9aa332fc2be87660873b224702494e1635751ad29465",
+                "score": 0.004556114,
+                "excerpt": "you may not be able to use some of the features offered by the Application unless you register with us.\nWhen you register with us and use the Application, you may provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase an...",
+                "url": "http://ggapps.net/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1300107718,
+            "url": "http://ggapps.net/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The data collected includes the type of mobile device used, unique device ID, IP address, mobile operating system, type of mobile Internet browsers, and information on how the app is used.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Type of mobile device used",
+                        "Unique device ID",
+                        "IP address",
+                        "Mobile operating system",
+                        "Type of mobile Internet browsers",
+                        "Information about app usage"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the specific types of data collected by the application, including details about the mobile devices, operating systems, and browsing information.",
+            "reference": "The data collected includes the type of mobile device used, unique device ID, IP address, mobile operating system, type of mobile Internet browsers, and information on how the app is used. URL: http://ggapps.net/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "325da2890c985ae8a2d36d40a6c4eba7923fbcfe533d8d174e7c2f749e7b9b76",
+                "score": 0.24148938,
+                "excerpt": "system, the type of mobile Internet browsers you use, and information about the way you use the Application.\nResearch and surveys\nThe application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to e...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "cdbd78d87defe654752e9aa332fc2be87660873b224702494e1635751ad29465",
+                "score": 0.09451043,
+                "excerpt": "you may not be able to use some of the features offered by the Application unless you register with us.\nWhen you register with us and use the Application, you may provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase an...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "e8bf58253577e1325a95f4413de287dfdc1fc45db72d1d0cf74411c1b4efdf58",
+                "score": 0.07544843,
+                "excerpt": "described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\n- as required by law, such as to comply with a subpoena, or similar legal process;\n- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\n- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose t...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "2ffe9d168ca718acff1753b484db49873d89974c61393071e8d828633dd45e81",
+                "score": 0.024099445,
+                "excerpt": "can prevent all potential security breaches.\nChanges\nThis Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.\nYour Consent\nBy using the Application, you are consen...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "9219bf48c14db4c3a8e397a9c953f17340d15972eb026cbcaac199e88519fea7",
+                "score": 0.008315778,
+                "excerpt": "use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net\nData Retention Policy, Managing Your Information\nWe will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to d...",
+                "url": "http://ggapps.net/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1300107718,
+            "url": "http://ggapps.net/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions that the purpose of data collection is to assist research, understand the efficiency of the platform and tools, and not for commercial use.",
+            "reference": "The application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to enter their email address during surveys, it is optional, and will only serve to provide users with feedback about their progress. URL: http://ggapps.net/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "325da2890c985ae8a2d36d40a6c4eba7923fbcfe533d8d174e7c2f749e7b9b76",
+                "score": 0.093678005,
+                "excerpt": "system, the type of mobile Internet browsers you use, and information about the way you use the Application.\nResearch and surveys\nThe application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to e...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "e8bf58253577e1325a95f4413de287dfdc1fc45db72d1d0cf74411c1b4efdf58",
+                "score": 0.04401865,
+                "excerpt": "described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\n- as required by law, such as to comply with a subpoena, or similar legal process;\n- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\n- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose t...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "2ffe9d168ca718acff1753b484db49873d89974c61393071e8d828633dd45e81",
+                "score": 0.01858215,
+                "excerpt": "can prevent all potential security breaches.\nChanges\nThis Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.\nYour Consent\nBy using the Application, you are consen...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "9219bf48c14db4c3a8e397a9c953f17340d15972eb026cbcaac199e88519fea7",
+                "score": 0.004297939,
+                "excerpt": "use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net\nData Retention Policy, Managing Your Information\nWe will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to d...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "cdbd78d87defe654752e9aa332fc2be87660873b224702494e1635751ad29465",
+                "score": 0.0033766122,
+                "excerpt": "you may not be able to use some of the features offered by the Application unless you register with us.\nWhen you register with us and use the Application, you may provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase an...",
+                "url": "http://ggapps.net/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1300107718,
+            "url": "http://ggapps.net/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by uninstalling the Application or by requesting to opt-out via email at privacy@ggapps.net. The user can also request the deletion of User Provided Data by contacting privacy@ggapps.net.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can opt out of data collection by uninstalling the application or by requesting to opt-out via email. Users can also request deletion of User Provided Data by contacting the provided email address.",
+            "reference": "You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@ggapps.net and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly. URL: http://ggapps.net/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e8bf58253577e1325a95f4413de287dfdc1fc45db72d1d0cf74411c1b4efdf58",
+                "score": 0.86373675,
+                "excerpt": "described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\n- as required by law, such as to comply with a subpoena, or similar legal process;\n- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\n- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose t...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "9219bf48c14db4c3a8e397a9c953f17340d15972eb026cbcaac199e88519fea7",
+                "score": 0.71432924,
+                "excerpt": "use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net\nData Retention Policy, Managing Your Information\nWe will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to d...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "db6c4ae57812d52180be79b544563b75f3464370a8cacaf98fc70e70b34cb543",
+                "score": 0.14116298,
+                "excerpt": "us at privacy@ggapps.net. We will delete such information from our files within a reasonable time.\nPush notifications\nWe send notices to you on a daily basis, focusing on encouraging daily practice and reminding you to train. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user, you always have the choice to no longer allow your child to receive such communications by contacting us at privacy@ggapps.net. Any user...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "2ffe9d168ca718acff1753b484db49873d89974c61393071e8d828633dd45e81",
+                "score": 0.05572029,
+                "excerpt": "can prevent all potential security breaches.\nChanges\nThis Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.\nYour Consent\nBy using the Application, you are consen...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "325da2890c985ae8a2d36d40a6c4eba7923fbcfe533d8d174e7c2f749e7b9b76",
+                "score": 0.005139611,
+                "excerpt": "system, the type of mobile Internet browsers you use, and information about the way you use the Application.\nResearch and surveys\nThe application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to e...",
+                "url": "http://ggapps.net/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1300107718,
+            "url": "http://ggapps.net/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties as described in the privacy statement.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that aggregated, anonymized data is periodically transmitted to external services to improve the application and service. It also states that user information may be shared with third parties as described in the privacy statement.",
+            "reference": "We will share your information with third parties only in the ways that are described in this privacy statement. URL: http://ggapps.net/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "325da2890c985ae8a2d36d40a6c4eba7923fbcfe533d8d174e7c2f749e7b9b76",
+                "score": 0.97931457,
+                "excerpt": "system, the type of mobile Internet browsers you use, and information about the way you use the Application.\nResearch and surveys\nThe application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to e...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "e8bf58253577e1325a95f4413de287dfdc1fc45db72d1d0cf74411c1b4efdf58",
+                "score": 0.30208218,
+                "excerpt": "described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\n- as required by law, such as to comply with a subpoena, or similar legal process;\n- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\n- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose t...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "2ffe9d168ca718acff1753b484db49873d89974c61393071e8d828633dd45e81",
+                "score": 0.060307644,
+                "excerpt": "can prevent all potential security breaches.\nChanges\nThis Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.\nYour Consent\nBy using the Application, you are consen...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "9219bf48c14db4c3a8e397a9c953f17340d15972eb026cbcaac199e88519fea7",
+                "score": 0.04240383,
+                "excerpt": "use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net\nData Retention Policy, Managing Your Information\nWe will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to d...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "db6c4ae57812d52180be79b544563b75f3464370a8cacaf98fc70e70b34cb543",
+                "score": 0.01627746,
+                "excerpt": "us at privacy@ggapps.net. We will delete such information from our files within a reasonable time.\nPush notifications\nWe send notices to you on a daily basis, focusing on encouraging daily practice and reminding you to train. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user, you always have the choice to no longer allow your child to receive such communications by contacting us at privacy@ggapps.net. Any user...",
+                "url": "http://ggapps.net/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1300107718,
+            "url": "http://ggapps.net/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with trusted service providers who work on their behalf and have agreed to adhere to the rules set forth in the privacy statement.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "trusted service providers"
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with trusted service providers who have agreed to follow the rules mentioned in the privacy statement.",
+            "reference": "with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement. URL: http://ggapps.net/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "325da2890c985ae8a2d36d40a6c4eba7923fbcfe533d8d174e7c2f749e7b9b76",
+                "score": 0.8830344,
+                "excerpt": "system, the type of mobile Internet browsers you use, and information about the way you use the Application.\nResearch and surveys\nThe application allows users to take on surveys to assist research and help us better understand the efficiency of the platform and tools. When you fill our surveys, we will not ask you for personal information, and the information we collect will be completely anonymous. We will never share this information with commercial 3rd parties. In case we offer the users to e...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "e8bf58253577e1325a95f4413de287dfdc1fc45db72d1d0cf74411c1b4efdf58",
+                "score": 0.42650077,
+                "excerpt": "described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\n- as required by law, such as to comply with a subpoena, or similar legal process;\n- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\n- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose t...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "2ffe9d168ca718acff1753b484db49873d89974c61393071e8d828633dd45e81",
+                "score": 0.025516603,
+                "excerpt": "can prevent all potential security breaches.\nChanges\nThis Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.\nYour Consent\nBy using the Application, you are consen...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "9219bf48c14db4c3a8e397a9c953f17340d15972eb026cbcaac199e88519fea7",
+                "score": 0.017712299,
+                "excerpt": "use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@ggapps.net\nData Retention Policy, Managing Your Information\nWe will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to d...",
+                "url": "http://ggapps.net/privacy-policy/"
+            },
+            {
+                "id": "db6c4ae57812d52180be79b544563b75f3464370a8cacaf98fc70e70b34cb543",
+                "score": 0.0077555366,
+                "excerpt": "us at privacy@ggapps.net. We will delete such information from our files within a reasonable time.\nPush notifications\nWe send notices to you on a daily basis, focusing on encouraging daily practice and reminding you to train. If you no longer wish to receive such communications, you may turn them off at the device level. If you are a parent of an underage user, you always have the choice to no longer allow your child to receive such communications by contacting us at privacy@ggapps.net. Any user...",
+                "url": "http://ggapps.net/privacy-policy/"
+            }
+        ]
+    }
+]

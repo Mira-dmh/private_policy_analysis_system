@@ -1,0 +1,338 @@
+[
+    {
+        "meta": {
+            "id": 1019230398,
+            "url": "https://thriveport.com/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data for various purposes.",
+            "reference": "This app uses the following types of tracking technologies: | Name & Purpose | Retention period | Type of publisher & Description | Description | ... URL: https://thriveport.com/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "2a49107151e9a3519b87a517766abd367f24c727460ea884678ae28e6e5d09b1",
+                "score": 0.09825223,
+                "excerpt": "this case, Bending Spoons S.p.A). As the owner, we process the collected data for our own purposes.\nThird-party tracking technologies\nThese are installed and managed by different apps or developers, either for our purposes or for those of the third party.\nThe data collected by the third parties for their own purposes is governed by their specific privacy policies and terms and conditions. For further information about these data processing activities, you can directly refer to the privacy policy...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "d7c99b3b9559f484a4040300071deb31508e8ae6b3aeea559d1974a78f731325",
+                "score": 0.045437217,
+                "excerpt": "certain users, and to trace specific actions or recurring behavioral patterns in the use of the app in relation to specific, identified or identifiable individuals, so they can be grouped within homogeneous, multi-sized clusters. This enables the company to analyze and predict personal elements, provide users with customized services beyond what’s strictly necessary for the delivery of the service, and sending targeted advertising messages in line with the preferences they express during their i...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "3921aca594230f81a631af9bdb1845280c6c0a5f801eb1026ad0525289184c72",
+                "score": 0.036908064,
+                "excerpt": "to track the traffic and performance of an app by collecting aggregate data on the number of users and how they interact with the app, which helps to improve its services.\nFor example, analytics tracking technologies may collect information about how users access an app, including the number of users and potentially grouped by geographical area, time zone, how long they stay on the app, which parts of the app they interact with, and the number of users who used a particular feature.\nNormally, an...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "eed8e7ad7ffc5e4f277007bd8690e254e78ea5d0d6fe4c28eb9b5ce738642b2c",
+                "score": 0.035012625,
+                "excerpt": "Data Protection Regulation (the \"GDPR\"). Whenever we refer to personal information in this Privacy Policy, it means personal information or personal data as defined by applicable laws in the relevant jurisdiction.\nCategories of personal information we collect which may vary based on the Service being used:\nIdentifiers (e.g., a real name, alias, unique personal identifier, online identifier, IP address, email address, account or other similar identifiers).\nPersonal Records (e.g., name and surname...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "b8094c2137021730219179ad777270ebe63bb2f1ffdea2df745db5c721e9e73e",
+                "score": 0.029760094,
+                "excerpt": "marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if we share Personal Information with third parties for their marketing purposes you will be able to elect for us not to do so by submitting your request to privacy@bendingspoons.com (please include your name, mailing address, and email address).\n12. ONLINE PRIVACY CHOICES AND RIGHTS\nDevice permissions\nMobile platforms have permission systems for specific types of device data an...",
+                "url": "https://thriveport.com/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1019230398,
+            "url": "https://thriveport.com/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects identifiers, personal records, usage data, geolocation data, sensory data, commercial information, and information about habits and mood.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identifiers (e.g., real name, alias, IP address)",
+                        "Personal Records (e.g., name, email address)",
+                        "Usage data and network activity",
+                        "Geolocation data",
+                        "Sensory data (e.g., audio, visual)",
+                        "Commercial information",
+                        "Information about habits and mood"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies the types of data that the app collects, ranging from identifiers to information about habits and mood.",
+            "reference": "Categories of personal information we collect which may vary based on the Service being used: Identifiers (e.g., a real name, alias, unique personal identifier, online identifier, IP address, email address, account or other similar identifiers), Personal Records (e.g., name and surname, email address and username) ... Information about habits and mood (i.e. the information that you input on Moodnotes, Window – Intermittent Fasting and Sleepzy). URL: https://thriveport.com/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "eed8e7ad7ffc5e4f277007bd8690e254e78ea5d0d6fe4c28eb9b5ce738642b2c",
+                "score": 0.7070003,
+                "excerpt": "Data Protection Regulation (the \"GDPR\"). Whenever we refer to personal information in this Privacy Policy, it means personal information or personal data as defined by applicable laws in the relevant jurisdiction.\nCategories of personal information we collect which may vary based on the Service being used:\nIdentifiers (e.g., a real name, alias, unique personal identifier, online identifier, IP address, email address, account or other similar identifiers).\nPersonal Records (e.g., name and surname...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "4ef3aef12422546d46ec3be36cd535979f9c74ea9d1c22095594a0f2a394832d",
+                "score": 0.50808644,
+                "excerpt": "may choose to input or provide access to certain physical or health-related information about yourself. Such information will be stored locally on your device and accessed only as described in the \"Information collected from you\" subsection below.\n2. SOURCES OF INFORMATION AND PURPOSES OF USE\nSome of this information you provide to us and some we collect when you use our Services. We also may obtain information about you (including personal information) from our business partners, such as vendor...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "2a49107151e9a3519b87a517766abd367f24c727460ea884678ae28e6e5d09b1",
+                "score": 0.34114337,
+                "excerpt": "this case, Bending Spoons S.p.A). As the owner, we process the collected data for our own purposes.\nThird-party tracking technologies\nThese are installed and managed by different apps or developers, either for our purposes or for those of the third party.\nThe data collected by the third parties for their own purposes is governed by their specific privacy policies and terms and conditions. For further information about these data processing activities, you can directly refer to the privacy policy...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "3921aca594230f81a631af9bdb1845280c6c0a5f801eb1026ad0525289184c72",
+                "score": 0.2165081,
+                "excerpt": "to track the traffic and performance of an app by collecting aggregate data on the number of users and how they interact with the app, which helps to improve its services.\nFor example, analytics tracking technologies may collect information about how users access an app, including the number of users and potentially grouped by geographical area, time zone, how long they stay on the app, which parts of the app they interact with, and the number of users who used a particular feature.\nNormally, an...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "82ce4c129914fe008d982fb8a9f4fe0bfc1705079522050d9891116acb04164f",
+                "score": 0.18082882,
+                "excerpt": "to third parties under any circumstances.\nThe types of third parties to which your data may be transmitted are as follows:\nThird parties that carry out activities related to our business and operations. Such parties can operate either on our behalf as data processors (for example, IT or storage service providers) or as autonomous data controllers (for example, professional advisors providing advice or otherwise protecting and managing our business interests).\nThird parties that collect personal ...",
+                "url": "https://thriveport.com/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1019230398,
+            "url": "https://thriveport.com/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app declares the purpose of data collection and use, ensuring transparency for users.",
+            "reference": "For further information about these data processing activities, you can directly refer to the privacy policy of the relevant third parties as indicated in the subsection Types of tracking technologies used by the app. URL: https://thriveport.com/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "2a49107151e9a3519b87a517766abd367f24c727460ea884678ae28e6e5d09b1",
+                "score": 0.55223787,
+                "excerpt": "this case, Bending Spoons S.p.A). As the owner, we process the collected data for our own purposes.\nThird-party tracking technologies\nThese are installed and managed by different apps or developers, either for our purposes or for those of the third party.\nThe data collected by the third parties for their own purposes is governed by their specific privacy policies and terms and conditions. For further information about these data processing activities, you can directly refer to the privacy policy...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "4ef3aef12422546d46ec3be36cd535979f9c74ea9d1c22095594a0f2a394832d",
+                "score": 0.3413629,
+                "excerpt": "may choose to input or provide access to certain physical or health-related information about yourself. Such information will be stored locally on your device and accessed only as described in the \"Information collected from you\" subsection below.\n2. SOURCES OF INFORMATION AND PURPOSES OF USE\nSome of this information you provide to us and some we collect when you use our Services. We also may obtain information about you (including personal information) from our business partners, such as vendor...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "baacc650a8e0ad15cb5baa879e8900ba2e6878a0a162b1f3e1820af3c79071d0",
+                "score": 0.26607114,
+                "excerpt": "unique identifier through automated means in order to match information collected from you through different means or at different times, (including both personal information and Automated Information) and to use such information as described in this Privacy Policy.\nInformation collected from integrated services\nWe may obtain information, including personal information from third parties and sources that we integrate into our Services either for the provision of our services or to facilitate you...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "d7c99b3b9559f484a4040300071deb31508e8ae6b3aeea559d1974a78f731325",
+                "score": 0.2120688,
+                "excerpt": "certain users, and to trace specific actions or recurring behavioral patterns in the use of the app in relation to specific, identified or identifiable individuals, so they can be grouped within homogeneous, multi-sized clusters. This enables the company to analyze and predict personal elements, provide users with customized services beyond what’s strictly necessary for the delivery of the service, and sending targeted advertising messages in line with the preferences they express during their i...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "eed8e7ad7ffc5e4f277007bd8690e254e78ea5d0d6fe4c28eb9b5ce738642b2c",
+                "score": 0.20609398,
+                "excerpt": "Data Protection Regulation (the \"GDPR\"). Whenever we refer to personal information in this Privacy Policy, it means personal information or personal data as defined by applicable laws in the relevant jurisdiction.\nCategories of personal information we collect which may vary based on the Service being used:\nIdentifiers (e.g., a real name, alias, unique personal identifier, online identifier, IP address, email address, account or other similar identifiers).\nPersonal Records (e.g., name and surname...",
+                "url": "https://thriveport.com/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1019230398,
+            "url": "https://thriveport.com/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the right to object, limit, or restrict the use of their data, request deletion of their data, and even exercise the right to be forgotten in certain circumstances, indicating that users can opt out of data collection or delete data.",
+            "reference": "Object to, or Limit or Restrict, Use of Data: you can ask us to stop using all or some of your personal information or to limit our use of it; Deletion: in certain circumstances, you can request a right 'to be forgotten' (this is a right to have your information deleted or our use of your data restricted). We will honor such requests unless we have to retain this information to comply with a legal obligation or unless we have an overriding interest to retain it; URL: https://thriveport.com/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "1baf2f9143007fd8ba4cb0f8f5cc25e04f23f8fc8cbdc6b5d40f268a28bfc6b9",
+                "score": 0.7364006,
+                "excerpt": "the obligation to monitor messages and communications between and among users for security and training purposes. We may, but are not obligated to, remove any content we deem inappropriate.\n7. YOUR CHOICES AND RIGHTS\nYou have the following rights in relation to how we use your personal information:\nAccess: you may request access to your personal information and receive copies of it;\nCorrection: you may have inaccurate/incomplete personal information corrected and updated;\nObject to, or Limit or ...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "7bcb9837d03dd68634ab1f571ba93b95320eea4f6c7e5461ca667a81b09f144f",
+                "score": 0.6820445,
+                "excerpt": "you with rights that are in addition to those set forth elsewhere in this Privacy Policy regarding our use of your personal information. The CCPA Notice applies to \"Consumers\" as defined by the law. This section describes your CCPA rights as a California Consumer and explains how to exercise those rights. See Sections 1 - 4 above to learn what information we collected from you and how it is collected, used and shared.\nAccess Rights\nNo more than twice in a twelve-month period, you may request the...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "b8094c2137021730219179ad777270ebe63bb2f1ffdea2df745db5c721e9e73e",
+                "score": 0.6270382,
+                "excerpt": "marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if we share Personal Information with third parties for their marketing purposes you will be able to elect for us not to do so by submitting your request to privacy@bendingspoons.com (please include your name, mailing address, and email address).\n12. ONLINE PRIVACY CHOICES AND RIGHTS\nDevice permissions\nMobile platforms have permission systems for specific types of device data an...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "3d1b4fe498cefbfb4ff9768c3b9d810a5501f4c47d2326e7d007600742c93104",
+                "score": 0.3332862,
+                "excerpt": "be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertising to you but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks). Also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cooki...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "77e8d2f4a62aaf5a713357a9571eff5bea382d2c6ae4f0134199221ade970295",
+                "score": 0.29401222,
+                "excerpt": "of your personal information to transfer to another provider); and\nConsent Management: where we rely on consent to process your personal data, you may withdraw consent at any time. You do not have to provide a reason for your withdrawal where processing is based on consent.\nFor your protection, we may require proof of identity and verification before we can answer your requests.\nYou also have the right to complain before the competent national data protection authority, or any other applicable r...",
+                "url": "https://thriveport.com/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1019230398,
+            "url": "https://thriveport.com/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties under specific circumstances as mentioned in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties under certain lawful grounds and specific circumstances.",
+            "reference": "Your personal data may be transmitted to trusted and reliable third parties. This happens only when there are lawful grounds for the transmission. We don’t sell your data, including your images, to third parties under any circumstances. The types of third parties to which your data may be transmitted are as follows: Third parties that carry out activities related to our business and operations. Such parties can operate either on our behalf as data processors (for example, IT or storage service providers) or in the event that we carry out a corporate transaction or operation such as a merger, acquisition, reorganization, sale of assets or assignments, and as a part of the associated due diligence. Public, judicial, or police authorities, within the limits established by applicable laws. Other parties as necessary (for example, competent authorities), if we have reason to believe that your actions are inconsistent with our user agreements or policies or that you’ve violated the law, or if it’s necessary to protect our rights, property, and safety or that of our users, the public, or others. Additionally, we may share your personal data if it’s required for the fulfillment of a legal obligation, or if you give us your consent to do so. URL: https://thriveport.com/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "82ce4c129914fe008d982fb8a9f4fe0bfc1705079522050d9891116acb04164f",
+                "score": 0.9651191,
+                "excerpt": "to third parties under any circumstances.\nThe types of third parties to which your data may be transmitted are as follows:\nThird parties that carry out activities related to our business and operations. Such parties can operate either on our behalf as data processors (for example, IT or storage service providers) or as autonomous data controllers (for example, professional advisors providing advice or otherwise protecting and managing our business interests).\nThird parties that collect personal ...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "b8094c2137021730219179ad777270ebe63bb2f1ffdea2df745db5c721e9e73e",
+                "score": 0.8899121,
+                "excerpt": "marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if we share Personal Information with third parties for their marketing purposes you will be able to elect for us not to do so by submitting your request to privacy@bendingspoons.com (please include your name, mailing address, and email address).\n12. ONLINE PRIVACY CHOICES AND RIGHTS\nDevice permissions\nMobile platforms have permission systems for specific types of device data an...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "2a49107151e9a3519b87a517766abd367f24c727460ea884678ae28e6e5d09b1",
+                "score": 0.86488205,
+                "excerpt": "this case, Bending Spoons S.p.A). As the owner, we process the collected data for our own purposes.\nThird-party tracking technologies\nThese are installed and managed by different apps or developers, either for our purposes or for those of the third party.\nThe data collected by the third parties for their own purposes is governed by their specific privacy policies and terms and conditions. For further information about these data processing activities, you can directly refer to the privacy policy...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "758d6d951d4a9fa61cf6093fe00d5cd1ed283b6d1c268c1548a40600d346e086",
+                "score": 0.8042522,
+                "excerpt": "more effectively market our Services\nServing relevant advertisements, if applicable.\nQuality and Safety Maintenance and Verification\nactivities related to improving the quality of the Services we provide, including upgrade or enhancement of the Services;\nverification or maintenance of the quality or safety of Services;\nTracking and responding to quality and safety matters;\nProtecting our rights and property.\nCompliance with legal obligations\nComplying with our legal obligations, including reques...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "cd2a998843fc5eab3918ad85eee00fa9ebd0536267e4c2ea8dbfba4e1e7e8cfe",
+                "score": 0.8005361,
+                "excerpt": "in the event that we carry out a corporate transaction or operation such as a merger, acquisition, reorganization, sale of assets or assignments, and as a part of the associated due diligence.\nPublic, judicial, or police authorities, within the limits established by applicable laws.\nOther parties as necessary (for example, competent authorities), if we have reason to believe that your actions are inconsistent with our user agreements or policies or that you’ve violated the law, or if it’s necess...",
+                "url": "https://thriveport.com/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1019230398,
+            "url": "https://thriveport.com/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties such as third-party tracking technologies, Facebook, Pinterest, Snapchat, Google Ads, advisors, new owners in corporate transactions, public, judicial, or police authorities, and other parties as necessary.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "third-party tracking technologies",
+                        "Facebook",
+                        "Pinterest",
+                        "Snapchat",
+                        "Google Ads",
+                        "advisors",
+                        "new owners",
+                        "public, judicial, or police authorities",
+                        "other necessary parties"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the various third parties with which the app shares data, ranging from tracking technologies to public authorities, depending on specific circumstances.",
+            "reference": "The app shares data with third parties such as third-party tracking technologies, Facebook, Pinterest, Snapchat, Google Ads, advisors, new owners in corporate transactions, public, judicial, or police authorities, and other parties as necessary. URL: https://thriveport.com/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "82ce4c129914fe008d982fb8a9f4fe0bfc1705079522050d9891116acb04164f",
+                "score": 0.98840266,
+                "excerpt": "to third parties under any circumstances.\nThe types of third parties to which your data may be transmitted are as follows:\nThird parties that carry out activities related to our business and operations. Such parties can operate either on our behalf as data processors (for example, IT or storage service providers) or as autonomous data controllers (for example, professional advisors providing advice or otherwise protecting and managing our business interests).\nThird parties that collect personal ...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "cd2a998843fc5eab3918ad85eee00fa9ebd0536267e4c2ea8dbfba4e1e7e8cfe",
+                "score": 0.9507779,
+                "excerpt": "in the event that we carry out a corporate transaction or operation such as a merger, acquisition, reorganization, sale of assets or assignments, and as a part of the associated due diligence.\nPublic, judicial, or police authorities, within the limits established by applicable laws.\nOther parties as necessary (for example, competent authorities), if we have reason to believe that your actions are inconsistent with our user agreements or policies or that you’ve violated the law, or if it’s necess...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "2a49107151e9a3519b87a517766abd367f24c727460ea884678ae28e6e5d09b1",
+                "score": 0.77475387,
+                "excerpt": "this case, Bending Spoons S.p.A). As the owner, we process the collected data for our own purposes.\nThird-party tracking technologies\nThese are installed and managed by different apps or developers, either for our purposes or for those of the third party.\nThe data collected by the third parties for their own purposes is governed by their specific privacy policies and terms and conditions. For further information about these data processing activities, you can directly refer to the privacy policy...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "b8094c2137021730219179ad777270ebe63bb2f1ffdea2df745db5c721e9e73e",
+                "score": 0.71032697,
+                "excerpt": "marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if we share Personal Information with third parties for their marketing purposes you will be able to elect for us not to do so by submitting your request to privacy@bendingspoons.com (please include your name, mailing address, and email address).\n12. ONLINE PRIVACY CHOICES AND RIGHTS\nDevice permissions\nMobile platforms have permission systems for specific types of device data an...",
+                "url": "https://thriveport.com/privacypolicy/"
+            },
+            {
+                "id": "758d6d951d4a9fa61cf6093fe00d5cd1ed283b6d1c268c1548a40600d346e086",
+                "score": 0.6585273,
+                "excerpt": "more effectively market our Services\nServing relevant advertisements, if applicable.\nQuality and Safety Maintenance and Verification\nactivities related to improving the quality of the Services we provide, including upgrade or enhancement of the Services;\nverification or maintenance of the quality or safety of Services;\nTracking and responding to quality and safety matters;\nProtecting our rights and property.\nCompliance with legal obligations\nComplying with our legal obligations, including reques...",
+                "url": "https://thriveport.com/privacypolicy/"
+            }
+        ]
+    }
+]

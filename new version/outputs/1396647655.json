@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 1396647655,
+            "url": "https://firefly.health/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that Firefly Health collects Personal Data for providing services on their Platform. This indicates that the app declares the collection of data.",
+            "reference": "we only collect the minimum amount necessary to fully perform ... from you or through a third-party...will not be used for any other purpose, including marketing, without your consent. URL: https://firefly.health/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "254cef3af87978df661b1eee78e457073b2485bbe3708908bee8d8b8bc90f459",
+                "score": 0.22236224,
+                "excerpt": "provide you with a Notice of Privacy Practices describing their collection and use of your health information, not Firefly Health. We will only collect and use PHI for the purposes of providing the Services on our Platform and we only collect the minimum amount necessary to fully perform and provide the Services on our Platform. We may combine your PHI with Personal Data that we have either obtained from you or through a third-party, such as your Provider, health insurer, employee benefits progr...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "a365dbb06f67ba541440bd261a80f9dfbb8861f33cd078d22a4d985983040e19",
+                "score": 0.19837458,
+                "excerpt": "do not use a Medical Group Provider) is responsible for providing you with a Notice of Privacy Practices describing its collection and use of your health information, not Firefly Health.\n2.\nKey Terms & Definitions and Our Privacy Notice\nIt is helpful to start by explaining some of our key terms and definitions used in this Privacy Notice.\nKey Term: our “App(s)”\nDefinition: Firefly Health, our mobile applicationKey Term: “Personal Data”\nDefinition: Any information relating to an identified or ide...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "0c877a70b25c41dbbb8245f6f8dbf30aae4fb2b1c4b8a109c15f7edd95271847",
+                "score": 0.03378023,
+                "excerpt": "Privacy Policy\nFirefly Health, Inc. Privacy Notice\nLast Updated: June 28, 2023\nAt Firefly Health, Inc. (“Firefly Health”, ” we”, “us” and/or “our”) your privacy is important to us. Our Privacy Notice describes the information we collect, how we collect information, and the reasons we collect information. This Privacy Notice also describes the choices you have with the information we collect, including how you can manage, update, or request to delete information.Please take a moment to review thi...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "e8273619c5861baee99cd679f49a646389084b5330a1ffcf1d1a195583eda7ed",
+                "score": 0.029035643,
+                "excerpt": "that information, for example the Health Insurance Portability and Accountability Act (“HIPAA”). How we use and disclose such PHI is in accordance with the applicable Notice of Privacy Practices provided to you by the Medical Group. We will not use or disclose information collected from the Secure Platform or received from Medical Group or your Provider for advertising, marketing, or other use-based data mining purposes. We will not sell any PHI.\nOur Privacy Notice and Terms of Service.\nThis Pri...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "5c4367a0f9d381287762f78f14bcdde9c32c56c5c539e40d722d8b5d0185320c",
+                "score": 0.023689471,
+                "excerpt": "or friends) that you designate to receive your information.\nOther health-focused mobile apps. With your consent, we may share your profile information and data collected from your connected devices with other health-focused mobile applications installed on your mobile device to help you track your health and wellness information. If you share your information with these apps, your Personal Data, including your health information, will be used in accordance with privacy policies for those separat...",
+                "url": "https://firefly.health/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1396647655,
+            "url": "https://firefly.health/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Personal identifiers such as a real name, birth date, e-mail address, and unique personal identifier; information related to individuals like name, physical characteristics, health or medical information, insurance policy number, and employment.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal identifiers: real name, birth date, e-mail address, unique personal identifier",
+                        "Information related to individuals: name, physical characteristics, health or medical information, insurance policy number, employment"
+                    ]
+                }
+            },
+            "analysis": "Based on the Personal Data section of the privacy policy document, it is clear that the app collects personal data that includes personal identifiers and information related to individuals.",
+            "reference": "Categories of Personal Data. URL: https://firefly.health/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a365dbb06f67ba541440bd261a80f9dfbb8861f33cd078d22a4d985983040e19",
+                "score": 0.84859616,
+                "excerpt": "do not use a Medical Group Provider) is responsible for providing you with a Notice of Privacy Practices describing its collection and use of your health information, not Firefly Health.\n2.\nKey Terms & Definitions and Our Privacy Notice\nIt is helpful to start by explaining some of our key terms and definitions used in this Privacy Notice.\nKey Term: our “App(s)”\nDefinition: Firefly Health, our mobile applicationKey Term: “Personal Data”\nDefinition: Any information relating to an identified or ide...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "e8273619c5861baee99cd679f49a646389084b5330a1ffcf1d1a195583eda7ed",
+                "score": 0.6521306,
+                "excerpt": "that information, for example the Health Insurance Portability and Accountability Act (“HIPAA”). How we use and disclose such PHI is in accordance with the applicable Notice of Privacy Practices provided to you by the Medical Group. We will not use or disclose information collected from the Secure Platform or received from Medical Group or your Provider for advertising, marketing, or other use-based data mining purposes. We will not sell any PHI.\nOur Privacy Notice and Terms of Service.\nThis Pri...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "e682135b5ffbf7216ea1150ae144ce823b37e0f52654e999bc58ab07e66f3029",
+                "score": 0.27894375,
+                "excerpt": "Service.\n3.\nPersonal Data\n- What is Personal Data?\n- What types of Personal Data do we collect?\n- Health Information\n- How do we collect your Personal Data?\n- How do we use your Personal Data?\n- How do we share your Personal Data?\n- Your choices about how we share your Personal Data.\n- How do I access or correct my Personal Data?\n4.\nWho may use the Services?\n5.\nChildren's Privacy\n6.\nDoes Firefly Health respond to Do Not Track signals?\n7.\nData Security\n8.\nCalifornia’s Shine the Light Law\n9.\nChang...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "254cef3af87978df661b1eee78e457073b2485bbe3708908bee8d8b8bc90f459",
+                "score": 0.23952718,
+                "excerpt": "provide you with a Notice of Privacy Practices describing their collection and use of your health information, not Firefly Health. We will only collect and use PHI for the purposes of providing the Services on our Platform and we only collect the minimum amount necessary to fully perform and provide the Services on our Platform. We may combine your PHI with Personal Data that we have either obtained from you or through a third-party, such as your Provider, health insurer, employee benefits progr...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "0c877a70b25c41dbbb8245f6f8dbf30aae4fb2b1c4b8a109c15f7edd95271847",
+                "score": 0.11221036,
+                "excerpt": "Privacy Policy\nFirefly Health, Inc. Privacy Notice\nLast Updated: June 28, 2023\nAt Firefly Health, Inc. (“Firefly Health”, ” we”, “us” and/or “our”) your privacy is important to us. Our Privacy Notice describes the information we collect, how we collect information, and the reasons we collect information. This Privacy Notice also describes the choices you have with the information we collect, including how you can manage, update, or request to delete information.Please take a moment to review thi...",
+                "url": "https://firefly.health/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1396647655,
+            "url": "https://firefly.health/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states that they only collect and use Personal Health Information (PHI) for providing services on their platform. They mention that PHI will not be used for any purposes other than providing services without user consent.",
+            "reference": "We will only collect and use PHI for the purposes of providing the Services on our Platform and we only collect the minimum amount necessary to fully perform and provide the Services on our Platform. PHI will not be used for any other purpose, including marketing, without your consent. URL: https://firefly.health/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "254cef3af87978df661b1eee78e457073b2485bbe3708908bee8d8b8bc90f459",
+                "score": 0.6124835,
+                "excerpt": "provide you with a Notice of Privacy Practices describing their collection and use of your health information, not Firefly Health. We will only collect and use PHI for the purposes of providing the Services on our Platform and we only collect the minimum amount necessary to fully perform and provide the Services on our Platform. We may combine your PHI with Personal Data that we have either obtained from you or through a third-party, such as your Provider, health insurer, employee benefits progr...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "d0b77c3dbddcf30f5cdea8bf6f9b16210092ef74c4b60864b0258621091a1743",
+                "score": 0.23161423,
+                "excerpt": "Global Ltd (trading as Sopro) Reg. UK Co. 09648733. You can contact Sopro and view their privacy policy here: https://sopro.io. Sopro are registered with the ICO Reg: ZA346877 their Data Protection Officer can be emailed at: dpo@sopro.io.\nOther third party tools. We use other third party tools which allow us to track the performance of our Services. These tools provide us with information about errors, app and website performance, and other technical details we may use to improve our Platform an...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "3698aef223cff66c40156b6417400a63ff00a2094ddf58e0d6c972e416d69cc7",
+                "score": 0.20914644,
+                "excerpt": "and subpoenas and to carry out our legal and contractual obligations.\n- Authenticate use, detect fraudulent use, and otherwise maintain the security of our Platform and the safety of others.\n- Any other purpose with your consent.\nHow do we share your Personal Data?\nWe do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Notice. However, we may disclose Personal Data that we collect or you provide as described in this Privacy Notice f...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "e8273619c5861baee99cd679f49a646389084b5330a1ffcf1d1a195583eda7ed",
+                "score": 0.15934819,
+                "excerpt": "that information, for example the Health Insurance Portability and Accountability Act (“HIPAA”). How we use and disclose such PHI is in accordance with the applicable Notice of Privacy Practices provided to you by the Medical Group. We will not use or disclose information collected from the Secure Platform or received from Medical Group or your Provider for advertising, marketing, or other use-based data mining purposes. We will not sell any PHI.\nOur Privacy Notice and Terms of Service.\nThis Pri...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "a365dbb06f67ba541440bd261a80f9dfbb8861f33cd078d22a4d985983040e19",
+                "score": 0.10447732,
+                "excerpt": "do not use a Medical Group Provider) is responsible for providing you with a Notice of Privacy Practices describing its collection and use of your health information, not Firefly Health.\n2.\nKey Terms & Definitions and Our Privacy Notice\nIt is helpful to start by explaining some of our key terms and definitions used in this Privacy Notice.\nKey Term: our “App(s)”\nDefinition: Firefly Health, our mobile applicationKey Term: “Personal Data”\nDefinition: Any information relating to an identified or ide...",
+                "url": "https://firefly.health/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1396647655,
+            "url": "https://firefly.health/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection by clicking the unsubscribe link at the bottom of any e-mail or other marketing communications received from Firefly Health. However, the opt-out does not apply to information provided as a result of product purchase or use of the platform and services.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy outlines the user's ability to opt-out of data collection specifically for marketing purposes but notes some exceptions related to product purchase or platform use.",
+            "reference": "If you do not wish to have your e-mail address used by Firefly Health to promote our own Products and Services, you can opt-out at any time by clicking the unsubscribe link at the bottom of any e-mail or other marketing communications you receive from us or logging onto your Account Preferences page. This opt out does not apply to information provided to Firefly Health as a result of a product purchase, or your use of our Platform and/or the Services. You may have other options with respect to marketing and communication preferences through our Platform. URL: https://firefly.health/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bdb31d968edf48fc5c48707fbe0a722ced50829c4a31db8deb08be527c546600",
+                "score": 0.9001793,
+                "excerpt": "their own purposes. You can opt out of third parties collecting your Personal Information for targeted advertising purposes in the United States by visiting the National Advertising Initiative's (NAI) opt-out page and the Digital Advertising Alliance's (DAA) opt-out page.\nEach type of web browser provides ways to restrict and delete cookies. Browser manufacturers provide resources to help you with managing cookies. Please see below for more information.\nFor other browsers, please consult the doc...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "1ebe0bcc3b23e5a70e4a17cff7db44d83ac047f0fe67cf9db1a70be9cb253271",
+                "score": 0.805173,
+                "excerpt": "third party products and services. We may share your Personal Data with affiliates and third parties to market their products or services to you if you have not opted out of these disclosures. For more information on opting out, see section 3. Personal Data \"Your Choices about how we share your Personal Data.\"\nThird Party Analytics. We use Google Analytics and Mixpanel to understand and evaluate how visitors interact with our Platform and/or the Services. These tools help us improve our Platform...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "c1e4a27274c37ef4b1075e7580d89bcea22257ecf091d799b924fc2fc72b1707",
+                "score": 0.54661715,
+                "excerpt": "or guardian of a child under 13 years of age whom you believe might have provided use with their Personal Data, you may Contact Us and we will endeavor to delete that information from our databases.\n6.\nDoes Firefly Health respond to Do Not Track signals?\nSome web browsers have a “Do Not Track” feature. This feature lets you tell websites you visit that you do not want to have your online activity tracked. Our Website and App incorporate third-party technology designed to honor such signals and s...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "e6bc177a706706ca8637b8156ab54f85485829419f656a833564956e00363a3d",
+                "score": 0.078925885,
+                "excerpt": "tag is integrated. This service enables us to track user activity on our Website when it has reached our Website via advertisements from Bing Ads. If the page visitor reaches our website via such an ad, a cookie is set on their computer. This enables us to track, among other things, the length of time spent on our Website, which areas of the Website were accessed, and which advertisements have reached our Website. The collection of the data generated by the cookie and related to the use of our W...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "979726f4b06233476cb99933551cba9280cb9c487520ead055029df647153997",
+                "score": 0.07068779,
+                "excerpt": "stores this data, please view FullStory’s privacy policy here: https://www.fullstory.com/legal/privacy/.\nGoogle Analytics. We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of our Platform. Google Analytics uses cookies, to help our Platform analyze how users use our Website. You can find out more about how Google uses data when you visit our Platform by visiting “How Google uses data when you use our partners...",
+                "url": "https://firefly.health/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1396647655,
+            "url": "https://firefly.health/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes such as marketing, research, and product development.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for multiple reasons, including marketing, research, and product development.",
+            "reference": "The app may share data with third parties for various purposes such as marketing, research, or product development. For example, the app may share information like gender, height, weight, medication details, and data from connected devices with third parties. URL: https://firefly.health/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9ebae849a55262121cd4f25e9103de1d92f9138f7f843d16fbeb18807d535e2e",
+                "score": 0.9364014,
+                "excerpt": "similar proceeding, in which Personal Data held by us about our users are among the assets transferred.\nTo enforce our rights. We may share your Personal Data to enforce any applicable terms and conditions and Terms of Use, and to ensure the safety and security of our Services and our users.\nDe-identified information. We may also disclose de-identified information (cannot be reasonably used to identify any individual) with third parties for marketing, advertising, research, or similar purposes. ...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "1ebe0bcc3b23e5a70e4a17cff7db44d83ac047f0fe67cf9db1a70be9cb253271",
+                "score": 0.87386215,
+                "excerpt": "third party products and services. We may share your Personal Data with affiliates and third parties to market their products or services to you if you have not opted out of these disclosures. For more information on opting out, see section 3. Personal Data \"Your Choices about how we share your Personal Data.\"\nThird Party Analytics. We use Google Analytics and Mixpanel to understand and evaluate how visitors interact with our Platform and/or the Services. These tools help us improve our Platform...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "5c4367a0f9d381287762f78f14bcdde9c32c56c5c539e40d722d8b5d0185320c",
+                "score": 0.83359575,
+                "excerpt": "or friends) that you designate to receive your information.\nOther health-focused mobile apps. With your consent, we may share your profile information and data collected from your connected devices with other health-focused mobile applications installed on your mobile device to help you track your health and wellness information. If you share your information with these apps, your Personal Data, including your health information, will be used in accordance with privacy policies for those separat...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "b082aa2c66abab0a58e409096e3e3e4a106d70610e867ec366f3f5089839b671",
+                "score": 0.7188905,
+                "excerpt": "on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential and not disclosing your password to any third parties.\nUnfortunately, the transmission of information via the internet is not completely secure. Although we take commercially reasonable steps designed to protect your Personal Data, we cannot guarantee the security of your Personal Data transmitted to our Services. Any transm...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "c1e4a27274c37ef4b1075e7580d89bcea22257ecf091d799b924fc2fc72b1707",
+                "score": 0.6673645,
+                "excerpt": "or guardian of a child under 13 years of age whom you believe might have provided use with their Personal Data, you may Contact Us and we will endeavor to delete that information from our databases.\n6.\nDoes Firefly Health respond to Do Not Track signals?\nSome web browsers have a “Do Not Track” feature. This feature lets you tell websites you visit that you do not want to have your online activity tracked. Our Website and App incorporate third-party technology designed to honor such signals and s...",
+                "url": "https://firefly.health/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1396647655,
+            "url": "https://firefly.health/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with affiliates, vendors, service providers, business partners, healthcare providers, family members, other health-focused mobile apps, third-party analytics tools like Google Analytics and Mixpanel, and with third parties for marketing purposes.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "affiliates",
+                        "vendors",
+                        "service providers",
+                        "business partners",
+                        "healthcare providers",
+                        "family members",
+                        "other health-focused mobile apps",
+                        "third-party analytics tools (Google Analytics and Mixpanel)",
+                        "third parties for marketing purposes"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the various third parties with whom data may be shared, including affiliates, vendors, healthcare providers, and third-party analytics tools.",
+            "reference": "We may share your Personal Data with our affiliates, vendors, service providers, and business partners...\\nWith your consent, we may share your information, including information collected from your use of our Platform, with your health care providers and/or family members...\\nWe may share your profile information and data collected from your connected devices with other health-focused mobile applications...\\nThird Party Analytics. We use Google Analytics and Mixpanel to...\\nURL: https://firefly.health/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9ebae849a55262121cd4f25e9103de1d92f9138f7f843d16fbeb18807d535e2e",
+                "score": 0.9213576,
+                "excerpt": "similar proceeding, in which Personal Data held by us about our users are among the assets transferred.\nTo enforce our rights. We may share your Personal Data to enforce any applicable terms and conditions and Terms of Use, and to ensure the safety and security of our Services and our users.\nDe-identified information. We may also disclose de-identified information (cannot be reasonably used to identify any individual) with third parties for marketing, advertising, research, or similar purposes. ...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "3698aef223cff66c40156b6417400a63ff00a2094ddf58e0d6c972e416d69cc7",
+                "score": 0.91102153,
+                "excerpt": "and subpoenas and to carry out our legal and contractual obligations.\n- Authenticate use, detect fraudulent use, and otherwise maintain the security of our Platform and the safety of others.\n- Any other purpose with your consent.\nHow do we share your Personal Data?\nWe do not share, sell, or otherwise disclose your Personal Data for purposes other than those outlined in this Privacy Notice. However, we may disclose Personal Data that we collect or you provide as described in this Privacy Notice f...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "5c4367a0f9d381287762f78f14bcdde9c32c56c5c539e40d722d8b5d0185320c",
+                "score": 0.89982784,
+                "excerpt": "or friends) that you designate to receive your information.\nOther health-focused mobile apps. With your consent, we may share your profile information and data collected from your connected devices with other health-focused mobile applications installed on your mobile device to help you track your health and wellness information. If you share your information with these apps, your Personal Data, including your health information, will be used in accordance with privacy policies for those separat...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "1ebe0bcc3b23e5a70e4a17cff7db44d83ac047f0fe67cf9db1a70be9cb253271",
+                "score": 0.89733595,
+                "excerpt": "third party products and services. We may share your Personal Data with affiliates and third parties to market their products or services to you if you have not opted out of these disclosures. For more information on opting out, see section 3. Personal Data \"Your Choices about how we share your Personal Data.\"\nThird Party Analytics. We use Google Analytics and Mixpanel to understand and evaluate how visitors interact with our Platform and/or the Services. These tools help us improve our Platform...",
+                "url": "https://firefly.health/privacy-policy"
+            },
+            {
+                "id": "b082aa2c66abab0a58e409096e3e3e4a106d70610e867ec366f3f5089839b671",
+                "score": 0.70548075,
+                "excerpt": "on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Services, you are responsible for keeping this password confidential and not disclosing your password to any third parties.\nUnfortunately, the transmission of information via the internet is not completely secure. Although we take commercially reasonable steps designed to protect your Personal Data, we cannot guarantee the security of your Personal Data transmitted to our Services. Any transm...",
+                "url": "https://firefly.health/privacy-policy"
+            }
+        ]
+    }
+]

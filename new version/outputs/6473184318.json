@@ -1,0 +1,215 @@
+[
+    {
+        "meta": {
+            "id": 6473184318,
+            "url": "https://pushinteractions.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects information voluntarily provided by users via email or other direct contact, indicating the declaration of data collection.",
+            "reference": "We only have access to/collect information that you voluntarily give us via email or other direct contact from you. URL: https://pushinteractions.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a465e2d162bb32fbed9f20cd31f64af93ec836f7be8a5d130e9734d064550e4",
+                "score": 0.0011786721,
+                "excerpt": "PRIVACY POLICY\nThis privacy notice applies solely to information collected by this web site. It will notify you of the following:\n1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.\n2. What choices are available to you regarding the use of your data.\n3. The security procedures in place to protect the misuse of your information.\n4. How you can correct any inaccuracies in the information.\nInformation Collection, Use...",
+                "url": "https://pushinteractions.com/privacy/"
+            },
+            {
+                "id": "4f28f99d111fdc3159effef8d241ead972cf40667da1b8fc2e856d2b4d011091",
+                "score": 0.0001168284,
+                "excerpt": "via email in the future to tell you about specials, new products or services, or changes to this privacy policy.\nImage Information\nImage information you send to us. We will use the same practices as other types of information.\nYour Access to and Control Over Information\nYou may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:\n– See what data we have about you, if any.\n– Change/cor...",
+                "url": "https://pushinteractions.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473184318,
+            "url": "https://pushinteractions.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personally identifiable information including image information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "personally identifiable information",
+                        "image information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app collects personally identifiable information and image information.",
+            "reference": "What personally identifiable information is collected from you through the web site... Image information you send to us. We will use the same practices as other types of information. URL: https://pushinteractions.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a465e2d162bb32fbed9f20cd31f64af93ec836f7be8a5d130e9734d064550e4",
+                "score": 0.0016293088,
+                "excerpt": "PRIVACY POLICY\nThis privacy notice applies solely to information collected by this web site. It will notify you of the following:\n1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.\n2. What choices are available to you regarding the use of your data.\n3. The security procedures in place to protect the misuse of your information.\n4. How you can correct any inaccuracies in the information.\nInformation Collection, Use...",
+                "url": "https://pushinteractions.com/privacy/"
+            },
+            {
+                "id": "4f28f99d111fdc3159effef8d241ead972cf40667da1b8fc2e856d2b4d011091",
+                "score": 0.0012545944,
+                "excerpt": "via email in the future to tell you about specials, new products or services, or changes to this privacy policy.\nImage Information\nImage information you send to us. We will use the same practices as other types of information.\nYour Access to and Control Over Information\nYou may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:\n– See what data we have about you, if any.\n– Change/cor...",
+                "url": "https://pushinteractions.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473184318,
+            "url": "https://pushinteractions.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app will use the collected information to respond to users' inquiries and communicate about specials, new products, services, or changes to the privacy policy.",
+            "reference": "We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization... Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. URL: https://pushinteractions.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a465e2d162bb32fbed9f20cd31f64af93ec836f7be8a5d130e9734d064550e4",
+                "score": 0.0035657366,
+                "excerpt": "PRIVACY POLICY\nThis privacy notice applies solely to information collected by this web site. It will notify you of the following:\n1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.\n2. What choices are available to you regarding the use of your data.\n3. The security procedures in place to protect the misuse of your information.\n4. How you can correct any inaccuracies in the information.\nInformation Collection, Use...",
+                "url": "https://pushinteractions.com/privacy/"
+            },
+            {
+                "id": "4f28f99d111fdc3159effef8d241ead972cf40667da1b8fc2e856d2b4d011091",
+                "score": 0.00015476662,
+                "excerpt": "via email in the future to tell you about specials, new products or services, or changes to this privacy policy.\nImage Information\nImage information you send to us. We will use the same practices as other types of information.\nYour Access to and Control Over Information\nYou may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:\n– See what data we have about you, if any.\n– Change/cor...",
+                "url": "https://pushinteractions.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473184318,
+            "url": "https://pushinteractions.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. The user has the option to opt out of any future contacts from the app at any time, which includes requests to delete any data collected. The user can contact the app via the provided email address or phone number to exercise these control options.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the ability to opt out of any future contacts from the app and request the deletion of any data collected about them. This demonstrates the user's control over their data.",
+            "reference": "You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: Change/correct any data we have about you. Request us delete any data we have about you. URL: https://pushinteractions.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "4f28f99d111fdc3159effef8d241ead972cf40667da1b8fc2e856d2b4d011091",
+                "score": 0.82161736,
+                "excerpt": "via email in the future to tell you about specials, new products or services, or changes to this privacy policy.\nImage Information\nImage information you send to us. We will use the same practices as other types of information.\nYour Access to and Control Over Information\nYou may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:\n– See what data we have about you, if any.\n– Change/cor...",
+                "url": "https://pushinteractions.com/privacy/"
+            },
+            {
+                "id": "1a465e2d162bb32fbed9f20cd31f64af93ec836f7be8a5d130e9734d064550e4",
+                "score": 0.22388572,
+                "excerpt": "PRIVACY POLICY\nThis privacy notice applies solely to information collected by this web site. It will notify you of the following:\n1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.\n2. What choices are available to you regarding the use of your data.\n3. The security procedures in place to protect the misuse of your information.\n4. How you can correct any inaccuracies in the information.\nInformation Collection, Use...",
+                "url": "https://pushinteractions.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473184318,
+            "url": "https://pushinteractions.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app will not share user information with any third party outside of the organization.",
+            "reference": "We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. URL: https://pushinteractions.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a465e2d162bb32fbed9f20cd31f64af93ec836f7be8a5d130e9734d064550e4",
+                "score": 0.003678509,
+                "excerpt": "PRIVACY POLICY\nThis privacy notice applies solely to information collected by this web site. It will notify you of the following:\n1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.\n2. What choices are available to you regarding the use of your data.\n3. The security procedures in place to protect the misuse of your information.\n4. How you can correct any inaccuracies in the information.\nInformation Collection, Use...",
+                "url": "https://pushinteractions.com/privacy/"
+            },
+            {
+                "id": "4f28f99d111fdc3159effef8d241ead972cf40667da1b8fc2e856d2b4d011091",
+                "score": 0.0011559008,
+                "excerpt": "via email in the future to tell you about specials, new products or services, or changes to this privacy policy.\nImage Information\nImage information you send to us. We will use the same practices as other types of information.\nYour Access to and Control Over Information\nYou may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:\n– See what data we have about you, if any.\n– Change/cor...",
+                "url": "https://pushinteractions.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473184318,
+            "url": "https://pushinteractions.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with any third parties.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "None"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share data with any third parties, ensuring data privacy for users.",
+            "reference": "We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. URL: https://pushinteractions.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a465e2d162bb32fbed9f20cd31f64af93ec836f7be8a5d130e9734d064550e4",
+                "score": 0.009783876,
+                "excerpt": "PRIVACY POLICY\nThis privacy notice applies solely to information collected by this web site. It will notify you of the following:\n1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.\n2. What choices are available to you regarding the use of your data.\n3. The security procedures in place to protect the misuse of your information.\n4. How you can correct any inaccuracies in the information.\nInformation Collection, Use...",
+                "url": "https://pushinteractions.com/privacy/"
+            },
+            {
+                "id": "4f28f99d111fdc3159effef8d241ead972cf40667da1b8fc2e856d2b4d011091",
+                "score": 0.004248079,
+                "excerpt": "via email in the future to tell you about specials, new products or services, or changes to this privacy policy.\nImage Information\nImage information you send to us. We will use the same practices as other types of information.\nYour Access to and Control Over Information\nYou may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:\n– See what data we have about you, if any.\n– Change/cor...",
+                "url": "https://pushinteractions.com/privacy/"
+            }
+        ]
+    }
+]

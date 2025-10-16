@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1112006222,
+      "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. TELUS Health collects, uses, and discloses Personal Information to identify users, establish eligibility, and provide various health and wellness services. This includes information collected through their websites and apps.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that TELUS Health collects Personal Information to provide services and improve user experience.",
+          "content": "TELUS Health collects, uses and discloses Personal Information to identify you, establish eligibility, and provide technology-enabled total health, wellbeing and human resources services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the collection of Personal Information as part of the services provided by TELUS Health, indicating transparency in their data practices.",
+      "reference": "Section 2: About this Privacy Commitment"
+    }
+  },
+  {
+    "meta": {
+      "id": 1112006222,
+      "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Information, which includes any information about an identifiable individual, excluding business contact information used in a professional capacity. This may include Personal Health Information, which is regulated under applicable health privacy legislation and can encompass details related to an individual's physical or mental health, healthcare history, and other healthcare-related personal identification numbers.",
+        "simple_answer": "The app collects Personal Information and Personal Health Information.",
+        "extended_simple_answer": {
+          "comment": "The types of data collected are essential for providing health services and ensuring user identification and eligibility.",
+          "content": "Personal Information includes identifiable information about individuals, while Personal Health Information relates specifically to health and healthcare details."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Definitions and Section 2: About this Privacy Commitment"
+    }
+  },
+  {
+    "meta": {
+      "id": 1112006222,
+      "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. TELUS Health collects, uses, and discloses Personal Information to identify users, establish eligibility, and provide technology-enabled health, wellbeing, and human resources services. Additionally, the information is used to analyze and improve services and to communicate with users.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the purposes for which Personal Information is collected and used.",
+          "content": "TELUS Health collects, uses, and discloses Personal Information to identify you, establish eligibility, and provide technology-enabled total health, wellbeing and human resources services, as well as to analyze and improve services and communicate with you."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: About this Privacy Commitment"
+    }
+  },
+  {
+    "meta": {
+      "id": 1112006222,
+      "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can withdraw their consent to the collection, use, and disclosure of their Personal Information, which may limit TELUS Health's ability to provide services. However, the withdrawal of consent does not affect the lawfulness of the data handling prior to the withdrawal.",
+        "simple_answer": "Yes, users can withdraw consent but it may limit services.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to withdraw consent, but this may impact the services they receive.",
+          "content": "When we rely on consent to collect, use and disclose your Personal Information (which may depend on the jurisdiction in which you are based), you can withdraw your consent to such collection, use and disclosure, subject to our legal, regulatory and contractual restrictions. However, if you refuse to provide certain information or withdraw your consent, this may limit our ability to provide you with the TELUS Health services. The withdrawal of your consent does not affect the lawfulness of our collection, use and disclosure of your Personal Information based on that consent prior to its withdrawal."
+        }
+      },
+      "analysis": "The policy allows users to opt out of data collection by withdrawing consent, but this may affect the services provided to them.",
+      "reference": "Section 4: Consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 1112006222,
+      "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, TELUS Health may refer you to a third party outside of TELUS Health to receive healthcare or other services, and that party will be accountable for handling any Personal Information you provide to them in accordance with that party’s privacy policy.",
+        "simple_answer": "Yes, data may be shared with third parties.",
+        "extended_simple_answer": {
+          "comment": "This sharing occurs when referring users to external healthcare services.",
+          "content": "When TELUS Health refers you to a third party for healthcare or other services, that third party is responsible for handling your Personal Information according to their own privacy policy."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: Accountability"
+    }
+  },
+  {
+    "meta": {
+      "id": 1112006222,
+      "url": "https://www.telus.com/en/health/about-telus-health/privacy/corporate",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties such as Healthcare Practitioners who provide or assist in the provision of healthcare in connection with TELUS Health services. Additionally, if TELUS Health refers you to a third party outside of TELUS Health to receive healthcare or other services, that party will be accountable for handling any Personal Information you provide to them in accordance with that party’s privacy policy.",
+        "simple_answer": "The app shares data with Healthcare Practitioners and third parties outside of TELUS Health.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is primarily with healthcare providers and third-party services.",
+          "content": "The app shares data with Healthcare Practitioners and may refer users to third parties for healthcare or other services."
+        }
+      },
+      "analysis": "The privacy policy indicates that TELUS Health may share personal information with healthcare practitioners and third parties when necessary for service delivery.",
+      "reference": "Section 3: Accountability"
+    }
+  }
+]

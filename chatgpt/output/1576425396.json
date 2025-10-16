@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1576425396,
+      "url": "https://www.thematrescence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal information is collected when users register, express interest in products, participate in activities, or contact the company. Additionally, it mentions the automatic collection of information such as IP address and device characteristics when users visit or use the services.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of data collected and the circumstances under which it is collected.",
+          "content": "The app collects personal information provided by users and automatically collected information such as IP address and device characteristics."
+        }
+      },
+      "analysis": "The privacy policy emphasizes the importance of transparency regarding data collection practices, ensuring users are informed about what information is collected and how it is used.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576425396,
+      "url": "https://www.thematrescence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including personal information that users voluntarily provide, such as names, email addresses, usernames, passwords, birthdays, and payment data. It also collects information automatically, such as IP addresses, browser and device characteristics, log and usage data, device data, and location data. Additionally, if users use the app, it collects information regarding push notifications.",
+        "simple_answer": "The app collects personal information, payment data, device data, location data, and information about push notifications.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both voluntarily provided and automatically collected data.",
+          "content": "Personal information includes names, email addresses, usernames, passwords, birthdays, and payment data. Automatically collected information includes IP addresses, browser/device characteristics, log and usage data, device data, location data, and push notification information."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576425396,
+      "url": "https://www.thematrescence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is processed for various purposes, including maintaining the security and operation of the Services, troubleshooting, and for internal analytics and reporting purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines that the collected information is used for security, troubleshooting, and analytics.",
+          "content": "The app collects information to maintain security, troubleshoot issues, and for internal analytics and reporting."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: HOW DO WE USE YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576425396,
+      "url": "https://www.thematrescence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of certain data collection practices. For instance, users can opt out of allowing the collection of location data by refusing access or disabling the Location setting on their device. Additionally, users can opt out of receiving push notifications by turning them off in their device’s settings. However, opting out may limit the ability to use certain aspects of the Services.",
+        "simple_answer": "Yes, users can opt out of some data collection and delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data collection preferences.",
+          "content": "Users can refuse access to location data or disable it in their device settings, and they can turn off push notifications in their device settings."
+        }
+      },
+      "analysis": "The privacy policy provides clear options for users to manage their data collection preferences, ensuring they have control over their personal information.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT? and Section 2: HOW DO WE USE YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576425396,
+      "url": "https://www.thematrescence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your information with third parties for various purposes, including to provide services, comply with legal obligations, and for marketing purposes. However, the specific details about what information is shared and with whom are not explicitly stated in the provided sections of the privacy policy.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy indicates that data may be shared but does not provide exhaustive details on all third parties involved.",
+          "content": "The app may share your information with third parties for service provision, legal compliance, and marketing."
+        }
+      },
+      "analysis": "The privacy policy mentions sharing information with third parties but lacks detailed specifics on the types of data shared or the third parties involved.",
+      "reference": "Section 2: HOW DO WE USE YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1576425396,
+      "url": "https://www.thematrescence.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties such as payment processors like Stripe and PayPal, as well as social media platforms if users choose to register using their social media accounts.",
+        "simple_answer": "The app shares data with payment processors and social media platforms.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for payment processing and social media logins.",
+          "content": "Payment data is stored by Stripe and PayPal, and if users register using social media accounts, information from those accounts is collected."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT? Personal information you disclose to us"
+    }
+  }
+]

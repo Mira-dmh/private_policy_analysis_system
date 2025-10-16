@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 1601915333,
+            "url": "http://arcgamestudio.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that they collect, process, store, and share personal information as set out in the Privacy Policy.",
+            "reference": "This document, the 'Privacy Policy', explains how we collect, process and store any personal data belonging to you... By accessing and/or using our Services you consent to us collecting, processing, storing and sharing your Personal Information in the ways set out in this Privacy Policy. URL: http://arcgamestudio.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "89ccb8988b37d07e95f9b21cdf24fd30d18c66cf6d9d65d3c67620189e3b0504",
+                "score": 0.13128456,
+                "excerpt": "purchase Services on our game or website, we may collect certain payment information from you on behalf of our payment service providers, but this information is temporarily cached in a way that is unreadable by arc GAME STUDIO. When you purchase items via our apps (such as those you can purchase in the Apple App Store or the Google Play Store) we do not collect or store any payment information from you.\n3. How will we use your Personal Information?\n3.1 You agree that we (or a supplier or group ...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "192948fb53a1cb0b71458e95f0fde13157783521f41c4aa4d57a2abe141f9615",
+                "score": 0.06301947,
+                "excerpt": "|\nPrivacy Policy\nLast Updated Date : January 20, 2020\n1. 1. Introduction\n1.1 arc GAME STUDIO Inc.’s goal is to make wonderful games for everyone to enjoy. We, respect the privacy of everyone who uses our games (the “Game” or “Games”), that are available via the Apple App Store, Google Play Store, and/or on Facebook (the “Website” or “Websites”) and any related services which we or our group companies may provide to you from time to time (together with the Games and Website, the \"Services\"). In t...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "1952c31699614262b1c78f524657aa28313f68aaa4472b02d9528f5bf4a04005",
+                "score": 0.019531239,
+                "excerpt": "for example by identifying your IP address;\n- to allow our Services to interact with a third party social network or platform (where you have chosen to allow such interaction);\n- to allow our payment processors to process your payment instructions;\n- to enable us and third parties to provide you with more customized services, for example to provide our services in the correct language or to enable the provision of more relevant advertising to you; and\n- to collect data such as: your device’s mod...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "9d0dbcd74b1f43ff17226a0f1a03418815118ab4c298af6a6f7453f564c0c871",
+                "score": 0.01665704,
+                "excerpt": "sharing your Personal Information in the ways set out in this Privacy Policy. If you have any concerns about providing data to us or having it used in any manner permitted in this Privacy Policy, you should not use our Services. As set out in the terms and conditions relating to our Services, you must be at least 13 years old to access and/or use our Services. If you are between the ages of 13 and 18, you represent that your legal guardian has reviewed and agreed to these Terms.\n2. Information w...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "b73b16edb9263ed5bd667ad8ce6709d9097b664d74ce5314b7d090bf29590a5a",
+                "score": 0.014842416,
+                "excerpt": "reasonable notice that a change, amendment or modification has been made. You hereby acknowledge and agree that such changes, amendments and/or modifications will become effective when posted on the Service or as otherwise provided by us. If you object to any of the changes you should immediately stop using our Services and close any account you may have with us.\n13 Compliance to the EU General Data Protection Regulation\n13.1 This clause concerns you if you are residing in Europe and using our s...",
+                "url": "http://arcgamestudio.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1601915333,
+            "url": "http://arcgamestudio.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects information such as user-provided data, details of app usage, interactions, device information, and data related to interactions with third-party platforms.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "User-provided information",
+                        "Details of app usage",
+                        "Interactions data",
+                        "Device information",
+                        "Data related to interactions with third-party platforms"
+                    ]
+                }
+            },
+            "analysis": "The types of data collected are mentioned explicitly in the privacy policy, outlining what kind of information is gathered by the app.",
+            "reference": "information that you provide us with when you fill in forms when accessing and/or using our Services directly or using a third party social network or service...details of your use of our Services and the resources that you access...if you contact us or respond to messages and communications...interactions with us...to collect data such as: your device’s model, operating system and screen size...URL: http://arcgamestudio.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "9d0dbcd74b1f43ff17226a0f1a03418815118ab4c298af6a6f7453f564c0c871",
+                "score": 0.18359363,
+                "excerpt": "sharing your Personal Information in the ways set out in this Privacy Policy. If you have any concerns about providing data to us or having it used in any manner permitted in this Privacy Policy, you should not use our Services. As set out in the terms and conditions relating to our Services, you must be at least 13 years old to access and/or use our Services. If you are between the ages of 13 and 18, you represent that your legal guardian has reviewed and agreed to these Terms.\n2. Information w...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "1952c31699614262b1c78f524657aa28313f68aaa4472b02d9528f5bf4a04005",
+                "score": 0.15495056,
+                "excerpt": "for example by identifying your IP address;\n- to allow our Services to interact with a third party social network or platform (where you have chosen to allow such interaction);\n- to allow our payment processors to process your payment instructions;\n- to enable us and third parties to provide you with more customized services, for example to provide our services in the correct language or to enable the provision of more relevant advertising to you; and\n- to collect data such as: your device’s mod...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "89ccb8988b37d07e95f9b21cdf24fd30d18c66cf6d9d65d3c67620189e3b0504",
+                "score": 0.083740406,
+                "excerpt": "purchase Services on our game or website, we may collect certain payment information from you on behalf of our payment service providers, but this information is temporarily cached in a way that is unreadable by arc GAME STUDIO. When you purchase items via our apps (such as those you can purchase in the Apple App Store or the Google Play Store) we do not collect or store any payment information from you.\n3. How will we use your Personal Information?\n3.1 You agree that we (or a supplier or group ...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "bf0079a37f3e12b43630c972b2fc19b06331626b8816f511a6dc8afd8fd3ce9c",
+                "score": 0.0362883,
+                "excerpt": "about how and when you play our Games or visit our Website, what device you use to access our Services or, details regarding profile visits);\n- if you contact us or respond to messages and communications that we send to you, we may keep a record of that correspondence;\n- your interactions with us on our social media channels such as Facebook;\n- we may obtain information about you from third parties who hold data about you and who agree to share this data with us; and\n- information we collect via...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "b73b16edb9263ed5bd667ad8ce6709d9097b664d74ce5314b7d090bf29590a5a",
+                "score": 0.013532149,
+                "excerpt": "reasonable notice that a change, amendment or modification has been made. You hereby acknowledge and agree that such changes, amendments and/or modifications will become effective when posted on the Service or as otherwise provided by us. If you object to any of the changes you should immediately stop using our Services and close any account you may have with us.\n13 Compliance to the EU General Data Protection Regulation\n13.1 This clause concerns you if you are residing in Europe and using our s...",
+                "url": "http://arcgamestudio.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1601915333,
+            "url": "http://arcgamestudio.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines various purposes for collecting and using personal information, such as customer support, account management, marketing, research, fraud prevention, improving services, and compliance with laws.",
+            "reference": "The app declares the purpose of data collection and use for contacting users, managing accounts, improving services, marketing, personalizing content, preventing fraud, compliance with laws, and other purposes. URL: http://arcgamestudio.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "89ccb8988b37d07e95f9b21cdf24fd30d18c66cf6d9d65d3c67620189e3b0504",
+                "score": 0.65445316,
+                "excerpt": "purchase Services on our game or website, we may collect certain payment information from you on behalf of our payment service providers, but this information is temporarily cached in a way that is unreadable by arc GAME STUDIO. When you purchase items via our apps (such as those you can purchase in the Apple App Store or the Google Play Store) we do not collect or store any payment information from you.\n3. How will we use your Personal Information?\n3.1 You agree that we (or a supplier or group ...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "7db297e762ea986915e08b20b76515102b46b13f66e4259e03e0889f587d1d94",
+                "score": 0.07906799,
+                "excerpt": "email) for these purposes;\n- marketing and promotion of our Services or related products, for example sending you communications (including by email) for these purposes on our, or a third party's behalf. For example, we might send you information about merchandise relating to our Services If you do not want us to use your data in this way please let us know by contacting us at support@arcgamestudio.com or the respective customer service e-mail address assigned differently to each Service;\n- to p...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "1952c31699614262b1c78f524657aa28313f68aaa4472b02d9528f5bf4a04005",
+                "score": 0.020371294,
+                "excerpt": "for example by identifying your IP address;\n- to allow our Services to interact with a third party social network or platform (where you have chosen to allow such interaction);\n- to allow our payment processors to process your payment instructions;\n- to enable us and third parties to provide you with more customized services, for example to provide our services in the correct language or to enable the provision of more relevant advertising to you; and\n- to collect data such as: your device’s mod...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "b73b16edb9263ed5bd667ad8ce6709d9097b664d74ce5314b7d090bf29590a5a",
+                "score": 0.008985428,
+                "excerpt": "reasonable notice that a change, amendment or modification has been made. You hereby acknowledge and agree that such changes, amendments and/or modifications will become effective when posted on the Service or as otherwise provided by us. If you object to any of the changes you should immediately stop using our Services and close any account you may have with us.\n13 Compliance to the EU General Data Protection Regulation\n13.1 This clause concerns you if you are residing in Europe and using our s...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "192948fb53a1cb0b71458e95f0fde13157783521f41c4aa4d57a2abe141f9615",
+                "score": 0.0037362205,
+                "excerpt": "|\nPrivacy Policy\nLast Updated Date : January 20, 2020\n1. 1. Introduction\n1.1 arc GAME STUDIO Inc.’s goal is to make wonderful games for everyone to enjoy. We, respect the privacy of everyone who uses our games (the “Game” or “Games”), that are available via the Apple App Store, Google Play Store, and/or on Facebook (the “Website” or “Websites”) and any related services which we or our group companies may provide to you from time to time (together with the Games and Website, the \"Services\"). In t...",
+                "url": "http://arcgamestudio.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1601915333,
+            "url": "http://arcgamestudio.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by contacting support@arcgamestudio.com or respective customer service email addresses, as mentioned in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt-out of data collection or request data deletion by contacting the provided email addresses. This indicates that users have the option to control their data collection preferences.",
+            "reference": "If you do not want us to use your data in this way please let us know by contacting us at support@arcgamestudio.com or the respective customer service e-mail address assigned differently to each Service. URL: http://arcgamestudio.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "7db297e762ea986915e08b20b76515102b46b13f66e4259e03e0889f587d1d94",
+                "score": 0.7550956,
+                "excerpt": "email) for these purposes;\n- marketing and promotion of our Services or related products, for example sending you communications (including by email) for these purposes on our, or a third party's behalf. For example, we might send you information about merchandise relating to our Services If you do not want us to use your data in this way please let us know by contacting us at support@arcgamestudio.com or the respective customer service e-mail address assigned differently to each Service;\n- to p...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "fb8c52addaeb4cfc6bdb2f9638fc03dc1db2af304059271be23e835236a04893",
+                "score": 0.06816438,
+                "excerpt": "information to fraud prevention agencies and other organizations involved in crime and fraud prevention;\n- as otherwise expressly set out in this Privacy Policy or as required by law.\n4. Will we share your Personal Information with third parties?\n4.1 We will only share your data with third parties (for example, our group companies or suppliers):\n- with your consent (including as set out in this Privacy Policy);\n- as reasonably necessary in order to provide the Services to you (for example, by pr...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "88badc0d78a7cce4c8776686ad3520e5a84c5e4c4a0ce53cbd3863d1e3b2dc34",
+                "score": 0.058024745,
+                "excerpt": "amend or delete it because it may not be in our control.\n11. How to contact us\n11.1 To find out more about how your Personal Information will be used please contact us by email at support@arcgamestudio.com or the respective customer service e-mail address assigned differently to each Service.\n12. Legal matters\n12.1 If any court or other competent authority finds any of the terms of this Privacy Policy to be invalid or unenforceable, the other terms of this Privacy Policy will not be affected.\nTh...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "1952c31699614262b1c78f524657aa28313f68aaa4472b02d9528f5bf4a04005",
+                "score": 0.047869004,
+                "excerpt": "for example by identifying your IP address;\n- to allow our Services to interact with a third party social network or platform (where you have chosen to allow such interaction);\n- to allow our payment processors to process your payment instructions;\n- to enable us and third parties to provide you with more customized services, for example to provide our services in the correct language or to enable the provision of more relevant advertising to you; and\n- to collect data such as: your device’s mod...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "b73b16edb9263ed5bd667ad8ce6709d9097b664d74ce5314b7d090bf29590a5a",
+                "score": 0.04304285,
+                "excerpt": "reasonable notice that a change, amendment or modification has been made. You hereby acknowledge and agree that such changes, amendments and/or modifications will become effective when posted on the Service or as otherwise provided by us. If you object to any of the changes you should immediately stop using our Services and close any account you may have with us.\n13 Compliance to the EU General Data Protection Regulation\n13.1 This clause concerns you if you are residing in Europe and using our s...",
+                "url": "http://arcgamestudio.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1601915333,
+            "url": "http://arcgamestudio.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties, such as group companies or suppliers, under different circumstances.",
+            "reference": "We will only share your data with third parties (for example, our group companies or suppliers) ... as reasonably necessary in order to provide the Services to you. URL: http://arcgamestudio.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "4eefcd8607ea666970e377eb3e49979c55089afd12753d5627200877cb500e93",
+                "score": 0.9914225,
+                "excerpt": "of these circumstances.\n5. Interaction with social networks or platforms\n5.1 You may allow our Services to interact with third party social networks or platforms (such as Facebook or Apple’s Game Center), which will provide data about you to us. These applications or websites are created and maintained by a third party which is not a part of, or controlled by arc GAME STUDIO. You should ensure that you read their terms of service and privacy policies to understand how they treat your data and wh...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "a655578f780501e877cefbdf529b93a9800a7df0b25bfce4c644316e6aa99392",
+                "score": 0.94600123,
+                "excerpt": "may publish the information you submitted, alongside your name and home country on our website(s) and social media channels;\n- as we reasonably believe is permitted by law or regulation;\n- in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and/or any other agreement with you; or to protect the rights, property, or safety of arc GAME STUDIO, our users, or others;\n- in the event that there is a sale of the assets of arc GAME STUDIO or corporate r...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "fb8c52addaeb4cfc6bdb2f9638fc03dc1db2af304059271be23e835236a04893",
+                "score": 0.7518304,
+                "excerpt": "information to fraud prevention agencies and other organizations involved in crime and fraud prevention;\n- as otherwise expressly set out in this Privacy Policy or as required by law.\n4. Will we share your Personal Information with third parties?\n4.1 We will only share your data with third parties (for example, our group companies or suppliers):\n- with your consent (including as set out in this Privacy Policy);\n- as reasonably necessary in order to provide the Services to you (for example, by pr...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "7db297e762ea986915e08b20b76515102b46b13f66e4259e03e0889f587d1d94",
+                "score": 0.72282064,
+                "excerpt": "email) for these purposes;\n- marketing and promotion of our Services or related products, for example sending you communications (including by email) for these purposes on our, or a third party's behalf. For example, we might send you information about merchandise relating to our Services If you do not want us to use your data in this way please let us know by contacting us at support@arcgamestudio.com or the respective customer service e-mail address assigned differently to each Service;\n- to p...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "1947df323f80c2ee8cb33bd0a9a92ce3b3ad1720c49c1cf904e4c74e3b668cb7",
+                "score": 0.31226513,
+                "excerpt": "make changes to what data a third party social network or platform shares with us, or stop our Services interacting with that social network or platform by adjusting your settings with that third party provider, however you may find you are not able to enjoy all of the same features of our Services.\n6. For how long will we retain your information?\n6.1 We will retain your Personal Information for as long as is necessary to fulfil the purposes for which it was collected or as needed to provide you...",
+                "url": "http://arcgamestudio.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1601915333,
+            "url": "http://arcgamestudio.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties including our group companies, suppliers, fraud prevention agencies, organizations involved in crime and fraud prevention, and third party social networks or platforms such as Facebook or Apple’s Game Center.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "group companies",
+                        "suppliers",
+                        "fraud prevention agencies",
+                        "organizations involved in crime and fraud prevention",
+                        "third party social networks or platforms"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the various third parties with which the app may share data, ranging from group companies and suppliers to social networks and fraud prevention agencies.",
+            "reference": "Our group companies or suppliers; fraud prevention agencies and other organizations involved in crime and fraud prevention; third party social networks or platforms such as Facebook or Apple’s Game Center. URL: http://arcgamestudio.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "fb8c52addaeb4cfc6bdb2f9638fc03dc1db2af304059271be23e835236a04893",
+                "score": 0.787768,
+                "excerpt": "information to fraud prevention agencies and other organizations involved in crime and fraud prevention;\n- as otherwise expressly set out in this Privacy Policy or as required by law.\n4. Will we share your Personal Information with third parties?\n4.1 We will only share your data with third parties (for example, our group companies or suppliers):\n- with your consent (including as set out in this Privacy Policy);\n- as reasonably necessary in order to provide the Services to you (for example, by pr...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "4eefcd8607ea666970e377eb3e49979c55089afd12753d5627200877cb500e93",
+                "score": 0.6102212,
+                "excerpt": "of these circumstances.\n5. Interaction with social networks or platforms\n5.1 You may allow our Services to interact with third party social networks or platforms (such as Facebook or Apple’s Game Center), which will provide data about you to us. These applications or websites are created and maintained by a third party which is not a part of, or controlled by arc GAME STUDIO. You should ensure that you read their terms of service and privacy policies to understand how they treat your data and wh...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "1947df323f80c2ee8cb33bd0a9a92ce3b3ad1720c49c1cf904e4c74e3b668cb7",
+                "score": 0.60667324,
+                "excerpt": "make changes to what data a third party social network or platform shares with us, or stop our Services interacting with that social network or platform by adjusting your settings with that third party provider, however you may find you are not able to enjoy all of the same features of our Services.\n6. For how long will we retain your information?\n6.1 We will retain your Personal Information for as long as is necessary to fulfil the purposes for which it was collected or as needed to provide you...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "a655578f780501e877cefbdf529b93a9800a7df0b25bfce4c644316e6aa99392",
+                "score": 0.44287744,
+                "excerpt": "may publish the information you submitted, alongside your name and home country on our website(s) and social media channels;\n- as we reasonably believe is permitted by law or regulation;\n- in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions and/or any other agreement with you; or to protect the rights, property, or safety of arc GAME STUDIO, our users, or others;\n- in the event that there is a sale of the assets of arc GAME STUDIO or corporate r...",
+                "url": "http://arcgamestudio.com/privacy/"
+            },
+            {
+                "id": "bf0079a37f3e12b43630c972b2fc19b06331626b8816f511a6dc8afd8fd3ce9c",
+                "score": 0.21766995,
+                "excerpt": "about how and when you play our Games or visit our Website, what device you use to access our Services or, details regarding profile visits);\n- if you contact us or respond to messages and communications that we send to you, we may keep a record of that correspondence;\n- your interactions with us on our social media channels such as Facebook;\n- we may obtain information about you from third parties who hold data about you and who agree to share this data with us; and\n- information we collect via...",
+                "url": "http://arcgamestudio.com/privacy/"
+            }
+        ]
+    }
+]

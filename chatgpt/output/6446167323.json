@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6446167323,
+      "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "The app does not collect personal data unless the user explicitly sends information via the 'Send Report' function. Usage data is collected for monitoring purposes, but it does not include personal data.",
+        "simple_answer": "No, the app does not collect personal data unless requested by the user.",
+        "extended_simple_answer": {
+          "comment": "The app only collects usage data and personal data is only transmitted if the user chooses to send it.",
+          "content": "Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the 'Send Report' (via email) option. Usage data sent from the app to a server does not include your personal data."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data do we hold"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446167323,
+      "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects usage data related to the device and the app itself, such as the operating system version used on the phone. However, it does not collect personal data unless the user explicitly sends information via the 'Send Report' function, which transmits data over email without encryption.",
+        "simple_answer": "The app collects usage data and personal data only if the user sends it via email.",
+        "extended_simple_answer": {
+          "comment": "The app primarily collects usage data for functionality and improvement purposes.",
+          "content": "Usage data includes information about the device and app usage, while personal data is only collected if the user chooses to send it through the app."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data do we hold"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446167323,
+      "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the data is collected to monitor usage, improve the design, functionality, and performance of the app, and to troubleshoot problems. It specifies that personal data is only stored if the user chooses to send it via the 'Send Report' function, and that this data will be handled in accordance with the Trust’s general privacy policy and records retention arrangements.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app collects data primarily for usage monitoring and improvement purposes.",
+          "content": "The app collects usage data to ensure it functions properly and to enhance its design and performance. Personal data is only collected if the user actively sends it through the app."
+        }
+      },
+      "analysis": "",
+      "reference": "What we do with your personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446167323,
+      "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy indicates that the app does not collect personal data unless the user explicitly sends it via the 'Send Report' function. Therefore, users can opt out of data collection by simply not using this function. Additionally, since the app does not store personal data unless sent by the user, there is no data to delete unless the user has sent information through the app.",
+        "simple_answer": "Yes, users can opt out by not using the 'Send Report' function, and there is no data to delete unless sent.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data by choosing whether or not to send it.",
+          "content": "The app does not collect personal data unless the user chooses to send it via email. Therefore, users can avoid data collection by not using the 'Send Report' function. If they do send data, it will be handled according to the Trust's privacy policy."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data do we hold"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446167323,
+      "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, the app does not share data with third parties. The only personal data that may be held is that which you provide by email when using the 'Send Report' function, and this information is handled in accordance with the Trust’s general privacy policy. The app does not store, hold, or share any personal data unless you explicitly send it via email.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app only transmits data if the user chooses to send it via email.",
+          "content": "The app does not hold or share personal data unless you use the 'Send Report' function to email your information."
+        }
+      },
+      "analysis": "",
+      "reference": "What we do with your personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446167323,
+      "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties unless you choose to send your information via the 'Send Report' function. In that case, the information is sent to you and your health professional, but not to the Trust.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app only transmits data if the user actively chooses to send it.",
+          "content": "When using the 'Send Report' function, data is sent to the user and their health professional, but not to the Trust."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal data do we hold"
+    }
+  }
+]

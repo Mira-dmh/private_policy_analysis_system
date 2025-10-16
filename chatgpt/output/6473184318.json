@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6473184318,
+      "url": "https://pushinteractions.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it is the sole owner of the information collected and that it collects information that users voluntarily provide via email or other direct contact.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the collection of personally identifiable information.",
+          "content": "We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the data collection practices of the app, ensuring transparency about how user information is handled.",
+      "reference": "Information Collection, Use, and Sharing"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473184318,
+      "url": "https://pushinteractions.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personally identifiable information that you voluntarily provide via email or other direct contact. This includes information necessary to respond to your inquiries and may also include image information you send to them.",
+        "simple_answer": "The app collects personally identifiable information and image information.",
+        "extended_simple_answer": {
+          "comment": "The app collects data that users voluntarily provide, which may include personal details and images.",
+          "content": "The app collects personally identifiable information through direct contact, such as emails, and also image information sent by users."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection, Use, and Sharing"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473184318,
+      "url": "https://pushinteractions.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected will be used to respond to inquiries and may also be used to inform users about specials, new products or services, or changes to the privacy policy.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy clearly outlines how the collected data will be utilized.",
+          "content": "The information collected will be used to respond to you regarding the reason you contacted us, and may also be used to inform you about specials, new products or services, or changes to this privacy policy."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection, Use, and Sharing"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473184318,
+      "url": "https://pushinteractions.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of any future contacts at any time and can request to delete any data that has been collected about them.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their preferences.",
+          "content": "Users can opt out of future contacts, see what data is held about them, change or correct any data, and request deletion of their data."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Access to and Control Over Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473184318,
+      "url": "https://pushinteractions.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share your information with any third party outside of the organization, except as necessary to fulfill your request, such as to ship an order.",
+        "simple_answer": "No, the app does not share data with third parties except as necessary.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares information when absolutely necessary.",
+          "content": "We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection, Use, and Sharing"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473184318,
+      "url": "https://pushinteractions.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.",
+        "simple_answer": "The app does not share data with third parties except as necessary to fulfill requests.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes that data is not sold or rented to third parties.",
+          "content": "We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app does not share data with third parties except when necessary to fulfill user requests, indicating a strong commitment to user privacy.",
+      "reference": "Information Collection, Use, and Sharing"
+    }
+  }
+]

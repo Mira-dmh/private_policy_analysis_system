@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1666827532,
+      "url": "https://retailweb.com.au/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. Retailweb collects personal information that users actively provide during account creation or in response to forms or questionnaires, as well as information related to the use of the website, products, or services, such as download history and IP address.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the types of data collected from users.",
+          "content": "Retailweb may process personal information that a user actively provides during account creation or otherwise in response to forms or questionnaires, or sales inquiries and transactions such as the name and physical address, email addresses, telephone numbers, and employer. It also collects data related to the use of the website, products, or services, such as download history and IP address."
+        }
+      },
+      "analysis": "",
+      "reference": "Retailweb Privacy Policy, Section: 'Retailweb may process personal information that...'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1666827532,
+      "url": "https://retailweb.com.au/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that users actively provide during account creation or in response to forms or questionnaires, such as name, physical address, email addresses, telephone numbers, and employer. It may also collect information available from third parties relevant to the use or licensing of its products and services, as well as data related to the use of the website, products, or services, such as download history and IP address.",
+        "simple_answer": "The app collects personal information like name, address, email, phone number, and usage data such as download history and IP address.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both user-provided and third-party data to enhance its services.",
+          "content": "Personal information provided by users includes name, physical address, email, phone number, and employer. It also collects usage data like download history and IP address."
+        }
+      },
+      "analysis": "",
+      "reference": "Retailweb Privacy Policy, Section: 'Retailweb may process personal information that...'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1666827532,
+      "url": "https://retailweb.com.au/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that personal information is processed for Retailweb business purposes, including lawful purposes related to recruitment, marketing, and license management. It specifies that the processing is based on legitimate interests and outlines the types of personal information collected and the reasons for its use.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the purposes for which personal data is collected and processed.",
+          "content": "Retailweb processes personal information for business purposes such as recruitment, marketing, and license management, and ensures that such processing is based on legitimate interests."
+        }
+      },
+      "analysis": "The privacy policy provides a clear declaration of the purposes for data collection and use, ensuring transparency for users regarding how their personal information will be utilized.",
+      "reference": "Retailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes relating to recruitment, marketing and license management."
+    }
+  },
+  {
+    "meta": {
+      "id": 1666827532,
+      "url": "https://retailweb.com.au/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt-out of receiving news and information from Retailweb at any time. However, the privacy policy does not explicitly mention a process for opting out of data collection or deleting data. Users are encouraged to contact Retailweb for any specific requests regarding their personal data.",
+        "simple_answer": "Yes, users can opt-out of receiving communications but not explicitly mentioned for data collection or deletion.",
+        "extended_simple_answer": {
+          "comment": "While users can opt-out of communications, the policy does not provide a clear method for opting out of data collection or deleting data.",
+          "content": "Retailweb allows users to opt-out of receiving news and information at any time, but does not specify a process for opting out of data collection or deleting personal data."
+        }
+      },
+      "analysis": "The privacy policy indicates that users can opt-out of communications but lacks clarity on the process for opting out of data collection or deleting data.",
+      "reference": "Retailweb may send such news and information without a consent. You may opt-out of receiving such news and information at any time."
+    }
+  },
+  {
+    "meta": {
+      "id": 1666827532,
+      "url": "https://retailweb.com.au/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Retailweb may engage service providers to process personal information and may transfer such personal data to third parties for business purposes, as long as such transfers are reasonably necessary. However, Retailweb does not sell personal information to third parties.",
+        "simple_answer": "Yes, the app may share data with third parties for business purposes.",
+        "extended_simple_answer": {
+          "comment": "Retailweb ensures that any data sharing is compliant with applicable laws.",
+          "content": "Retailweb may transfer personal data to third parties for business purposes, but does not sell personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "Retailweb may engage service providers to process the personal information. Also Retailweb may for its business purposes and subject to the limitations of the applicable law, transfer such personal data to third parties to the extent such transfers are reasonably necessary for the business purposes of Retailweb."
+    }
+  },
+  {
+    "meta": {
+      "id": 1666827532,
+      "url": "https://retailweb.com.au/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "Retailweb may engage service providers to process personal information and may transfer such personal data to third parties to the extent such transfers are reasonably necessary for the business purposes of Retailweb. This may include providing a company list of downloads of Retailweb products using an IP address linked to the company or in relation to which the name of the company has been provided by the user.",
+        "simple_answer": "Retailweb shares data with service providers and may transfer data to third parties for business purposes.",
+        "extended_simple_answer": {
+          "comment": "Retailweb does not sell personal information but may share it for legitimate business needs.",
+          "content": "Retailweb may engage service providers and transfer data to third parties as necessary for business purposes."
+        }
+      },
+      "analysis": "The privacy policy indicates that while Retailweb does not sell personal information, it may share data with service providers and other third parties for legitimate business purposes, such as processing and managing licenses.",
+      "reference": "Retailweb may engage service providers to process the personal information. Also Retailweb may for its business purposes and subject to the limitations of the applicable law, transfer such personal data to third parties to the extent such transfers are reasonably necessary for the business purposes of Retailweb."
+    }
+  }
+]

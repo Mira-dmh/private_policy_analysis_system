@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1503638078,
+      "url": "https://ayadihealth.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that information is collected directly from users when they provide it, as well as automatically when they use the Website. This includes personal information such as name, email address, and other identifiers, as well as usage details and device information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of information collected and the methods of collection.",
+          "content": "The app collects information directly from users and automatically during usage, including personal information and device details."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the methods of collection, ensuring transparency about data practices.",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 1503638078,
+      "url": "https://ayadihealth.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including personal information such as name, postal address, email address, telephone number, and any other identifier by which you may be contacted. It also collects information you provide by filling in forms, records of correspondence, survey responses, transaction details, search queries, and chat text. Additionally, it collects automatic information such as usage details, device information, and stored information and files, but does not collect real-time location information.",
+        "simple_answer": "The app collects personal information, usage details, device information, and stored files.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to enhance user experience and service delivery.",
+          "content": "The types of data collected include personal information (name, address, email, phone number), information from forms, correspondence records, survey responses, transaction details, search queries, chat text, usage details, device information, and stored files."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 1503638078,
+      "url": "https://ayadihealth.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the information collected is used for practices such as maintaining, protecting, and disclosing user information, as well as for fulfilling orders and providing services. The policy outlines that the information may be used to improve the user experience and for research purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the purposes for which user data is collected.",
+          "content": "The information collected is used for maintaining, protecting, and disclosing user information, fulfilling orders, and improving user experience."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the purposes for data collection, ensuring transparency for users regarding how their information will be utilized.",
+      "reference": "Introduction section and Information We Collect and How We Collect It section."
+    }
+  },
+  {
+    "meta": {
+      "id": 1503638078,
+      "url": "https://ayadihealth.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by deleting the app from their device. Additionally, users may opt out of the Website’s collection of location information, which will disable its location-based features. Users can also delete their account to stop data collection.",
+        "simple_answer": "Yes, users can opt out by deleting the app or their account.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data collection preferences.",
+          "content": "If you do not want us to collect this information, do not download the Website or delete it from your device. You may opt out at any time by deleting your account. Note, however, that opting out of the Website’s collection of location information will cause its location-based features to be disabled."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Tracking Technologies"
+    }
+  },
+  {
+    "meta": {
+      "id": 1503638078,
+      "url": "https://ayadihealth.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. The privacy policy states that certain third parties may use automatic information collection technologies to collect information about you or your device when you use the Website or its content. These third parties may include advertisers, ad networks, ad servers, analytics companies, your mobile device manufacturer, and your mobile service provider.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app's privacy policy indicates that third parties may collect information through automatic technologies.",
+          "content": "These third parties include advertisers, ad networks, analytics companies, and others who may collect data when you use the app."
+        }
+      },
+      "analysis": "The app's privacy policy clearly outlines that third parties may have access to user data through various means, which is a common practice in many applications for advertising and analytics purposes.",
+      "reference": "Third-Party Information Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 1503638078,
+      "url": "https://ayadihealth.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties such as advertisers, ad networks, ad servers, analytics companies, your mobile device manufacturer, and your mobile service provider.",
+        "simple_answer": "The app shares data with advertisers, analytics companies, and mobile service providers.",
+        "extended_simple_answer": {
+          "comment": "These third parties may use automatic information collection technologies to gather information about you or your device.",
+          "content": "Advertisers, ad networks, ad servers, analytics companies, your mobile device manufacturer, and your mobile service provider."
+        }
+      },
+      "analysis": "",
+      "reference": "Third-Party Information Collection"
+    }
+  }
+]

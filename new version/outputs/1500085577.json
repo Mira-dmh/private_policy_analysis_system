@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1500085577,
+            "url": "https://sona.care/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal information through various means, indicating the declaration of data collection.",
+            "reference": "this privacy policy (this 'policy') describes how your personal information...register with, access or use our app, sona (the 'app'). URL: https://sona.care/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f0873daebcd0130a6a08eac45478be21fef8753788f746391df7f42efa80fff5",
+                "score": 0.74558365,
+                "excerpt": "the app.\nwe use the device information that we collect to help us screen for potential risk and fraud (in particular, your ip address), and more generally to improve and optimize our app (for example, by recording the popularity of certain app content and verifying system and server integrity), and to assess the success of our marketing and advertising campaigns.\nwhen you download, register with, or use this app, we collect other personally identifying data and information from you, such as your...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "8fccdb728500a56fe85cb9af37a2d5db45d0a27a0ae7e1f8327eddce97b4aa75",
+                "score": 0.402216,
+                "excerpt": "privacy policy\npineal labs inc. (“we” “us” or “our”) respect your privacy and are committed to protecting it through our compliance with this policy.\nthis privacy policy (this “policy”) describes how your personal information (as defined in section 1) is collected, used, and shared when you purchase, download, install, register with, access or use our app, sona (the “app”).\nby downloading, registering with, or using this app, you are consenting to the collection of personal information and use p...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "83edb378dbcc272244fb22ec42e89fd65a2555bf1e9df89847312d3dce91e51b",
+                "score": 0.22988081,
+                "excerpt": "or not you completed any actions like making a purchase. nothing collected is personally identifiable.\nwe may allow others to serve advertisements on our behalf, on other sites across the internet, based on you visiting our app in the past. these entities may use cookies, web beacons, or other technologies to function properly and identify the effectiveness of those efforts.\nyou have the right to update, correct, or modify information we may have about you at any time by logging into your accoun...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "c85bf5c5824e3168dca34abfee5c99fd80c3be10569f9bee3b9471120ae4f899",
+                "score": 0.17455094,
+                "excerpt": "us. as the provider of the app, we have no knowledge of the content of the data transmitted or its use by facebook. further information can be found on facebook’s privacy policy. if you do not want information to be collected via facebook connect, please do not register via facebook connect.\nin addition to the uses set forth elsewhere in this policy, we may use personal information about you for various purposes, including to:\nprovide, maintain and improve the app and our products;\nmanage your a...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "8f20318e672dac6d9dc0fec30eb4cba0fe46d7fb7c0649075b6c8fd341172e49",
+                "score": 0.14792407,
+                "excerpt": "you are visiting from the european union or other region with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the united states and processing globally. by providing your information, you expressly consent to any transfer and processing in accordance with this policy while acknowledging that privacy laws in the united states may be different, and in some cases, less protective, than those in effect in your jurisdiction.\nusers in th...",
+                "url": "https://sona.care/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1500085577,
+            "url": "https://sona.care/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as device information (e.g., unique device identification number, IP address, browser type, operating system), order information (e.g., name, billing address, email address), and demographic information (e.g., age, gender, system details). It also collects information about mobile device and internet connection, location data, and cookies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device information",
+                        "Order information",
+                        "Demographic information",
+                        "Location data",
+                        "Cookies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions various types of data collected, including device information, order information, demographic information, location data, and cookies. This indicates a comprehensive range of data collection by the app.",
+            "reference": "device information, order information, demographic information, location data, cookies . URL: https://sona.care/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f0873daebcd0130a6a08eac45478be21fef8753788f746391df7f42efa80fff5",
+                "score": 0.79310596,
+                "excerpt": "the app.\nwe use the device information that we collect to help us screen for potential risk and fraud (in particular, your ip address), and more generally to improve and optimize our app (for example, by recording the popularity of certain app content and verifying system and server integrity), and to assess the success of our marketing and advertising campaigns.\nwhen you download, register with, or use this app, we collect other personally identifying data and information from you, such as your...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "846b1e082530b6d2497f5de4ea72ae80be46bef4ddf619ea21a7839ed17844f6",
+                "score": 0.77218723,
+                "excerpt": "including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the app. we also collect information about your mobile device and internet connection, including the device’s unique device identification number, information about your web browser, operating system, ip address, mobile network information, the device’s telephone number, time zone, and some of the cookies that are installed on your device. this app collects real-time ...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "b28722b8afda0520359cbe2256c78dbb47337307f0acd1088db63ed0e2fe7050",
+                "score": 0.28557116,
+                "excerpt": "as google), use cookies to analyze user activity in order to improve the app. for example, using cookies we can look at aggregate patterns, like the average duration of daily usage. we can use such analysis to gain insights about how to improve the functionality and experience for all users, as well as serve ads based on past app activity.\ngoogle analytics\nas you navigate through and interact with our app, we may utilize automatic data collection technologies (such as google analytics for fireba...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "8fccdb728500a56fe85cb9af37a2d5db45d0a27a0ae7e1f8327eddce97b4aa75",
+                "score": 0.22781274,
+                "excerpt": "privacy policy\npineal labs inc. (“we” “us” or “our”) respect your privacy and are committed to protecting it through our compliance with this policy.\nthis privacy policy (this “policy”) describes how your personal information (as defined in section 1) is collected, used, and shared when you purchase, download, install, register with, access or use our app, sona (the “app”).\nby downloading, registering with, or using this app, you are consenting to the collection of personal information and use p...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "83edb378dbcc272244fb22ec42e89fd65a2555bf1e9df89847312d3dce91e51b",
+                "score": 0.124638565,
+                "excerpt": "or not you completed any actions like making a purchase. nothing collected is personally identifiable.\nwe may allow others to serve advertisements on our behalf, on other sites across the internet, based on you visiting our app in the past. these entities may use cookies, web beacons, or other technologies to function properly and identify the effectiveness of those efforts.\nyou have the right to update, correct, or modify information we may have about you at any time by logging into your accoun...",
+                "url": "https://sona.care/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1500085577,
+            "url": "https://sona.care/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purposes for which personal information is collected and used within the app.",
+            "reference": "we may use personal information about you for various purposes, including to: provide, maintain and improve the app and our products; manage your account and send you related information...carry out any other purpose for which the information was collected. URL: https://sona.care/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "8f20318e672dac6d9dc0fec30eb4cba0fe46d7fb7c0649075b6c8fd341172e49",
+                "score": 0.82147413,
+                "excerpt": "you are visiting from the european union or other region with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the united states and processing globally. by providing your information, you expressly consent to any transfer and processing in accordance with this policy while acknowledging that privacy laws in the united states may be different, and in some cases, less protective, than those in effect in your jurisdiction.\nusers in th...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "f0873daebcd0130a6a08eac45478be21fef8753788f746391df7f42efa80fff5",
+                "score": 0.6658453,
+                "excerpt": "the app.\nwe use the device information that we collect to help us screen for potential risk and fraud (in particular, your ip address), and more generally to improve and optimize our app (for example, by recording the popularity of certain app content and verifying system and server integrity), and to assess the success of our marketing and advertising campaigns.\nwhen you download, register with, or use this app, we collect other personally identifying data and information from you, such as your...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "c85bf5c5824e3168dca34abfee5c99fd80c3be10569f9bee3b9471120ae4f899",
+                "score": 0.61958635,
+                "excerpt": "us. as the provider of the app, we have no knowledge of the content of the data transmitted or its use by facebook. further information can be found on facebook’s privacy policy. if you do not want information to be collected via facebook connect, please do not register via facebook connect.\nin addition to the uses set forth elsewhere in this policy, we may use personal information about you for various purposes, including to:\nprovide, maintain and improve the app and our products;\nmanage your a...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "213782b529478f34f790ca920d4b27ed103bace92ebe5bbc471efe7c3be210e7",
+                "score": 0.4020986,
+                "excerpt": "your profile or interests;\nfacilitate contests, sweepstakes and promotions and process and deliver entries and rewards;\nlink or combine with information we get from others to help understand your needs and provide you with a better experience; and\ncarry out any other purpose for which the information was collected.\nsection 2 – consent\nhow do you get my consent?\nyou consent to our collection and use of device information by using or accessing the app.\nyou consent to our collection and use of orde...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "b332640a329b5b26f83307f301ef4b449b786cb77588e199da289c71b0cb255b",
+                "score": 0.2600135,
+                "excerpt": "our application that are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. to make such a request, please contact us via email at pineallabs@gmail.com.\nsection 4 – retention of personal information\nwe will only retain your personal information for as long as necessary to fulfill the purpose we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requi...",
+                "url": "https://sona.care/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1500085577,
+            "url": "https://sona.care/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt-out of data collection.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users who wish to not have their data collected with Google Analytics can visit the provided opt-out link. Additionally, users have the right to update, correct, or modify information by contacting the company via email.",
+            "reference": "users who wish to not have their data collected with google analytics can visit the network advertising initiative opt-out link: http://optout.networkadvertising.org/?c=1#!%2fpage. URL: https://sona.care/privacy-policy",
+            "URL": "https://sona.care/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "83edb378dbcc272244fb22ec42e89fd65a2555bf1e9df89847312d3dce91e51b",
+                "score": 0.4519614,
+                "excerpt": "or not you completed any actions like making a purchase. nothing collected is personally identifiable.\nwe may allow others to serve advertisements on our behalf, on other sites across the internet, based on you visiting our app in the past. these entities may use cookies, web beacons, or other technologies to function properly and identify the effectiveness of those efforts.\nyou have the right to update, correct, or modify information we may have about you at any time by logging into your accoun...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "cd977a033efe782513e844b2cef24cf75380a118e6d748871b0dddaafff543dd",
+                "score": 0.19544049,
+                "excerpt": "accordance with applicable law obligations. this may include retention necessary to identify, issue or resolve legal proceedings. we may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. you cannot be identified from aggregate information retained or used for these purposes. you may ask us to delete your information at any time and we will delete this information to the extent permitted by applicable law, document retention ...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "077b4952f1d567d07fe3b3916d9c21b61b11c92d2b1c16fd6cd0626af7072bca",
+                "score": 0.18907149,
+                "excerpt": "decide you don’t want to receive marketing emails from us, you can opt out of marketing emails by clicking the “unsubscribe” link in our emails.\nsection 3 - disclosure\nsubject to the terms of this policy, we shall never sell, rent, share or otherwise distribute or make available your personal information to third parties outside of our group of companies without your consent, except that we may access, use, preserve, and disclose your personal information to third parties if we believe in good f...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "a59953b5fa16f84762323e9648856e55d3ee8f0c66bfcb8b0fa7de4a9daa1bc7",
+                "score": 0.14780103,
+                "excerpt": "act of 2018 (“ccpa”). to learn more about your california privacy rights under the ccpa, visit https://oag.ca.gov/privacy/ccpa.\nwe will not discriminate against you for exercising any of your ccpa rights. unless permitted by the ccpa, we will not:\ndeny you goods or services.\ncharge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.\nprovide you a different level or quality of goods or services.\nsuggest that you may r...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "2c59ef0e22a48604a952c8a6bf739571f7ce1af9e5904b36af61485fabf1f114",
+                "score": 0.14128143,
+                "excerpt": "only applies when the processing of your personal data is based on your consent or on a contract and such processing is carried out by automated means.\nthe right to restrict or object to our processing. you have the right to restrict or object to our processing if we are processing your data based on legitimate interests or the performance of a task in the public interest as an exercise of official authority (including profiling); using your data for direct marketing (including profiling); or pr...",
+                "url": "https://sona.care/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1500085577,
+            "url": "https://sona.care/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that certain third-party service providers are used, which collect, use, and disclose information to perform services. It also mentions sharing phone contacts with Twilio when extending the free trial period, indicating data sharing with third parties.",
+            "reference": "In general, the third-party service providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. Twilio: Only if you decide to extend the free trial period using the 'invite friends' option, we share your phone contacts with Twilio in order to distribute the invitations. URL: https://sona.care/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b332640a329b5b26f83307f301ef4b449b786cb77588e199da289c71b0cb255b",
+                "score": 0.95589906,
+                "excerpt": "our application that are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. to make such a request, please contact us via email at pineallabs@gmail.com.\nsection 4 – retention of personal information\nwe will only retain your personal information for as long as necessary to fulfill the purpose we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requi...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "ca03a98250ec600d5d49208af16f66902983c30a2bd823ca449c681f6a68edec",
+                "score": 0.88483775,
+                "excerpt": "third-party services\nin general, the third-party service providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.\nhowever, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies with respect to the information we are required to provide to them for your purchase-related transactions.\nfor those providers, we recommend...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "cd977a033efe782513e844b2cef24cf75380a118e6d748871b0dddaafff543dd",
+                "score": 0.77696157,
+                "excerpt": "accordance with applicable law obligations. this may include retention necessary to identify, issue or resolve legal proceedings. we may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. you cannot be identified from aggregate information retained or used for these purposes. you may ask us to delete your information at any time and we will delete this information to the extent permitted by applicable law, document retention ...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "e16ca6368148bdf80222a0ccc8a4463b2a2edb00d4e4a1306f1d6ed6c2a71a97",
+                "score": 0.71790266,
+                "excerpt": "by a payment gateway located in the united states, then your personal information used in completing that transaction may be subject to disclosure under united states legislation, including the patriot act.\nonce you leave our app or are redirected to a third-party website or app, you are no longer governed by this policy or our app’s terms of service.\nthird-party links\nwhen you click on links on our app, they may direct you away from our app. we are not responsible for the privacy practices of o...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "7f11f297f668bf7fd5a84421bd2f66871dde435b21eaa4600e2121d3d4f5e6db",
+                "score": 0.6338636,
+                "excerpt": "signifies your acceptance of this policy. if you do not agree to the terms of this policy, please do not use the app.\nif the ownership of all or substantially all of our business changes, or we otherwise transfer assets relating to our business or any of the services to a third party (such as by merger, acquisition, bankruptcy proceeding, or other change of control transaction), we may transfer or sell your information to the new owner. in such a case, unless permitted otherwise by applicable la...",
+                "url": "https://sona.care/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1500085577,
+            "url": "https://sona.care/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Twilio for distributing invitations through the 'invite friends' option.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Twilio"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions sharing data with Twilio for distributing invitations under the 'invite friends' option.",
+            "reference": "Twilio only if you decide to extend the free trial period using the “invite friends” option, we share your phone contacts with Twilio in order to distribute the invitations. URL: https://sona.care/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "cd977a033efe782513e844b2cef24cf75380a118e6d748871b0dddaafff543dd",
+                "score": 0.93195957,
+                "excerpt": "accordance with applicable law obligations. this may include retention necessary to identify, issue or resolve legal proceedings. we may also retain aggregate information beyond this time for research purposes and to help us develop and improve our services. you cannot be identified from aggregate information retained or used for these purposes. you may ask us to delete your information at any time and we will delete this information to the extent permitted by applicable law, document retention ...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "ca03a98250ec600d5d49208af16f66902983c30a2bd823ca449c681f6a68edec",
+                "score": 0.87310666,
+                "excerpt": "third-party services\nin general, the third-party service providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.\nhowever, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies with respect to the information we are required to provide to them for your purchase-related transactions.\nfor those providers, we recommend...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "e16ca6368148bdf80222a0ccc8a4463b2a2edb00d4e4a1306f1d6ed6c2a71a97",
+                "score": 0.6769403,
+                "excerpt": "by a payment gateway located in the united states, then your personal information used in completing that transaction may be subject to disclosure under united states legislation, including the patriot act.\nonce you leave our app or are redirected to a third-party website or app, you are no longer governed by this policy or our app’s terms of service.\nthird-party links\nwhen you click on links on our app, they may direct you away from our app. we are not responsible for the privacy practices of o...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "7f11f297f668bf7fd5a84421bd2f66871dde435b21eaa4600e2121d3d4f5e6db",
+                "score": 0.42506817,
+                "excerpt": "signifies your acceptance of this policy. if you do not agree to the terms of this policy, please do not use the app.\nif the ownership of all or substantially all of our business changes, or we otherwise transfer assets relating to our business or any of the services to a third party (such as by merger, acquisition, bankruptcy proceeding, or other change of control transaction), we may transfer or sell your information to the new owner. in such a case, unless permitted otherwise by applicable la...",
+                "url": "https://sona.care/privacy-policy"
+            },
+            {
+                "id": "b332640a329b5b26f83307f301ef4b449b786cb77588e199da289c71b0cb255b",
+                "score": 0.4180434,
+                "excerpt": "our application that are california residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. to make such a request, please contact us via email at pineallabs@gmail.com.\nsection 4 – retention of personal information\nwe will only retain your personal information for as long as necessary to fulfill the purpose we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requi...",
+                "url": "https://sona.care/privacy-policy"
+            }
+        ]
+    }
+]

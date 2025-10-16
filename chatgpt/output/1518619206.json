@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1518619206,
+      "url": "https://www.lifeintelligence.io/terms-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that users must provide accurate, complete, and up-to-date information for their account, and that certain personal information may be extracted from third-party social networking services if users choose to create an account through those services.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app requires users to provide personal information for account creation and may collect data from social networking services.",
+          "content": "If you want to use certain features of the Services you’ll have to create an account. If you choose the SNS Account option we’ll create your Account by extracting from your SNS Account certain personal information such as your name and email address."
+        }
+      },
+      "analysis": "",
+      "reference": "Privacy Policy section on Registration and Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1518619206,
+      "url": "https://www.lifeintelligence.io/terms-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information such as your name and email address when you create an account via third-party social networking services. Additionally, it may collect Payment Information, which includes credit card numbers, expiration dates, and billing addresses when you make purchases.",
+        "simple_answer": "The app collects personal information and payment information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers data necessary for account creation and transactions.",
+          "content": "Personal information includes name and email from social networking services, and Payment Information includes credit card details and billing addresses."
+        }
+      },
+      "analysis": "",
+      "reference": "Privacy Policy section on Registration and Your Information and Purchases"
+    }
+  },
+  {
+    "meta": {
+      "id": 1518619206,
+      "url": "https://www.lifeintelligence.io/terms-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use in its Privacy Policy, stating that it collects information to provide and improve its services, as well as to communicate with users.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that user data is collected to enhance user experience and service delivery.",
+          "content": "The Privacy Policy outlines that the information collected is used to provide and improve the services, and to communicate with users."
+        }
+      },
+      "analysis": "The app's Privacy Policy clearly states the purposes for which user data is collected, ensuring transparency in its data handling practices.",
+      "reference": "Privacy Policy section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1518619206,
+      "url": "https://www.lifeintelligence.io/terms-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection. However, it does mention that users can request the deletion of their personal information by contacting the company. Users are encouraged to review their privacy settings and manage their data accordingly.",
+        "simple_answer": "Users can request deletion of their personal information but cannot opt out of data collection.",
+        "extended_simple_answer": {
+          "comment": "While users cannot opt out of data collection, they have the right to request deletion of their data.",
+          "content": "The privacy policy indicates that users can contact the company to request deletion of their personal information, but it does not provide an option to opt out of data collection entirely."
+        }
+      },
+      "analysis": "The privacy policy allows for data deletion requests but does not provide a clear opt-out mechanism for data collection, which may limit user control over their data.",
+      "reference": "Privacy Policy section regarding data collection and user rights."
+    }
+  },
+  {
+    "meta": {
+      "id": 1518619206,
+      "url": "https://www.lifeintelligence.io/terms-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your information with third-party service providers to complete transactions and for other purposes as described in the Privacy Policy.",
+        "simple_answer": "Yes, it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data primarily for transaction purposes.",
+          "content": "When you make a purchase, your Payment Information may be provided to third-party service providers to complete the transaction."
+        }
+      },
+      "analysis": "The app's privacy policy indicates that user data may be shared with third parties, particularly in the context of processing payments and transactions.",
+      "reference": "Privacy Policy section regarding 'Purchases' and data sharing."
+    }
+  },
+  {
+    "meta": {
+      "id": 1518619206,
+      "url": "https://www.lifeintelligence.io/terms-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party service providers to complete transactions, which may include payment processing services and App Providers like the Apple App Store, Google Play, or Amazon Appstore.",
+        "simple_answer": "The app shares data with payment processors and App Providers.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for payment processing and app distribution.",
+          "content": "When you make a purchase, your Payment Information is provided to third-party service providers to complete the transaction, and LIFE may charge your credit card or third-party payment processing account through App Providers."
+        }
+      },
+      "analysis": "",
+      "reference": "Purchases"
+    }
+  }
+]

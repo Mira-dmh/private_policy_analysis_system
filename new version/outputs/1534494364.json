@@ -1,0 +1,294 @@
+[
+    {
+        "meta": {
+            "id": 1534494364,
+            "url": "https://moss.tools/apps/anzan/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personally identifiable information and other data for the purpose of providing and improving the service.",
+            "reference": "Information Collection and Use: 'For a better experience, while using our Service, we may collect certain personally identifiable information. The information that we collect will be used as described in this privacy policy.' URL: https://moss.tools/apps/anzan/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2839a664fb7e5c56d1387fdc26ab83104d6ea91c9177bb553aa2ebbabf4d3686",
+                "score": 0.26511872,
+                "excerpt": "Anzan Expert\nPrivacy Policy\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nTer...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "0c1c954314246e70bc6ad94c956534c0c0c1cef16c7fdf27f87a13aca6dae084",
+                "score": 0.060197048,
+                "excerpt": "application, we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics.\nHowever, we may choose not to collect data from users in certain regions due to applicable laws and regulations.\nCookies\nCook...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2d6b1a7d7b20e758429e0f3fd625299c21853c299ea2f546aa3633a97feac469",
+                "score": 0.0013723687,
+                "excerpt": "may partner with third-party companies and individuals due to reasons including but not limited to the following:\n- To facilitate our Service;\n- To provide the Service on our behalf;\n- To perform Service-related services; or\n- To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or u...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "ba947f544932afa800670f5492a3330e95f07935d80ff949d1e590be31545a1f",
+                "score": 0.0010944522,
+                "excerpt": "Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChanges to The Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately aft...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534494364,
+            "url": "https://moss.tools/apps/anzan/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personally identifiable information including device IP address, device name, operating system version, application configuration details, time and date of service usage, and other statistics.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device IP address",
+                        "Device name",
+                        "Operating system version",
+                        "Application configuration details",
+                        "Time and date of service usage",
+                        "Other statistics"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that personally identifiable information is collected while using the service, listing details such as device IP address, device name, and time of service usage, among other statistics.",
+            "reference": "The information that we collect will be used as described in this privacy policy. The application uses third party services that may collect information used to identify you. ... This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics. URL: https://moss.tools/apps/anzan/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2839a664fb7e5c56d1387fdc26ab83104d6ea91c9177bb553aa2ebbabf4d3686",
+                "score": 0.42161134,
+                "excerpt": "Anzan Expert\nPrivacy Policy\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nTer...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "0c1c954314246e70bc6ad94c956534c0c0c1cef16c7fdf27f87a13aca6dae084",
+                "score": 0.4098702,
+                "excerpt": "application, we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics.\nHowever, we may choose not to collect data from users in certain regions due to applicable laws and regulations.\nCookies\nCook...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2d6b1a7d7b20e758429e0f3fd625299c21853c299ea2f546aa3633a97feac469",
+                "score": 0.0010775026,
+                "excerpt": "may partner with third-party companies and individuals due to reasons including but not limited to the following:\n- To facilitate our Service;\n- To provide the Service on our behalf;\n- To perform Service-related services; or\n- To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or u...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "ba947f544932afa800670f5492a3330e95f07935d80ff949d1e590be31545a1f",
+                "score": 0.0010775026,
+                "excerpt": "Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChanges to The Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately aft...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534494364,
+            "url": "https://moss.tools/apps/anzan/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the Personal Information collected is used for providing and improving the Service. It also indicates that third-party services used by the app collect information used to identify users, emphasizing the transparency of data collection purposes.",
+            "reference": "The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. URL: https://moss.tools/apps/anzan/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2839a664fb7e5c56d1387fdc26ab83104d6ea91c9177bb553aa2ebbabf4d3686",
+                "score": 0.610047,
+                "excerpt": "Anzan Expert\nPrivacy Policy\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nTer...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "0c1c954314246e70bc6ad94c956534c0c0c1cef16c7fdf27f87a13aca6dae084",
+                "score": 0.03378023,
+                "excerpt": "application, we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics.\nHowever, we may choose not to collect data from users in certain regions due to applicable laws and regulations.\nCookies\nCook...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2d6b1a7d7b20e758429e0f3fd625299c21853c299ea2f546aa3633a97feac469",
+                "score": 0.0074606435,
+                "excerpt": "may partner with third-party companies and individuals due to reasons including but not limited to the following:\n- To facilitate our Service;\n- To provide the Service on our behalf;\n- To perform Service-related services; or\n- To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or u...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "ba947f544932afa800670f5492a3330e95f07935d80ff949d1e590be31545a1f",
+                "score": 0.0006563728,
+                "excerpt": "Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChanges to The Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately aft...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534494364,
+            "url": "https://moss.tools/apps/anzan/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "No, the user cannot opt out of data collection or delete data.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy does not mention any provisions for users to opt out of data collection or delete data.",
+            "reference": "N/A. URL: https://moss.tools/apps/anzan/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "ba947f544932afa800670f5492a3330e95f07935d80ff949d1e590be31545a1f",
+                "score": 0.045522004,
+                "excerpt": "Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChanges to The Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately aft...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "0c1c954314246e70bc6ad94c956534c0c0c1cef16c7fdf27f87a13aca6dae084",
+                "score": 0.020606475,
+                "excerpt": "application, we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics.\nHowever, we may choose not to collect data from users in certain regions due to applicable laws and regulations.\nCookies\nCook...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2d6b1a7d7b20e758429e0f3fd625299c21853c299ea2f546aa3633a97feac469",
+                "score": 0.010209055,
+                "excerpt": "may partner with third-party companies and individuals due to reasons including but not limited to the following:\n- To facilitate our Service;\n- To provide the Service on our behalf;\n- To perform Service-related services; or\n- To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or u...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2839a664fb7e5c56d1387fdc26ab83104d6ea91c9177bb553aa2ebbabf4d3686",
+                "score": 0.0094125895,
+                "excerpt": "Anzan Expert\nPrivacy Policy\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nTer...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534494364,
+            "url": "https://moss.tools/apps/anzan/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may partner with third-party companies and individuals for various reasons, and these third parties have access to users' Personal Information.",
+            "reference": "We may partner with third-party companies and individuals due to reasons including but not limited to facilitating our Service, providing the Service on our behalf, performing Service-related services, or assisting us in analyzing how the Service is used. Note: They have access to your Personal Information. URL: https://moss.tools/apps/anzan/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2839a664fb7e5c56d1387fdc26ab83104d6ea91c9177bb553aa2ebbabf4d3686",
+                "score": 0.7841538,
+                "excerpt": "Anzan Expert\nPrivacy Policy\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nTer...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "0c1c954314246e70bc6ad94c956534c0c0c1cef16c7fdf27f87a13aca6dae084",
+                "score": 0.6619229,
+                "excerpt": "application, we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics.\nHowever, we may choose not to collect data from users in certain regions due to applicable laws and regulations.\nCookies\nCook...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2d6b1a7d7b20e758429e0f3fd625299c21853c299ea2f546aa3633a97feac469",
+                "score": 0.14163722,
+                "excerpt": "may partner with third-party companies and individuals due to reasons including but not limited to the following:\n- To facilitate our Service;\n- To provide the Service on our behalf;\n- To perform Service-related services; or\n- To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or u...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "ba947f544932afa800670f5492a3330e95f07935d80ff949d1e590be31545a1f",
+                "score": 0.00698465,
+                "excerpt": "Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChanges to The Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately aft...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534494364,
+            "url": "https://moss.tools/apps/anzan/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app may share data with third-party companies and individuals to facilitate the service, provide the service on its behalf, perform service-related services, or assist in analyzing how the service is used.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "third-party companies",
+                        "individuals"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may collaborate with third-party entities for various reasons related to service provision and analysis. These third parties are granted access to personal information to carry out specific tasks but are bound by confidentiality and usage restrictions.",
+            "reference": "We may partner with third-party companies and individuals due to reasons including but not limited to the following: - To facilitate our Service; - To provide the Service on our behalf; - To perform Service-related services; or - To assist us in analyzing how our Service is used. URL: https://moss.tools/apps/anzan/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "2d6b1a7d7b20e758429e0f3fd625299c21853c299ea2f546aa3633a97feac469",
+                "score": 0.59384483,
+                "excerpt": "may partner with third-party companies and individuals due to reasons including but not limited to the following:\n- To facilitate our Service;\n- To provide the Service on our behalf;\n- To perform Service-related services; or\n- To assist us in analyzing how our Service is used.\nWe want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or u...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "2839a664fb7e5c56d1387fdc26ab83104d6ea91c9177bb553aa2ebbabf4d3686",
+                "score": 0.5839153,
+                "excerpt": "Anzan Expert\nPrivacy Policy\nThis page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.\nIf you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.\nTer...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "0c1c954314246e70bc6ad94c956534c0c0c1cef16c7fdf27f87a13aca6dae084",
+                "score": 0.5662584,
+                "excerpt": "application, we may collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the application when utilizing our Service, the time and date of your use of the Service, and other statistics.\nHowever, we may choose not to collect data from users in certain regions due to applicable laws and regulations.\nCookies\nCook...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            },
+            {
+                "id": "ba947f544932afa800670f5492a3330e95f07935d80ff949d1e590be31545a1f",
+                "score": 0.03027187,
+                "excerpt": "Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.\nChanges to The Privacy Policy\nWe may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately aft...",
+                "url": "https://moss.tools/apps/anzan/privacy"
+            }
+        ]
+    }
+]

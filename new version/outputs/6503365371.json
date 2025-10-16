@@ -1,0 +1,253 @@
+[
+    {
+        "meta": {
+            "id": 6503365371,
+            "url": "https://www.clearly.help/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states the collection and processing of data under various sections, indicating that the app declares the collection of data.",
+            "reference": "We never process health data without your explicit, separate consent. URL: https://www.clearly.help/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "eb6896ceb3db6146cc4e03bd4d55ccc315d78c62485f1a9bd245c17c0427e47f",
+                "score": 0.002296159,
+                "excerpt": "Protección de Datos (AEPD) within 72 hours and affected users without undue delay.\n7. Who receives your data\nTherapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book.\nAzure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied.\nCloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest.\nPayment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1.\n8. Your rights\nYou may...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "140681f4e41a72409cc3bf0cb80e06d1da61baedbb91e5cd1a7fac64b754f4da",
+                "score": 0.0011879054,
+                "excerpt": "Privacy Policy\nLast updated: May 30, 2025\n1. Who we are\nController\nTherapy Space Inc. (“Clearly”, “we”, “us”)\n8 The Green Street, Suite #13997, Dover, DE 19901, USA\nData Protection Officer\nemail: dpo@clearly.help\nYou can reach the DPO for any privacy matter.\n2. What data we process, why, and on what legal basis\nSee table below:\n* We never process health data without your explicit, separate consent.\n3. AI Session Notes\n1. How it works\n- When you tap “Try now” before joining a video session, you g...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "b089be48e4d41089213382a88baf221940fe877a71b321d053cf55d889834ede",
+                "score": 0.00012436225,
+                "excerpt": "in our encrypted EU data‑centre and stay until you delete them or 5 years after your last session, whichever comes first.\n4. Opt‑out\nDisable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes.\n5. No model‑training use\nTranscripts and summaries are not reused to train any model.\n6. Automated decision‑making\nAI Session Notes are informational only and do not make clinical or legal decisions about you.\n4. ...",
+                "url": "https://www.clearly.help/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6503365371,
+            "url": "https://www.clearly.help/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data for the AI Session Notes feature, including encrypted audio streams sent for speech-to-text, transcripts retained for 30 days, Session Notes stored in an encrypted EU data center, and information for quality controls via testing and feedback monitoring.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Encrypted audio streams for speech-to-text",
+                        "Transcripts retained for 30 days",
+                        "Session Notes stored in an encrypted EU data center",
+                        "Quality control information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy details the specific types of data collected when the app declares the collection, outlining the process for the AI Session Notes feature.",
+            "reference": "The app collects data for the AI Session Notes feature, including encrypted audio streams sent for speech-to-text, transcripts retained for 30 days, Session Notes stored in an encrypted EU data center, and information for quality controls via testing and feedback monitoring. URL: https://www.clearly.help/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "140681f4e41a72409cc3bf0cb80e06d1da61baedbb91e5cd1a7fac64b754f4da",
+                "score": 0.0022518474,
+                "excerpt": "Privacy Policy\nLast updated: May 30, 2025\n1. Who we are\nController\nTherapy Space Inc. (“Clearly”, “we”, “us”)\n8 The Green Street, Suite #13997, Dover, DE 19901, USA\nData Protection Officer\nemail: dpo@clearly.help\nYou can reach the DPO for any privacy matter.\n2. What data we process, why, and on what legal basis\nSee table below:\n* We never process health data without your explicit, separate consent.\n3. AI Session Notes\n1. How it works\n- When you tap “Try now” before joining a video session, you g...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "eb6896ceb3db6146cc4e03bd4d55ccc315d78c62485f1a9bd245c17c0427e47f",
+                "score": 0.0013198635,
+                "excerpt": "Protección de Datos (AEPD) within 72 hours and affected users without undue delay.\n7. Who receives your data\nTherapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book.\nAzure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied.\nCloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest.\nPayment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1.\n8. Your rights\nYou may...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "b089be48e4d41089213382a88baf221940fe877a71b321d053cf55d889834ede",
+                "score": 0.00017813111,
+                "excerpt": "in our encrypted EU data‑centre and stay until you delete them or 5 years after your last session, whichever comes first.\n4. Opt‑out\nDisable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes.\n5. No model‑training use\nTranscripts and summaries are not reused to train any model.\n6. Automated decision‑making\nAI Session Notes are informational only and do not make clinical or legal decisions about you.\n4. ...",
+                "url": "https://www.clearly.help/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6503365371,
+            "url": "https://www.clearly.help/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purpose of data collection and use in sections such as AI Session Notes, Storage & deletion, Opt-out, No model-training use, and Automated decision-making.",
+            "reference": "The privacy policy document provides information on data processing, use, and deletion purposes. URL: https://www.clearly.help/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "140681f4e41a72409cc3bf0cb80e06d1da61baedbb91e5cd1a7fac64b754f4da",
+                "score": 0.00044076296,
+                "excerpt": "Privacy Policy\nLast updated: May 30, 2025\n1. Who we are\nController\nTherapy Space Inc. (“Clearly”, “we”, “us”)\n8 The Green Street, Suite #13997, Dover, DE 19901, USA\nData Protection Officer\nemail: dpo@clearly.help\nYou can reach the DPO for any privacy matter.\n2. What data we process, why, and on what legal basis\nSee table below:\n* We never process health data without your explicit, separate consent.\n3. AI Session Notes\n1. How it works\n- When you tap “Try now” before joining a video session, you g...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "eb6896ceb3db6146cc4e03bd4d55ccc315d78c62485f1a9bd245c17c0427e47f",
+                "score": 0.00032503586,
+                "excerpt": "Protección de Datos (AEPD) within 72 hours and affected users without undue delay.\n7. Who receives your data\nTherapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book.\nAzure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied.\nCloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest.\nPayment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1.\n8. Your rights\nYou may...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "b089be48e4d41089213382a88baf221940fe877a71b321d053cf55d889834ede",
+                "score": 9.535461e-05,
+                "excerpt": "in our encrypted EU data‑centre and stay until you delete them or 5 years after your last session, whichever comes first.\n4. Opt‑out\nDisable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes.\n5. No model‑training use\nTranscripts and summaries are not reused to train any model.\n6. Automated decision‑making\nAI Session Notes are informational only and do not make clinical or legal decisions about you.\n4. ...",
+                "url": "https://www.clearly.help/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6503365371,
+            "url": "https://www.clearly.help/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Users can opt out of data collection or delete data. By disabling the feature at any time under Profile privacy settings, future sessions will not be transcribed, and users can also delete existing transcripts and notes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the ability to opt out of data collection and delete existing data by accessing the Profile privacy settings.",
+            "reference": "Disable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes. URL: https://www.clearly.help/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b089be48e4d41089213382a88baf221940fe877a71b321d053cf55d889834ede",
+                "score": 0.7479843,
+                "excerpt": "in our encrypted EU data‑centre and stay until you delete them or 5 years after your last session, whichever comes first.\n4. Opt‑out\nDisable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes.\n5. No model‑training use\nTranscripts and summaries are not reused to train any model.\n6. Automated decision‑making\nAI Session Notes are informational only and do not make clinical or legal decisions about you.\n4. ...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "140681f4e41a72409cc3bf0cb80e06d1da61baedbb91e5cd1a7fac64b754f4da",
+                "score": 0.14187483,
+                "excerpt": "Privacy Policy\nLast updated: May 30, 2025\n1. Who we are\nController\nTherapy Space Inc. (“Clearly”, “we”, “us”)\n8 The Green Street, Suite #13997, Dover, DE 19901, USA\nData Protection Officer\nemail: dpo@clearly.help\nYou can reach the DPO for any privacy matter.\n2. What data we process, why, and on what legal basis\nSee table below:\n* We never process health data without your explicit, separate consent.\n3. AI Session Notes\n1. How it works\n- When you tap “Try now” before joining a video session, you g...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "eb6896ceb3db6146cc4e03bd4d55ccc315d78c62485f1a9bd245c17c0427e47f",
+                "score": 0.055823144,
+                "excerpt": "Protección de Datos (AEPD) within 72 hours and affected users without undue delay.\n7. Who receives your data\nTherapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book.\nAzure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied.\nCloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest.\nPayment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1.\n8. Your rights\nYou may...",
+                "url": "https://www.clearly.help/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6503365371,
+            "url": "https://www.clearly.help/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with specific third parties for various purposes such as transcription, summarization, and payment processing.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with specific third parties for different services as outlined in the document.",
+            "reference": "Therapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book. Azure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied. Cloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest. Payment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1. URL: https://www.clearly.help/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "eb6896ceb3db6146cc4e03bd4d55ccc315d78c62485f1a9bd245c17c0427e47f",
+                "score": 0.01665704,
+                "excerpt": "Protección de Datos (AEPD) within 72 hours and affected users without undue delay.\n7. Who receives your data\nTherapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book.\nAzure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied.\nCloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest.\nPayment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1.\n8. Your rights\nYou may...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "b089be48e4d41089213382a88baf221940fe877a71b321d053cf55d889834ede",
+                "score": 0.0085443305,
+                "excerpt": "in our encrypted EU data‑centre and stay until you delete them or 5 years after your last session, whichever comes first.\n4. Opt‑out\nDisable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes.\n5. No model‑training use\nTranscripts and summaries are not reused to train any model.\n6. Automated decision‑making\nAI Session Notes are informational only and do not make clinical or legal decisions about you.\n4. ...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "140681f4e41a72409cc3bf0cb80e06d1da61baedbb91e5cd1a7fac64b754f4da",
+                "score": 0.0023141264,
+                "excerpt": "Privacy Policy\nLast updated: May 30, 2025\n1. Who we are\nController\nTherapy Space Inc. (“Clearly”, “we”, “us”)\n8 The Green Street, Suite #13997, Dover, DE 19901, USA\nData Protection Officer\nemail: dpo@clearly.help\nYou can reach the DPO for any privacy matter.\n2. What data we process, why, and on what legal basis\nSee table below:\n* We never process health data without your explicit, separate consent.\n3. AI Session Notes\n1. How it works\n- When you tap “Try now” before joining a video session, you g...",
+                "url": "https://www.clearly.help/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6503365371,
+            "url": "https://www.clearly.help/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Therapists on Clearly, Azure Whisper & GPT (EU), Cloud hosting (EU), and Payment processor (Stripe Payments Europe Ltd.)",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Therapists on Clearly, Azure Whisper & GPT (EU), Cloud hosting (EU), Payment processor (Stripe Payments Europe Ltd.)"
+                }
+            },
+            "analysis": "The answer is derived from the 'Who receives your data' section of the privacy policy which explicitly mentions the third parties with whom the app shares data.",
+            "reference": "Therapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book. Azure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied. Cloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest. Payment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1. URL: https://www.clearly.help/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "eb6896ceb3db6146cc4e03bd4d55ccc315d78c62485f1a9bd245c17c0427e47f",
+                "score": 0.0355444,
+                "excerpt": "Protección de Datos (AEPD) within 72 hours and affected users without undue delay.\n7. Who receives your data\nTherapists on Clearly – Processors acting under our Data‑Processing Addendum; access limited to sessions you book.\nAzure Whisper & GPT (EU) – Sub‑processors for transcription & summarisation; SCCs applied.\nCloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest.\nPayment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI‑DSS Level 1.\n8. Your rights\nYou may...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "b089be48e4d41089213382a88baf221940fe877a71b321d053cf55d889834ede",
+                "score": 0.0026214411,
+                "excerpt": "in our encrypted EU data‑centre and stay until you delete them or 5 years after your last session, whichever comes first.\n4. Opt‑out\nDisable the feature any time under Profile privacy settings. Future sessions will not be transcribed; you can also delete existing transcripts and notes.\n5. No model‑training use\nTranscripts and summaries are not reused to train any model.\n6. Automated decision‑making\nAI Session Notes are informational only and do not make clinical or legal decisions about you.\n4. ...",
+                "url": "https://www.clearly.help/privacy-policy"
+            },
+            {
+                "id": "140681f4e41a72409cc3bf0cb80e06d1da61baedbb91e5cd1a7fac64b754f4da",
+                "score": 0.00012243443,
+                "excerpt": "Privacy Policy\nLast updated: May 30, 2025\n1. Who we are\nController\nTherapy Space Inc. (“Clearly”, “we”, “us”)\n8 The Green Street, Suite #13997, Dover, DE 19901, USA\nData Protection Officer\nemail: dpo@clearly.help\nYou can reach the DPO for any privacy matter.\n2. What data we process, why, and on what legal basis\nSee table below:\n* We never process health data without your explicit, separate consent.\n3. AI Session Notes\n1. How it works\n- When you tap “Try now” before joining a video session, you g...",
+                "url": "https://www.clearly.help/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "meta": {
+            "id": 6466439617,
+            "url": "https://legal.oliva.health/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that Oliva is transparent about how they collect and use personal data, indicating that the app declares the collection of data.",
+            "reference": "We want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this. URL: https://legal.oliva.health/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "d99c2a0243ae293dc769b6afd7340d7e58e46e5d767c0d2159726d05c66698dd",
+                "score": 0.02470387,
+                "excerpt": "🧠 About Oliva\nOliva is your partner for mental & professional wellbeing. Whether you’re going through a tough time or want to learn new skills to boost resilience & emotional intelligence, Oliva has the tools and professionals to support you.\n❓ What's this notice all about?\nWe want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this.\nAny time we make a decision on processing personal data, we do it according ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            },
+            {
+                "id": "71263f6a9083e72f4810c6a64b40492065a9173aab654a808f2b0540f0d15f50",
+                "score": 0.0007408056,
+                "excerpt": "mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe:\nFor a more detailed breakdown, you can read our full Security Statement or visit our Trust Center.\n📜 What are your rights?\nYou don't have to pay anything to exercise your rights. If you wish to make a request about your personal data under your rights, ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466439617,
+            "url": "https://legal.oliva.health/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data related to mental and professional wellbeing.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal data related to mental and professional wellbeing"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app collects sensitive personal information related to mental and professional wellbeing.",
+            "reference": "mental health platform means that we store some sensitive personal information. URL: https://legal.oliva.health/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "d99c2a0243ae293dc769b6afd7340d7e58e46e5d767c0d2159726d05c66698dd",
+                "score": 0.009125637,
+                "excerpt": "🧠 About Oliva\nOliva is your partner for mental & professional wellbeing. Whether you’re going through a tough time or want to learn new skills to boost resilience & emotional intelligence, Oliva has the tools and professionals to support you.\n❓ What's this notice all about?\nWe want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this.\nAny time we make a decision on processing personal data, we do it according ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            },
+            {
+                "id": "71263f6a9083e72f4810c6a64b40492065a9173aab654a808f2b0540f0d15f50",
+                "score": 0.0015427324,
+                "excerpt": "mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe:\nFor a more detailed breakdown, you can read our full Security Statement or visit our Trust Center.\n📜 What are your rights?\nYou don't have to pay anything to exercise your rights. If you wish to make a request about your personal data under your rights, ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466439617,
+            "url": "https://legal.oliva.health/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions that Oliva is completely transparent about how they collect and use personal data. They act as Data Controller under the GDPR and UK GDPR and cover the entire journey of personal data processing.",
+            "reference": "We want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this. Any time we make a decision on processing personal data, we do it according to this notice—in data protection law terms, this means we're acting as a Data Controller under the GDPR and UK GDPR. Our privacy notice covers the entire journey of the personal data we process when you use our services—from the moment it enters our system, until it's time for us to say 'goodbye 👋', as well as the various stops it makes along the way. URL: https://legal.oliva.health/privacy-notice",
+            "URL": "https://legal.oliva.health/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "d99c2a0243ae293dc769b6afd7340d7e58e46e5d767c0d2159726d05c66698dd",
+                "score": 0.017309096,
+                "excerpt": "🧠 About Oliva\nOliva is your partner for mental & professional wellbeing. Whether you’re going through a tough time or want to learn new skills to boost resilience & emotional intelligence, Oliva has the tools and professionals to support you.\n❓ What's this notice all about?\nWe want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this.\nAny time we make a decision on processing personal data, we do it according ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            },
+            {
+                "id": "71263f6a9083e72f4810c6a64b40492065a9173aab654a808f2b0540f0d15f50",
+                "score": 0.0003799845,
+                "excerpt": "mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe:\nFor a more detailed breakdown, you can read our full Security Statement or visit our Trust Center.\n📜 What are your rights?\nYou don't have to pay anything to exercise your rights. If you wish to make a request about your personal data under your rights, ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466439617,
+            "url": "https://legal.oliva.health/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or request the deletion of data by contacting Oliva Health Ltd via email at data.protection@oliva.health, phone at (+44) 2071939425, or mail at 34b York Way, London N1 9AB, United Kingdom.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users can exercise their rights to request data deletion or opt out of data collection by contacting Oliva Health Ltd through various methods.",
+            "reference": "If you wish to make a request about your personal data under your rights, contact us at data.protection@oliva.health, (+44) 2071939425, or Oliva Health Ltd, 34b York Way, London N1 9AB, United Kingdom. URL: https://legal.oliva.health/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "71263f6a9083e72f4810c6a64b40492065a9173aab654a808f2b0540f0d15f50",
+                "score": 0.005001672,
+                "excerpt": "mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe:\nFor a more detailed breakdown, you can read our full Security Statement or visit our Trust Center.\n📜 What are your rights?\nYou don't have to pay anything to exercise your rights. If you wish to make a request about your personal data under your rights, ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            },
+            {
+                "id": "d99c2a0243ae293dc769b6afd7340d7e58e46e5d767c0d2159726d05c66698dd",
+                "score": 0.003692853,
+                "excerpt": "🧠 About Oliva\nOliva is your partner for mental & professional wellbeing. Whether you’re going through a tough time or want to learn new skills to boost resilience & emotional intelligence, Oliva has the tools and professionals to support you.\n❓ What's this notice all about?\nWe want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this.\nAny time we make a decision on processing personal data, we do it according ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466439617,
+            "url": "https://legal.oliva.health/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that Oliva takes extra care to uphold the highest security standards, indicating that they prioritize data security and do not share data with third parties.",
+            "reference": "By definition, being a mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe. URL: https://legal.oliva.health/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "71263f6a9083e72f4810c6a64b40492065a9173aab654a808f2b0540f0d15f50",
+                "score": 0.0036216856,
+                "excerpt": "mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe:\nFor a more detailed breakdown, you can read our full Security Statement or visit our Trust Center.\n📜 What are your rights?\nYou don't have to pay anything to exercise your rights. If you wish to make a request about your personal data under your rights, ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            },
+            {
+                "id": "d99c2a0243ae293dc769b6afd7340d7e58e46e5d767c0d2159726d05c66698dd",
+                "score": 0.0012743262,
+                "excerpt": "🧠 About Oliva\nOliva is your partner for mental & professional wellbeing. Whether you’re going through a tough time or want to learn new skills to boost resilience & emotional intelligence, Oliva has the tools and professionals to support you.\n❓ What's this notice all about?\nWe want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this.\nAny time we make a decision on processing personal data, we do it according ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466439617,
+            "url": "https://legal.oliva.health/privacy-notice",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with the third parties mentioned under section 'Your information and third parties' in the privacy policy.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "list of third parties"
+                }
+            },
+            "analysis": "The answer is derived from the specific section that refers to sharing data with third parties in the privacy policy.",
+            "reference": "The app shares data with the third parties mentioned under section 'Your information and third parties' in the privacy policy. URL: https://legal.oliva.health/privacy-notice"
+        },
+        "source_documents": [
+            {
+                "id": "71263f6a9083e72f4810c6a64b40492065a9173aab654a808f2b0540f0d15f50",
+                "score": 0.0032730652,
+                "excerpt": "mental health platform means that we store some sensitive personal information. So everyone who works at Oliva takes extra care to uphold the highest security standards. Here’s a few examples of measures we’ve put in place to keep your data safe:\nFor a more detailed breakdown, you can read our full Security Statement or visit our Trust Center.\n📜 What are your rights?\nYou don't have to pay anything to exercise your rights. If you wish to make a request about your personal data under your rights, ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            },
+            {
+                "id": "d99c2a0243ae293dc769b6afd7340d7e58e46e5d767c0d2159726d05c66698dd",
+                "score": 0.0021827165,
+                "excerpt": "🧠 About Oliva\nOliva is your partner for mental & professional wellbeing. Whether you’re going through a tough time or want to learn new skills to boost resilience & emotional intelligence, Oliva has the tools and professionals to support you.\n❓ What's this notice all about?\nWe want to be completely transparent about how we collect and use your personal data. This privacy notice exists to tell you exactly how we do this.\nAny time we make a decision on processing personal data, we do it according ...",
+                "url": "https://legal.oliva.health/privacy-notice"
+            }
+        ]
+    }
+]

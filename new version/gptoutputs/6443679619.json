@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6443679619,
+      "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that information is collected directly from users when they provide it, as well as automatically when they use the app. This includes personal information, usage details, device information, stored information, and location information.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app outlines its data collection practices clearly in the privacy policy.",
+          "content": "The app collects information from and about users directly when provided and automatically during use, including personal information, usage details, device information, and location data."
+        }
+      },
+      "analysis": "The privacy policy explicitly states the types of information collected and the methods of collection, ensuring transparency about data practices.",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443679619,
+      "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including personal information such as name, postal address, email address, telephone number, and any other information defined as personal or personally identifiable under applicable law. It also collects information that does not individually identify you, such as usage details, device information, stored information and files, and location information. Additionally, it may collect information through automatic tracking technologies like cookies and web beacons.",
+        "simple_answer": "The app collects personal information, usage details, device information, stored files, and location information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both personal and non-personal data to enhance user experience and functionality.",
+          "content": "Personal information includes identifiers like name and email, while non-personal data includes usage statistics, device details, and location data."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443679619,
+      "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the policy describes the types of information collected, the practices for collecting, using, maintaining, protecting, and disclosing that information, and emphasizes the importance of understanding these practices before using the app.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the commitment to user privacy and the specific types of information collected.",
+          "content": "The policy describes the types of information collected and the practices for using that information, ensuring users are informed about how their data will be handled."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purpose of data collection and use, which is to inform users about the types of information collected and how it will be used, maintained, and disclosed.",
+      "reference": "Introduction"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443679619,
+      "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of the App's collection of location information by not downloading the App or by deleting it from their device. However, opting out of location information collection will disable the App's location-based features. For more information on choices regarding data collection, users can refer to the section titled 'Your Choices About Our Collection, Use, and Disclosure of Your Information.'",
+        "simple_answer": "Yes, users can opt out by deleting the App.",
+        "extended_simple_answer": {
+          "comment": "Opting out of location data collection will disable certain features.",
+          "content": "Users can delete the App to stop data collection, but this will also disable location-based features."
+        }
+      },
+      "analysis": "",
+      "reference": "Your Choices About Our Collection, Use, and Disclosure of Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443679619,
+      "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. Certain third parties may use automatic information collection technologies to collect information about you or your device when you use the app. These third parties include Google Services, your mobile device manufacturer, and your mobile service provider. They may collect information that could be associated with your personal information or may collect information about your online activities over time and across different websites, apps, and other online services.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app allows third parties to collect information through tracking technologies.",
+          "content": "These third parties may use the information for interest-based advertising or other targeted content."
+        }
+      },
+      "analysis": "",
+      "reference": "Third-Party Information Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443679619,
+      "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with certain third parties that use automatic information collection technologies. These third parties include Google Services, your mobile device manufacturer, and your mobile service provider.",
+        "simple_answer": "The app shares data with Google Services, mobile device manufacturers, and mobile service providers.",
+        "extended_simple_answer": {
+          "comment": "These third parties may collect information about you when you use the app.",
+          "content": "The information they collect may be associated with your personal information or they may collect information about your online activities over time and across different websites, apps, and other online services."
+        }
+      },
+      "analysis": "",
+      "reference": "Third-Party Information Collection"
+    }
+  }
+]

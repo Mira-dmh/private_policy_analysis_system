@@ -1,0 +1,340 @@
+[
+    {
+        "meta": {
+            "id": 6449004236,
+            "url": "https://mindbodytrivia.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the application collects Information You Provide as well as Automatically Collected Information. It mentions the specific types of data collected and how they are used.",
+            "reference": "This privacy policy governs your use of the software application Mind Body Trivia ('Application') for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you. Information You Provide. The Application obtains the information you provide when you download and register the Application. Registration with us is optional... Automatically Collected Information. In addition, the Application may collect certain information automatically... How We Use Information. We use this information to provide... URL: https://mindbodytrivia.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "4cd75baa179905c5270e8f05f80a94da0881a3e524ee1e56416f68de6344ffcc",
+                "score": 0.4143063,
+                "excerpt": "the ways that are described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\nas required by law, such as to comply with a subpoena, or similar legal process;\nwhen we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\nwith our trusted services providers who work on our behalf, do not have an independent use of the information w...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "1593816cb85c6958c8a09da628bccddd3a500914d7e7794c251605bbbce43cc9",
+                "score": 0.12929276,
+                "excerpt": "the Application\nYour Consent\nBy using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. \"Processing,\" means using cookies on a computer/hand-held device or using or touching information in any way, including, but not limited to: collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the USA, your information...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "6cfe59dac5f0b29b0fe37d5d2e5948e178e4028d30fa8c4f8e699de94910831a",
+                "score": 0.10687689,
+                "excerpt": "Privacy Policy\nThis privacy policy governs your use of the software application Mind Body Trivia (\"Application\") for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you.\nInformation You Provide\nThe Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use so...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "09dee35ad92f26c638e97dc90957974c14f1e51f3e62fa059c2295666d564c9b",
+                "score": 0.06176271,
+                "excerpt": "of mobile device you use, IP address, unique device identifiers, advertising identifiers, your mobile operating system, mobile carrier, the type of mobile Internet browsers you use, approximate location inferred from IP address, and information about the way you use the App.\nHow We Use Information\nWe use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes, including, but not l...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "d951b898a47f4b3688745389636fbbfa3898e757e370ce5cb4dfb42be8aac7e3",
+                "score": 0.014672035,
+                "excerpt": "or via the mobile application marketplace or network.\nChildren\nWe do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time.\nSecurity\nWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and p...",
+                "url": "https://mindbodytrivia.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6449004236,
+            "url": "https://mindbodytrivia.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects a variety of data types including name/nickname, third party service ID, email address, phone number, address, profile photo, age range, gender, interests, information from polls, purchase information, IP address, unique device identifiers, advertising identifiers, mobile operating system, mobile carrier, mobile Internet browser type, approximate location, and details on app usage.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name/nickname",
+                        "Third party service ID",
+                        "Email address",
+                        "Phone number",
+                        "Address and other contact information",
+                        "Profile photo",
+                        "Age range",
+                        "Gender",
+                        "Interests",
+                        "Information from polls",
+                        "Purchase or payment information",
+                        "IP address",
+                        "Unique device identifiers",
+                        "Advertising identifiers",
+                        "Mobile operating system",
+                        "Mobile carrier",
+                        "Mobile Internet browser type",
+                        "Approximate location inferred from IP address",
+                        "Information about the way the App is used"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly lists the types of data that the app may collect from users, both provided by the users themselves and automatically collected.",
+            "reference": "The app collects a variety of data types including name/nickname, third party service ID, email address, phone number, address, profile photo, age range, gender, interests, information from polls, purchase information, IP address, unique device identifiers, advertising identifiers, mobile operating system, mobile carrier, mobile Internet browser type, approximate location, and details on app usage. URL: https://mindbodytrivia.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "6cfe59dac5f0b29b0fe37d5d2e5948e178e4028d30fa8c4f8e699de94910831a",
+                "score": 0.1573957,
+                "excerpt": "Privacy Policy\nThis privacy policy governs your use of the software application Mind Body Trivia (\"Application\") for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you.\nInformation You Provide\nThe Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use so...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "4cd75baa179905c5270e8f05f80a94da0881a3e524ee1e56416f68de6344ffcc",
+                "score": 0.1490353,
+                "excerpt": "the ways that are described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\nas required by law, such as to comply with a subpoena, or similar legal process;\nwhen we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\nwith our trusted services providers who work on our behalf, do not have an independent use of the information w...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "09dee35ad92f26c638e97dc90957974c14f1e51f3e62fa059c2295666d564c9b",
+                "score": 0.064653486,
+                "excerpt": "of mobile device you use, IP address, unique device identifiers, advertising identifiers, your mobile operating system, mobile carrier, the type of mobile Internet browsers you use, approximate location inferred from IP address, and information about the way you use the App.\nHow We Use Information\nWe use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes, including, but not l...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "1593816cb85c6958c8a09da628bccddd3a500914d7e7794c251605bbbce43cc9",
+                "score": 0.047425874,
+                "excerpt": "the Application\nYour Consent\nBy using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. \"Processing,\" means using cookies on a computer/hand-held device or using or touching information in any way, including, but not limited to: collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the USA, your information...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "d951b898a47f4b3688745389636fbbfa3898e757e370ce5cb4dfb42be8aac7e3",
+                "score": 0.010693758,
+                "excerpt": "or via the mobile application marketplace or network.\nChildren\nWe do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time.\nSecurity\nWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and p...",
+                "url": "https://mindbodytrivia.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6449004236,
+            "url": "https://mindbodytrivia.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as mentioned in the privacy policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purposes of data collection and use, ranging from providing and improving the application to personalization and security.",
+            "reference": "We use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes... Understand how you interact with our Application and personalize the experience and content... Maintain the security of our Application by authenticating users and providing account security and fraud detection... URL: https://mindbodytrivia.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "09dee35ad92f26c638e97dc90957974c14f1e51f3e62fa059c2295666d564c9b",
+                "score": 0.24113183,
+                "excerpt": "of mobile device you use, IP address, unique device identifiers, advertising identifiers, your mobile operating system, mobile carrier, the type of mobile Internet browsers you use, approximate location inferred from IP address, and information about the way you use the App.\nHow We Use Information\nWe use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes, including, but not l...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "4cd75baa179905c5270e8f05f80a94da0881a3e524ee1e56416f68de6344ffcc",
+                "score": 0.07765744,
+                "excerpt": "the ways that are described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\nas required by law, such as to comply with a subpoena, or similar legal process;\nwhen we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\nwith our trusted services providers who work on our behalf, do not have an independent use of the information w...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "1593816cb85c6958c8a09da628bccddd3a500914d7e7794c251605bbbce43cc9",
+                "score": 0.059319146,
+                "excerpt": "the Application\nYour Consent\nBy using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. \"Processing,\" means using cookies on a computer/hand-held device or using or touching information in any way, including, but not limited to: collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the USA, your information...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "6cfe59dac5f0b29b0fe37d5d2e5948e178e4028d30fa8c4f8e699de94910831a",
+                "score": 0.020332353,
+                "excerpt": "Privacy Policy\nThis privacy policy governs your use of the software application Mind Body Trivia (\"Application\") for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you.\nInformation You Provide\nThe Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use so...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "d951b898a47f4b3688745389636fbbfa3898e757e370ce5cb4dfb42be8aac7e3",
+                "score": 0.018941708,
+                "excerpt": "or via the mobile application marketplace or network.\nChildren\nWe do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time.\nSecurity\nWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and p...",
+                "url": "https://mindbodytrivia.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6449004236,
+            "url": "https://mindbodytrivia.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by easily uninstalling the Application.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can stop all collection of information by uninstalling the Application.",
+            "reference": "You can stop all collection of information by the Application easily by uninstalling the Application. URL: https://mindbodytrivia.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "4cd75baa179905c5270e8f05f80a94da0881a3e524ee1e56416f68de6344ffcc",
+                "score": 0.60077405,
+                "excerpt": "the ways that are described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\nas required by law, such as to comply with a subpoena, or similar legal process;\nwhen we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\nwith our trusted services providers who work on our behalf, do not have an independent use of the information w...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "d951b898a47f4b3688745389636fbbfa3898e757e370ce5cb4dfb42be8aac7e3",
+                "score": 0.09252366,
+                "excerpt": "or via the mobile application marketplace or network.\nChildren\nWe do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time.\nSecurity\nWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and p...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "1593816cb85c6958c8a09da628bccddd3a500914d7e7794c251605bbbce43cc9",
+                "score": 0.02120612,
+                "excerpt": "the Application\nYour Consent\nBy using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. \"Processing,\" means using cookies on a computer/hand-held device or using or touching information in any way, including, but not limited to: collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the USA, your information...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "09dee35ad92f26c638e97dc90957974c14f1e51f3e62fa059c2295666d564c9b",
+                "score": 0.008847355,
+                "excerpt": "of mobile device you use, IP address, unique device identifiers, advertising identifiers, your mobile operating system, mobile carrier, the type of mobile Internet browsers you use, approximate location inferred from IP address, and information about the way you use the App.\nHow We Use Information\nWe use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes, including, but not l...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "6cfe59dac5f0b29b0fe37d5d2e5948e178e4028d30fa8c4f8e699de94910831a",
+                "score": 0.00402291,
+                "excerpt": "Privacy Policy\nThis privacy policy governs your use of the software application Mind Body Trivia (\"Application\") for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you.\nInformation You Provide\nThe Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use so...",
+                "url": "https://mindbodytrivia.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6449004236,
+            "url": "https://mindbodytrivia.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share User Provided and Automatically Collected Information with third parties.",
+            "reference": "We will share your information with third parties only in the ways that are described in this privacy statement. URL: https://mindbodytrivia.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "1593816cb85c6958c8a09da628bccddd3a500914d7e7794c251605bbbce43cc9",
+                "score": 0.9801293,
+                "excerpt": "the Application\nYour Consent\nBy using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. \"Processing,\" means using cookies on a computer/hand-held device or using or touching information in any way, including, but not limited to: collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the USA, your information...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "4cd75baa179905c5270e8f05f80a94da0881a3e524ee1e56416f68de6344ffcc",
+                "score": 0.82824534,
+                "excerpt": "the ways that are described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\nas required by law, such as to comply with a subpoena, or similar legal process;\nwhen we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\nwith our trusted services providers who work on our behalf, do not have an independent use of the information w...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "6cfe59dac5f0b29b0fe37d5d2e5948e178e4028d30fa8c4f8e699de94910831a",
+                "score": 0.35801628,
+                "excerpt": "Privacy Policy\nThis privacy policy governs your use of the software application Mind Body Trivia (\"Application\") for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you.\nInformation You Provide\nThe Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use so...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "09dee35ad92f26c638e97dc90957974c14f1e51f3e62fa059c2295666d564c9b",
+                "score": 0.18227991,
+                "excerpt": "of mobile device you use, IP address, unique device identifiers, advertising identifiers, your mobile operating system, mobile carrier, the type of mobile Internet browsers you use, approximate location inferred from IP address, and information about the way you use the App.\nHow We Use Information\nWe use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes, including, but not l...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "d951b898a47f4b3688745389636fbbfa3898e757e370ce5cb4dfb42be8aac7e3",
+                "score": 0.071073666,
+                "excerpt": "or via the mobile application marketplace or network.\nChildren\nWe do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time.\nSecurity\nWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and p...",
+                "url": "https://mindbodytrivia.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6449004236,
+            "url": "https://mindbodytrivia.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with trusted services providers who work on their behalf.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "trusted services providers"
+                }
+            },
+            "analysis": "The privacy policy mentions that the app will share information with trusted services providers who work on their behalf, ensuring they adhere to the rules set forth in the privacy statement.",
+            "reference": "with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement. URL: https://mindbodytrivia.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "1593816cb85c6958c8a09da628bccddd3a500914d7e7794c251605bbbce43cc9",
+                "score": 0.8923751,
+                "excerpt": "the Application\nYour Consent\nBy using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. \"Processing,\" means using cookies on a computer/hand-held device or using or touching information in any way, including, but not limited to: collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the USA, your information...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "4cd75baa179905c5270e8f05f80a94da0881a3e524ee1e56416f68de6344ffcc",
+                "score": 0.7648916,
+                "excerpt": "the ways that are described in this privacy statement.\nWe may disclose User Provided and Automatically Collected Information:\nas required by law, such as to comply with a subpoena, or similar legal process;\nwhen we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;\nwith our trusted services providers who work on our behalf, do not have an independent use of the information w...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "6cfe59dac5f0b29b0fe37d5d2e5948e178e4028d30fa8c4f8e699de94910831a",
+                "score": 0.09401018,
+                "excerpt": "Privacy Policy\nThis privacy policy governs your use of the software application Mind Body Trivia (\"Application\") for mobile devices. By using the Application, you consent to the collection of information by us and third parties that may collect information used to identify you.\nInformation You Provide\nThe Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use so...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "09dee35ad92f26c638e97dc90957974c14f1e51f3e62fa059c2295666d564c9b",
+                "score": 0.088504665,
+                "excerpt": "of mobile device you use, IP address, unique device identifiers, advertising identifiers, your mobile operating system, mobile carrier, the type of mobile Internet browsers you use, approximate location inferred from IP address, and information about the way you use the App.\nHow We Use Information\nWe use this information to provide, maintain, secure, customize and improve our Application. We may use the information we collect for a number of business and commercial purposes, including, but not l...",
+                "url": "https://mindbodytrivia.com/privacy"
+            },
+            {
+                "id": "d951b898a47f4b3688745389636fbbfa3898e757e370ce5cb4dfb42be8aac7e3",
+                "score": 0.041230027,
+                "excerpt": "or via the mobile application marketplace or network.\nChildren\nWe do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time.\nSecurity\nWe are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and p...",
+                "url": "https://mindbodytrivia.com/privacy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,325 @@
+[
+    {
+        "meta": {
+            "id": 1493155192,
+            "url": "https://wevibin.co/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly mentions in its Privacy Policy that it collects various types of information directly from users through multiple channels.",
+            "reference": "WeVibin will use and share your personal information with third parties only in the ways that are described in this Privacy Policy Statement. a. To provide you with Services and to analyze and improve our Services. URL: https://wevibin.co/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d1c71b00a0abbe32a9705c7a349c3da4fee22756bab473094bdf53ee912bbf01",
+                "score": 0.09434342,
+                "excerpt": "Privacy Policy\nEffective Date: January 1, 2020\nThis Privacy Statement applies to all websites owned and operated by WeVibin, Inc. (\"WeVibin\"), including www.WeVibin.co, and any other websites, pages, features, or content we own or operate, and to your use of the WeVibin mobile app and any related products and services (collectively “Services”). Our Privacy Policy Statement is designed to help you better understand how we collect, use, store, process, and transfer your information when using our ...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "c388e1c216889e88a29e0e901d44a28330283bc3c757b9bf76857a22c00c4227",
+                "score": 0.020804489,
+                "excerpt": "blogs and for the most part, any of our social media posts will be shareable by you. We will not be collecting any information that you post on any social media.\nCustomer service. When you contact us or correspond with us about our Service, we collect information to track and respond to your inquiry; investigate any breach of our Terms of Service, Privacy Policy Statement or applicable laws or regulations; and analyze and improve our Services. Please note that you hereby release and waive any co...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "af261b88ecd69f68ae35b80e80362358404672d86642f663e002465f505526ed",
+                "score": 0.0065388246,
+                "excerpt": "collect any personal information about you but they may collect the day/time you wore the device including how long you used it.\nWeb-behavior information collected through tracking technology (e.g. from cookies and similar technologies) We use Google Analytics to know through your IP address what pages of our web site you visited in order to improve your web site experience but we do not monitor a user’s behavior by first creating a profile of the user and then tracking the user for any retarget...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "48248b81b14c14d62f40b4bbc84ebf7b3b28d80b09b6097aae86bdf7e84f1044",
+                "score": 0.0060739345,
+                "excerpt": "Policy Statement from time to time. We recommend revisiting this page periodically to stay aware of any changes to this Privacy Policy Statement. If we modify this Privacy Policy Statement, we’ll make it available through our website. Whenever material changes to this Privacy Policy Statement are made, we will provide you with notice before the modifications are effective, such as by posting a notice on our website or sending a message to the email address associated with your account.\nBy contin...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "a3ef0a18537029c99f0016d880e1cf2a85688c21ccbde665e17442a987c01280",
+                "score": 0.0014664583,
+                "excerpt": "of others so that you cannot reasonably be identified as an individual, with third parties. This Information is different from \"Individual-level\" information and is not personal information because it does not identify any particular individual or disclose any particular individual’s data. For example, Aggregate Information may include a statement that \"30% of our female users share a particular performance or attention related trait,\" without providing any data or testing results specific to an...",
+                "url": "https://wevibin.co/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1493155192,
+            "url": "https://wevibin.co/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects web-behavior information such as pages visited on the website through tracking technology like cookies and similar technologies and user information related to the testing services including data on the usage of wearable devices.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Web-behavior information (pages visited on the website)",
+                        "User information related to testing services (usage data of wearable devices)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the collection of web-behavior information through tracking technology and user information related to testing services. These data types are explicitly provided in the document.",
+            "reference": "The app collects web-behavior information such as pages visited on the website through tracking technology like cookies and similar technologies and user information related to the testing services including data on the usage of wearable devices. URL: https://wevibin.co/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c388e1c216889e88a29e0e901d44a28330283bc3c757b9bf76857a22c00c4227",
+                "score": 0.23022674,
+                "excerpt": "blogs and for the most part, any of our social media posts will be shareable by you. We will not be collecting any information that you post on any social media.\nCustomer service. When you contact us or correspond with us about our Service, we collect information to track and respond to your inquiry; investigate any breach of our Terms of Service, Privacy Policy Statement or applicable laws or regulations; and analyze and improve our Services. Please note that you hereby release and waive any co...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "af261b88ecd69f68ae35b80e80362358404672d86642f663e002465f505526ed",
+                "score": 0.19329962,
+                "excerpt": "collect any personal information about you but they may collect the day/time you wore the device including how long you used it.\nWeb-behavior information collected through tracking technology (e.g. from cookies and similar technologies) We use Google Analytics to know through your IP address what pages of our web site you visited in order to improve your web site experience but we do not monitor a user’s behavior by first creating a profile of the user and then tracking the user for any retarget...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "d1c71b00a0abbe32a9705c7a349c3da4fee22756bab473094bdf53ee912bbf01",
+                "score": 0.01858215,
+                "excerpt": "Privacy Policy\nEffective Date: January 1, 2020\nThis Privacy Statement applies to all websites owned and operated by WeVibin, Inc. (\"WeVibin\"), including www.WeVibin.co, and any other websites, pages, features, or content we own or operate, and to your use of the WeVibin mobile app and any related products and services (collectively “Services”). Our Privacy Policy Statement is designed to help you better understand how we collect, use, store, process, and transfer your information when using our ...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "2fcdfe4218ccc0e408b95194db1ffe638cb11125e0db8a5ed18f163faa93008f",
+                "score": 0.015365342,
+                "excerpt": "a third party\nRegistration Information. When you purchase our Services or create a WeVibin account, we collect personal information, which may include your name, billing and shipping address, payment information (e.g., credit card) and contact information (e.g. email and phone number). Should you decide you want to receive a paid subscription from WeVibin for the purpose of accessing certain cognitive performance and attention tests, data reports and data comparisons, you will be asked additiona...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "16fe2865753b3819b8f1b8804c4e24f4923116884466dd7c3b55e3f9d4ef503b",
+                "score": 0.0075772414,
+                "excerpt": "WeVibin customers, and protects data in the event of a natural disaster or other disruption to our Service. Our IT and security service providers assist with intrusion detection and prevention measures to stop any potential attacks against our networks. We may have these third party experts perform regular penetration tests and periodically audit WeVibin’s security controls.\nAnalytics. When you use our Services, including our website or mobile app(s), our third party service providers may collec...",
+                "url": "https://wevibin.co/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1493155192,
+            "url": "https://wevibin.co/privacy-policy"
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1493155192,\n       \"url\": \"https://wevibin.co/privacy-policy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q3\",\n       \"question\": \"3. Does the app declare the purpose of data collection and use?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, the app declares the purpose of data collection and use. The purpose includes providing services, analyzing and improving services, providing test results, community data comparisons, and customer support.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy clearly states that the app describes how it utilizes the collected data for various purposes such as service provision, analysis, improvement, test results, and customer support.\",\n       \"reference\": \"WeVibin will use and share your personal information with third parties only in the ways that are described in this Privacy Policy Statement. [Source: Privacy Policy Statement, URL: https://wevibin.co/privacy-policy]\",\n       \"N/A. URL: https://wevibin.co/privacy-policy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "af261b88ecd69f68ae35b80e80362358404672d86642f663e002465f505526ed",
+                "score": 0.040769268,
+                "excerpt": "collect any personal information about you but they may collect the day/time you wore the device including how long you used it.\nWeb-behavior information collected through tracking technology (e.g. from cookies and similar technologies) We use Google Analytics to know through your IP address what pages of our web site you visited in order to improve your web site experience but we do not monitor a user’s behavior by first creating a profile of the user and then tracking the user for any retarget...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "acc6b23944d6718e0d7221e5df06eae561f1851cad86ce529b20f64eebf90765",
+                "score": 0.009161027,
+                "excerpt": "to operate, provide, analyze and improve our Services. These activities may include, among other things, using your information in a manner consistent with this Privacy Policy Statement to:\n1. open your account, enable purchases and process payments;\n2. enable and enhance your use of our website and mobile application(s), including what pages of our web site you visited and how long you may have used one of our devices;\n3. contact you about your account, and any relevant information about our Se...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "c388e1c216889e88a29e0e901d44a28330283bc3c757b9bf76857a22c00c4227",
+                "score": 0.0064882697,
+                "excerpt": "blogs and for the most part, any of our social media posts will be shareable by you. We will not be collecting any information that you post on any social media.\nCustomer service. When you contact us or correspond with us about our Service, we collect information to track and respond to your inquiry; investigate any breach of our Terms of Service, Privacy Policy Statement or applicable laws or regulations; and analyze and improve our Services. Please note that you hereby release and waive any co...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "48248b81b14c14d62f40b4bbc84ebf7b3b28d80b09b6097aae86bdf7e84f1044",
+                "score": 0.0053225355,
+                "excerpt": "Policy Statement from time to time. We recommend revisiting this page periodically to stay aware of any changes to this Privacy Policy Statement. If we modify this Privacy Policy Statement, we’ll make it available through our website. Whenever material changes to this Privacy Policy Statement are made, we will provide you with notice before the modifications are effective, such as by posting a notice on our website or sending a message to the email address associated with your account.\nBy contin...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "d1c71b00a0abbe32a9705c7a349c3da4fee22756bab473094bdf53ee912bbf01",
+                "score": 0.0019418169,
+                "excerpt": "Privacy Policy\nEffective Date: January 1, 2020\nThis Privacy Statement applies to all websites owned and operated by WeVibin, Inc. (\"WeVibin\"), including www.WeVibin.co, and any other websites, pages, features, or content we own or operate, and to your use of the WeVibin mobile app and any related products and services (collectively “Services”). Our Privacy Policy Statement is designed to help you better understand how we collect, use, store, process, and transfer your information when using our ...",
+                "url": "https://wevibin.co/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1493155192,
+            "url": "https://wevibin.co/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by contacting the Privacy Administrator at privacy@WeVibin.com, clicking the 'unsubscribe' button in promotional email communications, or deleting their WeVibin account and personal information within their WeVibin Account Settings.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection or delete their data through various methods provided within the app.",
+            "reference": "You can opt-out at the browser or device level, or by contacting our Privacy Administrator at privacy@WeVibin.com. You can also click the 'unsubscribe' button at the bottom of promotional email communications, as applicable. If you no longer wish to participate in our Services, or no longer wish to have your personal information be processed, you may delete your WeVibin account and personal information within your WeVibin Account Settings. Once you submit your request, we will send an email to the email address linked to your WeVibin account detailing our account deletion policy and requesting that you confirm your deletion request. URL: https://wevibin.co/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b197d5106d9a2059013396a52ed8b422b4423946acfa9a00c1ba4461cd145c82",
+                "score": 0.19528697,
+                "excerpt": "Account Settings, opting out at the browser or device level, or by contacting our Privacy Administrator at privacy@WeVibin.com. You can also click the \"unsubscribe\" button at the bottom of promotional email communications, as applicable.\nc. Sharing outside of the WeVibin Services\nYou may decide to share your Aggregate Information with friends and/or family members, doctors or other health care professionals, and/or other individuals outside of our Services). These third parties may use your info...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "76a3eadf063f1d34eca71dcf4be61431017d339f32e3bb0a2f254efedd284651",
+                "score": 0.19498022,
+                "excerpt": "do not want to receive these requests.\ne. To provide you with marketing communications\nBy creating a WeVibin account, you are agreeing that we may send you product and promotional emails or notifications about our Services, and offers on new products, services, or promotions. You may also opt-in to receiving similar notifications on the website or mobile application. You can unsubscribe from receiving these marketing communications at any time. To unsubscribe, click the email footer “unsubscribe...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "df64748f1cbeab072be8e8452f0e88d902e76fd4f37a53fb7a96ad73898d3a2b",
+                "score": 0.037047166,
+                "excerpt": "to have your personal information be processed, you may delete your WeVibin account and personal information within your WeVibin Account Settings. Once you submit your request, we will send an email to the email address linked to your WeVibin account detailing our account deletion policy and requesting that you confirm your deletion request. Once you confirm your request to delete your account and data, your account will no longer be accessible while we process your request. Once you confirm you...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "48248b81b14c14d62f40b4bbc84ebf7b3b28d80b09b6097aae86bdf7e84f1044",
+                "score": 0.009522486,
+                "excerpt": "Policy Statement from time to time. We recommend revisiting this page periodically to stay aware of any changes to this Privacy Policy Statement. If we modify this Privacy Policy Statement, we’ll make it available through our website. Whenever material changes to this Privacy Policy Statement are made, we will provide you with notice before the modifications are effective, such as by posting a notice on our website or sending a message to the email address associated with your account.\nBy contin...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "74a695f64638a418cf26241f09a2844923abb6278fdfc5fb00aca04979af8ddb",
+                "score": 0.007785655,
+                "excerpt": "data becomes part of the community of data that is used to provide relevant data comparison results.\nc. To provide customer support\nWhen you contact us, we may use or request personal information as necessary to answer your questions, resolve disputes, and/or investigate and troubleshoot problems or complaints. In some instances, we may be required to process one customer’s personal information to resolve another customer’s dispute or request. For example, if a customer reports behavior that vio...",
+                "url": "https://wevibin.co/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1493155192,
+            "url": "https://wevibin.co/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares information with third parties in various contexts, such as service providers, analytics, aggregate information sharing, and in the case of business transactions. This sharing is described under the 'Information we share with third parties' section of the privacy policy.",
+            "reference": "We share the information described above in Section 2 with our third party service providers...Our service providers act on WeVibin's behalf. We implement procedures and maintain contractual terms with each service provider to protect the confidentiality and security of your information....We may share Aggregate Information, which is information that has been stripped of your name and contact information...In the event that WeVibin goes through a business transition such as a merger...URL: https://wevibin.co/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "76a3eadf063f1d34eca71dcf4be61431017d339f32e3bb0a2f254efedd284651",
+                "score": 0.87873113,
+                "excerpt": "do not want to receive these requests.\ne. To provide you with marketing communications\nBy creating a WeVibin account, you are agreeing that we may send you product and promotional emails or notifications about our Services, and offers on new products, services, or promotions. You may also opt-in to receiving similar notifications on the website or mobile application. You can unsubscribe from receiving these marketing communications at any time. To unsubscribe, click the email footer “unsubscribe...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "16fe2865753b3819b8f1b8804c4e24f4923116884466dd7c3b55e3f9d4ef503b",
+                "score": 0.6703925,
+                "excerpt": "WeVibin customers, and protects data in the event of a natural disaster or other disruption to our Service. Our IT and security service providers assist with intrusion detection and prevention measures to stop any potential attacks against our networks. We may have these third party experts perform regular penetration tests and periodically audit WeVibin’s security controls.\nAnalytics. When you use our Services, including our website or mobile app(s), our third party service providers may collec...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "61ac5a30e297f34dd2a20124419ced878b603f522ddf5281e58f14fa329cb756",
+                "score": 0.5993679,
+                "excerpt": "(a) comply with legal or regulatory process (such as a judicial proceeding, court order, or government inquiry) or obligations that WeVibin may owe pursuant to ethical and other professional rules, laws, and regulations; (b) enforce the WeVibin Terms of Service and other policies; (c) respond to claims that any content violates the rights of third parties; or (d) protect the rights, property, or personal safety of WeVibin, its employees, its users and the public.\nBusiness transactions\nIn the eve...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "a3ef0a18537029c99f0016d880e1cf2a85688c21ccbde665e17442a987c01280",
+                "score": 0.5673374,
+                "excerpt": "of others so that you cannot reasonably be identified as an individual, with third parties. This Information is different from \"Individual-level\" information and is not personal information because it does not identify any particular individual or disclose any particular individual’s data. For example, Aggregate Information may include a statement that \"30% of our female users share a particular performance or attention related trait,\" without providing any data or testing results specific to an...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "7f731e45d1b2ea08153b2e13a0e4440aec831a3a45edea5202a8f790fe85578c",
+                "score": 0.263789,
+                "excerpt": "parties (other companies or individuals) that help us to provide and improve our Services. While WeVibin directly conducts the majority of data processing activities required to provide our Services to you, we engage some third party service providers to assist in supporting our Services, including in the following areas:\nOrder fulfillment and shipping. Our payment processor processes certain Registration Information, such as your billing address and credit card information, as necessary to enab...",
+                "url": "https://wevibin.co/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1493155192,
+            "url": "https://wevibin.co/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third party service providers in areas such as order fulfillment and shipping, customer care support, and cloud storage, IT, and security.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Order fulfillment and shipping service providers",
+                        "Customer care support providers",
+                        "Cloud storage, IT, and security service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with third party service providers in various areas, ensuring the necessary support and services are provided to users.",
+            "reference": "General service providers. We share the information described above in Section 2 with our third party service providers, as necessary for them to provide their services to us and help us perform our contract with you. Service providers are third parties (other companies or individuals) that help us to provide and improve our Services. While WeVibin directly conducts the majority of data processing activities required to provide our Services to you, we engage some third party service providers to assist in supporting our Services, including in the following areas: Order fulfillment. URL: https://wevibin.co/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "16fe2865753b3819b8f1b8804c4e24f4923116884466dd7c3b55e3f9d4ef503b",
+                "score": 0.562537,
+                "excerpt": "WeVibin customers, and protects data in the event of a natural disaster or other disruption to our Service. Our IT and security service providers assist with intrusion detection and prevention measures to stop any potential attacks against our networks. We may have these third party experts perform regular penetration tests and periodically audit WeVibin’s security controls.\nAnalytics. When you use our Services, including our website or mobile app(s), our third party service providers may collec...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "a3ef0a18537029c99f0016d880e1cf2a85688c21ccbde665e17442a987c01280",
+                "score": 0.45865178,
+                "excerpt": "of others so that you cannot reasonably be identified as an individual, with third parties. This Information is different from \"Individual-level\" information and is not personal information because it does not identify any particular individual or disclose any particular individual’s data. For example, Aggregate Information may include a statement that \"30% of our female users share a particular performance or attention related trait,\" without providing any data or testing results specific to an...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "7f731e45d1b2ea08153b2e13a0e4440aec831a3a45edea5202a8f790fe85578c",
+                "score": 0.4164406,
+                "excerpt": "parties (other companies or individuals) that help us to provide and improve our Services. While WeVibin directly conducts the majority of data processing activities required to provide our Services to you, we engage some third party service providers to assist in supporting our Services, including in the following areas:\nOrder fulfillment and shipping. Our payment processor processes certain Registration Information, such as your billing address and credit card information, as necessary to enab...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "76a3eadf063f1d34eca71dcf4be61431017d339f32e3bb0a2f254efedd284651",
+                "score": 0.3572311,
+                "excerpt": "do not want to receive these requests.\ne. To provide you with marketing communications\nBy creating a WeVibin account, you are agreeing that we may send you product and promotional emails or notifications about our Services, and offers on new products, services, or promotions. You may also opt-in to receiving similar notifications on the website or mobile application. You can unsubscribe from receiving these marketing communications at any time. To unsubscribe, click the email footer “unsubscribe...",
+                "url": "https://wevibin.co/privacy-policy"
+            },
+            {
+                "id": "d7b5ffdde7389b0746cd5fdcb6d9e3f00f83ab577c432a176903470b9a7ba73f",
+                "score": 0.18300885,
+                "excerpt": "for a limited period of time as required by law, contractual obligations, and/or as necessary for the establishment, exercise or defense of legal claims and for audit and compliance purposes.\n6. Security measures\nWeVibin takes seriously the trust you place in us. WeVibin implements physical, technical, and administrative measures to prevent unauthorized access to or disclosure of your information, to maintain data accuracy, to ensure the appropriate use of information, and otherwise safeguard yo...",
+                "url": "https://wevibin.co/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1569749201,
+      "url": "https://www.thepeoplespot.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that users consent to the collection, holding, use, and disclosure of their personal information in accordance with the privacy policy.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes the importance of privacy and outlines the types of personal information collected.",
+          "content": "The People Spot Pty Ltd has obligations concerning the collection, use, disclosure, and storage of personal information, and users consent to this collection."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users consent to the collection of their personal information, indicating transparency in data practices.",
+      "reference": "About This Privacy Policy, What personal information do we collect and hold?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1569749201,
+      "url": "https://www.thepeoplespot.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects and holds personal information that may include an individual's name, address, date of birth, email address, telephone number and other contact details, workplace, and technical data such as IP address, device types, device attributes, browser type, language, and operating system.",
+        "simple_answer": "The app collects personal information including name, address, email, phone number, workplace, and technical data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of personal information to enhance user experience and service delivery.",
+          "content": "The personal information collected includes name, address, date of birth, email address, telephone number, workplace, and technical data like IP address and device information."
+        }
+      },
+      "analysis": "",
+      "reference": "What personal information do we collect and hold?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1569749201,
+      "url": "https://www.thepeoplespot.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It collects, holds, uses, and discloses personal information for several purposes, including enabling access to the website and app, managing relationships, sending marketing messages, running business activities, and complying with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The purposes are clearly outlined in the privacy policy.",
+          "content": "The purposes include enabling access to services, managing relationships, sending marketing messages, improving services, and legal compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "Why do we collect, hold, use and disclose personal information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1569749201,
+      "url": "https://www.thepeoplespot.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt out of receiving further marketing communications by following the opt-out instructions provided in the communication. However, the policy does not explicitly state that users can opt out of all data collection. Users can also choose to deal with the company anonymously or by using a pseudonym, but this may affect their ability to access certain functions of the website or services. Additionally, if the information is no longer required, it will be destroyed or de-identified.",
+        "simple_answer": "Users can opt out of marketing communications but not all data collection.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of marketing, the policy does not provide a clear option to opt out of all data collection.",
+          "content": "Users can opt out of receiving marketing communications and can choose to remain anonymous, but this may limit their access to certain services."
+        }
+      },
+      "analysis": "The privacy policy allows for opting out of marketing communications but does not provide a comprehensive opt-out option for all data collection. Users can remain anonymous, which may limit their service access.",
+      "reference": "Section: 'Do we use your personal information for marketing?' and 'Can I remain anonymous?'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1569749201,
+      "url": "https://www.thepeoplespot.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may disclose personal information to third parties, including trading partners and external service providers, for various purposes such as performing services on behalf of People Spot. The policy states that reasonable efforts are made to ensure that only relevant information is disclosed and that the third party will comply with the Privacy Act.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with third parties for service provision and other purposes, ensuring compliance with privacy laws.",
+          "content": "The app may disclose personal information to third parties for purposes such as managing relationships, marketing, and legal compliance. Disclosure is made with reasonable efforts to ensure accuracy and compliance with the Privacy Act."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the circumstances under which personal information may be shared with third parties, emphasizing compliance with legal obligations and the importance of user consent.",
+      "reference": "To whom do we disclose personal information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1569749201,
+      "url": "https://www.thepeoplespot.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose personal information to trading partners and external service providers of People Spot so that they may perform services for us or on our behalf. Additionally, personal information may be disclosed in circumstances where the person concerned has consented to the disclosure, or where we are expressly permitted to do so by the Privacy Act.",
+        "simple_answer": "The app shares data with trading partners and external service providers.",
+        "extended_simple_answer": {
+          "comment": "The app may also share data when consent is given or as permitted by law.",
+          "content": "Personal information may be disclosed to third parties for various purposes, including quality assurance, legal claims, or as requested by enforcement agencies."
+        }
+      },
+      "analysis": "",
+      "reference": "To whom do we disclose personal information?"
+    }
+  }
+]

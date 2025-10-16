@@ -1,0 +1,325 @@
+[
+    {
+        "meta": {
+            "id": 1519041530,
+            "url": "https://pnthn.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal data and describes the types of data collected.",
+            "reference": "We will collect personal data that you submit or which we collect through your use of our properties. We may disclose this personal data to Active Group’s customers, and third-party service providers as described in more detail below. URL: https://pnthn.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a07ce7390fcab82b34de5770745eeb7ad3de2d39b790c07d640ded6ed01672b0",
+                "score": 0.011201214,
+                "excerpt": "Privacy Policy\nEffective January 1, 2020\nThis Privacy Policy applies to the Active Group, Inc. (“Active Group,” “we,” or “us”) owned and operated websites and applications and governs data collection and usage. By using our website or apps websites www.active.company, and Active Group mobile applications (“the Site”), you consent to the data practices described in this policy. The Site provides web and mobile applications, activity tracking, and other services offered by Active Group (the “Servi...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "f374e674e9097be3ac2e71429e1f31b3d5c1dfa582961e5b9a2c1350795a2451",
+                "score": 0.00809329,
+                "excerpt": "compliance with laws or regulatory compliance.\nThe Personal Data we hold about you is processed by us on the basis of our legitimate interests in providing the Services. Based upon the type and amount of data we collect, we have made a determination that our legitimate interest in using such Personal Data is not outweighed by any detriment to you.\nInformation Collection and Use\nThrough your use of the Services, we may collect the following “Personal Data” from you if you choose to provide it, in...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "55ff1ff4e5c14621a40852bc564583815f2ed5e16c1e77861af4a74f662df2c3",
+                "score": 0.0027044294,
+                "excerpt": "Active Group has no obligation to a California resident to provide further information regarding Owner’s use of the California resident’s personal data.\nNotice to Utah residents\nExcept as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.\nWhat this Privacy Policy Covers\nThis Privacy Policy covers our treatment of Personal Data that we collect through your use of the Site and when you use Services provided on ...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "7076b17a0ed1322892223879998c2b5037d9fdb206149f9097a2f6fe8f753d2d",
+                "score": 0.0007321813,
+                "excerpt": "more personalize the Services, and to comply with applicable laws.\nHow Your Personal Data May Be Used\nWe may use Analytical Information to improve the performance or layout of our website; to develop new services and ideas; and to better administer and troubleshoot our systems. Specific uses include:\nName - Your name is used for identification within the application and personalization of emails or notifications.\nEmail - Your email may be used for purposes of password reset assistance and transa...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "58cdeb1444df4ee249e0b3dacb5e414cbe5439d39822e9d20365f90e641317e1",
+                "score": 0.0006538155,
+                "excerpt": "please contact us at privacy@active.company.\nYour access to and use of the Site is subject to this Privacy Policy and all applicable laws. By submitting your contact information to receive a quote or more information from us through the Site, or accessing and/or otherwise using the Site, you consent to Active Group use of your Personal Data as set forth below in this Privacy Policy. If you do not agree to this Privacy Policy, then you may not use the Site and you should submit your contact infor...",
+                "url": "https://pnthn.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1519041530,
+            "url": "https://pnthn.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Contact Information (such as name, email, address, and telephone number) and Analytical Information (such as pages viewed, browser type, operating system, device information, mobile operating system, and mobile device identifier).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact Information (name, email, address, telephone number)",
+                        "Analytical Information (pages viewed, browser type, operating system, device information, mobile operating system, mobile device identifier)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the types of data collected under 'Information Collection and Use'. The Contact Information and Analytical Information are detailed as the types of data collected by the app.",
+            "reference": "Your name, email, address and/or telephone number (“Contact Information”). Pages viewed, emails from us that you opened, browser type, operating system, and device information, your mobile operating system (OS), a mobile device identifier embedded by us, or other commonly used mobile device identifier if you access the Site on a mobile device (“Analytical Information”). URL: https://pnthn.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f374e674e9097be3ac2e71429e1f31b3d5c1dfa582961e5b9a2c1350795a2451",
+                "score": 0.15752527,
+                "excerpt": "compliance with laws or regulatory compliance.\nThe Personal Data we hold about you is processed by us on the basis of our legitimate interests in providing the Services. Based upon the type and amount of data we collect, we have made a determination that our legitimate interest in using such Personal Data is not outweighed by any detriment to you.\nInformation Collection and Use\nThrough your use of the Services, we may collect the following “Personal Data” from you if you choose to provide it, in...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "a07ce7390fcab82b34de5770745eeb7ad3de2d39b790c07d640ded6ed01672b0",
+                "score": 0.01374232,
+                "excerpt": "Privacy Policy\nEffective January 1, 2020\nThis Privacy Policy applies to the Active Group, Inc. (“Active Group,” “we,” or “us”) owned and operated websites and applications and governs data collection and usage. By using our website or apps websites www.active.company, and Active Group mobile applications (“the Site”), you consent to the data practices described in this policy. The Site provides web and mobile applications, activity tracking, and other services offered by Active Group (the “Servi...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "7076b17a0ed1322892223879998c2b5037d9fdb206149f9097a2f6fe8f753d2d",
+                "score": 0.0075772414,
+                "excerpt": "more personalize the Services, and to comply with applicable laws.\nHow Your Personal Data May Be Used\nWe may use Analytical Information to improve the performance or layout of our website; to develop new services and ideas; and to better administer and troubleshoot our systems. Specific uses include:\nName - Your name is used for identification within the application and personalization of emails or notifications.\nEmail - Your email may be used for purposes of password reset assistance and transa...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "55ff1ff4e5c14621a40852bc564583815f2ed5e16c1e77861af4a74f662df2c3",
+                "score": 0.0070117954,
+                "excerpt": "Active Group has no obligation to a California resident to provide further information regarding Owner’s use of the California resident’s personal data.\nNotice to Utah residents\nExcept as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.\nWhat this Privacy Policy Covers\nThis Privacy Policy covers our treatment of Personal Data that we collect through your use of the Site and when you use Services provided on ...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "7eed9736ff9ecf596863b6c53612efe0798147cd3f8f61482cf2d4bdd33332bf",
+                "score": 0.0015129384,
+                "excerpt": "method or data transmission over the Internet can be guaranteed to be 100% secure.\nCommitment to Children’s Privacy\nIn compliance with the Children's Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, the Site does not collect information from children under 16 years of age, and we do not intentionally collect information from persons under sixteen (16) years of age. Use of the Site is limited to users that are sixteen (16) years of age and older. By using the S...",
+                "url": "https://pnthn.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1519041530,
+            "url": "https://pnthn.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states how the collected data, including Contact Information, Analytical Information, and other Personal Data, may be used for purposes such as improving performance, personalization, troubleshooting, and communication with users. These purposes are clearly declared.",
+            "reference": "How Your Personal Data May Be Used We may use Analytical Information to improve the performance or layout of our website; to develop new services and ideas; and to better administer and troubleshoot our systems. URL: https://pnthn.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f374e674e9097be3ac2e71429e1f31b3d5c1dfa582961e5b9a2c1350795a2451",
+                "score": 0.12797922,
+                "excerpt": "compliance with laws or regulatory compliance.\nThe Personal Data we hold about you is processed by us on the basis of our legitimate interests in providing the Services. Based upon the type and amount of data we collect, we have made a determination that our legitimate interest in using such Personal Data is not outweighed by any detriment to you.\nInformation Collection and Use\nThrough your use of the Services, we may collect the following “Personal Data” from you if you choose to provide it, in...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "a07ce7390fcab82b34de5770745eeb7ad3de2d39b790c07d640ded6ed01672b0",
+                "score": 0.017375665,
+                "excerpt": "Privacy Policy\nEffective January 1, 2020\nThis Privacy Policy applies to the Active Group, Inc. (“Active Group,” “we,” or “us”) owned and operated websites and applications and governs data collection and usage. By using our website or apps websites www.active.company, and Active Group mobile applications (“the Site”), you consent to the data practices described in this policy. The Site provides web and mobile applications, activity tracking, and other services offered by Active Group (the “Servi...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "7076b17a0ed1322892223879998c2b5037d9fdb206149f9097a2f6fe8f753d2d",
+                "score": 0.011508149,
+                "excerpt": "more personalize the Services, and to comply with applicable laws.\nHow Your Personal Data May Be Used\nWe may use Analytical Information to improve the performance or layout of our website; to develop new services and ideas; and to better administer and troubleshoot our systems. Specific uses include:\nName - Your name is used for identification within the application and personalization of emails or notifications.\nEmail - Your email may be used for purposes of password reset assistance and transa...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "55ff1ff4e5c14621a40852bc564583815f2ed5e16c1e77861af4a74f662df2c3",
+                "score": 0.009020279,
+                "excerpt": "Active Group has no obligation to a California resident to provide further information regarding Owner’s use of the California resident’s personal data.\nNotice to Utah residents\nExcept as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.\nWhat this Privacy Policy Covers\nThis Privacy Policy covers our treatment of Personal Data that we collect through your use of the Site and when you use Services provided on ...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "58cdeb1444df4ee249e0b3dacb5e414cbe5439d39822e9d20365f90e641317e1",
+                "score": 0.0011740822,
+                "excerpt": "please contact us at privacy@active.company.\nYour access to and use of the Site is subject to this Privacy Policy and all applicable laws. By submitting your contact information to receive a quote or more information from us through the Site, or accessing and/or otherwise using the Site, you consent to Active Group use of your Personal Data as set forth below in this Privacy Policy. If you do not agree to this Privacy Policy, then you may not use the Site and you should submit your contact infor...",
+                "url": "https://pnthn.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1519041530,
+            "url": "https://pnthn.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can exercise various rights including the right to withdraw consent, the right to data portability, the right to erasure/right to be forgotten, and the right to restriction of processing. These rights give users the ability to opt out of data collection or request the deletion of their data.",
+            "reference": "You have the right to notify Active Group that you no longer want them to process or use your Personal Data... You have the right to obtain a copy of your Personal Data stored and processed by Active Group and direct Active Group to transfer your Personal Data to another controller... You have the right to request that any of your Personal Data being stored or processed by Active Group is deleted... You may request that Active Group restrict the processing of your Personal Data... URL: https://pnthn.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3d650198bf8cbab820989a30d9ccc121ddc91878e23b2d9e1ee37d7bc56436d2",
+                "score": 0.23213601,
+                "excerpt": "Active Group at privacy@active.companyor 5130 Gateway Blvd. E., El Paso, TX 79905. If you choose to exercise any of your rights listed above, it may affect your ability to use the Site, as the operation and functionalities provided on the Site may require the use of your Personal Data.\nAbility to Review and Edit Your Information\nYou may review and approve the Contact Information about you that was stored in our database and obtained through your use of the Site. Upon your written request, we wil...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "293669677d81363868ac922e42ed9292921f0b268ccd5e6e6cf4b70d673fd661",
+                "score": 0.12064587,
+                "excerpt": "Unless we tell you differently, we only provide these companies the minimum amount of information that is necessary for them to assist us and these companies do not have any right to use the Personal Data we provide to them beyond what is necessary to assist us;\nWe find that your actions on our website violate the Terms and Conditions of Use, any of our usage guidelines for specific services or any agreement; and\nAs required to respond to or initiate subpoenas, court orders, or legal process.\nHo...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "f1ee4956093bab28a3bee41434f2706ebe8c526f87e8d23ba0371a5e64934cbe",
+                "score": 0.09451043,
+                "excerpt": "to data portability. You have the right to obtain a copy of your Personal Data stored and processed by Active Group and direct Active Group to transfer your Personal Data to another controller via csv format.\nRight to erasure/Right to be forgotten. You have the right to request that any of your Personal Data being stored or processed by Active Group is deleted from our records. However, while we can delete your Personal Data from our current records, copies of your data may be stored in Active G...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "34726e586ec1e661263ce1b82917db4148ab8433ef980ee1a7055615cf5b4855",
+                "score": 0.046291903,
+                "excerpt": "services and those of our affiliates, based on the preferences you have indicated.\nWe provide you the opportunity to consent to receive commercial email from us related to the Services or information that we deem you may be interested in when you seek more information from us. We will give you the opportunity to \"opt out\" of receiving any unsolicited information from us or to limit the unsolicited information you receive from us to information regarding the Services or information you specifical...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "f374e674e9097be3ac2e71429e1f31b3d5c1dfa582961e5b9a2c1350795a2451",
+                "score": 0.02215887,
+                "excerpt": "compliance with laws or regulatory compliance.\nThe Personal Data we hold about you is processed by us on the basis of our legitimate interests in providing the Services. Based upon the type and amount of data we collect, we have made a determination that our legitimate interest in using such Personal Data is not outweighed by any detriment to you.\nInformation Collection and Use\nThrough your use of the Services, we may collect the following “Personal Data” from you if you choose to provide it, in...",
+                "url": "https://pnthn.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1519041530,
+            "url": "https://pnthn.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that personal data may be disclosed to Active Group's customers and third-party service providers. It also mentions sharing information with companies working on behalf of Active Group to provide products or services.",
+            "reference": "We may disclose this personal data to Active Group’s customers, and third-party service providers. We will share your Personal Data to other companies or people when...we need to send the information to companies who work on behalf of Active Group to provide a product or service to you. Unless we tell you differently, we only provide these companies the minimum amount of information that is necessary for them to assist us. URL: https://pnthn.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a07ce7390fcab82b34de5770745eeb7ad3de2d39b790c07d640ded6ed01672b0",
+                "score": 0.07030385,
+                "excerpt": "Privacy Policy\nEffective January 1, 2020\nThis Privacy Policy applies to the Active Group, Inc. (“Active Group,” “we,” or “us”) owned and operated websites and applications and governs data collection and usage. By using our website or apps websites www.active.company, and Active Group mobile applications (“the Site”), you consent to the data practices described in this policy. The Site provides web and mobile applications, activity tracking, and other services offered by Active Group (the “Servi...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "7076b17a0ed1322892223879998c2b5037d9fdb206149f9097a2f6fe8f753d2d",
+                "score": 0.06278921,
+                "excerpt": "more personalize the Services, and to comply with applicable laws.\nHow Your Personal Data May Be Used\nWe may use Analytical Information to improve the performance or layout of our website; to develop new services and ideas; and to better administer and troubleshoot our systems. Specific uses include:\nName - Your name is used for identification within the application and personalization of emails or notifications.\nEmail - Your email may be used for purposes of password reset assistance and transa...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "34726e586ec1e661263ce1b82917db4148ab8433ef980ee1a7055615cf5b4855",
+                "score": 0.036700353,
+                "excerpt": "services and those of our affiliates, based on the preferences you have indicated.\nWe provide you the opportunity to consent to receive commercial email from us related to the Services or information that we deem you may be interested in when you seek more information from us. We will give you the opportunity to \"opt out\" of receiving any unsolicited information from us or to limit the unsolicited information you receive from us to information regarding the Services or information you specifical...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "55ff1ff4e5c14621a40852bc564583815f2ed5e16c1e77861af4a74f662df2c3",
+                "score": 0.03155902,
+                "excerpt": "Active Group has no obligation to a California resident to provide further information regarding Owner’s use of the California resident’s personal data.\nNotice to Utah residents\nExcept as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.\nWhat this Privacy Policy Covers\nThis Privacy Policy covers our treatment of Personal Data that we collect through your use of the Site and when you use Services provided on ...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "58cdeb1444df4ee249e0b3dacb5e414cbe5439d39822e9d20365f90e641317e1",
+                "score": 0.029090757,
+                "excerpt": "please contact us at privacy@active.company.\nYour access to and use of the Site is subject to this Privacy Policy and all applicable laws. By submitting your contact information to receive a quote or more information from us through the Site, or accessing and/or otherwise using the Site, you consent to Active Group use of your Personal Data as set forth below in this Privacy Policy. If you do not agree to this Privacy Policy, then you may not use the Site and you should submit your contact infor...",
+                "url": "https://pnthn.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1519041530,
+            "url": "https://pnthn.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with companies who work on behalf of Active Group to provide a product or service, ensuring they have the minimum amount of necessary information. Other than that, the app does not share Personal Data with any other person or company.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Companies working on behalf of Active Group"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy indicates that the app shares data with companies who assist Active Group in providing a product or service, ensuring a minimal amount of information is shared. However, Personal Data is not shared with any other person or company.",
+            "reference": "Unless we tell you differently, we only provide these companies the minimum amount of information that is necessary for them to assist us and these companies do not have any right to use the Personal Data we provide to them beyond what is necessary to assist us; URL: https://pnthn.com/privacy."
+        },
+        "source_documents": [
+            {
+                "id": "34726e586ec1e661263ce1b82917db4148ab8433ef980ee1a7055615cf5b4855",
+                "score": 0.27532452,
+                "excerpt": "services and those of our affiliates, based on the preferences you have indicated.\nWe provide you the opportunity to consent to receive commercial email from us related to the Services or information that we deem you may be interested in when you seek more information from us. We will give you the opportunity to \"opt out\" of receiving any unsolicited information from us or to limit the unsolicited information you receive from us to information regarding the Services or information you specifical...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "58cdeb1444df4ee249e0b3dacb5e414cbe5439d39822e9d20365f90e641317e1",
+                "score": 0.0588847,
+                "excerpt": "please contact us at privacy@active.company.\nYour access to and use of the Site is subject to this Privacy Policy and all applicable laws. By submitting your contact information to receive a quote or more information from us through the Site, or accessing and/or otherwise using the Site, you consent to Active Group use of your Personal Data as set forth below in this Privacy Policy. If you do not agree to this Privacy Policy, then you may not use the Site and you should submit your contact infor...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "55ff1ff4e5c14621a40852bc564583815f2ed5e16c1e77861af4a74f662df2c3",
+                "score": 0.048948623,
+                "excerpt": "Active Group has no obligation to a California resident to provide further information regarding Owner’s use of the California resident’s personal data.\nNotice to Utah residents\nExcept as expressly identified below, we do not disclose a user’s personal data to any third-party for such third-party’s direct marketing purposes.\nWhat this Privacy Policy Covers\nThis Privacy Policy covers our treatment of Personal Data that we collect through your use of the Site and when you use Services provided on ...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "293669677d81363868ac922e42ed9292921f0b268ccd5e6e6cf4b70d673fd661",
+                "score": 0.04822634,
+                "excerpt": "Unless we tell you differently, we only provide these companies the minimum amount of information that is necessary for them to assist us and these companies do not have any right to use the Personal Data we provide to them beyond what is necessary to assist us;\nWe find that your actions on our website violate the Terms and Conditions of Use, any of our usage guidelines for specific services or any agreement; and\nAs required to respond to or initiate subpoenas, court orders, or legal process.\nHo...",
+                "url": "https://pnthn.com/privacy"
+            },
+            {
+                "id": "a07ce7390fcab82b34de5770745eeb7ad3de2d39b790c07d640ded6ed01672b0",
+                "score": 0.045437217,
+                "excerpt": "Privacy Policy\nEffective January 1, 2020\nThis Privacy Policy applies to the Active Group, Inc. (“Active Group,” “we,” or “us”) owned and operated websites and applications and governs data collection and usage. By using our website or apps websites www.active.company, and Active Group mobile applications (“the Site”), you consent to the data practices described in this policy. The Site provides web and mobile applications, activity tracking, and other services offered by Active Group (the “Servi...",
+                "url": "https://pnthn.com/privacy"
+            }
+        ]
+    }
+]

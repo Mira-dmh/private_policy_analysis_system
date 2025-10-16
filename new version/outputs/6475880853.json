@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 6475880853,
+            "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of personal data for providing and improving the service.",
+            "reference": "We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. URL: https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "64f394bb4f0c5c5c90504917839dd1a872a1a4bf035f8cf988951409b1f8faf3",
+                "score": 0.059866417,
+                "excerpt": "Last updated: June 30, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the f...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "662b6c74d301c398b82ca2023a689d63d46bbfe6d7f1b1c3c5967ab30e1c0157",
+                "score": 0.04410091,
+                "excerpt": "Data, is processed at the Application Provider's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to - and maintained on - computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agree...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "ca4ac06d1ba8a618d0451faeb7a1bd2e5005f571ed5fe3472607cc6ee441b2bb",
+                "score": 0.023734685,
+                "excerpt": "include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Y...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "6ca9a6aa36f5eb192151b8b144b1c843b1ff0f5b0ea4427707419441b6390a31",
+                "score": 0.023464657,
+                "excerpt": "the Service.\nYou may contact Us to request access to, correct, or delete any personal information that You have provided to Us.\nPlease note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Application Provider is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certa...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "59cc42ebbba4c499270f769595cc9652b32b264d3240d311ae7283e82b516c1c",
+                "score": 0.02178117,
+                "excerpt": "Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that inf...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475880853,
+            "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects the following types of data: pictures and other information from your device's camera and photo library that you select, and information regarding your local timezone for enabling timed notifications.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Pictures and other information from your Device's camera and photo library",
+                        "Information regarding your local timezone"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the sections mentioning the collection of data related to the device's camera, photo library, and local timezone for specific purposes.",
+            "reference": "Pictures and other information from your Device's camera and photo library that you select. Information regarding your local timezone for the purpose of enabling timed notifications that you create. URL: https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "ca4ac06d1ba8a618d0451faeb7a1bd2e5005f571ed5fe3472607cc6ee441b2bb",
+                "score": 0.30393836,
+                "excerpt": "include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Y...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "0c3f6eea5030199ba314bccd992d239cb634c1004dcd16dfcc8fca8971ebd172",
+                "score": 0.103748634,
+                "excerpt": "information from your Device's camera and photo library that you select\nOur Application uses this information to provide features of Our Service. This information is stored only on Your device and is not communicated externally from Your device. This information is not collected or processed by the Application provider.\nYou can enable or disable access to this information at any time, through Your Device settings.\nWhile using Our Application, in order to provide features of Our Service, Our Appl...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "64f394bb4f0c5c5c90504917839dd1a872a1a4bf035f8cf988951409b1f8faf3",
+                "score": 0.100172214,
+                "excerpt": "Last updated: June 30, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the f...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "efe1c662a01f7f791be28ca0b5df3823b005a717e60e6558a4244bac7c1259ba",
+                "score": 0.093678005,
+                "excerpt": "identifiable individual.\nService refers to the Application.\nService Provider means any natural or legal person who processes the data on behalf of the Application Provider. It refers to third-party companies or individuals employed by the Application Provider to facilitate the Service, to provide the Service on behalf of the Application Provider, to perform services related to the Service or to assist the Application Provider in analyzing how the Service is used.\nUsage Data refers to data collec...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "662b6c74d301c398b82ca2023a689d63d46bbfe6d7f1b1c3c5967ab30e1c0157",
+                "score": 0.038394015,
+                "excerpt": "Data, is processed at the Application Provider's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to - and maintained on - computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agree...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475880853,
+            "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the Application Provider may use Personal Data for various purposes such as maintaining the Service, responding to user requests, and performing contract obligations. This indicates a clear declaration of the purposes of data collection and use.",
+            "reference": "The Application Provider may use Personal Data for the following purposes: To provide and maintain our Service, including to monitor the usage of our Service. For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service. To manage Your requests: To respond to any of Your requests to Us. URL: https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "64f394bb4f0c5c5c90504917839dd1a872a1a4bf035f8cf988951409b1f8faf3",
+                "score": 0.22970797,
+                "excerpt": "Last updated: June 30, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the f...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "0c3f6eea5030199ba314bccd992d239cb634c1004dcd16dfcc8fca8971ebd172",
+                "score": 0.06766981,
+                "excerpt": "information from your Device's camera and photo library that you select\nOur Application uses this information to provide features of Our Service. This information is stored only on Your device and is not communicated externally from Your device. This information is not collected or processed by the Application provider.\nYou can enable or disable access to this information at any time, through Your Device settings.\nWhile using Our Application, in order to provide features of Our Service, Our Appl...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "fce850e82bdcc6ea0b6185549f12e7ddfd25e277dd41a93b02ff81ed12b2d33a",
+                "score": 0.034553625,
+                "excerpt": "the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.\nTo manage Your requests: To respond to any of Your requests to Us.\nWe may share Your personal information in the following situations:\nThe Application Provider will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the ...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "efe1c662a01f7f791be28ca0b5df3823b005a717e60e6558a4244bac7c1259ba",
+                "score": 0.0066411127,
+                "excerpt": "identifiable individual.\nService refers to the Application.\nService Provider means any natural or legal person who processes the data on behalf of the Application Provider. It refers to third-party companies or individuals employed by the Application Provider to facilitate the Service, to provide the Service on behalf of the Application Provider, to perform services related to the Service or to assist the Application Provider in analyzing how the Service is used.\nUsage Data refers to data collec...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "ca4ac06d1ba8a618d0451faeb7a1bd2e5005f571ed5fe3472607cc6ee441b2bb",
+                "score": 0.004886375,
+                "excerpt": "include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Y...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475880853,
+            "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection or request the deletion of collected personal data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the user has the right to delete or request assistance in deleting personal data collected by the service.",
+            "reference": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You. URL: https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "662b6c74d301c398b82ca2023a689d63d46bbfe6d7f1b1c3c5967ab30e1c0157",
+                "score": 0.5099474,
+                "excerpt": "Data, is processed at the Application Provider's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to - and maintained on - computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agree...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "6ca9a6aa36f5eb192151b8b144b1c843b1ff0f5b0ea4427707419441b6390a31",
+                "score": 0.27757087,
+                "excerpt": "the Service.\nYou may contact Us to request access to, correct, or delete any personal information that You have provided to Us.\nPlease note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Application Provider is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certa...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "59cc42ebbba4c499270f769595cc9652b32b264d3240d311ae7283e82b516c1c",
+                "score": 0.061311536,
+                "excerpt": "Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that inf...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "2c9108193a66652187e09ab98a2499a949153c11aa9612758cbc65884a2d41d2",
+                "score": 0.024516335,
+                "excerpt": "of every App Service You use.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party services.\nWe may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.\nIf you have any questions about this Privacy Policy...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "0c3f6eea5030199ba314bccd992d239cb634c1004dcd16dfcc8fca8971ebd172",
+                "score": 0.017442485,
+                "excerpt": "information from your Device's camera and photo library that you select\nOur Application uses this information to provide features of Our Service. This information is stored only on Your device and is not communicated externally from Your device. This information is not collected or processed by the Application provider.\nYou can enable or disable access to this information at any time, through Your Device settings.\nWhile using Our Application, in order to provide features of Our Service, Our Appl...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475880853,
+            "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share personal information with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy specifies that the app may share personal information in certain situations, indicating data sharing with third parties.",
+            "reference": "We may share Your personal information in the following situations:...URL: https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "fce850e82bdcc6ea0b6185549f12e7ddfd25e277dd41a93b02ff81ed12b2d33a",
+                "score": 0.5746932,
+                "excerpt": "the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.\nTo manage Your requests: To respond to any of Your requests to Us.\nWe may share Your personal information in the following situations:\nThe Application Provider will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the ...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "0c3f6eea5030199ba314bccd992d239cb634c1004dcd16dfcc8fca8971ebd172",
+                "score": 0.40262696,
+                "excerpt": "information from your Device's camera and photo library that you select\nOur Application uses this information to provide features of Our Service. This information is stored only on Your device and is not communicated externally from Your device. This information is not collected or processed by the Application provider.\nYou can enable or disable access to this information at any time, through Your Device settings.\nWhile using Our Application, in order to provide features of Our Service, Our Appl...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "662b6c74d301c398b82ca2023a689d63d46bbfe6d7f1b1c3c5967ab30e1c0157",
+                "score": 0.36161548,
+                "excerpt": "Data, is processed at the Application Provider's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to - and maintained on - computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agree...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "6ca9a6aa36f5eb192151b8b144b1c843b1ff0f5b0ea4427707419441b6390a31",
+                "score": 0.3568948,
+                "excerpt": "the Service.\nYou may contact Us to request access to, correct, or delete any personal information that You have provided to Us.\nPlease note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Application Provider is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certa...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "64f394bb4f0c5c5c90504917839dd1a872a1a4bf035f8cf988951409b1f8faf3",
+                "score": 0.23318209,
+                "excerpt": "Last updated: June 30, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the f...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475880853,
+            "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Application Providers, third-party companies, and individuals employed by the Application Provider to facilitate the Service.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Application Providers",
+                        "third-party companies",
+                        "individuals employed by the Application Provider"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app shares data with Application Providers and other parties involved in facilitating the Service.",
+            "reference": "The Application Provider may share Your personal information with Application Providers, third-party companies, and individuals employed to facilitate the Service. URL: https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "fce850e82bdcc6ea0b6185549f12e7ddfd25e277dd41a93b02ff81ed12b2d33a",
+                "score": 0.46465865,
+                "excerpt": "the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.\nTo manage Your requests: To respond to any of Your requests to Us.\nWe may share Your personal information in the following situations:\nThe Application Provider will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the ...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "6ca9a6aa36f5eb192151b8b144b1c843b1ff0f5b0ea4427707419441b6390a31",
+                "score": 0.2507293,
+                "excerpt": "the Service.\nYou may contact Us to request access to, correct, or delete any personal information that You have provided to Us.\nPlease note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Application Provider is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certa...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "0c3f6eea5030199ba314bccd992d239cb634c1004dcd16dfcc8fca8971ebd172",
+                "score": 0.24562746,
+                "excerpt": "information from your Device's camera and photo library that you select\nOur Application uses this information to provide features of Our Service. This information is stored only on Your device and is not communicated externally from Your device. This information is not collected or processed by the Application provider.\nYou can enable or disable access to this information at any time, through Your Device settings.\nWhile using Our Application, in order to provide features of Our Service, Our Appl...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "64f394bb4f0c5c5c90504917839dd1a872a1a4bf035f8cf988951409b1f8faf3",
+                "score": 0.18937114,
+                "excerpt": "Last updated: June 30, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the f...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            },
+            {
+                "id": "662b6c74d301c398b82ca2023a689d63d46bbfe6d7f1b1c3c5967ab30e1c0157",
+                "score": 0.13614832,
+                "excerpt": "Data, is processed at the Application Provider's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to - and maintained on - computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agree...",
+                "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html"
+            }
+        ]
+    }
+]

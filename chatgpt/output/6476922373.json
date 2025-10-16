@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6476922373,
+      "url": "https://jaadoostudio.com/privacy-policy/math-for-kids-age-13-18/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "The app does not collect identifying data from users. However, it may require users to provide certain information for a better experience, which is retained on the user's device and not collected by the app. The app does use third-party services that may collect information.",
+        "simple_answer": "No, the app does not collect identifying data, but third-party services may.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes that it does not collect personal data directly.",
+          "content": "The app may require certain information for a better experience, but this information is retained on the user's device and not collected by the app. Third-party services used by the app may collect information."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app does not collect identifying data from users, aligning with COPPA compliance. However, it acknowledges the use of third-party services that may collect data.",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 6476922373,
+      "url": "https://jaadoostudio.com/privacy-policy/math-for-kids-age-13-18/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Log Data which may include information such as your device Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing the Service, the time and date of your use of the Service, and other statistics.",
+        "simple_answer": "The app collects Log Data including IP address, device name, operating system version, and usage statistics.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect personal identifying data but gathers technical information for error handling and service improvement.",
+          "content": "Log Data may include your device Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 6476922373,
+      "url": "https://jaadoostudio.com/privacy-policy/math-for-kids-age-13-18/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it may require users to provide certain information for a better experience while using the service. However, it also states that the information requested will be retained on the user's device and is not collected by the app itself. The app uses third-party services that may collect information.",
+        "simple_answer": "Yes, the app states the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app aims to enhance user experience while using the service.",
+          "content": "The app may require certain information for a better experience, but this information is retained on the user's device and not collected by the app. Third-party services used by the app may collect information."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purpose of data collection, emphasizing user experience while also clarifying that the app itself does not collect the information.",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 6476922373,
+      "url": "https://jaadoostudio.com/privacy-policy/math-for-kids-age-13-18/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete data. However, it states that the information requested will be retained on the user's device and is not collected by the app itself. Users may have the option to refuse cookies used by third-party services, but there is no clear mention of opting out of data collection entirely.",
+        "simple_answer": "No, the policy does not provide a clear option to opt out of data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that while the app does not collect identifying data, third-party services may collect information.",
+          "content": "Users can refuse cookies from third-party services, but there is no explicit mention of opting out of all data collection or deleting data."
+        }
+      },
+      "analysis": "The lack of explicit options for opting out or deleting data may raise concerns for users who prioritize privacy.",
+      "reference": "Information Collection and Use, Cookies"
+    }
+  },
+  {
+    "meta": {
+      "id": 6476922373,
+      "url": "https://jaadoostudio.com/privacy-policy/math-for-kids-age-13-18/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third-party service providers. These third parties have access to the information to perform tasks assigned to them on behalf of the app, but they are obligated not to disclose or use the information for any other purpose.",
+        "simple_answer": "Yes, the app shares data with third-party service providers.",
+        "extended_simple_answer": {
+          "comment": "The app employs third-party companies for various services, which may involve access to user information.",
+          "content": "We may employ third-party companies and individuals due to the following reasons: To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. We want to inform users of this Service that these third parties have access to their Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose."
+        }
+      },
+      "analysis": "",
+      "reference": "Service Providers"
+    }
+  },
+  {
+    "meta": {
+      "id": 6476922373,
+      "url": "https://jaadoostudio.com/privacy-policy/math-for-kids-age-13-18/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app uses third-party services that may collect information, specifically mentioning Google Analytics for Firebase, Firebase Crashlytics, and Unity.",
+        "simple_answer": "The app shares data with Google Analytics for Firebase, Firebase Crashlytics, and Unity.",
+        "extended_simple_answer": {
+          "comment": "These third-party services are used to improve the app's functionality and analyze its usage.",
+          "content": "The app uses third-party services that may collect information, specifically mentioning Google Analytics for Firebase, Firebase Crashlytics, and Unity."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use"
+    }
+  }
+]

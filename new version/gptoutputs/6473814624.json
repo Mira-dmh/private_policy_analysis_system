@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6473814624,
+      "url": "https://www.getpathway.io/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects personal information that users voluntarily provide when they register on the Services, express interest in obtaining information, participate in activities, or contact the company. The types of personal information collected may include names, email addresses, and payment information.",
+        "simple_answer": "Yes, the app collects personal data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the types of personal information it collects and the contexts in which this data is provided.",
+          "content": "The personal information collected includes names, email addresses, debit/credit card numbers, and other data depending on user interactions with the Services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of personal information collected and the circumstances under which it is collected, indicating transparency in data collection practices.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473814624,
+      "url": "https://www.getpathway.io/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that you voluntarily provide, which may include names, email addresses, and debit/credit card numbers. It may also collect sensitive information such as health data, payment data necessary for processing purchases, and application data including mobile device access, mobile device data, and push notifications.",
+        "simple_answer": "The app collects personal information like names, email addresses, debit/credit card numbers, health data, and mobile device information.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of personal and sensitive information depending on user interactions.",
+          "content": "Personal information includes names, email addresses, and payment details. Sensitive information may include health data. Application data includes mobile device information and permissions."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473814624,
+      "url": "https://www.getpathway.io/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information is processed to provide, improve, and administer the Services, communicate with users, for security and fraud prevention, and to comply with law. Additionally, it may process information for other purposes with user consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data processing.",
+          "content": "The app processes information to provide, improve, and administer its Services, communicate with users, ensure security and fraud prevention, and comply with legal obligations."
+        }
+      },
+      "analysis": "",
+      "reference": "How do we process your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473814624,
+      "url": "https://www.getpathway.io/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by changing their device settings to deny access or permissions to certain features. Additionally, users can exercise their rights to review, update, or delete the data collected from them by submitting a data subject access request or by contacting the company directly.",
+        "simple_answer": "Yes, users can opt out and delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage permissions.",
+          "content": "Users can opt out of data collection by adjusting their device settings and can request to review, update, or delete their data by contacting the company."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have the ability to manage their data through device settings and can make requests regarding their personal information.",
+      "reference": "Section 14: HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473814624,
+      "url": "https://www.getpathway.io/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share information in specific situations and with specific third parties.",
+        "simple_answer": "Yes, it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has specific circumstances under which it shares personal information.",
+          "content": "Learn more about when and with whom we share your personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "In what situations and with which parties do we share personal information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473814624,
+      "url": "https://www.getpathway.io/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share information in specific situations and with specific third parties, but the privacy policy does not specify which third parties these are.",
+        "simple_answer": "The app shares data with specific third parties, but does not specify who they are.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy indicates that data may be shared in certain situations, but lacks detailed information on the specific third parties involved.",
+          "content": "We may share information in specific situations and with specific third parties."
+        }
+      },
+      "analysis": "The privacy policy mentions that data may be shared with third parties but does not provide a list or details about these parties, which may raise concerns about transparency.",
+      "reference": "In what situations and with which parties do we share personal information?"
+    }
+  }
+]

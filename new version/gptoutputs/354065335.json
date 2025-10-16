@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 354065335,
+      "url": "https://www.iubenda.com/privacy-policy/27173439",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects some Personal Data from its Users, including email addresses, and provides details on the types of data collected.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the collection of Personal Data and specifies the types of data collected.",
+          "content": "This Application collects some Personal Data from its Users, including email addresses."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the application collects personal data, which is a requirement for transparency in data handling practices.",
+      "reference": "This Application collects some Personal Data from its Users."
+    }
+  },
+  {
+    "meta": {
+      "id": 354065335,
+      "url": "https://www.iubenda.com/privacy-policy/27173439",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects email addresses as the type of Personal Data.",
+        "simple_answer": "Email address.",
+        "extended_simple_answer": {
+          "comment": "The app collects email addresses for contacting users and for mailing lists or newsletters.",
+          "content": "Among the types of Personal Data that this Application collects, by itself or through third parties, there are: email address."
+        }
+      },
+      "analysis": "",
+      "reference": "Types of Data collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 354065335,
+      "url": "https://www.iubenda.com/privacy-policy/27173439",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests, detect any malicious or fraudulent activity, and specifically for contacting the User.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that data is collected for various purposes including service provision and legal compliance.",
+          "content": "The purposes of processing include contacting the User and providing the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "The purposes of processing"
+    }
+  },
+  {
+    "meta": {
+      "id": 354065335,
+      "url": "https://www.iubenda.com/privacy-policy/27173439",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users are free not to communicate certain Personal Data without consequences to the availability or the functioning of the Service. Additionally, once the retention period expires, Personal Data shall be deleted, which implies that users can effectively have their data deleted after a certain time. However, the policy does not explicitly state a process for opting out of data collection or deleting data at will.",
+        "simple_answer": "Yes, users can choose not to provide certain data and data will be deleted after the retention period.",
+        "extended_simple_answer": {
+          "comment": "Users can opt out of providing certain data, but the policy does not detail a specific opt-out process.",
+          "content": "Users are free not to communicate certain Personal Data without consequences to the availability or the functioning of the Service. Once the retention period expires, Personal Data shall be deleted."
+        }
+      },
+      "analysis": "The privacy policy allows users to refrain from providing certain data, which can be seen as a form of opting out. However, it lacks a clear mechanism for users to actively opt out of data collection or request immediate deletion of their data.",
+      "reference": "Users are free not to communicate this Data without consequences to the availability or the functioning of the Service. (Section: Types of Data collected) and Once the retention period expires, Personal Data shall be deleted. (Section: Further information about retention time)"
+    }
+  },
+  {
+    "meta": {
+      "id": 354065335,
+      "url": "https://www.iubenda.com/privacy-policy/27173439",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties, specifically external parties such as third-party technical service providers, mail carriers, hosting providers, IT companies, and communications agencies, who may be appointed as Data Processors by the Owner.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app involves third-party services for data processing.",
+          "content": "The Data processing is carried out using computers and/or IT enabled tools, and in some cases, the Data may be accessible to certain types of persons involved with the operation of this Application or external parties appointed as Data Processors."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the Owner may share data with third-party service providers for operational purposes, indicating a level of data sharing.",
+      "reference": "Mode and place of processing the Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 354065335,
+      "url": "https://www.iubenda.com/privacy-policy/27173439",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with external parties such as third-party technical service providers, mail carriers, hosting providers, IT companies, and communications agencies. These parties may be appointed as Data Processors by the Owner.",
+        "simple_answer": "The app shares data with third-party technical service providers, mail carriers, hosting providers, IT companies, and communications agencies.",
+        "extended_simple_answer": {
+          "comment": "These third parties assist in the operation of the application and may have access to the data.",
+          "content": "The app may share data with external parties such as third-party technical service providers, mail carriers, hosting providers, IT companies, and communications agencies. These parties may be appointed as Data Processors by the Owner."
+        }
+      },
+      "analysis": "",
+      "reference": "Mode and place of processing the Data"
+    }
+  }
+]

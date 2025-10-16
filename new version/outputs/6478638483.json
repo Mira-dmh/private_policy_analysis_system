@@ -1,0 +1,323 @@
+[
+    {
+        "meta": {
+            "id": 6478638483,
+            "url": "https://xumbers.com/agreements/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app collects personal information from various sources, indicating the declaration of data collection.",
+            "reference": "Personal Information is collected from our Website, through use of an App Store, through email and/or through online forms you complete, reporting problems and through any of your other activities with Company or on the Website. URL: https://xumbers.com/agreements/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "2d502b25f345096fff145f190015f003252085738656ab2ccc3e5517c44656bb",
+                "score": 0.010860331,
+                "excerpt": "Xumbers Software, or (5) otherwise permitted by you. For example:\nIn addition, an App Store may receive your Personal Information in conjunction with the downloading of The Xumbers Software. The use of your Personal Information by an App Store is governed by the terms of your agreement with the App Store and is not under Company’s control.\nWhat Usage Information Does Company Collect?\nCompany employs web browser cookies and similar usage tracking technologies to collect and aggregate general info...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "369897fd962f7760757b2fc3dfb6f92e94b8a1540008ef5cfaf2c1edf9855861",
+                "score": 0.008061991,
+                "excerpt": "use of the Website and The Xumbers Software, provide you notification about updates to the Website, The Xumbers Software, or other Company goods and information, and to help provide you with technical support for the Website and The Xumbers Software.\nYour Personal Information is collected from our Website, through use of an App Store, through email and/or through online forms (i.e., Contact Us) you complete, reporting problems and through any of your other activities with Company or on the Websi...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "a5e6f83d8d814255550e7c71bdb73723ce4557b15403d4c9bd4a630718addafc",
+                "score": 0.004591684,
+                "excerpt": "online without providing any personal information, however The Xumbers Software mobile application must be downloaded through purchase from an App Store through a person of legal contracting age. Your child may attempt to send us information through our Contact Us page. However, we have provided an age gate on that page that will not allow us to collect information from your child should his or her age be indicated to the Company as under 13.\nIf it ever becomes necessary to collect additional pe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "7462427a235b2268b1a284ce982315992828155542f4ce574530c03bf1d9c3d6",
+                "score": 0.0024154834,
+                "excerpt": "such information is complete. We do not require anyone that we are aware is a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation.\nAs of the date of this Privacy Policy, we may collect your child’s email address and username without your consent only under the following circumstances:\nHow does Company Use the Personal Information We Collect?\nWe use your name and e-mail address for the purpose of commu...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "22e4fa021f388b481dfac28771badbabb9ba56a591ec3a66e7d91f40c28197f4",
+                "score": 0.0018243829,
+                "excerpt": "all previous notices or statements regarding the Website and The Xumbers Software. For this reason, we encourage you to review this Privacy Policy any time you access or use the Website and The Xumbers Software, and recommend that you print out a copy for your records.\n2020 Konvisser Custom Software, L.L.C. -- All Rights Reserved.\nUpdated: July 30, 2020",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478638483,
+            "url": "https://xumbers.com/agreements/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects usage information such as web browser cookies and similar tracking technologies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "web browser cookies",
+                        "usage tracking information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions using web browser cookies and similar technologies to collect usage information, which includes the data types listed in the extended_simple_answer.",
+            "reference": "Company employs web browser cookies and similar usage tracking technologies to collect and aggregate general information about users. The aggregate information we collect via cookies and similar technologies may be combined with aggregate information of other users and analyzed. This information may include some or all of the following items: You may be able to reject cookies or otherwise disable the collection of usage information via the settings in your web browser, but doing so may make some functions of the Website or The Xumbers Software not work as well as they would if you allow cookies and the collection of usage information. This Privacy Policy in no way restricts or limits our collection and use of aggregate usage information, which may be shared with third parties without your consent. URL: https://xumbers.com/agreements/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "2d502b25f345096fff145f190015f003252085738656ab2ccc3e5517c44656bb",
+                "score": 0.056548133,
+                "excerpt": "Xumbers Software, or (5) otherwise permitted by you. For example:\nIn addition, an App Store may receive your Personal Information in conjunction with the downloading of The Xumbers Software. The use of your Personal Information by an App Store is governed by the terms of your agreement with the App Store and is not under Company’s control.\nWhat Usage Information Does Company Collect?\nCompany employs web browser cookies and similar usage tracking technologies to collect and aggregate general info...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "7462427a235b2268b1a284ce982315992828155542f4ce574530c03bf1d9c3d6",
+                "score": 0.0064631375,
+                "excerpt": "such information is complete. We do not require anyone that we are aware is a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation.\nAs of the date of this Privacy Policy, we may collect your child’s email address and username without your consent only under the following circumstances:\nHow does Company Use the Personal Information We Collect?\nWe use your name and e-mail address for the purpose of commu...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "369897fd962f7760757b2fc3dfb6f92e94b8a1540008ef5cfaf2c1edf9855861",
+                "score": 0.0057302467,
+                "excerpt": "use of the Website and The Xumbers Software, provide you notification about updates to the Website, The Xumbers Software, or other Company goods and information, and to help provide you with technical support for the Website and The Xumbers Software.\nYour Personal Information is collected from our Website, through use of an App Store, through email and/or through online forms (i.e., Contact Us) you complete, reporting problems and through any of your other activities with Company or on the Websi...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "ece253ccd5111dd5d19ac2575e1d1040105da1b12204c2dd322aae6485302f02",
+                "score": 0.004962942,
+                "excerpt": "e.g. processing carried out for the purpose of our legitimate interests. |\n|\nRight Not to be Subject to Automated Individual Decision-Making |\nThe right not to be subject to a decision based solely on automated processing (including profiling) that produces legal effects concerning you or similarly significantly affects you |\nLinks to Third Parties\nThe Websites and The Xumbers Software may contain links to other services and websites (“Linked Sites”). Please refer to Section 6 [https://www.xumbe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "a5e6f83d8d814255550e7c71bdb73723ce4557b15403d4c9bd4a630718addafc",
+                "score": 0.0040072887,
+                "excerpt": "online without providing any personal information, however The Xumbers Software mobile application must be downloaded through purchase from an App Store through a person of legal contracting age. Your child may attempt to send us information through our Contact Us page. However, we have provided an age gate on that page that will not allow us to collect information from your child should his or her age be indicated to the Company as under 13.\nIf it ever becomes necessary to collect additional pe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478638483,
+            "url": "https://xumbers.com/agreements/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The app uses personal information for communication, updates, promotions, and to understand and respond to users' needs.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app uses personal information for communication purposes, updating users about the app, promotions, and to respond to users' needs, thereby declaring the purpose of data collection and use.",
+            "reference": "We use your name and e-mail address for the purpose of communication with you regarding the Website and The Xumbers Software, such as for newsletters or for upcoming products, Website and The Xumbers Software updates and promotions. We use the aggregate information we collect to help us understand and respond to our users’ needs. URL: https://xumbers.com/agreements/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "7462427a235b2268b1a284ce982315992828155542f4ce574530c03bf1d9c3d6",
+                "score": 0.012722708,
+                "excerpt": "such information is complete. We do not require anyone that we are aware is a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation.\nAs of the date of this Privacy Policy, we may collect your child’s email address and username without your consent only under the following circumstances:\nHow does Company Use the Personal Information We Collect?\nWe use your name and e-mail address for the purpose of commu...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "ece253ccd5111dd5d19ac2575e1d1040105da1b12204c2dd322aae6485302f02",
+                "score": 0.009232215,
+                "excerpt": "e.g. processing carried out for the purpose of our legitimate interests. |\n|\nRight Not to be Subject to Automated Individual Decision-Making |\nThe right not to be subject to a decision based solely on automated processing (including profiling) that produces legal effects concerning you or similarly significantly affects you |\nLinks to Third Parties\nThe Websites and The Xumbers Software may contain links to other services and websites (“Linked Sites”). Please refer to Section 6 [https://www.xumbe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "369897fd962f7760757b2fc3dfb6f92e94b8a1540008ef5cfaf2c1edf9855861",
+                "score": 0.0068771075,
+                "excerpt": "use of the Website and The Xumbers Software, provide you notification about updates to the Website, The Xumbers Software, or other Company goods and information, and to help provide you with technical support for the Website and The Xumbers Software.\nYour Personal Information is collected from our Website, through use of an App Store, through email and/or through online forms (i.e., Contact Us) you complete, reporting problems and through any of your other activities with Company or on the Websi...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "2d502b25f345096fff145f190015f003252085738656ab2ccc3e5517c44656bb",
+                "score": 0.0064882697,
+                "excerpt": "Xumbers Software, or (5) otherwise permitted by you. For example:\nIn addition, an App Store may receive your Personal Information in conjunction with the downloading of The Xumbers Software. The use of your Personal Information by an App Store is governed by the terms of your agreement with the App Store and is not under Company’s control.\nWhat Usage Information Does Company Collect?\nCompany employs web browser cookies and similar usage tracking technologies to collect and aggregate general info...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "3e5591b5b9a8c758c3d4e69488343b1356258ff1bf7c1d763fdabe29c14fcdbc",
+                "score": 0.0053018946,
+                "excerpt": "be 100% secure, so while Company strives to protect your personal information, Company cannot ensure or warrant the security of any information that you voluntarily give to us.\nCompany may also monitor network traffic to the Website and use of The Xumbers Software to identify and/or block unauthorized attempts or intrusions to upload or change information or cause damage to the Website, The Xumbers Software or any other of our computers, networks, servers, software or applications in any manner....",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478638483,
+            "url": "https://xumbers.com/agreements/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can request the correction or deletion of personal data by contacting the company via email or mail.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can request the correction or deletion of their personal information by contacting the company through specific means.",
+            "reference": "We make good faith efforts to provide you with access to your personal information and either to correct such data at your request if it is inaccurate or delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. If you wish to request the correction or deletion of such data, you may contact us by e-mail by clicking the Contact Us button on the Xumbers.com web page or by mail at Konvisser Custom Software. URL: https://xumbers.com/agreements/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "7462427a235b2268b1a284ce982315992828155542f4ce574530c03bf1d9c3d6",
+                "score": 0.20963143,
+                "excerpt": "such information is complete. We do not require anyone that we are aware is a child to disclose more information than is reasonably necessary to participate in a contest, game or other activity as a condition of participation.\nAs of the date of this Privacy Policy, we may collect your child’s email address and username without your consent only under the following circumstances:\nHow does Company Use the Personal Information We Collect?\nWe use your name and e-mail address for the purpose of commu...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "e08408760c0185fe5dfbbb5942ccee13225edfe96de8243ff4dbbeec24c4d040",
+                "score": 0.19117662,
+                "excerpt": "to be retained by law or for legitimate business purposes. If you wish to request the correction or deletion of such data, you may contact us by e-mail by clicking the Contact Us button on the Xumbers.com web page or by mail at Konvisser Custom Software, C/O Eric J. Gould, Cohen, Lerner & Rabinovitz, P.C., 26862 Woodward Ave., Suite 200, Royal Oak, MI 48067. Please note: in order to protect the security of your information, you will be required to properly identify yourself before we can process...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "91634eb8d52f134797b312843b1ef8cfa7fa0194cc10dce689121bbc28fd7341",
+                "score": 0.15726623,
+                "excerpt": "such transfer and processing of your data.\nYour Rights Under the GDPR.\nIf you are in the European Economic Area, you have the following rights:\n|\nRight to Access |\nThe right to be provided with a copy of your personal information (the right of access). |\n|\nRight to Rectification |\nThe right to require us to correct any mistakes in your personal information. |\n|\nRight to be Forgotten |\nThe right to require us to delete your personal information—in certain situations. |\n|\nRight to Restriction of P...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "a9b1eab62c0b78637c65553cc4bb929d9bb1464199db9c6576e43544d680df11",
+                "score": 0.034815196,
+                "excerpt": "this Section.\nContacting Us\nIf you have any questions or concerns about this Privacy Policy, you may contact us through any of the following means, however, please be sure to specify the reason for your communication. Please be aware that any opt out or other requests with specific email address will not be addressed through communication to these general means.\nOnline: Click the Contact Us button on the Xumbers.com web page\nU.S. Postal Mail: Konvisser Custom Software, L.L.C.\nContact Regarding X...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "a5e6f83d8d814255550e7c71bdb73723ce4557b15403d4c9bd4a630718addafc",
+                "score": 0.015424552,
+                "excerpt": "online without providing any personal information, however The Xumbers Software mobile application must be downloaded through purchase from an App Store through a person of legal contracting age. Your child may attempt to send us information through our Contact Us page. However, we have provided an age gate on that page that will not allow us to collect information from your child should his or her age be indicated to the Company as under 13.\nIf it ever becomes necessary to collect additional pe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478638483,
+            "url": "https://xumbers.com/agreements/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that personal information is not shared with any third parties except in limited circumstances as specified.",
+            "reference": "We do not share your personal information with any third parties for any purposes except in limited circumstances where we believe such sharing is... done in order to provide and maintain the Website and The Xumbers Software... done to protect against fraud or other damage... or otherwise permitted by you. URL: https://xumbers.com/agreements/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "3e5591b5b9a8c758c3d4e69488343b1356258ff1bf7c1d763fdabe29c14fcdbc",
+                "score": 0.9717254,
+                "excerpt": "be 100% secure, so while Company strives to protect your personal information, Company cannot ensure or warrant the security of any information that you voluntarily give to us.\nCompany may also monitor network traffic to the Website and use of The Xumbers Software to identify and/or block unauthorized attempts or intrusions to upload or change information or cause damage to the Website, The Xumbers Software or any other of our computers, networks, servers, software or applications in any manner....",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "2d502b25f345096fff145f190015f003252085738656ab2ccc3e5517c44656bb",
+                "score": 0.75976056,
+                "excerpt": "Xumbers Software, or (5) otherwise permitted by you. For example:\nIn addition, an App Store may receive your Personal Information in conjunction with the downloading of The Xumbers Software. The use of your Personal Information by an App Store is governed by the terms of your agreement with the App Store and is not under Company’s control.\nWhat Usage Information Does Company Collect?\nCompany employs web browser cookies and similar usage tracking technologies to collect and aggregate general info...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "e22067321ea0e5df1e6ad6449dfbf31dd10e0c89170f9808f30bdd54b77cf31d",
+                "score": 0.074500255,
+                "excerpt": "limits our collection and use of aggregate usage information, which may be shared with third parties without your consent.\nDoes This Privacy Policy Cover Information You Provide in Association with a Digital Millennium Copyright Act (“DMCA”) Notification or Counter-notification?\nNo, this Privacy Policy does not apply to information you provide to us in association with a DMCA notification or counter-notification. All information contained in or associated with a DMCA notification may be provided...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "ece253ccd5111dd5d19ac2575e1d1040105da1b12204c2dd322aae6485302f02",
+                "score": 0.068537496,
+                "excerpt": "e.g. processing carried out for the purpose of our legitimate interests. |\n|\nRight Not to be Subject to Automated Individual Decision-Making |\nThe right not to be subject to a decision based solely on automated processing (including profiling) that produces legal effects concerning you or similarly significantly affects you |\nLinks to Third Parties\nThe Websites and The Xumbers Software may contain links to other services and websites (“Linked Sites”). Please refer to Section 6 [https://www.xumbe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "af08fe66ee7f8bb6a0812a03dc67101027147f0af40908d2fafdc3585a9b2ad3",
+                "score": 0.06548521,
+                "excerpt": "businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and have provided your personal information to Company, you may request information about our disclosures of certain categories of Personal information to third parties for direct marketing purposes. Such requests must be submitted to us at one of the following addresses: by clicking the Contact Us button on the Xumbers.com web page or Konviss...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478638483,
+            "url": "https://xumbers.com/agreements/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with App Stores when downloading The Xumbers Software.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "App Stores"
+                }
+            },
+            "analysis": "The privacy policy indicates that personal information may be shared with App Stores during the download process, subject to the terms of the agreement with the App Store.",
+            "reference": "In addition, an App Store may receive your Personal Information in conjunction with the downloading of The Xumbers Software. The use of your Personal Information by an App Store is governed by the terms of your agreement with the App Store. URL: https://xumbers.com/agreements/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "3e5591b5b9a8c758c3d4e69488343b1356258ff1bf7c1d763fdabe29c14fcdbc",
+                "score": 0.89733595,
+                "excerpt": "be 100% secure, so while Company strives to protect your personal information, Company cannot ensure or warrant the security of any information that you voluntarily give to us.\nCompany may also monitor network traffic to the Website and use of The Xumbers Software to identify and/or block unauthorized attempts or intrusions to upload or change information or cause damage to the Website, The Xumbers Software or any other of our computers, networks, servers, software or applications in any manner....",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "af08fe66ee7f8bb6a0812a03dc67101027147f0af40908d2fafdc3585a9b2ad3",
+                "score": 0.34169233,
+                "excerpt": "businesses to disclose policies relating to the sharing of certain categories of your personal information with third parties. If you reside in California and have provided your personal information to Company, you may request information about our disclosures of certain categories of Personal information to third parties for direct marketing purposes. Such requests must be submitted to us at one of the following addresses: by clicking the Contact Us button on the Xumbers.com web page or Konviss...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "ece253ccd5111dd5d19ac2575e1d1040105da1b12204c2dd322aae6485302f02",
+                "score": 0.24762337,
+                "excerpt": "e.g. processing carried out for the purpose of our legitimate interests. |\n|\nRight Not to be Subject to Automated Individual Decision-Making |\nThe right not to be subject to a decision based solely on automated processing (including profiling) that produces legal effects concerning you or similarly significantly affects you |\nLinks to Third Parties\nThe Websites and The Xumbers Software may contain links to other services and websites (“Linked Sites”). Please refer to Section 6 [https://www.xumbe...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "2d502b25f345096fff145f190015f003252085738656ab2ccc3e5517c44656bb",
+                "score": 0.10212548,
+                "excerpt": "Xumbers Software, or (5) otherwise permitted by you. For example:\nIn addition, an App Store may receive your Personal Information in conjunction with the downloading of The Xumbers Software. The use of your Personal Information by an App Store is governed by the terms of your agreement with the App Store and is not under Company’s control.\nWhat Usage Information Does Company Collect?\nCompany employs web browser cookies and similar usage tracking technologies to collect and aggregate general info...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            },
+            {
+                "id": "e22067321ea0e5df1e6ad6449dfbf31dd10e0c89170f9808f30bdd54b77cf31d",
+                "score": 0.07382971,
+                "excerpt": "limits our collection and use of aggregate usage information, which may be shared with third parties without your consent.\nDoes This Privacy Policy Cover Information You Provide in Association with a Digital Millennium Copyright Act (“DMCA”) Notification or Counter-notification?\nNo, this Privacy Policy does not apply to information you provide to us in association with a DMCA notification or counter-notification. All information contained in or associated with a DMCA notification may be provided...",
+                "url": "https://xumbers.com/agreements/privacy.html"
+            }
+        ]
+    }
+]

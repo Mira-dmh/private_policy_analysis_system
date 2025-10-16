@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1441112707,
+      "url": "https://joye.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects basic user profile information, analyzes users' free-busy time in the calendar without storing the content, and sends messages to the user inside the Teams chat. It also mentions that it collects information provided by users to enhance their experience.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the types of data it collects and how it uses that data.",
+          "content": "The app collects basic user profile information, analyzes users' free-busy time in the calendar, and sends messages to users. It does not read or store emails or chat messages."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and the purposes for which it is used, ensuring transparency for users.",
+      "reference": "Information we collect from you and how we use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1441112707,
+      "url": "https://joye.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: basic user profile information (email, time zone, and unique identity parameters), data to analyze users' free-busy time in the calendar (without storing the content), and the ability to send messages to the user inside the Teams chat. Additionally, if using Joye in Entomo, it collects anonymized data without personal identifiable information (PII), except for the company or department name in some cases. If using Joye embedded in Rewardz, it collects basic information like email, name, company, and department name.",
+        "simple_answer": "The app collects basic user profile information, calendar free-busy time data, and messaging permissions.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that it does not store sensitive content and uses anonymization techniques.",
+          "content": "Data collected includes email, time zone, unique identity parameters, free-busy calendar data, and messaging permissions. Anonymized data is collected in certain contexts."
+        }
+      },
+      "analysis": "",
+      "reference": "Information we collect from you and how we use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1441112707,
+      "url": "https://joye.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It collects basic user profile information, analyzes users' free-busy time in the calendar without storing the content, and sends messages to the user inside the Teams chat to provide a secure, personalized, and engaging wellbeing experience. The collected information is used to enhance the user experience and is handled in compliance with strict privacy policies.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that it collects data to improve user experience and ensure security.",
+          "content": "The app collects basic user profile information, analyzes free-busy time in the calendar, and sends messages to users to provide a personalized experience."
+        }
+      },
+      "analysis": "",
+      "reference": "Information we collect from you and how we use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1441112707,
+      "url": "https://joye.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can request the removal of all or some of their content by contacting Joye at connect@joye.ai. However, the removal process may take time, and Joye aims to complete it within 90 days from the date of the request. Additionally, users may not be able to ensure complete removal of all traces of the content posted. For non-paying clients, data will be deleted after 24 months, and for paying clients, data will be retained for up to 24 months after subscription termination unless requested to be deleted earlier.",
+        "simple_answer": "Yes, users can request to delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to request data deletion, but the process may take time and may not guarantee complete removal.",
+          "content": "Users can contact Joye to request the removal of their content, and data retention policies apply based on whether they are paying clients or not."
+        }
+      },
+      "analysis": "",
+      "reference": "Data Retention and Removal of Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1441112707,
+      "url": "https://joye.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, Joye does not share your personal information with third parties. Joye’s data is independently managed, and your employer will not be able to see your private information. Additionally, Joye does not intend to use your personal information for advertisements.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Joye ensures that your personal information remains private and is not disclosed to third parties.",
+          "content": "Joye’s data is independently managed by Joye Pte Ltd Singapore, and your employer will not be able to see your private information. We do not intend to use your personal information for advertisements."
+        }
+      },
+      "analysis": "",
+      "reference": "Disclosure of your information to third parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 1441112707,
+      "url": "https://joye.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share personal information with third parties. Joye’s data is independently managed by Joye Pte Ltd Singapore, and your employer will not be able to see your private information. We do not intend to use your personal information for advertisements.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Joye ensures that user privacy is maintained and does not disclose personal information to employers or for advertisements.",
+          "content": "Joye’s data is independently managed by Joye Pte Ltd Singapore, and your employer will not be able to see your private information. We do not intend to use your personal information for advertisements."
+        }
+      },
+      "analysis": "",
+      "reference": "Disclosure of your information to third parties"
+    }
+  }
+]

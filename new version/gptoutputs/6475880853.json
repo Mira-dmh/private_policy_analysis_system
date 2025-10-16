@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6475880853,
+      "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that while using the Service, it may ask users to provide certain personally identifiable information and that Usage Data is collected automatically when using the Service.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected, including personal data and usage data.",
+          "content": "The policy outlines that personal data may include information such as email addresses and that usage data is collected automatically, which includes details like IP address, browser type, and pages visited."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected, ensuring transparency about data collection practices.",
+      "reference": "Section: Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475880853,
+      "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: Personal Data, which includes personally identifiable information such as email address, and Usage Data, which is collected automatically and may include information such as the device's IP address, browser type, pages visited, time and date of visits, and other diagnostic data. Additionally, the app may collect pictures and information from the device's camera and photo library with user permission, and information regarding the local timezone for enabling timed notifications.",
+        "simple_answer": "The app collects Personal Data (like email addresses) and Usage Data (like IP addresses and browser types).",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to enhance user experience and provide services.",
+          "content": "Types of data collected include: 1. Personal Data: Email Address. 2. Usage Data: IP address, browser type, pages visited, time and date of visits, and device information. 3. Pictures and information from the device's camera and photo library (with permission). 4. Local timezone information for notifications."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475880853,
+      "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The Application Provider may use Personal Data for various purposes, including to provide and maintain the Service, for the performance of a contract, and to manage user requests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies multiple purposes for data collection.",
+          "content": "The purposes include providing and maintaining the Service, fulfilling contracts, and responding to user requests."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the reasons for collecting personal data, ensuring transparency for users regarding how their information will be utilized.",
+      "reference": "Section: Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475880853,
+      "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of data collection by disabling access to certain information through their device settings. Additionally, the user can delete their data by managing their personal information and requests to the Application Provider.",
+        "simple_answer": "Yes, users can opt out and manage their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data collection preferences.",
+          "content": "The Application allows users to enable or disable access to information such as pictures and camera data at any time through device settings. Users can also manage their personal information and requests to the Application Provider."
+        }
+      },
+      "analysis": "The privacy policy provides users with the ability to control their data collection preferences and manage their personal information.",
+      "reference": "Information Collected while Using the Application, Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475880853,
+      "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your personal information with third parties in certain situations, including with Service Providers to monitor and analyze the use of the Service, for business transfers during negotiations of mergers or acquisitions, and with business partners to offer certain products, services, or promotions.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data under specific circumstances.",
+          "content": "The app may share your personal information with Service Providers, during business transfers, and with business partners."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which personal data may be shared with third parties, ensuring transparency about data handling practices.",
+      "reference": "Section: Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475880853,
+      "url": "https://storage.googleapis.com/smilify.smilefile.uk/privacy-policy/Smilify_privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with the following third parties: Service Providers, for monitoring and analyzing the use of the Service and to contact users; business partners, to offer certain products, services, or promotions; and in connection with business transfers, such as mergers, sales of assets, or acquisitions.",
+        "simple_answer": "The app shares data with Service Providers and business partners.",
+        "extended_simple_answer": {
+          "comment": "The app may share personal information in various situations, including for analysis and business transactions.",
+          "content": "We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You. We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Application Provider assets, financing, or acquisition of all or a portion of Our business to another company. We may share Your information with Our business partners to offer You certain products, services or promotions."
+        }
+      },
+      "analysis": "",
+      "reference": "We may share Your personal information in the following situations: With Service Providers; For business transfers; With business partners."
+    }
+  }
+]

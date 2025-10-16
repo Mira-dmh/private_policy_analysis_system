@@ -1,0 +1,344 @@
+[
+    {
+        "meta": {
+            "id": 1593075782,
+            "url": "https://happinessproject.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions the collection of various types of personal information, indicating that the app declares the collection of data.",
+            "reference": "We do not use or disclose sensitive personal information without your consent or for the purposes of inferring characteristics about you. With your consent we share personal information for the purpose of engaging in advertising and marketing activities. URL: https://happinessproject.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7936b62ac4ac2ff5f8c4d52633429fd398971c66f05e5e8bc6f9ef39317303e8",
+                "score": 0.0047000605,
+                "excerpt": "any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWe have in the past 12 months disclosed the following categories of personal information and sensitive personal information about users for the purposes set out above in \"How we Collect and Use your Personal Information\" and \"How we Disclose Personal Information\":\n| Category | Categories of Recipients |\n|---|---|\n|\n|\nWe do not use or disclose sensitive personal information w...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "b9697508cc43e3749b7c36b302f872f62283797abb9042cb5f8fb01425838ec4",
+                "score": 0.0022606407,
+                "excerpt": "network connection, your IP address and other information regarding your interaction with the Services.\nInformation We Obtain from Third Parties\nFinally, we may obtain information about you from third parties, including from vendors and service providers who may collect information on our behalf, such as:\n- Companies who support our Site and Services, such as Shopify.\n- Our payment processors, who collect payment information (e.g., bank account, credit or debit card information, billing address)...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "1360f0bc161618098124f9b90516d53cb91fa7a4a190dcffd90c45282ab0e8bc",
+                "score": 0.0009850083,
+                "excerpt": "fulfillment purposes, legitimate purposes and other reasons subject to this Privacy Policy. Such circumstances may include:\n- With vendors or other third parties who perform services on our behalf (e.g., IT management, payment processing, data analytics, customer support, cloud storage, fulfillment and shipping).\n- With business and marketing partners, including Shopify, to provide services and advertise to you. For example, we use Shopify to support personalized advertising with third-party ser...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "306b5ec71405ba60c442c4438ceb00d2d3285dec69cd1e479fee066a63ac31c9",
+                "score": 0.0007524628,
+                "excerpt": "not guarantee and are not responsible for the privacy or security of such sites, including the accuracy, completeness, or reliability of information found on these sites. Information you provide on public or semi-public venues, including information you share on third-party social networking platforms may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use by us or by a third party. Our inclusion of such links does not, by ...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "666620fcce93e1eef652a7018d66b156522b09a381a06d3472f88ba85b4aa6cf",
+                "score": 0.00065126823,
+                "excerpt": "variety of sources, as set out below. The information that we collect and use varies depending on how you interact with us.\nIn addition to the specific uses set out below, we may use information we collect about you to communicate with you, provide or improve or improve the Services, comply with any applicable legal obligations, enforce any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWhat Personal Information We Collect\nT...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1593075782,
+            "url": "https://happinessproject.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects contact details, order information, account information, shopping information, device information, browser information, network connection information, IP address, and other information related to the user's interaction with the services.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact details",
+                        "Order information",
+                        "Account information",
+                        "Shopping information",
+                        "Device information",
+                        "Browser information",
+                        "Network connection information",
+                        "IP address",
+                        "Other information related to user's interaction with the services"
+                    ]
+                }
+            },
+            "analysis": "The answer was derived by extracting the types of data explicitly mentioned in the privacy policy document from the section describing the information collected directly from users and users' interaction with the services.",
+            "reference": "Contact details including your name, address, phone number, and email.\nOrder information including your name, billing address, shipping address, payment confirmation, email address, and phone number.\nAccount information including your username, password, security questions and other information used for account security purposes.\nShopping information including the items you view, put in your cart, saved into your account like loyalty points, reviews, referrals or gift cards.\nInformation about how you access and use our Site and your account, including device information, browser information, information about your network connection, your IP address and other information regarding your interaction with the Services.\nURL: https://happinessproject.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "683ae96ba61bc6bff6bd5b2b09d010777fd22ffd016c43d2a2aa049bfe86ae70",
+                "score": 0.09073549,
+                "excerpt": "billing address, shipping address, payment confirmation, email address, and phone number.\n- Account information including your username, password, security questions and other information used for account security purposes.\n-\nShopping information including the items you view, put in your cart, saved into your account like loyalty points, reviews, referrals or gift cards, or purchases.\n- Loyalty points/product reviews/referrals/gift cards saved\n- Customer support information including the informa...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "666620fcce93e1eef652a7018d66b156522b09a381a06d3472f88ba85b4aa6cf",
+                "score": 0.054802597,
+                "excerpt": "variety of sources, as set out below. The information that we collect and use varies depending on how you interact with us.\nIn addition to the specific uses set out below, we may use information we collect about you to communicate with you, provide or improve or improve the Services, comply with any applicable legal obligations, enforce any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWhat Personal Information We Collect\nT...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "b9697508cc43e3749b7c36b302f872f62283797abb9042cb5f8fb01425838ec4",
+                "score": 0.042166542,
+                "excerpt": "network connection, your IP address and other information regarding your interaction with the Services.\nInformation We Obtain from Third Parties\nFinally, we may obtain information about you from third parties, including from vendors and service providers who may collect information on our behalf, such as:\n- Companies who support our Site and Services, such as Shopify.\n- Our payment processors, who collect payment information (e.g., bank account, credit or debit card information, billing address)...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "7936b62ac4ac2ff5f8c4d52633429fd398971c66f05e5e8bc6f9ef39317303e8",
+                "score": 0.011115014,
+                "excerpt": "any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWe have in the past 12 months disclosed the following categories of personal information and sensitive personal information about users for the purposes set out above in \"How we Collect and Use your Personal Information\" and \"How we Disclose Personal Information\":\n| Category | Categories of Recipients |\n|---|---|\n|\n|\nWe do not use or disclose sensitive personal information w...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "1360f0bc161618098124f9b90516d53cb91fa7a4a190dcffd90c45282ab0e8bc",
+                "score": 0.00809329,
+                "excerpt": "fulfillment purposes, legitimate purposes and other reasons subject to this Privacy Policy. Such circumstances may include:\n- With vendors or other third parties who perform services on our behalf (e.g., IT management, payment processing, data analytics, customer support, cloud storage, fulfillment and shipping).\n- With business and marketing partners, including Shopify, to provide services and advertise to you. For example, we use Shopify to support personalized advertising with third-party ser...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1593075782,
+            "url": "https://happinessproject.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app declares the purpose of data collection and use.",
+            "reference": "How We Use Your Personal Information - Providing Products and Services. We use your personal information to provide you with the Services in order to perform our contract with you, including to process your payments, fulfill your orders, to send notifications to you related to your account, purchases, returns, exchanges or other transactions, to create, maintain and otherwise manage your account, to arrange for shipping, facilitate any returns and exchanges and other features and functionalities related to your account. URL: https://happinessproject.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7936b62ac4ac2ff5f8c4d52633429fd398971c66f05e5e8bc6f9ef39317303e8",
+                "score": 0.10194652,
+                "excerpt": "any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWe have in the past 12 months disclosed the following categories of personal information and sensitive personal information about users for the purposes set out above in \"How we Collect and Use your Personal Information\" and \"How we Disclose Personal Information\":\n| Category | Categories of Recipients |\n|---|---|\n|\n|\nWe do not use or disclose sensitive personal information w...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "666620fcce93e1eef652a7018d66b156522b09a381a06d3472f88ba85b4aa6cf",
+                "score": 0.026405517,
+                "excerpt": "variety of sources, as set out below. The information that we collect and use varies depending on how you interact with us.\nIn addition to the specific uses set out below, we may use information we collect about you to communicate with you, provide or improve or improve the Services, comply with any applicable legal obligations, enforce any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWhat Personal Information We Collect\nT...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "1360f0bc161618098124f9b90516d53cb91fa7a4a190dcffd90c45282ab0e8bc",
+                "score": 0.0070390454,
+                "excerpt": "fulfillment purposes, legitimate purposes and other reasons subject to this Privacy Policy. Such circumstances may include:\n- With vendors or other third parties who perform services on our behalf (e.g., IT management, payment processing, data analytics, customer support, cloud storage, fulfillment and shipping).\n- With business and marketing partners, including Shopify, to provide services and advertise to you. For example, we use Shopify to support personalized advertising with third-party ser...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "0c79abbf1bd62d4fa7635d1e8eb71d7269fcd1cdb776d1fec7621af4d0cf1582",
+                "score": 0.004198795,
+                "excerpt": "Links.\nHow We Use Your Personal Information\n- Providing Products and Services. We use your personal information to provide you with the Services in order to perform our contract with you, including to process your payments, fulfill your orders, to send notifications to you related to your account, purchases, returns, exchanges or other transactions, to create, maintain and otherwise manage your account, to arrange for shipping, facilitate any returns and exchanges and other features and function...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "b9697508cc43e3749b7c36b302f872f62283797abb9042cb5f8fb01425838ec4",
+                "score": 0.0031603526,
+                "excerpt": "network connection, your IP address and other information regarding your interaction with the Services.\nInformation We Obtain from Third Parties\nFinally, we may obtain information about you from third parties, including from vendors and service providers who may collect information on our behalf, such as:\n- Companies who support our Site and Services, such as Shopify.\n- Our payment processors, who collect payment information (e.g., bank account, credit or debit card information, billing address)...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1593075782,
+            "url": "https://happinessproject.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. The privacy policy mentions that users have the right to request the deletion of personal information maintained by the app.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "Based on the information provided in the privacy policy document, users have the option to request the deletion of their personal information maintained by the app, which indicates that they can opt out of data collection or delete data.",
+            "reference": "Right to Delete: You may have a right to request that we delete personal information we maintain about you. If you would like to exercise any of the rights available to you, please call or email us at joey@happinessproject.com or contact us at 538 N York Rd, Bensenville, IL, 60106, US. URL: https://happinessproject.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "15ed783eba1e67f1feb6d803f3eb5288f61044c695b0768ea43692e778c5904f",
+                "score": 0.9213576,
+                "excerpt": "a right to request access to personal information that we hold about you, including details relating to the ways in which we use and share your information.\n- Right to Delete: You may have a right to request that we delete personal information we maintain about you.\n- Right to Correct: You may have a right to request that we correct inaccurate personal information we maintain about you.\n- Right of Portability: You may have a right to receive a copy of the personal information we hold about you a...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "eb85a3caf5a735b1953cd34f9a6c88b38ad96cb69797546ca2586acecb3dba17",
+                "score": 0.55311304,
+                "excerpt": "signal enabled, depending on where you are, we will automatically treat this as a request to opt-out of the \"sale\" or \"sharing\" of information for the device and browser that you use to visit the Site.\n- Restriction of Processing: You may have the right to ask us to stop or restrict our processing of personal information.\n- Withdrawal of Consent: Where we rely on consent to process your personal information, you may have the right to withdraw this consent.\n- Appeal: You may have a right to appea...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "5b525bf5a4aa7b01465b534cf37e59cb2b3f054f4e0c33ea3c10e196a70796cc",
+                "score": 0.15278916,
+                "excerpt": "if you would like to exercise any of the rights available to you, please call or email us at joey@happinessproject.com or contact us at 538 N York Rd, Bensenville, IL, 60106, US.\nFor the purpose of applicable data protection laws and if not explicitly stated otherwise, we are the data controller of your personal information.",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "d8db0cb770869ca8df38aff8e6bf0a7f21704bedeac4e1ecdb037882457b2a64",
+                "score": 0.0996453,
+                "excerpt": "the Services, including certain features and general functionality, to work incorrectly or no longer be available. Additionally, blocking Cookies may not completely prevent how we share information with third parties such as our advertising partners.\nOur website also recognizes the Global Privacy Control (GPC) signal, which enables you to opt-out of certain uses or disclosures of your information. If you notify us of your preference through GPC, we will treat such signal as a valid request to op...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "306b5ec71405ba60c442c4438ceb00d2d3285dec69cd1e479fee066a63ac31c9",
+                "score": 0.07303239,
+                "excerpt": "not guarantee and are not responsible for the privacy or security of such sites, including the accuracy, completeness, or reliability of information found on these sites. Information you provide on public or semi-public venues, including information you share on third-party social networking platforms may also be viewable by other users of the Services and/or users of those third-party platforms without limitation as to its use by us or by a third party. Our inclusion of such links does not, by ...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1593075782,
+            "url": "https://happinessproject.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for contract fulfillment purposes, legitimate purposes, and other reasons stated in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for various purposes such as contract fulfillment, legitimate purposes, and other reasons detailed in the policy.",
+            "reference": "In certain circumstances, we may disclose your personal information to third parties for contract fulfillment purposes, legitimate purposes and other reasons subject to this Privacy Policy. Such circumstances may include: - With vendors or other third parties who perform services on our behalf (e.g., IT management, payment processing, data analytics, customer support, cloud storage, fulfillment and shipping). URL: https://happinessproject.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d8db0cb770869ca8df38aff8e6bf0a7f21704bedeac4e1ecdb037882457b2a64",
+                "score": 0.68331385,
+                "excerpt": "the Services, including certain features and general functionality, to work incorrectly or no longer be available. Additionally, blocking Cookies may not completely prevent how we share information with third parties such as our advertising partners.\nOur website also recognizes the Global Privacy Control (GPC) signal, which enables you to opt-out of certain uses or disclosures of your information. If you notify us of your preference through GPC, we will treat such signal as a valid request to op...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "b9697508cc43e3749b7c36b302f872f62283797abb9042cb5f8fb01425838ec4",
+                "score": 0.3198645,
+                "excerpt": "network connection, your IP address and other information regarding your interaction with the Services.\nInformation We Obtain from Third Parties\nFinally, we may obtain information about you from third parties, including from vendors and service providers who may collect information on our behalf, such as:\n- Companies who support our Site and Services, such as Shopify.\n- Our payment processors, who collect payment information (e.g., bank account, credit or debit card information, billing address)...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "1360f0bc161618098124f9b90516d53cb91fa7a4a190dcffd90c45282ab0e8bc",
+                "score": 0.28071496,
+                "excerpt": "fulfillment purposes, legitimate purposes and other reasons subject to this Privacy Policy. Such circumstances may include:\n- With vendors or other third parties who perform services on our behalf (e.g., IT management, payment processing, data analytics, customer support, cloud storage, fulfillment and shipping).\n- With business and marketing partners, including Shopify, to provide services and advertise to you. For example, we use Shopify to support personalized advertising with third-party ser...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "7936b62ac4ac2ff5f8c4d52633429fd398971c66f05e5e8bc6f9ef39317303e8",
+                "score": 0.073164724,
+                "excerpt": "any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWe have in the past 12 months disclosed the following categories of personal information and sensitive personal information about users for the purposes set out above in \"How we Collect and Use your Personal Information\" and \"How we Disclose Personal Information\":\n| Category | Categories of Recipients |\n|---|---|\n|\n|\nWe do not use or disclose sensitive personal information w...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "683ae96ba61bc6bff6bd5b2b09d010777fd22ffd016c43d2a2aa049bfe86ae70",
+                "score": 0.056652427,
+                "excerpt": "billing address, shipping address, payment confirmation, email address, and phone number.\n- Account information including your username, password, security questions and other information used for account security purposes.\n-\nShopping information including the items you view, put in your cart, saved into your account like loyalty points, reviews, referrals or gift cards, or purchases.\n- Loyalty points/product reviews/referrals/gift cards saved\n- Customer support information including the informa...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1593075782,
+            "url": "https://happinessproject.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with vendors, IT management, payment processors, data analytics providers, customer support services, cloud storage services, fulfillment and shipping services, business and marketing partners including Shopify, social media widgets, login integrations, affiliates, corporate group, and in connection with business transactions like mergers or bankruptcies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Vendors",
+                        "IT management",
+                        "Payment processors",
+                        "Data analytics providers",
+                        "Customer support services",
+                        "Cloud storage services",
+                        "Fulfillment and shipping services",
+                        "Business and marketing partners including Shopify",
+                        "Social media widgets",
+                        "Login integrations",
+                        "Affiliates",
+                        "Corporate group",
+                        "Parties involved in business transactions like mergers or bankruptcies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with multiple third parties for various purposes such as IT services, payment processing, advertising, shipping, and more.",
+            "reference": "The app shares data with vendors, IT management, payment processors, data analytics providers, customer support services, cloud storage services, fulfillment and shipping services, business and marketing partners including Shopify, social media widgets, login integrations, affiliates, corporate group, and in connection with business transactions like mergers or bankruptcies. URL: https://happinessproject.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d8db0cb770869ca8df38aff8e6bf0a7f21704bedeac4e1ecdb037882457b2a64",
+                "score": 0.6183772,
+                "excerpt": "the Services, including certain features and general functionality, to work incorrectly or no longer be available. Additionally, blocking Cookies may not completely prevent how we share information with third parties such as our advertising partners.\nOur website also recognizes the Global Privacy Control (GPC) signal, which enables you to opt-out of certain uses or disclosures of your information. If you notify us of your preference through GPC, we will treat such signal as a valid request to op...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "1360f0bc161618098124f9b90516d53cb91fa7a4a190dcffd90c45282ab0e8bc",
+                "score": 0.5785077,
+                "excerpt": "fulfillment purposes, legitimate purposes and other reasons subject to this Privacy Policy. Such circumstances may include:\n- With vendors or other third parties who perform services on our behalf (e.g., IT management, payment processing, data analytics, customer support, cloud storage, fulfillment and shipping).\n- With business and marketing partners, including Shopify, to provide services and advertise to you. For example, we use Shopify to support personalized advertising with third-party ser...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "b9697508cc43e3749b7c36b302f872f62283797abb9042cb5f8fb01425838ec4",
+                "score": 0.50447834,
+                "excerpt": "network connection, your IP address and other information regarding your interaction with the Services.\nInformation We Obtain from Third Parties\nFinally, we may obtain information about you from third parties, including from vendors and service providers who may collect information on our behalf, such as:\n- Companies who support our Site and Services, such as Shopify.\n- Our payment processors, who collect payment information (e.g., bank account, credit or debit card information, billing address)...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "683ae96ba61bc6bff6bd5b2b09d010777fd22ffd016c43d2a2aa049bfe86ae70",
+                "score": 0.21076629,
+                "excerpt": "billing address, shipping address, payment confirmation, email address, and phone number.\n- Account information including your username, password, security questions and other information used for account security purposes.\n-\nShopping information including the items you view, put in your cart, saved into your account like loyalty points, reviews, referrals or gift cards, or purchases.\n- Loyalty points/product reviews/referrals/gift cards saved\n- Customer support information including the informa...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            },
+            {
+                "id": "7936b62ac4ac2ff5f8c4d52633429fd398971c66f05e5e8bc6f9ef39317303e8",
+                "score": 0.19436783,
+                "excerpt": "any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.\nWe have in the past 12 months disclosed the following categories of personal information and sensitive personal information about users for the purposes set out above in \"How we Collect and Use your Personal Information\" and \"How we Disclose Personal Information\":\n| Category | Categories of Recipients |\n|---|---|\n|\n|\nWe do not use or disclose sensitive personal information w...",
+                "url": "https://happinessproject.com/policies/privacy-policy"
+            }
+        ]
+    }
+]

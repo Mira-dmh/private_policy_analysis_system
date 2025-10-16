@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 1576425396,
+            "url": "https://www.thematrescence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that they collect personal information users disclose, payment data, and information collected through the app.",
+            "reference": "We collect personal information that you voluntarily provide... when you participate in activities on the Services... The personal information that we collect depends on the context... URL: https://www.thematrescence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fcdb5242242d79c3c48770d996bf8e0c4e6d3fc8e5c0cd319f5829fd46e16cdf",
+                "score": 0.36093944,
+                "excerpt": "not agree with, please discontinue use of our Services immediately.\nThis privacy notice applies to all information collected through our Services (which, as described above, includes our Website and App), as well as, any related services, sales, marketing or events.\nPlease read this privacy notice carefully as it will help you understand what we do with the information that we collect.\n1. WHAT INFORMATION DO WE COLLECT?Personal information you disclose to us\nIn Short: We collect personal informa...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "018ca5cc597d74eec264f6d81b86ebd2f3691f097eefa9ab522a92d101c56e75",
+                "score": 0.026759284,
+                "excerpt": "(based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.\nInformation collected through our App\nIn Short: We collect information regarding your push notifications, when you use our App.\nIf you use our App, we also collect the following information:\n- Push Notifications. W...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "127fa29c409c01d72608354042603e4bcf1c19c195aff66077c1a50942315ac1",
+                "score": 0.018475594,
+                "excerpt": "include the following:\nPersonal Information Provided by You. We collect names; email addresses; usernames; passwords; birthday; and other similar information.\nPayment Data. We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by Stripe and PayPal. You may find their privacy notice link(s) here: https://stripe.com/...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "41f0ee8c908598ade87524450f89725cc2ecbc499dfba8d762b88a2057dd67f8",
+                "score": 0.009055264,
+                "excerpt": "knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have colle...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "be6748bee54787c57fbe345efb6a178c9e202678e31153fb60553d1a569a1713",
+                "score": 0.0049436893,
+                "excerpt": "notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.\n7. HOW LONG DO WE KEEP YOUR INFORMATION?\nIn Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.\nWe will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1576425396,
+            "url": "https://www.thematrescence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information, payment data, social media login data, and information automatically collected, such as IP addresses and device characteristics.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal information",
+                        "Payment data",
+                        "Social media login data",
+                        "Information automatically collected (e.g., IP addresses)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions multiple types of data collected by the app, which includes personal information, payment data, social media login data, and automatically collected information like IP addresses. These various data types are used for different purposes as outlined in the policy.",
+            "reference": "Personal information that you provide to us...Social Media Login Data...Payment Data...Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit...URL: https://www.thematrescence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fcdb5242242d79c3c48770d996bf8e0c4e6d3fc8e5c0cd319f5829fd46e16cdf",
+                "score": 0.4383043,
+                "excerpt": "not agree with, please discontinue use of our Services immediately.\nThis privacy notice applies to all information collected through our Services (which, as described above, includes our Website and App), as well as, any related services, sales, marketing or events.\nPlease read this privacy notice carefully as it will help you understand what we do with the information that we collect.\n1. WHAT INFORMATION DO WE COLLECT?Personal information you disclose to us\nIn Short: We collect personal informa...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "12c36b83c6a4dccd74e8bcf302b581b2373197dafc0e602c4a0891fccbaed08a",
+                "score": 0.37011155,
+                "excerpt": "you, we must adhere to certain rights and obligations regarding your personal information.\nWhat categories of personal information do we collect?\nWe have collected the following categories of personal information in the past twelve (12) months:\nCategory | Examples | Collected |\n| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name | ...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "127fa29c409c01d72608354042603e4bcf1c19c195aff66077c1a50942315ac1",
+                "score": 0.36749724,
+                "excerpt": "include the following:\nPersonal Information Provided by You. We collect names; email addresses; usernames; passwords; birthday; and other similar information.\nPayment Data. We may collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument. All payment data is stored by Stripe and PayPal. You may find their privacy notice link(s) here: https://stripe.com/...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "018ca5cc597d74eec264f6d81b86ebd2f3691f097eefa9ab522a92d101c56e75",
+                "score": 0.33144426,
+                "excerpt": "(based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.\nInformation collected through our App\nIn Short: We collect information regarding your push notifications, when you use our App.\nIf you use our App, we also collect the following information:\n- Push Notifications. W...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "e31384e0a33281da3f08712e964de869d9ea67e436931ec4ad368c6a9127ae04",
+                "score": 0.17795369,
+                "excerpt": "about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called ‘crash dumps’) and hardware settings).\n- Device Data. We collect device data such as information about your computer, phone, tablet or other device you use to access the Services. Depending on the device used, this device data may...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1576425396,
+            "url": "https://www.thematrescence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that data is collected for various reasons such as data analysis, determining usage trends, evaluating and improving services, products, marketing, and user experience. It specifies that personal information will not be used without consent and provides details on the legal bases for processing data.",
+            "reference": "The privacy policy states that data is collected for purposes such as data analysis, identifying usage trends, determining the effectiveness of promotional campaigns, and to evaluate and improve services, products, marketing, and user experience. It also mentions the legal bases for processing data. URL: https://www.thematrescence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "08e232e3dcce1d9febc12409b79499036eb0f576cfd0f77ff1bb732d2ef4f959",
+                "score": 0.073430054,
+                "excerpt": "such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.\n3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?\nIn Short: We only s...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "018ca5cc597d74eec264f6d81b86ebd2f3691f097eefa9ab522a92d101c56e75",
+                "score": 0.049130786,
+                "excerpt": "(based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.\nInformation collected through our App\nIn Short: We collect information regarding your push notifications, when you use our App.\nIf you use our App, we also collect the following information:\n- Push Notifications. W...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "be6748bee54787c57fbe345efb6a178c9e202678e31153fb60553d1a569a1713",
+                "score": 0.044680867,
+                "excerpt": "notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.\n7. HOW LONG DO WE KEEP YOUR INFORMATION?\nIn Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.\nWe will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "c89f5f5b7aa42999cef067e45e5b561d01df38c29b946d45ce391400fd729b86",
+                "score": 0.033972,
+                "excerpt": "delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nThe Matrescence, LLC collects and shares your personal information through:\n- Beacons/Pixels/Tags\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by visiting https://thematrescence.com/contact, or by referring to the contact details at the bottom of this document.\nIf you are using an authorized agent to exercise you...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "87d1349a5d92f9d44d68ac8d8c789914ff9c2c1f14472ba452a7cec5267b9694",
+                "score": 0.021698097,
+                "excerpt": "obligations, and/or your consent.\nWe use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.\nWe use the information we collect or re...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1576425396,
+            "url": "https://www.thematrescence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or delete data. Users have the right to request access, change, or delete the personal information collected from them. They can also object to data processing, request corrections or restrictions, designate an authorized agent to act on their behalf, and opt-out of selling their personal information to third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the user's rights to request access, changes, or deletion of their personal information and to opt-out of data collection under various circumstances. Users have multiple options to control their data privacy.",
+            "reference": "Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. URL: https://www.thematrescence.com/privacy-policy/ Active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with applicable legal requirements."
+        },
+        "source_documents": [
+            {
+                "id": "bf2aa4a9b3654d8be44fff9a7dabb6ef16969f0f669a180631c7a17a1c3ba3a7",
+                "score": 0.81479084,
+                "excerpt": "you may email us at hello@thematrescence.com or by post to:\nThe Matrescence, LLC 4121 West 83rd Street, Suite 120, Prairie Village, KS 66208United States\n15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?\nBased on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please sub...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "71233380522f84ee4c6ea38b78f2bff80688fa7b1b01b800dd64d2bdd8c11ffc",
+                "score": 0.75617754,
+                "excerpt": "purposes of verification. If, however, we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity, and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.\nOther privacy rights\n- you may object to the processing of your personal data\n- you may request correction of your personal data if it is incorrec...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "41f0ee8c908598ade87524450f89725cc2ecbc499dfba8d762b88a2057dd67f8",
+                "score": 0.50037956,
+                "excerpt": "knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have colle...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "018ca5cc597d74eec264f6d81b86ebd2f3691f097eefa9ab522a92d101c56e75",
+                "score": 0.448849,
+                "excerpt": "(based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services.\nInformation collected through our App\nIn Short: We collect information regarding your push notifications, when you use our App.\nIf you use our App, we also collect the following information:\n- Push Notifications. W...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "11d23e7d4a11edcaf1c158c91fe46fcb6fd4499ddd562842111658a2d23cbadd",
+                "score": 0.4212542,
+                "excerpt": "You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.\nIf you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.\nIf you have questions or comments about your privacy rights, you may email us at hello@thematrescence.com.\nAccount Information\nIf you would at any time like to review or change the information in your account or terminate...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1576425396,
+            "url": "https://www.thematrescence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third-party vendors, service providers, contractors, or agents for various services such as payment processing, data analysis, email delivery, hosting services, customer service, and marketing efforts.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for specific services and operations.",
+            "reference": "We may share your data with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. URL: https://www.thematrescence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e28c6fb91be788363c2ec8fac18b2d1044dfcdd539380ceefc6e58424f2022e8",
+                "score": 0.97788346,
+                "excerpt": "and Other Third-Party Service Providers. We may share your data with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data on our behalf about ho...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "7b55df7101dfc6a817dad2e33fc8f9c190c7e7d98bcfd5c77297a38f432de6d5",
+                "score": 0.9591543,
+                "excerpt": "do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct.\n4. WHO WILL YOUR INFORMATION BE SHARED WITH?\nIn Short: We only share information with the following third parties.\nWe only share and disclose your information with the following third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact u...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "c89f5f5b7aa42999cef067e45e5b561d01df38c29b946d45ce391400fd729b86",
+                "score": 0.32939172,
+                "excerpt": "delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nThe Matrescence, LLC collects and shares your personal information through:\n- Beacons/Pixels/Tags\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by visiting https://thematrescence.com/contact, or by referring to the contact details at the bottom of this document.\nIf you are using an authorized agent to exercise you...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "97be244377983cda58855351eb504a6ede6ad5e04235312aca9f52b9c3e2c821",
+                "score": 0.32177958,
+                "excerpt": "information to fulfill the terms of our contract.\n- Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).\n- Vital Interests: We may disclose your information where we believe it is necessary...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "9ea88d0d0dd64a7fc6949e3da87d85ba34f5a7e41c87330974b1869b6e809d43",
+                "score": 0.16899405,
+                "excerpt": "data.\nThe Matrescence, LLC has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n- Category B. Personal information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history and financial information.\nThe categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1576425396,
+            "url": "https://www.thematrescence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third-party vendors, service providers, contractors, or agents who assist in payment processing, data analysis, email delivery, hosting services, customer service, and marketing efforts. These also include selected third parties who use tracking technology on the Services to analyze and track data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "payment processors",
+                        "data analysts",
+                        "email delivery services",
+                        "hosting services providers",
+                        "customer service providers",
+                        "marketing service providers",
+                        "selected third parties using tracking technology"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with various third parties for specific purposes outlined in the policy, such as payment processing, data analysis, and marketing efforts.",
+            "reference": "Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. This information may be used to, among other things, analyze and track data. URL: https://www.thematrescence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e28c6fb91be788363c2ec8fac18b2d1044dfcdd539380ceefc6e58424f2022e8",
+                "score": 0.9727791,
+                "excerpt": "and Other Third-Party Service Providers. We may share your data with third-party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data on our behalf about ho...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "7b55df7101dfc6a817dad2e33fc8f9c190c7e7d98bcfd5c77297a38f432de6d5",
+                "score": 0.9628831,
+                "excerpt": "do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct.\n4. WHO WILL YOUR INFORMATION BE SHARED WITH?\nIn Short: We only share information with the following third parties.\nWe only share and disclose your information with the following third parties. If we have processed your data based on your consent and you wish to revoke your consent, please contact u...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "97be244377983cda58855351eb504a6ede6ad5e04235312aca9f52b9c3e2c821",
+                "score": 0.8535469,
+                "excerpt": "information to fulfill the terms of our contract.\n- Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).\n- Vital Interests: We may disclose your information where we believe it is necessary...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "c89f5f5b7aa42999cef067e45e5b561d01df38c29b946d45ce391400fd729b86",
+                "score": 0.3941427,
+                "excerpt": "delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nThe Matrescence, LLC collects and shares your personal information through:\n- Beacons/Pixels/Tags\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by visiting https://thematrescence.com/contact, or by referring to the contact details at the bottom of this document.\nIf you are using an authorized agent to exercise you...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            },
+            {
+                "id": "9ea88d0d0dd64a7fc6949e3da87d85ba34f5a7e41c87330974b1869b6e809d43",
+                "score": 0.2897735,
+                "excerpt": "data.\nThe Matrescence, LLC has disclosed the following categories of personal information to third parties for a business or commercial purpose in the preceding twelve (12) months:\n- Category B. Personal information, as defined in the California Customer Records law, such as your name, contact information, education, employment, employment history and financial information.\nThe categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found...",
+                "url": "https://www.thematrescence.com/privacy-policy/"
+            }
+        ]
+    }
+]

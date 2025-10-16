@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1600102496,
+      "url": "https://www.behavidence.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personal information such as contact information, research registration information, and website analytics information.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of data collected and the purposes for which they are used.",
+          "content": "We collect and process your contact information when you send us an inquiry or when you subscribe to our mailing list. We also collect personal information when you join a research and analytics information about your use of the Website."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, ensuring transparency regarding data collection practices.",
+      "reference": "PERSONAL DATA PROCESSED"
+    }
+  },
+  {
+    "meta": {
+      "id": 1600102496,
+      "url": "https://www.behavidence.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including: 1. Contact Information (e.g., full name, email address) when users send inquiries or subscribe to the mailing list. 2. Research Registration Information (e.g., contact information, age, existence of diagnosis of mental health condition, mobile device type, and residency status) when users join research. 3. Website Analytics Information (e.g., IP address, time and date of access, type of browser used, language used, links clicked, and actions taken) when users visit the website.",
+        "simple_answer": "The app collects Contact Information, Research Registration Information, and Website Analytics Information.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps in managing user inquiries, conducting research, and improving website functionality.",
+          "content": "1. Contact Information: Full name, email address, and inquiry content. 2. Research Registration Information: Contact information, age, mental health diagnosis status, mobile device type, and residency. 3. Website Analytics Information: IP address, access time and date, browser type, language, links clicked, and user actions."
+        }
+      },
+      "analysis": "",
+      "reference": "PERSONAL DATA PROCESSED"
+    }
+  },
+  {
+    "meta": {
+      "id": 1600102496,
+      "url": "https://www.behavidence.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is collected to respond to inquiries, manage customer relationships, include users in research, and maintain the website. Additionally, it mentions the use of analytics information for improving user experience and for quality assurance.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the various purposes for which personal data is collected.",
+          "content": "The purposes include responding to inquiries, managing customer relationships, including users in research, and maintaining the website."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW WE PROCESS PERSONAL DATA"
+    }
+  },
+  {
+    "meta": {
+      "id": 1600102496,
+      "url": "https://www.behavidence.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by choosing not to provide their Contact Information or Research Registration Information. Additionally, users can unsubscribe from the mailing list at any time by clicking the unsubscribe button in the email. Users can also delete cookies saved on their device through their browser settings.",
+        "simple_answer": "Yes, users can opt out and delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to opt out of data collection and can unsubscribe from communications.",
+          "content": "Users can opt out of providing personal information, unsubscribe from the mailing list, and delete cookies through their browser settings."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users are not legally obligated to provide personal information and can unsubscribe from communications, indicating a level of control over their data.",
+      "reference": "PERSONAL DATA PROCESSED, HOW WE PROCESS PERSONAL DATA, COOKIES"
+    }
+  },
+  {
+    "meta": {
+      "id": 1600102496,
+      "url": "https://www.behavidence.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app may share data with third parties in specific circumstances, such as when required by law, to protect against misuse of the website, or in the event of a business structure change. However, it will not share your information with third parties without your explicit and informed consent, except in the events listed.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and regulated.",
+          "content": "The app will share information with competent authorities if there is abuse of rights or violation of laws, if legally required, or during structural changes in the business."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing the importance of user consent and legal obligations.",
+      "reference": "Section: WHO PROCESSES YOUR DATA"
+    }
+  },
+  {
+    "meta": {
+      "id": 1600102496,
+      "url": "https://www.behavidence.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with competent authorities if there is abuse of rights to use the Website or violation of applicable law. It may also share information with third parties such as legal counsels and advisors for handling violations or breaches. Additionally, information may be shared in the event of a change in the business structure, such as a merger or acquisition, but only as required to enable that structural change.",
+        "simple_answer": "The app shares data with competent authorities, legal counsels, and in case of business structure changes.",
+        "extended_simple_answer": {
+          "comment": "Data sharing occurs under specific circumstances, primarily related to legal compliance and business operations.",
+          "content": "The app shares data with competent authorities for legal violations, with legal advisors for handling breaches, and during business structure changes."
+        }
+      },
+      "analysis": "",
+      "reference": "WHO PROCESSES YOUR DATA"
+    }
+  }
+]

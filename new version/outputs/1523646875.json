@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 1523646875,
+            "url": "http://www.gambless.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data is collected when users register on the app, purchase premium services, or claim free offers. This declaration confirms that the app collects data.",
+            "reference": "We receive personal data directly from you when you register on our apps, when you purchase some of our premium services, and/or claim our free offers. URL: http://www.gambless.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "3b1f34a17525b23108296d0d32e74f3dad4d54bbcb197c4fa224d972cee65df1",
+                "score": 0.14010079,
+                "excerpt": "be processed regarding which newsletters you have read and what links in the newsletter you clicked on to enable us to follow up and improve our content. - How your personal data is collected:\nWe receive personal data directly from you when you register on our apps, when you purchase some of our premium services, and/or claim our free offers. - Why do we process your personal data?\nYour personal data is processed to manage your subscription to the newsletter. When your personal data is processed...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "8cde89c3b216fbd8dfebd436892825c12eb1da7c218e9a132b0b27ab8373c678",
+                "score": 0.061424043,
+                "excerpt": "security is important to you and it is therefore important to us. Our intent to ensure that data minimisation principles are met. We have put in place appropriate security measures to prevent your Personal Data, and that of anyone uploaded into the app, from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed, including up to date virus software and personal protection on our computers and devices. In addition, we limit access to Personal Data to those employee...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "4c147977cbefd4256b8207b40aac6c589763ab3ff3cd8d6f4b0d31a2a5dc1e53",
+                "score": 0.046291903,
+                "excerpt": "last updated April 6th, 2021\nThis Privacy Policy explains how Mind Solutions Ltd (“Gambless”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nYour privacy is important to us. We only ask for personal information when we truly need it to provid...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "3b1b851d390a68f9e029362add0d7e423d4aa64b4ef0ea44e9ebe1f45576ce95",
+                "score": 0.023825368,
+                "excerpt": "Personal Data are set out in Article 6 of the General Data Protection Regulation (GDPR). We may process your Personal Data on more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your Personal Data, where more than one ground has been set out below. At least one of these must apply whenever we process Personal Data:\n- Consent: you have given clear consent ...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "aae38a48b59e227efac641d9a14f8385a83857d6d23e6e33a94bbb1e57b377a6",
+                "score": 0.010860331,
+                "excerpt": "Right to restrict the processing of your Personal Data.\n- Right to withdraw consent.\nFor any queries, feedback or comments regarding the use and processing of your data, or questions regarding how to exercise your rights, you can refer to Maurizio Savino, our Data Protection Officer. Maurizio Savino holds a Msc in Management from Bocconi University. He is also co-founder and CEO of Gambless. He can be reached at maurizio@gambless.org.\nThe time frame in which we will respond to any requests to ex...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523646875,
+            "url": "http://www.gambless.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Name, e-mail address, language preference, read newsletters, clicked links in newsletters",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "e-mail address",
+                        "language preference",
+                        "read newsletters",
+                        "clicked links in newsletters"
+                    ]
+                }
+            },
+            "analysis": "The app declares the collection of personal data including the user's name, e-mail address, language preference, information about read newsletters, and clicked links in newsletters.",
+            "reference": "Your name, e-mail address and language preference. In addition, data might be processed regarding which newsletters you have read and what links in the newsletter you clicked on to enable us to follow up and improve our content. URL: http://www.gambless.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "3b1f34a17525b23108296d0d32e74f3dad4d54bbcb197c4fa224d972cee65df1",
+                "score": 0.13050689,
+                "excerpt": "be processed regarding which newsletters you have read and what links in the newsletter you clicked on to enable us to follow up and improve our content. - How your personal data is collected:\nWe receive personal data directly from you when you register on our apps, when you purchase some of our premium services, and/or claim our free offers. - Why do we process your personal data?\nYour personal data is processed to manage your subscription to the newsletter. When your personal data is processed...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "4c147977cbefd4256b8207b40aac6c589763ab3ff3cd8d6f4b0d31a2a5dc1e53",
+                "score": 0.06430005,
+                "excerpt": "last updated April 6th, 2021\nThis Privacy Policy explains how Mind Solutions Ltd (“Gambless”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nYour privacy is important to us. We only ask for personal information when we truly need it to provid...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "3b1b851d390a68f9e029362add0d7e423d4aa64b4ef0ea44e9ebe1f45576ce95",
+                "score": 0.031261913,
+                "excerpt": "Personal Data are set out in Article 6 of the General Data Protection Regulation (GDPR). We may process your Personal Data on more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your Personal Data, where more than one ground has been set out below. At least one of these must apply whenever we process Personal Data:\n- Consent: you have given clear consent ...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "0d262a3d836160ce18715bb66805c777f4c3b4eec358a2a82207fab533528dc0",
+                "score": 0.022977369,
+                "excerpt": "It expires after 1 day.\n10. Embedded content from other sources\nArticles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.\nThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an a...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "29861bf8727750fc99cbf704a6cc3ed4bddea21d714c017d351811467f5f81ed",
+                "score": 0.020725062,
+                "excerpt": "protect someone’s life.\n- Legitimate interests: the processing is necessary for our legitimate interests (for example to administer and maintain our Platform) or the legitimate interests of a third party unless there is a good reason to protect your Personal Data which overrides those legitimate interests.\nWe make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your Personal Data for our legitimate interests. We do not use y...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523646875,
+            "url": "http://www.gambless.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app informs users of why data is collected and how it will be used, ensuring transparency about the purpose of data collection.",
+            "reference": "We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used. URL: http://www.gambless.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "4c147977cbefd4256b8207b40aac6c589763ab3ff3cd8d6f4b0d31a2a5dc1e53",
+                "score": 0.100348406,
+                "excerpt": "last updated April 6th, 2021\nThis Privacy Policy explains how Mind Solutions Ltd (“Gambless”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nYour privacy is important to us. We only ask for personal information when we truly need it to provid...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "7808b88a4e54dcaf0b3a94209b329517a02f8de63539472179f891fb1db0d49c",
+                "score": 0.07821887,
+                "excerpt": "or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;\n- By legitimate interests, if we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Gambless or others;\n- With your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "3b1b851d390a68f9e029362add0d7e423d4aa64b4ef0ea44e9ebe1f45576ce95",
+                "score": 0.055412795,
+                "excerpt": "Personal Data are set out in Article 6 of the General Data Protection Regulation (GDPR). We may process your Personal Data on more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your Personal Data, where more than one ground has been set out below. At least one of these must apply whenever we process Personal Data:\n- Consent: you have given clear consent ...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "29861bf8727750fc99cbf704a6cc3ed4bddea21d714c017d351811467f5f81ed",
+                "score": 0.025035424,
+                "excerpt": "protect someone’s life.\n- Legitimate interests: the processing is necessary for our legitimate interests (for example to administer and maintain our Platform) or the legitimate interests of a third party unless there is a good reason to protect your Personal Data which overrides those legitimate interests.\nWe make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your Personal Data for our legitimate interests. We do not use y...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "507480ac1163166a6a0ebae735c00d44866ede5d3b1aeb90518a7ebff09d706f",
+                "score": 0.020764738,
+                "excerpt": "the processing for the new purpose is compatible with the original purpose, please contact us. If we need to use the Personal Data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so; if consent was the lawful basis, consent will be re-obtained. Please note that we may process Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.\nUnder certain circumstances, you have r...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523646875,
+            "url": "http://www.gambless.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection and request the deletion of their data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out from certain communications and processing of their data. Users have the right to request the erasure of their personal data.",
+            "reference": "You can opt-out from our comms... You can opt-out from the processing of your data input... Furthermore, you have the their right to request that your data... Furthermore, you have the their right to request that your data are not subject... Where we rely on our legitimate interest...If at any point you want to withdraw your consent or object to the processing...URL: http://www.gambless.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "3b1f34a17525b23108296d0d32e74f3dad4d54bbcb197c4fa224d972cee65df1",
+                "score": 0.6515766,
+                "excerpt": "be processed regarding which newsletters you have read and what links in the newsletter you clicked on to enable us to follow up and improve our content. - How your personal data is collected:\nWe receive personal data directly from you when you register on our apps, when you purchase some of our premium services, and/or claim our free offers. - Why do we process your personal data?\nYour personal data is processed to manage your subscription to the newsletter. When your personal data is processed...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "4dfb67d37bad395410ebc59ffb060bc9611cb7b28786d31c72ed1e7c2d90904a",
+                "score": 0.6371437,
+                "excerpt": "creation and password reset, are considered “transactional” and therefore they cannot be opted-out from. Furthermore, you have the their right to request that your data are not subject to a decision based solely on automated processing. You can opt-out from the processing of your data input in certain features of the app, keeping in mind that we might not be able to provide certain features as advertised in the app.\nWhere we rely on our legitimate interest, you can object to the processing of yo...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "aae38a48b59e227efac641d9a14f8385a83857d6d23e6e33a94bbb1e57b377a6",
+                "score": 0.43932635,
+                "excerpt": "Right to restrict the processing of your Personal Data.\n- Right to withdraw consent.\nFor any queries, feedback or comments regarding the use and processing of your data, or questions regarding how to exercise your rights, you can refer to Maurizio Savino, our Data Protection Officer. Maurizio Savino holds a Msc in Management from Bocconi University. He is also co-founder and CEO of Gambless. He can be reached at maurizio@gambless.org.\nThe time frame in which we will respond to any requests to ex...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "507480ac1163166a6a0ebae735c00d44866ede5d3b1aeb90518a7ebff09d706f",
+                "score": 0.25054586,
+                "excerpt": "the processing for the new purpose is compatible with the original purpose, please contact us. If we need to use the Personal Data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so; if consent was the lawful basis, consent will be re-obtained. Please note that we may process Personal Data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.\nUnder certain circumstances, you have r...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "0c7abcd36ca8f98ccdedadc2d42240332e7af7e27372ff2bf7a73a7420d0fc1c",
+                "score": 0.05033063,
+                "excerpt": "may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.\nUpon registration on our apps, you are requested to submit your Name and Email address: these are essential to provide you a private access to the app content. Furthermore, using the apps features you might share with us also General Wellness Data: these are not mandatory...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523646875,
+            "url": "http://www.gambless.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not share any personally identifying information publicly or with third parties, except when required by law. This indicates that data is not shared with third parties under normal circumstances.",
+            "reference": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law. URL: http://www.gambless.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "4c147977cbefd4256b8207b40aac6c589763ab3ff3cd8d6f4b0d31a2a5dc1e53",
+                "score": 0.7902067,
+                "excerpt": "last updated April 6th, 2021\nThis Privacy Policy explains how Mind Solutions Ltd (“Gambless”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nYour privacy is important to us. We only ask for personal information when we truly need it to provid...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "8cde89c3b216fbd8dfebd436892825c12eb1da7c218e9a132b0b27ab8373c678",
+                "score": 0.6095242,
+                "excerpt": "security is important to you and it is therefore important to us. Our intent to ensure that data minimisation principles are met. We have put in place appropriate security measures to prevent your Personal Data, and that of anyone uploaded into the app, from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed, including up to date virus software and personal protection on our computers and devices. In addition, we limit access to Personal Data to those employee...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "7808b88a4e54dcaf0b3a94209b329517a02f8de63539472179f891fb1db0d49c",
+                "score": 0.6002469,
+                "excerpt": "or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;\n- By legitimate interests, if we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Gambless or others;\n- With your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "0c7abcd36ca8f98ccdedadc2d42240332e7af7e27372ff2bf7a73a7420d0fc1c",
+                "score": 0.53628254,
+                "excerpt": "may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.\nUpon registration on our apps, you are requested to submit your Name and Email address: these are essential to provide you a private access to the app content. Furthermore, using the apps features you might share with us also General Wellness Data: these are not mandatory...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "29861bf8727750fc99cbf704a6cc3ed4bddea21d714c017d351811467f5f81ed",
+                "score": 0.5194299,
+                "excerpt": "protect someone’s life.\n- Legitimate interests: the processing is necessary for our legitimate interests (for example to administer and maintain our Platform) or the legitimate interests of a third party unless there is a good reason to protect your Personal Data which overrides those legitimate interests.\nWe make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your Personal Data for our legitimate interests. We do not use y...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523646875,
+            "url": "http://www.gambless.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with companies and contractors that perform services, including email service providers, payment processors, fraud prevention vendors, and other service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Companies performing services for app",
+                        "Email service providers",
+                        "Payment processors",
+                        "Fraud prevention vendors",
+                        "Other service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with various entities for different purposes. Specifically, information is shared with companies and contractors for service provision, such as email services and payment processing.",
+            "reference": "By contract, with companies and contractors that perform services for us, including email service providers, payment processors, fraud prevention vendors, spam detection and other service providers; URL: http://www.gambless.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "7808b88a4e54dcaf0b3a94209b329517a02f8de63539472179f891fb1db0d49c",
+                "score": 0.7017131,
+                "excerpt": "or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;\n- By legitimate interests, if we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of Gambless or others;\n- With your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "29861bf8727750fc99cbf704a6cc3ed4bddea21d714c017d351811467f5f81ed",
+                "score": 0.64735246,
+                "excerpt": "protect someone’s life.\n- Legitimate interests: the processing is necessary for our legitimate interests (for example to administer and maintain our Platform) or the legitimate interests of a third party unless there is a good reason to protect your Personal Data which overrides those legitimate interests.\nWe make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your Personal Data for our legitimate interests. We do not use y...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "4c147977cbefd4256b8207b40aac6c589763ab3ff3cd8d6f4b0d31a2a5dc1e53",
+                "score": 0.6204492,
+                "excerpt": "last updated April 6th, 2021\nThis Privacy Policy explains how Mind Solutions Ltd (“Gambless”, “we” or “us”) collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nYour privacy is important to us. We only ask for personal information when we truly need it to provid...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "0c7abcd36ca8f98ccdedadc2d42240332e7af7e27372ff2bf7a73a7420d0fc1c",
+                "score": 0.4228025,
+                "excerpt": "may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.\nUpon registration on our apps, you are requested to submit your Name and Email address: these are essential to provide you a private access to the app content. Furthermore, using the apps features you might share with us also General Wellness Data: these are not mandatory...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            },
+            {
+                "id": "8cde89c3b216fbd8dfebd436892825c12eb1da7c218e9a132b0b27ab8373c678",
+                "score": 0.27815875,
+                "excerpt": "security is important to you and it is therefore important to us. Our intent to ensure that data minimisation principles are met. We have put in place appropriate security measures to prevent your Personal Data, and that of anyone uploaded into the app, from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed, including up to date virus software and personal protection on our computers and devices. In addition, we limit access to Personal Data to those employee...",
+                "url": "http://www.gambless.org/privacy-policy/"
+            }
+        ]
+    }
+]

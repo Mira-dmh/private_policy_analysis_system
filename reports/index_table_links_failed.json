@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1663472356,
+    "url": "https://indicmuse.com/privacy.html",
+    "final_url": "https://indicmuse.com/privacy.html",
+    "status_code": 403,
+    "error": null
+  },
+  {
+    "id": 6444064059,
+    "url": "https://www.neboo.app/politika-konfidentsialnosti",
+    "final_url": "https://www.neboo.app/politika-konfidentsialnosti",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "id": 6470370372,
+    "url": "https://blackelephant.app/privacy-policy",
+    "final_url": "https://blackelephant.app/privacy-policy",
+    "status_code": 500,
+    "error": null
+  },
+  {
+    "id": 6472549917,
+    "url": "https://www.thinkific.com/privacy-policy/",
+    "final_url": "https://www.thinkific.com/privacy-policy/",
+    "status_code": 403,
+    "error": null
+  },
+  {
+    "id": 6472815024,
+    "url": "https://www.mindeaseme.com/privacy-policy",
+    "final_url": null,
+    "status_code": null,
+    "error": "ConnectError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mindeaseme.com'. (_ssl.c:1006)"
+  },
+  {
+    "id": 6473872380,
+    "url": "https://www.rktherapy.co.uk/privacy-policy-3124866c-c58e-4e4f-81c1-0aa55dd352e0",
+    "final_url": "https://www.rktherapy.co.uk/privacy-policy-3124866c-c58e-4e4f-81c1-0aa55dd352e0",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "id": 6483539378,
+    "url": "https://www.angelafosteracademy.com/branded-app-privacy-notice",
+    "final_url": "https://www.angelafosteracademy.com/branded-app-privacy-notice",
+    "status_code": 404,
+    "error": null
+  }
+]

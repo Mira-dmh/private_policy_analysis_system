@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1620941994,
+      "url": "https://www.reulay.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that Reulay Inc collects various types of personal information from users, including communications, account information, session data, and information from third-party services.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of personal information collected and the purposes for which it is used.",
+          "content": "The app collects personal information such as name, email address, phone number, and session data related to user interactions."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of personal information collected and the methods of collection, ensuring transparency with users.",
+      "reference": "This information is found in the 'Types of Personal Information We Collect' section of the privacy policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 1620941994,
+      "url": "https://www.reulay.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of Personal Information, including: 1. Communications with Us: Name, email address, phone number, and postal address when you request information or support. 2. Account Information: Name, age, email address, state of residence, mobile number, and potentially gender and date of birth if an account is created. 3. Session Data: Information related to eye and head movement, heart rate, breathing, and mood based on user responses to surveys. 4. Third Party Services: Information collected through third-party services like Google Play Services and Google Analytics for Firebase.",
+        "simple_answer": "The app collects Personal Information such as name, email, phone number, account details, and session data related to user interactions.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a range of personal data to enhance user experience and service delivery.",
+          "content": "Types of data collected include communications details, account information, session data, and data from third-party services."
+        }
+      },
+      "analysis": "",
+      "reference": "Types of Personal Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1620941994,
+      "url": "https://www.reulay.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that Reulay collects, stores, uses, and processes Personal Information for various business purposes, including fulfilling agreements, improving services, analyzing user engagement, detecting security incidents, and complying with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "Reulay uses Personal Information to provide and improve services, manage accounts, process payments, communicate with users, analyze and improve services, and comply with legal obligations."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1620941994,
+      "url": "https://www.reulay.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to opt out of certain uses and disclosures of their Personal Information. They can withdraw their consent to the Processing of their Personal Information at any time and opt-out of further Processing or request the deletion of all personal information by contacting solutions@reulay.com.",
+        "simple_answer": "Yes, users can opt out and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their Personal Information.",
+          "content": "Users can opt out of certain uses and disclosures of their Personal Information and can request deletion of their data by contacting Reulay."
+        }
+      },
+      "analysis": "",
+      "reference": "GENERAL"
+    }
+  },
+  {
+    "meta": {
+      "id": 1620941994,
+      "url": "https://www.reulay.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may disclose your personal information to third parties for a business purpose. In such cases, Reulay enters a contract that describes the purpose and requires the recipient to keep that personal information confidential and not to use it for any purpose except performing the contract.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is regulated by contracts to ensure confidentiality.",
+          "content": "Reulay may disclose your personal information to third parties for a business purpose, and they enter contracts to ensure confidentiality."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1620941994,
+      "url": "https://www.reulay.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party services such as Google Play Services, Google Analytics for Firebase, and Mixpanel.",
+        "simple_answer": "The app shares data with Google Play Services, Google Analytics for Firebase, and Mixpanel.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app uses third-party services that may collect information used to identify you."
+        }
+      },
+      "analysis": "",
+      "reference": "Types of Personal Information We Collect"
+    }
+  }
+]

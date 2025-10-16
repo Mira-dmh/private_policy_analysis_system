@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1671328374,
+      "url": "https://sites.google.com/view/mindrace/accueil",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that while using the Service, users may be asked to provide certain personally identifiable information, and it collects Usage Data and Performance Data automatically.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the purposes for which it is used.",
+          "content": "The app collects Personal Data, Usage Data, and Performance Data to provide and improve the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671328374,
+      "url": "https://sites.google.com/view/mindrace/accueil",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Data, which may include Usage Data and Performance Data. Usage Data is collected automatically and may include information such as the Device's Internet Protocol address, browser type, pages visited, time spent on those pages, and other diagnostic data. Performance Data may include user pseudonym, game score, speed, and timestamp, which are stored locally on the user's device.",
+        "simple_answer": "The app collects Personal Data, including Usage Data and Performance Data.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps enhance user experience and track progress within the game.",
+          "content": "Usage Data includes IP address, browser type, pages visited, and device information. Performance Data includes user pseudonym, game score, speed, and timestamp."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671328374,
+      "url": "https://sites.google.com/view/mindrace/accueil",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The Company may use Personal Data for various purposes, including to provide and maintain the Service, manage user accounts, perform contracts, contact users, provide news and offers, manage requests, conduct business transfers, and for other purposes such as data analysis and improving the Service.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines multiple purposes for data collection, ensuring transparency.",
+          "content": "The Company may use Personal Data for providing and maintaining the Service, managing accounts, performing contracts, contacting users, providing news and offers, managing requests, conducting business transfers, and for data analysis."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671328374,
+      "url": "https://sites.google.com/view/mindrace/accueil",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can delete performance-related data from the 'Game Over Screen' in the paid version of the app or upon uninstalling the application in both the free and paid versions. However, opting out of data collection is not explicitly mentioned in the policy.",
+        "simple_answer": "Yes, users can delete data but opting out of data collection is not specified.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their performance data.",
+          "content": "Performance-related data can be deleted from the 'Game Over Screen' in the paid version or upon uninstalling the app in both versions."
+        }
+      },
+      "analysis": "The privacy policy indicates that while users can delete their data, it does not provide a clear option for opting out of data collection entirely.",
+      "reference": "Collecting and Using Your Personal Data section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671328374,
+      "url": "https://sites.google.com/view/mindrace/accueil",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your personal information with Service Providers to monitor and analyze the use of the Service, and to contact you. Additionally, it may share or transfer your personal information in connection with business transfers.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data primarily for service provision and business transfers.",
+          "content": "The app may share your personal information with Service Providers to monitor and analyze the use of our Service, and to contact you. Additionally, it may share or transfer your personal information in connection with business transfers."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671328374,
+      "url": "https://sites.google.com/view/mindrace/accueil",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share your personal information with Service Providers to monitor and analyze the use of our Service, and to contact you.",
+        "simple_answer": "The app shares data with Service Providers.",
+        "extended_simple_answer": {
+          "comment": "This includes third-party companies or individuals employed by the Company.",
+          "content": "We may share your personal information with Service Providers to monitor and analyze the use of our Service, to contact you."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Your Personal Data"
+    }
+  }
+]

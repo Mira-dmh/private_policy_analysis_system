@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6446494726,
+      "url": "https://gogreenrewards.teamjump.co.uk/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that information is obtained when users interact with the website, such as when they contact the company about products and services or when they sign up for a program provided by their employer organization.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The policy clearly outlines how and when data is collected from users.",
+          "content": "We obtain information about you when you use our website, such as when you contact us about products and services, or when you sign up to and participate in a programme provided by us to your employer organisation."
+        }
+      },
+      "analysis": "",
+      "reference": "How do we collect information from you?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446494726,
+      "url": "https://gogreenrewards.teamjump.co.uk/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The personal information we might collect from you includes your name, email address and work postal address. It may also include information regarding what website pages are accessed and when.",
+        "simple_answer": "The app collects your name, email address, work postal address, and information about website pages accessed.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app collects personal information such as your name, email address, work postal address, and data on website page access."
+        }
+      },
+      "analysis": "",
+      "reference": "How do we collect information from you? / What type of information do we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446494726,
+      "url": "https://gogreenrewards.teamjump.co.uk/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected may be used to administer the scheme, send reminder emails, display user information on leaderboards, seek user feedback, handle competition entries, send updates about sustainability, and notify users of changes to services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines specific uses of the collected data, emphasizing the importance of communication for user engagement.",
+          "content": "The purposes include administering the scheme, sending reminder emails, displaying user information on leaderboards, seeking feedback, handling competition entries, sending updates about sustainability, and notifying users of service changes."
+        }
+      },
+      "analysis": "",
+      "reference": "How is your information used?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446494726,
+      "url": "https://gogreenrewards.teamjump.co.uk/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of email communications by using the ‘unsubscribe’ link within each email, contacting the company via email, or calling them. Additionally, users can request the erasure of their account and any information held about them by emailing, calling, or writing to the company.",
+        "simple_answer": "Yes, users can opt out of emails and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have multiple options to manage their data preferences.",
+          "content": "Users can opt out of email communications using the ‘unsubscribe’ link, or by contacting the company directly. They can also request the erasure of their account and any information held about them."
+        }
+      },
+      "analysis": "The privacy policy provides clear instructions on how users can manage their data preferences, including opting out of communications and requesting data deletion.",
+      "reference": "Section: How you can request, edit or erase the information we hold about you."
+    }
+  },
+  {
+    "meta": {
+      "id": 6446494726,
+      "url": "https://gogreenrewards.teamjump.co.uk/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties in specific circumstances. For instance, to process voucher requests, it may share order details, including name and postal address, with suppliers. Additionally, details such as name and email address may be passed to the sustainability team at the North London NHS Mental Health Partnership for direct contact regarding Go Green Rewards. However, the app states that your details will not be shared with any other parties nor used for any other reason.",
+        "simple_answer": "Yes, the app shares data with specific third parties for processing requests.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited to necessary parties for specific purposes.",
+          "content": "The app shares your order details with suppliers for voucher requests and may share your name and email with the sustainability team at the North London NHS Mental Health Partnership."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing that it is limited to necessary functions related to the service provided.",
+      "reference": "Data sharing section of the privacy policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 6446494726,
+      "url": "https://gogreenrewards.teamjump.co.uk/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with the sustainability team at the North London NHS Mental Health Partnership to contact users directly regarding Go Green Rewards. Additionally, it may share order details, including name and postal address, with suppliers to fulfill voucher requests.",
+        "simple_answer": "The app shares data with the North London NHS Mental Health Partnership and suppliers.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited to specific parties for defined purposes.",
+          "content": "Your details may be passed onto the sustainability team at the North London NHS Mental Health Partnership and shared with suppliers for voucher fulfillment."
+        }
+      },
+      "analysis": "",
+      "reference": "Data sharing section"
+    }
+  }
+]

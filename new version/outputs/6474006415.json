@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 6474006415,
+            "url": "https://www.neurojourneyapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal and non-personally identifiable information.",
+            "reference": "The 'INFORMATION YOU ARE REQUIRED TO PROVIDE' section outlines the personal information required and the 'ADDITIONAL INFORMATION' indicates the non-personally identifiable data collected. URL: https://www.neurojourneyapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b2b4f8507a84ba4099a16e29e534125eb7985f60e0facf865cf575b8f9a9d2df",
+                "score": 0.052618954,
+                "excerpt": "user’s Personal Information from our databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in acco...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "bebba1013ac5243a8e1bf1c36fcc600e686b24e366e3a7be8d83bc12763d537d",
+                "score": 0.027585281,
+                "excerpt": "not be construed as an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a re...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "e909177a909b5d79fd9246b2955c450558f12ee59a90d28c220c678f0ef03586",
+                "score": 0.017242778,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nThe Neuro Journey App is operated by the AffirmedYou LLC (“AffirmedYou”, “we” “us” or “our”). The AffirmedYou LLC operates the Neuro Journey App Website (www.neurojourneyapp.com) and Neuro Journey App (each and “app” or “site”, respectively) and several related services (all such services, “Services”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy P...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "dd1198ba4d0c33046bef20616d7ad29ee53215adf366a5022f2bddd5a1488c34",
+                "score": 0.0050800373,
+                "excerpt": "also use cookies or web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have ...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "6845805c30af074a75115b122813fec9b06ef52e5bdac4f46a5bd8ef6b8363ec",
+                "score": 0.0029579028,
+                "excerpt": "non-personally identifiable information. This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a personally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PRO...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474006415,
+            "url": "https://www.neurojourneyapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects non-personally identifiable information which includes Browser or platform type, IP address, referring site, date and time of each visitor request, Location Information, Transactional Information, Billing Information, Device Information, and Account Information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Browser or platform type",
+                        "IP address",
+                        "Referring site and time of request",
+                        "Location Information",
+                        "Transactional Information",
+                        "Billing Information",
+                        "Device Information",
+                        "Account Information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects non-personally identifiable information from users for various purposes. The data types collected encompass a wide range of information related to user interactions and characteristics.",
+            "reference": "This app collects non-personally identifiable information which will include Browser or platform type, IP address, referring site, and the date and time of each visitor request, Location Information, Transactional Information, and Billing Information, Device Information, Account Information. URL: https://www.neurojourneyapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6845805c30af074a75115b122813fec9b06ef52e5bdac4f46a5bd8ef6b8363ec",
+                "score": 0.1133831,
+                "excerpt": "non-personally identifiable information. This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a personally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PRO...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "e909177a909b5d79fd9246b2955c450558f12ee59a90d28c220c678f0ef03586",
+                "score": 0.04509957,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nThe Neuro Journey App is operated by the AffirmedYou LLC (“AffirmedYou”, “we” “us” or “our”). The AffirmedYou LLC operates the Neuro Journey App Website (www.neurojourneyapp.com) and Neuro Journey App (each and “app” or “site”, respectively) and several related services (all such services, “Services”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy P...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "dd1198ba4d0c33046bef20616d7ad29ee53215adf366a5022f2bddd5a1488c34",
+                "score": 0.035880696,
+                "excerpt": "also use cookies or web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have ...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "bebba1013ac5243a8e1bf1c36fcc600e686b24e366e3a7be8d83bc12763d537d",
+                "score": 0.012479699,
+                "excerpt": "not be construed as an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a re...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "b2b4f8507a84ba4099a16e29e534125eb7985f60e0facf865cf575b8f9a9d2df",
+                "score": 0.0062170783,
+                "excerpt": "user’s Personal Information from our databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in acco...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474006415,
+            "url": "https://www.neurojourneyapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app discloses the purposes for collecting and using data.",
+            "reference": "This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. URL: https://www.neurojourneyapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "dd1198ba4d0c33046bef20616d7ad29ee53215adf366a5022f2bddd5a1488c34",
+                "score": 0.0121471705,
+                "excerpt": "also use cookies or web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have ...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "6845805c30af074a75115b122813fec9b06ef52e5bdac4f46a5bd8ef6b8363ec",
+                "score": 0.0073743653,
+                "excerpt": "non-personally identifiable information. This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a personally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PRO...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "e909177a909b5d79fd9246b2955c450558f12ee59a90d28c220c678f0ef03586",
+                "score": 0.0055119344,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nThe Neuro Journey App is operated by the AffirmedYou LLC (“AffirmedYou”, “we” “us” or “our”). The AffirmedYou LLC operates the Neuro Journey App Website (www.neurojourneyapp.com) and Neuro Journey App (each and “app” or “site”, respectively) and several related services (all such services, “Services”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy P...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "bebba1013ac5243a8e1bf1c36fcc600e686b24e366e3a7be8d83bc12763d537d",
+                "score": 0.0038244836,
+                "excerpt": "not be construed as an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a re...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "b2b4f8507a84ba4099a16e29e534125eb7985f60e0facf865cf575b8f9a9d2df",
+                "score": 0.003649987,
+                "excerpt": "user’s Personal Information from our databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in acco...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474006415,
+            "url": "https://www.neurojourneyapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection by uninstalling the app(s) or delete data by requesting deletion of Personal Information and Account.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can stop all collection of information by uninstalling the app(s) and can request deletion of their Personal Information and Account.",
+            "reference": "You can stop all collection of information by the App(s) by uninstalling the App(s). If you want us to delete your Personal Information and your Account, please contact us at hello@neurojourneyapp.com with your request. We will start the process to delete your information in a reasonable time. URL: https://www.neurojourneyapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b2b4f8507a84ba4099a16e29e534125eb7985f60e0facf865cf575b8f9a9d2df",
+                "score": 0.5771379,
+                "excerpt": "user’s Personal Information from our databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in acco...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "dd1198ba4d0c33046bef20616d7ad29ee53215adf366a5022f2bddd5a1488c34",
+                "score": 0.13672362,
+                "excerpt": "also use cookies or web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have ...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "6ae54f3abf1f76422e4fdfa764cb24e9ba68e4b6602ba7140da884e49119c162",
+                "score": 0.09285216,
+                "excerpt": "process to delete your information in a reasonable time.\nCHANGES TO THE PRIVACY POLICY\nAlthough most changes are likely to be minor, we may change our Privacy Policy from time to time, and at our sole discretion. We encourage you to frequently check this page for any changes to its Privacy Policy. Your continued use of the Services after any change in this Privacy Policy will constitute your acceptance of such change.\nQUESTIONS, COMPLAINTS AND FEEDBACK\nShould you have any question, feedback, con...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "bebba1013ac5243a8e1bf1c36fcc600e686b24e366e3a7be8d83bc12763d537d",
+                "score": 0.04296247,
+                "excerpt": "not be construed as an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a re...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "cd445ea27166a9161a6d556a1c32801744174b11cf0c028e220505681726a78c",
+                "score": 0.0032986512,
+                "excerpt": "you demand us to send Personal Information.\niii. To our affiliates, partners, subsidiaries, joint ventures, or other companies.\niv. If we believe in good faith that such disclosure is important to:\n❖ Resolve disputes, investigate problems, or enforce our terms and conditions.\n❖ To comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Per...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474006415,
+            "url": "https://www.neurojourneyapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may disclose certain Personal Information to third-party vendors, on demand by users, to affiliates, partners, subsidiaries, joint ventures, other companies, and in good faith to resolve disputes, investigate problems, enforce terms and conditions, comply with relevant laws, or respond to requests from law enforcement or government officials.",
+            "reference": "We may also disclose certain Personal Information: i. To third party vendors who helped us to provide you the services. ii. To third parties to whom you demand us to send Personal Information. iii. To our affiliates, partners, subsidiaries, joint ventures, or other companies. URL: https://www.neurojourneyapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "dd1198ba4d0c33046bef20616d7ad29ee53215adf366a5022f2bddd5a1488c34",
+                "score": 0.48358747,
+                "excerpt": "also use cookies or web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have ...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "bebba1013ac5243a8e1bf1c36fcc600e686b24e366e3a7be8d83bc12763d537d",
+                "score": 0.2952299,
+                "excerpt": "not be construed as an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a re...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "6845805c30af074a75115b122813fec9b06ef52e5bdac4f46a5bd8ef6b8363ec",
+                "score": 0.14706452,
+                "excerpt": "non-personally identifiable information. This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a personally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PRO...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "b2b4f8507a84ba4099a16e29e534125eb7985f60e0facf865cf575b8f9a9d2df",
+                "score": 0.04232459,
+                "excerpt": "user’s Personal Information from our databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in acco...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "cd445ea27166a9161a6d556a1c32801744174b11cf0c028e220505681726a78c",
+                "score": 0.03676947,
+                "excerpt": "you demand us to send Personal Information.\niii. To our affiliates, partners, subsidiaries, joint ventures, or other companies.\niv. If we believe in good faith that such disclosure is important to:\n❖ Resolve disputes, investigate problems, or enforce our terms and conditions.\n❖ To comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Per...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474006415,
+            "url": "https://www.neurojourneyapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third-party vendors, third parties to whom users demand personal information to be sent, and affiliates, partners, subsidiaries, joint ventures, or other companies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "third party vendors",
+                        "third parties to whom users demand personal information to be sent",
+                        "affiliates, partners, subsidiaries, joint ventures, or other companies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions sharing data with specific categories of third parties, outlining the different types of entities data is shared with.",
+            "reference": "i. To third party vendors who helped us to provide you the services. ii. To third parties to whom you demand us to send Personal Information. iii. To our affiliates, partners, subsidiaries, joint ventures, or other companies. URL: https://www.neurojourneyapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "dd1198ba4d0c33046bef20616d7ad29ee53215adf366a5022f2bddd5a1488c34",
+                "score": 0.5681163,
+                "excerpt": "also use cookies or web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have ...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "6845805c30af074a75115b122813fec9b06ef52e5bdac4f46a5bd8ef6b8363ec",
+                "score": 0.29982224,
+                "excerpt": "non-personally identifiable information. This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a personally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PRO...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "cd445ea27166a9161a6d556a1c32801744174b11cf0c028e220505681726a78c",
+                "score": 0.1465752,
+                "excerpt": "you demand us to send Personal Information.\niii. To our affiliates, partners, subsidiaries, joint ventures, or other companies.\niv. If we believe in good faith that such disclosure is important to:\n❖ Resolve disputes, investigate problems, or enforce our terms and conditions.\n❖ To comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Per...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "bebba1013ac5243a8e1bf1c36fcc600e686b24e366e3a7be8d83bc12763d537d",
+                "score": 0.13195427,
+                "excerpt": "not be construed as an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a re...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            },
+            {
+                "id": "b2b4f8507a84ba4099a16e29e534125eb7985f60e0facf865cf575b8f9a9d2df",
+                "score": 0.0063635735,
+                "excerpt": "user’s Personal Information from our databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in acco...",
+                "url": "https://www.neurojourneyapp.com/privacy-policy"
+            }
+        ]
+    }
+]

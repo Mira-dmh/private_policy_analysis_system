@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6478505634,
+      "url": "https://kahunas.io/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data in its privacy policy. It specifies the types of information collected, including automatically collected data, information provided by users, special category data (health data), and data from third-party sources.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various categories of data collected, ensuring transparency about data practices.",
+          "content": "The policy details automatically collected data (like log data and device data), user-provided information (like contact details and payment information), special category data (health metrics), and data from third-party sources."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected, which is a crucial aspect of transparency and user awareness regarding data practices.",
+      "reference": "Section 4: What Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478505634,
+      "url": "https://kahunas.io/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: Automatically Collected Data (log data, device data, location data, usage behavior, cookies and analytics data), Information You Provide (contact details, profile data, payment information, support messages, uploaded files, chat messages, video content preferences), Special Category Data (health data such as cardiovascular metrics, physical activity, body composition, sleep data, nutrition, biomarkers), and Data from Third-Party Sources (data from health platforms, video platforms, fitness tracking devices, and other health applications).",
+        "simple_answer": "The app collects automatically collected data, user-provided information, special category health data, and data from third-party sources.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to enhance its services and user experience.",
+          "content": "Automatically Collected Data includes log data, device data, location data, usage behavior, and cookies. User-provided Information includes contact details, profile data, payment information, support messages, uploaded files, chat messages, and video content preferences. Special Category Data includes health metrics like cardiovascular data, physical activity, body composition, sleep data, and nutrition. Data from Third-Party Sources includes information from health platforms and fitness tracking devices."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: What Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478505634,
+      "url": "https://kahunas.io/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal data is used to provide and improve services, create and manage user accounts, process payments, respond to support inquiries, send administrative messages, deliver personalized content and recommendations, facilitate secure communication between coaches and clients, conduct analytics and platform optimization, ensure legal compliance and security, and enhance AI features and services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency about how user data is utilized.",
+          "content": "The purposes include improving services, managing accounts, processing payments, responding to inquiries, delivering personalized content, facilitating communication, conducting analytics, ensuring compliance, and enhancing AI features."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 5: How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478505634,
+      "url": "https://kahunas.io/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of AI training entirely at any time via their account settings or by contacting support@kahunas.io. Additionally, users have the right to request deletion of their data.",
+        "simple_answer": "Yes, users can opt out of AI training and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their preferences.",
+          "content": "Users can opt out of AI training at any time and have the right to request deletion of their data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the right to request deletion of their data and can opt out of AI training, ensuring user control over personal information.",
+      "reference": "Section 3: Your Data Protection Rights"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478505634,
+      "url": "https://kahunas.io/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties, specifically when collecting data from health platforms, video platforms, and fitness tracking devices and apps, but only with user permission. Users can revoke these connections at any time through their account settings.",
+        "simple_answer": "Yes, with user permission.",
+        "extended_simple_answer": {
+          "comment": "The app collects data from third-party sources only if users explicitly authorize it.",
+          "content": "With your permission, we may collect data from health platforms, video platforms, and fitness tracking devices and apps. We only access third-party data you explicitly authorize, and you can revoke these connections at any time through your account settings."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4D: Data from Third-Party Sources"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478505634,
+      "url": "https://kahunas.io/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third-party health platforms such as Apple Health, Google Fit, and Health Connect SDK (Android's unified health platform), as well as video platforms like YouTube and Vimeo for viewing preferences and workout video interactions. Additionally, it may connect with fitness tracking devices and apps to collect data on steps, workouts, heart rate, and sleep data.",
+        "simple_answer": "The app shares data with health platforms (Apple Health, Google Fit), video platforms (YouTube, Vimeo), and fitness tracking devices/apps.",
+        "extended_simple_answer": {
+          "comment": "The app only accesses third-party data that users explicitly authorize.",
+          "content": "Users can revoke these connections at any time through their account settings."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4D: Data from Third-Party Sources"
+    }
+  }
+]

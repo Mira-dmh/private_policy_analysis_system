@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1158555867,
+      "url": "https://replika.ai/replika/docs/embed/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that information is collected from users through their interactions with the Services, including account information, profile information, messages and content, interests and preferences, and automatically collected data such as device and network data and usage data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of information collected from users, both provided directly and collected automatically.",
+          "content": "The app collects account information, profile information, messages and content, interests and preferences, and automatically logs device and network data, usage data, and face and head movement data."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected from users, ensuring transparency about data collection practices.",
+      "reference": "Section 1: What information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1158555867,
+      "url": "https://replika.ai/replika/docs/embed/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1. Account information (name, email address, password, and login information from other services). 2. Profile information (birth date, pronouns, work status). 3. Messages and content (messages sent and received, photos, videos, voice and text messages). 4. Interests and preferences (conversation and communication preferences). 5. Payments, transactions, and rewards (payment information collected by a third-party processor). 6. Device and network data (operating system, device model, IP address, location). 7. Usage data (interactions with the Services). 8. Face and head movement data (collected by TrueDepth API for augmented reality experiences).",
+        "simple_answer": "The app collects account information, profile information, messages and content, interests and preferences, payment information, device and network data, usage data, and face and head movement data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of personal and usage data to enhance user experience and functionality.",
+          "content": "Types of data collected include personal account details, user-generated content, preferences, payment details, device information, and usage analytics."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: What information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1158555867,
+      "url": "https://replika.ai/replika/docs/embed/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the information collected is used for operating and administering the Services, providing core functionality, monitoring and protecting the Services, analyzing trends, and marketing and advertising the Services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency about how user information is utilized.",
+          "content": "The purposes include providing and maintaining the Services, personalizing user experience, preventing fraud, analyzing usage trends, and marketing the Services."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: How we use your information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1158555867,
+      "url": "https://replika.ai/replika/docs/embed/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and delete their data. The privacy policy states that users have the right to request deletion of their personal information and can manage their account settings to limit data collection. Additionally, users can contact Replika for assistance with data deletion.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can request deletion.",
+          "content": "The privacy policy indicates that users can manage their account settings to limit data collection and can request deletion of their personal information."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal data, allowing for opt-out and deletion requests.",
+      "reference": "Section 2: How we use your information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1158555867,
+      "url": "https://replika.ai/replika/docs/embed/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share the content of your Replika conversations for marketing or advertising purposes. Additionally, while the app may collect certain information automatically and may allow advertising partners to collect limited information about your device and interactions, these partners will never have access to your conversations with your Replika or any photos or other content you submit through the Apps.",
+        "simple_answer": "No, the app does not share conversation content with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to user privacy and does not disclose conversation content.",
+          "content": "The app does not share the content of your Replika conversations for marketing or advertising purposes. Advertising partners may collect limited information about your device and interactions, but they will not have access to your conversations."
+        }
+      },
+      "analysis": "",
+      "reference": "We will never use or disclose the content of your Replika conversations for marketing or advertising purposes. Our advertising partners may also use such technologies to collect limited information about your device and interactions with the Services, but they will never have access to your conversations with your Replika or any photos or other content you submit through the Apps."
+    }
+  },
+  {
+    "meta": {
+      "id": 1158555867,
+      "url": "https://replika.ai/replika/docs/embed/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party payment processors, specifically Stripe, to collect payment information when users make purchases through the Services. However, the app does not share the content of your Replika conversations or any photos or other content you submit through the Apps with any third parties.",
+        "simple_answer": "The app shares data with Stripe for payment processing but does not share conversation content with third parties.",
+        "extended_simple_answer": {
+          "comment": "While the app does share some data for payment processing, it maintains strict confidentiality regarding user conversations.",
+          "content": "The app shares data with Stripe for payment processing but does not share conversation content with third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while payment information is shared with Stripe, user conversations remain confidential and are not disclosed to third parties.",
+      "reference": "Section 1.A (Payments, transactions, and rewards) and Section 1.B (Information we collect automatically)"
+    }
+  }
+]

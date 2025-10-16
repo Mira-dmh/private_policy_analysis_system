@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1373639965,
+      "url": "https://www.monsenso.com/solution-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal data. It states that the Monsenso Solution is designed to support the treatment of individuals with a mental disorder by collecting health-related data and sharing it with their clinician. The privacy policy outlines how personal data is processed and emphasizes the importance of data minimization principles.",
+        "simple_answer": "Yes, the app declares the collection of personal data.",
+        "extended_simple_answer": {
+          "comment": "The policy clearly states the purpose of data collection and the types of data processed.",
+          "content": "The Monsenso Solution is designed to collect and share personal data of its users to facilitate treatment, and it is stated that Monsenso only collects and stores personal data without making analyses of it."
+        }
+      },
+      "analysis": "The privacy policy explicitly mentions the collection of personal data as part of the app's functionality to support mental health treatment.",
+      "reference": "Introduction"
+    }
+  },
+  {
+    "meta": {
+      "id": 1373639965,
+      "url": "https://www.monsenso.com/solution-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "Monsenso collects different types of Personal Data, including Identity Data, Technical Data, and Communication Data. The specific types of data collected may vary depending on the user role (Individual, Carer, or Care Provider).",
+        "simple_answer": "Monsenso collects Identity Data, Technical Data, and Communication Data.",
+        "extended_simple_answer": {
+          "comment": "The types of data collected depend on the user's role within the app.",
+          "content": "Identity Data, Technical Data, and Communication Data are collected when users interact with the Monsenso Solution."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: THE PERSONAL DATA THAT MONSENSO COLLECTS, THE PURPOSE AND LEGAL BASIS FOR PROCESSING"
+    }
+  },
+  {
+    "meta": {
+      "id": 1373639965,
+      "url": "https://www.monsenso.com/solution-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The Monsenso Solution is designed to support the treatment of individuals with a mental disorder by collecting health-related data and sharing it with their clinician. The policy states that personal data is processed to facilitate the Monsenso Solution, and it emphasizes the importance of data minimization principles.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The purpose of data collection is clearly outlined in the privacy policy.",
+          "content": "The Monsenso Solution collects personal data to support the treatment of individuals with mental disorders and to share this data with clinicians."
+        }
+      },
+      "analysis": "The privacy policy explicitly states the purpose of data collection, ensuring transparency for users regarding how their data will be used.",
+      "reference": "Introduction"
+    }
+  },
+  {
+    "meta": {
+      "id": 1373639965,
+      "url": "https://www.monsenso.com/solution-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and delete their data. In the Individual Scenario, users have the option to remove connections to other users, which effectively stops sharing their personal data with those users. Additionally, users can choose not to share personal data with third parties, and they are responsible for the personal data they decide to share.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal data sharing.",
+          "content": "In the Individual Scenario, users can remove connections to other users, stopping data sharing. They also decide what personal data to share with third parties."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal data, allowing users to opt out of sharing and manage their data effectively.",
+      "reference": "Section: 'INDIVIDUAL SCENARIO'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1373639965,
+      "url": "https://www.monsenso.com/solution-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Monsenso does not share personal data with third parties unless instructed by the user. In the Individual Scenario, users can decide who to connect with and share their personal data with. In the Clinic and Clinical Study Scenarios, the Clinic or Sponsor acts as the data controller and determines the purposes of data processing, while Monsenso acts as a data processor and follows their instructions.",
+        "simple_answer": "No, the app does not share data with third parties unless instructed by the user.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data sharing.",
+          "content": "In the Individual Scenario, users can choose who to share their personal data with. In the Clinic and Clinical Study Scenarios, data sharing is determined by the Clinic or Sponsor."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal data sharing, ensuring that data is only shared according to user instructions or as required by the data controller in specific scenarios.",
+      "reference": "Section: 'INDIVIDUAL SCENARIO' and 'CLINIC SCENARIO'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1373639965,
+      "url": "https://www.monsenso.com/solution-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with the Clinic, Sponsor of a clinical study, and other users (Carers, Care Providers, and Individuals) as instructed by the user. In the Clinic Scenario and Clinical Study Scenario, the Clinic and Sponsor act as data controllers, while Monsenso acts as a data processor. In the Individual Scenario, users can choose to share their personal data with other users based on their preferences.",
+        "simple_answer": "The app shares data with Clinics, Sponsors of clinical studies, and other users as instructed by the user.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is dependent on the scenario and user instructions.",
+          "content": "In the Clinic Scenario, the Clinic determines data processing. In the Clinical Study Scenario, the Sponsor determines data processing. In the Individual Scenario, users can share data with other users they connect with."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: 'CLINIC SCENARIO', 'CLINICAL STUDY SCENARIO', 'INDIVIDUAL SCENARIO'"
+    }
+  }
+]

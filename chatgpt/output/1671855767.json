@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1671855767,
+      "url": "https://therachat.freshdesk.com/support/solutions/articles/151000117681-therachat-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when users use the Therachat Platform, update their account details, provide billing information, or otherwise provide information, they may be asked for information that could identify them, referred to as 'Personal Information'.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of personal information collected.",
+          "content": "The app collects personal information such as name, email address, telephone number, current address, payment information, and healthcare-related information."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection and Use of Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671855767,
+      "url": "https://therachat.freshdesk.com/support/solutions/articles/151000117681-therachat-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Information that may include your name, email address, telephone number, current address, payment information, healthcare related information, and other similar information.",
+        "simple_answer": "The app collects Personal Information such as name, email, phone number, address, payment info, and healthcare info.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The types of data collected include: name, email address, telephone number, current address, payment information, healthcare related information, and other similar information."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection and Use of Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671855767,
+      "url": "https://therachat.freshdesk.com/support/solutions/articles/151000117681-therachat-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide the Therachat service, maintain and improve the platform, develop new services and features, and personalize the user experience.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for collecting personal information.",
+          "content": "The purposes include providing the Therachat service, maintaining and improving it, developing new services and features, and personalizing the user experience."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection and Use of Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671855767,
+      "url": "https://therachat.freshdesk.com/support/solutions/articles/151000117681-therachat-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to withdraw their consent at any time, which effectively allows them to opt out of data collection. However, the policy does not explicitly mention a process for deleting data.",
+        "simple_answer": "Yes, users can opt out by withdrawing consent.",
+        "extended_simple_answer": {
+          "comment": "While users can withdraw consent, the policy does not detail a specific method for data deletion.",
+          "content": "Users can opt out of data collection by withdrawing their consent at any time, but the privacy policy does not specify how users can delete their data."
+        }
+      },
+      "analysis": "The privacy policy indicates that users can withdraw consent for data collection, which implies an opt-out option. However, it lacks clarity on the deletion of data.",
+      "reference": "Legal Basis for collecting your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671855767,
+      "url": "https://therachat.freshdesk.com/support/solutions/articles/151000117681-therachat-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. It mentions that personal information will not be used or disclosed other than as permitted or required by the agreement or as required by law. However, it does imply that information may be shared in compliance with legal obligations or to protect rights and safety.",
+        "simple_answer": "No, the app does not explicitly share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the protection of personal information and limits its use to what is necessary for providing services.",
+          "content": "The app will not use or further disclose any personal information other than as permitted or required by this Agreement or as required by Law."
+        }
+      },
+      "analysis": "The privacy policy focuses on the protection of personal information and does not provide details on sharing data with third parties, suggesting a cautious approach to data privacy.",
+      "reference": "Disclosure of Protected Health Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1671855767,
+      "url": "https://therachat.freshdesk.com/support/solutions/articles/151000117681-therachat-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention specific third parties with whom the app shares data. It states that the app may disclose personal information as required by law or as permitted by the agreement, but does not provide a detailed list of third parties.",
+        "simple_answer": "The app does not specify third parties with whom it shares data.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared as required by law or permitted by the agreement, but lacks specific details on third parties.",
+          "content": "The privacy policy does not provide a detailed list of third parties with whom data may be shared."
+        }
+      },
+      "analysis": "The lack of specific third-party disclosures in the privacy policy may raise concerns about transparency regarding data sharing practices.",
+      "reference": "The section discussing the disclosure of personal information and the legal basis for such disclosures."
+    }
+  }
+]

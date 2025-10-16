@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6451497403,
+      "url": "https://soarhealthapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects personal information that can be used to identify users, including information voluntarily provided by users and information automatically collected from devices accessing the service.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app outlines the types of data collected and the methods of collection.",
+          "content": "The privacy policy states that personal information is collected when users register for an account, use the service, or contact the app. It also mentions automatically collected information such as IP address and device type."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the reasons for collection, ensuring transparency with users.",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6451497403,
+      "url": "https://soarhealthapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects two types of data: 'voluntarily provided' information and 'automatically collected' information. Voluntarily provided information includes personal details such as name, email address, and any identifiable personal information provided through a school or organization. Automatically collected information includes data sent by the user's device, such as IP address, device type and version, activity within the Service, time and date, and other usage details.",
+        "simple_answer": "The app collects voluntarily provided information (like name and email) and automatically collected information (like IP address and device details).",
+        "extended_simple_answer": {
+          "comment": "The app gathers both types of data to enhance user experience and provide its services.",
+          "content": "Voluntarily provided information includes personal details like name and email, while automatically collected information includes device-related data such as IP address and usage activity."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6451497403,
+      "url": "https://soarhealthapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is collected to provide users with the core features and services of the platform, to enable access and use of the service, and to communicate information related to user content that indicates distress or harmful behavior to the user's affiliated group or organization.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that it collects personal information for legitimate reasons and outlines the specific purposes for which the data is used.",
+          "content": "The purposes include providing the service, enabling access, and communicating concerning user distress or harmful behavior."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection and Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6451497403,
+      "url": "https://soarhealthapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not providing personal information when using the Service. Additionally, users can delete their personal information by requesting its removal, especially if it is no longer required for the purposes for which it was collected.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal information and can request deletion.",
+          "content": "Users can opt out of data collection by not providing personal information and can request deletion of their data when it is no longer needed."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have the ability to manage their personal information, including opting out of data collection and requesting deletion of their data.",
+      "reference": "Collection and Use of Information, How Long We Keep Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6451497403,
+      "url": "https://soarhealthapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may disclose personal information to third parties, including a parent, subsidiary, or affiliate of the company, and third-party service providers for the purpose of enabling them to provide their services.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has provisions for sharing data with certain third parties.",
+          "content": "The app may disclose personal information to a parent, subsidiary, or affiliate of the company, and third-party service providers."
+        }
+      },
+      "analysis": "",
+      "reference": "Disclosure of Personal Information to Third Parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 6451497403,
+      "url": "https://soarhealthapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose personal information to a parent, subsidiary, or affiliate of the company, as well as to third-party service providers for the purpose of enabling them to provide their services.",
+        "simple_answer": "The app shares data with parent companies, subsidiaries, affiliates, and third-party service providers.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app shares data with third-party service providers to enable them to provide their services."
+        }
+      },
+      "analysis": "",
+      "reference": "Disclosure of Personal Information to Third Parties"
+    }
+  }
+]

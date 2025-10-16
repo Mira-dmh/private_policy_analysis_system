@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 6443794589,
+            "url": "https://www.merago.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they collect information in multiple ways, including directly from users, passively from browsers or devices, and from third parties.",
+            "reference": "We collect information in multiple ways, including when you provide information directly to us; when we passively collect information from you, such as from your browser or device; and from third parties. URL: https://www.merago.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "8d8670fd8b6bd7ab2d41ee9da1daf0fc2ce6fd590f60c2912c041d3f1ed079ea",
+                "score": 0.02145073,
+                "excerpt": "Privacy Policy\nLast Updated: May 10, 2025\nThis Privacy Policy (“Policy”) explains the information collection, use, and sharing practices of MERAGO Inc. and its subsidiaries (referred to as “we,” “us,” and “our” in this policy).\nUnless otherwise stated, this Policy describes and governs the information collection, use, and sharing practices of MERAGO Inc with respect to your use of our website (www.merago.com) or our mobile applications and the services (“Services”) we provide.\nBefore you use or ...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "bda2c07dad3c298658b2267b49ad1a8ef7607e113dae6936f8c4d1126ee42c8e",
+                "score": 0.007489625,
+                "excerpt": "to third parties, including advertisers, promotional partners, and/or others.\n-\nLegal Basis for Processing Personal Data. The laws in some jurisdictions require companies to tell you about the legal grounds they rely on to use or disclose information that can be directly linked to or used to identify you. To the extent those laws apply, our legal grounds for processing such information are as follows.\n-\nTo honor our contractual commitments to you.\n-\nMuch of our processing of information is to me...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "033d21cc804a49acd744f44cebf56b4ccf83c73a484f5283e5f6a8da42cd5de6",
+                "score": 0.0055549247,
+                "excerpt": "users to understand.\n-\nData practices should meet the reasonable expectations of users.\nInformation We Collect\nWe collect information in multiple ways, including when you provide information directly to us; when we passively collect information from you, such as from your browser or device; and from third parties.\nInformation You Provide Directly to Us\nWe will collect any information you provide to us. We may collect information from you in a variety of ways, such as when you: (a) create an onli...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "6139bcad126b1f37f3c2618d569fce947f28fc96b5b411603f084493e441950f",
+                "score": 0.0054059,
+                "excerpt": "its service providers are robust, secure, and ensure the highest levels of data security. This includes using vendors, technologies, processes and data practices that have ISO/IEC 27001, ISO/IEC 27017, ISO/IEC 27018, COPPA, GDPR, and PCI/DSS payment industry compliance best practices.\nAll data access is limited only to medical personnel authorized to provide care and healthcare related support to clients / patients / users.\nFurthermore, the company ensures that its data management and security p...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "79c629ff81685c1422302cfd4ef6d9f58c66aa62b06fe8ab6d6ba867a1faf327",
+                "score": 0.0053849383,
+                "excerpt": "investigate potential violations thereof.\nPlease note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties and use such combined information in accordance with this Privacy Policy.\nWe may aggregate and/or de-identify information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including witho...",
+                "url": "https://www.merago.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443794589,
+            "url": "https://www.merago.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects a variety of data types including name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Contact information",
+                        "Demographic information",
+                        "Information about an individual’s employer",
+                        "Information to verify identity or trustworthiness",
+                        "Information for other fraud or safety protection purposes"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that the app collects various types of data from third parties which include personal information, demographic data, employer information, and data for safety purposes. This data is collected for a range of purposes mentioned in the privacy policy.",
+            "reference": "The app collects a variety of data types including name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes. URL: https://www.merago.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3bd128e810491cc73bc788645963a935abb384946bb0dd694314bdb1f9881275",
+                "score": 0.28907055,
+                "excerpt": "platforms, and marketing and market research firms. Depending on the source, this information collected from third parties could include name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes.\nHow We Use Your Information\nWe may use the information we collect from and about you to:\n-\nFulfil the purposes for which you provided it;\n-\nProvide and i...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "033d21cc804a49acd744f44cebf56b4ccf83c73a484f5283e5f6a8da42cd5de6",
+                "score": 0.14342749,
+                "excerpt": "users to understand.\n-\nData practices should meet the reasonable expectations of users.\nInformation We Collect\nWe collect information in multiple ways, including when you provide information directly to us; when we passively collect information from you, such as from your browser or device; and from third parties.\nInformation You Provide Directly to Us\nWe will collect any information you provide to us. We may collect information from you in a variety of ways, such as when you: (a) create an onli...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "fb84ee9d60f8907051dba40dfe18cf72b4a700ecae17e2d90762327dc01cbbb3",
+                "score": 0.12210387,
+                "excerpt": "devices or tablets) you use to access the Services. As described further below, we may collect and analyze:\n-\ndevice information such as IP addresses, location information (by country and city), unique device identifiers, IMEI and TCP/IP address, browser types, browser language, operating system, mobile device carrier information, and\n-\ninformation related to the ways in which you interact with the Services, such as referring and exit web pages and URLs, platform type, the number of clicks, doma...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "da1f087781bf1b5e53e4fb18051f22292326ddf96c5eddf83301892155cff523",
+                "score": 0.058453243,
+                "excerpt": "and determine the number of unique viewers of them. If you receive email from us (such as the Merago newsletter, campaign updates, or other ongoing email communications from Merago), we may use certain analytics tools, such as clear GIFs, to capture data such as whether you open our message, click on any links or banners our email contains, or otherwise interact with what we send. This data allows us to gauge the effectiveness of our communications and marketing campaigns. As we adopt additional...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "79c629ff81685c1422302cfd4ef6d9f58c66aa62b06fe8ab6d6ba867a1faf327",
+                "score": 0.013795364,
+                "excerpt": "investigate potential violations thereof.\nPlease note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties and use such combined information in accordance with this Privacy Policy.\nWe may aggregate and/or de-identify information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including witho...",
+                "url": "https://www.merago.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443794589,
+            "url": "https://www.merago.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purposes for which the app collects and uses data, including fulfilling user-provided purposes, providing and improving services, fundraising, sending notifications, processing inquiries, conducting analytics, complying with the law, protecting safety and enforcing terms of use.",
+            "reference": "We may use the information we collect from and about you to: Fulfil the purposes for which you provided it; Provide and improve the Services... Comply with the law and protect the safety, rights, property, or security of Merago Inc. Enforce our Terms of Use... URL: https://www.merago.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3bd128e810491cc73bc788645963a935abb384946bb0dd694314bdb1f9881275",
+                "score": 0.107250325,
+                "excerpt": "platforms, and marketing and market research firms. Depending on the source, this information collected from third parties could include name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes.\nHow We Use Your Information\nWe may use the information we collect from and about you to:\n-\nFulfil the purposes for which you provided it;\n-\nProvide and i...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "bda2c07dad3c298658b2267b49ad1a8ef7607e113dae6936f8c4d1126ee42c8e",
+                "score": 0.03527755,
+                "excerpt": "to third parties, including advertisers, promotional partners, and/or others.\n-\nLegal Basis for Processing Personal Data. The laws in some jurisdictions require companies to tell you about the legal grounds they rely on to use or disclose information that can be directly linked to or used to identify you. To the extent those laws apply, our legal grounds for processing such information are as follows.\n-\nTo honor our contractual commitments to you.\n-\nMuch of our processing of information is to me...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "3a184cfb3a0340b8762a9e0140f0c9a5968ff20e9c29877b1a0c18bc6039bbd5",
+                "score": 0.03296124,
+                "excerpt": "engage in any conversation that violates the rights of others, or which is threatening, abusive, defamatory, invasive of privacy, vulgar, obscene, profane, or otherwise objectionable. Merago and its service providers, partners, have the right to terminate the consultation session and relationship with such clients completely at their discretion.\nData Retention\nWe will retain the information we collect for as long as necessary to fulfil the purposes set forth in this Privacy Policy or as long as ...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "8d8670fd8b6bd7ab2d41ee9da1daf0fc2ce6fd590f60c2912c041d3f1ed079ea",
+                "score": 0.029816542,
+                "excerpt": "Privacy Policy\nLast Updated: May 10, 2025\nThis Privacy Policy (“Policy”) explains the information collection, use, and sharing practices of MERAGO Inc. and its subsidiaries (referred to as “we,” “us,” and “our” in this policy).\nUnless otherwise stated, this Policy describes and governs the information collection, use, and sharing practices of MERAGO Inc with respect to your use of our website (www.merago.com) or our mobile applications and the services (“Services”) we provide.\nBefore you use or ...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "79c629ff81685c1422302cfd4ef6d9f58c66aa62b06fe8ab6d6ba867a1faf327",
+                "score": 0.026455775,
+                "excerpt": "investigate potential violations thereof.\nPlease note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties and use such combined information in accordance with this Privacy Policy.\nWe may aggregate and/or de-identify information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including witho...",
+                "url": "https://www.merago.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443794589,
+            "url": "https://www.merago.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can opt out of data collection through methods such as unsubscribing from marketing emails or adjusting account preferences.",
+            "reference": "You may unsubscribe from our marketing emails at any time by clicking on the 'unsubscribe' link at the bottom of each newsletter or by emailing unsubscribe@merago.com with your request. If you have registered for an account with us through our services, you can update your account information or adjust your email communications preferences by logging into your account and updating your settings. URL: https://www.merago.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9787bd282e9162d45baa1d0938eba0751a4b46f794d906ca9dc3d142b8b51e35",
+                "score": 0.47726482,
+                "excerpt": "you may install the official Google Analytics opt-out browser add-on.\n-\nYour Choices and Data Subject Rights\nYou have various rights with respect to the collection and use of your information through the Services. Those choices are as follows:\n-\nEmail Unsubscribe. You may unsubscribe from our marketing emails at any time by clicking on the “unsubscribe” link at the bottom of each newsletter or by emailing unsubscribe@merago.com with your request.\n-\nAccount Preferences. If you have registered for...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "d41c48ab59897c0c67225396d7f8ab4c15171d8a8023bceb446643f624973263",
+                "score": 0.31848517,
+                "excerpt": "our users and business partners.We may need to use and disclose information in certain ways to comply with our legal obligations.\n-\n-\nConsent.\n-\nWhere required by law, and in some other cases where legally permissible, we handle information based on consent. Where we handle your information on the basis of consent, you have the right to withdraw your consent in accordance with applicable law.\n-\n-\nOnline Analytics\n-\nWe may use third-party web analytics services (such as Google Analytics) on our S...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "9823764f30e962923fe49d0b9ac7f450c61cc6cbb2b3d149fd4a89b09b1490f3",
+                "score": 0.0493136,
+                "excerpt": "without explicit authorization to do so by a parent or a legal guardian. This approval is required for every session of use.\nWe may collect and store personal information about children under the age of 18 years only as authorized and provided by a parent or legal guardian. All such data will be accessible to legal guardians or individuals and organizations authorized by such guardians. If we become aware that we have collected personal information from children under the age of 18 years, and no...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "3a184cfb3a0340b8762a9e0140f0c9a5968ff20e9c29877b1a0c18bc6039bbd5",
+                "score": 0.035078675,
+                "excerpt": "engage in any conversation that violates the rights of others, or which is threatening, abusive, defamatory, invasive of privacy, vulgar, obscene, profane, or otherwise objectionable. Merago and its service providers, partners, have the right to terminate the consultation session and relationship with such clients completely at their discretion.\nData Retention\nWe will retain the information we collect for as long as necessary to fulfil the purposes set forth in this Privacy Policy or as long as ...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "a7e70e605f4c9682a9003a76ec3f03ea633c0377ed2fa9544a00176734075c53",
+                "score": 0.01665704,
+                "excerpt": "the content or privacy practices of such third-party websites or services. The collection, use and disclosure of your information will be subject to the privacy policies of the third-party websites or services, and not this Privacy Policy. We encourage you to read the privacy statements of each and every site you visit.\nChanges to this Privacy Policy\nWe will continue to evaluate this Privacy Policy as we update and expand our Services, and we may make changes to the Privacy Policy accordingly. W...",
+                "url": "https://www.merago.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443794589,
+            "url": "https://www.merago.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may disclose and/or share user information with third parties, including advertisers, promotional partners, and others, thus indicating data sharing with third parties.",
+            "reference": "We may disclose and/or share your information under the following circumstances ... We may disclose de-identified and/or aggregated data for any purpose to third parties, including advertisers, promotional partners, and/or others. URL: https://www.merago.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "79c629ff81685c1422302cfd4ef6d9f58c66aa62b06fe8ab6d6ba867a1faf327",
+                "score": 0.6635599,
+                "excerpt": "investigate potential violations thereof.\nPlease note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties and use such combined information in accordance with this Privacy Policy.\nWe may aggregate and/or de-identify information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including witho...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "3bd128e810491cc73bc788645963a935abb384946bb0dd694314bdb1f9881275",
+                "score": 0.65035623,
+                "excerpt": "platforms, and marketing and market research firms. Depending on the source, this information collected from third parties could include name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes.\nHow We Use Your Information\nWe may use the information we collect from and about you to:\n-\nFulfil the purposes for which you provided it;\n-\nProvide and i...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "bda2c07dad3c298658b2267b49ad1a8ef7607e113dae6936f8c4d1126ee42c8e",
+                "score": 0.5671576,
+                "excerpt": "to third parties, including advertisers, promotional partners, and/or others.\n-\nLegal Basis for Processing Personal Data. The laws in some jurisdictions require companies to tell you about the legal grounds they rely on to use or disclose information that can be directly linked to or used to identify you. To the extent those laws apply, our legal grounds for processing such information are as follows.\n-\nTo honor our contractual commitments to you.\n-\nMuch of our processing of information is to me...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "4eac49d3b7b0af5fc0643ab82fb4aeac7ea7635c36673768470b162c573de780",
+                "score": 0.4864154,
+                "excerpt": "notes and records of the mental health consultations will be maintained by Merago Inc. and its providers and stored in a secure location. These session notes can be made available to the client, in the standard session record format, upon their explicit request. Any data shared by the client or his/her relatives, other contacts to any third person or through social media is the sole responsibility of the client. Merago is also not responsible if the Client uses a non-secure line during teleconsu...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "e22a2574aea4d02a44210e842c10d1c9b207dc0f7d0614657456266f9c42af32",
+                "score": 0.21766995,
+                "excerpt": "Terms of Use and this Privacy Policy, or other contracts with you, including investigation of potential violations thereof;\n-\nenforce our Charter including the Code of Conduct and policies contained and incorporated therein,\n-\nto respond to your requests for customer service; and/or\n-\nto protect the rights, property, or personal safety of Merago Inc, our agents, associates, subsidiaries and affiliates, our users, and the public. This includes exchanging information with other companies and organ...",
+                "url": "https://www.merago.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443794589,
+            "url": "https://www.merago.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties, including service providers, legal compliance partners, affiliated companies, and others such as advertisers and promotional partners.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service Providers",
+                        "Legal Compliance and Disclosure partners",
+                        "Affiliated Companies",
+                        "Advertisers and Promotional Partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy indicates that the app shares data with various categories of third parties for different purposes, which are explicitly mentioned throughout the document.",
+            "reference": "Service Providers. We may disclose your information with third parties who perform services on our behalf... Legal Compliance and Disclosure of Information. We may disclose your information... Affiliated Companies. We may disclose your information with current or future affiliated companies... Aggregate/De-identified Information. We may disclose de-identified and/or aggregated data for any purpose... URL: https://www.merago.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bda2c07dad3c298658b2267b49ad1a8ef7607e113dae6936f8c4d1126ee42c8e",
+                "score": 0.882022,
+                "excerpt": "to third parties, including advertisers, promotional partners, and/or others.\n-\nLegal Basis for Processing Personal Data. The laws in some jurisdictions require companies to tell you about the legal grounds they rely on to use or disclose information that can be directly linked to or used to identify you. To the extent those laws apply, our legal grounds for processing such information are as follows.\n-\nTo honor our contractual commitments to you.\n-\nMuch of our processing of information is to me...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "79c629ff81685c1422302cfd4ef6d9f58c66aa62b06fe8ab6d6ba867a1faf327",
+                "score": 0.7884203,
+                "excerpt": "investigate potential violations thereof.\nPlease note that we may combine information that we collect from you and about you (including automatically collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties and use such combined information in accordance with this Privacy Policy.\nWe may aggregate and/or de-identify information collected through the Services. We may use de-identified and/or aggregated data for any purpose, including witho...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "3bd128e810491cc73bc788645963a935abb384946bb0dd694314bdb1f9881275",
+                "score": 0.68246794,
+                "excerpt": "platforms, and marketing and market research firms. Depending on the source, this information collected from third parties could include name, contact information, demographic information, information about an individual’s employer, information to verify identity or trustworthiness, and information for other fraud or safety protection purposes.\nHow We Use Your Information\nWe may use the information we collect from and about you to:\n-\nFulfil the purposes for which you provided it;\n-\nProvide and i...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "e22a2574aea4d02a44210e842c10d1c9b207dc0f7d0614657456266f9c42af32",
+                "score": 0.64567864,
+                "excerpt": "Terms of Use and this Privacy Policy, or other contracts with you, including investigation of potential violations thereof;\n-\nenforce our Charter including the Code of Conduct and policies contained and incorporated therein,\n-\nto respond to your requests for customer service; and/or\n-\nto protect the rights, property, or personal safety of Merago Inc, our agents, associates, subsidiaries and affiliates, our users, and the public. This includes exchanging information with other companies and organ...",
+                "url": "https://www.merago.com/privacy-policy"
+            },
+            {
+                "id": "da1f087781bf1b5e53e4fb18051f22292326ddf96c5eddf83301892155cff523",
+                "score": 0.5816002,
+                "excerpt": "and determine the number of unique viewers of them. If you receive email from us (such as the Merago newsletter, campaign updates, or other ongoing email communications from Merago), we may use certain analytics tools, such as clear GIFs, to capture data such as whether you open our message, click on any links or banners our email contains, or otherwise interact with what we send. This data allows us to gauge the effectiveness of our communications and marketing campaigns. As we adopt additional...",
+                "url": "https://www.merago.com/privacy-policy"
+            }
+        ]
+    }
+]

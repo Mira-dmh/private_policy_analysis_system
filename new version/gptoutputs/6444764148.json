@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6444764148,
+      "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal data is collected directly from users when they voluntarily provide their personal details during registration. The app collects both non-personal information and personal information such as IP address, email address, username, password, and approximate location.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the types of data it collects and the purposes for which it is used.",
+          "content": "The Privacy Policy states that personal data is collected directly from users and outlines the specific types of information collected, including email address, username, and optional information like a photo."
+        }
+      },
+      "analysis": "The app's privacy policy clearly outlines the data collection practices, ensuring users are informed about what personal data is collected and how it will be used.",
+      "reference": "Section 3: Where do we collect personal data about you from? and Section 4: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444764148,
+      "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects two distinct kinds of information: non-personal information and personal information. Non-personal information includes data such as the pages accessed, which helps determine usage statistics. Personal information includes details such as IP address, email address, username, password, approximate location, and any optional information provided by the user, such as text or photographs.",
+        "simple_answer": "The app collects non-personal information and personal information.",
+        "extended_simple_answer": {
+          "comment": "The app collects data to improve its services and facilitate user interactions.",
+          "content": "Non-personal information includes usage statistics, while personal information includes IP address, email, username, password, location, and optional user-provided content."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444764148,
+      "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the purpose of data collection and use is to provide mental health support, resources, and connection to NSW & ACT Emergency Service members.",
+        "simple_answer": "Yes, the app states its purpose for data collection.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The purpose of this Service is to provide mental health support, resources, and connection to NSW & ACT Emergency Service members."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What is the Purpose of this Service?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444764148,
+      "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection. However, users can delete their account, which would result in the deletion of their personal data. Users are encouraged to contact the Data Controller for any specific requests regarding their data.",
+        "simple_answer": "Users cannot opt out of data collection but can delete their account.",
+        "extended_simple_answer": {
+          "comment": "While opting out of data collection is not mentioned, account deletion is a way to remove personal data.",
+          "content": "The policy indicates that users can delete their account, which would lead to the deletion of their personal data. For specific requests, users should contact the Data Controller."
+        }
+      },
+      "analysis": "The privacy policy lacks a clear opt-out mechanism for data collection, focusing instead on account deletion as a means to remove personal data.",
+      "reference": "Section 4: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444764148,
+      "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties unless the user has explicitly provided consent for such sharing. Information provided by users cannot be distributed to any other party that has not been approved by Emerge & See Ltd.",
+        "simple_answer": "No, the app does not share data with third parties without user consent.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes user consent and approval before sharing any information.",
+          "content": "Information available on this App cannot be distributed to any other party that has not been approved by Emerge & See Ltd, or that has agreed to the Terms & Conditions and Privacy Policy."
+        }
+      },
+      "analysis": "",
+      "reference": "Information available on this App cannot be distributed to any other party that has not been approved by Emerge & See Ltd, or that has agreed to the Terms & Conditions and Privacy Policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 6444764148,
+      "url": "https://emergeandsee.disciplemedia.com/onboarding_documents",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any third parties with whom the app shares data. It states that information provided by users cannot be distributed to any other party that has not been approved by Emerge & See Ltd.",
+        "simple_answer": "The app does not share data with any specified third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes user privacy and restricts data sharing.",
+          "content": "Information provided by users is not to be distributed to any other party that has not been approved by Emerge & See Ltd."
+        }
+      },
+      "analysis": "The privacy policy focuses on protecting user data and does not mention any third-party data sharing.",
+      "reference": "Section: Information provided by users is not false or misleading"
+    }
+  }
+]

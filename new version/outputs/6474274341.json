@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 6474274341,
+            "url": "https://www.staraxy.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects and processes personal information as described in the policy.",
+            "reference": "This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application. URL: https://www.staraxy.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "65ba394614b71d84101c39a12780cb8e15808b477dffa537eb66f1ca3fa87f90",
+                "score": 0.38081652,
+                "excerpt": "Updated February 20, 2024\nStaraxy Technologies G.K. (“Staraxy Technologies”, “we”, “our”, or “us”) is dedicated to protecting the privacy of our users (“users”, or “you”). This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application (“Staraxy App”, “Breathie App”, “the App”), including all its features (the “Services”). The Personal Informa...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "66e8d4c452644306492da9352803c217d3058d40eb6bc09394ba6150fa21b5a3",
+                "score": 0.18097353,
+                "excerpt": "third-party service providers used by the app\nAnalytics Information\nWe may also use third-party analytics tools to collect non-personally identifiable information in order to help us measure traffic and usage for the App.\nCookies and Similar Technologies\nThe App does not use cookies, pixels, or other similar technologies directly. However, the App may allow third-party companies to use these technologies to collect and use non-personally identifiable information in order to provide advertisement...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "45833b70c5ed52dd4878b70be1d34e1ab8559cfa0307ace62126c3378be17998",
+                "score": 0.09318171,
+                "excerpt": "your data for periods required for us to continue to provide you with our Service, subject to applicable laws and regulations. You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract.\nChildren’s Privacy\nWe do not knowingly collect or request personal information from children und...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "e8354e8ab14adfefcfec9d73226581b1217169ba4d42a730c2d2cac38e8a09a1",
+                "score": 0.07463504,
+                "excerpt": "development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business.\nMarketing and Advertising\nWe, our service providers...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "92f3e070a0a9cb2b06d14767647d9e3f93453f203367a99a4654bea8a780529f",
+                "score": 0.002387409,
+                "excerpt": "which Staraxy Technologies G.K., its affiliates or service providers maintain facilities. We will take steps to ensure that your personal information is protected.\n4. CALIFORNIA CONSUMER PRIVACY RIGHTS\nThe California Consumer Privacy Act of 2018 (CCPA) applies only to California residents. We may collect the following categories of personal information:\nYour California Privacy Rights\nEffective January 1, 2020, the California Consumer Privacy Act gives California residents the rights below. Howev...",
+                "url": "https://www.staraxy.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474274341,
+            "url": "https://www.staraxy.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information for research and development purposes, marketing and advertising, compliance with laws, and sharing with third-party service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal information for research and development",
+                        "Personal information for marketing and advertising",
+                        "Personal information for compliance with laws",
+                        "Personal information shared with third-party service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that the app collects personal information for various reasons, including research and development, marketing, compliance, and sharing with third-party service providers.",
+            "reference": "We use your personal information for the following purposes: Research and Development, Marketing and Advertising, Compliance. URL: https://www.staraxy.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "66e8d4c452644306492da9352803c217d3058d40eb6bc09394ba6150fa21b5a3",
+                "score": 0.56166565,
+                "excerpt": "third-party service providers used by the app\nAnalytics Information\nWe may also use third-party analytics tools to collect non-personally identifiable information in order to help us measure traffic and usage for the App.\nCookies and Similar Technologies\nThe App does not use cookies, pixels, or other similar technologies directly. However, the App may allow third-party companies to use these technologies to collect and use non-personally identifiable information in order to provide advertisement...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "e8354e8ab14adfefcfec9d73226581b1217169ba4d42a730c2d2cac38e8a09a1",
+                "score": 0.16344544,
+                "excerpt": "development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business.\nMarketing and Advertising\nWe, our service providers...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "45833b70c5ed52dd4878b70be1d34e1ab8559cfa0307ace62126c3378be17998",
+                "score": 0.091544405,
+                "excerpt": "your data for periods required for us to continue to provide you with our Service, subject to applicable laws and regulations. You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract.\nChildren’s Privacy\nWe do not knowingly collect or request personal information from children und...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "65ba394614b71d84101c39a12780cb8e15808b477dffa537eb66f1ca3fa87f90",
+                "score": 0.06644793,
+                "excerpt": "Updated February 20, 2024\nStaraxy Technologies G.K. (“Staraxy Technologies”, “we”, “our”, or “us”) is dedicated to protecting the privacy of our users (“users”, or “you”). This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application (“Staraxy App”, “Breathie App”, “the App”), including all its features (the “Services”). The Personal Informa...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "92f3e070a0a9cb2b06d14767647d9e3f93453f203367a99a4654bea8a780529f",
+                "score": 0.0075187176,
+                "excerpt": "which Staraxy Technologies G.K., its affiliates or service providers maintain facilities. We will take steps to ensure that your personal information is protected.\n4. CALIFORNIA CONSUMER PRIVACY RIGHTS\nThe California Consumer Privacy Act of 2018 (CCPA) applies only to California residents. We may collect the following categories of personal information:\nYour California Privacy Rights\nEffective January 1, 2020, the California Consumer Privacy Act gives California residents the rights below. Howev...",
+                "url": "https://www.staraxy.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474274341,
+            "url": "https://www.staraxy.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that personal information is collected for purposes such as research and development, compliance with laws, marketing, and advertising.",
+            "reference": "We are continuously improving the App, fixing existing issues, and developing new features. We may use your personal information for research and development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business. Compliance: We may use your personal information to comply with applicable laws and lawful requests for the purpose of protecting your rights, auditing, and investigating illegal activities. URL: https://www.staraxy.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "e8354e8ab14adfefcfec9d73226581b1217169ba4d42a730c2d2cac38e8a09a1",
+                "score": 0.80022407,
+                "excerpt": "development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business.\nMarketing and Advertising\nWe, our service providers...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "66e8d4c452644306492da9352803c217d3058d40eb6bc09394ba6150fa21b5a3",
+                "score": 0.6474639,
+                "excerpt": "third-party service providers used by the app\nAnalytics Information\nWe may also use third-party analytics tools to collect non-personally identifiable information in order to help us measure traffic and usage for the App.\nCookies and Similar Technologies\nThe App does not use cookies, pixels, or other similar technologies directly. However, the App may allow third-party companies to use these technologies to collect and use non-personally identifiable information in order to provide advertisement...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "65ba394614b71d84101c39a12780cb8e15808b477dffa537eb66f1ca3fa87f90",
+                "score": 0.15178062,
+                "excerpt": "Updated February 20, 2024\nStaraxy Technologies G.K. (“Staraxy Technologies”, “we”, “our”, or “us”) is dedicated to protecting the privacy of our users (“users”, or “you”). This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application (“Staraxy App”, “Breathie App”, “the App”), including all its features (the “Services”). The Personal Informa...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "45833b70c5ed52dd4878b70be1d34e1ab8559cfa0307ace62126c3378be17998",
+                "score": 0.0039148238,
+                "excerpt": "your data for periods required for us to continue to provide you with our Service, subject to applicable laws and regulations. You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract.\nChildren’s Privacy\nWe do not knowingly collect or request personal information from children und...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "d68705549bd356d5007baf2c9e02acb8fa6b9bb6d23090ca9f482400ce0576c7",
+                "score": 0.003209961,
+                "excerpt": "regulations, or requests by government departments for the purpose of protecting the rights, safety, and property of our users;\nThe third-party providers are obligated not to disclose or use the information for any other purpose.\nLinks to Other Sites\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these webs...",
+                "url": "https://www.staraxy.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474274341,
+            "url": "https://www.staraxy.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can delete their personal data at any time by requesting data deletion via an email to hello@staraxy.com. However, account/data deletion is not possible during an active subscription as the processing of data is necessary for contract execution.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can request data deletion at any time, except during an active subscription due to contractual obligations.",
+            "reference": "You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract. URL: https://www.staraxy.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "45833b70c5ed52dd4878b70be1d34e1ab8559cfa0307ace62126c3378be17998",
+                "score": 0.9533619,
+                "excerpt": "your data for periods required for us to continue to provide you with our Service, subject to applicable laws and regulations. You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract.\nChildren’s Privacy\nWe do not knowingly collect or request personal information from children und...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "d68705549bd356d5007baf2c9e02acb8fa6b9bb6d23090ca9f482400ce0576c7",
+                "score": 0.1603975,
+                "excerpt": "regulations, or requests by government departments for the purpose of protecting the rights, safety, and property of our users;\nThe third-party providers are obligated not to disclose or use the information for any other purpose.\nLinks to Other Sites\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these webs...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "92f3e070a0a9cb2b06d14767647d9e3f93453f203367a99a4654bea8a780529f",
+                "score": 0.044597577,
+                "excerpt": "which Staraxy Technologies G.K., its affiliates or service providers maintain facilities. We will take steps to ensure that your personal information is protected.\n4. CALIFORNIA CONSUMER PRIVACY RIGHTS\nThe California Consumer Privacy Act of 2018 (CCPA) applies only to California residents. We may collect the following categories of personal information:\nYour California Privacy Rights\nEffective January 1, 2020, the California Consumer Privacy Act gives California residents the rights below. Howev...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "e8354e8ab14adfefcfec9d73226581b1217169ba4d42a730c2d2cac38e8a09a1",
+                "score": 0.012288597,
+                "excerpt": "development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business.\nMarketing and Advertising\nWe, our service providers...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "65ba394614b71d84101c39a12780cb8e15808b477dffa537eb66f1ca3fa87f90",
+                "score": 0.0037362205,
+                "excerpt": "Updated February 20, 2024\nStaraxy Technologies G.K. (“Staraxy Technologies”, “we”, “our”, or “us”) is dedicated to protecting the privacy of our users (“users”, or “you”). This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application (“Staraxy App”, “Breathie App”, “the App”), including all its features (the “Services”). The Personal Informa...",
+                "url": "https://www.staraxy.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474274341,
+            "url": "https://www.staraxy.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for lawful business purposes, such as analysis and promotion.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share anonymized data with third parties for purposes like analysis and promotion of the business.",
+            "reference": "We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business. URL: https://www.staraxy.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "66e8d4c452644306492da9352803c217d3058d40eb6bc09394ba6150fa21b5a3",
+                "score": 0.9328214,
+                "excerpt": "third-party service providers used by the app\nAnalytics Information\nWe may also use third-party analytics tools to collect non-personally identifiable information in order to help us measure traffic and usage for the App.\nCookies and Similar Technologies\nThe App does not use cookies, pixels, or other similar technologies directly. However, the App may allow third-party companies to use these technologies to collect and use non-personally identifiable information in order to provide advertisement...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "e8354e8ab14adfefcfec9d73226581b1217169ba4d42a730c2d2cac38e8a09a1",
+                "score": 0.9097468,
+                "excerpt": "development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business.\nMarketing and Advertising\nWe, our service providers...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "65ba394614b71d84101c39a12780cb8e15808b477dffa537eb66f1ca3fa87f90",
+                "score": 0.7132319,
+                "excerpt": "Updated February 20, 2024\nStaraxy Technologies G.K. (“Staraxy Technologies”, “we”, “our”, or “us”) is dedicated to protecting the privacy of our users (“users”, or “you”). This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application (“Staraxy App”, “Breathie App”, “the App”), including all its features (the “Services”). The Personal Informa...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "45833b70c5ed52dd4878b70be1d34e1ab8559cfa0307ace62126c3378be17998",
+                "score": 0.18491465,
+                "excerpt": "your data for periods required for us to continue to provide you with our Service, subject to applicable laws and regulations. You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract.\nChildren’s Privacy\nWe do not knowingly collect or request personal information from children und...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "d68705549bd356d5007baf2c9e02acb8fa6b9bb6d23090ca9f482400ce0576c7",
+                "score": 0.04813677,
+                "excerpt": "regulations, or requests by government departments for the purpose of protecting the rights, safety, and property of our users;\nThe third-party providers are obligated not to disclose or use the information for any other purpose.\nLinks to Other Sites\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these webs...",
+                "url": "https://www.staraxy.com/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474274341,
+            "url": "https://www.staraxy.com/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Third-party service providers, analytics tools, third-party companies for advertising, marketing partners, and third parties assisting with research and analysis.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Third-party service providers",
+                        "Analytics tools",
+                        "Third-party companies for advertising",
+                        "Marketing partners",
+                        "Third parties assisting with research and analysis"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions various types of third parties with whom data may be shared for different purposes such as analytics, marketing, advertising, and research.",
+            "reference": "N/A. URL: https://www.staraxy.com/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "66e8d4c452644306492da9352803c217d3058d40eb6bc09394ba6150fa21b5a3",
+                "score": 0.9393595,
+                "excerpt": "third-party service providers used by the app\nAnalytics Information\nWe may also use third-party analytics tools to collect non-personally identifiable information in order to help us measure traffic and usage for the App.\nCookies and Similar Technologies\nThe App does not use cookies, pixels, or other similar technologies directly. However, the App may allow third-party companies to use these technologies to collect and use non-personally identifiable information in order to provide advertisement...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "e8354e8ab14adfefcfec9d73226581b1217169ba4d42a730c2d2cac38e8a09a1",
+                "score": 0.9107044,
+                "excerpt": "development purposes. We may also collect your usage and device information for analytics, such as crash reports. This makes sure we can timely fix critical issues to maintain high app quality and user experience. We will always use aggregated and anonymized data by removing personally identifiable information. We may also share this anonymized data with third parties for lawful business purposes, such as analysis and promotion of our business.\nMarketing and Advertising\nWe, our service providers...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "65ba394614b71d84101c39a12780cb8e15808b477dffa537eb66f1ca3fa87f90",
+                "score": 0.34224167,
+                "excerpt": "Updated February 20, 2024\nStaraxy Technologies G.K. (“Staraxy Technologies”, “we”, “our”, or “us”) is dedicated to protecting the privacy of our users (“users”, or “you”). This Privacy Policy describes how we collect, use, and process personal information. Please read this Privacy Policy before using the Staraxy website, the Staraxy mobile application, and the Breathie mobile application (“Staraxy App”, “Breathie App”, “the App”), including all its features (the “Services”). The Personal Informa...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "d68705549bd356d5007baf2c9e02acb8fa6b9bb6d23090ca9f482400ce0576c7",
+                "score": 0.16184944,
+                "excerpt": "regulations, or requests by government departments for the purpose of protecting the rights, safety, and property of our users;\nThe third-party providers are obligated not to disclose or use the information for any other purpose.\nLinks to Other Sites\nThis Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these webs...",
+                "url": "https://www.staraxy.com/privacy/"
+            },
+            {
+                "id": "45833b70c5ed52dd4878b70be1d34e1ab8559cfa0307ace62126c3378be17998",
+                "score": 0.0139557095,
+                "excerpt": "your data for periods required for us to continue to provide you with our Service, subject to applicable laws and regulations. You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract.\nChildren’s Privacy\nWe do not knowingly collect or request personal information from children und...",
+                "url": "https://www.staraxy.com/privacy/"
+            }
+        ]
+    }
+]

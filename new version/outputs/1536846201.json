@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 1536846201,
+            "url": "https://subdial.app/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app does declare the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various forms of data, including Personal Information, Non-Personal Information, and information related to Emergency-Related Services.",
+            "reference": "The Privacy Policy is used to inform users of our policies with the collection, use, and disclosure of Personal Information... https://subdial.app/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "5c4af66ef074d58f4070760e90885bf960e674f4f5d924b521108daf483c1325",
+                "score": 0.06359858,
+                "excerpt": "Provider.\nIf your Connected Device is used to contact an Emergency Service Provider, we may collect the following categories of personal information associated with the device:\n- Information that directly identifies the owner or customary user of the device, such as your name, physical address, email address, and phone number.\n- Precise geolocation of the Connected Device.\nWe do not use personal information collected through Emergency-Related Services, including information collected from Emerge...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "32e449863c7c43177e8c10bf95c3bc9d7b667950434cacfdf1dbefdb940c7d62",
+                "score": 0.061424043,
+                "excerpt": "Privacy Policy\nBig Human built Subdial as a free app. This SERVICE is provided by Big Human at no cost and is intended for use AS IS.\nThis Privacy Policy is used to inform users of our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions unless otherwise defined in this Privacy Policy.\nWhat Information does Subdial collect?\nNon-Personal Informatio...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "871833d6dac56f571e1e1dc65fe2802f2162b20a5e14903815e95c99c9a32e05",
+                "score": 0.025419652,
+                "excerpt": "privacy policies, or practices of any third-party sites or services.\nChildren’s Privacy\nThe Subdial App complies with the Children’s Online Privacy Protection Act (\"COPPA\"). Subdial App does not knowingly collect Customer Information from children under the age of 13 through on the Subdial App. In the event that a user identifies himself or herself as a child under the age of 13 within the Subdial App, Subdial App will not knowingly collect, store or use any Customer Information of such user unl...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "3813766e4eb21ad77cb52d3643134d1cea32ab4c8bc2d309b26a7baef923b6cf",
+                "score": 0.019794779,
+                "excerpt": "able to save resources in the app in order to access them quickly in the future. The saved resources are stored locally on the users’ device, and using this feature is completely optional. We also store the last selected location, but again, this is only stored on the device itself.\nWe value your trust in using our Service, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage is ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "e336d13b21497e1e148af290757a7656dcc947cc1e491101f2875a9b2d01e1e0",
+                "score": 0.018833129,
+                "excerpt": "comply with all Children’s Online Privacy Protection Act (“COPPA”) requirements and do not collect personal information from individuals under the age of 13 years old, except as outlined below and with parental permission.\nIf you choose to provide any personal information, through any means of your choice, (such as by offering feedback or suggestions, posting social media pages, sharing or linking to friends from our App or Website, emailing us, joining our email list, or otherwise contacting) w...",
+                "url": "https://subdial.app/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1536846201,
+            "url": "https://subdial.app/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information associated with the device, including information that directly identifies the owner or user of the device, precise geolocation of the connected device, and log data such as device IP address, device name, operating system version, configuration of the app, and time and date of app use.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Information that directly identifies the owner or customary user of the device",
+                        "Precise geolocation of the Connected Device",
+                        "Log Data such as IP address, device name, operating system version, app configuration, time, and date of use"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the sections discussing the collection of personal information associated with the device, precise geolocation, and log data in the privacy policy document.",
+            "reference": "Information that directly identifies the owner or customary user of the device, Precise geolocation of the Connected Device, Log Data such as IP address, device name, operating system version, configuration of the app, and time and date of app use. URL: https://subdial.app/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "5c4af66ef074d58f4070760e90885bf960e674f4f5d924b521108daf483c1325",
+                "score": 0.35320508,
+                "excerpt": "Provider.\nIf your Connected Device is used to contact an Emergency Service Provider, we may collect the following categories of personal information associated with the device:\n- Information that directly identifies the owner or customary user of the device, such as your name, physical address, email address, and phone number.\n- Precise geolocation of the Connected Device.\nWe do not use personal information collected through Emergency-Related Services, including information collected from Emerge...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "32e449863c7c43177e8c10bf95c3bc9d7b667950434cacfdf1dbefdb940c7d62",
+                "score": 0.30964965,
+                "excerpt": "Privacy Policy\nBig Human built Subdial as a free app. This SERVICE is provided by Big Human at no cost and is intended for use AS IS.\nThis Privacy Policy is used to inform users of our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions unless otherwise defined in this Privacy Policy.\nWhat Information does Subdial collect?\nNon-Personal Informatio...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "e336d13b21497e1e148af290757a7656dcc947cc1e491101f2875a9b2d01e1e0",
+                "score": 0.043936532,
+                "excerpt": "comply with all Children’s Online Privacy Protection Act (“COPPA”) requirements and do not collect personal information from individuals under the age of 13 years old, except as outlined below and with parental permission.\nIf you choose to provide any personal information, through any means of your choice, (such as by offering feedback or suggestions, posting social media pages, sharing or linking to friends from our App or Website, emailing us, joining our email list, or otherwise contacting) w...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "31b00240ec331d5bbc72fc8d41f05160f7d4e8147949079e0ee1276a4edb0faf",
+                "score": 0.026405517,
+                "excerpt": "certain type of Emergency-Related Services. We will only use the personal information that we collect in connection with our Emergency-Related Services for the limited purposes and for the limited time period described below. We do not sell this information.\nWe may also receive information about you or your household directly from Emergency Service Providers, from Computer-Aided Dispatch System providers, and from other organizations that work with or assist Emergency Service Providers. We also ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "871833d6dac56f571e1e1dc65fe2802f2162b20a5e14903815e95c99c9a32e05",
+                "score": 0.022328783,
+                "excerpt": "privacy policies, or practices of any third-party sites or services.\nChildren’s Privacy\nThe Subdial App complies with the Children’s Online Privacy Protection Act (\"COPPA\"). Subdial App does not knowingly collect Customer Information from children under the age of 13 through on the Subdial App. In the event that a user identifies himself or herself as a child under the age of 13 within the Subdial App, Subdial App will not knowingly collect, store or use any Customer Information of such user unl...",
+                "url": "https://subdial.app/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1536846201,
+            "url": "https://subdial.app/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that if users provide personal information, it will be used for the purpose for which it was collected and for other related purposes determined by the app. It also states that information may be shared with noncommercial third parties after removing personal information. The app also collects personal information for Emergency-Related Services with a specified purpose.",
+            "reference": "we will use the information for the purpose for which it was collected and for other reasonably related purposes we determine are appropriate...Big Human will not sell, rent, trade, share or otherwise disclose your Personal Information to any third party for any other purpose. URL: https://subdial.app/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "e336d13b21497e1e148af290757a7656dcc947cc1e491101f2875a9b2d01e1e0",
+                "score": 0.1908748,
+                "excerpt": "comply with all Children’s Online Privacy Protection Act (“COPPA”) requirements and do not collect personal information from individuals under the age of 13 years old, except as outlined below and with parental permission.\nIf you choose to provide any personal information, through any means of your choice, (such as by offering feedback or suggestions, posting social media pages, sharing or linking to friends from our App or Website, emailing us, joining our email list, or otherwise contacting) w...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "32e449863c7c43177e8c10bf95c3bc9d7b667950434cacfdf1dbefdb940c7d62",
+                "score": 0.034553625,
+                "excerpt": "Privacy Policy\nBig Human built Subdial as a free app. This SERVICE is provided by Big Human at no cost and is intended for use AS IS.\nThis Privacy Policy is used to inform users of our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.\nThe terms used in this Privacy Policy have the same meanings as in our Terms and Conditions unless otherwise defined in this Privacy Policy.\nWhat Information does Subdial collect?\nNon-Personal Informatio...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "5c4af66ef074d58f4070760e90885bf960e674f4f5d924b521108daf483c1325",
+                "score": 0.024376597,
+                "excerpt": "Provider.\nIf your Connected Device is used to contact an Emergency Service Provider, we may collect the following categories of personal information associated with the device:\n- Information that directly identifies the owner or customary user of the device, such as your name, physical address, email address, and phone number.\n- Precise geolocation of the Connected Device.\nWe do not use personal information collected through Emergency-Related Services, including information collected from Emerge...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "871833d6dac56f571e1e1dc65fe2802f2162b20a5e14903815e95c99c9a32e05",
+                "score": 0.0063143647,
+                "excerpt": "privacy policies, or practices of any third-party sites or services.\nChildren’s Privacy\nThe Subdial App complies with the Children’s Online Privacy Protection Act (\"COPPA\"). Subdial App does not knowingly collect Customer Information from children under the age of 13 through on the Subdial App. In the event that a user identifies himself or herself as a child under the age of 13 within the Subdial App, Subdial App will not knowingly collect, store or use any Customer Information of such user unl...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "3813766e4eb21ad77cb52d3643134d1cea32ab4c8bc2d309b26a7baef923b6cf",
+                "score": 0.003707253,
+                "excerpt": "able to save resources in the app in order to access them quickly in the future. The saved resources are stored locally on the users’ device, and using this feature is completely optional. We also store the last selected location, but again, this is only stored on the device itself.\nWe value your trust in using our Service, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage is ...",
+                "url": "https://subdial.app/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1536846201,
+            "url": "https://subdial.app/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt-out of data collection or request deletion of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can request the deletion of personal information, and parents or guardians of children under 13 can also request the deletion of their child's information. Furthermore, the App ensures compliance with regulations such as COPPA.",
+            "reference": "If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Service, then you may alert us at privacy@subdial.app and request that we delete that child’s personal information from our systems. URL: https://subdial.app/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f3ddf0c9ad900e1e4569965edd81cf847a70e5058e56393e6e2572d45e5cc135",
+                "score": 0.13799648,
+                "excerpt": "provide notice to all users of this geolocating feature and those individuals under the age of 13 must identify that they are under 13 and must obtain verifiable parental consent to use our app.\nIf we learn that personal information has been collected on the Service from persons under 13 years of age and without parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an a...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "e336d13b21497e1e148af290757a7656dcc947cc1e491101f2875a9b2d01e1e0",
+                "score": 0.049497053,
+                "excerpt": "comply with all Children’s Online Privacy Protection Act (“COPPA”) requirements and do not collect personal information from individuals under the age of 13 years old, except as outlined below and with parental permission.\nIf you choose to provide any personal information, through any means of your choice, (such as by offering feedback or suggestions, posting social media pages, sharing or linking to friends from our App or Website, emailing us, joining our email list, or otherwise contacting) w...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "7193c4742cb0776c57aad4f40e635e6b97d4a95253d0c7d21e5b0416a1af238b",
+                "score": 0.04831607,
+                "excerpt": "the information we store in cookies to any Personal Information. Your browser is probably set to accept cookies. You can disable cookies on your device by indicating this in the preferences or options menus in your browser; however, doing so may limit your ability to view or use our Website. You can find more information about cookies at www.allaboutcookies.org and www.youronlinechoices.com.\nPersonal Information\nWe do not require the collection of any Personally Identifiable Information (PIII) i...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "3813766e4eb21ad77cb52d3643134d1cea32ab4c8bc2d309b26a7baef923b6cf",
+                "score": 0.033462934,
+                "excerpt": "able to save resources in the app in order to access them quickly in the future. The saved resources are stored locally on the users’ device, and using this feature is completely optional. We also store the last selected location, but again, this is only stored on the device itself.\nWe value your trust in using our Service, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage is ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "5c4af66ef074d58f4070760e90885bf960e674f4f5d924b521108daf483c1325",
+                "score": 0.03296124,
+                "excerpt": "Provider.\nIf your Connected Device is used to contact an Emergency Service Provider, we may collect the following categories of personal information associated with the device:\n- Information that directly identifies the owner or customary user of the device, such as your name, physical address, email address, and phone number.\n- Precise geolocation of the Connected Device.\nWe do not use personal information collected through Emergency-Related Services, including information collected from Emerge...",
+                "url": "https://subdial.app/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1536846201,
+            "url": "https://subdial.app/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that individual Non-Personal Information is not shared with third parties, while aggregated data may be shared with noncommercial third parties for improvement purposes. No mention of sharing Personal Information is found within the document.",
+            "reference": "This information is for our internal review only and your individual Non-Personal Information is not shared with third parties. ... the aggregated data may be shared with other noncommercial third parties such as public or private service providers. URL: https://subdial.app/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c3d35cab135cd0eff9a810d2f864c0e8d474ada58cc9e474a96a286b35d736dd",
+                "score": 0.7516481,
+                "excerpt": "system or otherwise provided your location to us, log information including view/exit pages, date/time stamps. We use this information to generate statistics and measure site activity to improve the usefulness of our Website and our App. This information is for our internal review only and your individual Non-Personal Information is not shared with third parties. Your Non-Personal Information may be aggregated with other users and the aggregated data may be shared with other noncommercial third ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "e336d13b21497e1e148af290757a7656dcc947cc1e491101f2875a9b2d01e1e0",
+                "score": 0.6378207,
+                "excerpt": "comply with all Children’s Online Privacy Protection Act (“COPPA”) requirements and do not collect personal information from individuals under the age of 13 years old, except as outlined below and with parental permission.\nIf you choose to provide any personal information, through any means of your choice, (such as by offering feedback or suggestions, posting social media pages, sharing or linking to friends from our App or Website, emailing us, joining our email list, or otherwise contacting) w...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "3813766e4eb21ad77cb52d3643134d1cea32ab4c8bc2d309b26a7baef923b6cf",
+                "score": 0.52603847,
+                "excerpt": "able to save resources in the app in order to access them quickly in the future. The saved resources are stored locally on the users’ device, and using this feature is completely optional. We also store the last selected location, but again, this is only stored on the device itself.\nWe value your trust in using our Service, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage is ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "5c4af66ef074d58f4070760e90885bf960e674f4f5d924b521108daf483c1325",
+                "score": 0.3588023,
+                "excerpt": "Provider.\nIf your Connected Device is used to contact an Emergency Service Provider, we may collect the following categories of personal information associated with the device:\n- Information that directly identifies the owner or customary user of the device, such as your name, physical address, email address, and phone number.\n- Precise geolocation of the Connected Device.\nWe do not use personal information collected through Emergency-Related Services, including information collected from Emerge...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "871833d6dac56f571e1e1dc65fe2802f2162b20a5e14903815e95c99c9a32e05",
+                "score": 0.19620942,
+                "excerpt": "privacy policies, or practices of any third-party sites or services.\nChildren’s Privacy\nThe Subdial App complies with the Children’s Online Privacy Protection Act (\"COPPA\"). Subdial App does not knowingly collect Customer Information from children under the age of 13 through on the Subdial App. In the event that a user identifies himself or herself as a child under the age of 13 within the Subdial App, Subdial App will not knowingly collect, store or use any Customer Information of such user unl...",
+                "url": "https://subdial.app/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1536846201,
+            "url": "https://subdial.app/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with other noncommercial third parties such as public or private service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "other noncommercial third parties such as public or private service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app may share aggregated data with noncommercial third parties, like public or private service providers, but it explicitly mentions that it will not sell, rent, trade, or share personal information with third parties for any other purpose.",
+            "reference": "We may remove all Personal Information in order to aggregate such data and share the aggregated data with other noncommercial third parties such as public or private service providers, however, Big Human will not sell, rent, trade, share or otherwise disclose your Personal Information to any third party for any other purpose. URL: https://subdial.app/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "e336d13b21497e1e148af290757a7656dcc947cc1e491101f2875a9b2d01e1e0",
+                "score": 0.55925995,
+                "excerpt": "comply with all Children’s Online Privacy Protection Act (“COPPA”) requirements and do not collect personal information from individuals under the age of 13 years old, except as outlined below and with parental permission.\nIf you choose to provide any personal information, through any means of your choice, (such as by offering feedback or suggestions, posting social media pages, sharing or linking to friends from our App or Website, emailing us, joining our email list, or otherwise contacting) w...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "c3d35cab135cd0eff9a810d2f864c0e8d474ada58cc9e474a96a286b35d736dd",
+                "score": 0.48089007,
+                "excerpt": "system or otherwise provided your location to us, log information including view/exit pages, date/time stamps. We use this information to generate statistics and measure site activity to improve the usefulness of our Website and our App. This information is for our internal review only and your individual Non-Personal Information is not shared with third parties. Your Non-Personal Information may be aggregated with other users and the aggregated data may be shared with other noncommercial third ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "5c4af66ef074d58f4070760e90885bf960e674f4f5d924b521108daf483c1325",
+                "score": 0.31090358,
+                "excerpt": "Provider.\nIf your Connected Device is used to contact an Emergency Service Provider, we may collect the following categories of personal information associated with the device:\n- Information that directly identifies the owner or customary user of the device, such as your name, physical address, email address, and phone number.\n- Precise geolocation of the Connected Device.\nWe do not use personal information collected through Emergency-Related Services, including information collected from Emerge...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "3813766e4eb21ad77cb52d3643134d1cea32ab4c8bc2d309b26a7baef923b6cf",
+                "score": 0.23828422,
+                "excerpt": "able to save resources in the app in order to access them quickly in the future. The saved resources are stored locally on the users’ device, and using this feature is completely optional. We also store the last selected location, but again, this is only stored on the device itself.\nWe value your trust in using our Service, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the Internet, or method of electronic storage is ...",
+                "url": "https://subdial.app/privacy"
+            },
+            {
+                "id": "871833d6dac56f571e1e1dc65fe2802f2162b20a5e14903815e95c99c9a32e05",
+                "score": 0.19147882,
+                "excerpt": "privacy policies, or practices of any third-party sites or services.\nChildren’s Privacy\nThe Subdial App complies with the Children’s Online Privacy Protection Act (\"COPPA\"). Subdial App does not knowingly collect Customer Information from children under the age of 13 through on the Subdial App. In the event that a user identifies himself or herself as a child under the age of 13 within the Subdial App, Subdial App will not knowingly collect, store or use any Customer Information of such user unl...",
+                "url": "https://subdial.app/privacy"
+            }
+        ]
+    }
+]

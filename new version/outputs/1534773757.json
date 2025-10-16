@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 1534773757,
+            "url": "http://www.tree-bath.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various types of data, indicating the declaration of data collection.",
+            "reference": "The following provides examples of the type of information that we collect from you and how we use that information. URL: http://www.tree-bath.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "39b88379c93ad30db1b592e7c3a31816f6a5bf165370992f82101e4f9aecf747",
+                "score": 0.025711587,
+                "excerpt": "users and providing tailored services. |\n|\nDistance Information |\nWhen you use one of our Apps we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your location and your distance from a store that sells our products. |\nWe have a legitimate interest in understanding our users and providing tailored services. In some contexts our use is also based upon your consent to provide us with geo location information. |\nEmail Interconnectivity |\nIf you recei...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "322921da4e4cafc36a4c79ccc125b7d9b554077aa3bf3d68669a63bbbc74d5e8",
+                "score": 0.008219693,
+                "excerpt": "Privacy Policy\nEFFECTIVE SEPTEMBER 1, 2020\nTreebath, Inc. (“Treebath,” “us,” \"we,\" or “our”) is committed to protecting and respecting the privacy of our customers and those who use our websites, including but not limited to www.tree-bath.com and www.tree-quility.com (the “Sites”), and our products and services, including the TreeQuility mobile application platform and the associated mobile applications (the “Services”). This Privacy Policy describes Treebath’s policies and practices regarding o...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "7046437d44aa26559a534164b5d72747da05611fddc4470bc776aaaf41616f1c",
+                "score": 0.007725534,
+                "excerpt": "States. To the extent personal information is collected and subsequently transferred out of the European Economic Area, the transfer will take place consistent with the Standard Contractual Clauses. If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.\nThird Party Applications/Websites. We have no control over the privacy practic...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "d420e4de24e1e5cb1f94b6621a4419e3b216db4238eeefb00932057eba98ddb8",
+                "score": 0.0072608665,
+                "excerpt": "have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.\nYoumatter@tree-bath.com\nAttn: Privacy Team\n244 Fifth Avenue, Suite N203\nNew York, NY 10001\nIf you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.\nCCPA ADDENDUM\nEf...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "712b0f71ba3c4f430c01a19e8ee368d8095306637f28c27daeaf4f5054067400",
+                "score": 0.005159623,
+                "excerpt": "in providing account related functionalities to our users, monitoring account log-ins, and detecting potential fraudulent logins or account misuse. Additionally, we use this information to fulfill our contract to provide you with Services. |\n|\nCookies and First Party Tracking |\nWe use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. See our Cookie Policy for more information. |\nWe have a legitimate inter...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534773757,
+            "url": "http://www.tree-bath.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects customer user information, account information (customer user), client account information, cookies and first-party tracking, distance information, email interconnectivity, employment-related information, demographic information, and cookies and third-party tracking.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Customer user information",
+                        "Account information (customer user)",
+                        "Client account information",
+                        "Cookies and first-party tracking",
+                        "Distance information",
+                        "Email interconnectivity",
+                        "Employment-related information",
+                        "Demographic information",
+                        "Cookies and third-party tracking"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document outlines the various types of data that the app collects from its users.",
+            "reference": "Various types of data collected including customer user information, account information (customer user), client account information, cookies and first-party tracking, distance information, email interconnectivity, employment-related information, demographic information, and cookies and third-party tracking. URL: http://www.tree-bath.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a75dfc9d90bab906877077c7809ca70e16a30aff59df59b439bf9849988897dd",
+                "score": 0.21174264,
+                "excerpt": "we collect from you and how we use that information.\n| Context | Types of Data |\nPrimary Puprose of Collection and Use of Data |\n|\nCustomer User Information |\nWe collect the name, username, and contact information, of our customers and with whom we may interact. |\nWe have a legitimate interest in contacting our customers and communicating with them concerning normal business administration such as orders and billing. |\n|\nAccount Information (Customer User) |\nWe collect your name, e-mail address,...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "39b88379c93ad30db1b592e7c3a31816f6a5bf165370992f82101e4f9aecf747",
+                "score": 0.1775255,
+                "excerpt": "users and providing tailored services. |\n|\nDistance Information |\nWhen you use one of our Apps we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your location and your distance from a store that sells our products. |\nWe have a legitimate interest in understanding our users and providing tailored services. In some contexts our use is also based upon your consent to provide us with geo location information. |\nEmail Interconnectivity |\nIf you recei...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "6e4bc8b259f6177a82caa9466edc1ba8f2565f9f08a6c5c2abcfd64ad12881ac",
+                "score": 0.15456733,
+                "excerpt": "law). You can find a list of the categories of information that we collect and share here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the \"Contact Information\" s...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "322921da4e4cafc36a4c79ccc125b7d9b554077aa3bf3d68669a63bbbc74d5e8",
+                "score": 0.10875559,
+                "excerpt": "Privacy Policy\nEFFECTIVE SEPTEMBER 1, 2020\nTreebath, Inc. (“Treebath,” “us,” \"we,\" or “our”) is committed to protecting and respecting the privacy of our customers and those who use our websites, including but not limited to www.tree-bath.com and www.tree-quility.com (the “Sites”), and our products and services, including the TreeQuility mobile application platform and the associated mobile applications (the “Services”). This Privacy Policy describes Treebath’s policies and practices regarding o...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "712b0f71ba3c4f430c01a19e8ee368d8095306637f28c27daeaf4f5054067400",
+                "score": 0.07409726,
+                "excerpt": "in providing account related functionalities to our users, monitoring account log-ins, and detecting potential fraudulent logins or account misuse. Additionally, we use this information to fulfill our contract to provide you with Services. |\n|\nCookies and First Party Tracking |\nWe use cookies and clear GIFs. “Cookies” are small pieces of information that a website sends to a computer’s hard drive while a web site is viewed. See our Cookie Policy for more information. |\nWe have a legitimate inter...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534773757,
+            "url": "http://www.tree-bath.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by stating that they use information for various purposes such as identifying users, providing services, improving offerings, promoting security, conducting analytics, responding to inquiries, sending marketing materials, and managing relationships.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purposes for which data is collected and used, demonstrating transparency in the app's data practices.",
+            "reference": "To identify you when you visit our websites. To provide our Services. To improve our Services and offerings. To promote the security of our Site and Services. To conduct analytics. To respond to inquiries related to support, employment opportunities, or other requests. To send marketing and promotional materials including information relating to our products, services, sales, or promotions, or those of our business partners. For internal administrative purposes, as well as to manage our relationships. Although the sections above describe our primary purpose in collecting your information, in many situations we have more than one purpose. URL: http://www.tree-bath.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f3c8b0fe292840cce8802fdfa302fc7a1b34600a25c226702e1eeb6feb9ed3a3",
+                "score": 0.13432105,
+                "excerpt": "helps us understand which of our services is the most popular. |\nIn addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources. For example, if you submit a job application, or become an employee, we may conduct a background check.\nUSE AND PROCESSING OF INFORMATION\nIn addition to the purposes and uses described above, we use information in th...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "b57ce9e440eeeb513539286312cf5c0882d892e955fa9ffe0088f9fca98ab50c",
+                "score": 0.064653486,
+                "excerpt": "to the collection, use, and disclosure of your information. |\nWe have a legitimate interest in understanding your opinions, and collecting information relevant to our organization. |\n|\nWebsite interactions |\nWe use technology to monitor how you interact with our website. This may include which links you click on, or information that you type into our online forms. This may also include information about your device or browser. |\nWe have a legitimate interest in understanding how you interact wit...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "39b88379c93ad30db1b592e7c3a31816f6a5bf165370992f82101e4f9aecf747",
+                "score": 0.06441767,
+                "excerpt": "users and providing tailored services. |\n|\nDistance Information |\nWhen you use one of our Apps we collect your location from the GPS, Wi-Fi, and/or cellular technology in your device to determine your location and your distance from a store that sells our products. |\nWe have a legitimate interest in understanding our users and providing tailored services. In some contexts our use is also based upon your consent to provide us with geo location information. |\nEmail Interconnectivity |\nIf you recei...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "a75dfc9d90bab906877077c7809ca70e16a30aff59df59b439bf9849988897dd",
+                "score": 0.03027187,
+                "excerpt": "we collect from you and how we use that information.\n| Context | Types of Data |\nPrimary Puprose of Collection and Use of Data |\n|\nCustomer User Information |\nWe collect the name, username, and contact information, of our customers and with whom we may interact. |\nWe have a legitimate interest in contacting our customers and communicating with them concerning normal business administration such as orders and billing. |\n|\nAccount Information (Customer User) |\nWe collect your name, e-mail address,...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "b7b91c0cd4bbf8309aee9ac55d862914c7b81df869bf7b8240fd14e114f25914",
+                "score": 0.018978037,
+                "excerpt": "information about our products and services with individuals that consent to receive such information. We also have a legitimate interest in sharing information about our products or services. |\n|\nMobile Devices |\nWe collect information from your mobile device such as unique identifying information broadcast from your device when visiting our website or when visiting one of our stores. |\nWe have a legitimate interest in identifying unique visitors, and in understanding how users interact with us...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534773757,
+            "url": "http://www.tree-bath.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request deletion of data by contacting the provided address.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can request deletion of their personal information by contacting the provided address. The company will comply with such requests if required by law.",
+            "reference": "You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us at the address described below. If required by law we will grant a request to delete information, but you should note that in many situations we must keep your personal information to comply with our legal obligations, resolve disputes, enforce our agreements, or for another one of our business purposes. Objection to Certain Processing. You may object to our use or disclosure of your personal information by contacting us at the address described below. URL: http://www.tree-bath.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "e342d1133ba138a85b8a987d42a0b0a39638c7a8b4b472f206209d9b871ce6fa",
+                "score": 0.20721471,
+                "excerpt": "Your Personal Information. Typically we retain your personal information for the period necessary to fulfill the purposes outlined in this policy, unless a longer retention period is required or permitted by law. You may, however, request information about how long we keep a specific type of information, or request that we delete your personal information by contacting us at the address described below. If required by law we will grant a request to delete information, but you should note that in...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "37e400c57279705249b97d738572db8e2051aad8437a02cc3e75fd329672eb43",
+                "score": 0.10613344,
+                "excerpt": "fulfillment of orders.\nYOUR CHOICES\nYou can make the following choices regarding your personal information:\nAccess To Your Personal Information. You may request access to your personal information by contacting us at the address described below. If required by law, upon request, we will grant you reasonable access to the personal information that we have about you. We will provide this information in a portable format, if required. Note that California residents may be entitled to ask us for a n...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "5746f390587b82fac3f183d53dccab6f2c1f57edee67ecf223b8474446358c80",
+                "score": 0.086169556,
+                "excerpt": "newsletters, surveys, offers, and other promotional materials to you, as well as targeted offers from third parties. You can stop receiving promotional emails by following the unsubscribe instructions in e-mails that you receive. If you decide not to receive promotional emails, we may still send you service-related communications.\nPromotional Text Messages. If you receive a text message from us that contains promotional information you can opt-out of receiving future text messages by replying “S...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "6e4bc8b259f6177a82caa9466edc1ba8f2565f9f08a6c5c2abcfd64ad12881ac",
+                "score": 0.028870907,
+                "excerpt": "law). You can find a list of the categories of information that we collect and share here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the \"Contact Information\" s...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "d420e4de24e1e5cb1f94b6621a4419e3b216db4238eeefb00932057eba98ddb8",
+                "score": 0.020061802,
+                "excerpt": "have any questions, comments, or complaints concerning our privacy practices please contact us at the appropriate address below. We will attempt to respond to your requests and to provide you with additional privacy-related information.\nYoumatter@tree-bath.com\nAttn: Privacy Team\n244 Fifth Avenue, Suite N203\nNew York, NY 10001\nIf you are not satisfied with our response, and are in the European Union, you may have a right to lodge a complaint with your local supervisory authority.\nCCPA ADDENDUM\nEf...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534773757,
+            "url": "http://www.tree-bath.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app does share data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions sharing information with service providers, corporate affiliates, and other unaffiliated third parties under certain circumstances.",
+            "reference": "Affiliates and Acquisitions. We may share information with our corporate affiliates... Other Disclosures with Your Consent. We may ask if you would like us to share your information with other unaffiliated third parties... Service Providers. We share your information with service providers. URL: http://www.tree-bath.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7046437d44aa26559a534164b5d72747da05611fddc4470bc776aaaf41616f1c",
+                "score": 0.56973296,
+                "excerpt": "States. To the extent personal information is collected and subsequently transferred out of the European Economic Area, the transfer will take place consistent with the Standard Contractual Clauses. If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.\nThird Party Applications/Websites. We have no control over the privacy practic...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "0aa50ec10eea715b13862d3dd7209454fd678be9229ffa880a0587eebc7d206b",
+                "score": 0.47724956,
+                "excerpt": "such as a unique, anonymous token that enables you to make additional purchases using the data they’ve stored, and your card’s type, expiration date, billing address, and the last four digits of your card number, in order to help prevent fraud and identity theft. This data is stored by our payment processor, and the use and storage of this information will be subject to the payment processor’s own terms of service and privacy policy.\nHealthkit. Apple iOS users may opt-in to allow the Services to...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "5367ad90fbaa3092b57e6d0dbdb46559bf7ddda1008fb81f59b6fd5524ba23a8",
+                "score": 0.32993123,
+                "excerpt": "you sign up for Services, we may collect your information to complete that transaction, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your Services. As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our legitimate i...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "6e4bc8b259f6177a82caa9466edc1ba8f2565f9f08a6c5c2abcfd64ad12881ac",
+                "score": 0.24744146,
+                "excerpt": "law). You can find a list of the categories of information that we collect and share here. Please note that because this list is comprehensive it may refer to types of information that we share about people other than yourself. If you would like more information concerning the categories of personal information (if any) we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the \"Contact Information\" s...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "1d2fe2bc990d0789671c9cf0f125d208230612b9a973c5888f3b1cedf37ac943",
+                "score": 0.19590157,
+                "excerpt": "information with other unaffiliated third parties who are not described elsewhere in this policy.\nOther Disclosures without Your Consent. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected frau...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1534773757,
+            "url": "http://www.tree-bath.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with its affiliates, acquisitions, and with third parties based on user consent.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Affiliates and Acquisitions",
+                        "Third party applications/websites",
+                        "Payment processors and banks",
+                        "Service fulfillment companies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines that data is shared with several categories of entities including affiliates, acquisitions, third party applications/websites, payment processors, and service fulfillment companies.",
+            "reference": "Affiliates and Acquisitions. We may share information with our corporate affiliates (e.g., parent company, sister companies, subsidiaries, joint ventures, or other companies under common control). If another company acquires, or plans to acquire, our company, business, or our assets, we will also share information with that company, including at the negotiation stage. Other Disclosures with Your Consent. We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this policy. Payment Information. If you use or register for certain Services, you may need to provide payment information, such as a credit card number, type and expiration date. Treebath does not store credit card credit or debit card (“Payment Card”) data entered on our Services. Apple and Google collect Payment Card data with respect to app purchases made through the Apps, and our payment ..."
+        },
+        "source_documents": [
+            {
+                "id": "1d2fe2bc990d0789671c9cf0f125d208230612b9a973c5888f3b1cedf37ac943",
+                "score": 0.7040584,
+                "excerpt": "information with other unaffiliated third parties who are not described elsewhere in this policy.\nOther Disclosures without Your Consent. We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected frau...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "5367ad90fbaa3092b57e6d0dbdb46559bf7ddda1008fb81f59b6fd5524ba23a8",
+                "score": 0.69035035,
+                "excerpt": "you sign up for Services, we may collect your information to complete that transaction, but we also collect your information as we have a legitimate interest in maintaining your information after your transaction is complete so that we can quickly and easily respond to any questions about your Services. As a result, our collection and processing of your information is based in different contexts upon your consent, our need to perform a contract, our obligations under law, and/or our legitimate i...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "7046437d44aa26559a534164b5d72747da05611fddc4470bc776aaaf41616f1c",
+                "score": 0.636692,
+                "excerpt": "States. To the extent personal information is collected and subsequently transferred out of the European Economic Area, the transfer will take place consistent with the Standard Contractual Clauses. If you would like more information concerning our attempts to apply the privacy principles applicable in one jurisdiction to data when it goes to another jurisdiction you can contact us using the contact information below.\nThird Party Applications/Websites. We have no control over the privacy practic...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "b7b91c0cd4bbf8309aee9ac55d862914c7b81df869bf7b8240fd14e114f25914",
+                "score": 0.37811458,
+                "excerpt": "information about our products and services with individuals that consent to receive such information. We also have a legitimate interest in sharing information about our products or services. |\n|\nMobile Devices |\nWe collect information from your mobile device such as unique identifying information broadcast from your device when visiting our website or when visiting one of our stores. |\nWe have a legitimate interest in identifying unique visitors, and in understanding how users interact with us...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            },
+            {
+                "id": "119d75dc3a6582c8fba763c25f2e3bbf51607edb3e3f10b39895f462b77e669c",
+                "score": 0.3712506,
+                "excerpt": "providers • Operating systems and platforms • Other Service Providers • Payment processors and banks • Service fulfillment companies |\n| Commercial Information |\nThis may include information about products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.> |\n• Advertising networks • Affiliates or subsidiaries • Business partners • Data analytics providers • Government entities • Internet service providers • Operating systems and platforms •...",
+                "url": "http://www.tree-bath.com/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 6473814624,
+            "url": "https://www.getpathway.io/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "N/A",
+                "simple_answer": "N/A",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy document does not explicitly state whether the app declares the collection of data, hence the response is 'N/A'.",
+            "reference": "N/A. URL: https://www.getpathway.io/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d9d5e473faa84ad6fe7b7c36596f4e58eaa630ffa393c9f2543bc4df0ee8da84",
+                "score": 0.0024249144,
+                "excerpt": "of personal information we collected about you.\nIn accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.\nRight to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights\nWe will not discriminate against you if you exercise your privacy rights.\nRight to Limit Use and Disclosure of Sensitive Personal Information\nIf the business ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "a96512f5cd71d4666923f7a9cc826ebded613fc64f4ee408b11e587469e27529",
+                "score": 0.001591626,
+                "excerpt": "under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.\n- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.\nTo exercise these rights, y...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "81a6afd698cb0f27ca601811e1b0a9f26601b788067f5a313a2e696c37bf26c3",
+                "score": 0.0011695103,
+                "excerpt": "law.\n- Right to be informed whether or not we are processing your personal data\n- Right to access your personal data\n- Right to correct inaccuracies in your personal data\n- Right to request deletion of your personal data\n- Right to obtain a copy of the personal data you previously shared with us\n- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly sign...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "fc6c14b91c5a91a58d6559a24c2c648a4eb064913479cf9105f277370acab348",
+                "score": 0.0009888597,
+                "excerpt": "your account with us\n- confirm your identity and protect your account\nRepublic of South Africa\nIf you are unsatisfied with the manner in which we address any complaint with regard to our processing of personal information, you can contact the office of the regulator, the details of which are:\n12. DO WE MAKE UPDATES TO THIS NOTICE?\nIn Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.\nWe may update this privacy notice from time to time. The updated version w...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "4da78d6f54185368e6333adcec990e3fdb5b373dae86b4618a4018fda52a0576",
+                "score": 0.000981172,
+                "excerpt": "of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the Attorney General to submit a complaint.\n11. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?\nIn Short: You may have additional rights based on the country you reside in.\nAustralia and New Zealand\nWe collect and process your personal information under the obligations and conditions set ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473814624,
+            "url": "https://www.getpathway.io/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects sensitive personal information that includes social security information, drivers' licenses, state ID cards, passport numbers, account login information, credit card numbers, financial account information, racial or ethnic origin, religious or philosophical beliefs, the contents of email and text, genetic data, biometric data, health data, and data concerning sexual orientation and sex life.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Social security information",
+                        "Drivers' licenses",
+                        "State ID cards",
+                        "Passport numbers",
+                        "Account login information",
+                        "Credit card numbers",
+                        "Financial account information",
+                        "Racial or ethnic origin",
+                        "Religious or philosophical beliefs",
+                        "The contents of email and text",
+                        "Genetic data",
+                        "Biometric data",
+                        "Health data",
+                        "Data concerning sexual orientation and sex life"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies the types of sensitive personal information that the app collects, indicating a comprehensive range of data categories.",
+            "reference": "If the business collects any of the following: - Social security information, drivers' licenses, state ID cards, passport numbers - Account login information - Credit card numbers, financial account information, or credentials allowing access to such accounts - Racial or ethnic origin, religious or philosophical beliefs, union membership - The contents of email and text, unless the business is the intended recipient of the communication - Genetic data, biometric data, and health data - Data concerning sexual orientation and sex life. URL: https://www.getpathway.io/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d9d5e473faa84ad6fe7b7c36596f4e58eaa630ffa393c9f2543bc4df0ee8da84",
+                "score": 0.02931223,
+                "excerpt": "of personal information we collected about you.\nIn accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.\nRight to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights\nWe will not discriminate against you if you exercise your privacy rights.\nRight to Limit Use and Disclosure of Sensitive Personal Information\nIf the business ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "882fbebbafb0cb1afc7c7186cc3f38c52ba2bc7536b30f0e9aaf4a321f30747d",
+                "score": 0.00268344,
+                "excerpt": "- Category L - As long as the user has an account with us\nCategory L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.\nWe may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:\n- Receiving help through our customer support channe...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "1f2c8e239f530c1b058f90ee8b6bd4c671297fc6b710fa0c89038f883f609663",
+                "score": 0.0020111583,
+                "excerpt": "not include a natural person acting in a commercial or employment context.\n\"Personal data\" means any information that is linked or reasonably linkable to an identified or identifiable natural person. \"Personal data\" does not include de-identified data or publicly available information.\n\"Sale of personal data\" means the exchange of personal data for monetary consideration.\nIf this definition of \"consumer\" applies to you, we must adhere to certain rights and obligations regarding your personal dat...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "5a4b418889993f20adca44c52019a10e426502f1eff0628776c826aeef188126",
+                "score": 0.0019877742,
+                "excerpt": "or not taken in response to the appeal, including a written explanation of the reasons for the decisions.\nUtah Residents\nThis section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.\n- Right to be informed whether or not we are processing your personal data\n- Right to access your personal data\n- Right to request deletion of yo...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "8778f0686e814642911c4646e0bc0b86343766bbbe0c2400a2d6fe37d909bf20",
+                "score": 0.0011424496,
+                "excerpt": "twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.\nCalifornia Residents\nCalifornia Civil Code Section 1798.83, also known as the \"Shine The Light\" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473814624,
+            "url": "https://www.getpathway.io/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they use personal information for internal research and technological development, as well as disclose the information for specified purposes. It also mentions that they do not sell or share personal information to third parties.",
+            "reference": "We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be 'selling' of your personal information. We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers. URL: https://www.getpathway.io/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "882fbebbafb0cb1afc7c7186cc3f38c52ba2bc7536b30f0e9aaf4a321f30747d",
+                "score": 0.01001357,
+                "excerpt": "- Category L - As long as the user has an account with us\nCategory L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.\nWe may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:\n- Receiving help through our customer support channe...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "d9d5e473faa84ad6fe7b7c36596f4e58eaa630ffa393c9f2543bc4df0ee8da84",
+                "score": 0.00588816,
+                "excerpt": "of personal information we collected about you.\nIn accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.\nRight to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights\nWe will not discriminate against you if you exercise your privacy rights.\nRight to Limit Use and Disclosure of Sensitive Personal Information\nIf the business ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "c22f4f9c0b4cc57d28fbf89cf9460eedc58daa165cddad39771fa5c33e325fc6",
+                "score": 0.004556114,
+                "excerpt": "business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.\nPlease note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.\nTo exercise your right to limi...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "552748646b878422a9735b3fbaf401089ee5a3d57a876dad1d30c32b90b10e9a",
+                "score": 0.0026730062,
+                "excerpt": "your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.\nRight to be informed — Request to know\nDepending on the circumstances...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "4da78d6f54185368e6333adcec990e3fdb5b373dae86b4618a4018fda52a0576",
+                "score": 0.0009217804,
+                "excerpt": "of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the Attorney General to submit a complaint.\n11. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?\nIn Short: You may have additional rights based on the country you reside in.\nAustralia and New Zealand\nWe collect and process your personal information under the obligations and conditions set ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473814624,
+            "url": "https://www.getpathway.io/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the user can request to opt out from data collection or have their data deleted.",
+            "reference": "You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission. URL: https://www.getpathway.io/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "a96512f5cd71d4666923f7a9cc826ebded613fc64f4ee408b11e587469e27529",
+                "score": 0.8484707,
+                "excerpt": "under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.\n- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.\nTo exercise these rights, y...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "81a6afd698cb0f27ca601811e1b0a9f26601b788067f5a313a2e696c37bf26c3",
+                "score": 0.8149381,
+                "excerpt": "law.\n- Right to be informed whether or not we are processing your personal data\n- Right to access your personal data\n- Right to correct inaccuracies in your personal data\n- Right to request deletion of your personal data\n- Right to obtain a copy of the personal data you previously shared with us\n- Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly sign...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "c9fe1f338ad5f624719aeef367cb26ec1324917db840a3f9478b60cd7d1fb23a",
+                "score": 0.7867867,
+                "excerpt": "Data Protection Officer (DPO), Robert Yedlin, by email at rob@getpathway.io, by phone at 6094622535, or contact us by post at:\nPathway Health Inc.\nRobert Yedlin\n1000 Herrontown Rd\nPrinceton, NJ 08540\nUnited States\n14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?\nBased on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "5a4b418889993f20adca44c52019a10e426502f1eff0628776c826aeef188126",
+                "score": 0.63906056,
+                "excerpt": "or not taken in response to the appeal, including a written explanation of the reasons for the decisions.\nUtah Residents\nThis section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.\n- Right to be informed whether or not we are processing your personal data\n- Right to access your personal data\n- Right to request deletion of yo...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "269e9bd3874c7698673ac9fe71cc28bdb1091096ff4946500b7a8a45c819db44",
+                "score": 0.63238925,
+                "excerpt": "Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.\n- Right to be informed whether or not we are processing your personal data\n- Right to access your personal data\n- Right to correct inaccuracies in your personal data\n- Right to request deletion of your personal data\n- Right to obtain a copy of the personal data you previously shared with us\n- Right to opt ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473814624,
+            "url": "https://www.getpathway.io/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not disclose, sell, or share any personal information to third parties for a business or commercial purpose.",
+            "reference": "We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers. URL: https://www.getpathway.io/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "a96512f5cd71d4666923f7a9cc826ebded613fc64f4ee408b11e587469e27529",
+                "score": 0.19329962,
+                "excerpt": "under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.\n- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.\nTo exercise these rights, y...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "8778f0686e814642911c4646e0bc0b86343766bbbe0c2400a2d6fe37d909bf20",
+                "score": 0.12940273,
+                "excerpt": "twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.\nCalifornia Residents\nCalifornia Civil Code Section 1798.83, also known as the \"Shine The Light\" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "882fbebbafb0cb1afc7c7186cc3f38c52ba2bc7536b30f0e9aaf4a321f30747d",
+                "score": 0.079638734,
+                "excerpt": "- Category L - As long as the user has an account with us\nCategory L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.\nWe may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:\n- Receiving help through our customer support channe...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "c22f4f9c0b4cc57d28fbf89cf9460eedc58daa165cddad39771fa5c33e325fc6",
+                "score": 0.0072608665,
+                "excerpt": "business receives your request, they are no longer allowed to use or disclose your sensitive personal information for any other purpose unless you provide consent for the use or disclosure of sensitive personal information for additional purposes.\nPlease note that sensitive personal information that is collected or processed without the purpose of inferring characteristics about a consumer is not covered by this right, as well as the publicly available information.\nTo exercise your right to limi...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "552748646b878422a9735b3fbaf401089ee5a3d57a876dad1d30c32b90b10e9a",
+                "score": 0.0046636546,
+                "excerpt": "your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.\nRight to be informed — Request to know\nDepending on the circumstances...",
+                "url": "https://www.getpathway.io/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473814624,
+            "url": "https://www.getpathway.io/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share any personal information with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The privacy policy clearly states that no personal information is disclosed, sold, or shared with third parties. This aligns with the statement that personal information will not be sold or shared in the future.",
+            "reference": "We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers. URL: https://www.getpathway.io/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "8778f0686e814642911c4646e0bc0b86343766bbbe0c2400a2d6fe37d909bf20",
+                "score": 0.13557506,
+                "excerpt": "twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.\nCalifornia Residents\nCalifornia Civil Code Section 1798.83, also known as the \"Shine The Light\" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "882fbebbafb0cb1afc7c7186cc3f38c52ba2bc7536b30f0e9aaf4a321f30747d",
+                "score": 0.10800066,
+                "excerpt": "- Category L - As long as the user has an account with us\nCategory L information may be used, or disclosed to a service provider or contractor, for additional, specified purposes. You have the right to limit the use or disclosure of your sensitive personal information.\nWe may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:\n- Receiving help through our customer support channe...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "a96512f5cd71d4666923f7a9cc826ebded613fc64f4ee408b11e587469e27529",
+                "score": 0.07935289,
+                "excerpt": "under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.\n- You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.\nTo exercise these rights, y...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "d9d5e473faa84ad6fe7b7c36596f4e58eaa630ffa393c9f2543bc4df0ee8da84",
+                "score": 0.015424552,
+                "excerpt": "of personal information we collected about you.\nIn accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.\nRight to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights\nWe will not discriminate against you if you exercise your privacy rights.\nRight to Limit Use and Disclosure of Sensitive Personal Information\nIf the business ...",
+                "url": "https://www.getpathway.io/privacy.html"
+            },
+            {
+                "id": "552748646b878422a9735b3fbaf401089ee5a3d57a876dad1d30c32b90b10e9a",
+                "score": 0.0119150225,
+                "excerpt": "your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.\nRight to be informed — Request to know\nDepending on the circumstances...",
+                "url": "https://www.getpathway.io/privacy.html"
+            }
+        ]
+    }
+]

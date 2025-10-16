@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1627653934,
+      "url": "https://cdn.myocv.com/legal/ocvapps-privacy-english.html?name=ISA%20Wellness",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It informs users about the types of personal data collected, including name, email address, address, phone number, race or ethnicity, photos, approximate location, and usage data. The policy states that data is collected to provide and improve the service, and it is only accessed and used upon user permission or submission.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of personal data collected and the purposes for which it is used.",
+          "content": "The app collects personal data such as name, email address, and location data, and it is used to provide and improve the service."
+        }
+      },
+      "analysis": "The privacy policy explicitly states the types of data collected and the reasons for collection, ensuring transparency for users.",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1627653934,
+      "url": "https://cdn.myocv.com/legal/ocvapps-privacy-english.html?name=ISA%20Wellness",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including Personal Data such as Name, Email address, Address, Phone Number, Race or Ethnicity, Photos or Images, Approximate Location, as well as Usage Data which includes information like IP address, browser type, pages visited, and time spent on those pages. It may also collect Location Data if permission is granted, and Form Submission Data depending on the forms used within the app.",
+        "simple_answer": "The app collects Personal Data, Usage Data, Location Data, and Form Submission Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to provide and improve its services.",
+          "content": "Types of data collected include: Personal Data (Name, Email, Address, Phone Number, Race or Ethnicity, Photos, Approximate Location), Usage Data (IP address, browser type, pages visited), Location Data (if permitted), and Form Submission Data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1627653934,
+      "url": "https://cdn.myocv.com/legal/ocvapps-privacy-english.html?name=ISA%20Wellness",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the collected data is used to provide and improve the Service, notify users about changes, allow participation in interactive features, provide customer support, gather analysis for improvement, monitor usage, and detect technical issues.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app specifies that it may use the collected data for various purposes including maintaining the Service, notifying users about changes, allowing interactive features, providing customer support, gathering analysis for improvement, monitoring usage, and addressing technical issues."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1627653934,
+      "url": "https://cdn.myocv.com/legal/ocvapps-privacy-english.html?name=ISA%20Wellness",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection entirely. However, users can manage their data by enabling or disabling location services through their device settings. Additionally, users can refuse cookies, but this may limit their ability to use some portions of the Service. The policy also mentions that users can submit forms with optional data, implying some control over what data is shared. For deletion, the policy states that OCV, LLC will retain personal data only as long as necessary for the purposes outlined, but it does not specify a process for users to request deletion of their data.",
+        "simple_answer": "Users can manage location services and refuse cookies, but the policy does not specify a clear opt-out or deletion process.",
+        "extended_simple_answer": {
+          "comment": "While users have some control over their data, the policy lacks a clear opt-out mechanism or detailed deletion process.",
+          "content": "Users can disable location services and refuse cookies, but the policy does not provide a straightforward method for opting out of all data collection or for deleting data."
+        }
+      },
+      "analysis": "The privacy policy provides limited options for users regarding data collection and deletion, focusing more on user permissions and settings rather than explicit opt-out mechanisms.",
+      "reference": "Information Collection and Use, Cookies, Location Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1627653934,
+      "url": "https://cdn.myocv.com/legal/ocvapps-privacy-english.html?name=ISA%20Wellness",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share data with third parties unless it is through a user-initiated action, such as a form submission, with the associated agency for the app. Data is only accessed and used upon given permission or submission from the user, and is processed ephemerally.",
+        "simple_answer": "No, the app does not share data with third parties unless initiated by the user.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and controlled by user actions.",
+          "content": "Data is only shared through a user initiated action (ex: Form) with the associated agency for your app. Data is only used for the action above and is processed ephemerally."
+        }
+      },
+      "analysis": "",
+      "reference": "Data is only shared through a user initiated action (ex: Form) with the associated agency for your app. Data is only used for the action above and is processed ephemerally."
+    }
+  },
+  {
+    "meta": {
+      "id": 1627653934,
+      "url": "https://cdn.myocv.com/legal/ocvapps-privacy-english.html?name=ISA%20Wellness",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data only through a user-initiated action (e.g., form submission) with the associated agency for your app. No specific third parties are mentioned in the privacy policy.",
+        "simple_answer": "Data is shared with associated agencies through user-initiated actions.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes that data sharing occurs only with user consent and is limited to specific actions.",
+          "content": "Data is only shared through a user initiated action (ex: Form) with the associated agency for your app."
+        }
+      },
+      "analysis": "The privacy policy clearly states that data sharing is contingent upon user actions and does not specify any third parties beyond the associated agency.",
+      "reference": "Data is only shared through a user initiated action (ex: Form) with the associated agency for your app."
+    }
+  }
+]

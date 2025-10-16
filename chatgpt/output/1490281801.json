@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1490281801,
+      "url": "https://brainexplorer.net/privacy-notice/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that whenever you play a game, your score is automatically sent to their server in an anonymised form. Additionally, users are informed that they will provide basic demographic information and responses to occasional questionnaires, which will also be sent to the researchers.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the data it collects and how it is used.",
+          "content": "The app collects game scores, basic demographic details, and responses to questionnaires, all in an anonymised manner."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and emphasizes the anonymization of the data, ensuring users are informed about the data collection process.",
+      "reference": "Participant Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490281801,
+      "url": "https://brainexplorer.net/privacy-notice/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects your game scores, basic demographic details (such as age, ethnicity, gender, country of residence, and native language), and responses to occasional questionnaires that may involve questions about your mood, behavior, and feelings. No passive data, such as GPS location, will be collected.",
+        "simple_answer": "The app collects game scores, demographic details, and responses to questionnaires.",
+        "extended_simple_answer": {
+          "comment": "The data collected is primarily for research purposes and is anonymized.",
+          "content": "Game scores, demographic information, and questionnaire responses."
+        }
+      },
+      "analysis": "",
+      "reference": "What data will I be sharing?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490281801,
+      "url": "https://brainexplorer.net/privacy-notice/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the purpose of data collection is to understand how the brain works, specifically to find out why some people have difficulties in making decisions and learning. The data collected will be used for academic research and to create summary data that all app users can see. The results of the research will be published in scientific journals.",
+        "simple_answer": "Yes, the app states that data is collected to understand brain function and for academic research.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes the importance of the research and the contribution of participants.",
+          "content": "The app collects data to help researchers understand decision-making and learning difficulties, and to promote research in psychology."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purpose of data collection, ensuring transparency for users regarding how their data will be utilized.",
+      "reference": "Participant Information section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490281801,
+      "url": "https://brainexplorer.net/privacy-notice/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of data collection at any time by going to the app ‘Profile’ screen and changing ‘Participate in the experiment’ to ‘Off’. This will prevent any new transmission of data. Additionally, the user can withdraw consent completely by selecting the ‘Withdraw consent’ option in the app, which will delete their data from the data store, although data that has already been processed cannot be removed. The user can also delete the app from their device, but this will prevent them from withdrawing consent and the data already provided cannot be deleted.",
+        "simple_answer": "Yes, users can opt out of data collection and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have multiple options to manage their data and participation.",
+          "content": "Users can opt out by changing settings in the app, withdraw consent to delete data, or delete the app, but cannot delete already processed data."
+        }
+      },
+      "analysis": "",
+      "reference": "Is it easy to get out of?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490281801,
+      "url": "https://brainexplorer.net/privacy-notice/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, the app does not share your data with third parties. The data collection is anonymous, and the app does not ask for your name or any other personal details. Furthermore, it states that it will never sell your data to any third party, although anonymous data may be made available for further research by other parties such as academic researchers at other institutions.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that your data remains anonymous and does not involve personal identification.",
+          "content": "The data collection is anonymous and we won’t use your information at any point to try to identify you. We don’t ask for your name or for any other personal details, and we don’t need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions."
+        }
+      },
+      "analysis": "",
+      "reference": "Is it anonymous?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490281801,
+      "url": "https://brainexplorer.net/privacy-notice/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share personal data with any third parties. It explicitly states that it will never sell your data to any third party. However, it may make anonymous data available for further research by other parties such as academic researchers at other institutions.",
+        "simple_answer": "The app does not share personal data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app ensures user privacy by not sharing identifiable information.",
+          "content": "The app will never sell your data to any third party and may only share anonymous data for research purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly emphasizes the commitment to user privacy and the non-sharing of personal data with third parties, which is a crucial aspect of data protection.",
+      "reference": "Is it anonymous? Yes. The data collection is anonymous and furthermore we won’t use your information at any point to try to identify you. We don’t ask for your name or for any other personal details, and we don’t need your phone number to send notifications to your phone. We will never sell your data to any third party. We may make anonymous data available for further research by other parties such as academic researchers at other institutions."
+    }
+  }
+]

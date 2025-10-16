@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 687283022,
+      "url": "http://www.peaksel.com/privacy-policy-for-free-apps/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when using their games and/or apps, certain information about users is collected, including non-identifiable information such as age group, gender, general interests, device identifiers, and other technical data.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The policy specifies that personal data is collected to enable the use of apps and games, improve products and services, fulfill legal obligations, and respond to user requests. It also mentions that users are not required to provide personal data unless logging in via Google Authentication."
+        }
+      },
+      "analysis": "The privacy policy clearly states the collection of data, detailing both personal and non-identifiable information collected during the use of the apps.",
+      "reference": "Section 2. Personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 687283022,
+      "url": "http://www.peaksel.com/privacy-policy-for-free-apps/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects certain information about users, including non-identifiable information such as age group, gender, general interests, device identifiers, and other technical data. Specifically, it collects data like the type and model of the mobile device, unique identification number, IP address, mobile operating system, type of mobile Internet browsers, country and region of access, device language, advertising ID number, and data about interactions with ads. It also collects the month and year of birth to verify age, but does not store this information.",
+        "simple_answer": "The app collects non-identifiable information such as age group, gender, interests, device identifiers, and technical data.",
+        "extended_simple_answer": {
+          "comment": "The app does not require personal data like name or email unless logging in via Google Authentication.",
+          "content": "The app collects non-identifiable information including age group, gender, general interests, device identifiers, and technical data related to the device used."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2. Personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 687283022,
+      "url": "http://www.peaksel.com/privacy-policy-for-free-apps/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal data is collected to enable users to use the apps and games, improve products and services, provide a better user experience, fulfill legal obligations, act on user requests, and for other purposes specified in the Privacy Policy.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the reasons for data collection.",
+          "content": "The purposes include enabling app usage, improving services, fulfilling legal obligations, and responding to user requests."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the purposes for which personal data is collected, ensuring transparency for users.",
+      "reference": "Section 2. Personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 687283022,
+      "url": "http://www.peaksel.com/privacy-policy-for-free-apps/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users can contact the data protection officer for questions regarding the processing of personal data and to exercise their rights specified in the policy.",
+        "simple_answer": "The policy does not explicitly allow opting out or deleting data, but users can contact for rights.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to inquire about their data processing.",
+          "content": "For all questions regarding the processing of your personal data and in order to exercise your rights specified in this Privacy Policy, you can contact the data protection officer."
+        }
+      },
+      "analysis": "The privacy policy indicates that while there is no clear opt-out mechanism mentioned, users can reach out to the data protection officer to understand their rights regarding data processing.",
+      "reference": "Section 1. Controller and Section 2. Personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 687283022,
+      "url": "http://www.peaksel.com/privacy-policy-for-free-apps/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with external partners for advertising and marketing purposes. However, it may share data with those who provide analytical services, but only for the processing of personal data that is not related to advertising and marketing.",
+        "simple_answer": "Yes, but only with analytical service providers, not for advertising.",
+        "extended_simple_answer": {
+          "comment": "The app limits data sharing to analytical services and does not share data for advertising.",
+          "content": "The provisions of this section apply to the processing of your personal data, provided that your personal data is not processed by all external partners to whom we have entrusted the performance of certain actions and activities of personal data processing, but only by those who provide analytical services."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2. Personal data we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 687283022,
+      "url": "http://www.peaksel.com/privacy-policy-for-free-apps/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with external partners who provide analytical services. However, it specifies that your personal data is not processed by all external partners, but only by those who provide these analytical services.",
+        "simple_answer": "The app shares data with external partners providing analytical services.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clarifies that not all external partners have access to personal data, only those involved in analytics.",
+          "content": "Your personal data is not processed by all external partners to whom we have entrusted the performance of certain actions and activities of personal data processing, but only by those who provide analytical services."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3. Who has access to your data"
+    }
+  }
+]

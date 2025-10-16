@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1669683359,
+      "url": "https://shoorah.io/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personal data such as name, date of birth, gender, job title, profession, contact information, demographic information, financial information, IP address, web browser type and version, operating system, and in-app tracking data.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the types of data it collects from users.",
+          "content": "The data collected includes personal information like name, date of birth, gender, job title, profession, contact information, demographic information, financial information, and automatically collected data such as IP address and user behavior."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, indicating transparency in data handling practices.",
+      "reference": "Section 2: Data collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1669683359,
+      "url": "https://shoorah.io/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: name, date of birth, gender, job title, profession, contact information (such as email addresses and telephone numbers), demographic information (such as postcode, preferences, and interests), financial information (such as credit/debit card numbers), IP address (automatically collected), web browser type and version (automatically collected), operating system (automatically collected), a list of URLs starting with a referring site, user activity on the website, and the site exited to (automatically collected), as well as in-app tracking data such as user behavior and counts of inputs in features like journal and moods.",
+        "simple_answer": "The app collects personal data including name, date of birth, gender, contact information, and in-app tracking data.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps in personalizing user experience and improving services.",
+          "content": "The app collects various types of personal and automatically collected data to enhance user experience and service delivery."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Data collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1669683359,
+      "url": "https://shoorah.io/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that Shoorah Ltd determines the purposes for which, and the manner in which, your Data is processed, indicating that the data collected is used to enhance user experience and provide services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines that Shoorah Ltd is the data controller, which means they define how and why data is processed.",
+          "content": "The privacy policy states that Shoorah Ltd determines the purposes for which, and the manner in which, your Data is processed."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that the company is responsible for defining the purposes of data collection, which aligns with data protection regulations.",
+      "reference": "Section 1: Scope of this privacy policy"
+    }
+  },
+  {
+    "meta": {
+      "id": 1669683359,
+      "url": "https://shoorah.io/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it does state that users have rights under applicable Data Protection Laws, which may include the right to request deletion of personal data. Users are encouraged to contact Shoorah for more information regarding their data rights.",
+        "simple_answer": "The policy does not explicitly state an opt-out option, but users may have rights under Data Protection Laws.",
+        "extended_simple_answer": {
+          "comment": "Users should refer to their rights under Data Protection Laws for more details.",
+          "content": "The privacy policy indicates that users can inquire about their rights regarding data deletion, but does not provide a direct opt-out mechanism."
+        }
+      },
+      "analysis": "The absence of a clear opt-out mechanism in the privacy policy suggests that users may need to rely on their rights under Data Protection Laws to manage their data.",
+      "reference": "Section 2: Data collected and Section 1: Scope of this privacy policy"
+    }
+  },
+  {
+    "meta": {
+      "id": 1669683359,
+      "url": "https://shoorah.io/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties as outlined in the privacy policy. This includes sharing information for various purposes such as improving services, marketing, and analytics.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is done to enhance user experience and for operational purposes.",
+          "content": "The privacy policy states that data may be shared with third parties for purposes such as analytics, marketing, and improving services."
+        }
+      },
+      "analysis": "The app's data sharing practices are in line with common industry standards for enhancing user experience and operational efficiency.",
+      "reference": "Section 6: Share Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1669683359,
+      "url": "https://shoorah.io/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify the exact third parties with whom the app shares data. It only mentions that data may be shared with third parties for various purposes, including improving services and advertising.",
+        "simple_answer": "The app shares data with unspecified third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data sharing occurs but lacks specific details on the third parties involved.",
+          "content": "Data may be shared with third parties for purposes such as improving services and advertising, but specific third parties are not listed."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy may raise concerns for users regarding transparency and control over their data.",
+      "reference": "Section 6: Share Data"
+    }
+  }
+]

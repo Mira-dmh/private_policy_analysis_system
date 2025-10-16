@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 6476157808,
+            "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions collecting information such as unique device identifiers and other diagnostic data, browser type, and usage data. This indicates that data collection is declared.",
+            "reference": "We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device. While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission: We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device. URL: https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+        },
+        "source_documents": [
+            {
+                "id": "41975f09a208677d185276216f238ce1608e41d28a57e10fa9a8cc8e0d9df879",
+                "score": 0.035012625,
+                "excerpt": "type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nWhile using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to th...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "c49762404894cf6185742c1b6780ba11f36f32e55df88223db1c9b53816a50a1",
+                "score": 0.0094490815,
+                "excerpt": "Privacy Policy for Feels\nLast updated: December 28, 2023\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "6c74ed70a4a15630462aab48617e5a8567171173d46661991b0cad26a96505cd",
+                "score": 0.002800927,
+                "excerpt": "We are legally obligated to retain this data for longer time periods.\nYour information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consen...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "0a50b06d0166cd80835622eceaa9c83759de5daea3e8963259f68c318e75a2cb",
+                "score": 0.0027900378,
+                "excerpt": "page visit).\nYou means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail address\nFirst name and last name\nUsage Data\nUsage Data is collected automatically...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "15701b1e89773321594fbfc1b11528f948ba0e0a9411fd25dfdcfe3fbd79def9",
+                "score": 0.0023231625,
+                "excerpt": "good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. I...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6476157808,
+            "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects usage data, including the device's Internet Protocol address, browser type, browser version, pages visited, date and time of visit, time spent on pages, unique device identifiers, and other diagnostic data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol address",
+                        "browser type",
+                        "browser version",
+                        "pages visited",
+                        "date and time of visit",
+                        "time spent on pages",
+                        "unique device identifiers",
+                        "other diagnostic data"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific data types listed in the privacy policy document that the app collects from users.",
+            "reference": "Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. URL: https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+        },
+        "source_documents": [
+            {
+                "id": "41975f09a208677d185276216f238ce1608e41d28a57e10fa9a8cc8e0d9df879",
+                "score": 0.23091978,
+                "excerpt": "type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nWhile using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to th...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "0a50b06d0166cd80835622eceaa9c83759de5daea3e8963259f68c318e75a2cb",
+                "score": 0.07572137,
+                "excerpt": "page visit).\nYou means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail address\nFirst name and last name\nUsage Data\nUsage Data is collected automatically...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "14c2a4e6e37cd6d2fef20677a65786de455c251d719f9773abfc539948eb5403",
+                "score": 0.02854415,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication refers to Feels, the software program provided by the Company.\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Andretti Investments, LLC, 3345 N Troy St..\nCountry refers to: Illinois, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates ...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "c49762404894cf6185742c1b6780ba11f36f32e55df88223db1c9b53816a50a1",
+                "score": 0.010408314,
+                "excerpt": "Privacy Policy for Feels\nLast updated: December 28, 2023\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "7082ad562820f276c884c2f684979898393c1b628b70e91ac5392a9b9694338a",
+                "score": 0.0034162789,
+                "excerpt": "performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.\nTo contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the ...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6476157808,
+            "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the Company may use Personal Data for various purposes, such as providing and maintaining the service, managing user accounts, contacting users, and performing contractual obligations.",
+            "reference": "The Company may use Personal Data for the following purposes: To provide and maintain our Service, including to monitor the usage of our Service. To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user. For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service. To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication. URL: https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+        },
+        "source_documents": [
+            {
+                "id": "41975f09a208677d185276216f238ce1608e41d28a57e10fa9a8cc8e0d9df879",
+                "score": 0.089136936,
+                "excerpt": "type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nWhile using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to th...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "c49762404894cf6185742c1b6780ba11f36f32e55df88223db1c9b53816a50a1",
+                "score": 0.06325052,
+                "excerpt": "Privacy Policy for Feels\nLast updated: December 28, 2023\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "02940a3fbf43e56dc646172ef28a60f2f9f4484de15f492f344dd8018cc721a1",
+                "score": 0.014281933,
+                "excerpt": "liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.\nFor other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.\nWe may share Your personal information in the following situations:\nThe Company will retain Your Personal...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "14c2a4e6e37cd6d2fef20677a65786de455c251d719f9773abfc539948eb5403",
+                "score": 0.0022783307,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication refers to Feels, the software program provided by the Company.\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Andretti Investments, LLC, 3345 N Troy St..\nCountry refers to: Illinois, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates ...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "15701b1e89773321594fbfc1b11528f948ba0e0a9411fd25dfdcfe3fbd79def9",
+                "score": 0.0018315102,
+                "excerpt": "good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. I...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6476157808,
+            "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can delete data and request assistance in deleting the Personal Data collected about them. Users also have the ability to delete certain information about themselves from within the Service and update, amend, or delete their information at any time by visiting the account settings section or by contacting the company.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the user has the right to delete or request assistance in deleting the Personal Data collected about them. Users can also delete certain information from within the Service and update, amend, or delete their information at any time by visiting the account settings section or contacting the company.",
+            "reference": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You. Our Service may give You the ability to delete certain information about You from within the Service. You may update, amend, or delete Your information at any time by signing in to Your Account... URL: https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+        },
+        "source_documents": [
+            {
+                "id": "6c74ed70a4a15630462aab48617e5a8567171173d46661991b0cad26a96505cd",
+                "score": 0.521593,
+                "excerpt": "We are legally obligated to retain this data for longer time periods.\nYour information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consen...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "67b2f79e0d9bffe8d6b510c42f62194b05523e7d84d07a22b0a9c0f17302fcab",
+                "score": 0.45534995,
+                "excerpt": "may give You the ability to delete certain information about You from within the Service.\nYou may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.\nPlease note, however, that We may need to retain certain information when we have a l...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "15701b1e89773321594fbfc1b11528f948ba0e0a9411fd25dfdcfe3fbd79def9",
+                "score": 0.08093671,
+                "excerpt": "good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. I...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "41975f09a208677d185276216f238ce1608e41d28a57e10fa9a8cc8e0d9df879",
+                "score": 0.017242778,
+                "excerpt": "type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nWhile using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to th...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "11790b39ce408824b7b4b458cb5f25d1fd379bc87f031c3d4a3228a4c66c90fe",
+                "score": 0.013376604,
+                "excerpt": "Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nWe may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6476157808,
+            "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes such as data analysis, identifying trends, evaluating and improving the service, products, services, marketing, and user experience.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app shares personal information for various purposes, which includes sharing with third parties.",
+            "reference": "We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. URL: https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+        },
+        "source_documents": [
+            {
+                "id": "02940a3fbf43e56dc646172ef28a60f2f9f4484de15f492f344dd8018cc721a1",
+                "score": 0.074500255,
+                "excerpt": "liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.\nFor other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.\nWe may share Your personal information in the following situations:\nThe Company will retain Your Personal...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "11790b39ce408824b7b4b458cb5f25d1fd379bc87f031c3d4a3228a4c66c90fe",
+                "score": 0.024987794,
+                "excerpt": "Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nWe may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "6c74ed70a4a15630462aab48617e5a8567171173d46661991b0cad26a96505cd",
+                "score": 0.024609929,
+                "excerpt": "We are legally obligated to retain this data for longer time periods.\nYour information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consen...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "41975f09a208677d185276216f238ce1608e41d28a57e10fa9a8cc8e0d9df879",
+                "score": 0.024563089,
+                "excerpt": "type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nWhile using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to th...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "15701b1e89773321594fbfc1b11528f948ba0e0a9411fd25dfdcfe3fbd79def9",
+                "score": 0.01784874,
+                "excerpt": "good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. I...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6476157808,
+            "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties for purposes such as data analysis, identifying usage trends, and evaluating and improving service, products, services, marketing, and user experience.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Data analysis companies",
+                        "Service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing personal information with third parties for various purposes, including data analysis and service improvement, without specifying the actual names of third parties.",
+            "reference": "We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. URL: https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+        },
+        "source_documents": [
+            {
+                "id": "02940a3fbf43e56dc646172ef28a60f2f9f4484de15f492f344dd8018cc721a1",
+                "score": 0.17938675,
+                "excerpt": "liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.\nFor other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.\nWe may share Your personal information in the following situations:\nThe Company will retain Your Personal...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "11790b39ce408824b7b4b458cb5f25d1fd379bc87f031c3d4a3228a4c66c90fe",
+                "score": 0.08509905,
+                "excerpt": "Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nWe may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "15701b1e89773321594fbfc1b11528f948ba0e0a9411fd25dfdcfe3fbd79def9",
+                "score": 0.04410091,
+                "excerpt": "good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. I...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "14c2a4e6e37cd6d2fef20677a65786de455c251d719f9773abfc539948eb5403",
+                "score": 0.040464837,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication refers to Feels, the software program provided by the Company.\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Andretti Investments, LLC, 3345 N Troy St..\nCountry refers to: Illinois, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates ...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            },
+            {
+                "id": "41975f09a208677d185276216f238ce1608e41d28a57e10fa9a8cc8e0d9df879",
+                "score": 0.039564554,
+                "excerpt": "type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nWhile using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to th...",
+                "url": "https://www.freeprivacypolicy.com/live/704ca769-7bfa-4b8a-b83a-0986bae21dcf"
+            }
+        ]
+    }
+]

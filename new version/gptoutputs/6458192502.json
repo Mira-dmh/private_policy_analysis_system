@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6458192502,
+      "url": "https://ashleyturner.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal data may be collected directly from users when they voluntarily provide their personal details on the Service. It also outlines the types of information collected, including both non-personal and personal information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the types of data collected and the sources from which it is obtained.",
+          "content": "The app collects personal data directly from users, including information such as email address, username, and optional details like a photo. It also collects non-personal information to monitor and improve the service."
+        }
+      },
+      "analysis": "The privacy policy provides transparency regarding data collection practices, ensuring users are informed about what data is collected and how it is used.",
+      "reference": "Section 3: Where do we collect personal data about you from? and Section 4: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6458192502,
+      "url": "https://ashleyturner.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects two distinct kinds of information: non-personal information and personal information. Non-personal information includes data such as the pages accessed, which helps determine usage statistics. Personal information includes details like IP address, email address, username, password, approximate location, and any optional information provided by the user, such as text or photographs.",
+        "simple_answer": "The app collects non-personal information and personal information.",
+        "extended_simple_answer": {
+          "comment": "The app collects both non-personal and personal data to enhance user experience and service functionality.",
+          "content": "Non-personal information includes usage statistics, while personal information includes IP address, email, username, password, location, and optional user-provided content."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6458192502,
+      "url": "https://ashleyturner.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The purpose of the Service is described as a hub for yoga, meditation, and holistic mental health. Additionally, the privacy policy outlines that personal data is collected to enable specific information processing activities, such as sending service-related communications and allowing users to interact within the app.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the purpose of the app and the reasons for collecting personal data.",
+          "content": "The purpose of this Service is Your hub for yoga, meditation & holistic mental health."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What is the Purpose of this Service?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6458192502,
+      "url": "https://ashleyturner.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by choosing not to provide personal data. Additionally, users have the right to request the deletion of their personal information, and the service will securely and permanently delete personal information when there is no justification for its further retention or upon the user's request.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal data and can choose not to provide it.",
+          "content": "Your decision to disclose your personal information to Us is entirely voluntary. If you do not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App. We will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delete it."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4 and Section 6"
+    }
+  },
+  {
+    "meta": {
+      "id": 6458192502,
+      "url": "https://ashleyturner.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, personal information collected on this site may be shared with the Artist, the Artist’s record label, or any service providers contracted to operate this site, or those contracted to perform promotional and marketing activities on the Artist’s behalf. These contractors have agreed with us to use personal information of site visitors only for the purposes of carrying out these operations and/or activities.",
+        "simple_answer": "Yes, the app shares data with certain third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing is limited to specific contractors and for defined purposes.",
+          "content": "Personal information may be shared with the Artist, the Artist’s record label, or service providers for operational and marketing activities."
+        }
+      },
+      "analysis": "The app does share data with third parties, but only under specific conditions and for specific purposes related to the operation and promotion of the service.",
+      "reference": "Section 4: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6458192502,
+      "url": "https://ashleyturner.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "Personal information collected on this site may be shared with the Artist, the Artist’s record label, or any service providers contracted to operate this site, or those contracted to perform promotional and marketing activities on the Artist’s behalf.",
+        "simple_answer": "The app shares data with the Artist, the Artist’s record label, and contracted service providers.",
+        "extended_simple_answer": {
+          "comment": "The sharing is limited to specific parties involved in operating the site and promotional activities.",
+          "content": "Personal information may be shared with the Artist, the Artist’s record label, or service providers for operational and marketing purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: What Information Do We Collect and Why?"
+    }
+  }
+]

@@ -1,0 +1,340 @@
+[
+    {
+        "meta": {
+            "id": 6478505634,
+            "url": "https://kahunas.io/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the types of data collected by the app, indicating that they declare the collection of data.",
+            "reference": "Log data (IP address, browser, pages visited, time spent), Device data (OS, model, identifiers), Location data (with user consent), Usage behavior, Cookies and analytics data, Contact details (name, email, phone), Profile data (username, preferences), Payment information (via Stripe), Support messages, Uploaded files (images, audio, documents), Chat messages and communications between clients and coaches (GetStream integrations), Video content and preferences (YouTube, Vimeo integrations). URL: https://kahunas.io/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "48d2e4d70bd607035eba6995281e0fb93203b4db83b762f8fe66d95f2d2ba557",
+                "score": 0.01384861,
+                "excerpt": "All incidents are thoroughly investigated, documented, and used to improve our security measures\nTransparency: We maintain records of all breaches and remedial actions taken\nWe may update this Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. Material changes will be communicated via:\nEmail notification to registered users\nIn-app notifications\nProminent notice on our website\nThe latest version is always available at https://kahunas.io...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "9c1a4084d05f7c9e08b6b186d4a88de5f72a34937de49ab1b3b405e3bf7406f0",
+                "score": 0.01374232,
+                "excerpt": "grounds for data processing.\nData Controller: When we collect and process personal data for our own purposes—such as managing user accounts, analyzing platform usage, sending marketing communications, or enhancing our services—Kahunas acts as a data controller.\nCoaches are responsible for ensuring they have appropriate legal grounds and disclosures when using our platform with their clients. We provide guidance and tools to support compliance.\nDepending on your jurisdiction, you may have the rig...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "46f1a593829625cb4c69e36a9718357ca585d7e6480a1f02adb92ad387be7bdd",
+                "score": 0.010818449,
+                "excerpt": "This Privacy Policy (\"Policy\") explains how Kahunas FZE (\"Kahunas,\" \"we,\" \"us,\" or \"our\") collects, uses, shares, and protects personal information through our websites, mobile and desktop applications, and services (collectively, the \"Services\"). Kahunas is a company incorporated in the United Arab Emirates, with its registered office at Coworking Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates.\nWe are committed to protecting your privacy and ensuring transpare...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "7d5fb7c701afec72504039a3b326cbd3cb7c9d9068a957bd9db1562b09728b9f",
+                "score": 0.008380453,
+                "excerpt": "visited, time spent)\nDevice data (OS, model, identifiers)\nLocation data (with user consent)\nUsage behavior\nCookies and analytics data\nContact details (name, email, phone)\nProfile data (username, preferences)\nPayment information (via Stripe)\nSupport messages\nUploaded files (images, audio, documents)\nChat messages and communications between clients and coaches (GetStream integrations)\nVideo content and preferences (YouTube, Vimeo integrations)\nWith your explicit consent, we may collect:\nCardiovasc...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "97793aad468368c087e2ff287648d5b5a50f529b29c26b9a4e7d181082bf02c0",
+                "score": 0.0041179177,
+                "excerpt": "interests (analytics, security, marketing, AI training with properly anonymized non-health data)\nLegal obligation (e.g., financial recordkeeping)\nVital interests (emergencies)\nWe may share your data with:\nCoaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements:\nStripe (payment processing)\nAWS (hosting and infrastructure)\nSendGrid (messaging and communications)\nGetStream (secure coach-client chat and messaging platform)\nBunnyCDN (conte...",
+                "url": "https://kahunas.io/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478505634,
+            "url": "https://kahunas.io/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects a wide range of data including device data, location data, usage behavior, contact details, profile data, payment information, support messages, uploaded files, chat messages, video content preferences, health data like cardiovascular metrics, physical activity, sleep data, nutrition, biomarkers, respiratory metrics, and physical recovery indicators among others.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device data (OS, model, identifiers)",
+                        "Location data (with user consent)",
+                        "Usage behavior",
+                        "Contact details (name, email, phone)",
+                        "Profile data (username, preferences)",
+                        "Payment information (via Stripe)",
+                        "Support messages",
+                        "Uploaded files (images, audio, documents)",
+                        "Chat messages and communications between clients and coaches",
+                        "Video content and preferences",
+                        "Health data: Cardiovascular metrics, physical activity, sleep data, nutrition, biomarkers, respiratory metrics, physical recovery indicators"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states the various types of data collected by the app, ranging from basic device and contact details to more sensitive health-related data. The app collects a diverse set of data to enhance its services and provide personalized experiences.",
+            "reference": "Device data (OS, model, identifiers), Location data (with user consent), Usage behavior, Contact details (name, email, phone), Profile data (username, preferences), Payment information (via Stripe), Support messages, Uploaded files (images, audio, documents), Chat messages and communications between clients and coaches, Video content and preferences, Health data: Cardiovascular metrics, physical activity, sleep data, nutrition, biomarkers, respiratory metrics, physical recovery indicators. URL: https://kahunas.io/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7d5fb7c701afec72504039a3b326cbd3cb7c9d9068a957bd9db1562b09728b9f",
+                "score": 0.42101613,
+                "excerpt": "visited, time spent)\nDevice data (OS, model, identifiers)\nLocation data (with user consent)\nUsage behavior\nCookies and analytics data\nContact details (name, email, phone)\nProfile data (username, preferences)\nPayment information (via Stripe)\nSupport messages\nUploaded files (images, audio, documents)\nChat messages and communications between clients and coaches (GetStream integrations)\nVideo content and preferences (YouTube, Vimeo integrations)\nWith your explicit consent, we may collect:\nCardiovasc...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "8f88db0c8ede39ccd6f760425bba67f4e76237faf54f57b8ae2c6303452bf973",
+                "score": 0.050893717,
+                "excerpt": "platforms: YouTube, Vimeo (viewing preferences, workout video interactions)\nFitness tracking devices and apps (steps, workouts, heart rate, sleep data)\nOther health and fitness applications you choose to connect\nWe only access third-party data you explicitly authorize, and you can revoke these connections at any time through your account settings.\nWe adhere to data minimization principles, collecting only the information necessary to provide our Services effectively.\nWe use personal data to:\nPro...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "9c1a4084d05f7c9e08b6b186d4a88de5f72a34937de49ab1b3b405e3bf7406f0",
+                "score": 0.04232459,
+                "excerpt": "grounds for data processing.\nData Controller: When we collect and process personal data for our own purposes—such as managing user accounts, analyzing platform usage, sending marketing communications, or enhancing our services—Kahunas acts as a data controller.\nCoaches are responsible for ensuring they have appropriate legal grounds and disclosures when using our platform with their clients. We provide guidance and tools to support compliance.\nDepending on your jurisdiction, you may have the rig...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "97793aad468368c087e2ff287648d5b5a50f529b29c26b9a4e7d181082bf02c0",
+                "score": 0.03061778,
+                "excerpt": "interests (analytics, security, marketing, AI training with properly anonymized non-health data)\nLegal obligation (e.g., financial recordkeeping)\nVital interests (emergencies)\nWe may share your data with:\nCoaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements:\nStripe (payment processing)\nAWS (hosting and infrastructure)\nSendGrid (messaging and communications)\nGetStream (secure coach-client chat and messaging platform)\nBunnyCDN (conte...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "46f1a593829625cb4c69e36a9718357ca585d7e6480a1f02adb92ad387be7bdd",
+                "score": 0.02970375,
+                "excerpt": "This Privacy Policy (\"Policy\") explains how Kahunas FZE (\"Kahunas,\" \"we,\" \"us,\" or \"our\") collects, uses, shares, and protects personal information through our websites, mobile and desktop applications, and services (collectively, the \"Services\"). Kahunas is a company incorporated in the United Arab Emirates, with its registered office at Coworking Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates.\nWe are committed to protecting your privacy and ensuring transpare...",
+                "url": "https://kahunas.io/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478505634,
+            "url": "https://kahunas.io/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines that the app declares the purpose of data collection and use, including providing and improving services, managing user accounts, processing payments, delivering personalized content, conducting analytics, ensuring legal compliance and security, conducting marketing, enhancing AI features and services, and generating personalized health scores.",
+            "reference": "We use personal data to: Provide and improve our Services, Create and manage user accounts, Process payments, Respond to support inquiries, ... Generate personalized health and wellness scores ... URL: https://kahunas.io/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "46f1a593829625cb4c69e36a9718357ca585d7e6480a1f02adb92ad387be7bdd",
+                "score": 0.12776141,
+                "excerpt": "This Privacy Policy (\"Policy\") explains how Kahunas FZE (\"Kahunas,\" \"we,\" \"us,\" or \"our\") collects, uses, shares, and protects personal information through our websites, mobile and desktop applications, and services (collectively, the \"Services\"). Kahunas is a company incorporated in the United Arab Emirates, with its registered office at Coworking Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates.\nWe are committed to protecting your privacy and ensuring transpare...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "9c1a4084d05f7c9e08b6b186d4a88de5f72a34937de49ab1b3b405e3bf7406f0",
+                "score": 0.07558479,
+                "excerpt": "grounds for data processing.\nData Controller: When we collect and process personal data for our own purposes—such as managing user accounts, analyzing platform usage, sending marketing communications, or enhancing our services—Kahunas acts as a data controller.\nCoaches are responsible for ensuring they have appropriate legal grounds and disclosures when using our platform with their clients. We provide guidance and tools to support compliance.\nDepending on your jurisdiction, you may have the rig...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "48d2e4d70bd607035eba6995281e0fb93203b4db83b762f8fe66d95f2d2ba557",
+                "score": 0.042245492,
+                "excerpt": "All incidents are thoroughly investigated, documented, and used to improve our security measures\nTransparency: We maintain records of all breaches and remedial actions taken\nWe may update this Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. Material changes will be communicated via:\nEmail notification to registered users\nIn-app notifications\nProminent notice on our website\nThe latest version is always available at https://kahunas.io...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "8f88db0c8ede39ccd6f760425bba67f4e76237faf54f57b8ae2c6303452bf973",
+                "score": 0.006265534,
+                "excerpt": "platforms: YouTube, Vimeo (viewing preferences, workout video interactions)\nFitness tracking devices and apps (steps, workouts, heart rate, sleep data)\nOther health and fitness applications you choose to connect\nWe only access third-party data you explicitly authorize, and you can revoke these connections at any time through your account settings.\nWe adhere to data minimization principles, collecting only the information necessary to provide our Services effectively.\nWe use personal data to:\nPro...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "97793aad468368c087e2ff287648d5b5a50f529b29c26b9a4e7d181082bf02c0",
+                "score": 0.0059340666,
+                "excerpt": "interests (analytics, security, marketing, AI training with properly anonymized non-health data)\nLegal obligation (e.g., financial recordkeeping)\nVital interests (emergencies)\nWe may share your data with:\nCoaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements:\nStripe (payment processing)\nAWS (hosting and infrastructure)\nSendGrid (messaging and communications)\nGetStream (secure coach-client chat and messaging platform)\nBunnyCDN (conte...",
+                "url": "https://kahunas.io/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478505634,
+            "url": "https://kahunas.io/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of automated scoring while maintaining access to raw health data. Additionally, users have the right to request deletion of their data and can contact support@kahunas.io for this purpose.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the right to opt out of automated scoring, request deletion of their data, and maintain access to their raw health data upon opting out.",
+            "reference": "Opt out of automated scoring while maintaining access to raw health data. Data portability. To make a request, contact support@kahunas.io with sufficient detail to verify your identity. URL: https://kahunas.io/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "25fbd19348c4dbdb29e222585c9080baa81c11f2e4ace12736035348deeab9a8",
+                "score": 0.8156734,
+                "excerpt": "Calculations: We use automated algorithms to analyze your health data and generate numerical health scores (0-100 scale). These calculations process multiple health data points to create:\n- Sleep quality assessments based on duration, sleep stages, and consistency\n- Stress level evaluations using heart rate variability and cardiovascular indicators\n- Anxiety indicators combining stress metrics with sleep quality\n- Training readiness scores incorporating recovery and activity data\n- Overall wellb...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "9c1a4084d05f7c9e08b6b186d4a88de5f72a34937de49ab1b3b405e3bf7406f0",
+                "score": 0.79390603,
+                "excerpt": "grounds for data processing.\nData Controller: When we collect and process personal data for our own purposes—such as managing user accounts, analyzing platform usage, sending marketing communications, or enhancing our services—Kahunas acts as a data controller.\nCoaches are responsible for ensuring they have appropriate legal grounds and disclosures when using our platform with their clients. We provide guidance and tools to support compliance.\nDepending on your jurisdiction, you may have the rig...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "8c27de7f4f85cbd8fd48e509ca524120b0bb86b462c5d241dc4a020635192f99",
+                "score": 0.37685242,
+                "excerpt": "12 months\nSupport messages: 3 years\nMarketing preferences: 2 years after opt-out\nBackup data: Maintained according to our disaster recovery procedures and deleted in line with primary data retention schedules\nYou may request earlier deletion where permissible.\nWe use cookies and similar technologies:\nEssential cookies (platform functionality)\nAnalytics cookies (usage insights)\nMarketing cookies (requires consent)\nYou can manage preferences via your browser or our consent banner.\nWe process data ...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "97793aad468368c087e2ff287648d5b5a50f529b29c26b9a4e7d181082bf02c0",
+                "score": 0.29982224,
+                "excerpt": "interests (analytics, security, marketing, AI training with properly anonymized non-health data)\nLegal obligation (e.g., financial recordkeeping)\nVital interests (emergencies)\nWe may share your data with:\nCoaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements:\nStripe (payment processing)\nAWS (hosting and infrastructure)\nSendGrid (messaging and communications)\nGetStream (secure coach-client chat and messaging platform)\nBunnyCDN (conte...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "7d5fb7c701afec72504039a3b326cbd3cb7c9d9068a957bd9db1562b09728b9f",
+                "score": 0.100172214,
+                "excerpt": "visited, time spent)\nDevice data (OS, model, identifiers)\nLocation data (with user consent)\nUsage behavior\nCookies and analytics data\nContact details (name, email, phone)\nProfile data (username, preferences)\nPayment information (via Stripe)\nSupport messages\nUploaded files (images, audio, documents)\nChat messages and communications between clients and coaches (GetStream integrations)\nVideo content and preferences (YouTube, Vimeo integrations)\nWith your explicit consent, we may collect:\nCardiovasc...",
+                "url": "https://kahunas.io/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478505634,
+            "url": "https://kahunas.io/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties including coaches, essential service providers (Stripe, AWS, SendGrid, GetStream, BunnyCDN, YouTube, Vimeo, Apple Health, Google Fit), legal or regulatory authorities, successor entities, and third-party integrations.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": "Coaches, Stripe, AWS, SendGrid, GetStream, BunnyCDN, YouTube, Vimeo, Apple Health, Google Fit, legal or regulatory authorities, successor entities, third-party integrations"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with various third parties for different purposes as mentioned in the 'We may share your data with' section.",
+            "reference": "Coaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements: Stripe (payment processing), AWS (hosting and infrastructure), SendGrid (messaging and communications), GetStream (secure coach-client chat and messaging platform), BunnyCDN (content delivery), YouTube, Vimeo (video content delivery), Apple Health, Google Fit (health data synchronization), Legal or regulatory authorities (if required), Successor entities (e.g., mergers or acquisitions), Third-party integrations (with your explicit consent). URL: https://kahunas.io/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "97793aad468368c087e2ff287648d5b5a50f529b29c26b9a4e7d181082bf02c0",
+                "score": 0.891811,
+                "excerpt": "interests (analytics, security, marketing, AI training with properly anonymized non-health data)\nLegal obligation (e.g., financial recordkeeping)\nVital interests (emergencies)\nWe may share your data with:\nCoaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements:\nStripe (payment processing)\nAWS (hosting and infrastructure)\nSendGrid (messaging and communications)\nGetStream (secure coach-client chat and messaging platform)\nBunnyCDN (conte...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "8f88db0c8ede39ccd6f760425bba67f4e76237faf54f57b8ae2c6303452bf973",
+                "score": 0.6225741,
+                "excerpt": "platforms: YouTube, Vimeo (viewing preferences, workout video interactions)\nFitness tracking devices and apps (steps, workouts, heart rate, sleep data)\nOther health and fitness applications you choose to connect\nWe only access third-party data you explicitly authorize, and you can revoke these connections at any time through your account settings.\nWe adhere to data minimization principles, collecting only the information necessary to provide our Services effectively.\nWe use personal data to:\nPro...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "7d5fb7c701afec72504039a3b326cbd3cb7c9d9068a957bd9db1562b09728b9f",
+                "score": 0.5065037,
+                "excerpt": "visited, time spent)\nDevice data (OS, model, identifiers)\nLocation data (with user consent)\nUsage behavior\nCookies and analytics data\nContact details (name, email, phone)\nProfile data (username, preferences)\nPayment information (via Stripe)\nSupport messages\nUploaded files (images, audio, documents)\nChat messages and communications between clients and coaches (GetStream integrations)\nVideo content and preferences (YouTube, Vimeo integrations)\nWith your explicit consent, we may collect:\nCardiovasc...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "9ec952f4a73f163f3383b5bc47576b5a4334a3891bd4b39f9c8790980e348e92",
+                "score": 0.05686155,
+                "excerpt": "quality)\n- Stress Score (derived from heart rate variability, resting heart rate, and blood pressure)\n- Anxiety Score (combination of stress indicators and sleep quality metrics)\n- Readiness Score (sleep quality, HRV, and activity levels for training preparation)\n- Wellbeing Score (daily steps, sleep patterns, and cardiovascular health indicators)\nThese scores use established health metrics and ranges (0-100 scale) to help you and your coach understand your health trends and optimize your wellne...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "48d2e4d70bd607035eba6995281e0fb93203b4db83b762f8fe66d95f2d2ba557",
+                "score": 0.03574581,
+                "excerpt": "All incidents are thoroughly investigated, documented, and used to improve our security measures\nTransparency: We maintain records of all breaches and remedial actions taken\nWe may update this Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. Material changes will be communicated via:\nEmail notification to registered users\nIn-app notifications\nProminent notice on our website\nThe latest version is always available at https://kahunas.io...",
+                "url": "https://kahunas.io/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6478505634,
+            "url": "https://kahunas.io/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with coaches, Essential service providers (Stripe, AWS, SendGrid, GetStream, BunnyCDN), YouTube, Vimeo, Apple Health, Google Fit, legal or regulatory authorities, successor entities, and third-party integrations with explicit consent.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Coaches",
+                        "Essential service providers: Stripe, AWS, SendGrid, GetStream, BunnyCDN",
+                        "YouTube, Vimeo",
+                        "Apple Health, Google Fit",
+                        "Legal or regulatory authorities",
+                        "Successor entities",
+                        "Third-party integrations with explicit consent"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the third parties with whom the app shares data, ensuring transparency in data sharing practices.",
+            "reference": "Coaches (if you're a client working with a coach), Essential service providers under strict data processing agreements: Stripe (payment processing), AWS (hosting and infrastructure), SendGrid (messaging and communications), GetStream (secure coach-client chat and messaging platform), BunnyCDN (content delivery), YouTube, Vimeo (video content delivery), Apple Health, Google Fit (health data synchronization), Legal or regulatory authorities (if required), Successor entities (e.g., mergers or acquisitions), Third-party integrations (with your explicit consent). URL: https://kahunas.io/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "97793aad468368c087e2ff287648d5b5a50f529b29c26b9a4e7d181082bf02c0",
+                "score": 0.95257413,
+                "excerpt": "interests (analytics, security, marketing, AI training with properly anonymized non-health data)\nLegal obligation (e.g., financial recordkeeping)\nVital interests (emergencies)\nWe may share your data with:\nCoaches (if you're a client working with a coach)\nEssential service providers under strict data processing agreements:\nStripe (payment processing)\nAWS (hosting and infrastructure)\nSendGrid (messaging and communications)\nGetStream (secure coach-client chat and messaging platform)\nBunnyCDN (conte...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "8f88db0c8ede39ccd6f760425bba67f4e76237faf54f57b8ae2c6303452bf973",
+                "score": 0.60754675,
+                "excerpt": "platforms: YouTube, Vimeo (viewing preferences, workout video interactions)\nFitness tracking devices and apps (steps, workouts, heart rate, sleep data)\nOther health and fitness applications you choose to connect\nWe only access third-party data you explicitly authorize, and you can revoke these connections at any time through your account settings.\nWe adhere to data minimization principles, collecting only the information necessary to provide our Services effectively.\nWe use personal data to:\nPro...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "7d5fb7c701afec72504039a3b326cbd3cb7c9d9068a957bd9db1562b09728b9f",
+                "score": 0.5522077,
+                "excerpt": "visited, time spent)\nDevice data (OS, model, identifiers)\nLocation data (with user consent)\nUsage behavior\nCookies and analytics data\nContact details (name, email, phone)\nProfile data (username, preferences)\nPayment information (via Stripe)\nSupport messages\nUploaded files (images, audio, documents)\nChat messages and communications between clients and coaches (GetStream integrations)\nVideo content and preferences (YouTube, Vimeo integrations)\nWith your explicit consent, we may collect:\nCardiovasc...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "9ec952f4a73f163f3383b5bc47576b5a4334a3891bd4b39f9c8790980e348e92",
+                "score": 0.44676623,
+                "excerpt": "quality)\n- Stress Score (derived from heart rate variability, resting heart rate, and blood pressure)\n- Anxiety Score (combination of stress indicators and sleep quality metrics)\n- Readiness Score (sleep quality, HRV, and activity levels for training preparation)\n- Wellbeing Score (daily steps, sleep patterns, and cardiovascular health indicators)\nThese scores use established health metrics and ranges (0-100 scale) to help you and your coach understand your health trends and optimize your wellne...",
+                "url": "https://kahunas.io/privacy"
+            },
+            {
+                "id": "46f1a593829625cb4c69e36a9718357ca585d7e6480a1f02adb92ad387be7bdd",
+                "score": 0.036977556,
+                "excerpt": "This Privacy Policy (\"Policy\") explains how Kahunas FZE (\"Kahunas,\" \"we,\" \"us,\" or \"our\") collects, uses, shares, and protects personal information through our websites, mobile and desktop applications, and services (collectively, the \"Services\"). Kahunas is a company incorporated in the United Arab Emirates, with its registered office at Coworking Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates.\nWe are committed to protecting your privacy and ensuring transpare...",
+                "url": "https://kahunas.io/privacy"
+            }
+        ]
+    }
+]

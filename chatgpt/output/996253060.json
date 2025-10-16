@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 996253060,
+      "url": "https://electrongoo.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of information, including voluntarily provided information such as name, address, email address, and billing information, as well as automatically collected information like cookies and server logs.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of information collected.",
+          "content": "The website collects voluntarily provided information and automatically collected information when visiting the site."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, ensuring transparency about data practices.",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 996253060,
+      "url": "https://electrongoo.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including voluntarily provided information such as your name, address, email address, billing and/or credit card information, as well as information automatically collected when visiting the website, which may include cookies, third-party tracking technologies, and server logs. Additionally, it may gather information about your computer hardware and/or software, including your IP address, browser type, domain name, access time, and various website addresses.",
+        "simple_answer": "The app collects personal information like name, address, email, billing info, and automatically collected data like IP address and cookies.",
+        "extended_simple_answer": {
+          "comment": "The app collects both voluntarily provided and automatically collected information.",
+          "content": "Voluntarily provided information includes name, address, email, and billing information. Automatically collected information includes cookies, IP address, browser type, and server logs."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 996253060,
+      "url": "https://electrongoo.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it may collect and use personal information to assist in the operation of the website and to ensure delivery of the services requested. It may also use personal information to inform users of other possible products and services, and to conduct surveys or research questionnaires related to user opinions on current or potential new services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that personal information is used for operational purposes and to inform users about services.",
+          "content": "The app collects personal information to assist in website operation, deliver requested services, inform users of other products/services, and conduct surveys."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 996253060,
+      "url": "https://electrongoo.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection. However, it states that users can refrain from using the website if they do not agree with the terms. Additionally, if personal information is collected from children under the age of thirteen, the company will take steps to delete such information upon determination of its inadvertent collection. Users are also notified if their personally identifiable information will be used in a manner different from what was initially stated, and they have the option to permit or deny such use.",
+        "simple_answer": "Users cannot explicitly opt out of data collection but can stop using the website. They can request deletion of data if it involves children under 13.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes user consent and the ability to refrain from using the site.",
+          "content": "Users must accept the terms to use the site, and they can stop using it if they disagree. For children under 13, the policy states that information will be deleted if collected without consent."
+        }
+      },
+      "analysis": "The privacy policy indicates that while there is no direct opt-out mechanism for data collection, users have the option to stop using the service. The policy also includes provisions for the deletion of data related to minors.",
+      "reference": "Collection of Information, Use of Information Collected, Children Under Age of 13, Acceptance of Terms"
+    }
+  },
+  {
+    "meta": {
+      "id": 996253060,
+      "url": "https://electrongoo.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "electrongoo llc does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "electrongoo llc is committed to not selling, renting, or leasing customer information to third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 996253060,
+      "url": "https://electrongoo.com/privacypolicy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "electrongoo llc does not now, nor will it in the future, sell, rent or lease any of its customer lists and/or names to any third parties.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy explicitly states that customer lists and names will not be sold, rented, or leased to third parties.",
+          "content": "electrongoo llc does not share data with third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information Collected"
+    }
+  }
+]

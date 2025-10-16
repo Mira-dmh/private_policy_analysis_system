@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6478650062,
+      "url": "https://www.joysmoremobile.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that during usage of the service, there might be instances where specific personally identifiable information is requested, and it also mentions the automatic collection of usage data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected, including personal data and usage data.",
+          "content": "The policy states that personal data may include email addresses and usage data, which is automatically gathered as users interact with the service."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478650062,
+      "url": "https://www.joysmoremobile.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including Personal Data such as email addresses and Usage Data, which is automatically gathered during interactions with the service. Usage Data includes details like the device's IP address, browser type, pages visited, date and time of visits, duration of stay on pages, unique device identifiers, and other diagnostic information. Additionally, if the user provides explicit consent, the app may collect images and other data from the device's camera.",
+        "simple_answer": "The app collects Personal Data (like email addresses) and Usage Data (like IP address and browser type), as well as images from the device's camera with consent.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both automatically generated data and data provided by the user.",
+          "content": "Types of data collected include: 1. Personal Data: Email address. 2. Usage Data: IP address, browser type, pages visited, date and time of visits, duration of stay, unique device identifiers. 3. Camera data: Images and other data from the device's camera with user consent."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data, Types of Data Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478650062,
+      "url": "https://www.joysmoremobile.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The Company utilizes Personal Data for various purposes, including service maintenance, fulfilling contractual obligations, and communication with users.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that it uses Personal Data for multiple purposes.",
+          "content": "The purposes include service maintenance, fulfilling contractual obligations, and communication with users."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478650062,
+      "url": "https://www.joysmoremobile.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the option to enable or disable access to their information at any time through their Device settings. This includes the ability to opt out of data collection related to images and other data from the Device's camera.",
+        "simple_answer": "Yes, users can opt out of data collection through their Device settings.",
+        "extended_simple_answer": {
+          "comment": "Users can manage their data collection preferences.",
+          "content": "Users can enable or disable access to information collected by the application at any time through their Device settings."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collected while Using the Application"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478650062,
+      "url": "https://www.joysmoremobile.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. However, it mentions that the Company may employ Service Providers, which are third-party companies or individuals that process data on behalf of the Company. This implies that while the Company may share data with these Service Providers for specific purposes, it does not indicate a broader sharing of data with other third parties.",
+        "simple_answer": "Yes, the app may share data with Service Providers.",
+        "extended_simple_answer": {
+          "comment": "The app utilizes Service Providers to facilitate its services, which may involve sharing data.",
+          "content": "Service Providers are defined as third-party companies or individuals employed by the Company to facilitate the Service, perform services related to the Service, or assist in analyzing how the Service is used."
+        }
+      },
+      "analysis": "The mention of Service Providers indicates that there is a potential for data sharing, but the policy does not provide detailed information on the extent or nature of this sharing.",
+      "reference": "Section: 'Service Provider' and 'Use of Your Personal Data'"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478650062,
+      "url": "https://www.joysmoremobile.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list the specific third parties with whom the app shares data. However, it mentions that the Company may employ Service Providers, which are third-party companies or individuals that process data on behalf of the Company to facilitate the Service, provide the Service, perform services related to the Service, or assist in analyzing how the Service is used.",
+        "simple_answer": "The app shares data with Service Providers, which are third-party companies or individuals.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that while specific third parties are not named, the use of Service Providers implies data sharing with various entities that assist in service delivery.",
+          "content": "Service Providers are third-party companies or individuals that process data on behalf of the Company."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  }
+]

@@ -1,0 +1,337 @@
+[
+    {
+        "meta": {
+            "id": 6444658101,
+            "url": "https://openup.com/privacy-policy-and-imprint/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data as detailed in the privacy policy document.",
+            "reference": "OpenUp processes users’ personal data for the provision of our services. We do this, for example, when you create a MyOpenUp account or when you decide to share personal data with us in the context of counselling by one of our psychologists or lifestyle experts. URL: https://openup.com/privacy-policy-and-imprint/"
+        },
+        "source_documents": [
+            {
+                "id": "10e3bd5647d33d2f51fbb7fd0cfbc73a6d8580037527e709f5bc44ca54164481",
+                "score": 0.012920474,
+                "excerpt": "under personal data.\nWhat personal data do we process?\nWe process your personal data. By ‘process’, we mean that, depending on the specific circumstances and context, OpenUp may, for example, collect, store, use and transfer your personal data. You can read more about this below.\n1. Users of our services\nOpenUp processes users’ personal data for the provision of our services. We do this, for example, when you create a MyOpenUp account or when you decide to share personal data with us in the cont...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "37ae21eeeab2e385c51c46b82dda5cb674a9b0916c7c51743801bf6d7f12713b",
+                "score": 0.0056200367,
+                "excerpt": "“data controller” within the meaning of the applicable privacy rules, including the General Data Protection Regulation (GDPR).\nTo what does this privacy policy apply?\nThis privacy policy applies to all products and services that OpenUp offers and relates to the processing of the personal data of anybody who contacts us in any capacity.\nThis could include (potential) users of our services, visitors to the website, job applicants and all other people who contact us or whose personal data we proces...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "c231a48af14ef29b3f094287766e91f14c56f710e083b23028d7179239a18a13",
+                "score": 0.0021997981,
+                "excerpt": "Privacy Policy\nWe value openness and transparency at OpenUp, and we are also open and transparent about how we manage your personal data. Your privacy is always our top priority. Your data is safe with us and we will use it appropriately.\nThis Privacy Statement provides important legal information on how OpenUp processes your personal data when you use our services or visit our website. We advise you to read it carefully.\nIf you have any questions, concerns or complaints, please feel free to con...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "47ad3000f5f7f712c8f7ec8cb77148a349eba2870855bf6b5055c84c7d3d5ec2",
+                "score": 0.0021405893,
+                "excerpt": "we may collect through cookies • Information you provide to us when you contact us via the chat function, at least your name and e-mail address | We process the personal data of website visitors based on our legitimate interest in providing and securing our website and pursuing the processing purposes or based on your consent to collect specific categories of personal data using cookies and other technologies. |\n3. Applicants\n| People involved | Purpose(s) of processing | Personal data that coul...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "33dd0f529fb23b9fa11335713de400556c744d9ba2950f8b4d3c2eaaf8a3e5bf",
+                "score": 0.0013885233,
+                "excerpt": "personal data we process for the execution of the agreement between you and OpenUp (this is established when you accept our terms of use). For the preparation of reports for employers, the data are pseudonymised, or anonymised, so that they cannot be traced back to natural persons. To the extent personal data would be processed here, this only happens if you have given your explicit consent. This is requested when creating a My OpenUp account. |\n| Guidance from one of our psychologists and/or li...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444658101,
+            "url": "https://openup.com/privacy-policy-and-imprint/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as email address, first name, year of birth, employer (if applicable), phone number, information about personal situation and well-being, job title, organization, date of birth.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email address",
+                        "First name",
+                        "Year of birth",
+                        "Employer (if applicable)",
+                        "Phone number",
+                        "Information about personal situation and well-being",
+                        "Job title",
+                        "Organization",
+                        "Date of birth"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific personal data listed in the privacy policy document that the app collects when a user creates a MyOpenUp account, contacts the app's chat function, or participates in various services.",
+            "reference": "Email address, First name, Year of birth, Employer (if applicable), Phone number, Information about personal situation and well-being, Job title, Organization, Date of birth. URL: https://openup.com/privacy-policy-and-imprint/"
+        },
+        "source_documents": [
+            {
+                "id": "10e3bd5647d33d2f51fbb7fd0cfbc73a6d8580037527e709f5bc44ca54164481",
+                "score": 0.04185213,
+                "excerpt": "under personal data.\nWhat personal data do we process?\nWe process your personal data. By ‘process’, we mean that, depending on the specific circumstances and context, OpenUp may, for example, collect, store, use and transfer your personal data. You can read more about this below.\n1. Users of our services\nOpenUp processes users’ personal data for the provision of our services. We do this, for example, when you create a MyOpenUp account or when you decide to share personal data with us in the cont...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "37ae21eeeab2e385c51c46b82dda5cb674a9b0916c7c51743801bf6d7f12713b",
+                "score": 0.021044567,
+                "excerpt": "“data controller” within the meaning of the applicable privacy rules, including the General Data Protection Regulation (GDPR).\nTo what does this privacy policy apply?\nThis privacy policy applies to all products and services that OpenUp offers and relates to the processing of the personal data of anybody who contacts us in any capacity.\nThis could include (potential) users of our services, visitors to the website, job applicants and all other people who contact us or whose personal data we proces...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "47ad3000f5f7f712c8f7ec8cb77148a349eba2870855bf6b5055c84c7d3d5ec2",
+                "score": 0.01812472,
+                "excerpt": "we may collect through cookies • Information you provide to us when you contact us via the chat function, at least your name and e-mail address | We process the personal data of website visitors based on our legitimate interest in providing and securing our website and pursuing the processing purposes or based on your consent to collect specific categories of personal data using cookies and other technologies. |\n3. Applicants\n| People involved | Purpose(s) of processing | Personal data that coul...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "33dd0f529fb23b9fa11335713de400556c744d9ba2950f8b4d3c2eaaf8a3e5bf",
+                "score": 0.016029147,
+                "excerpt": "personal data we process for the execution of the agreement between you and OpenUp (this is established when you accept our terms of use). For the preparation of reports for employers, the data are pseudonymised, or anonymised, so that they cannot be traced back to natural persons. To the extent personal data would be processed here, this only happens if you have given your explicit consent. This is requested when creating a My OpenUp account. |\n| Guidance from one of our psychologists and/or li...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "6908a0e678ada51ae5f9057db762c4ece3f31d7b7d7bd5067243c2d2eb13d295",
+                "score": 0.009783876,
+                "excerpt": "reports for the employer to provide insight into our services and their impact. | • Name and e-mail address • Job title • Organisation • Date of birth • Employer | ||\n| Providing access to our HR platform through an account for HR users. | Email address, First and Last name, Employer |\n2. Website visitors\nOpenUp processes personal data to provide, maintain, and improve our website. This may also include responding to queries when you contact us through the website, for example, through the chat ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444658101,
+            "url": "https://openup.com/privacy-policy-and-imprint/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data is processed based on specific purposes described for different categories of individuals, such as users of services, applicants, employees, and website visitors.",
+            "reference": "OpenUp processes users’ personal data for the provision of services and declares the purposes of processing for different types of individuals. URL: https://openup.com/privacy-policy-and-imprint/"
+        },
+        "source_documents": [
+            {
+                "id": "10e3bd5647d33d2f51fbb7fd0cfbc73a6d8580037527e709f5bc44ca54164481",
+                "score": 0.040845715,
+                "excerpt": "under personal data.\nWhat personal data do we process?\nWe process your personal data. By ‘process’, we mean that, depending on the specific circumstances and context, OpenUp may, for example, collect, store, use and transfer your personal data. You can read more about this below.\n1. Users of our services\nOpenUp processes users’ personal data for the provision of our services. We do this, for example, when you create a MyOpenUp account or when you decide to share personal data with us in the cont...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "47ad3000f5f7f712c8f7ec8cb77148a349eba2870855bf6b5055c84c7d3d5ec2",
+                "score": 0.03321117,
+                "excerpt": "we may collect through cookies • Information you provide to us when you contact us via the chat function, at least your name and e-mail address | We process the personal data of website visitors based on our legitimate interest in providing and securing our website and pursuing the processing purposes or based on your consent to collect specific categories of personal data using cookies and other technologies. |\n3. Applicants\n| People involved | Purpose(s) of processing | Personal data that coul...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "2c949e9ad95d37dda178c8ae204e61fee933b3c922a05e3f793ebf910235285e",
+                "score": 0.010408314,
+                "excerpt": "selecting the best candidates for OpenUp and taking steps before entering into a contract or when the processing is necessary to comply with legal obligations. We may also process personal data based on your consent, for example, to keep your application file for one year, should we have a job for you. When we perform an integrity check, we will always inform you of this in advance. |\n4. Employees\n| People involved | Purpose(s) of processing | Personal data that could be processed | Legal basis ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "33dd0f529fb23b9fa11335713de400556c744d9ba2950f8b4d3c2eaaf8a3e5bf",
+                "score": 0.0031236485,
+                "excerpt": "personal data we process for the execution of the agreement between you and OpenUp (this is established when you accept our terms of use). For the preparation of reports for employers, the data are pseudonymised, or anonymised, so that they cannot be traced back to natural persons. To the extent personal data would be processed here, this only happens if you have given your explicit consent. This is requested when creating a My OpenUp account. |\n| Guidance from one of our psychologists and/or li...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "6908a0e678ada51ae5f9057db762c4ece3f31d7b7d7bd5067243c2d2eb13d295",
+                "score": 0.002225671,
+                "excerpt": "reports for the employer to provide insight into our services and their impact. | • Name and e-mail address • Job title • Organisation • Date of birth • Employer | ||\n| Providing access to our HR platform through an account for HR users. | Email address, First and Last name, Employer |\n2. Website visitors\nOpenUp processes personal data to provide, maintain, and improve our website. This may also include responding to queries when you contact us through the website, for example, through the chat ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444658101,
+            "url": "https://openup.com/privacy-policy-and-imprint/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can delete their personal data upon request, but OpenUp can only comply with such requests in some cases. The user also has the right to ask for corrections to their data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that users have the right to request the deletion or correction of their personal data in certain cases.",
+            "reference": "Right to forgetfulness: if you want us to delete your personal data, you have the right to request us to delete your data. However, we can only comply with such requests in some cases. URL: https://openup.com/privacy-policy-and-imprint/"
+        },
+        "source_documents": [
+            {
+                "id": "a3f77f52d123289d312a7ca52cbab2768ac9724bf25866cd957cd298e81808b4",
+                "score": 0.7520126,
+                "excerpt": "rectify: if the personal data we hold about you is incorrect, you have the right to ask us to correct it.\n- Right to forgetfulness: if you want us to delete your personal data, you have the right to request us to delete your data. However, we can only comply with such requests in some cases.\n- Right of objection: the right to object to processing personal data when we invoke our legitimate interest as a processing ground (see paragraph 3 above).\n- Right of limitation: OpenUp will continue to sto...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "0e84d6eeed00eefcfcf5b56b90012c9bb846ec9df8e036ff9265d1c57654d85a",
+                "score": 0.037326887,
+                "excerpt": "affect the lawfulness of processing based on the consent before it was withdrawn.\n- Right to complain: This concerns your right to complain with a supervisory authority, particularly in the EU Member State where you live, work or where an alleged infringement occurred. Here, you can find a list of supervisory authorities and their contact details. We would be grateful if you would approach us with your concerns before approaching the supervisory authority. Please contact us in advance using the ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "2c949e9ad95d37dda178c8ae204e61fee933b3c922a05e3f793ebf910235285e",
+                "score": 0.030967517,
+                "excerpt": "selecting the best candidates for OpenUp and taking steps before entering into a contract or when the processing is necessary to comply with legal obligations. We may also process personal data based on your consent, for example, to keep your application file for one year, should we have a job for you. When we perform an integrity check, we will always inform you of this in advance. |\n4. Employees\n| People involved | Purpose(s) of processing | Personal data that could be processed | Legal basis ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "8791291eac2bfecec99d38420ebdfa932c9f26e6b988375f5cc0d21ade182d13",
+                "score": 0.019456575,
+                "excerpt": "personal data for a shorter period of time.\n- Longer custody period. In certain situations, we process your data for a more extended period than is necessary for processing. This is the case, for example, when we need to process personal data for longer because of:\n- Custody obligations. To comply with a minimum retention period or other legal obligation to which OpenUp is subject under EU law or the law of an EU member state;\n- Procedures. Personal data necessary in connection with legal procee...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "dc599e3b971170d263ede817bdb6cff6eb1ab7895893dacb67bf09b73864c0a2",
+                "score": 0.0094125895,
+                "excerpt": "EEA can primarily be legitimised based on a so-called adequacy decision by the European Commission stating that the third country in question offers an adequate level of data protection. An overview of all adequacy decisions taken can be found here.\n- When your data is transferred to a country outside the EEA for which no adequacy decision is in force, we apply the relevant version of the Model Clauses in the contract with the party involved in the transfer. This model contract was approved by t...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444658101,
+            "url": "https://openup.com/privacy-policy-and-imprint/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties on a need-to-know basis under specific conditions outlined in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares personal data with third parties under certain conditions and categories, ensuring compliance with data protection legislation.",
+            "reference": "We only share your personal data with third parties under the following conditions: Sharing personal data is for providing a service or engaging a third party. Thus, subcontractors will only have access to the personal data they need for their part of the service... An overview of processors (not affiliated to OpenUp) can be found in the table below: | Processor | Objective | | 24sessions | Video call with our psychologists | | Microsoft Azure | Hosting data from files, Video call with our Experts (Psychologists and Lifestyle Experts) | | For email contact and website usage analysis | | | Sendgrid | Sending e-mails from our platform | | ActiveCampaign | Sending OpenUp updates and newsletters | | Livestorm | Participating in OpenUp Spaces | | Voys. URL: https://openup.com/privacy-policy-and-imprint/"
+        },
+        "source_documents": [
+            {
+                "id": "9119baf2738d3fe39a1f266a41d73109a5f875b398f0e3f61abf2352d8352a30",
+                "score": 0.9329437,
+                "excerpt": "this information is not provided.\nWith whom will your data be shared?\nWe only share your personal data with third parties under the following conditions:\n- Sharing personal data is for providing a service or engaging a third party. Thus, subcontractors will only have access to the personal data they need for their part of the service and will not be allowed to process the data for their own purposes.\n- The persons at the third party with access to the personal data must keep it confidential.\n- T...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "cb9ae88a42b04612a62ee9fe3107041a523f889886edf1a1d6f738f89671083a",
+                "score": 0.65390086,
+                "excerpt": "you: e.g. information you provided for creating a MyOpenUp account, completing the self-check-in or during a session with one of our psychologists and/or lifestyle experts.\n- Obtained from third parties: sometimes, we receive your data from other people or external parties, for example, through a recruiter or social media if you have given that party permission to do so.\n- Automatically obtained: We obtain some personal data automatically, for example, through cookies and similar techniques (rea...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "2c949e9ad95d37dda178c8ae204e61fee933b3c922a05e3f793ebf910235285e",
+                "score": 0.060086653,
+                "excerpt": "selecting the best candidates for OpenUp and taking steps before entering into a contract or when the processing is necessary to comply with legal obligations. We may also process personal data based on your consent, for example, to keep your application file for one year, should we have a job for you. When we perform an integrity check, we will always inform you of this in advance. |\n4. Employees\n| People involved | Purpose(s) of processing | Personal data that could be processed | Legal basis ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "7d8a7f320ef06329e5e59e225dcc57f3b39117207a0c7f4b349961d2a9ae6253",
+                "score": 0.0052404497,
+                "excerpt": "OpenUp is ISO27001 and NEN7510 certified, which means that our processes meet our sector’s (legally) set requirements for information security.\n- We have internal policies and procedures, such as a data breach procedure.\n- Conducting an annual external audit to assess whether our measures comply with the latest information security standards;\n- We ensure that persons who may access your data are bound to strict confidentiality. Good to know: our psychologists and lifestyle experts have professio...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "33dd0f529fb23b9fa11335713de400556c744d9ba2950f8b4d3c2eaaf8a3e5bf",
+                "score": 0.00402291,
+                "excerpt": "personal data we process for the execution of the agreement between you and OpenUp (this is established when you accept our terms of use). For the preparation of reports for employers, the data are pseudonymised, or anonymised, so that they cannot be traced back to natural persons. To the extent personal data would be processed here, this only happens if you have given your explicit consent. This is requested when creating a My OpenUp account. |\n| Guidance from one of our psychologists and/or li...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444658101,
+            "url": "https://openup.com/privacy-policy-and-imprint/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "OpenUp shares data with third parties such as 24sessions, Microsoft Azure, Sendgrid, ActiveCampaign, Livestorm, and Voys for various purposes including video calls with psychologists, hosting data, email sending, and service participation.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "24sessions",
+                        "Microsoft Azure",
+                        "Sendgrid",
+                        "ActiveCampaign",
+                        "Livestorm",
+                        "Voys"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies several third parties with whom the app shares data, each mentioned with a distinct purpose outlined in the document.",
+            "reference": "OpenUp shares data with third parties such as 24sessions, Microsoft Azure, Sendgrid, ActiveCampaign, Livestorm, and Voys for various purposes including video calls with psychologists, hosting data, email sending, and service participation. URL: https://openup.com/privacy-policy-and-imprint/"
+        },
+        "source_documents": [
+            {
+                "id": "9119baf2738d3fe39a1f266a41d73109a5f875b398f0e3f61abf2352d8352a30",
+                "score": 0.9683214,
+                "excerpt": "this information is not provided.\nWith whom will your data be shared?\nWe only share your personal data with third parties under the following conditions:\n- Sharing personal data is for providing a service or engaging a third party. Thus, subcontractors will only have access to the personal data they need for their part of the service and will not be allowed to process the data for their own purposes.\n- The persons at the third party with access to the personal data must keep it confidential.\n- T...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "cb9ae88a42b04612a62ee9fe3107041a523f889886edf1a1d6f738f89671083a",
+                "score": 0.74521303,
+                "excerpt": "you: e.g. information you provided for creating a MyOpenUp account, completing the self-check-in or during a session with one of our psychologists and/or lifestyle experts.\n- Obtained from third parties: sometimes, we receive your data from other people or external parties, for example, through a recruiter or social media if you have given that party permission to do so.\n- Automatically obtained: We obtain some personal data automatically, for example, through cookies and similar techniques (rea...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "7d8a7f320ef06329e5e59e225dcc57f3b39117207a0c7f4b349961d2a9ae6253",
+                "score": 0.047249712,
+                "excerpt": "OpenUp is ISO27001 and NEN7510 certified, which means that our processes meet our sector’s (legally) set requirements for information security.\n- We have internal policies and procedures, such as a data breach procedure.\n- Conducting an annual external audit to assess whether our measures comply with the latest information security standards;\n- We ensure that persons who may access your data are bound to strict confidentiality. Good to know: our psychologists and lifestyle experts have professio...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "dc599e3b971170d263ede817bdb6cff6eb1ab7895893dacb67bf09b73864c0a2",
+                "score": 0.041539967,
+                "excerpt": "EEA can primarily be legitimised based on a so-called adequacy decision by the European Commission stating that the third country in question offers an adequate level of data protection. An overview of all adequacy decisions taken can be found here.\n- When your data is transferred to a country outside the EEA for which no adequacy decision is in force, we apply the relevant version of the Model Clauses in the contract with the party involved in the transfer. This model contract was approved by t...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            },
+            {
+                "id": "2c949e9ad95d37dda178c8ae204e61fee933b3c922a05e3f793ebf910235285e",
+                "score": 0.016029147,
+                "excerpt": "selecting the best candidates for OpenUp and taking steps before entering into a contract or when the processing is necessary to comply with legal obligations. We may also process personal data based on your consent, for example, to keep your application file for one year, should we have a job for you. When we perform an integrity check, we will always inform you of this in advance. |\n4. Employees\n| People involved | Purpose(s) of processing | Personal data that could be processed | Legal basis ...",
+                "url": "https://openup.com/privacy-policy-and-imprint/"
+            }
+        ]
+    }
+]

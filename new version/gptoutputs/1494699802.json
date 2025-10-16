@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1494699802,
+      "url": "https://skidos.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of limited information, including opt-in account information, non-personal information about app usage, app crash reports, and installation data.",
+        "simple_answer": "Yes, the app collects limited data.",
+        "extended_simple_answer": {
+          "comment": "The app specifies the types of data collected and the purposes for which they are used.",
+          "content": "The information collected includes opt-in account information (like email), non-personal usage data, app crash reports, and installation data to improve services and understand user engagement."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and emphasizes that it is limited and used for specific purposes.",
+      "reference": "We Collect Limited Information With Our Applications."
+    }
+  },
+  {
+    "meta": {
+      "id": 1494699802,
+      "url": "https://skidos.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects limited information, which includes: (i) Opt-in Account Information such as email addresses shared by users to create a SKIDOS account; (ii) Non-personal information about app usage, including duration and actions taken within the app; (iii) App crash reports for debugging; (iv) Information about app installs to understand how users find the app.",
+        "simple_answer": "The app collects opt-in account information, non-personal usage data, app crash reports, and install information.",
+        "extended_simple_answer": {
+          "comment": "The data collected is primarily for improving user experience and app functionality.",
+          "content": "The app collects limited information, including user-provided email addresses for account creation, non-personal usage data to enhance app performance, crash reports for debugging, and install information to track how users discover the app."
+        }
+      },
+      "analysis": "",
+      "reference": "We Collect Limited Information With Our Applications."
+    }
+  },
+  {
+    "meta": {
+      "id": 1494699802,
+      "url": "https://skidos.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to create user accounts, provide updates on children's reports and usage, enhance and improve applications, identify and resolve app crashes, and track installations for marketing purposes. Additionally, it mentions that personal information is not stored, shared, or disclosed beyond these uses.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app clearly outlines how the collected data is utilized.",
+          "content": "The information collected is used for account creation, providing updates, improving applications, resolving crashes, and tracking installations."
+        }
+      },
+      "analysis": "The privacy policy explicitly states the purposes for which data is collected, ensuring transparency for users regarding their data.",
+      "reference": "We Collect Limited Information With Our Applications."
+    }
+  },
+  {
+    "meta": {
+      "id": 1494699802,
+      "url": "https://skidos.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt out of data collection by not providing personal information when creating an account. Additionally, users can delete their personal information by contacting SKIDOS support, and if a child under the age of 13 is identified, their personal information will be deleted in a secure manner.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can request deletion.",
+          "content": "Users can opt out of data collection by not sharing personal information and can request deletion of their data by contacting support."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal information and compliance with COPPA, ensuring that data from children under 13 is handled appropriately.",
+      "reference": "We Comply with the Children's Online Privacy Protection Act"
+    }
+  },
+  {
+    "meta": {
+      "id": 1494699802,
+      "url": "https://skidos.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal information with third parties. However, it uses third-party SDKs to collect non-personal information about app usage, which is used solely to enhance and improve the applications. The partners involved in tracking installations are also restricted from using personal information for any other purpose.",
+        "simple_answer": "No, the app does not share personal information with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party SDKs for analytics but does not share personal data.",
+          "content": "The app collects non-personal information through third-party SDKs to improve its services, but it does not share personal information with these third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "We Collect Limited Information With Our Applications."
+    }
+  },
+  {
+    "meta": {
+      "id": 1494699802,
+      "url": "https://skidos.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app uses a variety of third-party SDKs for collecting non-personal information and app crash reports. The specific third parties mentioned are WebEngage SDK, Embrace SDK, AppsFlyer SDK, and Google Firebase SDK.",
+        "simple_answer": "The app shares data with WebEngage SDK, Embrace SDK, AppsFlyer SDK, and Google Firebase SDK.",
+        "extended_simple_answer": {
+          "comment": "These third parties are used to enhance and improve the applications.",
+          "content": "The app uses third-party SDKs for collecting non-personal information and app crash reports."
+        }
+      },
+      "analysis": "",
+      "reference": "We Collect Limited Information With Our Applications."
+    }
+  }
+]

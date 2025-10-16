@@ -1,0 +1,325 @@
+[
+    {
+        "meta": {
+            "id": 6480014609,
+            "url": "https://www.wayhaven.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data from various sources as mentioned in the privacy policy.",
+            "reference": "We collect information about you from a variety of sources, including... URL: https://www.wayhaven.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "251678d2aa9833a5292b5bf962d92348993af227b70af9ce27b4268c08d5fa12",
+                "score": 0.009898064,
+                "excerpt": "Privacy policy\nUpdated: April 17, 2025\nThis Privacy Notice describes how Wayhaven (“our,” “we”) collects, uses, and shares personal information. In particular, this Privacy Notice applies to:\n- Our website at https://www.wayhaven.com/ is available to the general public (our “Website”). This Privacy Notice applies to visitors to our Website (“Visitors”).\n- Our other online services we operate that post this Notice (“Services”). As a central part of our Services, we support organizations (“Organiz...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "0f249cddfee87301b5e4715127b4ac30c4b5ced9d1ba9fa7260d05cac9ad36d2",
+                "score": 0.00698465,
+                "excerpt": "contact them directly or refer to their privacy notice(s). This Privacy Notice does not apply to information that cannot be identified to any individual, household, or their devices, such as de-identified or anonymized information.\nInformation we collect\nWe collect information about you from a variety of sources, including:\n- Directly from you when you provide it to us.\n- Automatically as you utilize the Website or Services.\n- From third parties, including analytics providers.\nInformation direct...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "61c6e69358502dd4e678b613f73f3485a8219c2f25a5223e13f71b5b68742318",
+                "score": 0.0024534282,
+                "excerpt": "not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.\nInformation we collect from third party sources. We may collect information from advertisers, marketing service providers, affiliates, promotional partners, and application providers. These and other third parties...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "5e0d1d64b8d20471c0bbef546f976e932bf46bb4f1281d8db054b15c3886c94d",
+                "score": 0.0020427648,
+                "excerpt": "may include your date and time you access our Website and Services and the pages and content you access during your visit, websites that you link to or from, whether you receive or open an email or other communication from us, and the links you click on within those emails, the type of device used and the operating system on that device, browser type, and any errors encountered. We may also collect information from your mobile device or your computer about how you interact with our Website and S...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "a40215d5d08144f79645f437cadee15d3fc09c67b1237f6a54a0e6ec49e37726",
+                "score": 0.0007643033,
+                "excerpt": "reasonable to operate our business, to provide the Website and Services to you and others, as permitted or required by law, or as directed or authorized by you. For example:\nAffiliated Companies. We may share some or all of your information with our parent companies, subsidiaries, joint ventures, or other companies under common control with us.\nThird Party Sharing. We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your i...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480014609,
+            "url": "https://www.wayhaven.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as name, email address, company name/affiliation, account credentials, demographic information, and data regarding the user's interactions with the app.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Email address",
+                        "Company name/affiliation",
+                        "Account credentials",
+                        "Demographic information",
+                        "Data regarding app interactions"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the sections of the privacy policy that mention the direct collection of data from users, including personal information and usage data.",
+            "reference": "The app collects data such as name, email address, company name/affiliation, account credentials, demographic information, and data regarding the user's interactions with the app. URL: https://www.wayhaven.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0f249cddfee87301b5e4715127b4ac30c4b5ced9d1ba9fa7260d05cac9ad36d2",
+                "score": 0.15752527,
+                "excerpt": "contact them directly or refer to their privacy notice(s). This Privacy Notice does not apply to information that cannot be identified to any individual, household, or their devices, such as de-identified or anonymized information.\nInformation we collect\nWe collect information about you from a variety of sources, including:\n- Directly from you when you provide it to us.\n- Automatically as you utilize the Website or Services.\n- From third parties, including analytics providers.\nInformation direct...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "5e0d1d64b8d20471c0bbef546f976e932bf46bb4f1281d8db054b15c3886c94d",
+                "score": 0.060418423,
+                "excerpt": "may include your date and time you access our Website and Services and the pages and content you access during your visit, websites that you link to or from, whether you receive or open an email or other communication from us, and the links you click on within those emails, the type of device used and the operating system on that device, browser type, and any errors encountered. We may also collect information from your mobile device or your computer about how you interact with our Website and S...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "61c6e69358502dd4e678b613f73f3485a8219c2f25a5223e13f71b5b68742318",
+                "score": 0.043123372,
+                "excerpt": "not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.\nInformation we collect from third party sources. We may collect information from advertisers, marketing service providers, affiliates, promotional partners, and application providers. These and other third parties...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "251678d2aa9833a5292b5bf962d92348993af227b70af9ce27b4268c08d5fa12",
+                "score": 0.019606182,
+                "excerpt": "Privacy policy\nUpdated: April 17, 2025\nThis Privacy Notice describes how Wayhaven (“our,” “we”) collects, uses, and shares personal information. In particular, this Privacy Notice applies to:\n- Our website at https://www.wayhaven.com/ is available to the general public (our “Website”). This Privacy Notice applies to visitors to our Website (“Visitors”).\n- Our other online services we operate that post this Notice (“Services”). As a central part of our Services, we support organizations (“Organiz...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "a40215d5d08144f79645f437cadee15d3fc09c67b1237f6a54a0e6ec49e37726",
+                "score": 0.0036358088,
+                "excerpt": "reasonable to operate our business, to provide the Website and Services to you and others, as permitted or required by law, or as directed or authorized by you. For example:\nAffiliated Companies. We may share some or all of your information with our parent companies, subsidiaries, joint ventures, or other companies under common control with us.\nThird Party Sharing. We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your i...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480014609,
+            "url": "https://www.wayhaven.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by mentioning that they collect information for various purposes including supporting Organization and User access to the Website and Services, managing user accounts, providing well-being coaching, sending promotional materials, providing customer support, improving user experience, ensuring regulatory compliance, preventing fraud, and addressing disputes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app uses the data collected for a variety of purposes, indicating a clear declaration of the purpose of data collection and use.",
+            "reference": "We may use data we collect to operate our business and for a variety of purposes, including the following: - To support Organization and User access to the Website and Services and to manage your account with us, including the provision of well-being coaching to Users and aggregate reporting to Organizations. - To maintain, analyze, customize, and improve your experience on our Website and Services. - To communicate with Organizations and Users about our Website and Services, to send promotional and marketing materials, and to provide you information that you request from us. - To provide customer and technical support. - To monitor and enforce our contracts, legal terms, acceptable use or other policies or similar terms. - To comply with law and satisfy our regulatory and compliance obligations. Additionally, to support compliance efforts on behalf of others and ourselves that support our provision of services to you. - To detect and prevent fraud and other prohibited, illicit or illegal activity, and to protect the rights and vital interests of you, others, and ourselves. - To address existing or anticipated disputes. - To otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases). - To fulfill any other purpose for which you provide your information to us. - For other purposes permitted by law, described to you when you provide your information or to which you consent. URL: https://www.wayhaven.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "61c6e69358502dd4e678b613f73f3485a8219c2f25a5223e13f71b5b68742318",
+                "score": 0.047249712,
+                "excerpt": "not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.\nInformation we collect from third party sources. We may collect information from advertisers, marketing service providers, affiliates, promotional partners, and application providers. These and other third parties...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "251678d2aa9833a5292b5bf962d92348993af227b70af9ce27b4268c08d5fa12",
+                "score": 0.02920129,
+                "excerpt": "Privacy policy\nUpdated: April 17, 2025\nThis Privacy Notice describes how Wayhaven (“our,” “we”) collects, uses, and shares personal information. In particular, this Privacy Notice applies to:\n- Our website at https://www.wayhaven.com/ is available to the general public (our “Website”). This Privacy Notice applies to visitors to our Website (“Visitors”).\n- Our other online services we operate that post this Notice (“Services”). As a central part of our Services, we support organizations (“Organiz...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "a40215d5d08144f79645f437cadee15d3fc09c67b1237f6a54a0e6ec49e37726",
+                "score": 0.004038592,
+                "excerpt": "reasonable to operate our business, to provide the Website and Services to you and others, as permitted or required by law, or as directed or authorized by you. For example:\nAffiliated Companies. We may share some or all of your information with our parent companies, subsidiaries, joint ventures, or other companies under common control with us.\nThird Party Sharing. We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your i...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "293fb1645c6597bd5314a952aa4f5802b95526ac837f995abba32a44019f3f08",
+                "score": 0.0026522598,
+                "excerpt": "activity, and to protect the rights and vital interests of you, others, and ourselves.\n- To address existing or anticipated disputes.\n- To otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases).\n- To fulfill any other purpose for which you provide your information to us.\n- For other purposes permitted by law, described to you when you provide your information or to which you consent.\nAs permitted by ...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "5acb37b19b18f1a769dc0dc307c1e306c4151d0a7f672ff790c1cae8463df493",
+                "score": 0.002570868,
+                "excerpt": "variety of purposes, including the following:\n- To support Organization and User access to the Website and Services and to manage your account with us, including the provision of well-being coaching to Users and aggregate reporting to Organizations.\n- If you are a User and a conversation conducted through our service suggests serious harm to oneself or others, a human may review it to potentially intervene for safety reasons.\n- To maintain, analyze, customize, and improve your experience on our ...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480014609,
+            "url": "https://www.wayhaven.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by unsubscribing from marketing emails or emailing support@wayhaven.com. Additionally, users can delete their data by contacting support@wayhaven.com with a request to update or delete their information.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of marketing emails by following the unsubscribe link or emailing support@wayhaven.com. It also mentions that users can request to update or delete their information by contacting support@wayhaven.com.",
+            "reference": "You may opt out of receiving marketing emails by following the unsubscribe link in each email, or by emailing us at support@wayhaven.com. Please note that you may continue to receive non-marketing emails from us after you opt-out. Please note that we do not control communications from others, including Organizations. If you are a User, you should contact your Organization to understand communication choices they may provide you. N/A. URL: https://www.wayhaven.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6335507e499b0ae6a5647d7be85d1fad9334f626e51ea950c9731765380b9750",
+                "score": 0.255158,
+                "excerpt": "email us at support@wayhaven.com with a request to update or delete your information, and we will follow through with that request within 7 days. As permitted by law, we may not accommodate a request to change information if we believe the change would violate any law or legal requirement, cause the information to be incorrect, or prevent the provision of our Services.\nMarketing communications. You may receive marketing communications from Wayhaven, including if you sign up for marketing or othe...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "61c6e69358502dd4e678b613f73f3485a8219c2f25a5223e13f71b5b68742318",
+                "score": 0.14342749,
+                "excerpt": "not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.\nInformation we collect from third party sources. We may collect information from advertisers, marketing service providers, affiliates, promotional partners, and application providers. These and other third parties...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "9f334c17b811b3eb908acdd88f0ce9e5ab0151f50df647d4ae3983dabf34dcc8",
+                "score": 0.037892427,
+                "excerpt": "restructuring, divestiture or dissolution of all or a portion of our business, or other similar event.\nOther Disclosures. In addition to the above disclosures, we may disclose personal information in the event that we believe such disclosure is (i) necessary to provide our services or operate our business; (ii) in accordance with purposes we describe when you share it with us; (iii) permitted by law; (iv) as part of an intervention for safety reasons if a communication suggests the possibility o...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "d1de4f01fe7f57ec8fc6efa6dd60bdc12a9f06a5a414138cee522561afbd4a30",
+                "score": 0.033652965,
+                "excerpt": "notify you of cookie placement or decline cookies. If you choose to decline cookies, certain features of our website may not function properly or at all as a result.\nUpdates to our privacy notice\nWe may update this Privacy Notice from time to time in order to provide clarification or notice of changes to our practices. If we make changes, we will revise the Effective Date at the top of this Privacy Notice. Changes to this Privacy Notice will be effective once they are posted unless otherwise ind...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "0f249cddfee87301b5e4715127b4ac30c4b5ced9d1ba9fa7260d05cac9ad36d2",
+                "score": 0.028816197,
+                "excerpt": "contact them directly or refer to their privacy notice(s). This Privacy Notice does not apply to information that cannot be identified to any individual, household, or their devices, such as de-identified or anonymized information.\nInformation we collect\nWe collect information about you from a variety of sources, including:\n- Directly from you when you provide it to us.\n- Automatically as you utilize the Website or Services.\n- From third parties, including analytics providers.\nInformation direct...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480014609,
+            "url": "https://www.wayhaven.com/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as reasonable to operate the business, provide the Website and Services, comply with legal requirements, or as directed by the user.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for various purposes such as supporting internal operations, using external services, compliance with legal and regulatory obligations, and corporate transactions.",
+            "reference": "We may share your information with third parties as reasonable to operate our business, to provide the Website and Services to you and others, as permitted or required by law, or as directed or authorized by you. For example: Third Party Sharing. We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your information subject to their own privacy policies and to comply with their own legal and regulatory obligations. URL: https://www.wayhaven.com/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a40215d5d08144f79645f437cadee15d3fc09c67b1237f6a54a0e6ec49e37726",
+                "score": 0.8433798,
+                "excerpt": "reasonable to operate our business, to provide the Website and Services to you and others, as permitted or required by law, or as directed or authorized by you. For example:\nAffiliated Companies. We may share some or all of your information with our parent companies, subsidiaries, joint ventures, or other companies under common control with us.\nThird Party Sharing. We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your i...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "ba481e63caf8c5f9e2aa20124e9412979a2937a39c6ad4a14f24b644e6739754",
+                "score": 0.15856485,
+                "excerpt": "with regulators, law enforcement, or government agencies and others to:\n- comply with our legal and regulatory obligations, including those compliance obligations of federal, state or local regulators;\n- protect our interests, property or legal rights, or those of our customers or third parties;\n- act as a mandatory reporter, or as part of an intervention for safety reasons to prevent harm to oneself or others;\n- respond to a subpoena, court order, or similar law enforcement request, or when we ...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "293fb1645c6597bd5314a952aa4f5802b95526ac837f995abba32a44019f3f08",
+                "score": 0.13637818,
+                "excerpt": "activity, and to protect the rights and vital interests of you, others, and ourselves.\n- To address existing or anticipated disputes.\n- To otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases).\n- To fulfill any other purpose for which you provide your information to us.\n- For other purposes permitted by law, described to you when you provide your information or to which you consent.\nAs permitted by ...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "61c6e69358502dd4e678b613f73f3485a8219c2f25a5223e13f71b5b68742318",
+                "score": 0.12765263,
+                "excerpt": "not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.\nInformation we collect from third party sources. We may collect information from advertisers, marketing service providers, affiliates, promotional partners, and application providers. These and other third parties...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "5e0d1d64b8d20471c0bbef546f976e932bf46bb4f1281d8db054b15c3886c94d",
+                "score": 0.091544405,
+                "excerpt": "may include your date and time you access our Website and Services and the pages and content you access during your visit, websites that you link to or from, whether you receive or open an email or other communication from us, and the links you click on within those emails, the type of device used and the operating system on that device, browser type, and any errors encountered. We may also collect information from your mobile device or your computer about how you interact with our Website and S...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6480014609,
+            "url": "https://www.wayhaven.com/policies/privacy-policy"
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 6480014609,\n       \"url\": \"https://www.wayhaven.com/policies/privacy-policy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q6\",\n       \"question\": \"6. If the app shares data with third parties, what third parties does the app share data with?\",\n       \"answer\": {\n           \"full_answer\": \"The app shares data with data hosting, storage, and cloud service providers, platform and/or application security service providers, technical and customer support providers, and marketing and analytics providers.\",\n           \"simple_answer\": \"NOTUSED\",\n           \"extended_simple_answer\": {\n               \"comment\": \"third parties\",\n               \"content\": [\n                   \"Data hosting, storage and cloud service providers\",\n                   \"Platform and/or application security service providers such as Google Cloud, OpenAI, and Anthropic\",\n                   \"Technical and customer support providers\",\n                   \"Marketing and analytics providers\"\n               ]\n           }\n       },\n       \"analysis\": \"The privacy policy document outlines the various types of third parties with whom the app shares data, including data hosting, security, support, and marketing services.\",\n       \"reference\": \"We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your information subject to their own privacy policies and to comply with their own legal and regulatory obligations. We work with different types of third parties, presently including:\\\\n- Data hosting, storage and cloud service providers.\\\\n- Platform and/or application security service providers. This includes providers such as Google Cloud, OpenAI, and Anthropic to support AI and infrastructure.\\\\n- Technical and customer support providers; and\\\\n- Marketing and analytics providers.\\\\nURL: https://www.wayhaven.com/policies/privacy-policy\",\n       \"URL: https://www.wayhaven.com/policies/privacy-policy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "a40215d5d08144f79645f437cadee15d3fc09c67b1237f6a54a0e6ec49e37726",
+                "score": 0.8984106,
+                "excerpt": "reasonable to operate our business, to provide the Website and Services to you and others, as permitted or required by law, or as directed or authorized by you. For example:\nAffiliated Companies. We may share some or all of your information with our parent companies, subsidiaries, joint ventures, or other companies under common control with us.\nThird Party Sharing. We work with third party parties to help us provide our Website and Services and to support internal operations. They may use your i...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "293fb1645c6597bd5314a952aa4f5802b95526ac837f995abba32a44019f3f08",
+                "score": 0.49744228,
+                "excerpt": "activity, and to protect the rights and vital interests of you, others, and ourselves.\n- To address existing or anticipated disputes.\n- To otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases).\n- To fulfill any other purpose for which you provide your information to us.\n- For other purposes permitted by law, described to you when you provide your information or to which you consent.\nAs permitted by ...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "ba481e63caf8c5f9e2aa20124e9412979a2937a39c6ad4a14f24b644e6739754",
+                "score": 0.46250337,
+                "excerpt": "with regulators, law enforcement, or government agencies and others to:\n- comply with our legal and regulatory obligations, including those compliance obligations of federal, state or local regulators;\n- protect our interests, property or legal rights, or those of our customers or third parties;\n- act as a mandatory reporter, or as part of an intervention for safety reasons to prevent harm to oneself or others;\n- respond to a subpoena, court order, or similar law enforcement request, or when we ...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "61c6e69358502dd4e678b613f73f3485a8219c2f25a5223e13f71b5b68742318",
+                "score": 0.44402227,
+                "excerpt": "not respond to “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party websites or online services.\nInformation we collect from third party sources. We may collect information from advertisers, marketing service providers, affiliates, promotional partners, and application providers. These and other third parties...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            },
+            {
+                "id": "5e0d1d64b8d20471c0bbef546f976e932bf46bb4f1281d8db054b15c3886c94d",
+                "score": 0.27154136,
+                "excerpt": "may include your date and time you access our Website and Services and the pages and content you access during your visit, websites that you link to or from, whether you receive or open an email or other communication from us, and the links you click on within those emails, the type of device used and the operating system on that device, browser type, and any errors encountered. We may also collect information from your mobile device or your computer about how you interact with our Website and S...",
+                "url": "https://www.wayhaven.com/policies/privacy-policy"
+            }
+        ]
+    }
+]

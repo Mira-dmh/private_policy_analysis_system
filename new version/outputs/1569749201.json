@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1569749201,
+            "url": "https://www.thepeoplespot.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that personal information is collected, indicating that the app declares the collection of data.",
+            "reference": "The personal information that we collect and hold may include an individual's name, address, date of birth, email address, telephone number, workplace, and technical data. URL: https://www.thepeoplespot.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3c5c4d797c3ff484b0966e8c7f58cc1690e555a63b29650f3205667d8cbcafd3",
+                "score": 0.10557884,
+                "excerpt": "Our Privacy Policy\nWe have designed our app with privacy in mind. We want employees to use it without being concerned about who is watching. We take privacy absolutely seriously.\nAbout This Privacy Policy\nThe People Spot Pty Ltd ABN 87 648 891 696 (People Spot) has obligations concerning the collection, use, disclosure and storage of personal information. These obligations are set out in the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) (Privacy Act), and other applicable...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "792e07a6af4ffef8a650fd0966031b7b79ee9814d8b4352d6b5f9c5f37274361",
+                "score": 0.010986943,
+                "excerpt": "information we collect and hold includes information about the end users our applications and individuals who visit our website.\nThe personal information that we collect and hold may include an individual's:\n· name;\n· address;\n· date of birth;\n· email address;\n· telephone number and other contact details;\n· workplace; and\n· technical data, which may include IP address, the types of devices you are using to access the website, device attributes, browser type, language and operating system.\nHow do...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "634d6f9288a213b9d20583a54660184563ae947e0d109835827e0d3ef85aecdd",
+                "score": 0.008124708,
+                "excerpt": "any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information.\nCan I remain anonymous?\nYou can always choose to deal with us anonymously or by using a pseudonym.\nHowever, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services.\nWhy do we collect, hold, use and disclose personal information?\nWe collect, hold, use and disclose persona...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "c992ac3cc2642e3c84c0d0d605347b8eef33872757145182f5df45fb0750bee5",
+                "score": 0.00049168157,
+                "excerpt": "whom do we disclose personal information?\nWe may disclose personal information to the following third parties for the purposes listed above trading partners and external service providers of People Spot so that they may perform services for us or on our behalf.\nWhen we disclose personal information to third parties, we make all reasonable efforts to ensure that we disclose only relevant information and that it is accurate, complete and up to date and that the third party will comply with the Pri...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "22f6fdd6471319a13b1e2693e98081c68463b81c60146712566a5722442612db",
+                "score": 0.0003799845,
+                "excerpt": "legal claim;\nIt is requested by an enforcement agency such as the police; or\nIt is a necessary part of an investigation following a complaint or incident.\nDisclosure of personal information outside Australia\nSome of the third parties to whom we may disclose personal information may be located overseas. The countries in which those third parties may be located are:\n· United States;\nWhere we disclose information outside of Australia, we will take reasonable steps to ensure that any such person to ...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1569749201,
+            "url": "https://www.thepeoplespot.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as name, address, date of birth, email address, telephone number, workplace, and technical data like IP address, device types, browser type, language, and operating system.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Address",
+                        "Date of Birth",
+                        "Email Address",
+                        "Telephone Number",
+                        "Workplace",
+                        "Technical data (IP address, device types, browser type, language, operating system)"
+                    ]
+                }
+            },
+            "analysis": "The app collects a range of personal information and technical data as outlined in the privacy policy.",
+            "reference": "The personal information that we collect and hold may include an individual's: · name; · address; · date of birth; · email address; · telephone number and other contact details; · workplace; and · technical data, which may include IP address, the types of devices you are using to access the website, device attributes, browser type, language and operating system. URL: https://www.thepeoplespot.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "792e07a6af4ffef8a650fd0966031b7b79ee9814d8b4352d6b5f9c5f37274361",
+                "score": 0.17766815,
+                "excerpt": "information we collect and hold includes information about the end users our applications and individuals who visit our website.\nThe personal information that we collect and hold may include an individual's:\n· name;\n· address;\n· date of birth;\n· email address;\n· telephone number and other contact details;\n· workplace; and\n· technical data, which may include IP address, the types of devices you are using to access the website, device attributes, browser type, language and operating system.\nHow do...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "3c5c4d797c3ff484b0966e8c7f58cc1690e555a63b29650f3205667d8cbcafd3",
+                "score": 0.099996306,
+                "excerpt": "Our Privacy Policy\nWe have designed our app with privacy in mind. We want employees to use it without being concerned about who is watching. We take privacy absolutely seriously.\nAbout This Privacy Policy\nThe People Spot Pty Ltd ABN 87 648 891 696 (People Spot) has obligations concerning the collection, use, disclosure and storage of personal information. These obligations are set out in the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) (Privacy Act), and other applicable...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "634d6f9288a213b9d20583a54660184563ae947e0d109835827e0d3ef85aecdd",
+                "score": 0.0043994132,
+                "excerpt": "any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information.\nCan I remain anonymous?\nYou can always choose to deal with us anonymously or by using a pseudonym.\nHowever, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services.\nWhy do we collect, hold, use and disclose personal information?\nWe collect, hold, use and disclose persona...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "77de633470afb8cc0d53e0451a883f955118a6a6d77571dc344d5d0deb49f684",
+                "score": 0.0016809418,
+                "excerpt": "instructions provided in the communication.\nCookies\nA “cookie” is a small file stored by the web browser software on a computer when you access our website. (An explanation of cookies can be found at the website of the Australian Information Commissioner at www.oaic.gov.au.\nWe use a persistent cookie for tracking a user's browsing behaviour upon return to our website / for statistical purposes and to improve our website / any other reason cookies are used.\nYou may refuse the use of cookies by se...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "52c7719d713abc2859c930516bf797d18e96a67e9148523ac862317f97dcbfe7",
+                "score": 0.0015367271,
+                "excerpt": "use.\nWe analyse this non-identifiable website traffic data (including through the use of third party service providers) on an aggregated basis to improve our services and for statistical purposes.\nNo attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.\nSecurity of your personal information\nTo protect personal information from...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1569749201,
+            "url": "https://www.thepeoplespot.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purposes for which personal information is collected, held, used, and disclosed, including enabling access to services, managing relationships, sending marketing messages, running business activities, sending support messages, and legal compliance.",
+            "reference": "We collect, hold, use and disclose personal information for the following purposes: to enable you to access and use our website, app and services; to manage our relationship and communicate with you; to engage in and send marketing and promotional messages to you and other information that has been requested or which may be of interest; to run our general business activities, and to operate, improve and optimise our website and services and yours and other users' experience; to send support and administrative messages, reminders, technical notices, updates, security alerts, and information to you; and to comply with our legal obligations. URL: https://www.thepeoplespot.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "634d6f9288a213b9d20583a54660184563ae947e0d109835827e0d3ef85aecdd",
+                "score": 0.3037318,
+                "excerpt": "any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information.\nCan I remain anonymous?\nYou can always choose to deal with us anonymously or by using a pseudonym.\nHowever, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services.\nWhy do we collect, hold, use and disclose personal information?\nWe collect, hold, use and disclose persona...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "3c5c4d797c3ff484b0966e8c7f58cc1690e555a63b29650f3205667d8cbcafd3",
+                "score": 0.040162582,
+                "excerpt": "Our Privacy Policy\nWe have designed our app with privacy in mind. We want employees to use it without being concerned about who is watching. We take privacy absolutely seriously.\nAbout This Privacy Policy\nThe People Spot Pty Ltd ABN 87 648 891 696 (People Spot) has obligations concerning the collection, use, disclosure and storage of personal information. These obligations are set out in the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) (Privacy Act), and other applicable...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "792e07a6af4ffef8a650fd0966031b7b79ee9814d8b4352d6b5f9c5f37274361",
+                "score": 0.0057974015,
+                "excerpt": "information we collect and hold includes information about the end users our applications and individuals who visit our website.\nThe personal information that we collect and hold may include an individual's:\n· name;\n· address;\n· date of birth;\n· email address;\n· telephone number and other contact details;\n· workplace; and\n· technical data, which may include IP address, the types of devices you are using to access the website, device attributes, browser type, language and operating system.\nHow do...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "52c7719d713abc2859c930516bf797d18e96a67e9148523ac862317f97dcbfe7",
+                "score": 0.0026214411,
+                "excerpt": "use.\nWe analyse this non-identifiable website traffic data (including through the use of third party service providers) on an aggregated basis to improve our services and for statistical purposes.\nNo attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.\nSecurity of your personal information\nTo protect personal information from...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "c992ac3cc2642e3c84c0d0d605347b8eef33872757145182f5df45fb0750bee5",
+                "score": 0.0012065896,
+                "excerpt": "whom do we disclose personal information?\nWe may disclose personal information to the following third parties for the purposes listed above trading partners and external service providers of People Spot so that they may perform services for us or on our behalf.\nWhen we disclose personal information to third parties, we make all reasonable efforts to ensure that we disclose only relevant information and that it is accurate, complete and up to date and that the third party will comply with the Pri...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1569749201,
+            "url": "https://www.thepeoplespot.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can choose to remain anonymous or use a pseudonym, which implies the ability to opt-out of data collection. Additionally, the policy mentions that personal information will be destroyed or de-identified when it is no longer required.",
+            "reference": "You can always choose to deal with us anonymously or by using a pseudonym. However, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services. If the information is no longer required by us for any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information. URL: https://www.thepeoplespot.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "634d6f9288a213b9d20583a54660184563ae947e0d109835827e0d3ef85aecdd",
+                "score": 0.12776141,
+                "excerpt": "any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information.\nCan I remain anonymous?\nYou can always choose to deal with us anonymously or by using a pseudonym.\nHowever, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services.\nWhy do we collect, hold, use and disclose personal information?\nWe collect, hold, use and disclose persona...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "7e79a80ed24e7feb6382239abd650ec1b401026f581583e3b9e73d0e41e0e32a",
+                "score": 0.053601142,
+                "excerpt": "website and whether they completed any transactions on the website.\nThe information generated by the cookie about your use of the website (including their IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of compiling reports on the website activity and providing other services relating to the website and internet usage. Google may also transfer this information to third parties where required to do so by law...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "792e07a6af4ffef8a650fd0966031b7b79ee9814d8b4352d6b5f9c5f37274361",
+                "score": 0.03191915,
+                "excerpt": "information we collect and hold includes information about the end users our applications and individuals who visit our website.\nThe personal information that we collect and hold may include an individual's:\n· name;\n· address;\n· date of birth;\n· email address;\n· telephone number and other contact details;\n· workplace; and\n· technical data, which may include IP address, the types of devices you are using to access the website, device attributes, browser type, language and operating system.\nHow do...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "d472ef6496f2677ff7f768ae955add6e8c579f4fbca7f3e64c426e15b60f7ca6",
+                "score": 0.0061689946,
+                "excerpt": "as photocopying costs or costs for time spent on collating large amounts of material).\nYou will be notified of any likely costs before your request is processed.\nHow can I make a complaint?\nIf you have a complaint or concern regarding our handling of your personal information or think that your privacy has been affected you should contact us as detailed below for an examination of your complaint or concern. If you remain unsatisfied with the way in which we have handled a privacy issue, you may ...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "bb5d0597915c300327e23c064d1ab6989c302cfc92a7029869bdee81389b3488",
+                "score": 0.005576545,
+                "excerpt": "using the contact details set out at the bottom of this Privacy Policy.\nThe personal information of our employees, systems and most of the third parties we share information with are located in Australia, with some of this personal information stored in secure cloud systems. We require from all our cloud suppliers that such information is to be hosted in Australia.\nLinks\nOur sites may have links to other websites not controlled or owned by us. We are not responsible for these sites or any conseq...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1569749201,
+            "url": "https://www.thepeoplespot.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as listed in the privacy policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app shares data with trading partners and external service providers of People Spot for various purposes.",
+            "reference": "We may disclose personal information to the following third parties for the purposes listed above trading partners and external service providers of People Spot so that they may perform services for us or on our behalf. URL: https://www.thepeoplespot.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "634d6f9288a213b9d20583a54660184563ae947e0d109835827e0d3ef85aecdd",
+                "score": 0.49163133,
+                "excerpt": "any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information.\nCan I remain anonymous?\nYou can always choose to deal with us anonymously or by using a pseudonym.\nHowever, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services.\nWhy do we collect, hold, use and disclose personal information?\nWe collect, hold, use and disclose persona...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "c992ac3cc2642e3c84c0d0d605347b8eef33872757145182f5df45fb0750bee5",
+                "score": 0.14163722,
+                "excerpt": "whom do we disclose personal information?\nWe may disclose personal information to the following third parties for the purposes listed above trading partners and external service providers of People Spot so that they may perform services for us or on our behalf.\nWhen we disclose personal information to third parties, we make all reasonable efforts to ensure that we disclose only relevant information and that it is accurate, complete and up to date and that the third party will comply with the Pri...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "22f6fdd6471319a13b1e2693e98081c68463b81c60146712566a5722442612db",
+                "score": 0.069541745,
+                "excerpt": "legal claim;\nIt is requested by an enforcement agency such as the police; or\nIt is a necessary part of an investigation following a complaint or incident.\nDisclosure of personal information outside Australia\nSome of the third parties to whom we may disclose personal information may be located overseas. The countries in which those third parties may be located are:\n· United States;\nWhere we disclose information outside of Australia, we will take reasonable steps to ensure that any such person to ...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "3c5c4d797c3ff484b0966e8c7f58cc1690e555a63b29650f3205667d8cbcafd3",
+                "score": 0.060863446,
+                "excerpt": "Our Privacy Policy\nWe have designed our app with privacy in mind. We want employees to use it without being concerned about who is watching. We take privacy absolutely seriously.\nAbout This Privacy Policy\nThe People Spot Pty Ltd ABN 87 648 891 696 (People Spot) has obligations concerning the collection, use, disclosure and storage of personal information. These obligations are set out in the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) (Privacy Act), and other applicable...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "792e07a6af4ffef8a650fd0966031b7b79ee9814d8b4352d6b5f9c5f37274361",
+                "score": 0.04385456,
+                "excerpt": "information we collect and hold includes information about the end users our applications and individuals who visit our website.\nThe personal information that we collect and hold may include an individual's:\n· name;\n· address;\n· date of birth;\n· email address;\n· telephone number and other contact details;\n· workplace; and\n· technical data, which may include IP address, the types of devices you are using to access the website, device attributes, browser type, language and operating system.\nHow do...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1569749201,
+            "url": "https://www.thepeoplespot.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with trading partners and external service providers of People Spot.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "trading partners and external service providers of People Spot"
+                }
+            },
+            "analysis": "The privacy policy specifies that personal information may be disclosed to trading partners and external service providers of People Spot for various purposes, indicating the third parties the app shares data with.",
+            "reference": "We may disclose personal information to the following third parties for the purposes listed above trading partners and external service providers of People Spot so that they may perform services for us or on our behalf. URL: https://www.thepeoplespot.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c992ac3cc2642e3c84c0d0d605347b8eef33872757145182f5df45fb0750bee5",
+                "score": 0.7821637,
+                "excerpt": "whom do we disclose personal information?\nWe may disclose personal information to the following third parties for the purposes listed above trading partners and external service providers of People Spot so that they may perform services for us or on our behalf.\nWhen we disclose personal information to third parties, we make all reasonable efforts to ensure that we disclose only relevant information and that it is accurate, complete and up to date and that the third party will comply with the Pri...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "634d6f9288a213b9d20583a54660184563ae947e0d109835827e0d3ef85aecdd",
+                "score": 0.7749242,
+                "excerpt": "any purpose for which it was collected and is no longer required by law to be retained by us, we will destroy or de-identify the information.\nCan I remain anonymous?\nYou can always choose to deal with us anonymously or by using a pseudonym.\nHowever, please note that if you choose to remain anonymous, this may affect your ability to access or use certain functions of our website or services.\nWhy do we collect, hold, use and disclose personal information?\nWe collect, hold, use and disclose persona...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "bb5d0597915c300327e23c064d1ab6989c302cfc92a7029869bdee81389b3488",
+                "score": 0.3268083,
+                "excerpt": "using the contact details set out at the bottom of this Privacy Policy.\nThe personal information of our employees, systems and most of the third parties we share information with are located in Australia, with some of this personal information stored in secure cloud systems. We require from all our cloud suppliers that such information is to be hosted in Australia.\nLinks\nOur sites may have links to other websites not controlled or owned by us. We are not responsible for these sites or any conseq...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "22f6fdd6471319a13b1e2693e98081c68463b81c60146712566a5722442612db",
+                "score": 0.27357438,
+                "excerpt": "legal claim;\nIt is requested by an enforcement agency such as the police; or\nIt is a necessary part of an investigation following a complaint or incident.\nDisclosure of personal information outside Australia\nSome of the third parties to whom we may disclose personal information may be located overseas. The countries in which those third parties may be located are:\n· United States;\nWhere we disclose information outside of Australia, we will take reasonable steps to ensure that any such person to ...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            },
+            {
+                "id": "52c7719d713abc2859c930516bf797d18e96a67e9148523ac862317f97dcbfe7",
+                "score": 0.17567945,
+                "excerpt": "use.\nWe analyse this non-identifiable website traffic data (including through the use of third party service providers) on an aggregated basis to improve our services and for statistical purposes.\nNo attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.\nSecurity of your personal information\nTo protect personal information from...",
+                "url": "https://www.thepeoplespot.com/privacy-policy"
+            }
+        ]
+    }
+]

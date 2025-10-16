@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1517360968,
+      "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that when users use the Services, the app can collect, use, receive, process, transfer, and share some of their Personal Data for different legitimate purposes. It also mentions that certain personal data may be required during registration and onboarding processes.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes the importance of understanding how personal information will be used before providing it.",
+          "content": "The app collects various types of personal data, including registration information and quiz data during onboarding."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and the purposes for which it is used, ensuring transparency for users.",
+      "reference": "Section 2 - Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1517360968,
+      "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including Registration Information (name or nickname, email address, password, age, gender, telephone number), Quiz Data (pulse, heart rate, photo of hand, information about feelings and mental well-being, general health condition, relationship status, area of life for development, place of birth, time of birth), and automatically collected device information (language settings, IP address, time zone, device type and model).",
+        "simple_answer": "The app collects personal data such as name, email, age, gender, health information, and device information.",
+        "extended_simple_answer": {
+          "comment": "The data collected is used for various legitimate purposes related to the app's services.",
+          "content": "The types of data include Registration Information (name, email, password, age, gender, phone number), Quiz Data (pulse, heart rate, feelings, health condition, relationship status, development areas, place and time of birth), and device information (language settings, IP address, time zone, device type)."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 of the Privacy Policy"
+    }
+  },
+  {
+    "meta": {
+      "id": 1517360968,
+      "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data may be collected for different legitimate purposes, including providing services, analyzing app usage, enhancing user experiences, and improving subscription management. The policy outlines that the types of information collected depend on how users interact with the services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy provides detailed explanations regarding the purposes for which personal data is collected.",
+          "content": "The app collects personal data for various legitimate purposes, such as providing services, analyzing usage, and enhancing user experiences."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2 - Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1517360968,
+      "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of transferring certain event data to Apple by contacting the company. Additionally, users have rights regarding their personal data, which may include the ability to request deletion of their data, as outlined in Section 7 of the privacy policy.",
+        "simple_answer": "Yes, users can opt out and may request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data and privacy rights.",
+          "content": "Users can opt out of transferring event data to Apple by contacting the company. They also have rights regarding their personal data, including the potential to request deletion."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have control over their data, including opting out of certain data transfers and exercising their rights regarding personal data.",
+      "reference": "Section 7 (Users’ rights)"
+    }
+  },
+  {
+    "meta": {
+      "id": 1517360968,
+      "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares certain data with third parties, specifically with Apple for subscription management and engagement tracking. This includes sharing event data such as Customer Account Age, User Account Details, Content Consumption Level, and others. Apple uses this data in accordance with its own Privacy Policy and may share it with service providers acting on its behalf, but will not use it for marketing purposes.",
+        "simple_answer": "Yes, the app shares data with third parties, particularly Apple.",
+        "extended_simple_answer": {
+          "comment": "The app integrates with Apple's App Store Server API for subscription management.",
+          "content": "Data shared includes event data related to user interactions with subscription content, which Apple uses to improve its services."
+        }
+      },
+      "analysis": "The app's data sharing practices are primarily focused on enhancing user experience and subscription management, with a clear emphasis on compliance with privacy standards.",
+      "reference": "Section 2.1 and Third-party processing of your personal data."
+    }
+  },
+  {
+    "meta": {
+      "id": 1517360968,
+      "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with Apple as part of its integration with Apple’s App Store Server API. This includes sharing event data such as Customer Account Age, User Account Details, Content Consumption Level, Platform Information, Total In-App Purchase Amount, App Usage Time, and Account Status to enhance subscription management in line with Apple’s guidelines. Apple may also share this data with service providers acting on its behalf, partners, or others at your direction, but will not use it for marketing purposes.",
+        "simple_answer": "The app shares data with Apple.",
+        "extended_simple_answer": {
+          "comment": "The app integrates with Apple’s App Store Server API for subscription management.",
+          "content": "Data shared includes Customer Account Age, User Account Details, Content Consumption Level, Platform Information, Total In-App Purchase Amount, App Usage Time, and Account Status. Apple uses this data according to its Privacy Policy."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1"
+    }
+  }
+]

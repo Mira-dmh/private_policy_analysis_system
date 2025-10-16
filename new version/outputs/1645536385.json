@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1645536385,
+            "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions the collection of personal and non-personal identification information from users.",
+            "reference": "We may collect personal identification information from Users... We may collect non-personal identification information about Users... URL: https://www.ohealthappsstudio.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "316f403ba57c01235496c6e624694cd00da8061f5aec6fbeae8905cd5282053d",
+                "score": 0.0048674173,
+                "excerpt": "your responsibility to review this privacy policy periodically and become aware of modifications.\nYour acceptance of these terms\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings wit...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "10ea85ba11d685246025f63ed66ac39e7e191545aeba53adef3fd836bbd66f63",
+                "score": 0.00305151,
+                "excerpt": "This Privacy Policy governs the manner in which OHealthappsstudio collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.ohealthappsstudio.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by OHealthappsstudio Personal identification information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, registe...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "eb5ba2e3e5df1150c133d07f2783e3fd7ea8b380f25ebc4c69b9bbbf918e0d7f",
+                "score": 0.0009735438,
+                "excerpt": "things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.\nGoogle Adsense\nSome of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical ad...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "156917203ecccd009913091a9948bc1d1062f4cc76b9079d45a37badd1945998",
+                "score": 0.0008040859,
+                "excerpt": "collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer, and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.\nWeb browser cookies\nOur Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "19258af60c8db829031f55ca35e7f7b87797607215dcd8f9954b6b43746c5d3e",
+                "score": 0.0003473453,
+                "excerpt": "we include detailed unsubscribe instructions at the bottom of each email or the User may contact us via our Site.\nHow we protect your information\nWe adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.\nOur Site is in compliance with PCI vulnerability standards in order to create...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1645536385,
+            "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects non-personal identification information such as browser name, computer type, technical information about means of connection, operating system, and Internet service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Browser name",
+                        "Computer type",
+                        "Technical information about means of connection",
+                        "Operating system",
+                        "Internet service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states that non-personal identification information is collected, including specific details such as browser name, computer type, operating system, etc.",
+            "reference": "Non-personal identification information may include the browser name, the type of computer, and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. URL: https://www.ohealthappsstudio.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "156917203ecccd009913091a9948bc1d1062f4cc76b9079d45a37badd1945998",
+                "score": 0.026708463,
+                "excerpt": "collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer, and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.\nWeb browser cookies\nOur Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "10ea85ba11d685246025f63ed66ac39e7e191545aeba53adef3fd836bbd66f63",
+                "score": 0.009898064,
+                "excerpt": "This Privacy Policy governs the manner in which OHealthappsstudio collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.ohealthappsstudio.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by OHealthappsstudio Personal identification information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, registe...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "316f403ba57c01235496c6e624694cd00da8061f5aec6fbeae8905cd5282053d",
+                "score": 0.0047552,
+                "excerpt": "your responsibility to review this privacy policy periodically and become aware of modifications.\nYour acceptance of these terms\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings wit...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "eb5ba2e3e5df1150c133d07f2783e3fd7ea8b380f25ebc4c69b9bbbf918e0d7f",
+                "score": 0.0042151595,
+                "excerpt": "things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.\nGoogle Adsense\nSome of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical ad...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "f7b0726808aa8936396a2ee56b94b8a2a0a9883fa2c9c52c55ba60bfb32ded51",
+                "score": 0.0014721896,
+                "excerpt": "the services and resources provided on our Site. - – To improve our Site\nWe may use feedback you provide to improve our products and services. - – To process payments\nWe may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - – To run a promotion, contest, survey or other Site feature\nTo send Users information they agreed to re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1645536385,
+            "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purposes for collecting and using data, such as improving customer service, personalizing user experience, processing payments, and sending information to users.",
+            "reference": "How we use collected information - Privacy Policy - https://www.ohealthappsstudio.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "156917203ecccd009913091a9948bc1d1062f4cc76b9079d45a37badd1945998",
+                "score": 0.010448625,
+                "excerpt": "collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer, and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.\nWeb browser cookies\nOur Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "19258af60c8db829031f55ca35e7f7b87797607215dcd8f9954b6b43746c5d3e",
+                "score": 0.002560871,
+                "excerpt": "we include detailed unsubscribe instructions at the bottom of each email or the User may contact us via our Site.\nHow we protect your information\nWe adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.\nOur Site is in compliance with PCI vulnerability standards in order to create...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "316f403ba57c01235496c6e624694cd00da8061f5aec6fbeae8905cd5282053d",
+                "score": 0.002217013,
+                "excerpt": "your responsibility to review this privacy policy periodically and become aware of modifications.\nYour acceptance of these terms\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings wit...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "f7b0726808aa8936396a2ee56b94b8a2a0a9883fa2c9c52c55ba60bfb32ded51",
+                "score": 0.0019723359,
+                "excerpt": "the services and resources provided on our Site. - – To improve our Site\nWe may use feedback you provide to improve our products and services. - – To process payments\nWe may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - – To run a promotion, contest, survey or other Site feature\nTo send Users information they agreed to re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "10ea85ba11d685246025f63ed66ac39e7e191545aeba53adef3fd836bbd66f63",
+                "score": 0.0013993983,
+                "excerpt": "This Privacy Policy governs the manner in which OHealthappsstudio collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.ohealthappsstudio.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by OHealthappsstudio Personal identification information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, registe...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1645536385,
+            "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can unsubscribe from receiving future emails or contact the Site directly to opt out of data collection or delete their data.",
+            "reference": "If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or the User may contact us via our Site. URL: https://www.ohealthappsstudio.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "19258af60c8db829031f55ca35e7f7b87797607215dcd8f9954b6b43746c5d3e",
+                "score": 0.2654994,
+                "excerpt": "we include detailed unsubscribe instructions at the bottom of each email or the User may contact us via our Site.\nHow we protect your information\nWe adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.\nOur Site is in compliance with PCI vulnerability standards in order to create...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "316f403ba57c01235496c6e624694cd00da8061f5aec6fbeae8905cd5282053d",
+                "score": 0.033399824,
+                "excerpt": "your responsibility to review this privacy policy periodically and become aware of modifications.\nYour acceptance of these terms\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings wit...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "f7b0726808aa8936396a2ee56b94b8a2a0a9883fa2c9c52c55ba60bfb32ded51",
+                "score": 0.015603535,
+                "excerpt": "the services and resources provided on our Site. - – To improve our Site\nWe may use feedback you provide to improve our products and services. - – To process payments\nWe may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - – To run a promotion, contest, survey or other Site feature\nTo send Users information they agreed to re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "10ea85ba11d685246025f63ed66ac39e7e191545aeba53adef3fd836bbd66f63",
+                "score": 0.014281933,
+                "excerpt": "This Privacy Policy governs the manner in which OHealthappsstudio collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.ohealthappsstudio.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by OHealthappsstudio Personal identification information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, registe...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "eb5ba2e3e5df1150c133d07f2783e3fd7ea8b380f25ebc4c69b9bbbf918e0d7f",
+                "score": 0.007606672,
+                "excerpt": "things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.\nGoogle Adsense\nSome of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical ad...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1645536385,
+            "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share personal identification information with third parties. However, generic aggregated demographic information may be shared with business partners, trusted affiliates, and advertisers.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not sell, trade, or rent personal identification information to third parties. Only generic aggregated demographic information may be shared with specific entities for outlined purposes.",
+            "reference": "We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above. URL: https://www.ohealthappsstudio.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "19258af60c8db829031f55ca35e7f7b87797607215dcd8f9954b6b43746c5d3e",
+                "score": 0.16092426,
+                "excerpt": "we include detailed unsubscribe instructions at the bottom of each email or the User may contact us via our Site.\nHow we protect your information\nWe adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.\nOur Site is in compliance with PCI vulnerability standards in order to create...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "316f403ba57c01235496c6e624694cd00da8061f5aec6fbeae8905cd5282053d",
+                "score": 0.028490042,
+                "excerpt": "your responsibility to review this privacy policy periodically and become aware of modifications.\nYour acceptance of these terms\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings wit...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "f7b0726808aa8936396a2ee56b94b8a2a0a9883fa2c9c52c55ba60bfb32ded51",
+                "score": 0.01784874,
+                "excerpt": "the services and resources provided on our Site. - – To improve our Site\nWe may use feedback you provide to improve our products and services. - – To process payments\nWe may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - – To run a promotion, contest, survey or other Site feature\nTo send Users information they agreed to re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "10ea85ba11d685246025f63ed66ac39e7e191545aeba53adef3fd836bbd66f63",
+                "score": 0.008711385,
+                "excerpt": "This Privacy Policy governs the manner in which OHealthappsstudio collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.ohealthappsstudio.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by OHealthappsstudio Personal identification information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, registe...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "926575463433a53b584894628f44b34ac222fb33a95808059e34c33c973147f4",
+                "score": 0.00498227,
+                "excerpt": "given us your permission.\nThird-party websites\nUsers may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors, and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and ...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1645536385,
+            "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with business partners, trusted affiliates, advertisers, and third-party service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "business partners",
+                        "trusted affiliates",
+                        "advertisers",
+                        "third-party service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app may share information with business partners, trusted affiliates, advertisers, and third-party service providers for limited purposes with user permission.",
+            "reference": "We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above. We may use third-party service providers to help us operate our business and the Site or administer activities on our behalfs, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. URL: https://www.ohealthappsstudio.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "19258af60c8db829031f55ca35e7f7b87797607215dcd8f9954b6b43746c5d3e",
+                "score": 0.3974121,
+                "excerpt": "we include detailed unsubscribe instructions at the bottom of each email or the User may contact us via our Site.\nHow we protect your information\nWe adopt appropriate data collection, storage, and processing practices and security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Site.\nOur Site is in compliance with PCI vulnerability standards in order to create...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "f7b0726808aa8936396a2ee56b94b8a2a0a9883fa2c9c52c55ba60bfb32ded51",
+                "score": 0.09894659,
+                "excerpt": "the services and resources provided on our Site. - – To improve our Site\nWe may use feedback you provide to improve our products and services. - – To process payments\nWe may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. - – To run a promotion, contest, survey or other Site feature\nTo send Users information they agreed to re...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "926575463433a53b584894628f44b34ac222fb33a95808059e34c33c973147f4",
+                "score": 0.06928941,
+                "excerpt": "given us your permission.\nThird-party websites\nUsers may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors, and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and ...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "316f403ba57c01235496c6e624694cd00da8061f5aec6fbeae8905cd5282053d",
+                "score": 0.009125637,
+                "excerpt": "your responsibility to review this privacy policy periodically and become aware of modifications.\nYour acceptance of these terms\nBy using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings wit...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            },
+            {
+                "id": "eb5ba2e3e5df1150c133d07f2783e3fd7ea8b380f25ebc4c69b9bbbf918e0d7f",
+                "score": 0.006413164,
+                "excerpt": "things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.\nGoogle Adsense\nSome of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical ad...",
+                "url": "https://www.ohealthappsstudio.com/privacy-policy/"
+            }
+        ]
+    }
+]

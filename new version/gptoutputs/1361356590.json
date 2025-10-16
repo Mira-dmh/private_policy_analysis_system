@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1361356590,
+      "url": "http://www.balanceapp.com/balance-privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects various categories of personal information based on user interactions with its services.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of personal information collected.",
+          "content": "The app collects personal identifiers, protected class information, commercial and financial information, internet or other electronic activity information, professional information, education information, and sensitive personal information."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of personal information collected from users, indicating transparency in data collection practices.",
+      "reference": "Notice at Collection: Personal Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1361356590,
+      "url": "http://www.balanceapp.com/balance-privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following categories of personal information: Personal identifiers (real name, alias, postal address, unique personal identifier, online identifier, IP address, email address, account name, username and password), Protected class information (race/ethnicity, age, gender identity), Commercial and financial information (records of products or services ordered or considered), Internet or other electronic activity information (device and browser type, browsing and search history, interaction with services and advertisements), Professional information (job title and employer information), Education information (educational institutions attended, degree information, grades, classes, certificates, honors), and Sensitive personal information (health information).",
+        "simple_answer": "The app collects personal identifiers, protected class information, commercial and financial information, internet activity information, professional information, education information, and sensitive personal information.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app collects various types of personal information including identifiers like name and email, demographic information, financial records, internet activity, professional and educational details, and sensitive health information."
+        }
+      },
+      "analysis": "",
+      "reference": "Notice at Collection: Personal Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1361356590,
+      "url": "http://www.balanceapp.com/balance-privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal information is collected for various purposes including providing services, contacting users, customer support, processing employment applications, delivering advertisements, monitoring and improving services, and preventing fraud.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for each category of personal information collected.",
+          "content": "The purposes include providing requested information and services, customer support, processing employment applications, delivering advertisements, monitoring service quality, and preventing fraud."
+        }
+      },
+      "analysis": "",
+      "reference": "Notice at Collection - Purposes for Collection of Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1361356590,
+      "url": "http://www.balanceapp.com/balance-privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it does state that users have rights regarding their personal information, which may include the ability to request deletion of their data under certain circumstances. Users are encouraged to contact the company for more information regarding their rights.",
+        "simple_answer": "The policy does not explicitly state an opt-out option, but users may have rights to request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users should reach out to the company for specific rights regarding their personal information.",
+          "content": "The policy mentions that users have rights with respect to their personal information, but does not detail the opt-out or deletion process."
+        }
+      },
+      "analysis": "The lack of explicit mention of an opt-out option or a clear deletion process may indicate that users need to inquire directly with the company for specific actions regarding their data.",
+      "reference": "This information is derived from the general description of user rights in the privacy policy."
+    }
+  },
+  {
+    "meta": {
+      "id": 1361356590,
+      "url": "http://www.balanceapp.com/balance-privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share personal information with third parties for various purposes, including providing services, marketing, and legal compliance.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data to enhance services and for marketing purposes.",
+          "content": "The privacy policy indicates that personal information may be shared with third parties for service provision, marketing, and legal compliance."
+        }
+      },
+      "analysis": "The privacy policy outlines the circumstances under which personal information may be shared with third parties, emphasizing the purposes of service enhancement and marketing.",
+      "reference": "Notice at Collection - Purposes for Collection of Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1361356590,
+      "url": "http://www.balanceapp.com/balance-privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It mentions that personal information may be shared with third parties for various purposes, but does not provide a detailed list of those third parties.",
+        "simple_answer": "The app does not specify which third parties it shares data with.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared with third parties but lacks specific names or categories.",
+          "content": "The privacy policy does not provide a detailed list of third parties with whom data is shared."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy may raise concerns for users about data sharing practices.",
+      "reference": "Notice at Collection - Purposes for Collection of Personal Information"
+    }
+  }
+]

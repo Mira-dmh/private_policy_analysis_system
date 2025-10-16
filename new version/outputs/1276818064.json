@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 1276818064,
+            "url": "https://www.mind-diagnostics.org/pages/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is collected from users in various forms, which indicates that the app declares the collection of data.",
+            "reference": "We collect, use, and store the information described below. ... The information we collect is received directly or indirectly from you and generated in the course of your use of the Sites. URL: https://www.mind-diagnostics.org/pages/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c25ea95a485050f1e909f67698e92436579efdb17ce795d8bdc34d6721dcb0db",
+                "score": 0.02727267,
+                "excerpt": "the information described below. We also disclose certain information to third parties, as described further below. The information we collect is received directly or indirectly from you and generated in the course of your use of the Sites. The data we collect is not used for marketing or any other purposes except as specified in this Privacy Policy.\nVisitor Data: We collect, use, and store data regarding user visits to its website and use of the application (“Visitor Data”), including the parti...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "2a7c1058a400558d15ddf1869a0e060231ffc4b34beef3257ea1fb080fc311c0",
+                "score": 0.008610767,
+                "excerpt": "periodically review this page for the latest information on our Privacy Policy and practices. Regardless of changes to our Privacy Policy, we will never use the information you submit under our current privacy notice in a new way without first notifying you and giving you the option to stop using the Site.\nIf you have any questions or concerns about this Privacy Policy or our privacy-related practices, please contact us by clicking the \"Contact Us\" link at the bottom of any page in our website.\n...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "145a245bb3acf5ceb75c1a7755090163c4b4496651ea40d88498836aa2e3e4b5",
+                "score": 0.0065134983,
+                "excerpt": "This Privacy Policy is effective as of June 20, 2024.\nYour privacy is extremely important to us. We are constantly putting a great deal of thought, effort, tools, resources, and procedures in place in order to protect and safeguard your privacy. This document is our \"Privacy Policy\" and it contains details on issues related to your privacy when using our services. This Privacy Policy applies to visitors to any of the following websites and related mobile applications: www.mind-diagnostics.org, w...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "d8d6a03aeecb0b4041d87b6bf64b05151bc49c623ae69f2ccc28b505bc6bffa2",
+                "score": 0.0017207355,
+                "excerpt": "specifically designed for users who are 18 years of age or above. We do not knowingly collect or solicit any information from anyone under the age of 18 or knowingly allow such persons to become our user. The Site is not directed and not intended to be used by users under the age of 18. If you are aware that we have collected Personal Information from a user under age of 18 please let us know by contacting us and we will delete that information.\nWe cooperate with government and law enforcement o...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "0ab3708103fe55515b56c3db18b5feaff1ee5847bade78c5b90906218e0972e1",
+                "score": 0.00067455583,
+                "excerpt": "information you provide or share while using Social and General Information Tools may be read, accessed, collected by that site and users of that site according to their Privacy Policy.\nOnline identity theft and account hacking, including the practice currently known as \"phishing\", are of great concern. You should always be diligent when you are being asked for your account information and you must always make sure you do that in our secure system. We will never request your login information or...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1276818064,
+            "url": "https://www.mind-diagnostics.org/pages/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Visitor Data, Test Information, Reviews",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Visitor Data",
+                        "Test Information",
+                        "Reviews"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies the types of data collected under Visitor Data, Test Information, and Reviews.",
+            "reference": "Visitor Data: We collect, use, and store data regarding user visits to its website and use of the application (“Visitor Data”), including the particular pages visited or viewed by the user, the amount of time the user spent on the Sites, website errors experienced by the user, and information about the browser or device used to access the website and application, such as the user’s mobile device ID and IP address. Test Information: We collect the test responses provided by users, as well as pages viewed by the user, whether the user clicks a link to begin completing a test, and whether the user responds to any of the test prompts. Reviews: We collect the information you provide if leaving reviews on the Site. URL: https://www.mind-diagnostics.org/pages/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c25ea95a485050f1e909f67698e92436579efdb17ce795d8bdc34d6721dcb0db",
+                "score": 0.27425417,
+                "excerpt": "the information described below. We also disclose certain information to third parties, as described further below. The information we collect is received directly or indirectly from you and generated in the course of your use of the Sites. The data we collect is not used for marketing or any other purposes except as specified in this Privacy Policy.\nVisitor Data: We collect, use, and store data regarding user visits to its website and use of the application (“Visitor Data”), including the parti...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "145a245bb3acf5ceb75c1a7755090163c4b4496651ea40d88498836aa2e3e4b5",
+                "score": 0.035880696,
+                "excerpt": "This Privacy Policy is effective as of June 20, 2024.\nYour privacy is extremely important to us. We are constantly putting a great deal of thought, effort, tools, resources, and procedures in place in order to protect and safeguard your privacy. This document is our \"Privacy Policy\" and it contains details on issues related to your privacy when using our services. This Privacy Policy applies to visitors to any of the following websites and related mobile applications: www.mind-diagnostics.org, w...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "2a7c1058a400558d15ddf1869a0e060231ffc4b34beef3257ea1fb080fc311c0",
+                "score": 0.014392336,
+                "excerpt": "periodically review this page for the latest information on our Privacy Policy and practices. Regardless of changes to our Privacy Policy, we will never use the information you submit under our current privacy notice in a new way without first notifying you and giving you the option to stop using the Site.\nIf you have any questions or concerns about this Privacy Policy or our privacy-related practices, please contact us by clicking the \"Contact Us\" link at the bottom of any page in our website.\n...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "c186caef72b6710d19ccc128868767810333215ae30ffa66343eff7ec7cd2fa4",
+                "score": 0.011823394,
+                "excerpt": "is placed on your browser. These cookies allow us to uniquely identify you when you are logged into the Site and to process your online transactions and requests. Because required cookies are essential to operate the Site, there is no option to opt out of these cookies.\nPerformance cookies: These cookies collect information about how you use the Site, including which pages you go to most often and if they receive error messages from certain pages. These cookies do not collect information that in...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "f770af726c07773f1790e03a929d8847e7f696dca299ec55e3c2cdc75a3c7b8b",
+                "score": 0.008251599,
+                "excerpt": "to track and aggregate information. For example, we may use IP addresses to monitor the regions from which you navigate the Site. We may also use web beacons alone or in conjunction with cookies to compile information about your usage of the Site and interaction with emails from us. Web beacons are clear electronic images that can recognize certain types of information on your computer, such as cookies, when you viewed a particular site tied to the web beacon. For example, we may place web beaco...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1276818064,
+            "url": "https://www.mind-diagnostics.org/pages/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as outlined in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that the app declares the purpose of data collection and use, specifying that the information collected is used for various purposes as detailed in the policy.",
+            "reference": "Protecting this information is important for us. Other than in the ways detailed in this Privacy Policy, we will never use or disclose any information unless you requested or approved us to do so. Purposes for Which Information is Used. URL: https://www.mind-diagnostics.org/pages/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c25ea95a485050f1e909f67698e92436579efdb17ce795d8bdc34d6721dcb0db",
+                "score": 0.22303842,
+                "excerpt": "the information described below. We also disclose certain information to third parties, as described further below. The information we collect is received directly or indirectly from you and generated in the course of your use of the Sites. The data we collect is not used for marketing or any other purposes except as specified in this Privacy Policy.\nVisitor Data: We collect, use, and store data regarding user visits to its website and use of the application (“Visitor Data”), including the parti...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "111a41bbfc23491446a1e476c7c5e8474b9a77275b9f737420e6fd79631a98f0",
+                "score": 0.020410309,
+                "excerpt": "information you provide if leaving reviews on the Site.\nProtecting this information is important for us. Other than in the ways detailed in this Privacy Policy, we will never use or disclose any information unless you requested or approved us to do so.\nPurposes for Which Information is Used\nWe may use the information we collect for one or more of the following purposes:\nPurposes for Which Information is Disclosed to Third Parties\nInformation about you may be disclosed to third parties for one or...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "145a245bb3acf5ceb75c1a7755090163c4b4496651ea40d88498836aa2e3e4b5",
+                "score": 0.009859855,
+                "excerpt": "This Privacy Policy is effective as of June 20, 2024.\nYour privacy is extremely important to us. We are constantly putting a great deal of thought, effort, tools, resources, and procedures in place in order to protect and safeguard your privacy. This document is our \"Privacy Policy\" and it contains details on issues related to your privacy when using our services. This Privacy Policy applies to visitors to any of the following websites and related mobile applications: www.mind-diagnostics.org, w...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "2a7c1058a400558d15ddf1869a0e060231ffc4b34beef3257ea1fb080fc311c0",
+                "score": 0.005001672,
+                "excerpt": "periodically review this page for the latest information on our Privacy Policy and practices. Regardless of changes to our Privacy Policy, we will never use the information you submit under our current privacy notice in a new way without first notifying you and giving you the option to stop using the Site.\nIf you have any questions or concerns about this Privacy Policy or our privacy-related practices, please contact us by clicking the \"Contact Us\" link at the bottom of any page in our website.\n...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "e20c6d3bc4c89c989671f2b126c5c78f35ebe0ca97f50f042c4922838647bd6f",
+                "score": 0.0022343625,
+                "excerpt": "do not have control over third party websites and services and we do not have control over their privacy policies and terms of use.\nWhile using any Internet-based service carries inherent security risks that cannot be 100% prevented, our systems, infrastructure, encryption technology, operation, and processes are all designed, built, and maintained with your security and privacy in mind. We apply industry standards and best practices to prevent any unauthorized access, use, and disclosure. We co...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1276818064,
+            "url": "https://www.mind-diagnostics.org/pages/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users can request the deletion of their data if necessary, indicating that users have the option to opt out of data collection or delete their data.",
+            "reference": "If you are aware that we have collected Personal Information from a user under age of 18 please let us know by contacting us and we will delete that information. URL: https://www.mind-diagnostics.org/pages/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d8d6a03aeecb0b4041d87b6bf64b05151bc49c623ae69f2ccc28b505bc6bffa2",
+                "score": 0.23952718,
+                "excerpt": "specifically designed for users who are 18 years of age or above. We do not knowingly collect or solicit any information from anyone under the age of 18 or knowingly allow such persons to become our user. The Site is not directed and not intended to be used by users under the age of 18. If you are aware that we have collected Personal Information from a user under age of 18 please let us know by contacting us and we will delete that information.\nWe cooperate with government and law enforcement o...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "c186caef72b6710d19ccc128868767810333215ae30ffa66343eff7ec7cd2fa4",
+                "score": 0.10894504,
+                "excerpt": "is placed on your browser. These cookies allow us to uniquely identify you when you are logged into the Site and to process your online transactions and requests. Because required cookies are essential to operate the Site, there is no option to opt out of these cookies.\nPerformance cookies: These cookies collect information about how you use the Site, including which pages you go to most often and if they receive error messages from certain pages. These cookies do not collect information that in...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "111a41bbfc23491446a1e476c7c5e8474b9a77275b9f737420e6fd79631a98f0",
+                "score": 0.078925885,
+                "excerpt": "information you provide if leaving reviews on the Site.\nProtecting this information is important for us. Other than in the ways detailed in this Privacy Policy, we will never use or disclose any information unless you requested or approved us to do so.\nPurposes for Which Information is Used\nWe may use the information we collect for one or more of the following purposes:\nPurposes for Which Information is Disclosed to Third Parties\nInformation about you may be disclosed to third parties for one or...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "2a7c1058a400558d15ddf1869a0e060231ffc4b34beef3257ea1fb080fc311c0",
+                "score": 0.074500255,
+                "excerpt": "periodically review this page for the latest information on our Privacy Policy and practices. Regardless of changes to our Privacy Policy, we will never use the information you submit under our current privacy notice in a new way without first notifying you and giving you the option to stop using the Site.\nIf you have any questions or concerns about this Privacy Policy or our privacy-related practices, please contact us by clicking the \"Contact Us\" link at the bottom of any page in our website.\n...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "e20c6d3bc4c89c989671f2b126c5c78f35ebe0ca97f50f042c4922838647bd6f",
+                "score": 0.013222822,
+                "excerpt": "do not have control over third party websites and services and we do not have control over their privacy policies and terms of use.\nWhile using any Internet-based service carries inherent security risks that cannot be 100% prevented, our systems, infrastructure, encryption technology, operation, and processes are all designed, built, and maintained with your security and privacy in mind. We apply industry standards and best practices to prevent any unauthorized access, use, and disclosure. We co...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1276818064,
+            "url": "https://www.mind-diagnostics.org/pages/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as necessary for facilitating tasks related to the site or providing services, ensuring the minimum necessary information is shared.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may employ third party companies and individuals to perform tasks related to the site or provide services, sharing only the minimum necessary information with them.",
+            "reference": "We may employ third party companies and individuals to facilitate our Site, to perform certain tasks which are related to the Site, or to provide audit, legal, operational or other services for us. These tasks include, but not limited to, customer service, technical maintenance, monitoring, email management and communication, database management, billing and payment processing, reporting and analytics. We will share with them only the minimum necessary information to perform their task for us and only after entering into appropriate confidentiality agreements. URL: https://www.mind-diagnostics.org/pages/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c25ea95a485050f1e909f67698e92436579efdb17ce795d8bdc34d6721dcb0db",
+                "score": 0.5416513,
+                "excerpt": "the information described below. We also disclose certain information to third parties, as described further below. The information we collect is received directly or indirectly from you and generated in the course of your use of the Sites. The data we collect is not used for marketing or any other purposes except as specified in this Privacy Policy.\nVisitor Data: We collect, use, and store data regarding user visits to its website and use of the application (“Visitor Data”), including the parti...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "e20c6d3bc4c89c989671f2b126c5c78f35ebe0ca97f50f042c4922838647bd6f",
+                "score": 0.08897849,
+                "excerpt": "do not have control over third party websites and services and we do not have control over their privacy policies and terms of use.\nWhile using any Internet-based service carries inherent security risks that cannot be 100% prevented, our systems, infrastructure, encryption technology, operation, and processes are all designed, built, and maintained with your security and privacy in mind. We apply industry standards and best practices to prevent any unauthorized access, use, and disclosure. We co...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "0ab3708103fe55515b56c3db18b5feaff1ee5847bade78c5b90906218e0972e1",
+                "score": 0.051845465,
+                "excerpt": "information you provide or share while using Social and General Information Tools may be read, accessed, collected by that site and users of that site according to their Privacy Policy.\nOnline identity theft and account hacking, including the practice currently known as \"phishing\", are of great concern. You should always be diligent when you are being asked for your account information and you must always make sure you do that in our secure system. We will never request your login information or...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "145a245bb3acf5ceb75c1a7755090163c4b4496651ea40d88498836aa2e3e4b5",
+                "score": 0.04451443,
+                "excerpt": "This Privacy Policy is effective as of June 20, 2024.\nYour privacy is extremely important to us. We are constantly putting a great deal of thought, effort, tools, resources, and procedures in place in order to protect and safeguard your privacy. This document is our \"Privacy Policy\" and it contains details on issues related to your privacy when using our services. This Privacy Policy applies to visitors to any of the following websites and related mobile applications: www.mind-diagnostics.org, w...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "2a7c1058a400558d15ddf1869a0e060231ffc4b34beef3257ea1fb080fc311c0",
+                "score": 0.043936532,
+                "excerpt": "periodically review this page for the latest information on our Privacy Policy and practices. Regardless of changes to our Privacy Policy, we will never use the information you submit under our current privacy notice in a new way without first notifying you and giving you the option to stop using the Site.\nIf you have any questions or concerns about this Privacy Policy or our privacy-related practices, please contact us by clicking the \"Contact Us\" link at the bottom of any page in our website.\n...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1276818064,
+            "url": "https://www.mind-diagnostics.org/pages/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Website or service operators accessed through Social and General Information Tools, third-party advertising networks, and similar partners",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Website or service operators accessed through Social and General Information Tools",
+                        "Third-party advertising networks and similar partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with third parties, including information accessed through Social and General Information Tools and third-party advertising networks, indicating the involvement of specific entities outside the app.",
+            "reference": "Website or service operators accessed through Social and General Information Tools, third-party advertising networks, and similar partners. URL: https://www.mind-diagnostics.org/pages/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c25ea95a485050f1e909f67698e92436579efdb17ce795d8bdc34d6721dcb0db",
+                "score": 0.5619962,
+                "excerpt": "the information described below. We also disclose certain information to third parties, as described further below. The information we collect is received directly or indirectly from you and generated in the course of your use of the Sites. The data we collect is not used for marketing or any other purposes except as specified in this Privacy Policy.\nVisitor Data: We collect, use, and store data regarding user visits to its website and use of the application (“Visitor Data”), including the parti...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "0ab3708103fe55515b56c3db18b5feaff1ee5847bade78c5b90906218e0972e1",
+                "score": 0.18097353,
+                "excerpt": "information you provide or share while using Social and General Information Tools may be read, accessed, collected by that site and users of that site according to their Privacy Policy.\nOnline identity theft and account hacking, including the practice currently known as \"phishing\", are of great concern. You should always be diligent when you are being asked for your account information and you must always make sure you do that in our secure system. We will never request your login information or...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "111a41bbfc23491446a1e476c7c5e8474b9a77275b9f737420e6fd79631a98f0",
+                "score": 0.17823957,
+                "excerpt": "information you provide if leaving reviews on the Site.\nProtecting this information is important for us. Other than in the ways detailed in this Privacy Policy, we will never use or disclose any information unless you requested or approved us to do so.\nPurposes for Which Information is Used\nWe may use the information we collect for one or more of the following purposes:\nPurposes for Which Information is Disclosed to Third Parties\nInformation about you may be disclosed to third parties for one or...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "e20c6d3bc4c89c989671f2b126c5c78f35ebe0ca97f50f042c4922838647bd6f",
+                "score": 0.16749083,
+                "excerpt": "do not have control over third party websites and services and we do not have control over their privacy policies and terms of use.\nWhile using any Internet-based service carries inherent security risks that cannot be 100% prevented, our systems, infrastructure, encryption technology, operation, and processes are all designed, built, and maintained with your security and privacy in mind. We apply industry standards and best practices to prevent any unauthorized access, use, and disclosure. We co...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            },
+            {
+                "id": "4b8b8d5b6f127e0487aa5a552ca702c084c79fe739e5b8da48da49ef5dccdfcf",
+                "score": 0.14045411,
+                "excerpt": "interested in. We also contract with third-party advertising networks and similar partners that collect IP addresses and other information from web beacons (see below) on the Site, from emails, and on third-party sites. Ad networks follow your online activities over time by collecting website navigational information through automated means, including through the use of cookies. They use this information to provide advertisements about products and services tailored to your interests. You may se...",
+                "url": "https://www.mind-diagnostics.org/pages/privacy"
+            }
+        ]
+    }
+]

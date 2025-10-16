@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 6504195526,
+            "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is collected, including personally identifiable information and usage data.",
+            "reference": "Personally identifiable information may include, but is not limited to: Usage Data is collected automatically when using the Service. URL: https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+        },
+        "source_documents": [
+            {
+                "id": "bcb7484a17042a4883c1d9af255fe545f677ae2f412448aa697198111ecf64f8",
+                "score": 0.008644178,
+                "excerpt": "individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage Data may include information such as Your Devi...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "7d9040b7cab72c2b4d1c797c715bb7bf25d8f55a254a9ddb148027bd4e70159d",
+                "score": 0.005159623,
+                "excerpt": "Privacy Policy for UpDown Method\nLast updated: June 12, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "42060d10a18340aef66b6de0fe8bd872a292a842b4ae17d3a1afb9729dbfc896",
+                "score": 0.004905406,
+                "excerpt": "we have a legal obligation or lawful basis to do so.\nIf the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may ...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "1f55c2385e653cb50e11acb57bcdacbccd15ad440a2183961038647ada3e20ff",
+                "score": 0.003707253,
+                "excerpt": "You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use th...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "8686a12261eb46074354e9c93d7d5e74a01cdf131e6026372aa8fb12db997c9e",
+                "score": 0.0034030052,
+                "excerpt": "changes by posting the new Privacy Policy on this page.\nWe will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the \"Last updated\" date at the top of this Privacy Policy.\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.\nIf you have any questions about this Privacy Policy, You can contact us:",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504195526,
+            "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Usage Data automatically, including information like the Device's Internet Protocol address, browser type, pages visited, time spent on pages, unique device identifiers, mobile device information (such as type, unique ID, IP address, operating system, browser), and other diagnostic data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol address",
+                        "browser type",
+                        "pages visited",
+                        "time spent on pages",
+                        "unique device identifiers",
+                        "mobile device information (type, unique ID, IP address, operating system, browser)",
+                        "other diagnostic data"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific details mentioned in the privacy policy where it explicitly states the type of data collected under Usage Data.",
+            "reference": "Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. ...When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data. URL: https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+        },
+        "source_documents": [
+            {
+                "id": "bcb7484a17042a4883c1d9af255fe545f677ae2f412448aa697198111ecf64f8",
+                "score": 0.14560063,
+                "excerpt": "individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage Data may include information such as Your Devi...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "7bcc9fb9c0667178a569a3178953c0ed953f8281b79b0ed1f41dae19d104686b",
+                "score": 0.061424043,
+                "excerpt": "and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that a...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "8cdfe44e3bb242b268ec9e9e0cb3ac43462bf88d11c0d5e438b8f791e1c428f6",
+                "score": 0.03711691,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication refers to UpDown Method, the software program provided by the Company.\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to UpDown Method.\nCountry refers to: Minnesota, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates to an identified or ...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "7d9040b7cab72c2b4d1c797c715bb7bf25d8f55a254a9ddb148027bd4e70159d",
+                "score": 0.0074606435,
+                "excerpt": "Privacy Policy for UpDown Method\nLast updated: June 12, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "a1c41c2ff9cc110101cd88067c26db4f63a3ccf7547b367b4ea6abc41f001688",
+                "score": 0.00619299,
+                "excerpt": "purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504195526,
+            "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the company uses Personal Data for multiple specified purposes, including providing and maintaining the service, managing user accounts, performing contracts, contacting users, providing news and information, managing requests, business transfers, data analysis, and improving services and marketing.",
+            "reference": "The Company may use Personal Data for the following purposes: To provide and maintain our Service, including to monitor the usage of our Service. To manage Your Account... For business transfers... For other purposes... URL: https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+        },
+        "source_documents": [
+            {
+                "id": "a1c41c2ff9cc110101cd88067c26db4f63a3ccf7547b367b4ea6abc41f001688",
+                "score": 0.0705596,
+                "excerpt": "purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "7d9040b7cab72c2b4d1c797c715bb7bf25d8f55a254a9ddb148027bd4e70159d",
+                "score": 0.03442355,
+                "excerpt": "Privacy Policy for UpDown Method\nLast updated: June 12, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "bcb7484a17042a4883c1d9af255fe545f677ae2f412448aa697198111ecf64f8",
+                "score": 0.026759284,
+                "excerpt": "individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage Data may include information such as Your Devi...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "7bcc9fb9c0667178a569a3178953c0ed953f8281b79b0ed1f41dae19d104686b",
+                "score": 0.016152835,
+                "excerpt": "and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that a...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "baee1cfff0bce275bc2221d4ee722b77e03e78e491fdf1c6680621f6ce349cda",
+                "score": 0.007665875,
+                "excerpt": "You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our asse...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504195526,
+            "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or delete data. Users have the right to delete or request assistance in deleting the Personal Data collected about them. The service provides the ability to delete certain information within the service, update, amend, or delete information through account settings or by contacting the company. However, certain information may need to be retained under legal obligations.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the right to delete or request assistance in deleting their personal data collected by the service. It also mentions the ways in which users can manage their information, indicating that users can opt out of data collection or delete data.",
+            "reference": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You. Our Service may give You the ability to delete certain information about You from within the Service. You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us. Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so. URL: https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+        },
+        "source_documents": [
+            {
+                "id": "56b3ec3f7bb20b8e75a5b650cc18a1284cfa0ded9e2cfc72f648c49b22040a56",
+                "score": 0.41347715,
+                "excerpt": "by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.\nYou have the right to delete or request that We assist in deleting the Persona...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "1f55c2385e653cb50e11acb57bcdacbccd15ad440a2183961038647ada3e20ff",
+                "score": 0.18653922,
+                "excerpt": "You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use th...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "8686a12261eb46074354e9c93d7d5e74a01cdf131e6026372aa8fb12db997c9e",
+                "score": 0.045606945,
+                "excerpt": "changes by posting the new Privacy Policy on this page.\nWe will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the \"Last updated\" date at the top of this Privacy Policy.\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.\nIf you have any questions about this Privacy Policy, You can contact us:",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "baee1cfff0bce275bc2221d4ee722b77e03e78e491fdf1c6680621f6ce349cda",
+                "score": 0.021532876,
+                "excerpt": "You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our asse...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "a1c41c2ff9cc110101cd88067c26db4f63a3ccf7547b367b4ea6abc41f001688",
+                "score": 0.017576884,
+                "excerpt": "purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504195526,
+            "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share personal information with third parties for various purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that personal information may be shared with third parties for different reasons.",
+            "reference": "We may share Your personal information in the following situations:... URL: https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+        },
+        "source_documents": [
+            {
+                "id": "42060d10a18340aef66b6de0fe8bd872a292a842b4ae17d3a1afb9729dbfc896",
+                "score": 0.037821285,
+                "excerpt": "we have a legal obligation or lawful basis to do so.\nIf the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may ...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "baee1cfff0bce275bc2221d4ee722b77e03e78e491fdf1c6680621f6ce349cda",
+                "score": 0.037256766,
+                "excerpt": "You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our asse...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "1f55c2385e653cb50e11acb57bcdacbccd15ad440a2183961038647ada3e20ff",
+                "score": 0.035211135,
+                "excerpt": "You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use th...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "a1c41c2ff9cc110101cd88067c26db4f63a3ccf7547b367b4ea6abc41f001688",
+                "score": 0.026405517,
+                "excerpt": "purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "8686a12261eb46074354e9c93d7d5e74a01cdf131e6026372aa8fb12db997c9e",
+                "score": 0.014899643,
+                "excerpt": "changes by posting the new Privacy Policy on this page.\nWe will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the \"Last updated\" date at the top of this Privacy Policy.\nYou are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.\nIf you have any questions about this Privacy Policy, You can contact us:",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504195526,
+            "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers and third-party companies or individuals employed to facilitate the service.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers",
+                        "Third-party companies or individuals"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with service providers and third-party companies or individuals for facilitating the service, which indicates the types of third parties with whom the app shares data.",
+            "reference": "Service Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used. URL: https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+        },
+        "source_documents": [
+            {
+                "id": "baee1cfff0bce275bc2221d4ee722b77e03e78e491fdf1c6680621f6ce349cda",
+                "score": 0.15291561,
+                "excerpt": "You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our asse...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "42060d10a18340aef66b6de0fe8bd872a292a842b4ae17d3a1afb9729dbfc896",
+                "score": 0.14669742,
+                "excerpt": "we have a legal obligation or lawful basis to do so.\nIf the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may ...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "1f55c2385e653cb50e11acb57bcdacbccd15ad440a2183961038647ada3e20ff",
+                "score": 0.10818896,
+                "excerpt": "You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use th...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "a1c41c2ff9cc110101cd88067c26db4f63a3ccf7547b367b4ea6abc41f001688",
+                "score": 0.060863446,
+                "excerpt": "purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            },
+            {
+                "id": "8cdfe44e3bb242b268ec9e9e0cb3ac43462bf88d11c0d5e438b8f791e1c428f6",
+                "score": 0.04813677,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication refers to UpDown Method, the software program provided by the Company.\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to UpDown Method.\nCountry refers to: Minnesota, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates to an identified or ...",
+                "url": "https://www.privacypolicies.com/live/7e88779a-8abd-43fa-b7d8-4764cb4b6388"
+            }
+        ]
+    }
+]

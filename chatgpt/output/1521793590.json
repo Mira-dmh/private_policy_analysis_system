@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1521793590,
+      "url": "https://www.portages.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personally identifiable information (PII) and non-personal information (NPI). PII is collected directly from users, while NPI is collected automatically during the use of the site.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states its data collection practices.",
+          "content": "The app collects PII that users provide directly and NPI that is collected automatically."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, ensuring transparency regarding data practices.",
+      "reference": "What we Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1521793590,
+      "url": "https://www.portages.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personally Identifiable Information (PII) and Non-Personal Information (NPI). PII includes information such as first name, last name, social security number, state identification card number, or address information that you directly provide. NPI includes information that cannot be easily used to identify you, such as the type of web browser you use, the URL of the previous website you visited, clickstream patterns, your ISP, your operating system, and your IP address.",
+        "simple_answer": "The app collects Personally Identifiable Information (PII) and Non-Personal Information (NPI).",
+        "extended_simple_answer": {
+          "comment": "The app collects both types of information to enhance user experience and for business purposes.",
+          "content": "PII consists of names and identification numbers, while NPI includes technical data like browser type and IP address."
+        }
+      },
+      "analysis": "",
+      "reference": "What we Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1521793590,
+      "url": "https://www.portages.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that Personally Identifiable Information (PII) may be used for business purposes, including maintaining, evaluating, and improving sales, services, and the Site. Non-Personal Information (NPI) is used to track usage of the Site and for internal purposes such as maintenance and user experience evaluation.",
+        "simple_answer": "Yes, the app states the purposes for data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines how both PII and NPI are utilized.",
+          "content": "PII is used for business purposes and improving services, while NPI is used for tracking site usage and internal evaluations."
+        }
+      },
+      "analysis": "The privacy policy provides a clear explanation of the purposes for which data is collected, ensuring transparency for users regarding their information.",
+      "reference": "How we use the Information we Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1521793590,
+      "url": "https://www.portages.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of data collection by clicking a provided link on the Site. However, opting out may result in the inability to deliver services to the user. Additionally, the user can request to delete their personally identifiable information (PII) by contacting support@portages.io, and appropriate validation of identity will be required before any deletion is made.",
+        "simple_answer": "Yes, users can opt out of data collection and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Opting out may affect service delivery.",
+          "content": "Users can opt out of data collection and request deletion of their PII."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use the Information we Collect; Deletion of PII"
+    }
+  },
+  {
+    "meta": {
+      "id": 1521793590,
+      "url": "https://www.portages.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app reserves the right to disclose any Information it collects to third parties it directly works with, referred to as 'Authorized Representatives'. Additionally, it may disclose PII to prevent an emergency, to protect or enforce the rights of a third party, or as required or permitted by law. However, it does not disclose information to other unaffiliated third parties.",
+        "simple_answer": "Yes, the app shares data with authorized third parties and may disclose PII under certain circumstances.",
+        "extended_simple_answer": {
+          "comment": "The app has specific conditions under which it shares data, primarily with authorized representatives and for legal compliance.",
+          "content": "The app may disclose Information to third parties it directly works with and may also disclose PII to prevent emergencies or comply with legal requirements."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing that it is limited to authorized representatives and specific legal circumstances.",
+      "reference": "Disclosure to Third Parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 1521793590,
+      "url": "https://www.portages.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose any Information it collects to third parties it directly works with, referred to as 'Authorized Representatives'. Additionally, it may disclose PII to prevent an emergency, to protect or enforce the rights of a third party, as required or permitted by law, but it does not disclose information to other unaffiliated third parties.",
+        "simple_answer": "The app shares data with Authorized Representatives and may disclose PII as required by law.",
+        "extended_simple_answer": {
+          "comment": "The app has specific conditions under which it shares data.",
+          "content": "Data is shared with Authorized Representatives and may be disclosed to prevent emergencies or comply with legal requirements."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of third parties with whom data may be shared, emphasizing that sharing is limited to those directly involved in the app's operations and legal obligations.",
+      "reference": "Disclosure to Third Parties"
+    }
+  }
+]

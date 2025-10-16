@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1321563535,
+            "url": "https://connectedmind.me/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may collect Personal Data from or about users, including data provided directly, automatically collected data, and data received from third parties.",
+            "reference": "We may collect Personal Data from or about you in connection with our Operations directly from you or in connection with your access to, use of or interaction with our Operations (including Personal Data we automatically collect). URL: https://connectedmind.me/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "0daeea19f32cd5be895dfb134599a8912cc17d13cbdffbf0671e183bb1880852",
+                "score": 0.01572399,
+                "excerpt": "to reidentify the Deidentified Data, except and solely for the purpose of determining whether our deidentification processes satisfy the requirements of applicable laws.\nDepending on how you access, use or interact with our Operations, we may collect the following categories of Personal Data from or about you:\nUser Generated Information: Feedback, comments and other information you elect to provide to us through or in connection with your access to, use of or interaction with our Operations.\nFro...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "b30d6839bdec7c47e51bb6fdfcfa21b2c15192c433ec1059789bffd1c8a8ca84",
+                "score": 0.015014749,
+                "excerpt": "Unless otherwise noted, those changes will be effective as soon as they are posted. Please check back regularly to see if our Privacy Policy has been updated.\nYour continued access to, use of or interaction with our Operations after any changes to this Privacy Policy become effective constitute your continued acknowledgement that you understand we may continue to collect and use your Personal Data as described in this Privacy Policy.\nIf you have any questions about this Privacy Policy, please co...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "f659bf771b764b60ee444060dbb744c5b524e7a4434478d4107ce88b56445997",
+                "score": 0.0068771075,
+                "excerpt": "upon your request or with your express consent to do so.\nWe may use, or permit the use of, analytics tools and other tracking technologies on the online portions of our Operations that, subject to your choices and any exercise of rights available to you, may collect information about you or your device in connection with your access to, use of or interaction with the online portions of our Operations. These analytics tools and other tracking technologies may include, without limitation:\nGoogle A...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "7a768b382019b8e02e0095aa7a81d2cea2dd53a171349a17e3a89071675d756d",
+                "score": 0.0067188703,
+                "excerpt": "TX 78731\nThe online portions of our Operations may link to, or be linked to from, websites not owned or controlled by us. We are not responsible for the privacy policies or practices of any third party or any third party websites. This Privacy Policy does not apply to any third party websites or to any Personal Data that you may provide to third parties. You should read the privacy policy for each website that you visit.\nWe are committed to protecting the security of your Personal Data. We use c...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "fbc85f68ef35761ffe307396739c42a8a8bddbeae63b77da868258fd3d5793c4",
+                "score": 0.0064631375,
+                "excerpt": "Connected Mind (“we,” “us” or “our”) respects your privacy. This Privacy Policy describes how we collect, use, protect and disclose the Personal Data we collect from or about you when you access, use or interact with our websites or the features and functionalities available through our websites, including https://connectedmind.me, and our related business operations (collectively, our “Operations”) and the choices you have associated with that Personal Data. You can access, use and otherwise in...",
+                "url": "https://connectedmind.me/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1321563535,
+            "url": "https://connectedmind.me/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Feedback, comments, information provided by the user through the app.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Feedback",
+                        "Comments",
+                        "User-provided information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that outlines the collection of Personal Data including user-generated information such as feedback, comments, and information provided directly by the user.",
+            "reference": "From You We may collect Personal Data from or about you in connection with our Operations directly from you. URL: https://connectedmind.me/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "0daeea19f32cd5be895dfb134599a8912cc17d13cbdffbf0671e183bb1880852",
+                "score": 0.25571522,
+                "excerpt": "to reidentify the Deidentified Data, except and solely for the purpose of determining whether our deidentification processes satisfy the requirements of applicable laws.\nDepending on how you access, use or interact with our Operations, we may collect the following categories of Personal Data from or about you:\nUser Generated Information: Feedback, comments and other information you elect to provide to us through or in connection with your access to, use of or interaction with our Operations.\nFro...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "f659bf771b764b60ee444060dbb744c5b524e7a4434478d4107ce88b56445997",
+                "score": 0.0551069,
+                "excerpt": "upon your request or with your express consent to do so.\nWe may use, or permit the use of, analytics tools and other tracking technologies on the online portions of our Operations that, subject to your choices and any exercise of rights available to you, may collect information about you or your device in connection with your access to, use of or interaction with the online portions of our Operations. These analytics tools and other tracking technologies may include, without limitation:\nGoogle A...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "d67b65161841b9fd77e2f4212d1d80581b14dda877ac6f2c7aff820b753f4623",
+                "score": 0.054298937,
+                "excerpt": "of our Clients in connection with the Services we provide them are covered by our Clients’ applicable privacy policies and notices.\nFor clarity, we are the data processor and our Clients are the data controllers with respect to the Personal Data and other information concerning our Clients’ patients that are collected, generated and otherwise processed through or in connection with our Clients’ access to and use of our Services.\n“Personal Data” is information that identifies, relates to, describ...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "90c316e0b016e63a00d801508e695ee717a791f5f5a058c182deb11c98b3a4a4",
+                "score": 0.027066175,
+                "excerpt": "be able to access, use or interact with that feature.\nFrom Third Parties\nWe may also receive Personal Data about you from third parties, including, without limitation, online and offline sources, social media platforms, advertising networks or other public or commercial sources, which may include, without limitation, the following categories of third parties:\nAnalytics Providers: This category includes third parties that operate tracking technologies, such as web beacons, cookies, clear gifs and...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "b30d6839bdec7c47e51bb6fdfcfa21b2c15192c433ec1059789bffd1c8a8ca84",
+                "score": 0.0075772414,
+                "excerpt": "Unless otherwise noted, those changes will be effective as soon as they are posted. Please check back regularly to see if our Privacy Policy has been updated.\nYour continued access to, use of or interaction with our Operations after any changes to this Privacy Policy become effective constitute your continued acknowledgement that you understand we may continue to collect and use your Personal Data as described in this Privacy Policy.\nIf you have any questions about this Privacy Policy, please co...",
+                "url": "https://connectedmind.me/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1321563535,
+            "url": "https://connectedmind.me/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by stating the primary purposes for which Personal Data is used, which include law enforcement/legal purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app discloses the primary purposes for which Personal Data is collected and used, encompassing law enforcement/legal purposes.",
+            "reference": "Law Enforcement/Legal Purposes: We may use Personal Data to cooperate with law enforcement or for other legal purposes, including, without limitation: (1) complying with legal and regulatory requirements; (2) cooperating with law enforcement or other governmental agencies for purposes of investigations, public safety or matters of public importance when we are legally required to do so or believe that disclosure of Personal Data is necessary or appropriate to protect the public interest; and (3) pursuing and defending against legal actions or claims. URL: https://connectedmind.me/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "90c316e0b016e63a00d801508e695ee717a791f5f5a058c182deb11c98b3a4a4",
+                "score": 0.09451043,
+                "excerpt": "be able to access, use or interact with that feature.\nFrom Third Parties\nWe may also receive Personal Data about you from third parties, including, without limitation, online and offline sources, social media platforms, advertising networks or other public or commercial sources, which may include, without limitation, the following categories of third parties:\nAnalytics Providers: This category includes third parties that operate tracking technologies, such as web beacons, cookies, clear gifs and...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "fbc85f68ef35761ffe307396739c42a8a8bddbeae63b77da868258fd3d5793c4",
+                "score": 0.036356665,
+                "excerpt": "Connected Mind (“we,” “us” or “our”) respects your privacy. This Privacy Policy describes how we collect, use, protect and disclose the Personal Data we collect from or about you when you access, use or interact with our websites or the features and functionalities available through our websites, including https://connectedmind.me, and our related business operations (collectively, our “Operations”) and the choices you have associated with that Personal Data. You can access, use and otherwise in...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "0daeea19f32cd5be895dfb134599a8912cc17d13cbdffbf0671e183bb1880852",
+                "score": 0.028220989,
+                "excerpt": "to reidentify the Deidentified Data, except and solely for the purpose of determining whether our deidentification processes satisfy the requirements of applicable laws.\nDepending on how you access, use or interact with our Operations, we may collect the following categories of Personal Data from or about you:\nUser Generated Information: Feedback, comments and other information you elect to provide to us through or in connection with your access to, use of or interaction with our Operations.\nFro...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "f659bf771b764b60ee444060dbb744c5b524e7a4434478d4107ce88b56445997",
+                "score": 0.02433019,
+                "excerpt": "upon your request or with your express consent to do so.\nWe may use, or permit the use of, analytics tools and other tracking technologies on the online portions of our Operations that, subject to your choices and any exercise of rights available to you, may collect information about you or your device in connection with your access to, use of or interaction with the online portions of our Operations. These analytics tools and other tracking technologies may include, without limitation:\nGoogle A...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "d67b65161841b9fd77e2f4212d1d80581b14dda877ac6f2c7aff820b753f4623",
+                "score": 0.021084841,
+                "excerpt": "of our Clients in connection with the Services we provide them are covered by our Clients’ applicable privacy policies and notices.\nFor clarity, we are the data processor and our Clients are the data controllers with respect to the Personal Data and other information concerning our Clients’ patients that are collected, generated and otherwise processed through or in connection with our Clients’ access to and use of our Services.\n“Personal Data” is information that identifies, relates to, describ...",
+                "url": "https://connectedmind.me/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1321563535,
+            "url": "https://connectedmind.me/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can limit how their Personal Data is collected, used, and disclosed. They have options to make requests regarding their Personal Data, including obtaining information once a year free of charge. Users may contact Connected Body, Inc. for CA Privacy Rights Requests.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have choices to limit how their Personal Data is collected, used, and disclosed, and they can make specific requests regarding their data, such as obtaining information once a year free of charge.",
+            "reference": "We recognize that you may want to limit how your Personal Data is collected, used and disclosed. We offer several choices with respect to how we collect and use your Personal Data, including: This information may be provided in a standardized form that is not specific to you. You are permitted to obtain this information from us once a year, free of charge. To make such a request, please submit your request in writing to: Connected Body, Inc Attn: CA Privacy Rights Request 5900 Balcones Drive Ste 100 Austin TX 78731 URL: https://connectedmind.me/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "404fd79d6c527919b9e8596aee430e9d1cc1be4c0669744a8dc3022e2038824a",
+                "score": 0.347205,
+                "excerpt": "at your own risk.\nWe do not target or direct our Operations at children under the age of 13. If we learn that we have collected the Personal Data of anyone under the age of 13, we will take appropriate steps to delete this information. If you are a parent or guardian of a child under the age of 13 that you discover has submitted Personal Data to us, please contact us at [email protected]. We will make reasonable efforts to remove such information from our database\nWe may need to update this Priv...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "12c1a5160fdd54ecde57d8d0e76d9f00392f8c45a6ecf0cdfc2990c2226aa84f",
+                "score": 0.2429233,
+                "excerpt": "compiling reports on activity on the online portions of our Operations for our use and providing other services relating to activity on, and usage of, the online portions of our Operations. Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google’s behalf. Google’s practices with respect to the information collected through Google Analytics are covered by Google’s privacy policy, available at https://p...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "0daeea19f32cd5be895dfb134599a8912cc17d13cbdffbf0671e183bb1880852",
+                "score": 0.22185606,
+                "excerpt": "to reidentify the Deidentified Data, except and solely for the purpose of determining whether our deidentification processes satisfy the requirements of applicable laws.\nDepending on how you access, use or interact with our Operations, we may collect the following categories of Personal Data from or about you:\nUser Generated Information: Feedback, comments and other information you elect to provide to us through or in connection with your access to, use of or interaction with our Operations.\nFro...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "b30d6839bdec7c47e51bb6fdfcfa21b2c15192c433ec1059789bffd1c8a8ca84",
+                "score": 0.068040416,
+                "excerpt": "Unless otherwise noted, those changes will be effective as soon as they are posted. Please check back regularly to see if our Privacy Policy has been updated.\nYour continued access to, use of or interaction with our Operations after any changes to this Privacy Policy become effective constitute your continued acknowledgement that you understand we may continue to collect and use your Personal Data as described in this Privacy Policy.\nIf you have any questions about this Privacy Policy, please co...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "7a768b382019b8e02e0095aa7a81d2cea2dd53a171349a17e3a89071675d756d",
+                "score": 0.03314852,
+                "excerpt": "TX 78731\nThe online portions of our Operations may link to, or be linked to from, websites not owned or controlled by us. We are not responsible for the privacy policies or practices of any third party or any third party websites. This Privacy Policy does not apply to any third party websites or to any Personal Data that you may provide to third parties. You should read the privacy policy for each website that you visit.\nWe are committed to protecting the security of your Personal Data. We use c...",
+                "url": "https://connectedmind.me/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1321563535,
+            "url": "https://connectedmind.me/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as it mentions receiving Personal Data about users from various third-party sources like online and offline sources, social media platforms, advertising networks, and other public or commercial sources.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The answer is derived from the information provided in the privacy policy document regarding the receipt of Personal Data from third parties and the purposes for which this data is used.",
+            "reference": "We may also receive Personal Data about you from third parties, including, without limitation, online and offline sources, social media platforms, advertising networks or other public or commercial sources, which may include, without limitation, the following categories of third parties: Analytics Providers. URL: https://connectedmind.me/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "90c316e0b016e63a00d801508e695ee717a791f5f5a058c182deb11c98b3a4a4",
+                "score": 0.580471,
+                "excerpt": "be able to access, use or interact with that feature.\nFrom Third Parties\nWe may also receive Personal Data about you from third parties, including, without limitation, online and offline sources, social media platforms, advertising networks or other public or commercial sources, which may include, without limitation, the following categories of third parties:\nAnalytics Providers: This category includes third parties that operate tracking technologies, such as web beacons, cookies, clear gifs and...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "0daeea19f32cd5be895dfb134599a8912cc17d13cbdffbf0671e183bb1880852",
+                "score": 0.2920902,
+                "excerpt": "to reidentify the Deidentified Data, except and solely for the purpose of determining whether our deidentification processes satisfy the requirements of applicable laws.\nDepending on how you access, use or interact with our Operations, we may collect the following categories of Personal Data from or about you:\nUser Generated Information: Feedback, comments and other information you elect to provide to us through or in connection with your access to, use of or interaction with our Operations.\nFro...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "7a768b382019b8e02e0095aa7a81d2cea2dd53a171349a17e3a89071675d756d",
+                "score": 0.14547919,
+                "excerpt": "TX 78731\nThe online portions of our Operations may link to, or be linked to from, websites not owned or controlled by us. We are not responsible for the privacy policies or practices of any third party or any third party websites. This Privacy Policy does not apply to any third party websites or to any Personal Data that you may provide to third parties. You should read the privacy policy for each website that you visit.\nWe are committed to protecting the security of your Personal Data. We use c...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "12c1a5160fdd54ecde57d8d0e76d9f00392f8c45a6ecf0cdfc2990c2226aa84f",
+                "score": 0.14282864,
+                "excerpt": "compiling reports on activity on the online portions of our Operations for our use and providing other services relating to activity on, and usage of, the online portions of our Operations. Google may also transfer this information to third parties where required to do so by law or where such third parties process the information on Google’s behalf. Google’s practices with respect to the information collected through Google Analytics are covered by Google’s privacy policy, available at https://p...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "f659bf771b764b60ee444060dbb744c5b524e7a4434478d4107ce88b56445997",
+                "score": 0.13534632,
+                "excerpt": "upon your request or with your express consent to do so.\nWe may use, or permit the use of, analytics tools and other tracking technologies on the online portions of our Operations that, subject to your choices and any exercise of rights available to you, may collect information about you or your device in connection with your access to, use of or interaction with the online portions of our Operations. These analytics tools and other tracking technologies may include, without limitation:\nGoogle A...",
+                "url": "https://connectedmind.me/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1321563535,
+            "url": "https://connectedmind.me/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Analytics Providers, Law Enforcement/Legal Purposes, Others",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Analytics Providers",
+                        "Law Enforcement/Legal Purposes",
+                        "Others"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with various third parties including Analytics Providers, for Law Enforcement/Legal Purposes, and Others based on user requests or consent. These parties are involved in different aspects of data processing and handling.",
+            "reference": "Analytics Providers: This category includes third parties that operate tracking technologies, such as web beacons, cookies, clear gifs and pixel tags on the online portions of our Operations to collect information used to analyze the use and performance of our Operations, including, among other things, measuring the effectiveness of our Operations, content, and communications. Others: We may disclose your Personal Data to any other third party upon your request or with your express consent to do so. URL: https://connectedmind.me/privacyLaw Enforcement/Legal Purposes: We may use Personal Data to cooperate with law enforcement or for other legal purposes, including, without limitation: (1) complying with legal and regulatory requirements; (2) cooperating with law enforcement or other governmental agencies for purposes of investigations, public safety or matters of public importance when we are legally required to do so or believe that disclosure of Personal Data is necessary or appropriate to protect the public interest; and (3) pursuing and defending against legal actions or claims. URL: https://connectedmind.me/privacyOthers: We may disclose your Personal Data to any other third party upon your request or with your express consent to do so. URL: https://connectedmind.me/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "90c316e0b016e63a00d801508e695ee717a791f5f5a058c182deb11c98b3a4a4",
+                "score": 0.71353143,
+                "excerpt": "be able to access, use or interact with that feature.\nFrom Third Parties\nWe may also receive Personal Data about you from third parties, including, without limitation, online and offline sources, social media platforms, advertising networks or other public or commercial sources, which may include, without limitation, the following categories of third parties:\nAnalytics Providers: This category includes third parties that operate tracking technologies, such as web beacons, cookies, clear gifs and...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "6c179f666fc0614ddbce8a0a1a6b73251614f470730817636b238237b0d977ae",
+                "score": 0.5079568,
+                "excerpt": "importance when we are legally required to do so or believe that disclosure of Personal Data is necessary or appropriate to protect the public interest; and (3) pursuing and defending against legal actions or claims.\nWe retain Personal Data for only as long as we have a legitimate business purpose to keep it. These purposes may include retaining Personal Data to:\nTo determine the appropriate retention period for individual categories of Personal Data we collect, we consider the nature and sensit...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "0daeea19f32cd5be895dfb134599a8912cc17d13cbdffbf0671e183bb1880852",
+                "score": 0.325199,
+                "excerpt": "to reidentify the Deidentified Data, except and solely for the purpose of determining whether our deidentification processes satisfy the requirements of applicable laws.\nDepending on how you access, use or interact with our Operations, we may collect the following categories of Personal Data from or about you:\nUser Generated Information: Feedback, comments and other information you elect to provide to us through or in connection with your access to, use of or interaction with our Operations.\nFro...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "7a768b382019b8e02e0095aa7a81d2cea2dd53a171349a17e3a89071675d756d",
+                "score": 0.2892713,
+                "excerpt": "TX 78731\nThe online portions of our Operations may link to, or be linked to from, websites not owned or controlled by us. We are not responsible for the privacy policies or practices of any third party or any third party websites. This Privacy Policy does not apply to any third party websites or to any Personal Data that you may provide to third parties. You should read the privacy policy for each website that you visit.\nWe are committed to protecting the security of your Personal Data. We use c...",
+                "url": "https://connectedmind.me/privacy"
+            },
+            {
+                "id": "f659bf771b764b60ee444060dbb744c5b524e7a4434478d4107ce88b56445997",
+                "score": 0.16694686,
+                "excerpt": "upon your request or with your express consent to do so.\nWe may use, or permit the use of, analytics tools and other tracking technologies on the online portions of our Operations that, subject to your choices and any exercise of rights available to you, may collect information about you or your device in connection with your access to, use of or interaction with the online portions of our Operations. These analytics tools and other tracking technologies may include, without limitation:\nGoogle A...",
+                "url": "https://connectedmind.me/privacy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1193006281,
+            "url": "https://www.flyyourvision.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of personal data and the consent required for sharing data with other parties.",
+            "reference": "We will collect and process the following (personal) data from you: Personal data directly provided by you. We may collect personal data from you in a variety of ways... Data that is automatically collected. Data that we automatically collect is not personally identifiable to you... URL: https://www.flyyourvision.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7c48b5745f1f9b775cf9ceeea562da31000aebc6466c6e240ece5aa2ef6a17e6",
+                "score": 0.045352582,
+                "excerpt": "requests within a reasonable timeframe.\nIt is possible that we refuse your request, for example because we (legally) cannot or do not have to comply with your request. Where this is the case, we will inform you of specific details in response to your request.\nWe would like to inform you about the following privacy practices:\nConsent to Share Consumption Data with Apple. By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purcha...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1a581397aadfa7ce4d47d9511b0ae0052cbccfa24a1ce2da828052372f5f8b87",
+                "score": 0.04038907,
+                "excerpt": "with the data collection and consent request within our Services.\nWe use your personal data for the following purposes:\nWe may create aggregated and other anonymous data from your personal data. We make personal data into anonymous data by removing personal data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Services, develop new features, develop new Services and for other lawful business ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "55732c20f810cc902b17ad06c07e66c1eec1d69c57f359daa0811e7dda7eb754",
+                "score": 0.032589745,
+                "excerpt": "the minimum amount of personal data that we need to provide you with our Services. We do not automatically collect personal data that can be personally identifiable to you from your use of our Services. This means that, unless otherwise stated, the personal data that you provide through your use of our Services is not collected by us, is retained locally on your device where applicable, or is converted into anonymous or aggregated data by removing personal data that makes the data personally ide...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "8054c101eb9118ec1ca628a83f9070cdb70019e06c4ffa310a5e7ca976baf512",
+                "score": 0.021656677,
+                "excerpt": "analytics, diagnostics and email delivery service providers. We authorize these service providers to use your personal data only for providing their services and support functions to us in accordance with this Privacy Policy. Please refer to the the corresponding Privacy Policies of these Service provides to learn how they use your personal data.\nApple https://www.apple.com/legal/privacy/en-ww/\nRevenueCat https://www.revenuecat.com/privacy/\nFirebase https://firebase.google.com/support/privacy/\nG...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1cc648ada6f0d8ec579aea585cb2841c70d865b2d0ac9b40656495f7bbd0f086",
+                "score": 0.01678549,
+                "excerpt": "devices you use to access our Services. This includes, but is not limited to, the type of device you use, the IP address of your device, your operating system, application version and your language settings.\nEngagement data. We may collect information about the way you interact and engage with our Services. This includes, but is not limited to, the screens, pages, features and content that you use and when you perform certain actions such as purchasing content or progressing through content.\nAct...",
+                "url": "https://www.flyyourvision.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1193006281,
+            "url": "https://www.flyyourvision.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects technical data, engagement data, activity data, and transaction data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Technical data",
+                        "Engagement data",
+                        "Activity data",
+                        "Transaction data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the specific types of data collected by the app under different categories.",
+            "reference": "Technical data. We may collect information about the devices you use to access our Services. This includes, but is not limited to, the type of device you use, the IP address of your device, your operating system, application version and your language settings. Engagement data. We may collect information about the way you interact and engage with our Services. Activity data. We may collect information about your activity when using our Services. Transaction data. We may collect information about your transaction data regarding purchases you made through our Services, this includes the date and time you last used the purchased content and its receipt file or purchase token which serve as the verification of your purchase. URL: https://www.flyyourvision.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "1cc648ada6f0d8ec579aea585cb2841c70d865b2d0ac9b40656495f7bbd0f086",
+                "score": 0.35075492,
+                "excerpt": "devices you use to access our Services. This includes, but is not limited to, the type of device you use, the IP address of your device, your operating system, application version and your language settings.\nEngagement data. We may collect information about the way you interact and engage with our Services. This includes, but is not limited to, the screens, pages, features and content that you use and when you perform certain actions such as purchasing content or progressing through content.\nAct...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "55732c20f810cc902b17ad06c07e66c1eec1d69c57f359daa0811e7dda7eb754",
+                "score": 0.27845296,
+                "excerpt": "the minimum amount of personal data that we need to provide you with our Services. We do not automatically collect personal data that can be personally identifiable to you from your use of our Services. This means that, unless otherwise stated, the personal data that you provide through your use of our Services is not collected by us, is retained locally on your device where applicable, or is converted into anonymous or aggregated data by removing personal data that makes the data personally ide...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1a581397aadfa7ce4d47d9511b0ae0052cbccfa24a1ce2da828052372f5f8b87",
+                "score": 0.09518112,
+                "excerpt": "with the data collection and consent request within our Services.\nWe use your personal data for the following purposes:\nWe may create aggregated and other anonymous data from your personal data. We make personal data into anonymous data by removing personal data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Services, develop new features, develop new Services and for other lawful business ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "53edc835bccb291a79b406d678bf247cc504363607a3e3bee077c694b00286d3",
+                "score": 0.036631364,
+                "excerpt": "Last updated: November 18, 2024\nThis Privacy Policy is part of our Terms of Service. Capitalized terms not defined in this Privacy Policy have the meaning set forth in the Terms of Service located at www.flyyourvision.com/terms.\nFly Your Vision B.V. (\"Fly Your Vision\", \"we\", \"our\" or \"us\"), a private limited liability company registered with The Netherlands Chamber of Commerce (KvK 88175561), knows your privacy is important to you.\nThis Privacy Policy describes what personal data we collect, how...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "ae127d18a25f50dc839b3b6f040d38d626bcb0dabee91486f69778689b62bc37",
+                "score": 0.031738594,
+                "excerpt": "practices regarding their collection, use and sharing of your personal data. We are not responsible for the privacy practices of such third parties and encourage you to read their privacy policies.\nCookies. We may use functional and analytical cookies within our Services that do not infringe on your privacy. They ensure that our Services work properly and, for example, remember your preferred settings. They also enable us to optimize and improve our Services. You can opt out of cookies by settin...",
+                "url": "https://www.flyyourvision.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1193006281,
+            "url": "https://www.flyyourvision.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purpose of data collection and use, indicating transparency in the app's practices.",
+            "reference": "We would like to inform you about the following privacy practices: ... with the data collection and consent request within our Services. URL: https://www.flyyourvision.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7c48b5745f1f9b775cf9ceeea562da31000aebc6466c6e240ece5aa2ef6a17e6",
+                "score": 0.20817892,
+                "excerpt": "requests within a reasonable timeframe.\nIt is possible that we refuse your request, for example because we (legally) cannot or do not have to comply with your request. Where this is the case, we will inform you of specific details in response to your request.\nWe would like to inform you about the following privacy practices:\nConsent to Share Consumption Data with Apple. By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purcha...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1a581397aadfa7ce4d47d9511b0ae0052cbccfa24a1ce2da828052372f5f8b87",
+                "score": 0.20291664,
+                "excerpt": "with the data collection and consent request within our Services.\nWe use your personal data for the following purposes:\nWe may create aggregated and other anonymous data from your personal data. We make personal data into anonymous data by removing personal data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Services, develop new features, develop new Services and for other lawful business ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "8054c101eb9118ec1ca628a83f9070cdb70019e06c4ffa310a5e7ca976baf512",
+                "score": 0.03861093,
+                "excerpt": "analytics, diagnostics and email delivery service providers. We authorize these service providers to use your personal data only for providing their services and support functions to us in accordance with this Privacy Policy. Please refer to the the corresponding Privacy Policies of these Service provides to learn how they use your personal data.\nApple https://www.apple.com/legal/privacy/en-ww/\nRevenueCat https://www.revenuecat.com/privacy/\nFirebase https://firebase.google.com/support/privacy/\nG...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1cc648ada6f0d8ec579aea585cb2841c70d865b2d0ac9b40656495f7bbd0f086",
+                "score": 0.036493767,
+                "excerpt": "devices you use to access our Services. This includes, but is not limited to, the type of device you use, the IP address of your device, your operating system, application version and your language settings.\nEngagement data. We may collect information about the way you interact and engage with our Services. This includes, but is not limited to, the screens, pages, features and content that you use and when you perform certain actions such as purchasing content or progressing through content.\nAct...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "ae127d18a25f50dc839b3b6f040d38d626bcb0dabee91486f69778689b62bc37",
+                "score": 0.032405518,
+                "excerpt": "practices regarding their collection, use and sharing of your personal data. We are not responsible for the privacy practices of such third parties and encourage you to read their privacy policies.\nCookies. We may use functional and analytical cookies within our Services that do not infringe on your privacy. They ensure that our Services work properly and, for example, remember your preferred settings. They also enable us to optimize and improve our Services. You can opt out of cookies by settin...",
+                "url": "https://www.flyyourvision.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1193006281,
+            "url": "https://www.flyyourvision.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request deletion of personal data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to request deletion of personal data and restrict the processing of personal data, giving them the option to opt out of data collection or request the deletion of their data.",
+            "reference": "You have the right to request the deletion of your personal data. If granted, subject to certain limitations under applicable law, we will delete the relevant personal data from our and our service provider's possession. Fulfillment of some data deletion requests may prevent you from using our Services and results in the termination of our Services to you. URL: https://www.flyyourvision.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "4098ba9d524ad8337b79671c3f5064aafabb47ab3bbdf8e7e6095e0b82d32b20",
+                "score": 0.8546422,
+                "excerpt": "collection of your personal data.\nRight to erasure / \"To be forgotten\". You have the right to request the deletion of your personal data. If granted, subject to certain limitations under applicable law, we will delete the relevant personal data from our and our service provider's possession. Fulfillment of some data deletion requests may prevent you from using our Services and results in the termination of our Services to you.\nRight to restrict processing. You have the right to request that we r...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "ae127d18a25f50dc839b3b6f040d38d626bcb0dabee91486f69778689b62bc37",
+                "score": 0.7711549,
+                "excerpt": "practices regarding their collection, use and sharing of your personal data. We are not responsible for the privacy practices of such third parties and encourage you to read their privacy policies.\nCookies. We may use functional and analytical cookies within our Services that do not infringe on your privacy. They ensure that our Services work properly and, for example, remember your preferred settings. They also enable us to optimize and improve our Services. You can opt out of cookies by settin...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1a581397aadfa7ce4d47d9511b0ae0052cbccfa24a1ce2da828052372f5f8b87",
+                "score": 0.7236025,
+                "excerpt": "with the data collection and consent request within our Services.\nWe use your personal data for the following purposes:\nWe may create aggregated and other anonymous data from your personal data. We make personal data into anonymous data by removing personal data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Services, develop new features, develop new Services and for other lawful business ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "d7a017f0a8ca2003098fb3f2156bf11da001a79275cd7fe023c01b30175c001a",
+                "score": 0.5936093,
+                "excerpt": "by applicable law.\nTo dispose of your personal data, we may anonymize it, delete it or take other appropriate measures. Your personal data may persist in copies made for backup and business continuity purposes for additional time.\nWe have taken appropriate measures to protect your personal data from loss, unauthorized access, use, or disclosure. However, no method of transmission or retention is completely secure. We therefore cannot guarantee absolute security of the personal data we seek to pr...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "d53249a23678f8bb99c22981a572f14105b8eb909a8e9adeb6541ef6bd096a34",
+                "score": 0.3229529,
+                "excerpt": "email to send you notifications regarding new Services, offers and promotions offered by us if you affirmatively consent to receive such communications. You may opt out of these communications by following the opt out instructions in the message or through the settings provided in our Services where applicable. We do not provide your personal data such as your email to third parties for their own marketing purposes.\nWe will only use your personal data where we have lawful bases under applicable ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1193006281,
+            "url": "https://www.flyyourvision.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as described in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share personal data with various third parties for specific purposes outlined in the policy.",
+            "reference": "We may share your personal data with third parties only if this is necessary for the purposes described in this Privacy Policy, legally required, or if you have provided explicit consent beforehand. URL: https://www.flyyourvision.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "7c48b5745f1f9b775cf9ceeea562da31000aebc6466c6e240ece5aa2ef6a17e6",
+                "score": 0.9528382,
+                "excerpt": "requests within a reasonable timeframe.\nIt is possible that we refuse your request, for example because we (legally) cannot or do not have to comply with your request. Where this is the case, we will inform you of specific details in response to your request.\nWe would like to inform you about the following privacy practices:\nConsent to Share Consumption Data with Apple. By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purcha...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "35afb84cf6b58b1130add41c8fa44c53a4d74117f41839c2c058f7f6ccdcdaac",
+                "score": 0.9084556,
+                "excerpt": "the impact on you unless we have your consent or our processing is otherwise required or permitted by law, such as, but not limited to, providing an enjoyable user experience meeting your expectations, customer service, marketing, protecting our users, personnel and property, analyzing and improving our business, processing job applications and managing legal issues.\nVital interests. Where in the event that vital interests of you or another natural person require the processing of personal data....",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "8054c101eb9118ec1ca628a83f9070cdb70019e06c4ffa310a5e7ca976baf512",
+                "score": 0.8040984,
+                "excerpt": "analytics, diagnostics and email delivery service providers. We authorize these service providers to use your personal data only for providing their services and support functions to us in accordance with this Privacy Policy. Please refer to the the corresponding Privacy Policies of these Service provides to learn how they use your personal data.\nApple https://www.apple.com/legal/privacy/en-ww/\nRevenueCat https://www.revenuecat.com/privacy/\nFirebase https://firebase.google.com/support/privacy/\nG...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1a581397aadfa7ce4d47d9511b0ae0052cbccfa24a1ce2da828052372f5f8b87",
+                "score": 0.6563279,
+                "excerpt": "with the data collection and consent request within our Services.\nWe use your personal data for the following purposes:\nWe may create aggregated and other anonymous data from your personal data. We make personal data into anonymous data by removing personal data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Services, develop new features, develop new Services and for other lawful business ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "ae127d18a25f50dc839b3b6f040d38d626bcb0dabee91486f69778689b62bc37",
+                "score": 0.38271806,
+                "excerpt": "practices regarding their collection, use and sharing of your personal data. We are not responsible for the privacy practices of such third parties and encourage you to read their privacy policies.\nCookies. We may use functional and analytical cookies within our Services that do not infringe on your privacy. They ensure that our Services work properly and, for example, remember your preferred settings. They also enable us to optimize and improve our Services. You can opt out of cookies by settin...",
+                "url": "https://www.flyyourvision.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1193006281,
+            "url": "https://www.flyyourvision.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with business affiliates and service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Business affiliates",
+                        "Service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app may share personal data with business affiliates and service providers for specific purposes.",
+            "reference": "Business affiliates. We may share your personal data with our business affiliates, such as entities under common ownership or control, in which case we will require those entities to honor this Privacy Policy. Service providers. We may share your personal data with selected third parties that support our Services. These data processors include hosting, payment processing, analytics, diagnostics, and email delivery service providers. We authorize these service providers to use your personal data only for providing their services and support functions to us in accordance with this Privacy Policy. Please refer to the corresponding Privacy Policies of these Service providers to learn how they use. URL: https://www.flyyourvision.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "35afb84cf6b58b1130add41c8fa44c53a4d74117f41839c2c058f7f6ccdcdaac",
+                "score": 0.9627432,
+                "excerpt": "the impact on you unless we have your consent or our processing is otherwise required or permitted by law, such as, but not limited to, providing an enjoyable user experience meeting your expectations, customer service, marketing, protecting our users, personnel and property, analyzing and improving our business, processing job applications and managing legal issues.\nVital interests. Where in the event that vital interests of you or another natural person require the processing of personal data....",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "7c48b5745f1f9b775cf9ceeea562da31000aebc6466c6e240ece5aa2ef6a17e6",
+                "score": 0.8494724,
+                "excerpt": "requests within a reasonable timeframe.\nIt is possible that we refuse your request, for example because we (legally) cannot or do not have to comply with your request. Where this is the case, we will inform you of specific details in response to your request.\nWe would like to inform you about the following privacy practices:\nConsent to Share Consumption Data with Apple. By using our app and making in-app purchases, you consent to our sharing of data regarding your usage and consumption of purcha...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "8054c101eb9118ec1ca628a83f9070cdb70019e06c4ffa310a5e7ca976baf512",
+                "score": 0.80131465,
+                "excerpt": "analytics, diagnostics and email delivery service providers. We authorize these service providers to use your personal data only for providing their services and support functions to us in accordance with this Privacy Policy. Please refer to the the corresponding Privacy Policies of these Service provides to learn how they use your personal data.\nApple https://www.apple.com/legal/privacy/en-ww/\nRevenueCat https://www.revenuecat.com/privacy/\nFirebase https://firebase.google.com/support/privacy/\nG...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "1a581397aadfa7ce4d47d9511b0ae0052cbccfa24a1ce2da828052372f5f8b87",
+                "score": 0.5621164,
+                "excerpt": "with the data collection and consent request within our Services.\nWe use your personal data for the following purposes:\nWe may create aggregated and other anonymous data from your personal data. We make personal data into anonymous data by removing personal data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties to operate, understand and improve our Services, develop new features, develop new Services and for other lawful business ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            },
+            {
+                "id": "d53249a23678f8bb99c22981a572f14105b8eb909a8e9adeb6541ef6bd096a34",
+                "score": 0.41596606,
+                "excerpt": "email to send you notifications regarding new Services, offers and promotions offered by us if you affirmatively consent to receive such communications. You may opt out of these communications by following the opt out instructions in the message or through the settings provided in our Services where applicable. We do not provide your personal data such as your email to third parties for their own marketing purposes.\nWe will only use your personal data where we have lawful bases under applicable ...",
+                "url": "https://www.flyyourvision.com/privacy"
+            }
+        ]
+    }
+]

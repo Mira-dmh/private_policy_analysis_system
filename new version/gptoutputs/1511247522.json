@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1511247522,
+      "url": "http://dosomethingapp.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it collects aggregated analytics around app usage, but it does not collect personally identifying information.",
+        "simple_answer": "Yes, it collects aggregated analytics.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect personally identifying information, only aggregated data.",
+          "content": "We do collect aggregated analytics around app usage, using industry standard app developer tools, to help us know what is working well in the app & what is not."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while the app collects some data, it is not personally identifiable and is used solely for improving app functionality.",
+      "reference": "We do collect aggregated analytics around app usage, using industry standard app developer tools, to help us know what is working well in the app & what is not."
+    }
+  },
+  {
+    "meta": {
+      "id": 1511247522,
+      "url": "http://dosomethingapp.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects aggregated analytics around app usage, such as how often the app is used, what features are popular, and how much time is being spent on specific screens. This information is not tied to the user and does not include personally identifying information.",
+        "simple_answer": "The app collects aggregated analytics about app usage.",
+        "extended_simple_answer": {
+          "comment": "The collected data is not personally identifiable and is used to improve the app.",
+          "content": "Aggregated analytics around app usage, including usage frequency, popular features, and time spent on screens."
+        }
+      },
+      "analysis": "",
+      "reference": "We do collect aggregated analytics around app usage, using industry standard app developer tools, to help us know what is working well in the app & what is not."
+    }
+  },
+  {
+    "meta": {
+      "id": 1511247522,
+      "url": "http://dosomethingapp.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it collects aggregated analytics around app usage to understand what is working well in the app and what is not. This includes information such as how often the app is used, what features are popular, and how much time is spent on specific screens.",
+        "simple_answer": "Yes, it collects aggregated analytics for app usage.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect personally identifying information, and the data collected is not tied to individual users.",
+          "content": "The purpose of data collection is to improve the app's functionality and user experience."
+        }
+      },
+      "analysis": "",
+      "reference": "We do collect aggregated analytics around app usage, using industry standard app developer tools, to help us know what is working well in the app & what is not."
+    }
+  },
+  {
+    "meta": {
+      "id": 1511247522,
+      "url": "http://dosomethingapp.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete data, as the app does not collect personally identifying information and does not store any information outside of the app.",
+        "simple_answer": "No, the policy does not provide an option to opt out or delete data.",
+        "extended_simple_answer": {
+          "comment": "Since the app does not collect personally identifying information, there is no data to delete.",
+          "content": "The app does not store any information you enter into the app outside of the app, and it does not collect personally identifying information."
+        }
+      },
+      "analysis": "The absence of personally identifying information means that traditional opt-out or data deletion options are not applicable.",
+      "reference": "We do not ask for or collect any personally identifying information. We do not store any information you enter into the app outside of the app."
+    }
+  },
+  {
+    "meta": {
+      "id": 1511247522,
+      "url": "http://dosomethingapp.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share any data publicly or with third-parties, except when required to by law.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and does not engage in data sharing.",
+          "content": "We do not share any data publicly or with third-parties, except when required to by law."
+        }
+      },
+      "analysis": "",
+      "reference": "We do not share any data publicly or with third-parties, except when required to by law."
+    }
+  },
+  {
+    "meta": {
+      "id": 1511247522,
+      "url": "http://dosomethingapp.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share any data publicly or with third parties, except when required to by law.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app maintains strict privacy practices and does not engage in data sharing.",
+          "content": "We do not share any data publicly or with third-parties, except when required to by law."
+        }
+      },
+      "analysis": "The privacy policy clearly states that there is no data sharing with third parties, reinforcing the app's commitment to user privacy.",
+      "reference": "We do not share any data publicly or with third-parties, except when required to by law."
+    }
+  }
+]

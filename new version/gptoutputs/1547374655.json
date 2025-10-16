@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1547374655,
+      "url": "https://terapi.cl/terminos",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data as part of the terms of use. It states that by accepting the agreement and using the platform, users also agree to the terms of the privacy policy, which includes information about data collection and security practices.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy is incorporated into the terms of use, indicating that data collection practices are outlined there.",
+          "content": "BY ACCEPTING THIS AGREEMENT AND / OR BY USING THE PLATFORM, YOU ALSO AGREE TO THE TERMS OF THE PRIVACY POLICY. THE PRIVACY POLICY IS INCORPORATED AND IS A PART OF THIS AGREEMENT."
+        }
+      },
+      "analysis": "",
+      "reference": "SECOND.- Data security"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547374655,
+      "url": "https://terapi.cl/terminos",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly detail the specific types of data collected by the app. However, it implies that users must provide accurate, true, current, and complete information, which may include personal details such as age, residence, and contact information.",
+        "simple_answer": "The app collects personal information such as age, residence, and contact details.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the importance of providing accurate information.",
+          "content": "Users are required to maintain and update their information to ensure it remains accurate and complete."
+        }
+      },
+      "analysis": "The privacy policy indicates that while specific data types are not listed, the requirement for users to provide accurate personal information suggests that the app collects identifiable data necessary for service provision.",
+      "reference": "FOURTH.- Your account, representations, conduct, and commitments."
+    }
+  },
+  {
+    "meta": {
+      "id": 1547374655,
+      "url": "https://terapi.cl/terminos",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly declare the specific purposes of data collection and use. However, it emphasizes the importance of protecting and safeguarding any information provided through the Platform, indicating that the information is used in connection with the services offered.",
+        "simple_answer": "No, the specific purposes of data collection and use are not explicitly declared.",
+        "extended_simple_answer": {
+          "comment": "While the policy highlights the importance of data protection, it lacks detailed information on the specific purposes for which data is collected.",
+          "content": "The privacy policy mentions that protecting and safeguarding any information provided is extremely important, but it does not detail the specific purposes of data collection."
+        }
+      },
+      "analysis": "The absence of explicit declarations regarding the purposes of data collection may raise concerns about transparency in data handling practices.",
+      "reference": "SECOND.- Data security"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547374655,
+      "url": "https://terapi.cl/terminos",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention the user's ability to opt out of data collection or delete their data. However, it emphasizes the importance of protecting and safeguarding the information provided through the platform, indicating that users should be aware of their rights regarding their data.",
+        "simple_answer": "The policy does not specify if users can opt out of data collection or delete their data.",
+        "extended_simple_answer": {
+          "comment": "While the policy highlights data protection, it lacks clear instructions on opting out or deleting data.",
+          "content": "The privacy policy states that protecting user information is extremely important, but it does not provide specific details on opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The absence of explicit information regarding opting out or deleting data suggests that users may need to contact support for clarification on these rights.",
+      "reference": "SECOND.- Data security"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547374655,
+      "url": "https://terapi.cl/terminos",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. However, it emphasizes the importance of protecting user information and mentions that the privacy policy is part of the agreement, which implies that any data handling practices, including sharing, would be governed by the privacy policy.",
+        "simple_answer": "The app does not explicitly state that it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "While the policy does not mention third-party data sharing, it is important to review the privacy policy for specific details.",
+          "content": "The privacy policy is incorporated into the agreement and outlines the security and privacy practices, but does not provide specific information about sharing data with third parties."
+        }
+      },
+      "analysis": "The absence of explicit mention of data sharing with third parties suggests a focus on user privacy, but users should refer to the privacy policy for comprehensive details.",
+      "reference": "SECOND.- Data security"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547374655,
+      "url": "https://terapi.cl/terminos",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any third parties with whom the app shares data. It emphasizes the importance of protecting user information but does not detail any specific third-party data sharing practices.",
+        "simple_answer": "The app does not specify any third parties with whom it shares data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy focuses on data protection but lacks details on third-party sharing.",
+          "content": "No specific third parties are mentioned in the privacy policy regarding data sharing."
+        }
+      },
+      "analysis": "The absence of information about third-party data sharing in the privacy policy suggests a focus on user privacy and data security, but it leaves users without clarity on potential data sharing practices.",
+      "reference": "SECOND.- Data security"
+    }
+  }
+]

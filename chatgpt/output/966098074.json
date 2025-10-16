@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 966098074,
+      "url": "https://www.exclaimapp.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including Internet Protocol (IP) address, web pages requested, referring web page, browser used, date and time. Additionally, it collects contact information through webforms, such as First Name, Last Name, NPI Number, and either an email address or phone number.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app specifies the types of data collected for analytics and through webforms.",
+          "content": "Exclaim servers collect information for analytics, including IP address, web pages requested, referring web page, browser used, date and time. It also collects contact information via webforms."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected by the app, ensuring transparency about data collection practices.",
+      "reference": "Information collected: Exclaim servers collect the following information for analytics: Internet Protocol (IP) address of computer being used, web pages requested, referring web page, browser used, date and time. Exclaim does not associate this data to individual user identities."
+    }
+  },
+  {
+    "meta": {
+      "id": 966098074,
+      "url": "https://www.exclaimapp.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "Exclaim servers collect the following information for analytics: Internet Protocol (IP) address of the computer being used, web pages requested, referring web page, browser used, date and time. Additionally, webforms on the site require users to provide contact information such as First Name, Last Name, NPI Number, and either an email address or phone number.",
+        "simple_answer": "The app collects IP addresses, web pages requested, referring web pages, browser used, date and time, and contact information through webforms.",
+        "extended_simple_answer": {
+          "comment": "The collected data is primarily for analytics and communication purposes.",
+          "content": "Exclaim collects data for analytics including IP address, web pages requested, referring web page, browser used, date and time, and also collects contact information through webforms."
+        }
+      },
+      "analysis": "",
+      "reference": "Information collected: Exclaim servers collect the following information for analytics: Internet Protocol (IP) address of computer being used, web pages requested, referring web page, browser used, date and time. Webforms require users to give contact information: First Name, Last Name, NPI Number, and either email address or phone number."
+    }
+  },
+  {
+    "meta": {
+      "id": 966098074,
+      "url": "https://www.exclaimapp.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that personal information collected from the site is used solely for the purpose of communication back to individuals who contact them via the site.",
+        "simple_answer": "Yes, for communication purposes.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The privacy policy states that Exclaim will only use personal information collected from the site for the purpose of communication back to individuals who contact them via the site."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of collected information"
+    }
+  },
+  {
+    "meta": {
+      "id": 966098074,
+      "url": "https://www.exclaimapp.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. It states that personal information collected will only be used for communication purposes and will not be sold or disclosed without consent, except as required by law.",
+        "simple_answer": "No, the policy does not provide an option to opt out or delete data.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the protection of personal information but lacks specific provisions for opting out or deleting data.",
+          "content": "Exclaim will only use personal information collected from this site for the purpose of communication back to individuals who contact us via the site. There is no mention of an opt-out mechanism or data deletion process."
+        }
+      },
+      "analysis": "The absence of an explicit opt-out or data deletion option may limit user control over their personal information.",
+      "reference": "Distribution of collected information: Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law."
+    }
+  },
+  {
+    "meta": {
+      "id": 966098074,
+      "url": "https://www.exclaimapp.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, Exclaim will not distribute or sell personal information to third-party organizations. They will not disclose personal information collected about you without your consent, except for certain explicit circumstances in which disclosure is required by law.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Exclaim is committed to protecting user privacy and does not engage in the sale or distribution of personal information.",
+          "content": "Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law. Exclaim will not distribute or sell personal information to third-party organizations."
+        }
+      },
+      "analysis": "",
+      "reference": "Distribution of collected information"
+    }
+  },
+  {
+    "meta": {
+      "id": 966098074,
+      "url": "https://www.exclaimapp.com/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with third parties. Exclaim will not distribute or sell personal information to third-party organizations.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Exclaim is committed to protecting personal information and does not engage in sharing or selling it.",
+          "content": "Exclaim will not disclose, without your consent, personal information collected about you, except for certain explicit circumstances in which disclosure is required by law. Exclaim will not distribute or sell personal information to third-party organizations."
+        }
+      },
+      "analysis": "",
+      "reference": "Distribution of collected information"
+    }
+  }
+]

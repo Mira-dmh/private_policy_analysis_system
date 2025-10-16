@@ -1,0 +1,322 @@
+[
+    {
+        "meta": {
+            "id": 6450531859,
+            "url": "https://genuisbraintraining.itify.net/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app provides a data access, collection, use, and sharing disclosure within the app, fulfilling the requirement to declare the collection of data.",
+            "reference": "We provide a data access, collection, use, and sharing disclosure within the app. URL: https://genuisbraintraining.itify.net/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "5f37a938c048707c686d9a0c33a37dfe72015a853630404dea6bdaf7564837d3",
+                "score": 0.7501869,
+                "excerpt": "navigating away from the disclosure (such as tapping away or pressing the back or home buttons).\n- Refrain from soliciting user consent through messages that automatically dismiss or expire.\nPersonal and Sensitive Data Access\nOur app never publicly disclose any personal and sensitive user data related to financial or payment activities or any government identification numbers.\nWe don't publish or disclosure of people's non-public contacts.\nPersistent device identifiers do not be linked to other ...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "60fa93835053c55c0f9d1aef5666c4808959775ae1ad98c3cd8928ac691d0b5d",
+                "score": 0.5630176,
+                "excerpt": "don't sell personal and sensitive user data.\nProminent Disclosure & Consent Requirement\nWe provide a data access, collection, use, and sharing disclosure within the app.\n- Not only in the app's description or on our website, but also within the Genius Brain Training app itself\n- Be displayed when the app is being used normally, without requiring the user to enter a menu or settings.\n- Special the data is being accessed or gathered.\n- Describe the data's intended use and/or dissemination.\n- Not o...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "c2eea3de679ca58ccca7d58bdfb17cc030f61eb366d6aa7fab655f2b7da33baa",
+                "score": 0.026305279,
+                "excerpt": "Privacy Policy\nLast updated on 10.01.2023\nThis Privacy Policy governs the manner in which Genius Brain Training collects, uses, maintains and discloses information collected from users (each, a \"User\") of the Genius Brain Training app. This privacy policy applies to the app and all products and services offered by Itify.\nPersonal Identification Information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users access our app,...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "d9c541241e9ff8cd0a448368565dc0851712b0d6007578ae2bf532d0c63b3520",
+                "score": 0.011288074,
+                "excerpt": "information for the following purposes:\n- To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.\n- To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our app.\nHow We Protect Your Information\nWe adopt appropriate data collection, storage and processing practices and security measures to protect against unauthori...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "6e8b152946d9d118c1792a2ff65f145a7460a277d2ce99320b9d79e00dc4951a",
+                "score": 0.009783876,
+                "excerpt": "affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.\nHow to Delete Data & Account?\nYou can delete your account and all related-date stored on our server. Please go to our app, login then go to S...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450531859,
+            "url": "https://genuisbraintraining.itify.net/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects non-personal identification information including the device’s name you used to connect to the app.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device's name"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may collect non-personal identification information, including the device's name. This information is collected whenever users interact with the app.",
+            "reference": "Non-personal Identification Information We may collect non-personal identification information about Users whenever they interact with our app. Non-personal identification information may include the device’s name you used to connect to our app, and other similar information. URL: https://genuisbraintraining.itify.net/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "5f37a938c048707c686d9a0c33a37dfe72015a853630404dea6bdaf7564837d3",
+                "score": 0.48104241,
+                "excerpt": "navigating away from the disclosure (such as tapping away or pressing the back or home buttons).\n- Refrain from soliciting user consent through messages that automatically dismiss or expire.\nPersonal and Sensitive Data Access\nOur app never publicly disclose any personal and sensitive user data related to financial or payment activities or any government identification numbers.\nWe don't publish or disclosure of people's non-public contacts.\nPersistent device identifiers do not be linked to other ...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "60fa93835053c55c0f9d1aef5666c4808959775ae1ad98c3cd8928ac691d0b5d",
+                "score": 0.09186979,
+                "excerpt": "don't sell personal and sensitive user data.\nProminent Disclosure & Consent Requirement\nWe provide a data access, collection, use, and sharing disclosure within the app.\n- Not only in the app's description or on our website, but also within the Genius Brain Training app itself\n- Be displayed when the app is being used normally, without requiring the user to enter a menu or settings.\n- Special the data is being accessed or gathered.\n- Describe the data's intended use and/or dissemination.\n- Not o...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "c2eea3de679ca58ccca7d58bdfb17cc030f61eb366d6aa7fab655f2b7da33baa",
+                "score": 0.019946935,
+                "excerpt": "Privacy Policy\nLast updated on 10.01.2023\nThis Privacy Policy governs the manner in which Genius Brain Training collects, uses, maintains and discloses information collected from users (each, a \"User\") of the Genius Brain Training app. This privacy policy applies to the app and all products and services offered by Itify.\nPersonal Identification Information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users access our app,...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "d9c541241e9ff8cd0a448368565dc0851712b0d6007578ae2bf532d0c63b3520",
+                "score": 0.014392336,
+                "excerpt": "information for the following purposes:\n- To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.\n- To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our app.\nHow We Protect Your Information\nWe adopt appropriate data collection, storage and processing practices and security measures to protect against unauthori...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "6e8b152946d9d118c1792a2ff65f145a7460a277d2ce99320b9d79e00dc4951a",
+                "score": 0.009090384,
+                "excerpt": "affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.\nHow to Delete Data & Account?\nYou can delete your account and all related-date stored on our server. Please go to our app, login then go to S...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450531859,
+            "url": "https://genuisbraintraining.itify.net/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app provides a data access, collection, use, and sharing disclosure within the app, ensuring that users are informed about the purpose of data collection and use.",
+            "reference": "A request for user consent and an associated runtime permission are both preceded and accompanied by our in-app disclosure. We do not access or collect any sensitive and personal information without the user's permission. Consent request from the app. URL: https://genuisbraintraining.itify.net/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "5f37a938c048707c686d9a0c33a37dfe72015a853630404dea6bdaf7564837d3",
+                "score": 0.86188734,
+                "excerpt": "navigating away from the disclosure (such as tapping away or pressing the back or home buttons).\n- Refrain from soliciting user consent through messages that automatically dismiss or expire.\nPersonal and Sensitive Data Access\nOur app never publicly disclose any personal and sensitive user data related to financial or payment activities or any government identification numbers.\nWe don't publish or disclosure of people's non-public contacts.\nPersistent device identifiers do not be linked to other ...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "60fa93835053c55c0f9d1aef5666c4808959775ae1ad98c3cd8928ac691d0b5d",
+                "score": 0.5774954,
+                "excerpt": "don't sell personal and sensitive user data.\nProminent Disclosure & Consent Requirement\nWe provide a data access, collection, use, and sharing disclosure within the app.\n- Not only in the app's description or on our website, but also within the Genius Brain Training app itself\n- Be displayed when the app is being used normally, without requiring the user to enter a menu or settings.\n- Special the data is being accessed or gathered.\n- Describe the data's intended use and/or dissemination.\n- Not o...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "d9c541241e9ff8cd0a448368565dc0851712b0d6007578ae2bf532d0c63b3520",
+                "score": 0.2104416,
+                "excerpt": "information for the following purposes:\n- To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.\n- To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our app.\nHow We Protect Your Information\nWe adopt appropriate data collection, storage and processing practices and security measures to protect against unauthori...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "6e8b152946d9d118c1792a2ff65f145a7460a277d2ce99320b9d79e00dc4951a",
+                "score": 0.10800066,
+                "excerpt": "affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.\nHow to Delete Data & Account?\nYou can delete your account and all related-date stored on our server. Please go to our app, login then go to S...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "c2eea3de679ca58ccca7d58bdfb17cc030f61eb366d6aa7fab655f2b7da33baa",
+                "score": 0.01461567,
+                "excerpt": "Privacy Policy\nLast updated on 10.01.2023\nThis Privacy Policy governs the manner in which Genius Brain Training collects, uses, maintains and discloses information collected from users (each, a \"User\") of the Genius Brain Training app. This privacy policy applies to the app and all products and services offered by Itify.\nPersonal Identification Information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users access our app,...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450531859,
+            "url": "https://genuisbraintraining.itify.net/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "The user can delete their account and all related data stored on the server by going to the app, logging in, and selecting delete account. This request will be processed immediately, and all data related to the user will be wiped, making it impossible to recover.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the user has the option to delete their account and all related data stored on the server, ensuring control over their data.",
+            "reference": "You can delete your account and all related-date stored on our server. Please go to our app, login then go to Setting/Accoun/Select Delete Account. Your request will be processed immediately. Please note that we will wipe all data related to you so it's impossible to recovery. URL: https://genuisbraintraining.itify.net/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "6e8b152946d9d118c1792a2ff65f145a7460a277d2ce99320b9d79e00dc4951a",
+                "score": 0.23440666,
+                "excerpt": "affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.\nHow to Delete Data & Account?\nYou can delete your account and all related-date stored on our server. Please go to our app, login then go to S...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "5f37a938c048707c686d9a0c33a37dfe72015a853630404dea6bdaf7564837d3",
+                "score": 0.033589505,
+                "excerpt": "navigating away from the disclosure (such as tapping away or pressing the back or home buttons).\n- Refrain from soliciting user consent through messages that automatically dismiss or expire.\nPersonal and Sensitive Data Access\nOur app never publicly disclose any personal and sensitive user data related to financial or payment activities or any government identification numbers.\nWe don't publish or disclosure of people's non-public contacts.\nPersistent device identifiers do not be linked to other ...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "c2eea3de679ca58ccca7d58bdfb17cc030f61eb366d6aa7fab655f2b7da33baa",
+                "score": 0.02064593,
+                "excerpt": "Privacy Policy\nLast updated on 10.01.2023\nThis Privacy Policy governs the manner in which Genius Brain Training collects, uses, maintains and discloses information collected from users (each, a \"User\") of the Genius Brain Training app. This privacy policy applies to the app and all products and services offered by Itify.\nPersonal Identification Information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users access our app,...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "60fa93835053c55c0f9d1aef5666c4808959775ae1ad98c3cd8928ac691d0b5d",
+                "score": 0.0153063545,
+                "excerpt": "don't sell personal and sensitive user data.\nProminent Disclosure & Consent Requirement\nWe provide a data access, collection, use, and sharing disclosure within the app.\n- Not only in the app's description or on our website, but also within the Genius Brain Training app itself\n- Be displayed when the app is being used normally, without requiring the user to enter a menu or settings.\n- Special the data is being accessed or gathered.\n- Describe the data's intended use and/or dissemination.\n- Not o...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "ad9114aa798ac581946e931992ec03d8de7c5fd3e23878ea2a995c7ed6dd4281",
+                "score": 0.0040860027,
+                "excerpt": "Acceptance of These Terms\nBy using this app, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our app. Your continued use of the app following the posting of changes to this policy will be deemed your acceptance of those changes.\nContacting Us\nIf you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:\n[email protected]",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450531859,
+            "url": "https://genuisbraintraining.itify.net/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for limited purposes with user permission.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares information with third party service providers for specific purposes with the user's consent.",
+            "reference": "We may share your information with these third parties for those limited purposes provided that you have given us your permission. URL: https://genuisbraintraining.itify.net/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "6e8b152946d9d118c1792a2ff65f145a7460a277d2ce99320b9d79e00dc4951a",
+                "score": 0.94600123,
+                "excerpt": "affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.\nHow to Delete Data & Account?\nYou can delete your account and all related-date stored on our server. Please go to our app, login then go to S...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "d9c541241e9ff8cd0a448368565dc0851712b0d6007578ae2bf532d0c63b3520",
+                "score": 0.86281466,
+                "excerpt": "information for the following purposes:\n- To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.\n- To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our app.\nHow We Protect Your Information\nWe adopt appropriate data collection, storage and processing practices and security measures to protect against unauthori...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "5f37a938c048707c686d9a0c33a37dfe72015a853630404dea6bdaf7564837d3",
+                "score": 0.77509457,
+                "excerpt": "navigating away from the disclosure (such as tapping away or pressing the back or home buttons).\n- Refrain from soliciting user consent through messages that automatically dismiss or expire.\nPersonal and Sensitive Data Access\nOur app never publicly disclose any personal and sensitive user data related to financial or payment activities or any government identification numbers.\nWe don't publish or disclosure of people's non-public contacts.\nPersistent device identifiers do not be linked to other ...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "60fa93835053c55c0f9d1aef5666c4808959775ae1ad98c3cd8928ac691d0b5d",
+                "score": 0.63000226,
+                "excerpt": "don't sell personal and sensitive user data.\nProminent Disclosure & Consent Requirement\nWe provide a data access, collection, use, and sharing disclosure within the app.\n- Not only in the app's description or on our website, but also within the Genius Brain Training app itself\n- Be displayed when the app is being used normally, without requiring the user to enter a menu or settings.\n- Special the data is being accessed or gathered.\n- Describe the data's intended use and/or dissemination.\n- Not o...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "c2eea3de679ca58ccca7d58bdfb17cc030f61eb366d6aa7fab655f2b7da33baa",
+                "score": 0.061536737,
+                "excerpt": "Privacy Policy\nLast updated on 10.01.2023\nThis Privacy Policy governs the manner in which Genius Brain Training collects, uses, maintains and discloses information collected from users (each, a \"User\") of the Genius Brain Training app. This privacy policy applies to the app and all products and services offered by Itify.\nPersonal Identification Information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users access our app,...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450531859,
+            "url": "https://genuisbraintraining.itify.net/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Affiliates, advertisers, and third party service providers",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "affiliates, advertisers, third party service providers"
+                }
+            },
+            "analysis": "The privacy policy mentions sharing information with affiliates, advertisers, and third party service providers for specific purposes, provided user permission is granted.",
+            "reference": "We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. URL: https://genuisbraintraining.itify.net/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "6e8b152946d9d118c1792a2ff65f145a7460a277d2ce99320b9d79e00dc4951a",
+                "score": 0.8938666,
+                "excerpt": "affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the app or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.\nHow to Delete Data & Account?\nYou can delete your account and all related-date stored on our server. Please go to our app, login then go to S...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "d9c541241e9ff8cd0a448368565dc0851712b0d6007578ae2bf532d0c63b3520",
+                "score": 0.7709825,
+                "excerpt": "information for the following purposes:\n- To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.\n- To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our app.\nHow We Protect Your Information\nWe adopt appropriate data collection, storage and processing practices and security measures to protect against unauthori...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "5f37a938c048707c686d9a0c33a37dfe72015a853630404dea6bdaf7564837d3",
+                "score": 0.4527174,
+                "excerpt": "navigating away from the disclosure (such as tapping away or pressing the back or home buttons).\n- Refrain from soliciting user consent through messages that automatically dismiss or expire.\nPersonal and Sensitive Data Access\nOur app never publicly disclose any personal and sensitive user data related to financial or payment activities or any government identification numbers.\nWe don't publish or disclosure of people's non-public contacts.\nPersistent device identifiers do not be linked to other ...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "60fa93835053c55c0f9d1aef5666c4808959775ae1ad98c3cd8928ac691d0b5d",
+                "score": 0.23881637,
+                "excerpt": "don't sell personal and sensitive user data.\nProminent Disclosure & Consent Requirement\nWe provide a data access, collection, use, and sharing disclosure within the app.\n- Not only in the app's description or on our website, but also within the Genius Brain Training app itself\n- Be displayed when the app is being used normally, without requiring the user to enter a menu or settings.\n- Special the data is being accessed or gathered.\n- Describe the data's intended use and/or dissemination.\n- Not o...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            },
+            {
+                "id": "c2eea3de679ca58ccca7d58bdfb17cc030f61eb366d6aa7fab655f2b7da33baa",
+                "score": 0.045606945,
+                "excerpt": "Privacy Policy\nLast updated on 10.01.2023\nThis Privacy Policy governs the manner in which Genius Brain Training collects, uses, maintains and discloses information collected from users (each, a \"User\") of the Genius Brain Training app. This privacy policy applies to the app and all products and services offered by Itify.\nPersonal Identification Information\nWe may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users access our app,...",
+                "url": "https://genuisbraintraining.itify.net/policy.html"
+            }
+        ]
+    }
+]

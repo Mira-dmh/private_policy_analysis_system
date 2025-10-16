@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1644747151,
+            "url": "https://cfsleadershipcourses.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that data collection is declared when using the service.",
+            "reference": "We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. URL: https://cfsleadershipcourses.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "df890b167e8c2b2b2347ea9d88971c71313ceab26fd55dc8814a5847d8510406",
+                "score": 0.03027187,
+                "excerpt": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the following conditions. The fol...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "bc36fd5c6cab4975b76bd389cb026cf88b1b50fbfe87acbec962c6b855091248",
+                "score": 0.0074606435,
+                "excerpt": "is in primary contractual agreement with.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may disclose Your Personal Data in the good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic sto...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "01f40f5ccaa93ac923e900972b36a876f6d6e3368a0e342d4ff2df6ee75e03b8",
+                "score": 0.006413164,
+                "excerpt": "orally, in writing, or by electronic or other means, a Consumer's personal information to another business or a third party for monetary or other valuable consideration.\nService refers to the Application or the Website or both.\nService Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services re...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "1169a39628ad12c693d8c6154570b8be7bc299d01f95da3341bfb76d52d4d6c5",
+                "score": 0.0047000605,
+                "excerpt": "You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.\nUnder California ...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "80c83faa7caaa3aca237fe1186520a1b241c5b0eb76c4b55188b69b0125f2ed9",
+                "score": 0.0045738644,
+                "excerpt": "these communications from Us by following the unsubscribe link or instructions provided in any email We send or by contacting Us.\nWe may use Email Marketing Service Providers to manage and send emails to You.\nThis privacy notice section for California residents supplements the information contained in Our Privacy Policy and it applies solely to all visitors, users, and others who reside in the State of California.\nWe collect information that identifies, relates to, describes, references, is capa...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1644747151,
+            "url": "https://cfsleadershipcourses.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects the following types of data: Email address, First name and last name, Usage Data (including Internet Protocol address, browser type, browser version, pages visited, time and date of visit, time spent on pages, mobile device information, mobile operating system, mobile Internet browser type, unique device identifiers, and other diagnostic data).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email address",
+                        "First name and last name",
+                        "Usage Data (including Internet Protocol address, browser type, browser version, pages visited, time and date of visit, time spent on pages, mobile device information, mobile operating system, mobile Internet browser type, unique device identifiers, and other diagnostic data)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly outlines the types of data collected, including personally identifiable information and various usage data. These details cover data points related to the user's identity as well as information automatically collected during app usage.",
+            "reference": "Email address\nFirst name and last name\nUsage Data\nURL: https://cfsleadershipcourses.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "cc8236c43a6bdb1c38f84ca8bae6598ebaba3b4c86e08458030087212a0945b4",
+                "score": 0.115960725,
+                "excerpt": "Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail address\nFirst name and last name\nUsage Data\nUsage Data is collected automatically when using the Service.\nUsage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spe...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "01f40f5ccaa93ac923e900972b36a876f6d6e3368a0e342d4ff2df6ee75e03b8",
+                "score": 0.100172214,
+                "excerpt": "orally, in writing, or by electronic or other means, a Consumer's personal information to another business or a third party for monetary or other valuable consideration.\nService refers to the Application or the Website or both.\nService Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services re...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "9673616272576622ddb90cf16c74fc53500a6ee513c2c941305a2c256e060215",
+                "score": 0.06418265,
+                "excerpt": "physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information).\nCollected: No.\nCategory D: Commercial information.\nExamples: Records and history of products or services purchased or considered.\nCollected: No.\nCategory E: Biometric information.\nExamples: Genetic, physiological, behavioral, and biological ch...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "80c83faa7caaa3aca237fe1186520a1b241c5b0eb76c4b55188b69b0125f2ed9",
+                "score": 0.048047356,
+                "excerpt": "these communications from Us by following the unsubscribe link or instructions provided in any email We send or by contacting Us.\nWe may use Email Marketing Service Providers to manage and send emails to You.\nThis privacy notice section for California residents supplements the information contained in Our Privacy Policy and it applies solely to all visitors, users, and others who reside in the State of California.\nWe collect information that identifies, relates to, describes, references, is capa...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "df890b167e8c2b2b2347ea9d88971c71313ceab26fd55dc8814a5847d8510406",
+                "score": 0.039490405,
+                "excerpt": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the following conditions. The fol...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1644747151,
+            "url": "https://cfsleadershipcourses.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that the app describes the purposes of collecting and using data, ensuring transparency for the users.",
+            "reference": "We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. ...identify usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience. URL: https://cfsleadershipcourses.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "df890b167e8c2b2b2347ea9d88971c71313ceab26fd55dc8814a5847d8510406",
+                "score": 0.20625381,
+                "excerpt": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capitalized have meanings defined under the following conditions. The fol...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "a42df5c4703cf0bc5e3f02a8d32e86a95fb6dbf2f6de3a5e97a7c3a4390b3ab0",
+                "score": 0.02068546,
+                "excerpt": "about our Service users is among the assets transferred.\nFor other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.\nWe may share Your personal information in the following situations:\nThe Company will retain Your Personal Data only for as long as is necessary for the purposes set out in thi...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "bc36fd5c6cab4975b76bd389cb026cf88b1b50fbfe87acbec962c6b855091248",
+                "score": 0.012053779,
+                "excerpt": "is in primary contractual agreement with.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may disclose Your Personal Data in the good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic sto...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "01f40f5ccaa93ac923e900972b36a876f6d6e3368a0e342d4ff2df6ee75e03b8",
+                "score": 0.008847355,
+                "excerpt": "orally, in writing, or by electronic or other means, a Consumer's personal information to another business or a third party for monetary or other valuable consideration.\nService refers to the Application or the Website or both.\nService Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services re...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "cc8236c43a6bdb1c38f84ca8bae6598ebaba3b4c86e08458030087212a0945b4",
+                "score": 0.005099818,
+                "excerpt": "Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail address\nFirst name and last name\nUsage Data\nUsage Data is collected automatically when using the Service.\nUsage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spe...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1644747151,
+            "url": "https://cfsleadershipcourses.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of the sale of personal information by contacting the service provider.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to opt-out of the sale of personal information by contacting the service provider directly.",
+            "reference": "You have the right to opt-out of the sale of Your personal information. Once We receive and confirm a verifiable consumer request from You, we will stop selling Your personal information. To exercise Your right to opt-out, please contact Us. URL: https://cfsleadershipcourses.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "ead40de1da66283dde0bb020f6489472b5b2b86f8b4ab6dd74f480bf4fb2fff1",
+                "score": 0.6660625,
+                "excerpt": "request's receipt.\nFor data portability requests, We will select a format to provide Your personal information that is readily usable and should allow You to transmit the information from one entity to another entity without hindrance.\nYou have the right to opt-out of the sale of Your personal information. Once We receive and confirm a verifiable consumer request from You, we will stop selling Your personal information. To exercise Your right to opt-out, please contact Us.\nOur Service does not r...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "c96a238d2c3cf7dec30cc8c7976869ebf61b2481e15cb06a6cc02ebdf45c340d",
+                "score": 0.49920845,
+                "excerpt": "to You\nWe do not knowingly collect personal information from minors under the age of 16 through our Service, although certain third party websites that we link to may do so. These third-party websites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children's Internet usage and instruct their children to never provide information on other websites without their permission.\nWe do not sell the personal information of Consumers We actua...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "1169a39628ad12c693d8c6154570b8be7bc299d01f95da3341bfb76d52d4d6c5",
+                "score": 0.19961986,
+                "excerpt": "You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.\nUnder California ...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "bc36fd5c6cab4975b76bd389cb026cf88b1b50fbfe87acbec962c6b855091248",
+                "score": 0.1877276,
+                "excerpt": "is in primary contractual agreement with.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may disclose Your Personal Data in the good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic sto...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "ff1d904dd305c7406405be09c7bdc81a512471a89ec6962ae1aefb3a02d50abf",
+                "score": 0.09825223,
+                "excerpt": "age of 13 (or 16) has provided Us with personal information, please contact Us with sufficient detail to enable Us to delete that information.\nThe CCPA provides California residents with specific rights regarding their personal information. If You are a resident of California, You have the following rights:\nIn order to exercise any of Your rights under the CCPA, and if You are a California resident, You can contact Us:\nOnly You, or a person registered with the California Secretary of State that ...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1644747151,
+            "url": "https://cfsleadershipcourses.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares personal information with different categories of third parties.",
+            "reference": "We may share Your personal information identified in the above categories with the following categories of third parties: Service Providers, Our affiliates, Our business partners. URL: https://cfsleadershipcourses.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "1169a39628ad12c693d8c6154570b8be7bc299d01f95da3341bfb76d52d4d6c5",
+                "score": 0.26903743,
+                "excerpt": "You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.\nUnder California ...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "4fc1288afec59c3bc2d6a559132c2f89a13c40b2241fceea5d44e443411f208f",
+                "score": 0.1821344,
+                "excerpt": "business to a third party for valuable consideration. This means that We may have received some kind of benefit in return for sharing personal information, but not necessarily a monetary benefit.\nPlease note that the categories listed below are those defined in the CCPA. This does not mean that all examples of that category of personal information were in fact sold, but reflects our good faith belief to the best of our knowledge that some of that information from the applicable category may be a...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "bc36fd5c6cab4975b76bd389cb026cf88b1b50fbfe87acbec962c6b855091248",
+                "score": 0.13161905,
+                "excerpt": "is in primary contractual agreement with.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may disclose Your Personal Data in the good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic sto...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "01f40f5ccaa93ac923e900972b36a876f6d6e3368a0e342d4ff2df6ee75e03b8",
+                "score": 0.11961367,
+                "excerpt": "orally, in writing, or by electronic or other means, a Consumer's personal information to another business or a third party for monetary or other valuable consideration.\nService refers to the Application or the Website or both.\nService Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services re...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "a42df5c4703cf0bc5e3f02a8d32e86a95fb6dbf2f6de3a5e97a7c3a4390b3ab0",
+                "score": 0.09451043,
+                "excerpt": "about our Service users is among the assets transferred.\nFor other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.\nWe may share Your personal information in the following situations:\nThe Company will retain Your Personal Data only for as long as is necessary for the purposes set out in thi...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1644747151,
+            "url": "https://cfsleadershipcourses.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Service Providers, affiliates, business partners, and third party vendors authorized by agents or employers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service Providers",
+                        "Affiliates",
+                        "Business Partners",
+                        "Third party vendors authorized by agents or employers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions specific categories of third parties with whom data may be shared, providing clarity on the types of entities involved in data sharing.",
+            "reference": "Service Providers\nOur affiliates\nOur business partners\nOnly Third party vendors to whom Your agents or employers authorize Us to disclose Your personal information in connection with products or services We provide to You. URL: https://cfsleadershipcourses.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "4fc1288afec59c3bc2d6a559132c2f89a13c40b2241fceea5d44e443411f208f",
+                "score": 0.65544635,
+                "excerpt": "business to a third party for valuable consideration. This means that We may have received some kind of benefit in return for sharing personal information, but not necessarily a monetary benefit.\nPlease note that the categories listed below are those defined in the CCPA. This does not mean that all examples of that category of personal information were in fact sold, but reflects our good faith belief to the best of our knowledge that some of that information from the applicable category may be a...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "bc36fd5c6cab4975b76bd389cb026cf88b1b50fbfe87acbec962c6b855091248",
+                "score": 0.60328925,
+                "excerpt": "is in primary contractual agreement with.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).\nThe Company may disclose Your Personal Data in the good faith belief that such action is necessary to:\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic sto...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "a42df5c4703cf0bc5e3f02a8d32e86a95fb6dbf2f6de3a5e97a7c3a4390b3ab0",
+                "score": 0.17525558,
+                "excerpt": "about our Service users is among the assets transferred.\nFor other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.\nWe may share Your personal information in the following situations:\nThe Company will retain Your Personal Data only for as long as is necessary for the purposes set out in thi...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "01f40f5ccaa93ac923e900972b36a876f6d6e3368a0e342d4ff2df6ee75e03b8",
+                "score": 0.15443976,
+                "excerpt": "orally, in writing, or by electronic or other means, a Consumer's personal information to another business or a third party for monetary or other valuable consideration.\nService refers to the Application or the Website or both.\nService Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services re...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            },
+            {
+                "id": "1169a39628ad12c693d8c6154570b8be7bc299d01f95da3341bfb76d52d4d6c5",
+                "score": 0.111821815,
+                "excerpt": "You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.\nUnder California ...",
+                "url": "https://cfsleadershipcourses.com/privacy"
+            }
+        ]
+    }
+]

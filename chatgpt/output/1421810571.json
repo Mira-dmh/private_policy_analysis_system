@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1421810571,
+      "url": "https://www.pocketmentorapp.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal data when creating a Pocket Mentor membership, which includes name, email address, payment details, and postcode.",
+        "simple_answer": "Yes, the app collects personal data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of personal information collected.",
+          "content": "The following personal information is collected when creating a The Pocket Mentor membership: Name, Email address, Payment details, Postcode."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What Information Is Collected?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1421810571,
+      "url": "https://www.pocketmentorapp.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following personal information when creating a The Pocket Mentor membership: Name, Email address, Payment details, Postcode.",
+        "simple_answer": "Name, Email address, Payment details, Postcode.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app collects personal information such as your name, email address, payment details, and postcode when you create a membership."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What Information Is Collected?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1421810571,
+      "url": "https://www.pocketmentorapp.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal data is collected for various reasons including the performance of the contract, legitimate interests such as improving user experience, providing customer service communications, and complying with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific purposes for data collection.",
+          "content": "The purposes include performance of the contract, legitimate interests in improving user experience, customer service communications, and compliance with legal obligations."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the reasons for data collection, ensuring transparency regarding the use of personal information.",
+      "reference": "Section 3: Legal basis for collecting this personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1421810571,
+      "url": "https://www.pocketmentorapp.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by unsubscribing from marketing emails using the unsubscribe link provided in the emails. Additionally, users have the right to request a copy of their information and can access and correct any personal data shared with the app under their profile settings. If users do not want to receive further information, they can request to have their name removed from the mailing list.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can unsubscribe or request deletion.",
+          "content": "Users can opt out of marketing communications by using the unsubscribe link in emails. They can also access and correct their personal data in their account settings, and request deletion of their information."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the rights of users regarding their personal data, including the ability to opt out of marketing communications and request deletion of their data.",
+      "reference": "Section 5: How To Access, Correct or Delete Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1421810571,
+      "url": "https://www.pocketmentorapp.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares personal information with third-party software integrations such as Stripe and Mail Chimp for the purposes of creating and maintaining your account. However, the app does not sell your data to external organizations.",
+        "simple_answer": "Yes, it shares data with Stripe and Mail Chimp but does not sell it.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to protecting your data and only shares it with specific third parties for account management.",
+          "content": "By creating your The Pocket Mentor membership, you consent to share your personal information with our third-party software integrations Stripe and Mail Chimp for the purposes of creating and maintaining your account."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while the app does share data with specific third-party services for operational purposes, it does not sell personal data to external organizations, ensuring a level of data protection.",
+      "reference": "Section 4: Who We Share Your Information With"
+    }
+  },
+  {
+    "meta": {
+      "id": 1421810571,
+      "url": "https://www.pocketmentorapp.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares personal information with third-party software integrations, specifically Stripe and Mail Chimp. Stripe facilitates subscription payments and holds your name, email address, payment details, and postcode. Mail Chimp is used for email communications and holds your email address and name.",
+        "simple_answer": "The app shares data with Stripe and Mail Chimp.",
+        "extended_simple_answer": {
+          "comment": "These third parties are used for payment processing and email communications.",
+          "content": "Stripe handles subscription payments and stores personal information such as name, email address, payment details, and postcode. Mail Chimp is used for email notifications and holds your email address and name."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Who We Share Your Information With"
+    }
+  }
+]

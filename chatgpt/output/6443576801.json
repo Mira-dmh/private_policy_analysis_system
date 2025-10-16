@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6443576801,
+      "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects personal and health information directly from users through various activities such as registration, usage of the platform, payment processing, and communication. Additionally, it mentions the collection of information automatically through cookies and other technologies.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of information collected, including personal, demographic, health, and payment information, as well as data collected automatically.",
+          "content": "The app collects personal and health information you provide directly to us through the Platform, as well as information collected automatically through cookies and other technologies."
+        }
+      },
+      "analysis": "",
+      "reference": "WHAT INFORMATION WE COLLECT AND WHY"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443576801,
+      "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal and health information directly provided by users, including but not limited to: name, date of birth, address, email address, phone number, photograph of ID, username and password, race, ethnicity, sex, emergency contact information, relationship status, height, weight, religious preferences, presenting problem, payment information, and any information provided in user journals. Additionally, it collects payment information through payment processors, Therapy Notes from healthcare providers, and automatically collected information such as IP address, browser characteristics, device IDs, operating system version, and usage information through cookies and other tracking technologies.",
+        "simple_answer": "The app collects personal information, health information, payment information, Therapy Notes, and automatically collected data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to provide its services and improve user experience.",
+          "content": "This includes personal details like name and contact information, health-related data, payment details, notes from healthcare providers, and data collected through automated means."
+        }
+      },
+      "analysis": "",
+      "reference": "WHAT INFORMATION WE COLLECT AND WHY"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443576801,
+      "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide access to the Platform and to improve products and services. Additionally, it mentions that information may be disclosed to vendors for services such as verifying identification and processing payments, as well as for marketing and promotional purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that it uses collected information to enhance user experience and for operational purposes.",
+          "content": "The app uses and discloses information to provide access to the Platform, improve products and services, verify identification, process payments, and for marketing purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "How DOES TeleWell USE AND DISCLOSE YOUR INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443576801,
+      "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users may change browser settings to block and delete cookies when accessing the Platform through a web browser, but this may affect the functionality of the Platform.",
+        "simple_answer": "Users can change browser settings to block and delete cookies, but this may affect the Platform's functionality.",
+        "extended_simple_answer": {
+          "comment": "While users have some control over cookies, the policy does not provide a clear mechanism for opting out of all data collection or deleting personal data.",
+          "content": "The policy indicates that users can block and delete cookies through their browser settings, but it does not provide a comprehensive opt-out option for all data collection or a clear process for data deletion."
+        }
+      },
+      "analysis": "The privacy policy lacks a clear opt-out mechanism for users regarding data collection and does not specify a process for data deletion, which may raise concerns about user control over their personal information.",
+      "reference": "Information we collect automatically."
+    }
+  },
+  {
+    "meta": {
+      "id": 6443576801,
+      "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. It may disclose information to vendors to provide services, such as verifying identification and processing payments. Additionally, information may be disclosed to healthcare providers who access the platform as part of their services.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares user information with vendors and healthcare providers.",
+          "content": "We will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and services in accordance with applicable law. For example, we may disclose the information to our vendors so they can provide their services to us, including (i) verifying your identification during the registration process, and (ii) processing payments for selected treatment options. We may also disclose information to your health care provider who accesses the platform as part of their services."
+        }
+      },
+      "analysis": "",
+      "reference": "How DOES TeleWell USE AND DISCLOSE YOUR INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443576801,
+      "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with vendors who provide services to TeleWell, including those involved in verifying user identification during the registration process and processing payments for selected treatment options. Additionally, information may be disclosed to health care providers who access the platform as part of their services.",
+        "simple_answer": "The app shares data with vendors and health care providers.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with various third parties to enhance its services and ensure proper functioning.",
+          "content": "Data is shared with vendors for identification verification and payment processing, as well as with health care providers accessing the platform."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: How DOES TeleWell USE AND DISCLOSE YOUR INFORMATION"
+    }
+  }
+]

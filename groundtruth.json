@@ -1,0 +1,1919 @@
+[
+  {
+    "id": 1361356590,
+    "q1": "y",
+    "q2": "They collect personal identifiers, demographic details, purchase history, online activity, professional and education information, inferences, and limited sensitive data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with advertising networks, data brokers, and other companies involved in digital advertising and marketing services."
+  },
+  {
+    "id": 1493155192,
+    "q1": "y",
+    "q2": "They collect account and payment details, contact info, optional health and lifestyle data for tests, customer service communications, device usage time, and basic website activity via IP-based analytics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with service providers for payments, customer support, cloud storage, security, and analytics, as well as with legal authorities when required, and it may transfer data during business transactions."
+  },
+  {
+    "id": 1665348316,
+    "q1": "y",
+    "q2": "They collect personal, contact, billing, profile, device, activity, and possibly health-related data, mainly to run the service and support users.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data only with user-authorized third parties, service providers, legal or business successors, and in anonymized form for research or analytics."
+  },
+  {
+    "id": 1498229813,
+    "q1": "y",
+    "q2": "They collect identity details, contact info, ethnicity, biological and health data, lifestyle habits, device and usage data, profile and communication preferences, plus sensitive data you enter into the app.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with user-selected contacts, affiliated companies, UK-based IT service providers, potential business acquirers, and provides only anonymized aggregated data to employers or organizations."
+  },
+  {
+    "id": 1588978095,
+    "q1": "y",
+    "q2": "They gather optional account details (like name, email, ZIP code), device and usage data collected automatically (such as IP, browsing activity, log data), mobile app permissions (like location, photos, contacts), and information from cookies and local storage.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, business partners, affiliates, and McMillen Health for legitimate business purposes, legal compliance, user requests, feedback, administration, and data analysis."
+  },
+  {
+    "id": 6447095050,
+    "q1": "y",
+    "q2": "They collect email addresses and other optional personal details you enter when registering or making an order.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app only shares personal data with trusted service providers, legal authorities when needed, and may share non-identifiable data with other parties."
+  },
+  {
+    "id": 1435692352,
+    "q1": "y",
+    "q2": "They may ask users to provide audio recordings or other personal details when registering or placing an order.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6474216442,
+    "q1": "y",
+    "q2": "They may collect identifiers, demographic details, commercial and browsing activity, location data, behavioral inferences, and sensitive health information.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with healthcare providers, service providers, business partners, advisors, authorized third parties, potential business successors, and law enforcement when required."
+  },
+  {
+    "id": 996253060,
+    "q1": "y",
+    "q2": "They collect information you provide (like name, address, email, payment details) and data gathered automatically through cookies, logs, and device details such as IP address and browser type.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app only shares personal data when legally required or to protect its rights, users, or public safety, and does not sell or lease user information."
+  },
+  {
+    "id": 1458846512,
+    "q1": "y",
+    "q2": "They may collect your name, email, mailing address, phone number, credit card details, sensor data, or other personal information you provide when registering or placing an order.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app only shares personal data with trusted service or hosting partners, legal authorities when necessary, and may share non-identifiable data for marketing or other purposes."
+  },
+  {
+    "id": 1234966740,
+    "q1": "y",
+    "q2": "They collect contact and business details, account registration data, and automatically gathered technical and device information, along with any permissions you grant for features like push notifications.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with service providers, corporate affiliates or buyers, legal authorities when required, and other third parties only with user consent."
+  },
+  {
+    "id": 1193006281,
+    "q1": "y",
+    "q2": "They collect only what you provide (like emails, messages, surveys, job inquiries, newsletter sign-ups) plus non-identifiable technical, engagement, activity, and transaction data gathered automatically.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with business affiliates, service providers (like Apple, Firebase, Google Analytics, and RevenueCat), potential business buyers, and legal authorities when required."
+  },
+  {
+    "id": 1606688885,
+    "q1": "y",
+    "q2": "They collect contact and correspondence details you provide, plus session data like IP, device, browser, cookies, preferences, and payment activity (handled via app stores without storing card details).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data only with service providers for operations or marketing (if consented) and with legal authorities when required."
+  },
+  {
+    "id": 1485424497,
+    "q1": "y",
+    "q2": "They collect your name, email, employer, questionnaire responses, app activity and mood-related inputs, plus usage data via cookies and tracking tools.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares only limited personal data with service providers, healthcare plans (if applicable), and internal staff, while otherwise disclosing only aggregated or de-identified information."
+  },
+  {
+    "id": 1666827532,
+    "q1": "y",
+    "q2": "They collect details you provide (like name, address, email, phone, employer), data from third parties tied to their services, and usage data such as downloads and IP address.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app does not sell data but may share it with service providers and other third parties when necessary for business purposes."
+  },
+  {
+    "id": 6503365371,
+    "q1": "y",
+    "q2": "They process contact and account details, professional credentials, session transcripts if opted in, technical and security logs, and optional marketing info.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data only with therapists you book, EU-based transcription and AI providers, cloud hosting services, and Stripe for payments."
+  },
+  {
+    "id": 6470471214,
+    "q1": "y",
+    "q2": "They don’t auto-collect personal identifiers, but may gather browser type, OS, and IP, and may request name, email, mailing address, demographics, and preferences through forms or subscriptions.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The company only shares personal data with business and promotional partners to support its services, may disclose it to authorities when legally required, and notes that third-party content providers on the Kajabi庐 platform act as independent data controllers for any information they upload."
+  },
+  {
+    "id": 1635699582,
+    "q1": "y",
+    "q2": "They collect the data you enter in the comments form (like name, email, or message), as well as your IP address and browser details to help detect spam.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app does not sell or share personal data, but may use anonymized information for marketing statistics, identifying user needs, and improving services."
+  },
+  {
+    "id": 6446916960,
+    "q1": "y",
+    "q2": "They collect personal details you provide, plus device, log, usage, and location data gathered automatically, mainly for security, functionality, and analytics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with third-party service providers such as Firebase, Google Analytics, Crashlytics, and TestFlight, and may also transfer information during business transactions."
+  },
+  {
+    "id": 6450941099,
+    "q1": "y",
+    "q2": "They collect account details (name, contact info, credentials, payment data), user content and communications, social media interactions, plus technical data like logs, usage patterns, device details, cookies, and analytics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, affiliates, legal authorities when required, and may transfer it during business transactions."
+  },
+  {
+    "id": 1521793590,
+    "q1": "y",
+    "q2": "They collect personally identifiable information (like your name with SSN, ID, or address) that you provide, as well as non-personal data such as browser type, prior site visited, click patterns, ISP, OS, and IP address.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app may share data with its authorized representatives who work directly with it."
+  },
+  {
+    "id": 1300107718,
+    "q1": "y",
+    "q2": "They collect user-provided details (like name, email, age, login info, payment data, and content you enter) as well as automatically gathered device and usage data (such as device ID, IP address, OS, browser, and app activity).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares only aggregated/anonymized data with external analytics services, and may disclose personal data to trusted service providers working on its behalf, legal/government authorities when required (e.g., safety/fraud), and potential acquirers in a merger or sale."
+  },
+  {
+    "id": 6450597254,
+    "q1": "y",
+    "q2": "They collect personal identification details like name, email, mailing address, and phone number when users voluntarily provide them through site activities.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The app does not sell or rent personal information, but it may share aggregated demographic data (not linked to identifiable users) with business partners, affiliates, and advertisers."
+  },
+  {
+    "id": 1547374655,
+    "q1": "y",
+    "q2": "Mindwell collects user-provided details like name, email, login credentials, and third-party account info, along with automatically gathered IP, cookies, and usage data, plus email interaction data for improving services.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data only with its agents to deliver services, may disclose it for legal or safety reasons, and otherwise requires user consent before sharing with third parties."
+  },
+  {
+    "id": 1273620738,
+    "q1": "y",
+    "q2": "They collect device identifiers, usernames for gameplay, information you provide (like chat or billing details), log and location data, cookies and similar tracking info, plus data from third-party services you connect.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data within its affiliated brands, with service providers, legal authorities when required, new owners in business transfers, and with other third parties only with user consent."
+  },
+  {
+    "id": 6450326411,
+    "q1": "y",
+    "q2": "They collect personal details (like name, email, gender, location, and age), mental health and wellbeing information, device identifiers, cookies, non-identifiable aggregated data, and usage data to personalize and support their mental health program.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Mindset Health does not sell or rent data but may share it with third-party service providers, employers’ wellness programs, analytics and marketing partners (e.g., Google, Facebook, TikTok, Amplitude), medical professionals with your consent, legal authorities when required, and potential business buyers, while also using de-identified information for research and publicity."
+  },
+  {
+    "id": 985365789,
+    "q1": "y",
+    "q2": "They only collect personal information you knowingly provide (like name or email when making a purchase or filling out forms); you can use the services without giving such details, but some features may not work without them.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data only with affiliates, contracted companies, and service providers needed to deliver services, and does not allow them to use the information for marketing or share it with unaffiliated third parties."
+  },
+  {
+    "id": 6466439617,
+    "q1": "y",
+    "q2": "They collect limited contact and contract data (like name, email, location, signatures), temporary employee email lists to set up platform access, and ongoing feedback and usage data to improve services.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6474006415,
+    "q1": "y",
+    "q2": "They require basic personal details like name, email, phone, country, date of birth, and habits, and also collect non-identifiable data such as browser type, IP, location, billing, device, and account information.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app may share personal data with service vendors, affiliates, partners, user-designated third parties, and legal or government authorities when required or to protect rights and resolve disputes."
+  },
+  {
+    "id": 526047934,
+    "q1": "y",
+    "q2": "They collect information you provide (like name, address, contact details, gender, age, interests, device type, account credentials, and payment info), plus data shared by schools, parents, or teachers to support personalized learning and access to their digital platforms.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with third-party processors such as hosting, IT, analytics, payment (Stripe), customer service (Intercom), reviews, delivery, auditors, and legal advisors, and may also share with education research partners, business buyers/sellers, and legal or regulatory authorities when required."
+  },
+  {
+    "id": 1112006222,
+    "q1": "y",
+    "q2": "They collect a wide range of personal data, including identity and contact details, employment and interaction records, device and digital usage data, job application materials, and sensitive information like financial, transaction, health, lifestyle, and claims data, mainly to deliver, administer, and improve TELUS Health’s services, ensure compliance, and support business operations.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "LifeWorks (TELUS Health) shares personal data with employers/benefits providers, healthcare practitioners, service providers (including affiliates), analytics partners like Google Analytics, other users within employer groups, and legal/government authorities when required, and may also transfer data within the TELUS Family or during business transactions."
+  },
+  {
+    "id": 6446494726,
+    "q1": "y",
+    "q2": "They collect basic personal details like your name, email, and work address, along with information about which website pages you visit and when.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data only with suppliers to fulfill voucher orders and with the North London NHS Mental Health Partnership’s sustainability team for Go Green Rewards administration."
+  },
+  {
+    "id": 1276818064,
+    "q1": "y",
+    "q2": "They collect visitor data (like pages viewed, time spent, errors, device and IP details), user test responses and activity, and any information you provide in reviews.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The app shares data with service providers, advertising and analytics partners, corporate affiliates, legal authorities when required, and may transfer it during business transactions or with user consent."
+  },
+  {
+    "id": 6444067591,
+    "q1": "n",
+    "q2": "The app does not collect data.",
+    "q3": "n",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6466716476,
+    "q1": "y",
+    "q2": "They collect contact details (like email and phone), demographic data (such as gender, date of birth, and pin code), other voluntarily shared information, and may also process sensitive data including passwords, financial details, health and medical records, sexual orientation, biometrics, and call records.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "PregAmie may share aggregated or non-identifiable user data with third parties and affiliates for research, analytics, business intelligence, and commercial purposes, while identifiable data is mainly used to provide services, support, communications, and transactions."
+  },
+  {
+    "id": 1441112707,
+    "q1": "y",
+    "q2": "They collect basic profile and calendar availability (via SSO), messages sent to you, anonymized or pseudonymous identifiers depending on platform, optional journal entries, and general device and usage analytics — but they don’t read emails or chats or collect payment data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data only when you request a third-party service, during business sales or transfers, or when legally required to protect rights or prevent fraud."
+  },
+  {
+    "id": 1575168306,
+    "q1": "y",
+    "q2": "They collect only what you voluntarily provide—typically your name, email, and password—plus optional app permissions like push notifications.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app only shares personal data during business transfers such as mergers, sales, or acquisitions."
+  },
+  {
+    "id": 6450531859,
+    "q1": "y",
+    "q2": "They only collect personal identifiers like name and email when users voluntarily provide them, and they secure all data using modern encryption and permission controls.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app clearly discloses data access and sharing within the app itself and only collects personal or sensitive data with explicit user consent through clear, affirmative permission prompts."
+  },
+  {
+    "id": 1537989633,
+    "q1": "y",
+    "q2": "They process your name and email when you create an account, using them for login, account security, important notifications, optional marketing (with consent), and customer support.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares payment data only with a third-party payment processor like Authorize.Net, while CD2 Learning itself collects only your name, address, and phone number for purchase fulfillment."
+  },
+  {
+    "id": 6504136646,
+    "q1": "y",
+    "q2": "They collect only the personal details you voluntarily provide—typically contact information—and may collect payment data when you make a purchase, though payments are processed by Apple.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data only during business transfers or with third-party offer wall providers to credit rewards and prevent fraud."
+  },
+  {
+    "id": 1212999482,
+    "q1": "y",
+    "q2": "They collect device and usage data, app activity (like openings and interactions), user IDs, purchase history, diagnostics, and tracking data such as cookies if needed to provide the service.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares aggregated or optional usage and diagnostics data with platform providers like Apple App Store Connect and Google Play Store for analytics and performance measurement."
+  },
+  {
+    "id": 406042878,
+    "q1": "y",
+    "q2": "They primarily collect your email address, along with any automatically gathered usage data or cookie-based tracking necessary to operate the service.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app processes personal data only with user consent, to perform a contract, comply with legal obligations, serve public interest or legitimate interests, and will clarify the applicable legal basis upon request."
+  },
+  {
+    "id": 6479717383,
+    "q1": "y",
+    "q2": "They collect registration details (like phone number, email, and optional name, photo, or payment info), communication and support messages, third-party account data, limited job application info, and automatically gathered usage data such as cookies.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with service providers, analytics partners like Google Analytics, other users through profile visibility, legal authorities when required, and during business transactions or with user consent."
+  },
+  {
+    "id": 1627653934,
+    "q1": "y",
+    "q2": "They collect personal details like email and form submissions (e.g. name, address, phone, race, photos), along with usage, device, location, and cookie data to operate and improve the service.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app only shares personal data during business transfers or when required by law to protect rights, investigate wrongdoing, or ensure safety."
+  },
+  {
+    "id": 1503638078,
+    "q1": "y",
+    "q2": "They collect personal details you provide (like name, address, email, phone, chats, transactions, and content you post), plus automatically gathered usage, device, and connection data — and, with permission, limited access to files or metadata for user-initiated sharing.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with affiliates, service providers, business buyers, marketing partners (with consent), legal authorities when required, and may disclose data to fulfill user requests or protect rights and safety."
+  },
+  {
+    "id": 1575579611,
+    "q1": "y",
+    "q2": "They collect personal information when you contact or engage with them (such as visiting, calling, booking, or signing up), primarily to provide and market their services—with sensitive information collected only with your consent.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app only shares personal data with third-party service providers under strict protections—or when legally required or necessary to protect safety or public interest."
+  },
+  {
+    "id": 1576666232,
+    "q1": "y",
+    "q2": "They collect identity and contact details, health information, app usage data, communications and feedback, geographical data, and user-generated content.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data only with legal authorities, business transaction parties, and contracted service providers (who follow strict instructions), and may transfer deidentified or safeguarded data internationally when necessary."
+  },
+  {
+    "id": 6443679619,
+    "q1": "y",
+    "q2": "OnTarget collects data including personal details (name, address, email, phone, form inputs), communications, usage and device information (IP, OS, identifiers, contacts, media, location), and tracking data such as cookies and web beacons.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The OnTarget app shares data with Google Services, your mobile device manufacturer, your mobile service provider, contractors, service providers, other third parties supporting its operations, and potential affiliates or acquirers in case of company transactions"
+  },
+  {
+    "id": 1584145241,
+    "q1": "y",
+    "q2": "The app declares that it collects names, contact details, payment information, and device and usage data through cookies.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The FKA Brands app shares data with other FKA Brands business units, shipping and logistics companies, service providers, public authorities when legally required, and third-party analytics and advertising partners such as Microsoft Clarity and Microsoft Advertising"
+  },
+  {
+    "id": 354065335,
+    "q1": "y",
+    "q2": "The Andrew Johnson Meditations app collects users’ email addresses for mailing lists and newsletters.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Andrew Johnson Meditations app shares data with external parties such as third-party technical service providers, mail carriers, hosting providers, IT companies, and communications agencies that act as Data Processors on behalf of the Owner, and it may also disclose data to public authorities when legally required."
+  },
+  {
+    "id": 6447270302,
+    "q1": "y",
+    "q2": "The ManMade app collects data such as email address, personal details submitted by the user, and payment information (through third-party payment processors).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 948111146,
+    "q1": "y",
+    "q2": "The Entegy app collects data including account info (name, email, password, phone, billing details), profile details (age, address, event preferences), device & browser data (IP address, OS, device type), cookies & tracking data (via Google Analytics, Microsoft Application Insights), social media info (if logging in via social accounts), and feedback/communications submitted by users.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Entegy app shares data with Stripe (for payment processing), Amazon Web Services (for hosting / infrastructure), Google Analytics, Microsoft Application Insights, and external service providers / vendors engaged to support email sending, marketing metrics, administrative or operational services; it also may disclose data to public authorities when legally required."
+  },
+  {
+    "id": 1551123268,
+    "q1": "y",
+    "q2": "The Noisy Brain app declares it collects personal information for account and service purposes, as well as non-personal data via cookies, IP logs, usage statistics, and device/traffic data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1444463273,
+    "q1": "y",
+    "q2": "The Vault Platform app collects personal and business contact information, user-generated content, profile details, correspondence data, device and usage information, and any additional data shared by customers or other users.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Vault Platform app shares data with its affiliates and service providers (such as hosting, analytics, customer support, email, and database management vendors) to support operations, and it may also disclose data to public authorities when legally required or transfer data to a new entity in the event of a business transaction."
+  },
+  {
+    "id": 1321563535,
+    "q1": "y",
+    "q2": "The Connected Mind app collects identifiers (name, email, phone, IP, mailing address), financial info (when payment is used), commercial data (purchases), internet/network activity (browsing, search history, interactions), non-sensitive geolocation, professional/employment information, and user-generated feedback or content.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Connected Mind app shares data with service providers (such as hosting, payment processing, fraud protection), its Clients, professional advisors (e.g. lawyers, accountants), government or law enforcement authorities when required, and affiliates or third parties in business-transactions (e.g. in a merger or acquisition)."
+  },
+  {
+    "id": 6449004236,
+    "q1": "y",
+    "q2": "The MindBodyTrivia app collects user-provided details (such as name, email, contact info, profile data, and game scores), payment information, and automatically gathered data including device identifiers, IP address, location, and usage behavior.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Mind Body Trivia app shares data with trusted service providers that work on its behalf (subject to its rules), third-party ad providers (for in-app ads), and it may also disclose data when required by law, to protect safety/fraud, or to respond to government requests."
+  },
+  {
+    "id": 1157882317,
+    "q1": "y",
+    "q2": "The Hamster Force app only collects name and email address when needed for technical support, and it does not collect sensitive information like usernames or passwords.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1613079261,
+    "q1": "y",
+    "q2": "The Pluss Communities app collects personal information such as contact details (name, email, phone, postal address), app user account info (username, password), images you upload (including metadata), and any other personal information you submit via the app.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Pluss Communities app shares data with service providers and contractors that support hosting, communications, software, or marketing, with third parties when needed to fulfill its services, with government authorities when legally required, and with new entities in the event of a merger or business transfer"
+  },
+  {
+    "id": 1499411785,
+    "q1": "y",
+    "q2": "The Sol Mindfulness app collects personal and business contact information (name, email, mailing address, phone, job title), user-uploaded content (text, images, audio, video), profile data (username, photo, preferences), registration details, feedback/correspondence, demographic data (city, age, location), financial/payment info, precise geolocation (if allowed), transaction info, usage data (interaction logs, device/browser metadata), and marketing-related data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Sol Mindfulness app shares data with its affiliates, service providers performing tasks like hosting, analytics, email delivery, marketing, database management, and with Stripe as its payment processor, and may also share under legal obligation or corporate restructuring."
+  },
+  {
+    "id": 6443576801,
+    "q1": "y",
+    "q2": "The TeleWell app collects data including IP address, browser characteristics, device identifiers, operating system version, language settings, referring URLs, usage logs (e.g. how you use the service), and analytics/tracking data via cookies and web beacons.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The TeleWell app shares data with vendors and service providers such as identity verification services, payment processors, hosting and database providers, with healthcare providers using the platform, and it may also disclose data when legally required or during business transactions like mergers or asset transfers"
+  },
+  {
+    "id": 6473197423,
+    "q1": "y",
+    "q2": "The MySphere app collects personal information including names, email addresses, profile data, user content uploads, device and usage data, and analytics/tracking data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The MySphere app shares data with service providers (such as Google Firebase Cloud Storage and Google Analytics), professional advisors, authorities (courts, regulators, law enforcement when required), and corporate group companies."
+  },
+  {
+    "id": 1519501105,
+    "q1": "y",
+    "q2": "The SquashMind app collects data such as account details (username, user ID, password), contact information (email, phone), basic personal information (name, country), IP address, device data, location (city / state), and online behavior / usage data (page views, demographic and behavioral data).",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The SquashMind app shares non-personally identifiable information with its contracted companies and service providers to assist in the operation of the mobile application and services"
+  },
+  {
+    "id": 1396647655,
+    "q1": "y",
+    "q2": "The Firefly app collects personal data including your name, email address, company name, position, and any information you provide when contacting them; it also collects device, usage, and interaction data (e.g. browser, IP, cookies) for analytics and service provision.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Firefly Health app shares data with affiliates, vendors, service providers (for hosting, analytics, advertising, support, etc.), professional advisors (e.g. auditors, law firms), healthcare providers (with consent), and with successors in business transactions such as mergers or acquisitions."
+  },
+  {
+    "id": 6473814624,
+    "q1": "y",
+    "q2": "The Pathway app collects names, email addresses, payment/debit-card data, mobile device information (ID, OS, model), IP address, usage and log data, and other technical/device metadata.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Pathway (getpathway.io) app shares data with Stripe (for payment processing), and with third-party service providers under contract to support its operations, and may transfer or share data in connection with business transfers like mergers or sales."
+  },
+  {
+    "id": 6463510886,
+    "q1": "y",
+    "q2": "The CaringWire app collects personal information such as name, email, phone number, ZIP code, device and usage data via cookies and web beacons, IP address, browser type, operating system, geolocation (with consent in the mobile app), motion/accelerometer/gyroscope data, and aggregated or derived user behavior metrics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The CaringWire app shares personal data with Participating Providers, third-party providers under contract, its affiliates, third-party vendors for internal analytics and operations, public authorities when required, and potential acquirers in business transactions."
+  },
+  {
+    "id": 6479997748,
+    "q1": "y",
+    "q2": "The Rosier app collects personal data including email address, username, password, account details, content and posts (such as accomplishments, prize ideas, gifts), interactions with other users (friend lists, requests, gifts, water history), device and usage data (via Firebase, Firestore, and Google Analytics), and any information provided through communications with the app.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Rosier app shares data with third-party service providers such as Google Firebase (including Firestore and Google Analytics) for storage and analytics, as well as other providers of hosting, email, security, customer support, content delivery, and cloud services, and it may also disclose data to government authorities when legally required."
+  },
+  {
+    "id": 6472549917,
+    "q1": "y",
+    "q2": "The Thinkific app collects personal data including identity details (name, username, date of birth, gender), contact details (address, email, phone), financial and transaction information, technical and usage data (IP, browser, device, login activity), profile details (course history, preferences, feedback), and marketing communication preferences.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Thinkific app shares data with third-party service providers to support its services, with public authorities when required by law, and potentially with an acquiring company in the event of a business transaction."
+  },
+  {
+    "id": 6480014609,
+    "q1": "y",
+    "q2": "Wayhaven collects data such as name, email address, account credentials, demographic info (from users), and usage/technical data (IP, device type, browser, pages visited, interactions, cookies and beacons).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Wayhaven app shares data with affiliated companies; third-party providers (such as hosting, cloud, security, customer support, marketing, and analytics providers, including companies like Google Cloud, OpenAI, Anthropic); professional advisors and government or regulatory agencies when required by law; and with other entities in corporate transactions like mergers or acquisitions."
+  },
+  {
+    "id": 1332580637,
+    "q1": "y",
+    "q2": "The NiceDay app collects personal data including first and last name, email address, phone number, employer name; account details (password, profile picture, date of birth, residence, sex); user-entered content (feelings, diary entries, daily planner, interview notes); step/activity data via Google Fit/Apple Health; IP address, device and network usage data, 4G/WiFi data, and internet speed.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The NiceDay app shares data with IT service providers and hosting providers"
+  },
+  {
+    "id": 1523689201,
+    "q1": "y",
+    "q2": "The DreamCloud app collects personal information that you provide (such as name, address, and health/financial data), device and usage metadata (e.g. device IDs, hardware/OS info, mobile carrier data), location info when enabled, login/account credentials, cookies and pixel tracking data, and non-personal technical/analytics data (like IP addresses, browser type, site navigation).",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The DreamCloud app shares data with third-party service providers used for functions such as billing and SMS/text delivery."
+  },
+  {
+    "id": 6444658101,
+    "q1": "y",
+    "q2": "The OpenUp policy collects data such as name, email address, device & technical information (IP address, browser, OS), usage data, and other user-provided information (e.g. communications and profile info).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The OpenUp app shares personal data with external service providers (such as 24sessions, Microsoft Azure, Google, Sendgrid, ActiveCampaign, Livestorm, Voys, LiveChat, Mollie, Greenhouse, Sendbird, Pendo, Firebase) to support its platform operations, with affiliated companies, and with public authorities when legally required"
+  },
+  {
+    "id": 6475274936,
+    "q1": "y",
+    "q2": "The FlyingFishMart app collects data including user-provided personal information (account info, email, phone, feedback), device and network metadata (device model, OS, advertisement identifiers, app version), usage behavior data, location and health/sports-related data (e.g. gender, age, height, weight) when enabled, and payment verification data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The FlyingFishMart app shares data with third-party analytics providers (AppsFlyer, Bugly, Firebase), numerous advertising networks (AdColony, AdMob, AppLovin, Chartboost, Facebook, Fyber, HyBid, InMobi, IronSource, Maio, Mintegral, MyTarget, Pubmatic, Smaato, Tapjoy, Unity, Vungle, Yandex, Pangle), third-party login services (Facebook, Line, QQ, WeChat), and the push notification provider OneSignal"
+  },
+  {
+    "id": 1491792162,
+    "q1": "y",
+    "q2": "The Lucid Project (VIBE) app collects only minimal data, and does not collect or request broad personal information from users — except in cases where explicit consent or legal requirement arises, or when anonymized data is used.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1645536385,
+    "q1": "y",
+    "q2": "The OHealth Apps Studio app collects personal identification information (name, email, mailing address, phone, credit card details), non-personal technical/usage data (browser, OS, ISP, connection type), and cookies or similar tracking data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The OHealth Apps Studio app shares data only with trusted third-party service providers, such as those handling email delivery, operational support, or site maintenance, and only for specific purposes with user authorization"
+  },
+  {
+    "id": 6473900916,
+    "q1": "y",
+    "q2": "The Parenity app collects contact and account information (name, address, phone, email, username, password), order and payment data, support communications, device/technical usage data (IP, browser, device, cookies), and information from third-party sources (e.g. payment processors, site services).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Parenity app shares data with third-party vendors who help provide its services (such as payment processors, analytics, hosting), its affiliates or partnered companies, and with governmental or legal authorities when required"
+  },
+  {
+    "id": 1643932633,
+    "q1": "y",
+    "q2": "The MoodTracker app collects “Log Data” (such as IP address, device type, app activity, timestamps), user-generated content (text, images, videos), and may combine voluntarily provided personal info (e.g. email, possibly name) and usage data via services like Google Analytics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Moodtracker app shares data with third parties such as Google Analytics"
+  },
+  {
+    "id": 1312926037,
+    "q1": "y",
+    "q2": "The Stoic app collects app usage & interaction data (which pages/features you use, timing, duration), device & technical data (device type, OS, IP address, approximate location), and log data / diagnostics when errors occur.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Stoic app shares data with trusted third-party analytics service providers"
+  },
+  {
+    "id": 1569749201,
+    "q1": "y",
+    "q2": "The PeopleSpot app collects personal information such as name, address, date of birth, email, telephone, workplace, and technical data like IP address, device information, browser, language, and operating system.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The PeopleSpot app shares data with trading partners and external service providers engaged to perform services on its behalf (e.g. hosting, analytics, cloud providers), and specifically with Google Analytics for website usage tracking."
+  },
+  {
+    "id": 6476922373,
+    "q1": "y",
+    "q2": "The Jaadoo (Math for Kids) app collects automatically generated log data like device identifiers, IP address, operating system, app usage statistics, and may use third-party services (e.g. Google Analytics for Firebase, Firebase Crashlytics, Unity) for error reporting and analytics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Jaadoo app shares data with third-party services such as Google Analytics for Firebase, Firebase Crashlytics, and Unity"
+  },
+  {
+    "id": 869648628,
+    "q1": "y",
+    "q2": "The Owaves app collects health data / “special category” data (with explicit consent, e.g. when connecting to Apple Health), as well as standard personal information and device / usage / technical metadata.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Owaves app shares data with corporate affiliates, service providers (for payments, IT, sales, marketing, analytics, cloud, customer support), and other partners processing on its behalf, and may disclose aggregate/anonymized user data to collaborators or share information under legal requirement or in business transfers."
+  },
+  {
+    "id": 1421810571,
+    "q1": "y",
+    "q2": "The Pocket Mentor app collects name, email address, payment details, postcode, and uses cookies / analytics tools (e.g. Google Analytics, Facebook Pixel) for tracking and marketing purposes.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Pocket Mentor app shares data with Stripe (for payment processing) and MailChimp (for email communications) as third-party software integrations."
+  },
+  {
+    "id": 1387949872,
+    "q1": "y",
+    "q2": "The CancerDojo app collects automatically-logged data (IP, browser type, pages visited, timestamps), device metadata (device type, OS, unique identifiers, geolocation), and personal information users provide (name, email, social media profile, DOB, phone, payment info), plus business data (transaction records, user files, analytics).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The CancerDojo app shares data with third-party service providers (such as IT, data storage, web-hosting, server providers, marketing/advertising providers, payment systems operators, and maintenance or problem-solving providers), its employees/contractors/related entities, and sponsors or promoters of competitions"
+  },
+  {
+    "id": 1553723926,
+    "q1": "y",
+    "q2": "The WoundScribe app collects data including cloud/hosting and third-party service metadata, and may integrate with hospital systems like EMR/HIS.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The WoundScribe (woundscribe.ai) app shares data with third-party service providers including cloud and hosting providers, and potentially hospital system integrations like EMR/HIS."
+  },
+  {
+    "id": 6444764148,
+    "q1": "y",
+    "q2": "The Emerge & See privacy policy declares it collects personal information voluntarily provided by users—such as name, email address, phone number, mailing address, payment information, and other information you choose to submit",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1158555867,
+    "q1": "y",
+    "q2": "The Replika (embed) privacy policy states that the app collects account information, profile data, messages and content, interests/preferences, payments/transactions, device and network data, and usage data, including sensitive information users may voluntarily share in conversations.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Replika app shares data with service providers handling hosting, analytics, email delivery, and website operations; app stores and payment processors; professional advisors such as lawyers and auditors; advertising partners (but excluding conversation content); law enforcement or government authorities; and potential acquirers in business transactions"
+  },
+  {
+    "id": 6458192502,
+    "q1": "y",
+    "q2": "The “The Haven by Ashley Turner” app collects data such as name, email address, username/password, account/profile details, user-uploaded content (posts, comments, photos), and voluntary communications with the app.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Haven by Ashley Turner shares personal information with Ashley Turner, her record label, and service providers contracted to operate the site or conduct promotional and marketing activities on her behalf."
+  },
+  {
+    "id": 1589038446,
+    "q1": "y",
+    "q2": "The Eating Disorder Recovery app privacy policy states that it may collect limited personal information such as an Apple ID or other details when registering or ordering, but does not collect names, email addresses, credit card numbers, or sensitive data; it primarily uses Google AdSense and cookies for advertising and analytics, without selling or sharing data with third parties.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1634039293,
+    "q1": "y",
+    "q2": "The Atom app collects data including account info (email, username, password), profile/activity and usage information (dates/times, nearest city geolocation), and device/technical metadata such as device and app usage details.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Atom app shares data with third-party analytics providers (e.g. Amplitude) as well as other external service providers used to support its operations."
+  },
+  {
+    "id": 6468129359,
+    "q1": "y",
+    "q2": "On Wellbeing’s privacy policy declares that it collects personal information such as name, email address, workplace, and telephone number.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1518205206,
+    "q1": "y",
+    "q2": "The Complete Coherence privacy policy states that it collects data including identity data (name, username), contact data (email, phone, address), financial data (bank account details), transaction data, technical data (IP, browser, device, OS), profile data (preferences, feedback), usage data, and marketing & communication preferences.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Complete Coherence privacy policy states that it may share your personal data with external third parties including service providers (e.g. marketing agents like Prospect Global / Sopro, technical/payment providers), and in the event of a business sale or merger."
+  },
+  {
+    "id": 1582815027,
+    "q1": "y",
+    "q2": "Coach Bobby’s privacy policy states that the app collects personal information you provide (such as name, phone number, email address, debit/credit card details), along with mobile device data (like device ID, model, OS, IP address, and carrier).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Coach Bobby shares personal information with payment processors (Stripe, PayPal), contracted service providers, government authorities when required by law, and potential business transfer partners."
+  },
+  {
+    "id": 6472705015,
+    "q1": "y",
+    "q2": "The Gracefill app collects data such as account information (name, email, username), user-generated content (posts, messages), and automatically collected technical/usage metadata (device info, IP address, browser, cookies).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Gracefill shares personal information with service providers, payment processors, marketing partners, and government or law enforcement authorities when required by law."
+  },
+  {
+    "id": 6462189608,
+    "q1": "y",
+    "q2": "MetPsy collects data including personal identifiers (name, email, phone, residence), health and wellness information (diet, weight, diagnoses, medication, symptoms), survey and wearable data (activity, sleep, glucose), communication content (chat logs), device and network metadata, browser and usage behavior (pages viewed, clicks), cookies/tracking data, and information from connected third-party services (e.g. Apple Health, Oura, Google Fit).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "MetPsy shares user data with vendors, service providers, contractors, consultants, advertising partners, professional advisors, legal authorities, affiliates, and counterparties in corporate transactions such as mergers or acquisitions."
+  },
+  {
+    "id": 1505323328,
+    "q1": "y",
+    "q2": "The Uptime app’s privacy policy states that it collects name, phone number, and/or email address, as well as network, service, usage, log, and location metadata like IP address, browser details, device identifiers, and cookies.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Uptime app shares data with analytics, communication, database, authentication, marketing, content delivery, testing, cloud infrastructure and other cloud service providers; it may also share cumulative usage and registration data with a company providing a bulk-subscription offer."
+  },
+  {
+    "id": 6502472827,
+    "q1": "y",
+    "q2": "We may share your personal information with our subsidiaries and affiliates, contractors, service providers, vendors, business partners, professional advisors such as lawyers and accountants, third party advertising partners who may use data to serve ads and provide analytics, and third party vendors who may offer you additional services and products; we may also disclose information in the event of a corporate transaction or when required by law or to protect rights and prevent fraud.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app does not sell personal information but may share it with company affiliates, service providers, potential buyers or successors, professional advisors, advertising partners, third-party vendors, or disclose it when required by law or necessary to protect rights and safety."
+  },
+  {
+    "id": 1547099008,
+    "q1": "y",
+    "q2": "We may disclose personal information to our subsidiaries and affiliates, third-party service providers including IT providers, data storage and analytics vendors, error loggers, marketing providers, payment systems, business partners, professional advisors, courts, regulatory authorities, and any entity that acquires our business; current third parties include Google Analytics, Mixpanel, Firebase, and SendGrid.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with affiliates, service providers (such as Google Analytics, Mixpanel, Firebase, and SendGrid), employees, business partners, legal authorities when required, debt collectors if payments fail, and potential buyers during business transfers."
+  },
+  {
+    "id": 1669683359,
+    "q1": "y",
+    "q2": "The data we collect may be shared with our group companies or affiliates for proper administration, with our employees, agents, and professional advisors for obtaining advice, with third-party service providers who process personal data on our behalf to ensure the website runs smoothly, with third-party payment providers such as Apple and Google Pay to facilitate payment processing, and with relevant authorities for crime detection or tax collection purposes, all in accordance with this privacy policy.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with affiliates, employees, advisors, service providers, payment processors like Apple and Google Pay, and legal authorities when necessary."
+  },
+  {
+    "id": 1667268266,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, and payment information; information about your child including their name, age, and location if you create an App account; and technical information such as your IP address, browsing activity, and data collected through cookies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares your information only with trusted third-party service providers to help deliver, improve, protect, or promote its services, and may also disclose it when required for fraud prevention, safety, or legal compliance."
+  },
+  {
+    "id": 1563184080,
+    "q1": "y",
+    "q2": "This website collects personal information like your email address and device information; data you provide when using its software, including your content and access logs; and technical information such as your IP address, crash reports, and details about your operating system and application version.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We don’t share personal information with anyone outside of Company, except for a few exceptions such as companies that provide information processing services including hosting our website and support portal, providing help desk software, sending newsletters, analyzing website traffic, hosting cloud services, managing app beta testing, and processing app crash reports; these companies are obligated to protect your information under data protection law and are only allowed to use the data as instructed by us; we may also share personal information when reasonably necessary to comply with laws, enforce terms of service, detect or prevent fraud or security issues, or protect rights, property, or safety; additionally, if Company is involved in a merger, reorganization, or sale, the information may be transferred as part of that transaction."
+  },
+  {
+    "id": 6504496581,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, date of birth, gender, occupation history, and financial data; technical information such as your IP address, device details, and browsing activity; and precise geolocation data along with any content you submit through the app.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The Company may share your personal information with subsidiaries and affiliates within its corporate family, contractors, service providers, vendors, business partners, and professional advisors such as lawyers and consultants when reasonably necessary. It may also disclose information to a buyer or successor in case of a merger or sale, to third-party advertising partners for ad serving and analytics, and to third-party vendors for additional services and products. Additionally, disclosures may be made to comply with legal requirements, protect rights, prevent harm, and enforce agreements. Aggregated and non-identifying information may be shared with business partners and other third parties for lawful purposes."
+  },
+  {
+    "id": 1607980507,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, email address, phone number, and location data; technical information such as your IP address, device identifiers, and browsing activity; and other details including age, gender, and payment information when you use its services.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with the following third-party service providers to support our operations: Google Analytics for website traffic analysis, GitHub and Fastlane for development and continuous delivery, advertising partners like Google AdSense, AdMob, Twitter, Facebook, and Pinterest for remarketing and ads, and payment processors including PayPal/Braintree, Apple, Stripe, Plaid, and Square for handling transactions."
+  },
+  {
+    "id": 1644747151,
+    "q1": "y",
+    "q2": "This website collects personal information like your name and email address, and technical information such as your IP address, device identifiers, browsing activity, and usage data through cookies and similar tracking technologies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with Service Providers to monitor and analyze service usage, with Affiliates and business partners for operational and promotional purposes, and may disclose information in business transfers like mergers or asset sales. Additionally, personal information may be shared with other users in public interactions and with third parties as legally required."
+  },
+  {
+    "id": 6467943003,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, and payment information; technical information such as your IP address, device identifiers, and browsing activity; and usage data including your interactions with the Service through analytics and tracking technologies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with Service Providers for analytics and payment processing, with Affiliates and business partners for operational and promotional purposes, and may disclose information in business transfers like mergers or asset sales. Additionally, personal information may be shared with other users in public interactions and with third-party vendors as authorized by you or your agents."
+  },
+  {
+    "id": 6443794589,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, and payment information; technical information such as your IP address, device identifiers, and browsing activity; and usage data through analytics and tracking technologies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for operational support, with affiliated companies, and as required for legal compliance or business transfers such as mergers. Additionally, aggregated or de-identified information may be disclosed to third parties for research, marketing, and analytical purposes"
+  },
+  {
+    "id": 6469035694,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, and professional information; sensitive health data including therapy details and client notes; payment information processed through Stripe; and technical information such as your IP address and usage data through cookies and analytics tools",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with third-party service providers including SiteGround for website hosting, Stripe for payment processing, Mailchimp for email marketing, and analytics providers like HotJar and Google Analytics, all under strict confidentiality agreements to support our platform's functionality and service delivery."
+  },
+  {
+    "id": 1517360968,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, email address, and date of birth; sensitive health data including your feelings, mental well-being, pulse, and heart rate; and technical information such as your IP address, device information, and usage data through cookies and analytics tools",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Based on the provided privacy policy, the company states that it does not directly collect or store sensitive payment data, as this information is handled by third-party payment processors like Apple and Google. However, these processors may share non-sensitive purchase information with the company. Furthermore, regarding its AI feature powered by OpenAI, the policy specifies that it will not transfer any personally identifiable data from user conversations to OpenAI, unless the user voluntarily includes such information within their chats.\n\n"
+  },
+  {
+    "id": 1539382364,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, email address, and profile details; usage data including your listening history and interactions with the platform; device information such as IP address and unique identifiers; and any content you generate, including voice messages and comments shared through the application.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with advertising partners like AppLovin, AdColony, TikTok, and Chartboost; analytics providers such as Adjust; payment processors including Apple, Google, and Solid; cloud hosting services like Amazon Web Services and Hetzner; and other service providers for customer support, AI features, and infrastructure, all under contractual agreements to support service delivery and operations."
+  },
+  {
+    "id": 1519041530,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, email address, and date of birth; usage data including pages viewed and device information; and analytical information such as browser type and mobile operating system when you use their services",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers like Stripe and PayPal for payment processing, advertising partners for interest-based ads, analytics providers such as Google Analytics, and business partners for co-sponsored events, all under contractual agreements to support platform operations, marketing, and service delivery."
+  },
+  {
+    "id": 1525390977,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, email address, and date of birth; payment information when you make purchases; usage data including your browsing activity and device information; and any content you submit through the platform, including communications with coaches and other users",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with third-party service providers who work on our behalf to deliver products or services, and may disclose information as required to respond to legal processes like subpoenas or court orders, ensuring these parties only receive the minimum necessary information to perform their functions."
+  },
+  {
+    "id": 6483863173,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, and job title; technical information such as your IP address, device data, and location information; and usage data including browsing history and interactions with their services through cookies and tracking technologies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for technology infrastructure and payment processing, with third-party advertising partners for personalized marketing, among coaches and participants as part of our services, and as required for legal compliance or business transactions, ensuring these parties protect your information in line with our privacy standards."
+  },
+  {
+    "id": 1549845703,
+    "q1": "y",
+    "q2": "This website collects personal information like your email address for verification purposes; tracking information including your IP address and device ID; and usage data such as browsing behavior and pages viewed for analytics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers under written contracts for business operations, with affiliates and business partners for joint offerings, and as required by law for legal compliance or business transfers, ensuring these parties protect your information according to our privacy standards."
+  },
+  {
+    "id": 1492803107,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, email address, gender, and date of birth; health data and ethnicity data with your explicit consent; usage data including IP address and browsing behavior; and transaction data related to your purchases through their platform",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with marketplace suppliers when you order goods/services, with your employer regarding expenditure (for tax purposes), and with service providers like Google Analytics and HubSpot for analytics, all under contractual agreements to support service delivery and operations."
+  },
+  {
+    "id": 1606376184,
+    "q1": "y",
+    "q2": "This website collects personal information like your name, contact details, and payment information; sensitive health data including mental health information and medical history with your explicit consent; and technical data such as your IP address, device information, and usage patterns through cookies and analytics tools",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with counselors you book appointments with, service providers for IT and payment processing, regulatory authorities when legally required, and business partners for joint marketing (with your consent), ensuring all third parties protect your information under contractual obligations and in compliance with applicable laws."
+  },
+  {
+    "id": 1155742410,
+    "q1": "y",
+    "q2": "This website collects no personal information from users but uses third-party services including Google Firebase Analytics for app improvement, Crashlytics for crash reporting, and Google AdMob for personalized advertisements, which may collect technical data and device identifiers",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with third-party analytics providers like Google Firebase Analytics and Crashlytics for app performance analysis, and with Google Admob for displaying personalized advertisements, all in accordance with their respective privacy policies to support app functionality and improvement."
+  },
+  {
+    "id": 1639682531,
+    "q1": "y",
+    "q2": "this website processes various types of personal data including inventory data (e.g., names, addresses), payment data, contact data, content data (e.g., text input, photos, videos), contract data, usage data (e.g., visited websites, access times), and meta/communication data (e.g., device information, IP addresses) for purposes such as providing contractual services, customer support, contact requests, security measures, direct marketing, web analytics, managing inquiries, feedback, marketing, creating user profiles, and authentication processes.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for web hosting and analytics, with social media platforms for marketing and communication, and with app stores for application distribution, all under contractual agreements to support our online services and business operations."
+  },
+  {
+    "id": 6448851631,
+    "q1": "y",
+    "q2": "This app processes personal data including your IP address, device information, email address, user-generated content, and network access data for purposes such as app functionality, user authentication, personalized experience across devices, push notifications, and analytics using services like Google Firebase and Google Analytics",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers like Google Firebase for authentication and analytics, with app stores for distribution, and may disclose information to legal authorities when required by law, all under contractual agreements to support app functionality and operations."
+  },
+  {
+    "id": 1671440901,
+    "q1": "y",
+    "q2": "This app collects your email address and usage data such as your IP address, device identifiers, browser type, and interaction with the service for purposes including providing and maintaining the app, managing your account, communication, marketing, analytics via Google Analytics and Firebase, and processing payments through third-party providers",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for analytics and payment processing, with business partners for joint offerings, and as required by law for legal compliance or business transfers, ensuring these parties protect your information under contractual agreements and in accordance with our privacy standards."
+  },
+  {
+    "id": 6502622339,
+    "q1": "y",
+    "q2": "this app collects your full name, date of birth, and highly sensitive data that you input about your energy, emotions, and menstrual cycle, as well as usage data and behavior while using the app, for the purposes of providing its tracking service, conducting internal research to uncover patterns, and improving its application.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for operational support, with research partners in anonymized form for studies, and as required by law for legal compliance or business transfers, ensuring these parties protect your information under contractual agreements and applicable privacy standards."
+  },
+  {
+    "id": 1593075782,
+    "q1": "y",
+    "q2": "this website collects your personal information including your name, address, phone number, email, order and payment details, account credentials, shopping behavior, and usage data through cookies for the purposes of processing your purchases, providing customer support, marketing and advertising, and improving the security and functionality of its services.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for payment processing and analytics, with other users when you make public posts, and as required by law for legal compliance or business transfers, ensuring these parties protect your information under contractual obligations and in accordance with our privacy standards."
+  },
+  {
+    "id": 913335252,
+    "q1": "y",
+    "q2": "Based on its privacy policy, Brilliant.org collects your personal information including your name, email address, date of birth, school, IP address, and optional details such as your mailing address, phone number, education history, and general location, as well as usage data like browsing history and transaction information, for the purposes of providing and improving its educational services, personalizing your experience, processing payments, and communicating with you",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for payment processing and analytics, with other users when you make public posts, and as required by law for legal compliance or business transfers, ensuring these parties protect your information under contractual obligations and in accordance with our privacy standards."
+  },
+  {
+    "id": 1518619206,
+    "q1": "y",
+    "q2": "Based on its privacy policy, LIFE Intelligence collects your name, email address, password, company, payment information, and usage data such as the screens you access, transactional details, device information, and approximate location derived from your IP address, but explicitly states it does not access, copy, or retain any of the personal writing or journal entries you create within the app, which are stored locally on your device",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with service providers for operational support like email delivery and payment processing, with affiliated companies under common ownership, and as required by law for legal compliance or business transfers, ensuring these parties protect your information under contractual obligations and in accordance with our privacy standards."
+  },
+  {
+    "id": 1539285742,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this service collects your personal information including log data such as your IP address and device identifiers, usage information about the app features you access, approximate location derived from your IP address, and information stored on your device via operating system permissions, for purposes including providing and improving the service, customer support, marketing, security, and personalizing your user experience",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share data with subsidiaries and independent contractors for service provision, with third-party vendors for analytics and operational support, and as required by law for legal compliance or business transfers, ensuring these parties protect your information under contractual obligations and in accordance with our privacy standards."
+  },
+  {
+    "id": 1063248233,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this website collects your personal data including your full name, position, company name, email address, phone number, login information, IP address, and information collected via cookies and similar tracking technologies for purposes such as business correspondence, providing services, internal analytics, direct marketing with your consent, and handling complaints",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We collect information such as your browser type, IP address, device identifiers, language preference, referring site, usage data, approximate location, stored device information, and data from cookies and pixel tags."
+  },
+  {
+    "id": 6475366694,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this platform collects your personal information including your name, gender, email address, mailing address, billing address, telephone number, date of birth, insurance information, payment method, and automatically collects technical data such as your IP address, device information, browsing behavior, and usage patterns through cookies and web beacons for purposes including providing services, personalizing content, sending marketing communications, conducting analytics, and delivering interest-based advertising",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The privacy policy states that data is shared with third parties including service providers, marketing partners, business-to-business partners, clients, advertisers, and other third parties who may contact users with their own offers. It specifically mentions sharing with third-party advertising companies for interest-based advertising across the internet. Additionally, non-personally identifiable information, including aggregated or de-identified data, may be provided to other parties for marketing, advertising, or other uses. The policy also notes that personal information may be disclosed to related companies and service providers who perform business, professional, or technical support services."
+  },
+  {
+    "id": 1373639965,
+    "q1": "y",
+    "q2": "Based on its privacy policy, the Monsenso solution collects personal data including identity information (name, address, email, age, gender), technical data (IP address, device information, usage data), and sensitive health information such as self-reported symptoms, diagnosis, medication, behavioral data (location, phone usage, sensor data), and communication data between users for the purpose of providing mental health treatment support and enabling data sharing between patients, caregivers, and clinicians",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The privacy policy states that personal data is not sold, leased, transferred, shared, or otherwise accessed by any third parties other than Monsenso, who processes the data. In the Individual Scenario, data is only shared with other users (Carers, Care Providers, or other Individuals) to the extent explicitly instructed by the user, allowing them to connect and share their profile with chosen individuals."
+  },
+  {
+    "id": 6464433358,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this meditation app collects your personal data including your first and last name, usage data such as your IP address, device identifiers, browser type, and mobile device information, as well as tracking data through cookies for purposes including providing and maintaining the service, customer support, analytics, service improvement, technical issue prevention, and marketing communications about similar products and services",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The privacy policy states that data is shared with third-party service providers to facilitate and improve the service. These include analytics providers like Google Firebase, development tools like GitHub, and payment processors such as Apple, Google, and Stripe. These third parties have access to personal data only to perform specific tasks on the company's behalf and are obligated not to disclose or use it for other purposes"
+  },
+  {
+    "id": 1535212066,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this breathwork platform collects your personal data including your email address, first and last name, usage data such as your IP address, device identifiers, browser information, mobile device details, and images/testimonials you provide for promotional purposes, which is used to provide and maintain the service, manage your account, process payments, send marketing communications, and conduct analytics through third-party services like Firebase.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The privacy policy states that user data is shared with service providers for purposes such as monitoring and analyzing service usage, showing advertisements, contacting users, advertising on third-party websites, and payment processing. Specific third parties mentioned include analytics providers like Google Firebase, advertising platforms like Google Ads, Twitter, and Facebook, and payment processors such as Apple, Google Play, Stripe, PayPal, and Square."
+  },
+  {
+    "id": 1576425396,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this platform collects your personal information including your name, email address, username, password, birthday, payment data through Stripe and PayPal, social media login details, and automatically collects technical information such as your IP address, device characteristics, location data, and usage information for purposes including account creation, service delivery, marketing communications, targeted advertising, and analytics",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The privacy policy states that user data is shared with third-party vendors, service providers, contractors, or agents who perform services such as payment processing, data analysis, email delivery, hosting services, customer service, and marketing efforts. Specific third parties mentioned include payment processors like Stripe and PayPal, as well as other service providers that use tracking technology to analyze user"
+  },
+  {
+    "id": 1490544446,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this service collects your personal information including your email address, name, gender, date of birth, height, weight, mental fitness goals, and health data from your mobile or wearable devices such as ECG, heart rate, heart rate variability, movement data, sleep patterns, and nutritional information, which is used to provide personalized mindfulness services, improve user experience, deliver targeted marketing, and for scientific research purposes",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Mindwell collects data such as your name, email, password, gender, date of birth, height, weight, health and fitness goals, focus, breathing, heart rate, sleep, nutrition, device sensor data (e.g., ECG, accelerometer), location, IP address, device identifiers, browser type, and usage logs."
+  },
+  {
+    "id": 6480124934,
+    "q1": "y",
+    "q2": "Based on its general privacy notice, this company processes personal data including contact details, IP addresses, and other information disclosed by individuals for purposes such as managing business relationships, recruitment, communications, and website operations, using legal bases such as contract performance, legitimate interests, and consent for cookies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Brella collects personal data such as contact details, IP addresses, and other data disclosed by data subjects, including data shared through LinkedIn or cookies."
+  },
+  {
+    "id": 6454837552,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this mental wellness app collects your personal information including account details such as username and password, contact information like email address, basic personal information such as name and country of residence, and any content you submit through the app, which is used to create and manage user accounts, operate the mobile application and services, and process payments through third-party payment processors",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share your Personal Information with third-party service providers such as payment processors, data analytics providers, and social media platforms to operate the Mobile Application and Services, process payments, and conduct analytics. Additionally, we may share information with our affiliates and marketing partners, but we do not share personally identifiable information with unaffiliated third parties for their own marketing purposes"
+  },
+  {
+    "id": 1463607627,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this pharmaceutical company collects personal information including contact details, health and medical data, professional information from healthcare providers, employment data, and technical information through cookies and tracking technologies for purposes such as providing requested services, marketing communications, research and development, regulatory compliance, and targeted advertising",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share your Personal Information with service providers for operational purposes such as IT support and payment processing, with business partners for jointly offered products or services, and with government entities as required by law. We may also disclose information to non-affiliated parties in connection with business transactions like mergers, and for legal purposes such as enforcing our policies or preventing illegal activities."
+  },
+  {
+    "id": 1489944782,
+    "q1": "y",
+    "q2": "Based on its privacy policy, this heart rate monitoring app collects your personal details including gender, age, weight, height, heart rate measurements, blood pressure, oxygen saturation readings, physical activity data, and lifestyle information that you voluntarily input, along with device identifiers and technical data through automatic processing technologies for purposes such as providing the app's core functionality, improving services, delivering interest-based advertising, and communicating with users about their inquiries and subscriptions",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Brella collects personal data including contact details, IP addresses, and other data disclosed by data subjects, such as information shared via LinkedIn or gathered through cookies."
+  },
+  {
+    "id": 1412024302,
+    "q1": "y",
+    "q2": "This website collects various types of information you provide directly, such as your account details (name, email, password, and optionally date of birth, gender, profile photo, and biography), payment information processed by third parties, and any additional information you submit like health-related details or friend contacts. It also automatically collects data from your use of the Services, including device and geolocation information, usage patterns, IP addresses, browser type, and cookie data. Furthermore, it may receive information from third-party services you connect (like Facebook or Twitter), partners who offer CogniFit services, and through your interactions with links and ads",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share your information with service providers and partners globally for development, maintenance, customer support, IT, payments, analytics, and marketing purposes. Specifically, we work with payment processors including FastSpring, PayPal, Stripe, Apple, and Google for payment handling; we also share data with analytics and advertising partners to understand user interactions and serve ads across the internet. Additionally, we may disclose information to healthcare providers, employers, educational institutions, and other partners that offer CogniFit services to their users, and we share information with corporate affiliates in the event of mergers or acquisitions"
+  },
+  {
+    "id": 6478638483,
+    "q1": "y",
+    "q2": "Based on its privacy policy, the Xumbers website collects limited personal information you voluntarily provide, such as your username and email address when you contact them, and it also automatically collects usage information through cookies and similar technologies, which includes your IP address, browser type, device information, and details about your visit like the pages you access and the length of your stay.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "We share your personal information with trusted Internal Support Services Partners who help us provide and maintain the Website and The Xumbers Software, and we may disclose information to lawyers, law enforcement agents, or government agencies when required by law or to prevent fraud or illegal activity. Additionally, App Stores may receive your Personal Information when you download The Xumbers Software, and in the event of a corporate restructuring, your user information may be transferred to a new entity."
+  },
+  {
+    "id": 1465984722,
+    "q1": "y",
+    "q2": "Based on its privacy policy, the CheckingIn website and apps collect personal information you provide directly, such as your name, contact details, and account information when you sign up, and they also automatically collect usage data through cookies and similar technologies, which includes your IP address, device type, operating system, and details about your interactions with their services, such as which features you use and how you navigate their platforms",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "the app shares data with third-party service providers, Google Firebase for analytics, business partners, legal authorities when required, and may transfer data during business transactions."
+  },
+  {
+    "id": 1580933137,
+    "q1": "y",
+    "q2": "the app collects personal data including account/store info (username, email, customer number, payment info, device ID), technical/usage data (IP address, timestamps, OS, language, request details), device access data (camera, sensors, photos), user-entered/account data, location (via public IP), and health/activity data from wearables and manual inputs.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares/uses data with third parties including Apple App Store/Google Play (download metadata), Amazon Web Services (hosting), AppsFlyer (analytics), Firebase Cloud Messaging (notifications), YouTube (video), Sentry (error monitoring), Terra (wearable integrations), PostHog (analytics), Mailchimp (email marketing), RevenueCat (subscriptions), OpenAI APIs (AI features), and Apple/Google for single sign-on (with possible transfers outside the EEA under DPF/SCCs)."
+  },
+  {
+    "id": 1603796306,
+    "q1": "y",
+    "q2": "the app collects personal data you provide (name, email, mobile number for OTP, country/state, payment info) and automatic/analytics data (IP address, cookies, device/browser identifiers, MAC/mobile device IDs, pages/URLs viewed, usage and purchase history).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with third parties such as Stripe (payments), Google Analytics, email platforms (e.g., MailChimp, Klaviyo), and other service providers for marketing/data analysis, and may also disclose data for legal compliance or business transfers"
+  },
+  {
+    "id": 6475717895,
+    "q1": "y",
+    "q2": "it collects name, surname, email, phone (if you contact them), order/in-app purchase info, age group and gender (if answered), survey/test responses, game scores/performance, device and app data (IP, device name/OS/version, visit/time data, token ID, in-app purchase history), and mobile identifiers (IDFA/IDVF)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares/transfers data to third parties such as embedded service providers (Facebook SDK, Adjust, Firebase Analytics), cloud/storage/CRM and other processors (including abroad), and to authorized public institutions when required by law."
+  },
+  {
+    "id": 6447466531,
+    "q1": "y",
+    "q2": "the app collects personal data such as names, email addresses, passwords, plus application data (push notifications permission, device/app usage) and other data you voluntarily provide.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with service providers under contract, and may transfer or disclose data in business mergers or legal compliance, but states it has not sold or shared personal information to third parties for commercial purposes in the past 12 months."
+  },
+  {
+    "id": 1019230398,
+    "q1": "y",
+    "q2": "it collects identifiers (name, email, IP, device IDs like IDFA/AdvertisingID/Adjust ID), personal records, usage/network data, geolocation, sensory data, commercial/purchase info, and optional habit/health/mood/sleep/exercise data (some stored locally, e.g., Apple Health/Face Tracking), plus payment and location info",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with third parties for operations and personalized ads (e.g., Google/Firebase/Google Ads, Facebook/Meta, Pinterest, Snapchat), with advisors or new owners in corporate transactions, and with public authorities as required by law"
+  },
+  {
+    "id": 1524333909,
+    "q1": "y",
+    "q2": "it collects personal info (name, address, phone, email, demographics, payment/billing), profile details (including appearance), service-request details, reviews and communications, referral contacts, device/usage and tracking data (IP, cookies/pixels/logs/metadata), and phone numbers for SMS authentication",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with Advisors, its payment processor Stripe, third-party vendors (e.g., data storage, database, video, Google Analytics, ActiveCampaign), third-party advertisers/tracking tools, and may disclose for legal compliance or business transfers"
+  },
+  {
+    "id": 1601915333,
+    "q1": "y",
+    "q2": "it collects info you provide and about your use, including name/contact details (and Facebook account/friends if linked), records of communications, usage data and social interactions, device/IP info (model/OS/screen size), cookies and ad identifiers (IDFA/Android Ad ID), push notification token, unique device ID, and limited payment details via processors.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data as needed with group companies/suppliers (e.g., payment processors), social networks/platforms you connect to, fraud-prevention agencies or authorities when required, and parties involved in legal compliance or corporate transactions (sale/merger/restructuring)."
+  },
+  {
+    "id": 6456222443,
+    "q1": "y",
+    "q2": "the app collects personal data you provide (such as name, email, account info, and social login details), usage details, device data, IP address, cookies, advertising IDs, interactions, and limited payment info through processors",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with group companies, service providers (e.g., payment processors), social platforms you connect, fraud prevention or legal authorities, and parties involved in business transfers or restructuring"
+  },
+  {
+    "id": 1291472331,
+    "q1": "y",
+    "q2": "Ascend collects data you provide and it gathers automatically, including contact and account identifiers, commercial/financial info, sensory data (e.g., video/voice/voiceprints), demographics, geolocation, professional and educational records, protected classifications, inferences, device/online identifiers, and network activity",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Ascend shares data with affiliates, service providers, researchers, your employer/educational institution and oversight bodies, social networks, law enforcement/regulators, and parties in business transactions, and it may “sell/share” online identifiers, internet activity, demographics, and inference data with advertisers/ad networks for targeted advertising"
+  },
+  {
+    "id": 1460599496,
+    "q1": "y",
+    "q2": "it collects personal details (like name, email, address, phone, and payment info), device and browser identifiers (IP, cookies, advertising IDs), usage data, interactions, and other information provided through registration, communication, or use of the services",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with affiliates, service providers (e.g., payment processors, analytics tools like Google Analytics, customer service and fulfillment partners), legal authorities, transaction-related partners, and third parties involved in mergers or corporate changes"
+  },
+  {
+    "id": 1218240628,
+    "q1": "y",
+    "q2": "Onourem collects personal data such as email address, first and last name, usage data, device and mobile identifiers/IP, cookies, data from Facebook login (name, profile photo, email), and—if permitted—photos/camera (and optional location) information",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with Service Providers (e.g., analytics, support, advertising, payment processors), affiliates, business partners, other users/public areas, educational institutions (for certain student wellness subscriptions), and in cases of business transfers or legal requirements"
+  },
+  {
+    "id": 6478505634,
+    "q1": "y",
+    "q2": "It collects automatically logged/device/usage/cookie data (including location with consent), user-provided info (contact/profile details, payment via Stripe, support messages, uploads, chats), extensive health/special-category data (e.g., heart rate, HRV, sleep, body composition, glucose, BP), and data from connected services (Apple Health, Google Fit/Health Connect, fitness trackers, YouTube/Vimeo).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with coaches (if you’re a client) and essential service providers—Stripe (payments), AWS (hosting), SendGrid (messaging), GetStream (chat), BunnyCDN (content delivery), YouTube/Vimeo (video), Apple Health/Google Fit (sync)—and, when applicable, legal/regulatory authorities, successor entities (mergers/acquisitions), and other third-party integrations with your consent."
+  },
+  {
+    "id": 1500085577,
+    "q1": "y",
+    "q2": "It collects device information (IP address, device IDs, cookies, logs, real-time location, usage/traffic data) and “order”/personal information (name, billing/shipping address, email, phone), and may receive your name and email via Facebook Connect.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with third parties including Facebook (Facebook Connect), Twilio (invite friends), Google/Google Analytics/Firebase and ad partners, app stores (e.g., Apple App Store processes download/payment data), payment processors and other service providers, and it may disclose to legal/regulatory authorities or a successor in a merger"
+  },
+  {
+    "id": 6474274341,
+    "q1": "y",
+    "q2": "it collects personal data you provide (nickname, email, language preferences, communications, marketing preferences) and non-identifiable analytics/device data via third-party tools like Google Analytics for Firebase and Crashlytics, and may sync Apple Health data with permission",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with third-party service providers for facilitating the service, analytics, research, advertising, marketing communications, and legal compliance, including services like Google Firebase"
+  },
+  {
+    "id": 1478859313,
+    "q1": "y",
+    "q2": "it collects information you provide (like name, email, support messages), data gathered automatically (device details, app usage, ads/interactions, photos/files access, camera/mic, Wi-Fi, device ID, location), game/account progress, and data from third-party tools like Facebook/Google/Twitter",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with service providers (employees, contractors, affiliates handling operations, analytics, marketing, consulting), advertising and analytics partners, third-party linked services, and may disclose to legal/government authorities or enforce rights if required"
+  },
+  {
+    "id": 1660935129,
+    "q1": "y",
+    "q2": "POYM collects both voluntarily provided information (like name, address, date of birth, email, payment details, and user-generated content) and automatically collected data (IP address, device type, version, activity logs, error reports, and usage data)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "POYM shares data with third parties such as service providers (IT, hosting, analytics, payment operators like Google Analytics, Amplitude, Firebase), employees/contractors, affiliates, business partners, regulators, courts, and potential acquirers of the business"
+  },
+  {
+    "id": 6502851494,
+    "q1": "y",
+    "q2": "It collects Personal Information (name, phone, address, email, payment info) and Non-Personal/Device data (IP address, browser/device details, usage, sites visited before/after), may collect geolocation and push-notification identifiers, and can receive data from connected social networks",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with service providers (e.g., hosting/operational vendors), authorized third parties you connect, government or law-enforcement when required, and third parties in corporate transactions (merger/sale/transfer)"
+  },
+  {
+    "id": 1552340992,
+    "q1": "y",
+    "q2": "The Blazer Application collects personal identifiers (name, phone number, email, password, location), demographic data from surveys (age, gender, religion, ethnicity, relationship status), feedback information, social media interactions, and automatically collected data (device IDs, advertising IDs, usage, GPS location, cookies/SDKs)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with service providers (Google Cloud, Firebase, Mixpanel, analytics, ads, surveys, infrastructure, customer service), third-party advertisers across industries (healthcare, retail, wellness, education, beauty, tech, etc.), social media/third-party platforms you connect, and may disclose to legal authorities or in corporate transactions"
+  },
+  {
+    "id": 528285610,
+    "q1": "y",
+    "q2": "CogniFit collects account and profile details (name, email, password, date of birth/gender, photo, bio, nationality, location, profession), health-related information and cognitive/activity results, messages and contacts you invite, payment details (processed by FastSpring/PayPal/Stripe or Apple/Google), device and geolocation data (IP, device identifiers, cookies), usage/network activity, and data from connected services and partners",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with other users you connect to, linked third-party services (e.g., Facebook/Twitter), service providers and corporate affiliates (including named payment processors FastSpring, PayPal, Stripe, Apple, Google, plus analytics/advertising partners), organizational partners offering CogniFit (e.g., healthcare providers, employers, insurers, schools, research facilities), and may disclose to authorities or in mergers"
+  },
+  {
+    "id": 903930751,
+    "q1": "y",
+    "q2": "Ascend collects contact/account identifiers, commercial/financial data, sensory data (video/voice/voiceprints), demographic info, geolocation, professional/employment and educational records, protected classifications, inferences, and device/online identifiers and internet activity via cookies",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Data may be shared with Ascend affiliates/brands, researchers, your employer or educational institution and oversight/accreditation bodies, social networks and advertising/analytics partners (e.g., Google/Facebook/ad networks), service providers (hosting, payments, identity, test delivery), law enforcement/regulators, and parties in business transactions, and it may “sell/share” online identifiers for targeted advertising"
+  },
+  {
+    "id": 1490281801,
+    "q1": "y",
+    "q2": "It collects your game scores plus basic demographics (age, ethnicity, gender, country, native language), optional mental-health history, and questionnaire responses about mood/behavior/feelings (no passive GPS data)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "They may make anonymous data available to other parties such as academic researchers at other institutions and state they will never sell your data"
+  },
+  {
+    "id": 6471280965,
+    "q1": "y",
+    "q2": "Brella collects personal data such as contact details (name, email, phone), IP addresses, and other data you disclose (e.g., via LinkedIn or cookies) for business relationships, recruiting, communications, and website control",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Brella may share data with third-party service providers (e.g., data storage and communications providers) and, if necessary, transfer data outside the EU/EEA with safeguards such as standard contractual clauses"
+  },
+  {
+    "id": 6478650062,
+    "q1": "y",
+    "q2": "Joysmore collects personal data (e.g., email, IP/device identifiers, usage data, in-app activity, and—if you grant permission—camera images). It also uses analytics, advertising, and remarketing tools.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Joysmore shares data with service providers, affiliates, and business partners; may transfer data internationally; and, under CCPA/CPRA definitions, may “sell” or “share” certain identifiers/usage data for targeted advertising (opt-out available). You can request access/correction/deletion and limit use of sensitive data via the contacts and in-app/website controls provided."
+  },
+  {
+    "id": 1436471710,
+    "q1": "y",
+    "q2": "Neeuro collects account and contact details (name, email, password, gender, birth date, education, address), payment information, usage logs/cookies, and EEG data (raw recordings, scores, performance) generated when using its products.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data only with authorized third-party service providers (e.g., payment processors, package delivery, online support) under confidentiality, and warns that data shared via external links or social media features may go to those third parties under their own privacy polic"
+  },
+  {
+    "id": 6471412523,
+    "q1": "y",
+    "q2": "MyHappymind collects information you provide via forms, emails, purchases, and registrations (such as name, contact details, and order info), and also automatically collects browsing/device data (IP address, location, operating system, browser type) through cookies and Google Analytics",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It may share data with subsidiaries, affiliates, and service providers to deliver services, as well as with lawyers, collection agencies, or successors in business transfers, and third-party advertisers/ad networks that use cookies/pixels for targeted advertising."
+  },
+  {
+    "id": 6446434968,
+    "q1": "y",
+    "q2": "It collects PII and usage data including name, contact details, mailing address, payment card details, usernames/passwords, occupation, interests, demographics (e.g., age, marital status), recordings of calls/online sessions, user-generated content, cookies/logs/IP/device info, and analytics (e.g., via Google Analytics)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with advertisers/ad networks and analytics providers, payment processors (e.g., PayPal/credit card processors), technology consultants/CRM vendors and other service providers, affiliates, contractors/agents/sponsors, co-branded partners and promotion sponsors, and may disclose to law enforcement or in business transfers"
+  },
+  {
+    "id": 687283022,
+    "q1": "y",
+    "q2": "it collects age group, gender, general interests, device identifiers and technical data, IP/country/region (not precise location), advertising ID and ad-interaction data, app/game usage (progress, time played, in-app purchases, errors), data from Facebook/Google login (e.g., email via Google Authentication), and any info you send in support requests",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with marketing/advertising partners and ad networks (e.g., Google AdMob, Facebook, Instagram, TikTok, AppLovin, Petal Ads/Huawei), external partners providing analytics/processing, competent authorities when required, and purchase processing is handled by platform providers (e.g., Google Play, App Store, Steam, Nintendo, Amazon, Samsung, Huawei, Epic Games Store)"
+  },
+  {
+    "id": 1236566346,
+    "q1": "y",
+    "q2": "Sintelly collects account data (email, password, name/birthdate/time zone/referral), communications, conversational interactions, “concerning language” flags, device/login & crash logs, survey/assessment data (incl. health experiences), and usage/analytics data (IP, cookies/pixels/web beacons, device/browser info, timestamps)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with third parties such as service providers (e.g., Amazon Web Services), analytics providers (e.g., Google Analytics), optional “partner program” organizations (e.g., employers, hospitals, medical/academic partners with your agreement), linked third-party services (e.g., helplines), and may disclose for legal/safety reasons or during mergers/asset transfers."
+  },
+  {
+    "id": 806223188,
+    "q1": "y",
+    "q2": "it collects account and gameplay/technical data such as account name and email, internal user ID, in-app purchase history, device and app details (device type/model/OS/language, IP address, app version), usage metrics (session counts/duration), country, and advertising identifiers (Google Advertising ID, Apple IDFA/IDFV)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "data is shared with/processed by third parties including Amazon Web Services (hosting), Amplitude and Google Firebase (analytics), Google AdMob, AppLovin, and Mintegral (advertising), Zendesk (support), and platform operators like Google Play and Apple’s App Store for distribution/purchases"
+  },
+  {
+    "id": 6451497403,
+    "q1": "y",
+    "q2": "SOAR says it collects both voluntarily provided and automatically collected data, including your name, email address, organization/school affiliation, user-generated images/videos, IP address, device type/version, activity within the service, and timestamps",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "SOAR shares data with third parties such as affiliates, service providers and partners; specifically named vendors include Amazon Web Services, MongoDB Atlas, Firebase, Sentry, SendGrid, and the iOS/Android developer platforms, and it may also disclose to courts/regulators, law enforcement, and business transferees"
+  },
+  {
+    "id": 1534773757,
+    "q1": "y",
+    "q2": "It collects identifiers and usage data such as name, username, email, password, phone, demographic info (age, location, IP), precise geolocation via GPS/Wi-Fi/cellular, device and web log data, cookies/third-party tracking, order/payment details (processed by Apple/Google or a payment processor), survey/feedback, and interactions with emails and the website/app",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with affiliates and numerous service providers—including advertising networks, data analytics providers, payment processors/banks (and Apple/Google for in-app purchases), internet service providers, operating systems/platforms, product/service fulfillment companies, social media platforms, and may also disclose to courts/regulators or in acquisitions"
+  },
+  {
+    "id": 6446163219,
+    "q1": "y",
+    "q2": "it collects personal information (e.g., name, postal address, email, phone, Social Security and driver’s license numbers), account/transaction and correspondence data, search queries, usage and device data (device ID, IP), files/metadata on your device (photos, audio/video, contacts), and real-time location",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it may share with subsidiaries/affiliates, contractors and service providers (including advertisers/ad networks and analytics), your device maker and mobile provider, buyers/successors in a sale, and courts/regulators, and it can share with third parties for their own marketing if you consent or don’t opt out"
+  },
+  {
+    "id": 1671855767,
+    "q1": "y",
+    "q2": "Therachat collects personal information (name, email, phone, address, payment info, emergency contact, and healthcare-related information), protected health information (such as physician documents and medical records), and automatically collected data (device IDs, IP address, usage logs, cookies, precise geolocation, and tracking technologies)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with service providers/vendors, therapists via the platform, advertisers, ad networks, analytics companies, Google, Facebook and other Social Ad Platforms, mobile device makers, ISPs, legal authorities when required, and potential buyers in business transfers"
+  },
+  {
+    "id": 1624198363,
+    "q1": "y",
+    "q2": "Clayful collects student information (IDs, attendance, grades, demographics like gender, DOB, ethnicity, income, language), student-provided data (name, email, phone, chats with coaches, survey responses, emergency location), guardian and school staff contact details, plus automatically generated data such as IP, browser type, usage logs, and analytics (via cookies/web beacons and Google Analytics)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Clayful shares data with service providers (hosting, chat, analytics like Google Analytics), professional advisors (lawyers, accountants), law enforcement or authorities when legally required or for safety, Schools in incident reports, and potential buyers or partners in business transitions."
+  },
+  {
+    "id": 1289018369,
+    "q1": "y",
+    "q2": "Rootd collects personal data such as name, email, password, emergency contact details, stats on panic attacks and app usage, survey responses, device and log data (IP, browser, OS), cookies, geolocation (approximate from IP), and analytics (via Google Analytics and email pixels)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Rootd shares data with vendors and service providers (cloud hosting, analytics, email/push services, advertising/marketing services, payment processors), with third-party platforms like Facebook and Google for ads, with organizations offering Community Subscriptions (employers, universities, etc.), with business partners in transactions, and with authorities if required by law."
+  },
+  {
+    "id": 1536846201,
+    "q1": "y",
+    "q2": "Subdial collects non-personal data like IP address, device ID, browser type, location (if enabled), usage logs, cookies on the web version, and may collect personal data only if a user voluntarily provides it (e.g., name, email) or during Emergency-Related Services (name, address, email, phone, and precise device geolocation)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it may share aggregated non-personal data with noncommercial third parties such as public or private service providers, and personal information may be shared with Emergency Service Providers, Computer-Aided Dispatch System providers, and other organizations involved in emergency response, but it does not sell, rent, or trade personal information"
+  },
+  {
+    "id": 6465690765,
+    "q1": "y",
+    "q2": "DreamDrift declares the collection of data such as dream journal entries, account details (email, password), transactional/payment information, communications with support, automatically gathered log/device/location data, cookies/analytics data, and optional data from third-party accounts or fitness/motion sensors",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "it shares data with third-party vendors like payment processors, cloud storage, analytics providers, SMS/email services, book printing services, and customer support platforms, as well as with affiliates, during business transfers, for legal compliance, or with user consent"
+  },
+  {
+    "id": 1600102496,
+    "q1": "y",
+    "q2": "Behavidence collects Contact Information (name, email, inquiry content), mailing-list email, Research Registration Information (contact info, age, yes/no mental-health diagnosis, device type, U.S. residency), and Website Analytics Information (IP address, access time/date, browser/language, links clicked, actions)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with service providers that help operate the website (using statistical/analytics info), and may also share with competent authorities and legal advisors for abuse or legal compliance, as well as in corporate changes like a merger or acquisition"
+  },
+  {
+    "id": 1671328374,
+    "q1": "y",
+    "q2": "Mind Race declares collecting Usage Data (IP address, browser/device type & IDs, pages visited, timestamps, mobile OS/browser, diagnostics), and Performance Data (user pseudonym, game score, speed, timestamp stored locally via Apple Core Data); it may also collect contact info you provide (e.g., name/email) and possibly location data per the CPRA section.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It may share personal information with Service Providers (to monitor/analyze use or contact you), affiliates, business partners, during business transfers, with other users when you post publicly, law enforcement/authorities when required, and otherwise with your consent—while also noting “This app does not use third parties/SDKs"
+  },
+  {
+    "id": 6466904931,
+    "q1": "y",
+    "q2": "Empi Dream collects an email address and Usage Data automatically (e.g., IP address, device and browser/OS details, unique device identifiers, pages visited, timestamps, and other diagnostics, including on mobile)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with third parties such as analytics/service providers (Firebase by Google, Mixpanel), plus affiliates, business partners, and in business transfers or legal requests; information you post in public areas can also be seen by other users."
+  },
+  {
+    "id": 1523646875,
+    "q1": "y",
+    "q2": "Gambless collects name and email at registration and may collect general wellness data (e.g., diary/trackers) plus website/app data such as comments info (including IP and browser user agent), cookies/login data, media EXIF location, and newsletter details (name, email, language).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with companies/contractors that provide services (e.g., email providers, payment processors, fraud-prevention and spam-detection vendors), with legal authorities when required, for policy enforcement under legitimate interests, with your consent (e.g., social media integrations), and may share aggregated/non-identifiable info with research organizations"
+  },
+  {
+    "id": 1453180679,
+    "q1": "y",
+    "q2": "InsideOut collects account data (login, user ID, password), contact data (name, role, work email, emergency contact), health data (mental health info, counsellor notes, session/chat details), preference data (marketing and cookie settings), and technical data (device IDs, IP, cookies, network/battery info)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with counsellors, third-party providers like Amazon Web Services (hosting), Twilio (video conferencing), and OpenAI/ChatGPT (resource recommendations), as well as with health professionals, emergency services, GP/next of kin if life is at risk, legal authorities, and in case of business transfers."
+  },
+  {
+    "id": 1580242680,
+    "q1": "y",
+    "q2": "Diary Dingo collects personal data such as names, phone numbers, email addresses, payment details (credit/debit card numbers), device information (IP address, device ID, operating system, browser type, etc.), usage data (pages visited, time spent, diagnostic logs), and—with user permission—photos and other information from the device’s camera or photo library.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "Diary Dingo may share data with service providers (for analytics, communications, or functionality), affiliates, business partners, and other users in public areas, and may disclose information during business transfers, with consent, or when required by law or to protect rights and safety."
+  },
+  {
+    "id": 966098074,
+    "q1": "y",
+    "q2": "It collects technical and usage data (IP address, browser type, page visits, timestamp) and user-submitted contact information (name, surname, NPI number, email, phone) from webforms.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The policy states it may share data with service providers and comply with legal obligations, but does not list specific external third parties by name."
+  },
+  {
+    "id": 6504195526,
+    "q1": "y",
+    "q2": "t collects Usage Data (such as IP address, device identifiers, browser type, pages visited, timestamps, diagnostic data).",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "It shares data with service providers, affiliates, business partners, for business transfers, and under legal obligations."
+  },
+  {
+    "id": 659065074,
+    "q1": "y",
+    "q2": "The Math Trainer app stores user data locally (on the device), and optionally allows use of iCloud (subject to iCloud’s terms).",
+    "q3": "y",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1658145102,
+    "q1": "y",
+    "q2": "vPresent collects information you provide (optionally), data generated by using the app, and automatically collected device/usage data, all recorded anonymously so individual users cannot be identified.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "It shares aggregate app health metrics with designated county officials, and any data sharing is limited to anonymous/aggregated information; it does not share personally identifiable information."
+  },
+  {
+    "id": 1599626050,
+    "q1": "y",
+    "q2": "Fraction Tap collects personal data such as email (when provided), and automatically collects usage data including IP address, device ID, browser type, operating system, pages visited, time spent, and diagnostic data; it may also collect pictures and other information from the device’s camera and photo library with user permission.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "Fraction Tap may share personal data with service providers (for analytics, contact, or technical support), affiliates, business partners, in business transfers (like mergers or acquisitions), and with other users in public areas, as well as disclose information when required by law or with user consent."
+  },
+  {
+    "id": 6473851170,
+    "q1": "n",
+    "q2": "The app does not collect data.",
+    "q3": "n",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6472111765,
+    "q1": "y",
+    "q2": "Sonia collects personal identifiers (name, email, usernames), contact information, account credentials, age, chatbot conversation content, device and usage data (IP, browser, operating system, activity logs), health and mental-health data (if voluntarily shared), biometric information (e.g., voice recordings), geolocation, payment details (processed by Apple), social login information (from Google, Apple, etc.), and other data you choose to disclose.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Sonia shares personal data with service providers and platforms such as AI providers (OpenAI, Anthropic, ElevenLabs, etc.), cloud services (AWS, Microsoft Azure), analytics and monitoring tools (LangChain, Sentry, Mixpanel), collaboration tools (Slack, Notion), authentication services (Google Firebase), universities (e.g., University of Zurich for research), professional consultants (lawyers, auditors), payment processors (Apple), and regulators (FTC). It may also share data during business transfers (merger/acquisition) or when required by law."
+  },
+  {
+    "id": 6450800619,
+    "q1": "y",
+    "q2": "MindfulMood collects personal data such as email address, first name, and last name, as well as usage data like IP address, browser type, pages visited, time spent, device identifiers, and other diagnostic data.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "It shares data with service providers, affiliates, business partners, and during business transfers, and may disclose data when required by law or with user consent."
+  },
+  {
+    "id": 1511247522,
+    "q1": "y",
+    "q2": "DoSomething collects identity data (name, username, etc.), contact data (address, email, phone), transaction data (donations, volunteer actions), technical data (IP address, browser, OS), profile data (interests, survey responses), usage data (how you use their services), and marketing/communications preferences.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6444038155,
+    "q1": "y",
+    "q2": "It collects usage data (such as IP address, browser type, pages visited, timestamps, device identifiers) and may collect contact or personal identifiers when provided (name, email, etc.).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It may share data with service providers, affiliates, business partners, and in the context of business transfers, and also when required by law or with user consent."
+  },
+  {
+    "id": 1547157572,
+    "q1": "y",
+    "q2": "It collects personal data (e.g. name, email), device & usage information (IP address, device identifiers, browser/OS info, pages visited, time stamps), attribution/ad metrics data (via AppsFlyer, ad-networks), and health/sleep data if the user consents (e.g. via Apple HealthKit / Android Sleep API).",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "It shares data with service providers (e.g. hosting, analytics, advertising, payment processors), ad attribution partners (via AppsFlyer and its integrated partners), affiliates, legal authorities when required by law, and in business transactions (mergers, acquisitions)."
+  },
+  {
+    "id": 1608367638,
+    "q1": "y",
+    "q2": "Wix collects personal data provided by users (name, email, phone, payment info, data in communications) and automatically collects usage & technical data (IP address, browser/OS info, clickstream, device identifiers, session data)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "Wix shares data with third-party service providers (for hosting, analytics, advertising, payments), with social login platforms (if used), and may share with other parties in compliance, legal obligations, or business transfers"
+  },
+  {
+    "id": 1494699802,
+    "q1": "y",
+    "q2": "SKIDOS collects opt-in account data (e.g. email, names) and non-personal usage data (which screens viewed, actions, session durations)",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "SKIDOS uses third-party SDKs (WebEngage, Embrace, AppsFlyer, Google Firebase) for analytics, attribution, crash reporting, etc."
+  },
+  {
+    "id": 6502899871,
+    "q1": "y",
+    "q2": "CharmHealth (via MedicalMine) collects personal information during account registration (name, email, username/password) and information needed for healthcare operations (health data)",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "They state they will not share personal information with other entities without explicit consent, except as required by laws or HIPAA/business associate rules"
+  },
+  {
+    "id": 6446167323,
+    "q1": "y",
+    "q2": "The Mind Meds App collects only the data you voluntarily input into the app if you use the “Send Report” function (such as clinical or personal health information shared by email) and limited usage data (like device operating system version and app usage statistics); it does not automatically transmit personal or clinical data unless you choose to send it.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6473184318,
+    "q1": "y",
+    "q2": "PushInteractions collects whatever users voluntarily provide (via email or direct contact)",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "They assert they do not sell or rent personal information to others; sharing is limited to how they’ve defined for internal purposes or as required"
+  },
+  {
+    "id": 1565696391,
+    "q1": "y",
+    "q2": "The app collects personal data (such as name, email, account information, and contact details you provide) and usage data automatically (IP address, browser type, device identifiers, operating system, pages visited, time spent, and diagnostic data). If you log in through a third-party social media service, it may also collect your profile information and activity.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "Your data may be shared with service providers (for analytics, communication, and operations), affiliates and business partners (for promotions and service delivery), other users (when you interact publicly or via linked social media), and in cases of business transfers (merger, sale, acquisition). Data may also be disclosed to law enforcement or public authorities when legally required."
+  },
+  {
+    "id": 1598892836,
+    "q1": "y",
+    "q2": "The app collects usage data, device identifiers, personal contact information, and diagnostics.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app may share app performance data and device identifiers with third parties (though no specific third parties are named)."
+  },
+  {
+    "id": 6450861283,
+    "q1": "y",
+    "q2": "The app collects anonymous information such as IP address, installation country, device manufacturer and model, operating system version, and language.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The app shares data with service providers, business partners, law enforcement when required, and may share de-identified data for research or reporting."
+  },
+  {
+    "id": 1501731777,
+    "q1": "y",
+    "q2": "They collect personal information you provide at registration (like gender, country, relationship status), details on your activity (such as content, frequency, and duration), device information (model, OS, identifiers, network), and any contact details or communications you send — with data stored on U.S.-based servers (via Google Firebase).",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The app shares personal information only with service providers, legal authorities when required, for safety or compliance purposes, and with your consent or direction."
+  },
+  {
+    "id": 6444675471,
+    "q1": "y",
+    "q2": "They collect contact details (like name, email, phone, address), transaction data, newsletter subscription info, patient medical information (with consent), and IP addresses for security.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data only with service providers, legal authorities when required, to protect rights and safety, and otherwise only with your consent."
+  },
+  {
+    "id": 638609565,
+    "q1": "y",
+    "q2": "They collect personally identifiable information you provide, which is retained and used to improve your experience and deliver the service.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with third-party service providers who help operate, deliver, or analyze the service, but they are bound to use it only for those purposes."
+  },
+  {
+    "id": 1458156758,
+    "q1": "y",
+    "q2": "They collect identifiers (like name, email, phone, address), device and network data, demographic and health information, biometric and visual data, commercial records, geolocation, sensitive health details, and other user-provided content such as assessments, preferences, gameplay performance, forms, and survey responses.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares data with need-to-know employees and service providers, optional marketing/advertising partners if you opt in, legal/government authorities when required, and potential buyers during corporate transactions."
+  },
+  {
+    "id": 6447015739,
+    "q1": "y",
+    "q2": "They collect personal data like your email address, along with automatically gathered usage data such as IP address, device details, browser type, pages visited, time spent, and other diagnostic information.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, affiliates, business partners, other users in public areas, and may also disclose it during business transfers or with your consent."
+  },
+  {
+    "id": 1534494364,
+    "q1": "y",
+    "q2": "They may collect personally identifiable information you provide, and third-party services like Google may also collect data to identify you, following their own privacy policies.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "y",
+    "q6": "The app shares personal data with third-party service providers who help deliver, operate, or analyze the service, but they are required to keep it secure and not use it for other purposes."
+  },
+  {
+    "id": 1498350923,
+    "q1": "y",
+    "q2": "They collect limited technical details such as app version, OS version, and error logs, which are used only to improve the application’s performance and not for any other purpose.",
+    "q3": "y",
+    "q4": "n",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 1513257639,
+    "q1": "y",
+    "q2": "They collect personal data such as your first name, email, password, payment data, and user ID, along with device details, usage data, cookies, geographic region, app activity (sessions, launches, updates), in-app purchases, and data you communicate while using the service.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data (including identifiers, usage data, commercial info, and geolocation) with third parties such as Google, Apple, Stripe, Amplitude, MixPanel, Help Scout, Webflow, and others for analytics, payments, hosting, messaging, and targeted advertising."
+  },
+  {
+    "id": 6480434888,
+    "q1": "y",
+    "q2": "They collect personal details you provide (like email, name, and phone number) along with automatically gathered usage data such as IP address, device and browser information, pages visited, and diagnostic data.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, affiliates, business partners, other users in public areas, during business transfers, and for any other purposes with your consent."
+  },
+  {
+    "id": 6504493957,
+    "q1": "y",
+    "q2": "They collect providers’ details (name, contact info, specialization, registration number) and patients’ details such as name or initials, email, appointment info, provider notes, shared files, and results from forms or assessments.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "n",
+    "q6": "The app does not share data with third parties"
+  },
+  {
+    "id": 6475880853,
+    "q1": "y",
+    "q2": "They collect your email address, automatically gathered usage and device data (like IP, browser, and app activity), and—if you permit—photos or camera input for app features; timezone info may be processed locally but is not stored or shared.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, business partners, and may transfer it during business transactions."
+  },
+  {
+    "id": 1564740564,
+    "q1": "y",
+    "q2": "They collect connection codes, internal user IDs, connection IDs, and device information (like IP address, device type/OS, app version, and technical usage data) to operate the m-Path application and services.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app only shares personal data during business transfers, or when required by law to protect rights, safety, investigate wrongdoing, or comply with legal obligations."
+  },
+  {
+    "id": 6476157808,
+    "q1": "y",
+    "q2": "They collect personal details like your email, first and last name, automatically gathered usage and device data (e.g., IP, browser, OS, identifiers), and—with permission—photos or other data from your device’s camera and gallery to support app features.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, affiliates, business partners, other users in public areas, during business transfers, and for any other purposes with your consent."
+  },
+  {
+    "id": 1620941994,
+    "q1": "y",
+    "q2": "They collect communication and account details (like name, email, phone, address, age, gender, and login info), data from third-party services, and session data such as eye and head movement, heart rate, breathing, and mood responses.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app discloses identifiers, personal information, and internet activity to third parties for business purposes under contract, does not sell personal data, but may share limited data like cookies and pixels with advertising partners for targeted ads."
+  },
+  {
+    "id": 6476430669,
+    "q1": "y",
+    "q2": "They collect personal identifiers you provide (like contact details) and automatically gather usage and device data such as IP address, browser, OS, pages visited, session details, and unique device identifiers.",
+    "q3": "y",
+    "q4": "y",
+    "q5": "y",
+    "q6": "The app shares personal data with service providers, affiliates, business partners, other users in public areas, during business transfers, and for any other purposes with your consent."
+  }
+]

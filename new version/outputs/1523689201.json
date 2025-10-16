@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1523689201,
+            "url": "https://dreamcloud.co/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data for providing services and enhancing service offerings.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app collects personal information to provide services and improve service offerings.",
+            "reference": "We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law. URL: https://dreamcloud.co/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a622eeb42dded9059a9c38c0a13ff5108af1db25e425d64f7e09e216208380ce",
+                "score": 0.34345186,
+                "excerpt": "Privacy Policy\nDREAMCLOUD PSYCHIATRY\nWebsite and Mobile App Privacy Policy\nYour privacy is important to us. Please read this privacy policy carefully before using our website or mobile app.\n1. COLLECTION AND USE OF PERSONAL INFORMATION\nIt is our policy to respect your privacy regarding any information we may collect while operating our website. We have developed this privacy policy for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information.\nWh...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "d61e9a1239a741481c4d8249c010780a1fe820e8b405d5831d57414e7453cb61",
+                "score": 0.005281334,
+                "excerpt": "provide voluntarily through your interactions with the site, as well as information about how you use and navigate through the site.\nWe will not sell, license or transfer personal information we gather from you outside of DreamCloud and any affiliated companies, except as necessary to provide you with information, services or products that we offer independently or jointly with others, as required by law or in connection with judicial or governmental proceedings, or in connection with the sale o...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "8fb79bd52a02a66e64de06c94e8f618d56605271266f1a645d4ff336739e10d4",
+                "score": 0.0037362205,
+                "excerpt": "our website and in our mobile app which is HIPAA-compliant and intended for patients to communicate and share information with their provider safely.\n8. AMENDMENTS TO PRIVACY POLICY\nDreamCloud reserves the right to change this privacy policy from time to time at our sole discretion. We will provide notice of any changes by sending an email or letter that contains a link to the revised policy.\nWe are committed to conducting our business in accordance with these principles in order to ensure that ...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "81f50867d12fadfae346fd7848b856fb76a0744dee965c92ce2ec5993e163485",
+                "score": 0.002822833,
+                "excerpt": "information which may or may not be health-related. The goal of such communication may be administrative, such as to provide general information about our services, or it may be clinical, such as to deliver patient care. Both administrative and clinical communication are subject to our HIPAA Policy.\nWhile we strive to ensure that your information remains private, be aware that certain channels you may use to communicate with us may not adhere to the same strict privacy standards and we caution a...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "a820cb80a01e3f87a36a07dd42a9c597942c2d764c025358a87c078d823d4e35",
+                "score": 0.0025311112,
+                "excerpt": "information, please consult your carrier's privacy policies.\nWe may share your information with certain third parties we use to perform certain functions, such as billing and text message or SMS delivery. These third parties will be required to treat your information in accordance with the applicable DreamCloud privacy policies. We may also share some information with your wireless operator in order to perform customer service functions.\n6. LINKS TO OTHER SITES\nWe may include links on our websit...",
+                "url": "https://dreamcloud.co/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523689201,
+            "url": "https://dreamcloud.co/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as name, address, social security number, and health or financial information associated with an individual, voluntarily provided information through interactions with the site, and information about how users navigate through the site.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Address",
+                        "Social security number",
+                        "Health or financial information",
+                        "Voluntarily provided information through interactions with the site",
+                        "Information about how users navigate through the site"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the types of personal information collected by the app, including sensitive details like health or financial information. It also highlights that voluntary interactions and site navigation details are collected.",
+            "reference": "By 'personal information,' we mean information that is unique to an individual and by which the individual may be identified, such as name, address, social security number, or health or financial information that is associated directly with an individual. This information is collected in order to provide services to you and to continue to improve and enhance our service offerings. This information may include, but is not limited to, that which you provide voluntarily through your interactions with the site, as well as information about how you use and navigate through the site. URL: https://dreamcloud.co/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a622eeb42dded9059a9c38c0a13ff5108af1db25e425d64f7e09e216208380ce",
+                "score": 0.07303239,
+                "excerpt": "Privacy Policy\nDREAMCLOUD PSYCHIATRY\nWebsite and Mobile App Privacy Policy\nYour privacy is important to us. Please read this privacy policy carefully before using our website or mobile app.\n1. COLLECTION AND USE OF PERSONAL INFORMATION\nIt is our policy to respect your privacy regarding any information we may collect while operating our website. We have developed this privacy policy for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information.\nWh...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "81f50867d12fadfae346fd7848b856fb76a0744dee965c92ce2ec5993e163485",
+                "score": 0.013273886,
+                "excerpt": "information which may or may not be health-related. The goal of such communication may be administrative, such as to provide general information about our services, or it may be clinical, such as to deliver patient care. Both administrative and clinical communication are subject to our HIPAA Policy.\nWhile we strive to ensure that your information remains private, be aware that certain channels you may use to communicate with us may not adhere to the same strict privacy standards and we caution a...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "d61e9a1239a741481c4d8249c010780a1fe820e8b405d5831d57414e7453cb61",
+                "score": 0.010448625,
+                "excerpt": "provide voluntarily through your interactions with the site, as well as information about how you use and navigate through the site.\nWe will not sell, license or transfer personal information we gather from you outside of DreamCloud and any affiliated companies, except as necessary to provide you with information, services or products that we offer independently or jointly with others, as required by law or in connection with judicial or governmental proceedings, or in connection with the sale o...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "f7a146eeaa36fb11bc615a90cf0814950683ce4cbaa8dfa2958d54070920b321",
+                "score": 0.008881675,
+                "excerpt": "customers information about our policies and practices relating to the management of personal information. We will only retain personal information for as long as necessary for the fulfillment of those purposes.\n3. NON-PERSONAL INFORMATION\nWe may use and disclose to others information about you and your use of the website by which you are not identified, such as the type of browser you use, the files you request, the URL (Uniform Resource Locator) and geographic location from which you request i...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "f5339e9e6730f65639216621478433cad0396f74947e59db4033a4746d662b46",
+                "score": 0.0071214284,
+                "excerpt": "data used to optimize and enhance the website user experience.\nCookies may also be used occasionally in emails to check if you have received certain communications from us.\nWhen you use our website, you may click “Agree and Continue” to accept all cookies, or choose to “Opt-Out” for non-essential cookies. Please note that essential cookies, necessary for the basic functionality of our site, cannot be disabled.\nPlease be aware most web browsers automatically accept cookies, however you can usuall...",
+                "url": "https://dreamcloud.co/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523689201,
+            "url": "https://dreamcloud.co/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by stating that personal information is collected to provide services and improve service offerings, with data collected voluntarily through interactions with the site and for ancillary purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions that personal information is collected for specific purposes that are identified before or at the time of collection, and that data is only used for fulfilling those specified purposes.",
+            "reference": "We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law. URL: https://dreamcloud.co/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d61e9a1239a741481c4d8249c010780a1fe820e8b405d5831d57414e7453cb61",
+                "score": 0.068537496,
+                "excerpt": "provide voluntarily through your interactions with the site, as well as information about how you use and navigate through the site.\nWe will not sell, license or transfer personal information we gather from you outside of DreamCloud and any affiliated companies, except as necessary to provide you with information, services or products that we offer independently or jointly with others, as required by law or in connection with judicial or governmental proceedings, or in connection with the sale o...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "a622eeb42dded9059a9c38c0a13ff5108af1db25e425d64f7e09e216208380ce",
+                "score": 0.067423776,
+                "excerpt": "Privacy Policy\nDREAMCLOUD PSYCHIATRY\nWebsite and Mobile App Privacy Policy\nYour privacy is important to us. Please read this privacy policy carefully before using our website or mobile app.\n1. COLLECTION AND USE OF PERSONAL INFORMATION\nIt is our policy to respect your privacy regarding any information we may collect while operating our website. We have developed this privacy policy for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information.\nWh...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "6b6b51da43258efb6b20d3ce80e11405bd5b489201bf6e5ef5cf143bf2901c51",
+                "score": 0.045437217,
+                "excerpt": "of PERSONAL INFORMATION\nDreamCloud uses reasonable efforts to protect the privacy and confidentiality of your personal information, including encrypting personal information as it is transmitted between your computer and DreamCloud via our website. In addition, employees of DreamCloud are subject to confidentiality and compliance policies relating to personal information.\nWhen using DreamCloud’s website or mobile app, you may be assigned a username (User ID) and/or password. Your password is you...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "f7a146eeaa36fb11bc615a90cf0814950683ce4cbaa8dfa2958d54070920b321",
+                "score": 0.009020279,
+                "excerpt": "customers information about our policies and practices relating to the management of personal information. We will only retain personal information for as long as necessary for the fulfillment of those purposes.\n3. NON-PERSONAL INFORMATION\nWe may use and disclose to others information about you and your use of the website by which you are not identified, such as the type of browser you use, the files you request, the URL (Uniform Resource Locator) and geographic location from which you request i...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "81f50867d12fadfae346fd7848b856fb76a0744dee965c92ce2ec5993e163485",
+                "score": 0.004905406,
+                "excerpt": "information which may or may not be health-related. The goal of such communication may be administrative, such as to provide general information about our services, or it may be clinical, such as to deliver patient care. Both administrative and clinical communication are subject to our HIPAA Policy.\nWhile we strive to ensure that your information remains private, be aware that certain channels you may use to communicate with us may not adhere to the same strict privacy standards and we caution a...",
+                "url": "https://dreamcloud.co/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523689201,
+            "url": "https://dreamcloud.co/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of non-essential cookies by choosing to 'Opt-Out' when using the website.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the option to 'Opt-Out' of non-essential cookies, allowing them to control data collection.",
+            "reference": "please choose to 'Opt-Out' for non-essential cookies. N/A. URL: https://dreamcloud.co/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f5339e9e6730f65639216621478433cad0396f74947e59db4033a4746d662b46",
+                "score": 0.15140383,
+                "excerpt": "data used to optimize and enhance the website user experience.\nCookies may also be used occasionally in emails to check if you have received certain communications from us.\nWhen you use our website, you may click “Agree and Continue” to accept all cookies, or choose to “Opt-Out” for non-essential cookies. Please note that essential cookies, necessary for the basic functionality of our site, cannot be disabled.\nPlease be aware most web browsers automatically accept cookies, however you can usuall...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "f7a146eeaa36fb11bc615a90cf0814950683ce4cbaa8dfa2958d54070920b321",
+                "score": 0.080069266,
+                "excerpt": "customers information about our policies and practices relating to the management of personal information. We will only retain personal information for as long as necessary for the fulfillment of those purposes.\n3. NON-PERSONAL INFORMATION\nWe may use and disclose to others information about you and your use of the website by which you are not identified, such as the type of browser you use, the files you request, the URL (Uniform Resource Locator) and geographic location from which you request i...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "8fb79bd52a02a66e64de06c94e8f618d56605271266f1a645d4ff336739e10d4",
+                "score": 0.019308086,
+                "excerpt": "our website and in our mobile app which is HIPAA-compliant and intended for patients to communicate and share information with their provider safely.\n8. AMENDMENTS TO PRIVACY POLICY\nDreamCloud reserves the right to change this privacy policy from time to time at our sole discretion. We will provide notice of any changes by sending an email or letter that contains a link to the revised policy.\nWe are committed to conducting our business in accordance with these principles in order to ensure that ...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "d61e9a1239a741481c4d8249c010780a1fe820e8b405d5831d57414e7453cb61",
+                "score": 0.015424552,
+                "excerpt": "provide voluntarily through your interactions with the site, as well as information about how you use and navigate through the site.\nWe will not sell, license or transfer personal information we gather from you outside of DreamCloud and any affiliated companies, except as necessary to provide you with information, services or products that we offer independently or jointly with others, as required by law or in connection with judicial or governmental proceedings, or in connection with the sale o...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "81f50867d12fadfae346fd7848b856fb76a0744dee965c92ce2ec5993e163485",
+                "score": 0.009485713,
+                "excerpt": "information which may or may not be health-related. The goal of such communication may be administrative, such as to provide general information about our services, or it may be clinical, such as to deliver patient care. Both administrative and clinical communication are subject to our HIPAA Policy.\nWhile we strive to ensure that your information remains private, be aware that certain channels you may use to communicate with us may not adhere to the same strict privacy standards and we caution a...",
+                "url": "https://dreamcloud.co/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523689201,
+            "url": "https://dreamcloud.co/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for certain functions like billing and text message delivery.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares information with certain third parties for specific functions while ensuring that these third parties treat the information in accordance with the applicable DreamCloud privacy policies.",
+            "reference": "We may share your information with certain third parties we use to perform certain functions, such as billing and text message or SMS delivery. These third parties will be required to treat your information in accordance with the applicable DreamCloud privacy policies. URL: https://dreamcloud.co/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a820cb80a01e3f87a36a07dd42a9c597942c2d764c025358a87c078d823d4e35",
+                "score": 0.97369474,
+                "excerpt": "information, please consult your carrier's privacy policies.\nWe may share your information with certain third parties we use to perform certain functions, such as billing and text message or SMS delivery. These third parties will be required to treat your information in accordance with the applicable DreamCloud privacy policies. We may also share some information with your wireless operator in order to perform customer service functions.\n6. LINKS TO OTHER SITES\nWe may include links on our websit...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "e402f60b621a9daf09caa2485a5e995fdc216ee4c0d42fc648ffac15e07b252d",
+                "score": 0.64924514,
+                "excerpt": "type, your carrier, your carrier user ID, the content of your request, and basic usage stats about your device and use of DreamCloud’s products and services does not by itself identify you to DreamCloud, though it may be unique or consist of or contain information that you consider personal.\nIf you use location-enabled products and services, such as Google Maps for mobile, you may be sending us location information. This information may reveal your actual location, such as GPS data, or your appr...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "6b6b51da43258efb6b20d3ce80e11405bd5b489201bf6e5ef5cf143bf2901c51",
+                "score": 0.048767094,
+                "excerpt": "of PERSONAL INFORMATION\nDreamCloud uses reasonable efforts to protect the privacy and confidentiality of your personal information, including encrypting personal information as it is transmitted between your computer and DreamCloud via our website. In addition, employees of DreamCloud are subject to confidentiality and compliance policies relating to personal information.\nWhen using DreamCloud’s website or mobile app, you may be assigned a username (User ID) and/or password. Your password is you...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "81f50867d12fadfae346fd7848b856fb76a0744dee965c92ce2ec5993e163485",
+                "score": 0.03265138,
+                "excerpt": "information which may or may not be health-related. The goal of such communication may be administrative, such as to provide general information about our services, or it may be clinical, such as to deliver patient care. Both administrative and clinical communication are subject to our HIPAA Policy.\nWhile we strive to ensure that your information remains private, be aware that certain channels you may use to communicate with us may not adhere to the same strict privacy standards and we caution a...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "8fb79bd52a02a66e64de06c94e8f618d56605271266f1a645d4ff336739e10d4",
+                "score": 0.03044435,
+                "excerpt": "our website and in our mobile app which is HIPAA-compliant and intended for patients to communicate and share information with their provider safely.\n8. AMENDMENTS TO PRIVACY POLICY\nDreamCloud reserves the right to change this privacy policy from time to time at our sole discretion. We will provide notice of any changes by sending an email or letter that contains a link to the revised policy.\nWe are committed to conducting our business in accordance with these principles in order to ensure that ...",
+                "url": "https://dreamcloud.co/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1523689201,
+            "url": "https://dreamcloud.co/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with certain third parties used for billing, text message or SMS delivery, and may also share some information with the wireless operator for customer service functions.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Billing third parties",
+                        "Text message or SMS delivery third parties",
+                        "Wireless operator"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing information with certain third parties for specific functions like billing and text message delivery, as well as with the wireless operator for customer service purposes.",
+            "reference": "We may share your information with certain third parties we use to perform certain functions, such as billing and text message or SMS delivery. These third parties will be required to treat your information in accordance with the applicable DreamCloud privacy policies. We may also share some information with your wireless operator in order to perform customer service functions. URL: https://dreamcloud.co/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "a820cb80a01e3f87a36a07dd42a9c597942c2d764c025358a87c078d823d4e35",
+                "score": 0.9822196,
+                "excerpt": "information, please consult your carrier's privacy policies.\nWe may share your information with certain third parties we use to perform certain functions, such as billing and text message or SMS delivery. These third parties will be required to treat your information in accordance with the applicable DreamCloud privacy policies. We may also share some information with your wireless operator in order to perform customer service functions.\n6. LINKS TO OTHER SITES\nWe may include links on our websit...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "e402f60b621a9daf09caa2485a5e995fdc216ee4c0d42fc648ffac15e07b252d",
+                "score": 0.46517485,
+                "excerpt": "type, your carrier, your carrier user ID, the content of your request, and basic usage stats about your device and use of DreamCloud’s products and services does not by itself identify you to DreamCloud, though it may be unique or consist of or contain information that you consider personal.\nIf you use location-enabled products and services, such as Google Maps for mobile, you may be sending us location information. This information may reveal your actual location, such as GPS data, or your appr...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "81f50867d12fadfae346fd7848b856fb76a0744dee965c92ce2ec5993e163485",
+                "score": 0.05592617,
+                "excerpt": "information which may or may not be health-related. The goal of such communication may be administrative, such as to provide general information about our services, or it may be clinical, such as to deliver patient care. Both administrative and clinical communication are subject to our HIPAA Policy.\nWhile we strive to ensure that your information remains private, be aware that certain channels you may use to communicate with us may not adhere to the same strict privacy standards and we caution a...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "8fb79bd52a02a66e64de06c94e8f618d56605271266f1a645d4ff336739e10d4",
+                "score": 0.022201229,
+                "excerpt": "our website and in our mobile app which is HIPAA-compliant and intended for patients to communicate and share information with their provider safely.\n8. AMENDMENTS TO PRIVACY POLICY\nDreamCloud reserves the right to change this privacy policy from time to time at our sole discretion. We will provide notice of any changes by sending an email or letter that contains a link to the revised policy.\nWe are committed to conducting our business in accordance with these principles in order to ensure that ...",
+                "url": "https://dreamcloud.co/privacy"
+            },
+            {
+                "id": "d61e9a1239a741481c4d8249c010780a1fe820e8b405d5831d57414e7453cb61",
+                "score": 0.012821214,
+                "excerpt": "provide voluntarily through your interactions with the site, as well as information about how you use and navigate through the site.\nWe will not sell, license or transfer personal information we gather from you outside of DreamCloud and any affiliated companies, except as necessary to provide you with information, services or products that we offer independently or jointly with others, as required by law or in connection with judicial or governmental proceedings, or in connection with the sale o...",
+                "url": "https://dreamcloud.co/privacy"
+            }
+        ]
+    }
+]

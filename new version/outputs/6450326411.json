@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 6450326411,
+            "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects and uses personal information such as names, email addresses, gender, country, city, state, and age bracket.",
+            "reference": "We collect and use information like your name, email address, gender, country, city, state and age bracket to personalise the course and communicate with you. URL: https://www.mindsethealth.com/legal/claria-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7e910b23d53750c822f6370477216af712cc5c35b362a74554e609c2ea9fa575",
+                "score": 0.010693758,
+                "excerpt": "Mindset Health Pty Ltd (ABN: 11 617 368 957) (“we”) are committed to protecting and respecting your privacy. This Privacy Policy (“Policy”) (together with our Terms and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us and how you can get access to this information. If in doubt, the primary governing law of this policy is that of the state of Victoria, Australia.\nMindset Health provides you...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "525aff5fb0f9df7adcbe0bc356e68459a5a7f5e7273b06b440ea52dcb46190fb",
+                "score": 0.0065134983,
+                "excerpt": "third-party services that we use to monitor and analyse web traffic to keep track of user behaviour include:\nIn the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. If Mindset Health or substantially all of its assets are acquired by a third party, personal data held by it about its customers will be one of the transferred assets. Mindset Health will ensure that information transferre...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "59f36039d8afaf37f0aca24b1c094b61c1cbaabcb083ffec5d54aa4d89bdedb9",
+                "score": 0.0064631375,
+                "excerpt": "trusted suppliers who help us deliver the services associated with the System and we are committed to ensuring that all suppliers meet our security and data protection standards.\nWe may use and disclose your identifiable health information in connection with providing services, for our internal operations, which include administration, eligibility, planning, analytics and various activities that assess and improve the quality and cost effectiveness of the service that we deliver to you. Examples...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "e503cb019954b5003c37dca634abd54bd8cc5279697382db448b3a60754ebc21",
+                "score": 0.0046455576,
+                "excerpt": "email hello@mindsethealth.com.\nInformation collected automatically through Mindset Health (or third-party services employed in Mindset Health), which can include: behavioural data (e.g. number of sessions you complete, what techniques you practice or how many times you practice the techniques), the IP addresses or domain names of the computers utilised by the Users who use Mindset Health, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilised to submit the ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "3897ee5ac467485bb63089aec7f6197077a5f48528580bf1d3fef8459cc27700",
+                "score": 0.0036076165,
+                "excerpt": "about their security policies and processes in their Security Whitepapers.\nWe may process some of your data with third parties to use their software platforms who have servers outside the US, UK or EEA to send communication emails to our users, but always in accordance with data protection law and subject to strict safeguards.\nUsers of the System have certain specific rights with regard to their information.\nA user of the System has the right to view all personal information that Mindset Health ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450326411,
+            "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as behavioural data, IP addresses, domain names, URI addresses, time details per visit, details about the path followed within the application, features of the browser and operating system, and other parameters about the device operating system and/or the user's IT environment.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Behavioural data",
+                        "IP addresses",
+                        "Domain names",
+                        "URI addresses",
+                        "Time details per visit",
+                        "Details about the path followed within the application",
+                        "Features of the browser and operating system",
+                        "Other parameters about the device operating system and/or the user's IT environment"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions collecting various types of data automatically through the app, ranging from behavioural data to details about the user's IT environment.",
+            "reference": "The app collects data such as behavioural data, IP addresses, domain names, URI addresses, time details per visit, details about the path followed within the application, features of the browser and operating system, and other parameters about the device operating system and/or the user's IT environment. URL: https://www.mindsethealth.com/legal/claria-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "e503cb019954b5003c37dca634abd54bd8cc5279697382db448b3a60754ebc21",
+                "score": 0.080069266,
+                "excerpt": "email hello@mindsethealth.com.\nInformation collected automatically through Mindset Health (or third-party services employed in Mindset Health), which can include: behavioural data (e.g. number of sessions you complete, what techniques you practice or how many times you practice the techniques), the IP addresses or domain names of the computers utilised by the Users who use Mindset Health, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilised to submit the ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "59f36039d8afaf37f0aca24b1c094b61c1cbaabcb083ffec5d54aa4d89bdedb9",
+                "score": 0.0586686,
+                "excerpt": "trusted suppliers who help us deliver the services associated with the System and we are committed to ensuring that all suppliers meet our security and data protection standards.\nWe may use and disclose your identifiable health information in connection with providing services, for our internal operations, which include administration, eligibility, planning, analytics and various activities that assess and improve the quality and cost effectiveness of the service that we deliver to you. Examples...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "6569bebb51eb601d688921d1f4977b928956ffa31b5e931e61c037920bbc0844",
+                "score": 0.03767939,
+                "excerpt": "personal identifiable information (PII) means information relating to an identified or identifiable natural person who can be directly or indirectly identified by reference to an identifier.\nWe collect and use information like your name, email address, gender, country, city, state and age bracket to personalise the course and communicate with you. You're able to opt out of any external communications (i.e., email and push notifications) at any time.\nWe collect information about your mental healt...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "525aff5fb0f9df7adcbe0bc356e68459a5a7f5e7273b06b440ea52dcb46190fb",
+                "score": 0.02249997,
+                "excerpt": "third-party services that we use to monitor and analyse web traffic to keep track of user behaviour include:\nIn the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. If Mindset Health or substantially all of its assets are acquired by a third party, personal data held by it about its customers will be one of the transferred assets. Mindset Health will ensure that information transferre...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "7e910b23d53750c822f6370477216af712cc5c35b362a74554e609c2ea9fa575",
+                "score": 0.02237146,
+                "excerpt": "Mindset Health Pty Ltd (ABN: 11 617 368 957) (“we”) are committed to protecting and respecting your privacy. This Privacy Policy (“Policy”) (together with our Terms and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us and how you can get access to this information. If in doubt, the primary governing law of this policy is that of the state of Victoria, Australia.\nMindset Health provides you...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450326411,
+            "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 6450326411,\n       \"url\": \"https://www.mindsethealth.com/legal/claria-privacy-policy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q3\",\n       \"question\": \"3. Does the app declare the purpose of data collection and use?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, the app declares the purpose of data collection and use.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy outlines that the app collects and uses personal information for the purpose of personalizing tools for self-managing mental health concerns and providing a program. It also mentions using this information for internal operations such as administration, eligibility, planning, analytics, and improving service quality.\",\n       \"reference\": \"We process your data in order to provide a program of personalised tools for self-managing mental health concerns (and to support the delivery of that program). URL: https://www.mindsethealth.com/legal/claria-privacy-policy\",\n                           \"We may use and disclose your identifiable health information in connection with providing services, for our internal operations, which include administration, eligibility, planning, analytics and various activities that assess and improve the quality and cost effectiveness of the service that we deliver to you. Examples are using information about you to improve quality of service, satisfaction surveys, de-identifying health information, customer services, and internal training.  URL: https://www.mindsethealth.com/legal/claria-privacy-policy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "7e910b23d53750c822f6370477216af712cc5c35b362a74554e609c2ea9fa575",
+                "score": 0.016721142,
+                "excerpt": "Mindset Health Pty Ltd (ABN: 11 617 368 957) (“we”) are committed to protecting and respecting your privacy. This Privacy Policy (“Policy”) (together with our Terms and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us and how you can get access to this information. If in doubt, the primary governing law of this policy is that of the state of Victoria, Australia.\nMindset Health provides you...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "167757db92fcb4e7e63faac37864fa5f886abf3ab715145d5ada7e977deb8b03",
+                "score": 0.013325147,
+                "excerpt": "private and personal and is dedicated to maintaining its confidentiality and integrity. As such, we will never sell or rent it, and we have policies, procedures, and other safeguards to help protect it from improper use and disclosure.\nThe following categories describe the ways in which we use your identifiable health information and the rare instances that require us to disclose it to persons and entities outside of Mindset Health. We have not listed every use or disclosure within the categorie...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "59f36039d8afaf37f0aca24b1c094b61c1cbaabcb083ffec5d54aa4d89bdedb9",
+                "score": 0.0075479234,
+                "excerpt": "trusted suppliers who help us deliver the services associated with the System and we are committed to ensuring that all suppliers meet our security and data protection standards.\nWe may use and disclose your identifiable health information in connection with providing services, for our internal operations, which include administration, eligibility, planning, analytics and various activities that assess and improve the quality and cost effectiveness of the service that we deliver to you. Examples...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "6569bebb51eb601d688921d1f4977b928956ffa31b5e931e61c037920bbc0844",
+                "score": 0.0043653264,
+                "excerpt": "personal identifiable information (PII) means information relating to an identified or identifiable natural person who can be directly or indirectly identified by reference to an identifier.\nWe collect and use information like your name, email address, gender, country, city, state and age bracket to personalise the course and communicate with you. You're able to opt out of any external communications (i.e., email and push notifications) at any time.\nWe collect information about your mental healt...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "5327c928c9692b9eebcd1a339c9d34db66893ff09626e88a4dbc789fbb1c6f66",
+                "score": 0.003869391,
+                "excerpt": "information with third party medical professionals nominated by you.\nWe may use and disclose your identifiable health information when necessary to prevent a serious threat to your health and safety or the health and safety of the public or another person. Any disclosure, however, would only be to someone able to help prevent the threat.\nCertain laws permit or require certain uses and disclosures of identifiable health information for example, for public health activities, health oversight activ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450326411,
+            "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the right to request deletion of all data within the system and can withdraw their consent at any time by contacting the Security, Privacy, and Compliance Officer.",
+            "reference": "A user of the System has the right to request deletion of all data within the system. To request your data be deleted, please contact the Security, Privacy, and Compliance Officer. In most cases, this request will be completed within 30 days. If circumstances require a delay to this deletion, Mindset Health will notify you directly explaining the reason for the delay. Note also that in some cases, there may be a legal requirement to hold on to your data. Again, Mindset Health will notify you directly if this is the case. URL: https://www.mindsethealth.com/legal/claria-privacy-policy\nA user of the System has the right to withdraw their consent at any time by contacting the Security, Privacy, and Compliance Officer. Please note that without consent to process your data, we will be unable to deliver the Claria program. URL: https://www.mindsethealth.com/legal/claria-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "1ac88f642376b09c00b210124d5f72dcd0287f16eba61c479e08e155bce6e1b9",
+                "score": 0.75635755,
+                "excerpt": "not able to change, please contact the Security, Privacy, and Compliance Officer and we will work directly with you to update this information.\nSubject to any exemptions provided by law, a user of the System has the right to request deletion of all data within the system. To request your data be deleted, please contact the Security, Privacy, and Compliance Officer. In most cases, this request will be completed within 30 days. If circumstances require a delay to this deletion, Mindset Health will...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "3897ee5ac467485bb63089aec7f6197077a5f48528580bf1d3fef8459cc27700",
+                "score": 0.44013837,
+                "excerpt": "about their security policies and processes in their Security Whitepapers.\nWe may process some of your data with third parties to use their software platforms who have servers outside the US, UK or EEA to send communication emails to our users, but always in accordance with data protection law and subject to strict safeguards.\nUsers of the System have certain specific rights with regard to their information.\nA user of the System has the right to view all personal information that Mindset Health ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "6569bebb51eb601d688921d1f4977b928956ffa31b5e931e61c037920bbc0844",
+                "score": 0.091544405,
+                "excerpt": "personal identifiable information (PII) means information relating to an identified or identifiable natural person who can be directly or indirectly identified by reference to an identifier.\nWe collect and use information like your name, email address, gender, country, city, state and age bracket to personalise the course and communicate with you. You're able to opt out of any external communications (i.e., email and push notifications) at any time.\nWe collect information about your mental healt...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "1250d3941a727848fe0486b133daa564526f50c89e844d10b1c8e31e945075e6",
+                "score": 0.053206205,
+                "excerpt": "text files managed by your web browser) on your computer in order to improve your experience with the System. Example uses of these cookies include: recognising you when you return to the System, maintaining data you've entered across multiple sessions, and storing information about your personal preferences.\nYou may refuse to accept cookies by changing the settings on your device to prevent cookies from being set. However, if you select this setting you may be unable to access certain parts of ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "b632c85cedd69e3105fa5512ee2348a083668dcf9b847ba9fda7b1327311cfba",
+                "score": 0.05281402,
+                "excerpt": "to earn incentives and rewards (if those are offered as part of your wellness program), as well as data from your self-reported symptoms.\nWe may receive a confirmation when you open an email from us, or click on a link in an email, if your computer supports this type of program. We use this confirmation to help us make emails more interesting and helpful. When you receive an email from us, you can opt out of receiving further emails by following the included instructions to unsubscribe. However,...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450326411,
+            "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that some services provided through third-party service providers may involve sharing identifiable health information with third parties.",
+            "reference": "We may disclose your identifiable health information to our third party services providers so that they can perform the job that is required of them. URL: https://www.mindsethealth.com/legal/claria-privacy-policy",
+            "N/A. URL": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "525aff5fb0f9df7adcbe0bc356e68459a5a7f5e7273b06b440ea52dcb46190fb",
+                "score": 0.92905515,
+                "excerpt": "third-party services that we use to monitor and analyse web traffic to keep track of user behaviour include:\nIn the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. If Mindset Health or substantially all of its assets are acquired by a third party, personal data held by it about its customers will be one of the transferred assets. Mindset Health will ensure that information transferre...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "ae2c25cd1f8ce90398b850c81801474ecd67ddd19b9ed13e69712dda9ca7efbe",
+                "score": 0.8782099,
+                "excerpt": "reminder to interact with, or complete tasks relating to your use of the System. You may make changes to the format and frequency of these reminders, or cancel these reminders and/or notifications by logging into your Claria account in the App, and/or by accessing the native notification settings on your mobile device when using the App.\nThere are some services provided in our organisation through third party services providers. Examples of third party services providers include accounting servi...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "59f36039d8afaf37f0aca24b1c094b61c1cbaabcb083ffec5d54aa4d89bdedb9",
+                "score": 0.8288003,
+                "excerpt": "trusted suppliers who help us deliver the services associated with the System and we are committed to ensuring that all suppliers meet our security and data protection standards.\nWe may use and disclose your identifiable health information in connection with providing services, for our internal operations, which include administration, eligibility, planning, analytics and various activities that assess and improve the quality and cost effectiveness of the service that we deliver to you. Examples...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "f130fd02a722b824c09d521da8f9c4d3339d011c9f00d0efda77f2e5f786a0fc",
+                "score": 0.3709087,
+                "excerpt": "password with anyone.\nWe do not store any credit or debit card information. Payments are processed via a third party payment provider that is fully compliant with Level 1 Payment Card Industry (PCI) data security standards. Any payment transactions are encrypted using SSL technology.\nOnce we have received your information from the app or website, we will use strict procedures and security features to try to prevent unauthorised access. We will take all steps reasonably necessary to ensure that y...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "3897ee5ac467485bb63089aec7f6197077a5f48528580bf1d3fef8459cc27700",
+                "score": 0.2052962,
+                "excerpt": "about their security policies and processes in their Security Whitepapers.\nWe may process some of your data with third parties to use their software platforms who have servers outside the US, UK or EEA to send communication emails to our users, but always in accordance with data protection law and subject to strict safeguards.\nUsers of the System have certain specific rights with regard to their information.\nA user of the System has the right to view all personal information that Mindset Health ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450326411,
+            "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Third parties include third party services providers such as accounting services, server hosting and email delivery providers, business associates, vendors, and other reputable companies in the industry subcontracted to Mindset Health or its corporate customers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Accounting services",
+                        "Server hosting providers",
+                        "Email delivery providers",
+                        "Business associates",
+                        "Vendors"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that identifiable health information may be disclosed to third party services providers for various purposes. These providers include accounting services, server hosting, email delivery, business associates, vendors, and reputable companies in the industry subcontracted by Mindset Health.",
+            "reference": "Examples of third party services providers include accounting services, server hosting and email delivery providers, business associates, vendors and other business partners and reputable companies in the industry who subcontract to us or to those of your employer as our corporate customers, where permitted by law. URL: https://www.mindsethealth.com/legal/claria-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "525aff5fb0f9df7adcbe0bc356e68459a5a7f5e7273b06b440ea52dcb46190fb",
+                "score": 0.9003547,
+                "excerpt": "third-party services that we use to monitor and analyse web traffic to keep track of user behaviour include:\nIn the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. If Mindset Health or substantially all of its assets are acquired by a third party, personal data held by it about its customers will be one of the transferred assets. Mindset Health will ensure that information transferre...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "ae2c25cd1f8ce90398b850c81801474ecd67ddd19b9ed13e69712dda9ca7efbe",
+                "score": 0.80069196,
+                "excerpt": "reminder to interact with, or complete tasks relating to your use of the System. You may make changes to the format and frequency of these reminders, or cancel these reminders and/or notifications by logging into your Claria account in the App, and/or by accessing the native notification settings on your mobile device when using the App.\nThere are some services provided in our organisation through third party services providers. Examples of third party services providers include accounting servi...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "59f36039d8afaf37f0aca24b1c094b61c1cbaabcb083ffec5d54aa4d89bdedb9",
+                "score": 0.7212526,
+                "excerpt": "trusted suppliers who help us deliver the services associated with the System and we are committed to ensuring that all suppliers meet our security and data protection standards.\nWe may use and disclose your identifiable health information in connection with providing services, for our internal operations, which include administration, eligibility, planning, analytics and various activities that assess and improve the quality and cost effectiveness of the service that we deliver to you. Examples...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "5327c928c9692b9eebcd1a339c9d34db66893ff09626e88a4dbc789fbb1c6f66",
+                "score": 0.5339443,
+                "excerpt": "information with third party medical professionals nominated by you.\nWe may use and disclose your identifiable health information when necessary to prevent a serious threat to your health and safety or the health and safety of the public or another person. Any disclosure, however, would only be to someone able to help prevent the threat.\nCertain laws permit or require certain uses and disclosures of identifiable health information for example, for public health activities, health oversight activ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            },
+            {
+                "id": "3897ee5ac467485bb63089aec7f6197077a5f48528580bf1d3fef8459cc27700",
+                "score": 0.33535084,
+                "excerpt": "about their security policies and processes in their Security Whitepapers.\nWe may process some of your data with third parties to use their software platforms who have servers outside the US, UK or EEA to send communication emails to our users, but always in accordance with data protection law and subject to strict safeguards.\nUsers of the System have certain specific rights with regard to their information.\nA user of the System has the right to view all personal information that Mindset Health ...",
+                "url": "https://www.mindsethealth.com/legal/claria-privacy-policy"
+            }
+        ]
+    }
+]

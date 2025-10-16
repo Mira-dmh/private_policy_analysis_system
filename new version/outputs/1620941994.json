@@ -1,0 +1,325 @@
+[
+    {
+        "meta": {
+            "id": 1620941994,
+            "url": "https://www.reulay.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of various categories of information about users, indicating that data collection is declared.",
+            "reference": "Privacy Policy. URL: https://www.reulay.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bb39fd9d209e9868e7f8721cf082b0d5fb5acd41eb2d1efc82090c73e7fed933",
+                "score": 0.16926852,
+                "excerpt": "third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app:\n- Session Data: We may measure, collect, and store your Session Data, including information or data related to your eye and head movement, heart rate and breathing, and your mood and feelings (measured through your responses to surveys and questionnaires in the App), in connection with your use of the Services; if you use the Services through an Acc...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "26eb65ff74e386626acb89170f84be100e79c8a8387230ebce8f6bb574f7bd06",
+                "score": 0.041930523,
+                "excerpt": "Collect\nReulay Inc, Reulay LLC collects the following categories of information about users of the Services:\n- Communications with Us: We may collect Personal Information from you such as your name, email address, phone number, and postal address when you request information about our Services, register for Reulay’s newsletter, request to receive customer or technical support, or otherwise communicate with us.\n- Account Information: If you create an Account, we’ll collect certain information tha...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "6321e045c42d7d781dc9bfdee5d8ba6637e5ffbe604bdae895e640d651c2c931",
+                "score": 0.010288301,
+                "excerpt": "described more fully in Sections 2, 3, and 10 of Our Privacy Policy. Personal information does not include (1) de-identified or aggregated consumer information; (2) publicly available information from government records; or (3) information excluded from the CCPA’s scope.\nWe obtain the categories of personal information listed above from the following categories of sources:\n- Directly from You, such as when you set up an account to use the Reulay Oasis app.\n- Indirectly from You, such as electron...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "a1713896d4905c2ffcb03a9c26bf15b0cab542c85090c51cb6a0a18d38e2e78f",
+                "score": 0.0066153924,
+                "excerpt": "Privacy Policy\nThis Privacy Policy explains our practices regarding the collection, use, and disclosure of information that we receive through our Services, and how you can opt-out of a use or correct or change such information. This Privacy Policy does not apply to any third-party websites, services, or applications, even if they are accessible through our Services. Also, please note that unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the ...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "b83124aba90f72175cb36241a69a3055b8759c1c11bbcd1be2e1cdb0d49a5917",
+                "score": 0.0057749297,
+                "excerpt": "solutions@reulay.com\nCalifornia Privacy Notice\nYour Privacy Rights Under the CCPA if You Live in California\nIf You are a California resident using the Services, You may exercise the following rights (regarding Your personal information) under the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (“CCPA”).\n- Information We May Collect From You\nOur Services collect information that identifies, relates to, describes, references, is capable of being ass...",
+                "url": "https://www.reulay.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1620941994,
+            "url": "https://www.reulay.com/privacy-policy"
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1620941994,\n       \"url\": \"https://www.reulay.com/privacy-policy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q2\",\n       \"question\": \"2. If the app declares the collection of data, what type of data does it collect?\",\n       \"answer\": {\n           \"full_answer\": \"The app collects data related to communication with users, account information, and session data like eye and head movement, heart rate, breathing, and mood.\",\n           \"simple_answer\": \"NOTUSED\",\n           \"extended_simple_answer\": {\n               \"comment\": \"data collected\",\n               \"content\": [\n                   \"Communication data (name, email, phone number, address)\",\n                   \"Account information (name, age, email, state of residence, mobile number, gender, date of birth)\",\n                   \"Session data (eye and head movement, heart rate, breathing, mood)\"\n               ]\n           }\n       },\n       \"analysis\": \"The answer is derived from the sections describing the types of data collected from users, including communication data, account information, and session data related to physical measurements and emotions.\",\n       \"reference\": \"Communications with Us: We may collect Personal Information from you such as your name, email address, phone number, and postal address when you request information about our Services, register for Reulay’s newsletter, request to receive customer or technical support, or otherwise communicate with us. Account Information: If you create an Account, we’ll collect certain information that can be used to identify you, such as your name, age, email address, state of residence, and mobile number. If you create an Account using your login credentials from one of your SNS Accounts (Google, Apple, etc.), we’ll be \nable to access and collect your full name and email address and other Personal Information that your privacy settings on the SNS Account permit us to access. If you create an Account through the Services or one of your SNS Accounts, we may also collect your gender, date of birth and other information. Session Data: We may measure, collect, and store your Session Data, including information or data related to your eye and head movement, heart rate and breathing, and your mood and feelings (measured through your responses to surveys and questionnaires in the App), in connection with your use of the Services; if you use the Services through an Account, Session Data may include Personal Information. URL: https://www.reulay.com/privacy-policy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "bb39fd9d209e9868e7f8721cf082b0d5fb5acd41eb2d1efc82090c73e7fed933",
+                "score": 0.49608624,
+                "excerpt": "third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app:\n- Session Data: We may measure, collect, and store your Session Data, including information or data related to your eye and head movement, heart rate and breathing, and your mood and feelings (measured through your responses to surveys and questionnaires in the App), in connection with your use of the Services; if you use the Services through an Acc...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "26eb65ff74e386626acb89170f84be100e79c8a8387230ebce8f6bb574f7bd06",
+                "score": 0.27884555,
+                "excerpt": "Collect\nReulay Inc, Reulay LLC collects the following categories of information about users of the Services:\n- Communications with Us: We may collect Personal Information from you such as your name, email address, phone number, and postal address when you request information about our Services, register for Reulay’s newsletter, request to receive customer or technical support, or otherwise communicate with us.\n- Account Information: If you create an Account, we’ll collect certain information tha...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "b83124aba90f72175cb36241a69a3055b8759c1c11bbcd1be2e1cdb0d49a5917",
+                "score": 0.15418488,
+                "excerpt": "solutions@reulay.com\nCalifornia Privacy Notice\nYour Privacy Rights Under the CCPA if You Live in California\nIf You are a California resident using the Services, You may exercise the following rights (regarding Your personal information) under the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (“CCPA”).\n- Information We May Collect From You\nOur Services collect information that identifies, relates to, describes, references, is capable of being ass...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "a1713896d4905c2ffcb03a9c26bf15b0cab542c85090c51cb6a0a18d38e2e78f",
+                "score": 0.04023794,
+                "excerpt": "Privacy Policy\nThis Privacy Policy explains our practices regarding the collection, use, and disclosure of information that we receive through our Services, and how you can opt-out of a use or correct or change such information. This Privacy Policy does not apply to any third-party websites, services, or applications, even if they are accessible through our Services. Also, please note that unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the ...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "6321e045c42d7d781dc9bfdee5d8ba6637e5ffbe604bdae895e640d651c2c931",
+                "score": 0.02442309,
+                "excerpt": "described more fully in Sections 2, 3, and 10 of Our Privacy Policy. Personal information does not include (1) de-identified or aggregated consumer information; (2) publicly available information from government records; or (3) information excluded from the CCPA’s scope.\nWe obtain the categories of personal information listed above from the following categories of sources:\n- Directly from You, such as when you set up an account to use the Reulay Oasis app.\n- Indirectly from You, such as electron...",
+                "url": "https://www.reulay.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1620941994,
+            "url": "https://www.reulay.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use for a variety of business purposes, including fulfilling agreements with users, providing and improving services, analyzing and improving services, sharing with third parties for business purposes, and processing personal data for fraud prevention, customer service, promotional offers, and tailored content based on user needs.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the various purposes for collecting and using personal information, highlighting the app's commitment to transparency regarding data practices.",
+            "reference": "We collect, store, use, and Process Personal Information about users for a variety of business purposes, including to: - To Fulfill our Agreement with You and Provide our Services: Reulay will use your Personal Information to provide and improve the Services... processing payments and transactions; communicating with you about your Account, activities on our Services, and policy changes; providing our newsletter; or providing customer or technical support. - Analyze and Improve our Services Pursuant to Our Legitimate Interest: Reulay may use your Personal Information... including: detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity... URL: https://www.reulay.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bb39fd9d209e9868e7f8721cf082b0d5fb5acd41eb2d1efc82090c73e7fed933",
+                "score": 0.555586,
+                "excerpt": "third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app:\n- Session Data: We may measure, collect, and store your Session Data, including information or data related to your eye and head movement, heart rate and breathing, and your mood and feelings (measured through your responses to surveys and questionnaires in the App), in connection with your use of the Services; if you use the Services through an Acc...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "6321e045c42d7d781dc9bfdee5d8ba6637e5ffbe604bdae895e640d651c2c931",
+                "score": 0.13963085,
+                "excerpt": "described more fully in Sections 2, 3, and 10 of Our Privacy Policy. Personal information does not include (1) de-identified or aggregated consumer information; (2) publicly available information from government records; or (3) information excluded from the CCPA’s scope.\nWe obtain the categories of personal information listed above from the following categories of sources:\n- Directly from You, such as when you set up an account to use the Reulay Oasis app.\n- Indirectly from You, such as electron...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "a35ef83fc5cb0f547429187865a5b309cb28a72cba935157783734ad2520333a",
+                "score": 0.03289904,
+                "excerpt": "data to fulfill Our contracts with business partners, such as third parties that distribute or support Our Services or business operations.\n- Our business interest in processing personal data to establish, exercise or defend against fraud, illegal activity, and claims and other liabilities, including by enforcing the terms and conditions that govern the Services We provide.\n- Our business interest in providing You with emails and push notifications for timely introductory materials and informati...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "031ce89f0bb47d3f3db355e4beff4fc192241801690b9746d49c88646743ddd9",
+                "score": 0.029090757,
+                "excerpt": "if the request is unlawful or if it may infringe on the rights and freedoms of another person or third party.\nFurther, for Your protection, We may require proof of identity and verification before We can answer the above-described requests.\n- Legal Bases for Processing Data\nIn this subsection, We identify the legal grounds on which We rely to process Your personal data.\nIn accordance with GDPR, We identify the following legal bases on which We rely to process Your personal data:\n- The performanc...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "26eb65ff74e386626acb89170f84be100e79c8a8387230ebce8f6bb574f7bd06",
+                "score": 0.009633653,
+                "excerpt": "Collect\nReulay Inc, Reulay LLC collects the following categories of information about users of the Services:\n- Communications with Us: We may collect Personal Information from you such as your name, email address, phone number, and postal address when you request information about our Services, register for Reulay’s newsletter, request to receive customer or technical support, or otherwise communicate with us.\n- Account Information: If you create an Account, we’ll collect certain information tha...",
+                "url": "https://www.reulay.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1620941994,
+            "url": "https://www.reulay.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request the deletion of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can submit a verifiable request to opt out of data collection or request the deletion of their personal information.",
+            "reference": "In some circumstances, You may submit a verifiable request to opt out of Our sharing of Your Personal Information. URL: https://www.reulay.com/privacy-policy."
+        },
+        "source_documents": [
+            {
+                "id": "8806951e4f26d6e76c635623ed8daca54ca62bbfe26833e6ec553492bd3ee483",
+                "score": 0.9175984,
+                "excerpt": "personal information for a business purpose:\n- Category 1: Identifiers\n- Category 2: Personal Information\n- Category 3: Internet activity\nSpecific examples of such sharing activities can be found in Sections 4 and 11 of Our Privacy Policy. We do not sell Your personal information to third parties. We do share a limited set of data that is gathered when You visit Our Website, such as cookies and pixels, with third parties in order to allow You to see tailored digital advertisements, as further de...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "fd2d2f3a748b7355de67d0ae4dea73f6ecc85c3de6b6603caa35cb35905a0502",
+                "score": 0.87779135,
+                "excerpt": "that We delete any of Your personal information that We collected from You and retained, subject to certain exceptions.\n- Right to Opt-Out: In some circumstances, You may submit a verifiable request to opt out of Our sharing of Your Personal Information.\n- Right to Equal Service and Price (No Discrimination): You have the right not to receive discriminatory treatment for exercising Your CCPA privacy rights.\n- Submitting a Verifiable Consumer Request\nPlease send Your verifiable consumer request t...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "7af220a55795e350dab27d77d1d8a5304715fbad7a77d0ff97052c74d99cd57d",
+                "score": 0.8260112,
+                "excerpt": "certain circumstances, You have the right to request deletion or erasure of Your personal data, such as when required by law, when We no longer need such personal data for the purposes for which it was collected, You have withdrawn written consent, or when We are relying on legitimate interests as a legal basis, and Your rights override Our legitimate interests. Upon Your request, We will permanently and irrevocably anonymize your data such that it can never be reconstructed to identify you as a...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "2b3ed8137248fe12d30752c96e146ee3fa89742822fc1c997071d57507603333",
+                "score": 0.82118756,
+                "excerpt": "Consumer”), You may exercise the following rights under the Utah Consumer Privacy Act (“UCPA”). The UCPA does not apply to individuals acting in a commercial or employment context.\nWe set forth above in our Privacy Policy the categories of Personal Data (referred by Us as “Personal Information”) that We process, the purpose for processing such Personal Data, the categories of Personal Data shared, and the categories of third parties with whom Personal Data is shared.\nUtah Consumers have the foll...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "872eb7fd2fb6d1d3a9e5bc6454180ffc931d4ef9d264488c0b7c078c09612ae4",
+                "score": 0.7804952,
+                "excerpt": "Data, the categories of Personal Data shared, and the categories of third parties with whom Personal Data is shared.\nVirginia Consumers have the following rights, all subject to the meanings and exceptions set forth in the VCDPA:\n- To confirm whether We are processing Your Personal Data and request to access such data (“Right to Know” and “Right to Access”).\n- That We correct inaccurate Personal Data We hold about You (“Right to Correct”).\n- That We delete the Personal Data provided by You or ob...",
+                "url": "https://www.reulay.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1620941994,
+            "url": "https://www.reulay.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various business purposes such as providing customer service communications, verifying eligibility in a community, complying with legal obligations, and more.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares personal data with third parties for different business interests and obligations.",
+            "reference": "We may disclose Your personal information to third parties for a business purpose. In such cases, We enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential. URL: https://www.reulay.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bb39fd9d209e9868e7f8721cf082b0d5fb5acd41eb2d1efc82090c73e7fed933",
+                "score": 0.9592307,
+                "excerpt": "third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app:\n- Session Data: We may measure, collect, and store your Session Data, including information or data related to your eye and head movement, heart rate and breathing, and your mood and feelings (measured through your responses to surveys and questionnaires in the App), in connection with your use of the Services; if you use the Services through an Acc...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "26eb65ff74e386626acb89170f84be100e79c8a8387230ebce8f6bb574f7bd06",
+                "score": 0.84972197,
+                "excerpt": "Collect\nReulay Inc, Reulay LLC collects the following categories of information about users of the Services:\n- Communications with Us: We may collect Personal Information from you such as your name, email address, phone number, and postal address when you request information about our Services, register for Reulay’s newsletter, request to receive customer or technical support, or otherwise communicate with us.\n- Account Information: If you create an Account, we’ll collect certain information tha...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "6321e045c42d7d781dc9bfdee5d8ba6637e5ffbe604bdae895e640d651c2c931",
+                "score": 0.6057407,
+                "excerpt": "described more fully in Sections 2, 3, and 10 of Our Privacy Policy. Personal information does not include (1) de-identified or aggregated consumer information; (2) publicly available information from government records; or (3) information excluded from the CCPA’s scope.\nWe obtain the categories of personal information listed above from the following categories of sources:\n- Directly from You, such as when you set up an account to use the Reulay Oasis app.\n- Indirectly from You, such as electron...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "29a540a3754a43792483c204a793532142f8a1caf840bf169621481f4305794c",
+                "score": 0.3336118,
+                "excerpt": "subscriptions for the benefit of a third party through the Reulay “gifting” program when We have launched this program.\n- Our business interest in providing You with customer service communications regarding Your account, questions about Our Services, or any other matters directed to customer service staff, in order to have clear and easy communication with You and to respond to Your requests.\n- Our business interest in collecting data related to unplanned downtime or errors in Our Services.\n- O...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "a35ef83fc5cb0f547429187865a5b309cb28a72cba935157783734ad2520333a",
+                "score": 0.15882562,
+                "excerpt": "data to fulfill Our contracts with business partners, such as third parties that distribute or support Our Services or business operations.\n- Our business interest in processing personal data to establish, exercise or defend against fraud, illegal activity, and claims and other liabilities, including by enforcing the terms and conditions that govern the Services We provide.\n- Our business interest in providing You with emails and push notifications for timely introductory materials and informati...",
+                "url": "https://www.reulay.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1620941994,
+            "url": "https://www.reulay.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties for purposes such as detecting security incidents, verifying eligibility in a Community, providing customer service communications, collecting data related to downtime or errors, complying with legal obligations, and cross-border data transfers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers for security purposes",
+                        "Partners associated with Communities",
+                        "Customer service staff",
+                        "Partners for data collection related to downtime or errors",
+                        "Legal compliance entities",
+                        "Recipients outside of GDPR countries under certain conditions"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions various third parties with whom the app shares data for different purposes. These include security service providers, partners associated with Communities, customer service staff, partners for data collection, legal compliance entities, and recipients outside GDPR countries.",
+            "reference": "The app shares data with a variety of third parties, including service providers for security purposes, Partners associated with Communities, customer service staff, Partners for data collection related to downtime or errors, legal compliance entities, and recipients outside of GDPR countries under certain conditions. URL: https://www.reulay.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "bb39fd9d209e9868e7f8721cf082b0d5fb5acd41eb2d1efc82090c73e7fed933",
+                "score": 0.9205043,
+                "excerpt": "third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app:\n- Session Data: We may measure, collect, and store your Session Data, including information or data related to your eye and head movement, heart rate and breathing, and your mood and feelings (measured through your responses to surveys and questionnaires in the App), in connection with your use of the Services; if you use the Services through an Acc...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "29a540a3754a43792483c204a793532142f8a1caf840bf169621481f4305794c",
+                "score": 0.7314424,
+                "excerpt": "subscriptions for the benefit of a third party through the Reulay “gifting” program when We have launched this program.\n- Our business interest in providing You with customer service communications regarding Your account, questions about Our Services, or any other matters directed to customer service staff, in order to have clear and easy communication with You and to respond to Your requests.\n- Our business interest in collecting data related to unplanned downtime or errors in Our Services.\n- O...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "26eb65ff74e386626acb89170f84be100e79c8a8387230ebce8f6bb574f7bd06",
+                "score": 0.58593065,
+                "excerpt": "Collect\nReulay Inc, Reulay LLC collects the following categories of information about users of the Services:\n- Communications with Us: We may collect Personal Information from you such as your name, email address, phone number, and postal address when you request information about our Services, register for Reulay’s newsletter, request to receive customer or technical support, or otherwise communicate with us.\n- Account Information: If you create an Account, we’ll collect certain information tha...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "6321e045c42d7d781dc9bfdee5d8ba6637e5ffbe604bdae895e640d651c2c931",
+                "score": 0.4551381,
+                "excerpt": "described more fully in Sections 2, 3, and 10 of Our Privacy Policy. Personal information does not include (1) de-identified or aggregated consumer information; (2) publicly available information from government records; or (3) information excluded from the CCPA’s scope.\nWe obtain the categories of personal information listed above from the following categories of sources:\n- Directly from You, such as when you set up an account to use the Reulay Oasis app.\n- Indirectly from You, such as electron...",
+                "url": "https://www.reulay.com/privacy-policy"
+            },
+            {
+                "id": "a35ef83fc5cb0f547429187865a5b309cb28a72cba935157783734ad2520333a",
+                "score": 0.38087407,
+                "excerpt": "data to fulfill Our contracts with business partners, such as third parties that distribute or support Our Services or business operations.\n- Our business interest in processing personal data to establish, exercise or defend against fraud, illegal activity, and claims and other liabilities, including by enforcing the terms and conditions that govern the Services We provide.\n- Our business interest in providing You with emails and push notifications for timely introductory materials and informati...",
+                "url": "https://www.reulay.com/privacy-policy"
+            }
+        ]
+    }
+]

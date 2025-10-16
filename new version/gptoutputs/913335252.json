@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 913335252,
+      "url": "https://brilliant.org/privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that Brilliant collects information you voluntarily submit to the Service, such as your name, email address, school, date of birth, etc. Additionally, it mentions that certain anonymous types of information may be automatically received and stored whenever you interact with the Service.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly outlines the types of personal information collected and the circumstances under which it is gathered.",
+          "content": "Brilliant collects personal information that users voluntarily submit, as well as certain anonymous information automatically when users interact with the Service."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected, ensuring transparency about data collection practices.",
+      "reference": "Section 3: What Personal Information Does Brilliant Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 913335252,
+      "url": "https://brilliant.org/privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "Brilliant collects personally identifiable information that users voluntarily submit when registering for an account, which includes name, email address, school, and date of birth. Additionally, it may automatically receive and store certain anonymous information such as IP address, domain server, and type of Internet browser when users interact with the Service.",
+        "simple_answer": "Brilliant collects personal information like name, email, school, and date of birth, as well as anonymous data like IP address and browser type.",
+        "extended_simple_answer": {
+          "comment": "Brilliant gathers both personal and anonymous data to enhance user experience and service functionality.",
+          "content": "The personal information includes details provided during account registration, while anonymous data helps analyze trends and administer the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: What Personal Information Does Brilliant Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 913335252,
+      "url": "https://brilliant.org/privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected will primarily be used to provide the Service, improve the Service, and for other uses as described in the privacy policy.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The information will be used primarily to provide the Service, improve the Service, and develop new products, services, and features."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which personal information is collected, ensuring transparency for users regarding how their data will be utilized.",
+      "reference": "Section 5: How does Brilliant use the information it collects?"
+    }
+  },
+  {
+    "meta": {
+      "id": 913335252,
+      "url": "https://brilliant.org/privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection entirely. However, it mentions that users can prevent the sharing of their Personal Information with third parties when notified. Additionally, if Brilliant learns that it has collected personal information from a Minor, it will delete that information as quickly as possible. Users can also contact Brilliant at privacy@brilliant.org if they believe a Minor has provided personal information.",
+        "simple_answer": "Users cannot fully opt out of data collection, but they can prevent sharing their data with third parties.",
+        "extended_simple_answer": {
+          "comment": "While users have some control over their data, complete opt-out options are not provided.",
+          "content": "Users can prevent sharing of their Personal Information with third parties when notified. If Brilliant collects data from a Minor, it will delete that information. Users can contact Brilliant regarding concerns about data collection."
+        }
+      },
+      "analysis": "The policy indicates limited options for users to control their data, primarily focusing on sharing rather than collection.",
+      "reference": "Section 6: Will Brilliant Share Any of the Personal Information it Receives?; Section 4: What about children?"
+    }
+  },
+  {
+    "meta": {
+      "id": 913335252,
+      "url": "https://brilliant.org/privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares personal information with third parties in limited circumstances. It does not rent or sell personal information but may share it with service providers and agents to perform tasks on its behalf, during business transfers, to protect the rights and safety of Brilliant and others, and with user consent.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "The app has specific conditions under which it shares personal information.",
+          "content": "Brilliant shares personal information with service providers and agents for tasks, during business transfers, to comply with the law, and with user consent."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the circumstances under which personal information may be shared with third parties, ensuring users are informed about how their data may be used.",
+      "reference": "Section 6: Will Brilliant Share Any of the Personal Information it Receives?"
+    }
+  },
+  {
+    "meta": {
+      "id": 913335252,
+      "url": "https://brilliant.org/privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with the following third parties: Service Providers and Agents, who perform tasks on behalf of Brilliant, such as payment processing and hosting services. Additionally, data may be shared during Business Transfers, where customer information is typically one of the business assets transferred. Personal Information may also be released to comply with the law, enforce agreements, or protect the rights and safety of Brilliant and others.",
+        "simple_answer": "The app shares data with Service Providers, during Business Transfers, and to comply with legal obligations.",
+        "extended_simple_answer": {
+          "comment": "Brilliant does not rent or sell personal information but shares it under specific circumstances.",
+          "content": "Data is shared with Service Providers for tasks like payment processing, during business transfers, and to comply with legal requirements."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the circumstances under which Brilliant shares personal information, emphasizing that it does not sell or rent this information.",
+      "reference": "Section 6: Will Brilliant Share Any of the Personal Information it Receives?"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1498229813,
+      "url": "https://www.reachwell.info/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of personal data, including Identity Data, Contact Data, Biological Data, Health and Lifestyle Data, Device Data, Profile Data, Usage Data, and Communications Data. It specifies that some of this data is particularly sensitive, such as health and ethnicity data, and that users consent to this collection by using the app.",
+        "simple_answer": "Yes, the app declares the collection of personal data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the types of data collected and the user's consent to this collection.",
+          "content": "The app collects Identity Data, Contact Data, Biological Data, Health and Lifestyle Data, Device Data, Profile Data, Usage Data, and Communications Data, and requires user consent for sensitive data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, emphasizing the importance of user consent, especially for sensitive data.",
+      "reference": "Section 2: The data we collect about you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498229813,
+      "url": "https://www.reachwell.info/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including: Identity Data (name, username, date of birth, biological sex), Contact Data (email address), Ethnicity, Biological Data (age, height, weight, heart rate, blood pressure, blood glucose, cholesterol), Health and Lifestyle Data (physical activity, diet, stress levels, alcohol use, smoking, financial and mental wellbeing data), Device Data (mobile device type, unique device identifier, mobile network information, operating system, browser type, time zone), Profile Data (username, password, interests, preferences, feedback), Usage Data (details of app usage), and Communications Data (communication preferences). Additionally, it collects sensitive data such as ethnicity and health information, which is integral to the app's purpose.",
+        "simple_answer": "The app collects Identity Data, Contact Data, Ethnicity, Biological Data, Health and Lifestyle Data, Device Data, Profile Data, Usage Data, and Communications Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of personal data, including sensitive information.",
+          "content": "Types of data collected include Identity Data, Contact Data, Ethnicity, Biological Data, Health and Lifestyle Data, Device Data, Profile Data, Usage Data, and Communications Data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: The data we collect about you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498229813,
+      "url": "https://www.reachwell.info/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the data collected is integral to the purpose of the App, which includes collecting sensitive data such as ethnicity and health information. By agreeing to use the App and inputting data, users consent to the collection of this data.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app's privacy policy clearly outlines the types of data collected and their purposes.",
+          "content": "The data collected is used to provide services related to health and lifestyle, and users consent to this by using the App."
+        }
+      },
+      "analysis": "The privacy policy explicitly states that the data collected is essential for the functionality of the App, particularly in relation to health and lifestyle services.",
+      "reference": "Section 2: The data we collect about you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498229813,
+      "url": "https://www.reachwell.info/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that users must consent to the collection of sensitive data by agreeing to use the App. If users do not consent, they must not use the App. Additionally, it is important for users to keep their personal data accurate and current, suggesting that they should inform the company of any changes, but it does not provide a clear mechanism for opting out or deleting data.",
+        "simple_answer": "The policy does not provide a clear option to opt out of data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "Users must consent to data collection to use the App.",
+          "content": "If users do not consent, they must not use the App. The policy emphasizes the importance of keeping personal data accurate but does not specify a process for opting out or deleting data."
+        }
+      },
+      "analysis": "The lack of explicit options for opting out or deleting data may raise concerns for users regarding their control over personal information.",
+      "reference": "Section: 'Sensitive Data' and 'How is your personal data collected?'"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498229813,
+      "url": "https://www.reachwell.info/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share aggregated and anonymised data with third parties, such as employers or organizations that provide the app to users. This data is not considered personal data as it does not directly or indirectly reveal the identity of users. Additionally, the app may receive personal data from third-party analytics providers and wearable device manufacturers.",
+        "simple_answer": "Yes, the app shares aggregated and anonymised data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app does not share personal data directly but may share aggregated data.",
+          "content": "The app may provide anonymous, aggregated data to employers or organizations and may receive data from third-party analytics providers and wearable devices."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: The data we collect about you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498229813,
+      "url": "https://www.reachwell.info/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with analytics providers, such as Google Analytics, who may be based outside the UK. Additionally, it may receive personal data from other app and device providers who collect information from any wearable device or fitness tracker that you connect to your account on the App. Those third parties will share data collected from your wearable device or tracker with the app.",
+        "simple_answer": "The app shares data with analytics providers like Google Analytics and other app/device providers.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with third parties to enhance its services and functionality.",
+          "content": "Data may be shared with analytics providers and other app/device providers that collect information from connected wearable devices."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: The data we collect about you"
+    }
+  }
+]

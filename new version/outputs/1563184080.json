@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 1563184080,
+            "url": "https://timestwelve.xyz/policies#privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data in the privacy policy.",
+            "reference": "We also share personal information if disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request. URL: https://timestwelve.xyz/policies#privacy"
+        },
+        "source_documents": [
+            {
+                "id": "85554590e4e1652ed5f65422f1b0c9fab49321c09fc2563abdad513f51b6bef0",
+                "score": 0.025130946,
+                "excerpt": "out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. These companies are obligated to protect your information in accordance with data protection law and provide the necessary safeguards if they are outside of the EU. The companies are bound by our instructions, and are not allowed to use the shared data for any other purpose. We also share personal information if disclosure of such information is reasonabl...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "299e499e2d25633623841f1fc5e3124266a4aeca0514a36b9e93999256aa3b7a",
+                "score": 0.015365342,
+                "excerpt": "newsletter, we collect a variety of information, including your email address, device information, IP address, and a record of your communication. When using our software, we collect additional information such as crash reports, information about the operating system, application version, user language, and whether or not you're logged in to the Service. When using Service to update your data, we collect the content you provided, as well as additional information such as access logs and device i...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "d3505aa0fdd56101423db791e431ff57714b36143687a8cf47875efb0153758d",
+                "score": 0.007846239,
+                "excerpt": "also use personal information for internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications. Controller within the meaning of the data protection laws is Pupishi OÜ, located at Sepapaja 6, Tallinn 15551, Estonia, E-Mail: hi@pupishi.com, Managing Director: Oleksandr Potryvaiev.\nCollection and Use of Non-Personal Information\nNon-personal information is data that cannot, on its own, be used to uniquely identify a specific individu...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "6b1c05d02b3274452f7e67ed27f13e75182b706113d4560b1a29c264a403df95",
+                "score": 0.0044857943,
+                "excerpt": "Privacy policy\nUpdated: Feb 5, 2022\nYour privacy is very important to us at Pupishi OÜ. This Privacy Policy covers how we collect, use, disclose, transfer, and store your information. Please take a moment to get to know our practices and contact us if you have any questions.\nCollection and Use of Personal Information\nPersonal information is data that can be used to uniquely identify or contact a specific individual. You may be asked to provide your personal information anytime you are in contact...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "f4b6908fae790892117854ea4d654ca9f9903b785902a75cc3e59422aec12af2",
+                "score": 0.0035936027,
+                "excerpt": "the relevant jurisdiction, unless their parent provided verifiable consent. If we learn that we have collected personal information from a child under 16, or equivalent minimum age in the relevant jurisdiction, without consent of their parent, we will take steps to delete this information as soon as possible. Parents or guardians can contact us.\nThird-Party Sites and Services\nCompany’s website or any of our services may contain links to third-party websites or services. We are not responsible fo...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1563184080,
+            "url": "https://timestwelve.xyz/policies#privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects email addresses, device information, IP addresses, records of communication, crash reports, information about operating systems, application versions, user language, whether the user is logged in, content provided by the user, access logs, and device identifiers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email addresses",
+                        "Device information",
+                        "IP addresses",
+                        "Records of communication",
+                        "Crash reports",
+                        "Information about operating systems",
+                        "Application versions",
+                        "User language",
+                        "User login status",
+                        "Content provided by the user",
+                        "Access logs",
+                        "Device identifiers"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of data mentioned in the privacy policy section detailing the collection of personal information. The information covers a range of data related to user interactions and software usage.",
+            "reference": "When you visit our website, connect to our services, contact us, use our software or subscribe to our newsletter, we collect a variety of information, including your email address, device information, IP address, and a record of your communication. When using our software, we collect additional information such as crash reports, information about the operating system, application version, user language, and whether or not you're logged in to the Service. When using Service to update your data, we collect the content you provided, as well as additional information such as access logs and device identifiers. URL: https://timestwelve.xyz/policies#privacy"
+        },
+        "source_documents": [
+            {
+                "id": "299e499e2d25633623841f1fc5e3124266a4aeca0514a36b9e93999256aa3b7a",
+                "score": 0.2989005,
+                "excerpt": "newsletter, we collect a variety of information, including your email address, device information, IP address, and a record of your communication. When using our software, we collect additional information such as crash reports, information about the operating system, application version, user language, and whether or not you're logged in to the Service. When using Service to update your data, we collect the content you provided, as well as additional information such as access logs and device i...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "6b1c05d02b3274452f7e67ed27f13e75182b706113d4560b1a29c264a403df95",
+                "score": 0.22850065,
+                "excerpt": "Privacy policy\nUpdated: Feb 5, 2022\nYour privacy is very important to us at Pupishi OÜ. This Privacy Policy covers how we collect, use, disclose, transfer, and store your information. Please take a moment to get to know our practices and contact us if you have any questions.\nCollection and Use of Personal Information\nPersonal information is data that can be used to uniquely identify or contact a specific individual. You may be asked to provide your personal information anytime you are in contact...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "d3505aa0fdd56101423db791e431ff57714b36143687a8cf47875efb0153758d",
+                "score": 0.047602657,
+                "excerpt": "also use personal information for internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications. Controller within the meaning of the data protection laws is Pupishi OÜ, located at Sepapaja 6, Tallinn 15551, Estonia, E-Mail: hi@pupishi.com, Managing Director: Oleksandr Potryvaiev.\nCollection and Use of Non-Personal Information\nNon-personal information is data that cannot, on its own, be used to uniquely identify a specific individu...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "070b6bc61f7fea6e9046437f1f8a2d1f8ea58d6976e5c2b42ec00a8320bcb5ad",
+                "score": 0.028761586,
+                "excerpt": "our services, we gather some information automatically on our servers and store it in log files. This information includes your browser type, version, and language, your operating system, the referring and exit websites, IP address, a date/time stamp of the request, and the requested resource (file name and URL). We use this information in anonymized form for statistical analysis, to administer our site, and to improve our product and services, without directly associating this data with individ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "85554590e4e1652ed5f65422f1b0c9fab49321c09fc2563abdad513f51b6bef0",
+                "score": 0.026305279,
+                "excerpt": "out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. These companies are obligated to protect your information in accordance with data protection law and provide the necessary safeguards if they are outside of the EU. The companies are bound by our instructions, and are not allowed to use the shared data for any other purpose. We also share personal information if disclosure of such information is reasonabl...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1563184080,
+            "url": "https://timestwelve.xyz/policies#privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use for various activities, such as product improvement and customer communication.",
+            "reference": "We also use personal information for internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications. ... We may process your personal information for the purposes described in this Privacy Policy... URL: https://timestwelve.xyz/policies#privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d3505aa0fdd56101423db791e431ff57714b36143687a8cf47875efb0153758d",
+                "score": 0.14282864,
+                "excerpt": "also use personal information for internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications. Controller within the meaning of the data protection laws is Pupishi OÜ, located at Sepapaja 6, Tallinn 15551, Estonia, E-Mail: hi@pupishi.com, Managing Director: Oleksandr Potryvaiev.\nCollection and Use of Non-Personal Information\nNon-personal information is data that cannot, on its own, be used to uniquely identify a specific individu...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "85554590e4e1652ed5f65422f1b0c9fab49321c09fc2563abdad513f51b6bef0",
+                "score": 0.06928941,
+                "excerpt": "out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. These companies are obligated to protect your information in accordance with data protection law and provide the necessary safeguards if they are outside of the EU. The companies are bound by our instructions, and are not allowed to use the shared data for any other purpose. We also share personal information if disclosure of such information is reasonabl...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "299e499e2d25633623841f1fc5e3124266a4aeca0514a36b9e93999256aa3b7a",
+                "score": 0.06548521,
+                "excerpt": "newsletter, we collect a variety of information, including your email address, device information, IP address, and a record of your communication. When using our software, we collect additional information such as crash reports, information about the operating system, application version, user language, and whether or not you're logged in to the Service. When using Service to update your data, we collect the content you provided, as well as additional information such as access logs and device i...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "a0f26aaf80caffe34b42d7834d9eeac878348e385d32609d69ce3ecb2f4ce337",
+                "score": 0.061536737,
+                "excerpt": "or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Company or by a third party to whom it may be necessary to disclose information. The personal information we collect allows us to keep you up to date on our latest product announcements, software updates, and services. You may at any time opt out of receiving such communications by contacting us. In particular, we only send you our newsletter with your prior consent, and you can opt out of receiving ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "6b1c05d02b3274452f7e67ed27f13e75182b706113d4560b1a29c264a403df95",
+                "score": 0.007489625,
+                "excerpt": "Privacy policy\nUpdated: Feb 5, 2022\nYour privacy is very important to us at Pupishi OÜ. This Privacy Policy covers how we collect, use, disclose, transfer, and store your information. Please take a moment to get to know our practices and contact us if you have any questions.\nCollection and Use of Personal Information\nPersonal information is data that can be used to uniquely identify or contact a specific individual. You may be asked to provide your personal information anytime you are in contact...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1563184080,
+            "url": "https://timestwelve.xyz/policies#privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request the deletion or freezing of their data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can request information about stored personal data, correct incorrect data, request deletion or freezing of data, and object to the use of data.",
+            "reference": "You are entitled to request information about the personal data stored by us, to have incorrect data corrected, or to request the freezing or deletion of your data. Further, you may object to the use of your data at any time with effect for the future. URL: https://timestwelve.xyz/policies#privacy"
+        },
+        "source_documents": [
+            {
+                "id": "57ef3fa4df3918da98df2db1e04ded548c715b4b845fd56ea8e772ccfe79409f",
+                "score": 0.5491873,
+                "excerpt": "and processed by anyone. So please take care when using these features.\nAccess to Personal Information\nYou are entitled to request information about the personal data stored by us, to have incorrect data corrected, or to request the freezing or deletion of your data. You are also entitled to the portability of your personal data. Further, you may object to the use of your data at any time with effect for the future. There are, however, cases where we are not allowed to delete your data in its en...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "a0f26aaf80caffe34b42d7834d9eeac878348e385d32609d69ce3ecb2f4ce337",
+                "score": 0.45677322,
+                "excerpt": "or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Company or by a third party to whom it may be necessary to disclose information. The personal information we collect allows us to keep you up to date on our latest product announcements, software updates, and services. You may at any time opt out of receiving such communications by contacting us. In particular, we only send you our newsletter with your prior consent, and you can opt out of receiving ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "f4b6908fae790892117854ea4d654ca9f9903b785902a75cc3e59422aec12af2",
+                "score": 0.34764785,
+                "excerpt": "the relevant jurisdiction, unless their parent provided verifiable consent. If we learn that we have collected personal information from a child under 16, or equivalent minimum age in the relevant jurisdiction, without consent of their parent, we will take steps to delete this information as soon as possible. Parents or guardians can contact us.\nThird-Party Sites and Services\nCompany’s website or any of our services may contain links to third-party websites or services. We are not responsible fo...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "b6b8c94836db79324736736eadc1db99ecd034478a4abe7a5a4bbf85cb786a33",
+                "score": 0.17938675,
+                "excerpt": "unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. Inside Company, we restrict access to personal information to only those employees who need to know that information in order to deploy and maintain our services...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "85554590e4e1652ed5f65422f1b0c9fab49321c09fc2563abdad513f51b6bef0",
+                "score": 0.027532939,
+                "excerpt": "out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. These companies are obligated to protect your information in accordance with data protection law and provide the necessary safeguards if they are outside of the EU. The companies are bound by our instructions, and are not allowed to use the shared data for any other purpose. We also share personal information if disclosure of such information is reasonabl...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1563184080,
+            "url": "https://timestwelve.xyz/policies#privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that the app does share data with third parties for various services such as hosting, support, newsletters, website traffic analysis, cloud services, app beta testing, and app crash reports.",
+            "reference": "We work together with other companies who provide information processing services. We only share personal information with these companies if you have agreed to the transfer, or if it is permitted by data protection law. The information we share is limited to the data necessary for the third parties to provide their services. These companies are used for various services including hosting of our website and support portal, providing our help desk software, sending out newsletters, analyzing our website traffic, hosting our cloud services, managing our app beta testing, and processing our app crash reports. URL: https://timestwelve.xyz/policies#privacy"
+        },
+        "source_documents": [
+            {
+                "id": "070b6bc61f7fea6e9046437f1f8a2d1f8ea58d6976e5c2b42ec00a8320bcb5ad",
+                "score": 0.8441522,
+                "excerpt": "our services, we gather some information automatically on our servers and store it in log files. This information includes your browser type, version, and language, your operating system, the referring and exit websites, IP address, a date/time stamp of the request, and the requested resource (file name and URL). We use this information in anonymized form for statistical analysis, to administer our site, and to improve our product and services, without directly associating this data with individ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "85554590e4e1652ed5f65422f1b0c9fab49321c09fc2563abdad513f51b6bef0",
+                "score": 0.6897238,
+                "excerpt": "out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. These companies are obligated to protect your information in accordance with data protection law and provide the necessary safeguards if they are outside of the EU. The companies are bound by our instructions, and are not allowed to use the shared data for any other purpose. We also share personal information if disclosure of such information is reasonabl...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "f4b6908fae790892117854ea4d654ca9f9903b785902a75cc3e59422aec12af2",
+                "score": 0.08299415,
+                "excerpt": "the relevant jurisdiction, unless their parent provided verifiable consent. If we learn that we have collected personal information from a child under 16, or equivalent minimum age in the relevant jurisdiction, without consent of their parent, we will take steps to delete this information as soon as possible. Parents or guardians can contact us.\nThird-Party Sites and Services\nCompany’s website or any of our services may contain links to third-party websites or services. We are not responsible fo...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "299e499e2d25633623841f1fc5e3124266a4aeca0514a36b9e93999256aa3b7a",
+                "score": 0.018761085,
+                "excerpt": "newsletter, we collect a variety of information, including your email address, device information, IP address, and a record of your communication. When using our software, we collect additional information such as crash reports, information about the operating system, application version, user language, and whether or not you're logged in to the Service. When using Service to update your data, we collect the content you provided, as well as additional information such as access logs and device i...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "a0f26aaf80caffe34b42d7834d9eeac878348e385d32609d69ce3ecb2f4ce337",
+                "score": 0.014447852,
+                "excerpt": "or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Company or by a third party to whom it may be necessary to disclose information. The personal information we collect allows us to keep you up to date on our latest product announcements, software updates, and services. You may at any time opt out of receiving such communications by contacting us. In particular, we only send you our newsletter with your prior consent, and you can opt out of receiving ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1563184080,
+            "url": "https://timestwelve.xyz/policies#privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with companies providing services such as hosting of the website and support portal, help desk software, newsletter sending, website traffic analysis, cloud services hosting, app beta testing management, and app crash report processing.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "hosting of the website and support portal, help desk software, newsletter sending, website traffic analysis, cloud services hosting, app beta testing management, app crash report processing"
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the specific third parties with whom the app shares data, outlining the services each party provides.",
+            "reference": "The information we share is limited to the data necessary for the third parties to provide their services... hosting of our website and support portal, providing our help desk software, sending out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. URL: https://timestwelve.xyz/policies#privacy"
+        },
+        "source_documents": [
+            {
+                "id": "070b6bc61f7fea6e9046437f1f8a2d1f8ea58d6976e5c2b42ec00a8320bcb5ad",
+                "score": 0.8818186,
+                "excerpt": "our services, we gather some information automatically on our servers and store it in log files. This information includes your browser type, version, and language, your operating system, the referring and exit websites, IP address, a date/time stamp of the request, and the requested resource (file name and URL). We use this information in anonymized form for statistical analysis, to administer our site, and to improve our product and services, without directly associating this data with individ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "85554590e4e1652ed5f65422f1b0c9fab49321c09fc2563abdad513f51b6bef0",
+                "score": 0.8623517,
+                "excerpt": "out newsletters, analyzing our website traffic, hosting our cloud services, manage our app beta testing, and processing our app crash reports. These companies are obligated to protect your information in accordance with data protection law and provide the necessary safeguards if they are outside of the EU. The companies are bound by our instructions, and are not allowed to use the shared data for any other purpose. We also share personal information if disclosure of such information is reasonabl...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "f4b6908fae790892117854ea4d654ca9f9903b785902a75cc3e59422aec12af2",
+                "score": 0.1908748,
+                "excerpt": "the relevant jurisdiction, unless their parent provided verifiable consent. If we learn that we have collected personal information from a child under 16, or equivalent minimum age in the relevant jurisdiction, without consent of their parent, we will take steps to delete this information as soon as possible. Parents or guardians can contact us.\nThird-Party Sites and Services\nCompany’s website or any of our services may contain links to third-party websites or services. We are not responsible fo...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "a0f26aaf80caffe34b42d7834d9eeac878348e385d32609d69ce3ecb2f4ce337",
+                "score": 0.06717858,
+                "excerpt": "or when we have assessed it is necessary for the purposes of the legitimate interests pursued by Company or by a third party to whom it may be necessary to disclose information. The personal information we collect allows us to keep you up to date on our latest product announcements, software updates, and services. You may at any time opt out of receiving such communications by contacting us. In particular, we only send you our newsletter with your prior consent, and you can opt out of receiving ...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            },
+            {
+                "id": "d3505aa0fdd56101423db791e431ff57714b36143687a8cf47875efb0153758d",
+                "score": 0.029929748,
+                "excerpt": "also use personal information for internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications. Controller within the meaning of the data protection laws is Pupishi OÜ, located at Sepapaja 6, Tallinn 15551, Estonia, E-Mail: hi@pupishi.com, Managing Director: Oleksandr Potryvaiev.\nCollection and Use of Non-Personal Information\nNon-personal information is data that cannot, on its own, be used to uniquely identify a specific individu...",
+                "url": "https://timestwelve.xyz/policies#privacy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6446434968,
+      "url": "https://choprafoundation.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects personally identifiable information (PII) from users when they register for or use certain services, and it describes the types of information collected.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The policy explicitly mentions the collection of PII and other information from users.",
+          "content": "The Chopra Foundation collects information from users, including names, email addresses, and payment information, among other data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, indicating transparency in data collection practices.",
+      "reference": "Section I. Personally Identifiable and Other Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446434968,
+      "url": "https://choprafoundation.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personally identifiable information (PII) such as name, company, title, phone number, email address, mailing address, credit card number, member name or username, password, contact information, occupation, workplace, interests, age, marital status, education, and information about children. It also collects payment card information for donations or purchases, and may record telephone calls and video conferences.",
+        "simple_answer": "The app collects personally identifiable information (PII) including names, contact details, and payment information.",
+        "extended_simple_answer": {
+          "comment": "The app collects a variety of personal information to provide its services and enhance user experience.",
+          "content": "The types of data collected include name, email, phone number, mailing address, credit card information, and additional details like occupation and interests."
+        }
+      },
+      "analysis": "",
+      "reference": "Section I.A. Information About Our Users"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446434968,
+      "url": "https://choprafoundation.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide services, enhance user experience, tailor content, and offer opportunities for products or services that may be of interest to users.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines that the collected information is used for various purposes including service provision and marketing.",
+          "content": "The information collected is used to serve users better, tailor content, and offer relevant opportunities."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which user data is collected, ensuring transparency in data handling practices.",
+      "reference": "Section I.A - Information About Our Users"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446434968,
+      "url": "https://choprafoundation.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention a process for users to opt out of data collection or delete their data. However, it does state that users can remove persistent cookies by following the directions provided in their Internet browser’s 'help' file, which may help in managing some data collection aspects.",
+        "simple_answer": "The policy does not specify an opt-out process, but users can manage cookies.",
+        "extended_simple_answer": {
+          "comment": "While the policy does not provide a clear opt-out mechanism for all data collection, users have control over cookies, which can limit some data tracking.",
+          "content": "Users can remove persistent cookies through their browser settings, which may help in managing data collection."
+        }
+      },
+      "analysis": "The lack of a clear opt-out process in the privacy policy may raise concerns for users about their ability to control their data. However, the mention of cookie management provides some level of user control.",
+      "reference": "Section I.C.1 - Cookies"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446434968,
+      "url": "https://choprafoundation.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. The Chopra Foundation may supplement the information collected about users with outside records from third parties to enhance their ability to serve users and tailor content. Additionally, if a user sends a communication from the website to someone else, the information provided (typically names and e-mail addresses) is used on a one-time basis to facilitate that communication.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is primarily for enhancing user experience and facilitating communications.",
+          "content": "The Chopra Foundation may combine information from third parties with user data to improve services and may use provided information to facilitate communications."
+        }
+      },
+      "analysis": "The policy indicates that while the app does share data with third parties, it is primarily for the purpose of enhancing user experience and facilitating specific communications, rather than for broad marketing purposes.",
+      "reference": "Section I.A. Information About Our Users"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446434968,
+      "url": "https://choprafoundation.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. However, it mentions that the information collected may be supplemented with outside records from third parties to enhance service delivery and tailor content to users. It also states that if a user sends a communication from the website to someone else, the information provided is used on a one-time basis to facilitate that communication, unless consent is obtained for other marketing purposes.",
+        "simple_answer": "The app may share data with unspecified third parties to enhance services and tailor content.",
+        "extended_simple_answer": {
+          "comment": "The policy does not list specific third parties.",
+          "content": "The app may supplement user information with outside records from third parties for service enhancement and content tailoring."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy suggests a general approach to data sharing, focusing on enhancing user experience rather than detailing individual partnerships.",
+      "reference": "Section I.A. Information About Our Users"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6444067591,
+      "url": "https://neildalyteacher.com/mentlprivacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "The app does not declare the collection of personally identifiable information. It does not collect or maintain user data other than the data the user inputs, which is stored only on the device on which it was entered.",
+        "simple_answer": "No, the app does not collect personal data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states that it does not transmit any personally identifiable information and only stores user-inputted data locally.",
+          "content": "The Application itself does not transmit any personally identifiable information about you, such as your name, address, phone number or email address. It does not collect or maintain user data other than the data the user inputs such as member names, group names, etc."
+        }
+      },
+      "analysis": "",
+      "reference": "What information does the Application obtain and how is it used?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444067591,
+      "url": "https://neildalyteacher.com/mentlprivacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The Application itself does not transmit any personally identifiable information about you, such as your name, address, phone number or email address. It does not collect or maintain user data other than the data the user inputs such as member names, group names, etc. The information entered by the user is stored only on the device on which it was entered and/or devices to which the user chooses to share.",
+        "simple_answer": "The app does not collect any personally identifiable information; it only stores user-inputted data on the device.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect or transmit any personal data.",
+          "content": "The only data involved is what the user inputs, such as member names and group names, which is stored locally on the user's device."
+        }
+      },
+      "analysis": "",
+      "reference": "What information does the Application obtain and how is it used?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444067591,
+      "url": "https://neildalyteacher.com/mentlprivacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "The app does not collect personally identifiable information and only stores data that the user inputs, such as member names and group names, solely on the user's device. Therefore, the purpose of data collection is limited to the information the user chooses to input for their own use.",
+        "simple_answer": "Yes, the app declares that it only collects user-inputted data for personal use.",
+        "extended_simple_answer": {
+          "comment": "The app clarifies that it does not collect or maintain any personally identifiable information.",
+          "content": "The Application itself does not transmit any personally identifiable information about you, such as your name, address, phone number or email address. It does not collect or maintain user data other than the data the user inputs such as member names, group names, etc."
+        }
+      },
+      "analysis": "",
+      "reference": "What information does the Application obtain and how is it used?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444067591,
+      "url": "https://neildalyteacher.com/mentlprivacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The application does not collect personally identifiable information or user data, so there is no data collection to opt out of. Additionally, since the information entered by the user is stored only on the device, users can delete their data by removing the application or clearing the data on their device.",
+        "simple_answer": "Yes, users can delete their data by removing the application or clearing the data on their device.",
+        "extended_simple_answer": {
+          "comment": "Since the app does not collect data, opting out is not applicable.",
+          "content": "Users can manage their data by deleting the app or clearing the data stored on their device."
+        }
+      },
+      "analysis": "The privacy policy indicates that no personal data is collected, which simplifies the process for users regarding data management.",
+      "reference": "What information does the Application obtain and how is it used?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444067591,
+      "url": "https://neildalyteacher.com/mentlprivacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal information with anyone because it does not collect personal information.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states that it does not collect or transmit user data, which means there is no data to share.",
+          "content": "We do not collect personal information, and so we do not share personal information with anyone."
+        }
+      },
+      "analysis": "",
+      "reference": "Do you share personal information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6444067591,
+      "url": "https://neildalyteacher.com/mentlprivacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with any third parties as it does not collect personal information.",
+        "simple_answer": "The app does not share data with any third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that no personal information is collected, hence there are no third parties with whom data is shared.",
+          "content": "We do not collect personal information, and so we do not share personal information with anyone."
+        }
+      },
+      "analysis": "The app's privacy policy clearly indicates that it does not collect or share any personal information, which means there are no third parties involved in data sharing.",
+      "reference": "The Application does not transmit any personally identifiable information about you, such as your name, address, phone number or email address. It does not collect or maintain user data other than the data the user inputs such as member names, group names, etc. We do not collect personal information, and so we do not share personal information with anyone."
+    }
+  }
+]

@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1234966740,
+            "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection and use of information from users.",
+            "reference": "We collect and use the following information from you for the purposes set forth in the “How Do We Use Your Information” section of this Policy. URL: https://mobile.journeypureexpress.com/privacypolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "0b6578e51a6e232e7bf0aa60fb95e39b7e4b47e12cf2267f72c4f22c3ff91f3b",
+                "score": 0.19590157,
+                "excerpt": "the App to the external third-party website.\nWe cannot and do not (1) guarantee the adequacy of the privacy and security practices employed by or the content and media provided by any third parties or their websites, (2) control third parties’ independent collection or use or your information, or (3) endorse any third-party information, products, services, or websites that may be reached through embedded links on the App.\nAny information provided by you or automatically collected from you by a t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "0160f9cd7f43c029bbedec03632225a5c3152b7de390b40a8aafea39e217f3be",
+                "score": 0.09602549,
+                "excerpt": "LOCATED IN OTHER COUNTRIES, INCLUDING THE EUROPEAN UNION AND THE EUROPEAN ECONOMIC AREA. BY USING THIS APP, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE USING THE APP FROM WITHIN THE UNITED STATES.\nWe collect and use the following information from you for the purposes set forth in the “How Do We Use Your Information” section of this Policy. We may also share this information as set forth in the “How Do We Share Information” section below. However, any information that is PHI is governed by our Notice ...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "85fbef0e9deb4cc74d638564abec77be4dca2fa824ec7c4e34d0bda0a2362d1d",
+                "score": 0.038683496,
+                "excerpt": "JourneyPure (referred to herein as “JourneyPure,” “we,” “us,” and “our”) is committed to protecting the privacy and security of the information we collect, use, share, and otherwise process as part of our operations. We also believe in transparency, and we are committed to informing you about how we treat your information.\nOur \"Notice of Privacy Practices\" (https://journeypure.com/privacy-policy/) describes how Protected Health Information (PHI) about you may be used and disclosed and the rights...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "0d633342c81e73d458360f46d1596a3b369c1a03427070d3089eaa5639bad881",
+                "score": 0.03574581,
+                "excerpt": "Should this Policy change, we will post all changes we make to this Policy on this page. If we make material changes to how we treat your information, we will also notify you through a notice on the home page of the App for a reasonable period of time. Any such changes, updates, or modifications shall be effective immediately upon posting on the Site. The date on which this policy was last modified is identified at the beginning of this Policy.\nYou are expected to, and you acknowledge and agree ...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "5891ab9ec3018c724412e3ac6cc4b51be553fe0b700d17a9ab8300b32f8fa679",
+                "score": 0.02665774,
+                "excerpt": "support services on our behalf. Among other things, service providers may help us to administer the App; support our provision of services requested by you; provide technical support; send marketing, promotions and communications to you about our services; and assist with other legitimate purposes permitted by law. |\nOur Notice of Privacy Practices describes how we maintain PHI. Where the information is not PHI, we will retain and use your information for as long as is necessary to (1) fulfill t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1234966740,
+            "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Contact Information, Business Information, User Account Information, and Technical Data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact Information",
+                        "Business Information",
+                        "User Account Information",
+                        "Technical Data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the different types of data the app collects, including Contact Information, Business Information, User Account Information, and Technical Data.",
+            "reference": "Contact Information | When you use the App, we may ask you for your name, telephone number, email address, or other contact details. Depending on the context in which we collect this information, this information may be PHI. Business Information | When you register your facility for an account in the App, we collect your facility name, phone number, and address. We also collect the name of the individuals creating the registration and establishing accounts. User Account Information | In order to access and use the App, you must first complete a registration. When you create an account with us, we collect (1) your name, (2) your address; (3) your organization’s name, as applicable; and (4) your username and password. Technical Data | When you use the App, we automatically collect information from your mobile device, which may include...",
+            "URL": "https://mobile.journeypureexpress.com/privacypolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "0160f9cd7f43c029bbedec03632225a5c3152b7de390b40a8aafea39e217f3be",
+                "score": 0.13307686,
+                "excerpt": "LOCATED IN OTHER COUNTRIES, INCLUDING THE EUROPEAN UNION AND THE EUROPEAN ECONOMIC AREA. BY USING THIS APP, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE USING THE APP FROM WITHIN THE UNITED STATES.\nWe collect and use the following information from you for the purposes set forth in the “How Do We Use Your Information” section of this Policy. We may also share this information as set forth in the “How Do We Share Information” section below. However, any information that is PHI is governed by our Notice ...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "918bfce7dc5f457d8a405a71c0c95e26c2c2c26e857fc1d357a95fe845696fc1",
+                "score": 0.074500255,
+                "excerpt": "of the individuals creating the registration and establishing accounts. We will share the list of registered facilities and users on the log-in page. |\n| User Account Information | In order to access and use the App, you must first complete a registration. When you create an account with us, we collect (1) your name, (2) your address; (3) your organization’s name, as applicable; and (4) your username and password. You may update your account information by editing it in the App. |\n| Technical Da...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "0b6578e51a6e232e7bf0aa60fb95e39b7e4b47e12cf2267f72c4f22c3ff91f3b",
+                "score": 0.030100338,
+                "excerpt": "the App to the external third-party website.\nWe cannot and do not (1) guarantee the adequacy of the privacy and security practices employed by or the content and media provided by any third parties or their websites, (2) control third parties’ independent collection or use or your information, or (3) endorse any third-party information, products, services, or websites that may be reached through embedded links on the App.\nAny information provided by you or automatically collected from you by a t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "85fbef0e9deb4cc74d638564abec77be4dca2fa824ec7c4e34d0bda0a2362d1d",
+                "score": 0.022846196,
+                "excerpt": "JourneyPure (referred to herein as “JourneyPure,” “we,” “us,” and “our”) is committed to protecting the privacy and security of the information we collect, use, share, and otherwise process as part of our operations. We also believe in transparency, and we are committed to informing you about how we treat your information.\nOur \"Notice of Privacy Practices\" (https://journeypure.com/privacy-policy/) describes how Protected Health Information (PHI) about you may be used and disclosed and the rights...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "adcb796c12a3e752750034654b8aff8df04525f50cacb2720a2bc1d03c9fb2e5",
+                "score": 0.021532876,
+                "excerpt": "notifications on your device. You may at any time\nopt-out of receiving these types of communications by changing the settings on your mobile device.\nDevice access permission requests are limited to the information necessary to implement the App. You may opt-out of access and device access permissions by changing the settings on your device. Opting-out will cause the associated features to be disabled in the App. |\nOur Notice of Privacy Practices describes how we may use PHI. Where the data is no...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1234966740,
+            "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app collects and uses information for certain purposes described in the 'How Do We Use Your Information' section of the policy.",
+            "reference": "We collect and use the following information from you for the purposes set forth in the “How Do We Use Your Information” section of this Policy. URL: https://mobile.journeypureexpress.com/privacypolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "0160f9cd7f43c029bbedec03632225a5c3152b7de390b40a8aafea39e217f3be",
+                "score": 0.2931009,
+                "excerpt": "LOCATED IN OTHER COUNTRIES, INCLUDING THE EUROPEAN UNION AND THE EUROPEAN ECONOMIC AREA. BY USING THIS APP, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE USING THE APP FROM WITHIN THE UNITED STATES.\nWe collect and use the following information from you for the purposes set forth in the “How Do We Use Your Information” section of this Policy. We may also share this information as set forth in the “How Do We Share Information” section below. However, any information that is PHI is governed by our Notice ...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "5891ab9ec3018c724412e3ac6cc4b51be553fe0b700d17a9ab8300b32f8fa679",
+                "score": 0.19117662,
+                "excerpt": "support services on our behalf. Among other things, service providers may help us to administer the App; support our provision of services requested by you; provide technical support; send marketing, promotions and communications to you about our services; and assist with other legitimate purposes permitted by law. |\nOur Notice of Privacy Practices describes how we maintain PHI. Where the information is not PHI, we will retain and use your information for as long as is necessary to (1) fulfill t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "85fbef0e9deb4cc74d638564abec77be4dca2fa824ec7c4e34d0bda0a2362d1d",
+                "score": 0.15507847,
+                "excerpt": "JourneyPure (referred to herein as “JourneyPure,” “we,” “us,” and “our”) is committed to protecting the privacy and security of the information we collect, use, share, and otherwise process as part of our operations. We also believe in transparency, and we are committed to informing you about how we treat your information.\nOur \"Notice of Privacy Practices\" (https://journeypure.com/privacy-policy/) describes how Protected Health Information (PHI) about you may be used and disclosed and the rights...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "0b6578e51a6e232e7bf0aa60fb95e39b7e4b47e12cf2267f72c4f22c3ff91f3b",
+                "score": 0.0921962,
+                "excerpt": "the App to the external third-party website.\nWe cannot and do not (1) guarantee the adequacy of the privacy and security practices employed by or the content and media provided by any third parties or their websites, (2) control third parties’ independent collection or use or your information, or (3) endorse any third-party information, products, services, or websites that may be reached through embedded links on the App.\nAny information provided by you or automatically collected from you by a t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "eee6108241e20f6dba9005b77afeb6b8e0aba4dd0af2e6a4d469e0b5a8063173",
+                "score": 0.02870708,
+                "excerpt": "information held by us about the App’s users is among the assets transferred. For example, if another company acquires us, we will share your information with that company. |\n| Disclosures With Your Consent | We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this Policy. We will only disclose your information in this context with your consent. |\n| Disclosures Without Your Consent | We may disclose your information i...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1234966740,
+            "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can manage, change, limit, or delete their information by submitting requests via the Contact Information details provided in the policy, indicating that users can opt-out of data collection or delete data.",
+            "reference": "If you would like to manage, change, limit, or delete other information or if you no longer want to receive any email, postal mail, or telephone contact from us in the future, such requests may be submitted via the Contact Information details at the end of this Policy. URL: https://mobile.journeypureexpress.com/privacypolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d3e0525f1c91cc9ce8c49ee79001ea5cb96b8a55f3bbe0a8df720210b1b4715c",
+                "score": 0.37834427,
+                "excerpt": "stored with all local data. Data transfers between the App and our database (via the synchronization process) are always encrypted using a 256-bit TLS certificate. The security token contained in the data is further encrypted using a 128-bit AES cypher. From time to time, we review our security procedures to consider appropriate new technology and methods.\nHowever, no security system is perfect, and no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we canno...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "adcb796c12a3e752750034654b8aff8df04525f50cacb2720a2bc1d03c9fb2e5",
+                "score": 0.27923846,
+                "excerpt": "notifications on your device. You may at any time\nopt-out of receiving these types of communications by changing the settings on your mobile device.\nDevice access permission requests are limited to the information necessary to implement the App. You may opt-out of access and device access permissions by changing the settings on your device. Opting-out will cause the associated features to be disabled in the App. |\nOur Notice of Privacy Practices describes how we may use PHI. Where the data is no...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "778995cee1c0d36a8e741e283406d7348f52028eef110df87048f4f6f78951d9",
+                "score": 0.10212548,
+                "excerpt": "if you no longer want to receive any email, postal mail, or telephone contact from us in the future, such requests may be submitted via the Contact Information details at the end of this Policy.\nEmail Opt-Out. If you no longer wish to receive communications from us via email, you may opt-out by clicking the “unsubscribe” link available at the bottom of our email communications or by contacting us at privacy@journeypure.com and providing your name and email address so that we may identify you in ...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "cf3ca5cdc3b13087093ae4965dab8b78dd6c85a870787c96af58a0b0c8ca3816",
+                "score": 0.08586246,
+                "excerpt": "the age of 16. No one under the age of 16 may access, browse, or use the App or provide any information to or on the App. If you are under 16, please do not use or provide any information on the App (including, for example, your name, telephone number, email address, or username). If we learn that we have collected or received personal information from a child under the age of 16 without a parent’s or legal guardian’s consent, we will take steps to stop collecting that information and delete it....",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "918bfce7dc5f457d8a405a71c0c95e26c2c2c26e857fc1d357a95fe845696fc1",
+                "score": 0.056548133,
+                "excerpt": "of the individuals creating the registration and establishing accounts. We will share the list of registered facilities and users on the log-in page. |\n| User Account Information | In order to access and use the App, you must first complete a registration. When you create an account with us, we collect (1) your name, (2) your address; (3) your organization’s name, as applicable; and (4) your username and password. You may update your account information by editing it in the App. |\n| Technical Da...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1234966740,
+            "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share user information with third parties under specific circumstances.",
+            "reference": "We may share your information with our service providers that need access to your information to provide operational or other support services on our behalf. Among other things, service providers may help us to administer the App; ... permitted by law. URL: https://mobile.journeypureexpress.com/privacypolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "eee6108241e20f6dba9005b77afeb6b8e0aba4dd0af2e6a4d469e0b5a8063173",
+                "score": 0.9849274,
+                "excerpt": "information held by us about the App’s users is among the assets transferred. For example, if another company acquires us, we will share your information with that company. |\n| Disclosures With Your Consent | We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this Policy. We will only disclose your information in this context with your consent. |\n| Disclosures Without Your Consent | We may disclose your information i...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "14972fbe7ec387ac6b7f9392a4f5fea679c2ab9bccd97b2c8ed145484a55da5b",
+                "score": 0.97684664,
+                "excerpt": "may want to update your information. We are not responsible for any losses arising from any inaccurate, inauthentic, deficient, or incomplete information that you provide to us.\nComplaints. If you believe that your rights relating to your information have been violated, you may lodge a complaint with us by contacting us using the information provided in the “Contact Information” section of this Policy.\nNo Disclosure of Your Information for Third-Party Advertising. We do not share your informatio...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "0b6578e51a6e232e7bf0aa60fb95e39b7e4b47e12cf2267f72c4f22c3ff91f3b",
+                "score": 0.9390248,
+                "excerpt": "the App to the external third-party website.\nWe cannot and do not (1) guarantee the adequacy of the privacy and security practices employed by or the content and media provided by any third parties or their websites, (2) control third parties’ independent collection or use or your information, or (3) endorse any third-party information, products, services, or websites that may be reached through embedded links on the App.\nAny information provided by you or automatically collected from you by a t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "adcb796c12a3e752750034654b8aff8df04525f50cacb2720a2bc1d03c9fb2e5",
+                "score": 0.86442494,
+                "excerpt": "notifications on your device. You may at any time\nopt-out of receiving these types of communications by changing the settings on your mobile device.\nDevice access permission requests are limited to the information necessary to implement the App. You may opt-out of access and device access permissions by changing the settings on your device. Opting-out will cause the associated features to be disabled in the App. |\nOur Notice of Privacy Practices describes how we may use PHI. Where the data is no...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "5891ab9ec3018c724412e3ac6cc4b51be553fe0b700d17a9ab8300b32f8fa679",
+                "score": 0.56661814,
+                "excerpt": "support services on our behalf. Among other things, service providers may help us to administer the App; support our provision of services requested by you; provide technical support; send marketing, promotions and communications to you about our services; and assist with other legitimate purposes permitted by law. |\nOur Notice of Privacy Practices describes how we maintain PHI. Where the information is not PHI, we will retain and use your information for as long as is necessary to (1) fulfill t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1234966740,
+            "url": "https://mobile.journeypureexpress.com/privacypolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers that need access to user information to provide operational or other support services on the app's behalf.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that the app may share user information with service providers for various operational and support services.",
+            "reference": "Service Providers | We may share your information with our service providers that need access to your information to provide operational or other support services on our behalf. Among other things, service providers may help us to administer the App; support our provision of services requested by you; provide technical support; send marketing, promotions and communications to you about our services; and assist with other legitimate purposes permitted by law. URL: https://mobile.journeypureexpress.com/privacypolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "eee6108241e20f6dba9005b77afeb6b8e0aba4dd0af2e6a4d469e0b5a8063173",
+                "score": 0.9775,
+                "excerpt": "information held by us about the App’s users is among the assets transferred. For example, if another company acquires us, we will share your information with that company. |\n| Disclosures With Your Consent | We may ask if you would like us to share your information with other unaffiliated third parties who are not described elsewhere in this Policy. We will only disclose your information in this context with your consent. |\n| Disclosures Without Your Consent | We may disclose your information i...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "14972fbe7ec387ac6b7f9392a4f5fea679c2ab9bccd97b2c8ed145484a55da5b",
+                "score": 0.92563426,
+                "excerpt": "may want to update your information. We are not responsible for any losses arising from any inaccurate, inauthentic, deficient, or incomplete information that you provide to us.\nComplaints. If you believe that your rights relating to your information have been violated, you may lodge a complaint with us by contacting us using the information provided in the “Contact Information” section of this Policy.\nNo Disclosure of Your Information for Third-Party Advertising. We do not share your informatio...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "0b6578e51a6e232e7bf0aa60fb95e39b7e4b47e12cf2267f72c4f22c3ff91f3b",
+                "score": 0.8467045,
+                "excerpt": "the App to the external third-party website.\nWe cannot and do not (1) guarantee the adequacy of the privacy and security practices employed by or the content and media provided by any third parties or their websites, (2) control third parties’ independent collection or use or your information, or (3) endorse any third-party information, products, services, or websites that may be reached through embedded links on the App.\nAny information provided by you or automatically collected from you by a t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "adcb796c12a3e752750034654b8aff8df04525f50cacb2720a2bc1d03c9fb2e5",
+                "score": 0.82866174,
+                "excerpt": "notifications on your device. You may at any time\nopt-out of receiving these types of communications by changing the settings on your mobile device.\nDevice access permission requests are limited to the information necessary to implement the App. You may opt-out of access and device access permissions by changing the settings on your device. Opting-out will cause the associated features to be disabled in the App. |\nOur Notice of Privacy Practices describes how we may use PHI. Where the data is no...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            },
+            {
+                "id": "5891ab9ec3018c724412e3ac6cc4b51be553fe0b700d17a9ab8300b32f8fa679",
+                "score": 0.50035095,
+                "excerpt": "support services on our behalf. Among other things, service providers may help us to administer the App; support our provision of services requested by you; provide technical support; send marketing, promotions and communications to you about our services; and assist with other legitimate purposes permitted by law. |\nOur Notice of Privacy Practices describes how we maintain PHI. Where the information is not PHI, we will retain and use your information for as long as is necessary to (1) fulfill t...",
+                "url": "https://mobile.journeypureexpress.com/privacypolicy.html"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1501731777,
+      "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that Personal Information is collected when users register for an account or use the Product, including information about the content provided and the frequency and duration of activities.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of Personal Information collected.",
+          "content": "The app collects Personal Information such as gender, country of residence, relationship status, and device information when users register or use the Product."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1501731777,
+      "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Information when you register for an account or when you use the Product. This can include information about the content you provide or the frequency and duration of your activities. Specifically, it may collect information such as gender, country of residence, relationship status, and details about the mobile device you use, including hardware model, operating system and version, device identifiers, and mobile network information.",
+        "simple_answer": "The app collects Personal Information like gender, country of residence, relationship status, and device information.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of personal and device-related information.",
+          "content": "This includes details provided during registration and usage, such as gender, country of residence, relationship status, and mobile device information."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1501731777,
+      "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. Personal Information and other details collected during registration or use of the Product are used to provide services as outlined in the Consent to Research Form. Additionally, the app may use Personal Information for general purposes such as maintaining and improving services, delivering requested services, sending updates and alerts, monitoring usage trends, and preventing fraudulent activities.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the various purposes for which personal information is collected and used.",
+          "content": "The purposes include providing and improving services, delivering requested information, sending technical notices, monitoring trends, and preventing fraud."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1501731777,
+      "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection entirely. However, it mentions that users can prevent the persistent storage of information on their device by turning off this capability in the Product. Additionally, users can stop receiving local notifications by changing the notification settings on their mobile device. There is no mention of a specific process for deleting data collected by the app.",
+        "simple_answer": "Users can prevent persistent storage of data and stop notifications, but there's no clear option to delete data.",
+        "extended_simple_answer": {
+          "comment": "While users have some control over notifications and local data storage, the policy lacks details on a comprehensive opt-out or data deletion process.",
+          "content": "Users can turn off persistent storage of information on their device and change notification settings to stop receiving alerts. However, the policy does not provide a clear method for opting out of data collection or deleting collected data."
+        }
+      },
+      "analysis": "The privacy policy provides limited options for users regarding data collection and deletion, focusing more on notification settings and local data storage.",
+      "reference": "Collection of Information, Information Stored on your Device, Mobile Notifications/Alerts"
+    }
+  },
+  {
+    "meta": {
+      "id": 1501731777,
+      "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not rent, sell, or share Personal Information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under specific circumstances such as for third party vendors, in response to legal requests, to protect rights and safety, or under your consent.",
+        "simple_answer": "Yes, the app shares data with third parties under certain circumstances.",
+        "extended_simple_answer": {
+          "comment": "The app has strict conditions under which it shares data.",
+          "content": "Data may be shared with third party vendors, in response to legal requests, to protect rights and safety, or with your consent."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which personal information may be shared with third parties, emphasizing that it is not done lightly and is subject to specific circumstances.",
+      "reference": "Sharing Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1501731777,
+      "url": "http://mindwindowapp.com/support/policies/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third party vendors, consultants, and other service providers to carry out work on behalf of the University. Additionally, data may be shared in response to a request for information if it is believed that disclosure is in accordance with, or required by, any applicable law, regulation, or legal process. It may also be shared to protect the rights, property, and safety of the University or others, and under your consent or at your direction.",
+        "simple_answer": "The app shares data with third party vendors, consultants, and service providers.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited to specific circumstances.",
+          "content": "Data may be shared with third party vendors, in response to legal requests, to protect rights and safety, or with your consent."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing Personal Information"
+    }
+  }
+]

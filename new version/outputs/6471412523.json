@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 6471412523,
+            "url": "https://myhappymind.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions the collection of data when users engage in certain activities on the website.",
+            "reference": "We collect information that users provide by filling out forms on the Website, communicating with us via contact forms and providing information when ordering a product or service via the Website. URL: https://myhappymind.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "23aebfbbcf17dc628ea6ed4dd219f29dfc22346b02b3960e35ec5fa093ee6be2",
+                "score": 0.0021239663,
+                "excerpt": "to you, not the cookies sent to you by other sites.\nThe Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.\nSome content or applications, including advertisements, on...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "bb5328c4f52dbc10e4030ddef7c4a366848a44b851c27fc77f7004aa59c25edb",
+                "score": 0.0010691263,
+                "excerpt": "law.\nIn compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.\nOur emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instr...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "e21cfcd2ce2da45362f36c2f4f9944cbb840f0131cedebdc010311ea457c8e48",
+                "score": 0.00095846487,
+                "excerpt": "that the value in retaining the data is outweighed by the costs of retaining it.\nYou have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.\nYou have the right to seek restrictions on the processing of your data.\nYou have the right to object to the processing of your data and the right to the portability of your data.\nTo the extent that you provided consent to the Company’s processing of your personal data, you have the ...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "7e7c4239799f232c36fd54a5e385d7ff790e6f911326209e8615df536d580507",
+                "score": 0.00090750254,
+                "excerpt": "upload or change information, or otherwise cause damage.\nIt is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and delivera...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "34af60feba61b03f60b17d2a35a0531c1ab5987ebabf9b890281bcff51ce26f9",
+                "score": 0.00081993215,
+                "excerpt": "provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms and providing information when ordering a product or service via the Website.\nWe use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.\nInformation We Collect Through Automatic Data Collection Techn...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6471412523,
+            "url": "https://myhappymind.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information including the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Type of computer used",
+                        "Internet connection information",
+                        "IP address",
+                        "Operating system information",
+                        "Browser type"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions collecting information automatically through data collection technologies like Google Analytics, associating voluntarily provided personal information with automatically collected information, and using cookies and server logs to gather certain details about users' devices and browsing patterns.",
+            "reference": "The app collects personal information including the type of computer you use, your Internet connection, your IP address, your operating system, and your browser type. URL: https://myhappymind.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "34af60feba61b03f60b17d2a35a0531c1ab5987ebabf9b890281bcff51ce26f9",
+                "score": 0.053899154,
+                "excerpt": "provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms and providing information when ordering a product or service via the Website.\nWe use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.\nInformation We Collect Through Automatic Data Collection Techn...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "23aebfbbcf17dc628ea6ed4dd219f29dfc22346b02b3960e35ec5fa093ee6be2",
+                "score": 0.013902059,
+                "excerpt": "to you, not the cookies sent to you by other sites.\nThe Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.\nSome content or applications, including advertisements, on...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "156ccda96ef908be9251edfa50bb64bc5f471c1b9263b5a063349b313d9d72a3",
+                "score": 0.008950711,
+                "excerpt": "improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.\nSimilar to other websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "9d4eee4f1f3008aee32d6c12955b277bf6704d44250bf070acc485a14125e478",
+                "score": 0.0033504236,
+                "excerpt": "you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.\nEmail is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SS...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "bb5328c4f52dbc10e4030ddef7c4a366848a44b851c27fc77f7004aa59c25edb",
+                "score": 0.0032476764,
+                "excerpt": "law.\nIn compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.\nOur emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instr...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6471412523,
+            "url": "https://myhappymind.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by stating that the information collected is used for providing services, improving performance, delivering products/services, and sending offers, promotions, and information to users.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines that the collected data is utilized for specific purposes related to user services and communication.",
+            "reference": "We use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information. URL: https://myhappymind.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "79f82f61c5d7049e66e20bdaf77adcc0ff6154d6d84e71b511812085a34d20a7",
+                "score": 0.0025509123,
+                "excerpt": "your personal characteristics, interests, and activities.\nAs a general rule, we do not sell, rent, lease or otherwise transfer any information collected wither automatically or through your voluntary action.\nWe may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.\nWe may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of servi...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "23aebfbbcf17dc628ea6ed4dd219f29dfc22346b02b3960e35ec5fa093ee6be2",
+                "score": 0.0018315102,
+                "excerpt": "to you, not the cookies sent to you by other sites.\nThe Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.\nSome content or applications, including advertisements, on...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "34af60feba61b03f60b17d2a35a0531c1ab5987ebabf9b890281bcff51ce26f9",
+                "score": 0.0016293088,
+                "excerpt": "provides various places for users to provide information. We collect information that users provide by filling out forms on the Website, communicating with us via contact forms and providing information when ordering a product or service via the Website.\nWe use information you provide to us to deliver the requested product and/or service, to improve our overall performance, and to provide you with offers, promotions, and information.\nInformation We Collect Through Automatic Data Collection Techn...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "9d4eee4f1f3008aee32d6c12955b277bf6704d44250bf070acc485a14125e478",
+                "score": 0.001012286,
+                "excerpt": "you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.\nEmail is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SS...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "bb5328c4f52dbc10e4030ddef7c4a366848a44b851c27fc77f7004aa59c25edb",
+                "score": 0.0009146137,
+                "excerpt": "law.\nIn compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.\nOur emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instr...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6471412523,
+            "url": "https://myhappymind.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to request access to their data, rectify or erase their personal data, seek restrictions on processing, object to processing, and the right to data portability. Additionally, users can withdraw consent to the processing of personal data. These rights indicate that users can opt out of data collection or request the deletion of their data.",
+            "reference": "You have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data. You have the right to seek restrictions on the processing of your data. You have the right to object to the processing of your data and the right to the portability of your data. To the extent that you provided consent to the Company’s processing of your personal data, you have the right to withdraw that consent at any time, without affecting the lawfulness of processing based upon consent that occurred prior to your withdrawal of consent. URL: https://myhappymind.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e21cfcd2ce2da45362f36c2f4f9944cbb840f0131cedebdc010311ea457c8e48",
+                "score": 0.5219433,
+                "excerpt": "that the value in retaining the data is outweighed by the costs of retaining it.\nYou have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.\nYou have the right to seek restrictions on the processing of your data.\nYou have the right to object to the processing of your data and the right to the portability of your data.\nTo the extent that you provided consent to the Company’s processing of your personal data, you have the ...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "7e7c4239799f232c36fd54a5e385d7ff790e6f911326209e8615df536d580507",
+                "score": 0.22988081,
+                "excerpt": "upload or change information, or otherwise cause damage.\nIt is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and delivera...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "bb5328c4f52dbc10e4030ddef7c4a366848a44b851c27fc77f7004aa59c25edb",
+                "score": 0.14080817,
+                "excerpt": "law.\nIn compliance with the CAN-SPAM Act, all e-mails sent from our organization will clearly state who the e-mail is from and provide clear information on how to contact the sender. In addition, all e-mail messages will also contain concise information on how to remove yourself from our mailing list so that you receive no further e-mail communication from us.\nOur emails provide users the opportunity to opt-out of receiving communications from us and our partners by reading the unsubscribe instr...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "e38484882805a318232947e2c9047e27641b9f0c2badbc91aeeb9e5876a8e957",
+                "score": 0.030043371,
+                "excerpt": "programs, register for a webinar, register for a live event, register for a seminar, or purchase any products sold by the Company on this Website, we will only enroll you to receive our free email newsletter if you affirmatively consent to it. If you do not wish to receive this newsletter, you can unsubscribe anytime. We include an “unsubscribe” link at the bottom of every email we send. If you ever have trouble unsubscribing, you can send an email to hello@myhappymind.org requesting to unsubscr...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "3618bda73483f58fc155e1e02d42418492b7bad61b0b71f6d07afe7fb0f4f816",
+                "score": 0.022201229,
+                "excerpt": "is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6471412523,
+            "url": "https://myhappymind.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that some content or applications on the website are served by third parties, including advertisers, ad networks, and servers, who may collect information about users when using the website. This information may be associated with personal information and can be used to provide interest-based advertising or other targeted content.",
+            "reference": "Some content or applications, including advertisements, on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information... They may use this information to provide you with interest-based (behavioural) advertising or other targeted content. URL: https://myhappymind.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "23aebfbbcf17dc628ea6ed4dd219f29dfc22346b02b3960e35ec5fa093ee6be2",
+                "score": 0.08021325,
+                "excerpt": "to you, not the cookies sent to you by other sites.\nThe Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.\nSome content or applications, including advertisements, on...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "79f82f61c5d7049e66e20bdaf77adcc0ff6154d6d84e71b511812085a34d20a7",
+                "score": 0.057281975,
+                "excerpt": "your personal characteristics, interests, and activities.\nAs a general rule, we do not sell, rent, lease or otherwise transfer any information collected wither automatically or through your voluntary action.\nWe may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.\nWe may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of servi...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "e165decec1eab678ac6b2940c9e5eb54eb3ba62fc61da7fae91bbdebf5fb5c7f",
+                "score": 0.011115014,
+                "excerpt": "do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.\nIf you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, m...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "e21cfcd2ce2da45362f36c2f4f9944cbb840f0131cedebdc010311ea457c8e48",
+                "score": 0.0036076165,
+                "excerpt": "that the value in retaining the data is outweighed by the costs of retaining it.\nYou have the right to request access to your data that the Company stores and the rights to either rectify or erase your personal data.\nYou have the right to seek restrictions on the processing of your data.\nYou have the right to object to the processing of your data and the right to the portability of your data.\nTo the extent that you provided consent to the Company’s processing of your personal data, you have the ...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "7e7c4239799f232c36fd54a5e385d7ff790e6f911326209e8615df536d580507",
+                "score": 0.0032858334,
+                "excerpt": "upload or change information, or otherwise cause damage.\nIt is our policy to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users’ personal information, we will notify you by email to the email address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and delivera...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6471412523,
+            "url": "https://myhappymind.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with subsidiaries, affiliates, service providers, lawyers, collection agencies, and potential successors in interest.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "subsidaries",
+                        "affiliates",
+                        "service providers",
+                        "lawyers",
+                        "collection agencies",
+                        "potential successors in interest"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with various entities, including subsidiaries, affiliates, and service providers, among others.",
+            "reference": "We may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you. URL: https://myhappymind.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "79f82f61c5d7049e66e20bdaf77adcc0ff6154d6d84e71b511812085a34d20a7",
+                "score": 0.38254502,
+                "excerpt": "your personal characteristics, interests, and activities.\nAs a general rule, we do not sell, rent, lease or otherwise transfer any information collected wither automatically or through your voluntary action.\nWe may disclose your personal information to our subsidiaries, affiliates, and service providers for the purpose of providing our services to you.\nWe may disclose your personal information to a third party, including a lawyer or collection agency, when necessary to enforce our terms of servi...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "23aebfbbcf17dc628ea6ed4dd219f29dfc22346b02b3960e35ec5fa093ee6be2",
+                "score": 0.12646118,
+                "excerpt": "to you, not the cookies sent to you by other sites.\nThe Company reserves the right to use technological equivalents of cookies, including social media pixels. These pixels allow social media sites to track visitors to outside websites so as to tailor advertising messages users see while visiting that social media website. The Company reserves the right to use these pixels in compliance with the policies of the various social media sites.\nSome content or applications, including advertisements, on...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "e165decec1eab678ac6b2940c9e5eb54eb3ba62fc61da7fae91bbdebf5fb5c7f",
+                "score": 0.06524657,
+                "excerpt": "do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.\nIf you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, m...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "156ccda96ef908be9251edfa50bb64bc5f471c1b9263b5a063349b313d9d72a3",
+                "score": 0.01858215,
+                "excerpt": "improve our Website and our service offerings. To the extent that you voluntarily provide personal information to us, our systems will associate the automatically collected information with your personal information.\nSimilar to other websites, our website utilizes a standard technology called “cookies” and server logs to collect information about how our site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            },
+            {
+                "id": "9d4eee4f1f3008aee32d6c12955b277bf6704d44250bf070acc485a14125e478",
+                "score": 0.014117893,
+                "excerpt": "you provide to us and the information we collect automatically. This includes using standard security protocols and working only with reputable third-party vendors.\nEmail is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our website may be transmitted securely via a secure medium known as Secure Sockets Layer, or SS...",
+                "url": "https://myhappymind.org/privacy-policy/"
+            }
+        ]
+    }
+]

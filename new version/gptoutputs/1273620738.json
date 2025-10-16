@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1273620738,
+      "url": "http://www.andyfiregames.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that various types of information are collected when users interact with the services, including device identifiers, usernames, log information, location information, and information from cookies and other technologies.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the methods of collection.",
+          "content": "The policy states that information is collected through device identifiers, user-provided information, log information, location information, cookies, and information from third parties."
+        }
+      },
+      "analysis": "The privacy policy is clear about the types of data collected and the methods used for collection, ensuring transparency for users.",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1273620738,
+      "url": "http://www.andyfiregames.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: Device Identifiers (such as mobile device advertising identifiers), User Names (for leaderboards and multiplayer games), Other Information you provide (like communication and support requests), Log Information (including IP Address and device details), Location Information (general location derived from IP Address), Information from Cookies and Other Technologies (like web beacons and cookies), and Information from Others (from third-party services or users).",
+        "simple_answer": "The app collects device identifiers, usernames, log information, location information, cookies data, and information from others.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect personally identifiable information unless provided by the user.",
+          "content": "Types of data collected include device identifiers, usernames, log information, general location, cookies data, and information from third-party services."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1273620738,
+      "url": "http://www.andyfiregames.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to deliver, personalize, and improve the Services, as well as to personalize advertisements, save and associate user activity across different devices, support promotions, create analytics and reports, and detect and defend against fraudulent activities.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app uses collected information to enhance user experience, personalize content, and ensure security."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1273620738,
+      "url": "http://www.andyfiregames.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of having certain information collected through apps used for interest-based advertising purposes. This can be done through device features such as 'Limit Ad Tracking' on iOS or 'Opt Out of Interest-Based Ads' on Android. However, the policy does not explicitly mention a process for users to delete their data.",
+        "simple_answer": "Yes, users can opt out of certain data collection.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of interest-based advertising data collection, the policy does not provide a clear method for deleting personal data.",
+          "content": "Users can use device features to opt out of interest-based advertising data collection, but the privacy policy does not specify a process for deleting their data."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of certain data collection related to advertising but lacks details on how users can delete their data.",
+      "reference": "Advertising and Analytics Services Provided by Others"
+    }
+  },
+  {
+    "meta": {
+      "id": 1273620738,
+      "url": "http://www.andyfiregames.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, license, or share information that individually identifies users with companies, organizations, or individuals outside of Andy Fire Studio unless certain circumstances apply, such as with affiliated brands, with user consent, or with service providers who work on behalf of Andy Fire Studio.",
+        "simple_answer": "No, the app does not share identifiable data with third parties unless under specific circumstances.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares data under specific conditions.",
+          "content": "Information may be shared with affiliated brands, with user consent, or with trusted service providers who comply with confidentiality measures."
+        }
+      },
+      "analysis": "The privacy policy clearly states that identifiable user data is not shared with third parties except under specific conditions, ensuring user privacy is a priority.",
+      "reference": "Sharing of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1273620738,
+      "url": "http://www.andyfiregames.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with affiliated brands, with your consent, and with service providers who work on behalf of Andy Fire Studio based on their instructions and in compliance with appropriate confidentiality measures.",
+        "simple_answer": "The app shares data with affiliated brands, with your consent, and with service providers.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "1. With Affiliated Brands: Information is shared within the Andy Fire Studio family of brands. 2. With Your Consent: Data is shared with third parties when consent is given. 3. With Service Providers: Trusted partners who work on behalf of Andy Fire Studio receive user information."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing of Information"
+    }
+  }
+]

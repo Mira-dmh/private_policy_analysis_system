@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1635699582,
+      "url": "https://www.healingmind.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when visitors leave comments on the site, it collects the data shown in the comments form, as well as the visitor’s IP address and browser user agent string to help with spam detection.",
+        "simple_answer": "Yes, the app collects data from visitors.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the types of data collected.",
+          "content": "The app collects data such as comments, IP addresses, and browser user agent strings when visitors leave comments."
+        }
+      },
+      "analysis": "",
+      "reference": "Comments section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1635699582,
+      "url": "https://www.healingmind.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects data such as comments left by visitors, which includes the data shown in the comments form, the visitor’s IP address, and browser user agent string. Additionally, it may collect personal information from users who register on the website, including their name, email address, and website if they opt-in to saving these in cookies.",
+        "simple_answer": "The app collects comments, IP addresses, browser user agent strings, and personal information from registered users.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps in spam detection and user convenience.",
+          "content": "The app collects comments, IP addresses, browser user agent strings, and personal information from registered users. Comments and their metadata are retained indefinitely, and users can manage their personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "Comments, Cookies, Who we share your data with"
+    }
+  },
+  {
+    "meta": {
+      "id": 1635699582,
+      "url": "https://www.healingmind.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the information collected is used to maximize the services provided to users, create marketing statistics, identify user demands, and improve the website and its services.",
+        "simple_answer": "Yes, the app states the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes the importance of user privacy and the specific uses of collected data.",
+          "content": "The information collected is used to maximize services, create marketing statistics, identify user demands, and improve the website and services."
+        }
+      },
+      "analysis": "",
+      "reference": "Who we share your data with (Third Party)"
+    }
+  },
+  {
+    "meta": {
+      "id": 1635699582,
+      "url": "https://www.healingmind.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can request to receive an exported file of the personal data held about them, including any data they have provided. Additionally, users can request that their personal data be erased, except for data that must be retained for administrative, legal, or security purposes.",
+        "simple_answer": "Yes, users can delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have rights over their data, including the ability to request deletion.",
+          "content": "If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "What rights you have over your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1635699582,
+      "url": "https://www.healingmind.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. However, they may use information in a general sense without any reference to your name to create marketing statistics, identify user demands, and improve their website and services.",
+        "simple_answer": "No, the app does not sell or share personal data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app may use aggregated data for marketing and improvement purposes but does not disclose personal information.",
+          "content": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates may use information in a general sense without any reference to your name to create marketing statistics, identify user demands, and improve their website and services."
+        }
+      },
+      "analysis": "",
+      "reference": "Who we share your data with"
+    }
+  },
+  {
+    "meta": {
+      "id": 1635699582,
+      "url": "https://www.healingmind.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. However, they may use information in a general sense without any reference to your name to create marketing statistics, identify user demands, and assist in meeting customer needs generally. They may also use the information provided to improve their website and services, but not for any other use.",
+        "simple_answer": "The app does not share personal data with third parties but may use general information for marketing statistics.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to protecting user privacy and does not sell personal information.",
+          "content": "HealingMind©, EnergySym©, World of Health©, Return To Wellness Clinic© and its founders/associates does not and will not sell, or deal in personal or customer information. They may use information in a general sense for marketing statistics and to improve services."
+        }
+      },
+      "analysis": "The privacy policy emphasizes a strong commitment to user privacy, stating that personal information is not sold or shared with third parties. The use of general information for marketing purposes is allowed, but without identifying individual users.",
+      "reference": "Who we share your data with (Third Party)"
+    }
+  }
+]

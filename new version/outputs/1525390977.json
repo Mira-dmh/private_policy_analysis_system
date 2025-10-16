@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 1525390977,
+            "url": "https://www.positiveintelligence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of data in various sections, indicating that the app declares the collection of data.",
+            "reference": "The Privacy Policy is part of our Terms of Service, which govern your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have their meaning described in the Terms of Service. By using the Services, you agree that your use of the Services is governed by this Privacy Policy and our Terms of Service. Except as expressly stated herein, this Privacy Policy does not apply to any third-party applications or technologies that integrate with our Services, or any other third-party products, services, or businesses, or to third-party websites that you access via links or otherwise while using the Services. URL: https://www.positiveintelligence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e43dfa41ee2782495b2acd7183d4d25ebd64c7726e940708b0679e4fd50f62b6",
+                "score": 0.05592617,
+                "excerpt": "Services (“Third-Party Platforms”). This Privacy Policy does not apply to data collected from, or provided by you to, Third-Party Platforms, and instead such data is subject to the practices of the provider(s) of the applicable Third-Party Platform(s). You should review the privacy policies of such Third-Party Platforms (and any other applicable terms and conditions) to determine how your data will be used before sharing any of your data with them.\n2. What data do we collect?\nWe may collect the ...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "4227e4bca5b4e391941d876567de35caf1ace47c70145f6191b089cb3c8b8ff8",
+                "score": 0.05014425,
+                "excerpt": "Privacy Policy\n1 . Introduction\nWelcome to Positive Intelligence’s (“we”, “us”, “our”) official website (the “website” or “site”).\nWe know that you care how information about you is used and shared and we are committed to safeguarding the privacy of your information. This Privacy Policy describes how we use the information we collect from you when you use our website, apps, and other digital and online services (collectively, the “Services”).\nThe Privacy Policy is part of our Terms of Service, w...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "a082111623c429ef74cd3e94c4779caafb11209249512707c100b120f22e3d57",
+                "score": 0.007968815,
+                "excerpt": "your interactions with audiovisual content, other users of the Services, and products and services which are offered, linked to or made available on or through the Services. Such information may be collected by us and/or our third-party service providers and partners. You can learn more about the use of cookies on the Services in Section 8 below.\n3. How do we use the data we collect?\nWe may use information we collect for, among other things, the following purposes:\n- Notifying you about new feat...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "557f3b9b2869d134bd42bbb717c6c8b39011e6a4994df31274a5ea11b9eabd8a",
+                "score": 0.005220126,
+                "excerpt": "of certain jurisdictions, you may have the right to opt out of future sales of your personal data.\nIf you would like to exercise any of these rights, please submit a request here. We will respond to your request within a reasonable timeframe and consistent with applicable law.\n7. Opting-out of certain uses of information\n- User Account Privacy Settings. You may be able to adjust certain privacy, permission and User Account settings by responding to request alerts or notifications that may be pre...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "36df8f3b82b0fa1cc0f412be3da149185f23ec8f9ab92354613a70dc357daadd",
+                "score": 0.0040860027,
+                "excerpt": "used by people you do not know. We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post. Your use of these features is at your own risk.\n- Usage Data and Technical Information. The Services include features that automatically collect certain information to, among other things, assist us in authenticating your usage and/or device, keeping track of your preferences, creating a more tailored user experience, and better servi...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1525390977,
+            "url": "https://www.positiveintelligence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects registration information, payment information, information provided by users, user submissions, usage data, and technical information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Registration Information",
+                        "Payment Information",
+                        "Information You Choose to Provide to Us",
+                        "User Submissions",
+                        "Usage Data",
+                        "Technical Information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of data mentioned in the privacy policy under the 'What data do we collect?' section.",
+            "reference": "Registration Information. In order to access and use certain features, content or functions of the Services, you may be asked to provide certain information, including your name, e-mail, date of birth, and other descriptive information. URL: https://www.positiveintelligence.com/privacy-policy/; Payment Information. If you make any purchase on or through the Services, your payment information (e.g., credit or debit card type, number and expiration date) and related information (e.g., physical address) may be collected by us and/or our third party payment processors. URL: https://www.positiveintelligence.com/privacy-policy/; Information You Choose to Provide to Us. We may collect any information you provide to us on or through the Services. For example, we collect any information you provide when you update your user account and profile, participate in surveys, or sign up to receive communications from us. URL: https://www.positiveintelligence.com/privacy-policy/; User Submissions. You may have the ability to use the Services to communicate. URL: https://www.positiveintelligence.com/privacy-policy/; Usage Data and Technical Information. The Services include features that automatically collect certain information to, among other things, assist us in authenticating your usage and/or device, keeping track of your preferences, creating a more tailored user experience, and better serving your particular interests and needs. URL: https://www.positiveintelligence.com/privacy-policy/.",
+            "URL": "https://www.positiveintelligence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e43dfa41ee2782495b2acd7183d4d25ebd64c7726e940708b0679e4fd50f62b6",
+                "score": 0.76524264,
+                "excerpt": "Services (“Third-Party Platforms”). This Privacy Policy does not apply to data collected from, or provided by you to, Third-Party Platforms, and instead such data is subject to the practices of the provider(s) of the applicable Third-Party Platform(s). You should review the privacy policies of such Third-Party Platforms (and any other applicable terms and conditions) to determine how your data will be used before sharing any of your data with them.\n2. What data do we collect?\nWe may collect the ...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "36df8f3b82b0fa1cc0f412be3da149185f23ec8f9ab92354613a70dc357daadd",
+                "score": 0.07463504,
+                "excerpt": "used by people you do not know. We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post. Your use of these features is at your own risk.\n- Usage Data and Technical Information. The Services include features that automatically collect certain information to, among other things, assist us in authenticating your usage and/or device, keeping track of your preferences, creating a more tailored user experience, and better servi...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "a082111623c429ef74cd3e94c4779caafb11209249512707c100b120f22e3d57",
+                "score": 0.07094483,
+                "excerpt": "your interactions with audiovisual content, other users of the Services, and products and services which are offered, linked to or made available on or through the Services. Such information may be collected by us and/or our third-party service providers and partners. You can learn more about the use of cookies on the Services in Section 8 below.\n3. How do we use the data we collect?\nWe may use information we collect for, among other things, the following purposes:\n- Notifying you about new feat...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "643c15ba3129fa296ea856ea9d750ba1c462cc777204ae573c62925d6ad46561",
+                "score": 0.031858854,
+                "excerpt": "information you provide to us on or through the Services. For example, we collect any information you provide when you update your user account and profile, participate in surveys, or sign up to receive communications from us.\n- User Submissions. You may have the ability to use the Services to communicate with other users of the Services and post comments to or otherwise interact with certain aspects of the Services that are available to other users. We may collect any information you submit, po...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "f4267310fd25e020c8dec866677ca8294a5b5622d192c83bdcecd390d7581247",
+                "score": 0.02479816,
+                "excerpt": "selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.\n- Advertising – We use these cookies to collect information about your visit to our website, the content you viewed, the links you followed and information about your browser, device, and your IP address. Our Company sometimes shares some limited aspects of this data with third parties for advertising purposes. We may also share online data collected ...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1525390977,
+            "url": "https://www.positiveintelligence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use, including notifying users about new features, offering services, customizing user experiences, and more.",
+            "reference": "We may use information we collect for, among other things, the following purposes: - Notifying you about new features and offerings of the Services, including, but not limited to, news about products and services, promotions, and events; - Delivery of features, content, services, and products available to you through the Services; - Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services; URL: https://www.positiveintelligence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "a082111623c429ef74cd3e94c4779caafb11209249512707c100b120f22e3d57",
+                "score": 0.46144146,
+                "excerpt": "your interactions with audiovisual content, other users of the Services, and products and services which are offered, linked to or made available on or through the Services. Such information may be collected by us and/or our third-party service providers and partners. You can learn more about the use of cookies on the Services in Section 8 below.\n3. How do we use the data we collect?\nWe may use information we collect for, among other things, the following purposes:\n- Notifying you about new feat...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "5a53bf9db1ebdcae18ead06c1ba7e7d6f1e643cc494e95fddfb49071c0338ecf",
+                "score": 0.029367855,
+                "excerpt": "purpose. For example, we may share aggregated or de-identified data with prospects or partners for business or research purposes, such as statistical analysis, to research trends and predictive analysis, or to develop or improve the Services.\n- Changes to our business. If Positive Intelligence engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of its assets or stock, financing, public offering of securities, acquisition of all or a portion of our busin...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "178b3c9e2243f0bd4d7fa8746b469638ad6b425ca740cbe9e906e1200da94f9b",
+                "score": 0.020725062,
+                "excerpt": "for use of your information by third parties for marketing purposes.\nTherefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your information for marketing purposes during the preceding year.\nIf you are a California resident and wish to request information about how to exercise your third party disclosure choices under the Civil Code, please submit a request here. All requests must include “California Privacy Rights”...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "36df8f3b82b0fa1cc0f412be3da149185f23ec8f9ab92354613a70dc357daadd",
+                "score": 0.010529712,
+                "excerpt": "used by people you do not know. We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post. Your use of these features is at your own risk.\n- Usage Data and Technical Information. The Services include features that automatically collect certain information to, among other things, assist us in authenticating your usage and/or device, keeping track of your preferences, creating a more tailored user experience, and better servi...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "b2d143ddc3ab6ea22acfcd6cf7277938f5904f21adfb27b3be82392e12f5cce7",
+                "score": 0.008745182,
+                "excerpt": "data in order to protect vital interests for the purpose of detecting and preventing illicit activities that impact vital interests and public safety, including child sexual abuse material; and\n- As necessary for our (or others’) legitimate interests, unless those interests are overridden by your interests or fundamental rights and freedoms, which require protection of personal data: We process your personal data based on such legitimate interests to (i) enter and perform the contract with the a...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1525390977,
+            "url": "https://www.positiveintelligence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by submitting a request, and they can request the deletion of their personal data under certain conditions.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users have the right to opt out of data collection and the deletion of personal data under certain conditions. They can do so by submitting a request.",
+            "reference": "If you would like to exercise any of these rights, please submit a request here. We will respond to your request within a reasonable timeframe and consistent with applicable law. URL: https://www.positiveintelligence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "557f3b9b2869d134bd42bbb717c6c8b39011e6a4994df31274a5ea11b9eabd8a",
+                "score": 0.9524858,
+                "excerpt": "of certain jurisdictions, you may have the right to opt out of future sales of your personal data.\nIf you would like to exercise any of these rights, please submit a request here. We will respond to your request within a reasonable timeframe and consistent with applicable law.\n7. Opting-out of certain uses of information\n- User Account Privacy Settings. You may be able to adjust certain privacy, permission and User Account settings by responding to request alerts or notifications that may be pre...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "8c043e9eb7275e7749d7bfcf702c731feff04420772bb81132ba1f023163c326",
+                "score": 0.8906752,
+                "excerpt": "right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request we complete the information you believe is incomplete.\n- The right to erasure – You have the right to request that we erase your personal data, under certain conditions.\n- The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.\n- The right to object to processi...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "f58c687e727a3df68e17a029f8592e31fc35362ca3799be6c0c7aa99aa378d47",
+                "score": 0.35053253,
+                "excerpt": "the Services. Individuals under the age of 18, or the applicable age of majority, may utilize the Services only with the involvement and consent of a parent or legal guardian.\nWe comply with the Children’s Online Privacy Protection Act of 1998. We do not knowingly contact or collect personal information from children under the age of 13 without appropriate parental notice and consent, and our Services are not intended to solicit information of any kind from children under the age of 13. If we ar...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "f15a740734a2d06274bef30db0ec249a32686cbe01388cd879e2289b28effc53",
+                "score": 0.21883628,
+                "excerpt": "subscribe to receive, or be automatically entered to receive, certain marketing and promotional communications, including by text message, from us. Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or you may “opt-out” of receiving marketing and promotional emails from us at any time by or by submitting a request here detailing your privacy request.\nAdditionally, some of the advertising and marketing you encounter on t...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "747e94e85aad5903295a957d22dbc7d3a8aa19b946f76eb3db115deec96396e5",
+                "score": 0.15895613,
+                "excerpt": "for these purposes, we may not be able to provide you with all Services and products available to you through the Services;\n- Consistent with specific revocable consents: We rely on your prior consent in order to utilize cookies to engage advertising and analytics partners to deliver tailored advertising and analysis of our website usage. You have the right to withdraw your consent at any time by visiting our cookie management tool, available Cookies Settings;\n- As necessary to comply with our l...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1525390977,
+            "url": "https://www.positiveintelligence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes such as providing services, marketing communications, exchanging information between coaches and recipients, research, and in case of business changes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties for different reasons, as outlined in the document.",
+            "reference": "We may disclose your personal information to third parties as follows: ... To provide services to you. If our service providers (like technology infrastructure hosting providers, or payment service providers) require this information to provide services to us as part of our provision of the Services. ... To keep you up to date with our products or services. We may share your personal information with third-party advertising partners in order to provide you with more relevant advertisements and marketing communications. ... Exchange among coaches and recipients. Our Services facilitate the exchange of information between coaches and participants in their coaching services. ... Changes to our business. If Positive Intelligence engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of its assets or stock, financing, public offering of securities, acquisition of all or a portion of our business, a similar transaction or proceeding... URL: https://www.positiveintelligence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "41687e278908132ab409e04a6eaafd8d6097525b8b1193c6011486c401afdf33",
+                "score": 0.9673486,
+                "excerpt": "is 100% secure from intrusion, we maintain reasonable physical, electronic, and procedural safeguards to protect your information in light of applicable industry standards and the nature of the information we receive. However, it is possible that third parties may unlawfully intercept or access transmissions or private communications despite our efforts to prevent this, and we therefore make no guarantees regarding the security of user information.\n5. Disclosure of your data\nWe may disclose your...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "b00d338531af7a5422092559176d4b0e78eeb7ef0220580faf0dae5032d40774",
+                "score": 0.7446563,
+                "excerpt": "requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such party, or fulfill a request for information from such party. An example of this is our mobile messaging service, which requires us to transmit your number to their platform. It is the responsibility of any third party that you authorize to receive data to protect that information in accordance with applicable laws, and use it only to provide the services or...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "5a53bf9db1ebdcae18ead06c1ba7e7d6f1e643cc494e95fddfb49071c0338ecf",
+                "score": 0.5890073,
+                "excerpt": "purpose. For example, we may share aggregated or de-identified data with prospects or partners for business or research purposes, such as statistical analysis, to research trends and predictive analysis, or to develop or improve the Services.\n- Changes to our business. If Positive Intelligence engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of its assets or stock, financing, public offering of securities, acquisition of all or a portion of our busin...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "e43dfa41ee2782495b2acd7183d4d25ebd64c7726e940708b0679e4fd50f62b6",
+                "score": 0.31753206,
+                "excerpt": "Services (“Third-Party Platforms”). This Privacy Policy does not apply to data collected from, or provided by you to, Third-Party Platforms, and instead such data is subject to the practices of the provider(s) of the applicable Third-Party Platform(s). You should review the privacy policies of such Third-Party Platforms (and any other applicable terms and conditions) to determine how your data will be used before sharing any of your data with them.\n2. What data do we collect?\nWe may collect the ...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "ea40f02c47ab1280e1d262163d621dbe5d74b22c8c2531e4e9e805b515b9b9d3",
+                "score": 0.17092276,
+                "excerpt": "pictures, etc.), and that anything posted or shared in this manner may be viewed by third parties.The Services may also provide you with the ability to send “direct” or “private” messages to certain other users of the Services, including your coach(es) or other users in an accountability group or other category with you, or, if you are a coach, the recipients of your coaching services. Although we do not actively monitor the content of such communications, they are stored on our Services, and we...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1525390977,
+            "url": "https://www.positiveintelligence.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers like technology infrastructure hosting providers, payment service providers, and advertising partners for more relevant advertisements and marketing communications.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Technology infrastructure hosting providers",
+                        "Payment service providers",
+                        "Advertising partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that personal information is disclosed to service providers to offer the services to users. The mentioned third parties like technology infrastructure providers, payment service providers, and advertising partners are explicitly stated as recipients of user data.",
+            "reference": "The app may disclose personal information to service providers like technology infrastructure hosting providers, payment service providers, or advertising partners. URL: https://www.positiveintelligence.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "41687e278908132ab409e04a6eaafd8d6097525b8b1193c6011486c401afdf33",
+                "score": 0.8785229,
+                "excerpt": "is 100% secure from intrusion, we maintain reasonable physical, electronic, and procedural safeguards to protect your information in light of applicable industry standards and the nature of the information we receive. However, it is possible that third parties may unlawfully intercept or access transmissions or private communications despite our efforts to prevent this, and we therefore make no guarantees regarding the security of user information.\n5. Disclosure of your data\nWe may disclose your...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "5a53bf9db1ebdcae18ead06c1ba7e7d6f1e643cc494e95fddfb49071c0338ecf",
+                "score": 0.8518296,
+                "excerpt": "purpose. For example, we may share aggregated or de-identified data with prospects or partners for business or research purposes, such as statistical analysis, to research trends and predictive analysis, or to develop or improve the Services.\n- Changes to our business. If Positive Intelligence engages in a merger, acquisition, bankruptcy, dissolution, reorganization, sale of some or all of its assets or stock, financing, public offering of securities, acquisition of all or a portion of our busin...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "b00d338531af7a5422092559176d4b0e78eeb7ef0220580faf0dae5032d40774",
+                "score": 0.77696157,
+                "excerpt": "requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such party, or fulfill a request for information from such party. An example of this is our mobile messaging service, which requires us to transmit your number to their platform. It is the responsibility of any third party that you authorize to receive data to protect that information in accordance with applicable laws, and use it only to provide the services or...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "e43dfa41ee2782495b2acd7183d4d25ebd64c7726e940708b0679e4fd50f62b6",
+                "score": 0.38127714,
+                "excerpt": "Services (“Third-Party Platforms”). This Privacy Policy does not apply to data collected from, or provided by you to, Third-Party Platforms, and instead such data is subject to the practices of the provider(s) of the applicable Third-Party Platform(s). You should review the privacy policies of such Third-Party Platforms (and any other applicable terms and conditions) to determine how your data will be used before sharing any of your data with them.\n2. What data do we collect?\nWe may collect the ...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            },
+            {
+                "id": "178b3c9e2243f0bd4d7fa8746b469638ad6b425ca740cbe9e906e1200da94f9b",
+                "score": 0.33491564,
+                "excerpt": "for use of your information by third parties for marketing purposes.\nTherefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your information for marketing purposes during the preceding year.\nIf you are a California resident and wish to request information about how to exercise your third party disclosure choices under the Civil Code, please submit a request here. All requests must include “California Privacy Rights”...",
+                "url": "https://www.positiveintelligence.com/privacy-policy/"
+            }
+        ]
+    }
+]

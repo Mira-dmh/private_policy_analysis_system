@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1549845703,
+      "url": "https://mindalcove.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it may collect personal data such as email addresses for verification, tracking information like IP addresses and device IDs, and details of website usage for analytics. The policy emphasizes a commitment to respecting online privacy and outlines the types of information collected.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of data collected and the purpose behind it.",
+          "content": "The app collects personal data (e.g., email for verification), tracking information (e.g., IP address, device ID), and website usage details for analytics."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the data collection practices, ensuring users are informed about what information is collected and how it is used.",
+      "reference": "INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1549845703,
+      "url": "https://mindalcove.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: Personal data such as Email Id for verification purposes; Tracking Information including IP address and Device ID; and details of Website usage for analytics. It also collects browsing behavior and pages viewed from users who are not registered as members.",
+        "simple_answer": "The app collects personal data, tracking information, and website usage details.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to respecting online privacy and collects information necessary for providing a seamless experience.",
+          "content": "The types of data collected include: a. Personal data (Email Id for verification); b. Tracking Information (IP address, Device ID, browsing behavior); c. Details of Website usage for analytics."
+        }
+      },
+      "analysis": "",
+      "reference": "INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1549845703,
+      "url": "https://mindalcove.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide and improve services, maintain internal records, enhance services, and comply with legal and statutory provisions. Specific purposes include enabling the provision of services opted for by users, communicating necessary account and service-related information, and allowing users to receive quality customer care services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various purposes for collecting user data, ensuring transparency in its data practices.",
+          "content": "The information is used to provide services, maintain records, enhance services, and comply with legal requirements."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which user data is collected, ensuring users are informed about how their information will be utilized.",
+      "reference": "Section: OUR USE OF YOUR INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1549845703,
+      "url": "https://mindalcove.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the option to not divulge specific information they wish for the website not to collect, store, or use. Additionally, users can opt-out of any non-essential communications from the website and can withdraw their consent for data collection by using the 'unsubscribe' button or by sending an email to contact@mindalcove.com.",
+        "simple_answer": "Yes, users can opt out of data collection and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can choose not to provide certain information.",
+          "content": "Users can opt-out of non-essential communications and withdraw consent for data collection."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the ability to control their data, including opting out of data collection and communications.",
+      "reference": "INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1549845703,
+      "url": "https://mindalcove.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share information with third parties when necessary to carry out a service request made by the user. However, it will not sell, license, or trade personal information and will only share it with others if they are acting under the app's instructions or if required by law.",
+        "simple_answer": "Yes, the app shares data with third parties when necessary.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that personal information is not sold or traded and is only shared under specific conditions.",
+          "content": "The app may share information with third parties to fulfill service requests, but it will not sell or trade personal information."
+        }
+      },
+      "analysis": "The privacy policy clearly states the conditions under which data may be shared with third parties, emphasizing the protection of user information.",
+      "reference": "Section: OUR USE OF YOUR INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1549845703,
+      "url": "https://mindalcove.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share information with third parties that are reasonably necessary to carry out the service request made by the user. However, specific third parties are not explicitly named in the privacy policy.",
+        "simple_answer": "The app shares data with third parties necessary to fulfill user service requests.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy does not specify which third parties are involved.",
+          "content": "Information may be shared with third parties as needed to provide services requested by the user."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing with third parties is limited to what is necessary for service fulfillment, but does not provide specific names or categories of third parties.",
+      "reference": "Section: OUR USE OF YOUR INFORMATION"
+    }
+  }
+]

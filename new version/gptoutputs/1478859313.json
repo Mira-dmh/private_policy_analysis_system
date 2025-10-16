@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1478859313,
+      "url": "http://www.domobile.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it may collect and use related information when users use its services, including information provided by users, automatically collected information, and information collected from partners.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of information collected.",
+          "content": "The app collects information you provide, automatically collected information, and information from third-party partners."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, indicating transparency in data collection practices.",
+      "reference": "Information collection section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1478859313,
+      "url": "http://www.domobile.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1. Information you provide, such as your name or email address during account registration and problem descriptions for customer support. 2. Automatically collected information, including device information (brand, model, operating system, etc.), usage information (content displayed, advertisements clicked, URLs visited), and potentially access to photos, media, files, camera, microphone, Wi-Fi connection, device ID, and location information. 3. Information from partners, such as data from linked third-party tools (e.g., Facebook, Google), and usage data from third-party data analysis service providers.",
+        "simple_answer": "The app collects personal information you provide, device information, usage data, and information from third-party partners.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of data to enhance user experience and service functionality.",
+          "content": "1. Information you provide (name, email, support queries). 2. Automatically collected data (device specs, usage patterns, location). 3. Data from third-party integrations (social media accounts)."
+        }
+      },
+      "analysis": "",
+      "reference": "Information collection section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1478859313,
+      "url": "http://www.domobile.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the information may be used to provide services, ensure safety, develop new services, analyze data, verify software, allow participation in surveys, evaluate advertisements, and disclose information to service providers and authorities as necessary.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency.",
+          "content": "The purposes include providing services, ensuring safety, developing new services, analyzing data, verifying software, allowing survey participation, evaluating advertisements, and disclosing information to service providers and authorities."
+        }
+      },
+      "analysis": "The privacy policy clearly states multiple purposes for data collection, which aligns with best practices for transparency in data handling.",
+      "reference": "How we use and share information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1478859313,
+      "url": "http://www.domobile.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that if users do not agree with the terms of the Privacy Policy, they should not use the service. This implies that users can choose not to use the service if they do not agree with the data collection practices.",
+        "simple_answer": "No explicit option to opt out or delete data is mentioned.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the importance of user consent and agreement to the terms.",
+          "content": "Users are advised to refrain from using the service if they disagree with the privacy policy."
+        }
+      },
+      "analysis": "The absence of a clear opt-out or data deletion process may raise concerns for users who prioritize data privacy.",
+      "reference": "If you don't agree with any term in this Privacy Policy, please do not use the service."
+    }
+  },
+  {
+    "meta": {
+      "id": 1478859313,
+      "url": "http://www.domobile.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. It may disclose your information to employees, contractors, and affiliates who provide services on its behalf. Additionally, it may share information with third-party data analysis service providers to understand usage patterns and improve services. The app may also share information with third-party websites where users can interact, which may result in the collection or sharing of information by those websites.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data for various purposes, including service provision and analysis.",
+          "content": "The app may disclose your information to employees, contractors, and affiliates who provide certain services. It may also share information with third-party data analysis service providers and third-party websites."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app shares user information with third parties for service provision, analysis, and interaction with third-party websites.",
+      "reference": "Section: How we use and share information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1478859313,
+      "url": "http://www.domobile.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party data analysis service providers to understand the usage of the services better. It may also share information with third-party websites (such as social media services) where users can post comments, stories, reviews, or other information. Additionally, the app may disclose information to its employees, contractors, and affiliates who provide services on its behalf.",
+        "simple_answer": "The app shares data with third-party data analysis service providers and third-party websites.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with third parties for data analysis and user interaction.",
+          "content": "Information may be shared with third-party data analysis service providers to understand usage patterns, and with third-party websites for user interactions. The app also shares data with its employees and contractors who assist in providing services."
+        }
+      },
+      "analysis": "",
+      "reference": "Information we collect from our partners; How we use and share information"
+    }
+  }
+]

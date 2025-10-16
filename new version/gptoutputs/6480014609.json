@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6480014609,
+      "url": "https://www.wayhaven.com/policies/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects information from various sources, including directly from users, automatically through the use of the website and services, and from third parties. The types of information collected include personal information such as name, email address, and account credentials, as well as data collected through automatic data collection technologies.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the methods of collection.",
+          "content": "The app collects information directly from users, automatically as they use the website and services, and from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the data collection practices, ensuring transparency about how user information is gathered and utilized.",
+      "reference": "Information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480014609,
+      "url": "https://www.wayhaven.com/policies/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1. Information directly from users, such as name, email address, account credentials, demographic information, and other information users choose to submit when creating an account or interacting with the app. 2. Automatically collected data through cookies and other technologies, which may include access times, pages visited, device type, operating system, browser type, and interaction with emails. 3. Information from third-party sources, including advertisers and marketing service providers, which may include personal information or data about online activities.",
+        "simple_answer": "The app collects personal information, automatically collected data, and information from third-party sources.",
+        "extended_simple_answer": {
+          "comment": "The app gathers data to enhance user experience and provide services.",
+          "content": "1. Directly from users: name, email, account credentials, demographic info. 2. Automatically: access times, pages visited, device type, etc. 3. From third parties: personal info and online activity data."
+        }
+      },
+      "analysis": "",
+      "reference": "Information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480014609,
+      "url": "https://www.wayhaven.com/policies/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the data collected may be used to operate the business, support Organization and User access to the Website and Services, maintain and improve user experience, communicate with users, provide customer support, comply with legal obligations, detect and prevent fraud, and for other purposes permitted by law.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency.",
+          "content": "The purposes include supporting user access, improving services, communicating with users, ensuring compliance with laws, and preventing fraud."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480014609,
+      "url": "https://www.wayhaven.com/policies/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users have choices regarding their information, and they can contact their organizations directly for specific practices related to their data. Additionally, users may have the ability to manage their preferences through their account settings or by contacting Wayhaven directly.",
+        "simple_answer": "The policy does not explicitly allow opting out or deleting data, but users can manage their preferences.",
+        "extended_simple_answer": {
+          "comment": "Users should refer to their organization's privacy practices for more specific options.",
+          "content": "The privacy policy indicates that users have choices regarding their information and can contact their organizations for specific practices. It does not provide a clear mechanism for opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The privacy policy provides limited information on opting out or deleting data, suggesting that users should refer to their organizations for more details.",
+      "reference": "This information is derived from the section discussing user choices and the applicability of the privacy notice to organizations."
+    }
+  },
+  {
+    "meta": {
+      "id": 6480014609,
+      "url": "https://www.wayhaven.com/policies/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties, including advertisers, marketing service providers, affiliates, promotional partners, and application providers. These third parties may collect information from users when they use the app and may use this information for interest-based advertising or other targeted content.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collects information from various third parties and may share it for advertising and analytics purposes.",
+          "content": "The app may collect information from third parties and share it for interest-based advertising and to better understand the audience."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app collects and may share information with third parties for various purposes, including advertising and analytics.",
+      "reference": "Information we collect from third party sources."
+    }
+  },
+  {
+    "meta": {
+      "id": 6480014609,
+      "url": "https://www.wayhaven.com/policies/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties such as advertisers, marketing service providers, affiliates, promotional partners, and application providers. These third parties may collect information from the app's users when they use the website and services, and this information may be associated with personal information or may pertain to online activities over time.",
+        "simple_answer": "The app shares data with advertisers, marketing service providers, affiliates, promotional partners, and application providers.",
+        "extended_simple_answer": {
+          "comment": "These third parties may use the information for targeted advertising and to better understand the audience.",
+          "content": "The app may share data with third parties such as advertisers, marketing service providers, affiliates, promotional partners, and application providers. These third parties may collect information from the app's users when they use the website and services, and this information may be associated with personal information or may pertain to online activities over time."
+        }
+      },
+      "analysis": "",
+      "reference": "Information we collect from third party sources."
+    }
+  }
+]

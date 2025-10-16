@@ -1,0 +1,323 @@
+[
+    {
+        "meta": {
+            "id": 6504493957,
+            "url": "https://app.thevillagefs.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal and personal health information is collected by OnCall Health, which is the app provider.",
+            "reference": "This information is highly sensitive and protected by the Health Insurance Portability and Accountability Act (HIPAA) and all equivalent personal health information protection legislation throughout the United States. OnCall Health is committed to safeguard it at the corresponding level. URL: https://app.thevillagefs.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "eca6c5edeb13ae6c93070d65dd5e89aeaa0c18b5985a568a5fcf5a5ab01996e3",
+                "score": 0.011687257,
+                "excerpt": "The Village Family Services Privacy Policy\nThe Village Family Services Privacy Policy\nOnCall Health built the The Village Family Services app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. This means personal information and personal health information is collected by OnCall Health. This ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "c416114271293e57bcf63dc17302f1e75554c879f7ac8a054b844cb40bd49cd7",
+                "score": 0.00074370287,
+                "excerpt": "starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular reports on privacy compliance and, in turn, reports to the Board for oversight....",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9e17eb4afdf6584bb8e0b2c13f145e7bdfb541a1acf310557684d783998cfcc0",
+                "score": 0.0006641048,
+                "excerpt": "or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or services, or promotions, OnCall Health will seek explicit consent to exer...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9c9c3b589c10351d451c36077124e19d4803e6ff0083732a6908a6fc73b6d58e",
+                "score": 0.00039204178,
+                "excerpt": "care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments that are assigned and completed through the system.\nHow we protect it\nO...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "92693fd3f23edac730b004a300705188fadc34eb7428f1372af88a0ed14e6ebf",
+                "score": 0.00035697065,
+                "excerpt": "contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and Security Officer, Nicholas Chepesiuk [email protected].\nYou ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504493957,
+            "url": "https://app.thevillagefs.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects name, business contact information, specialization, college registration number (for health care providers), name (or initials), email, date and time of the appointment, notes by providers, files attached during or after the appointment, results of forms and assessments completed through the system (for patients).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name, business contact information, specialization, college registration number (for health care providers)",
+                        "Name (or initials), email, date and time of appointment, notes by providers, attached files, results of forms and assessments completed through the system (for patients)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section of the privacy policy that explicitly states the collected data from health care providers and patients.",
+            "reference": "From health care providers: We collect name, business contact information, specialization, and college registration number (if applicable). From patients: When consulting their own health care provider registered with OnCall Health, we collect: • Name (or initials) and email of the patient • Date and time of the appointment • Any written instructions by the provider added to the 'notes for patient' after the appointment • Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents. • In some cases, results of interactive forms and assessments that are assigned and completed through the system. URL: https://app.thevillagefs.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "eca6c5edeb13ae6c93070d65dd5e89aeaa0c18b5985a568a5fcf5a5ab01996e3",
+                "score": 0.06717858,
+                "excerpt": "The Village Family Services Privacy Policy\nThe Village Family Services Privacy Policy\nOnCall Health built the The Village Family Services app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. This means personal information and personal health information is collected by OnCall Health. This ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "92693fd3f23edac730b004a300705188fadc34eb7428f1372af88a0ed14e6ebf",
+                "score": 0.024099445,
+                "excerpt": "contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and Security Officer, Nicholas Chepesiuk [email protected].\nYou ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9c9c3b589c10351d451c36077124e19d4803e6ff0083732a6908a6fc73b6d58e",
+                "score": 0.023241926,
+                "excerpt": "care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments that are assigned and completed through the system.\nHow we protect it\nO...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9e17eb4afdf6584bb8e0b2c13f145e7bdfb541a1acf310557684d783998cfcc0",
+                "score": 0.0064882697,
+                "excerpt": "or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or services, or promotions, OnCall Health will seek explicit consent to exer...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "c416114271293e57bcf63dc17302f1e75554c879f7ac8a054b844cb40bd49cd7",
+                "score": 0.00305151,
+                "excerpt": "starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular reports on privacy compliance and, in turn, reports to the Board for oversight....",
+                "url": "https://app.thevillagefs.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504493957,
+            "url": "https://app.thevillagefs.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that OnCall Health will never use personal or personal health information for other purposes than why it is provided with consent and necessary to deliver service. It also mentions that personal information will not be rented or sold, and personal health information will not be disclosed except as required by law and upon lawful authority.",
+            "reference": "OnCall Health will never use personal or personal health information for other purposes than why it is provided with consent and necessary to deliver service. OnCall Health will never rent or sell the personal information or personal health information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. URL: https://app.thevillagefs.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "c416114271293e57bcf63dc17302f1e75554c879f7ac8a054b844cb40bd49cd7",
+                "score": 0.0041824942,
+                "excerpt": "starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular reports on privacy compliance and, in turn, reports to the Board for oversight....",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "eca6c5edeb13ae6c93070d65dd5e89aeaa0c18b5985a568a5fcf5a5ab01996e3",
+                "score": 0.0039148238,
+                "excerpt": "The Village Family Services Privacy Policy\nThe Village Family Services Privacy Policy\nOnCall Health built the The Village Family Services app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. This means personal information and personal health information is collected by OnCall Health. This ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9e17eb4afdf6584bb8e0b2c13f145e7bdfb541a1acf310557684d783998cfcc0",
+                "score": 0.00079783343,
+                "excerpt": "or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or services, or promotions, OnCall Health will seek explicit consent to exer...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "92693fd3f23edac730b004a300705188fadc34eb7428f1372af88a0ed14e6ebf",
+                "score": 0.00041731575,
+                "excerpt": "contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and Security Officer, Nicholas Chepesiuk [email protected].\nYou ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "2dfe041766a83874791fb495a1b7b6eda44061158d9623807db97781a7787a37",
+                "score": 0.00026119032,
+                "excerpt": "Contact, [email protected] and subjects use of OnCall Health secure video consultation to the following patient consent form.\nTo proceed with registration for OnCall Health secure video consultations, a patient must complete this consent form. OnCall Health Secure Consultation Patient Consent Form I agree to OnCall Health secure video or text consultation with a health care provider on the basis of the following information: OnCall Health will collect my name, the name and contact information of...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504493957,
+            "url": "https://app.thevillagefs.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the option to close their account immediately upon request and have all their personal information destroyed or anonymized.",
+            "reference": "OnCall will close my account immediately upon request and destroy or anonymize all personal information. URL: https://app.thevillagefs.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "9e17eb4afdf6584bb8e0b2c13f145e7bdfb541a1acf310557684d783998cfcc0",
+                "score": 0.011732464,
+                "excerpt": "or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or services, or promotions, OnCall Health will seek explicit consent to exer...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "7b02b35b008120ca9192f538a44c7960b53a5ed6a7a24adb905c96a8fa999d36",
+                "score": 0.008711385,
+                "excerpt": "employees can only gain technological access to personal information or personal health information collected by OnCall Health:\n• With a robust password, based on required elements.\n• Upon authorization, granted strictly on a need-to-know basis, defined according to job requirements.\nAccess is monitored through technological audit trails. Audit trails are regularly reviewed to ensure compliance.\nAdministrative measures\nOnCall Health has appointed a Designated Privacy Contact, mentioned above, wh...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "2dfe041766a83874791fb495a1b7b6eda44061158d9623807db97781a7787a37",
+                "score": 0.004905406,
+                "excerpt": "Contact, [email protected] and subjects use of OnCall Health secure video consultation to the following patient consent form.\nTo proceed with registration for OnCall Health secure video consultations, a patient must complete this consent form. OnCall Health Secure Consultation Patient Consent Form I agree to OnCall Health secure video or text consultation with a health care provider on the basis of the following information: OnCall Health will collect my name, the name and contact information of...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "eca6c5edeb13ae6c93070d65dd5e89aeaa0c18b5985a568a5fcf5a5ab01996e3",
+                "score": 0.0041179177,
+                "excerpt": "The Village Family Services Privacy Policy\nThe Village Family Services Privacy Policy\nOnCall Health built the The Village Family Services app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. This means personal information and personal health information is collected by OnCall Health. This ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "92693fd3f23edac730b004a300705188fadc34eb7428f1372af88a0ed14e6ebf",
+                "score": 0.003135836,
+                "excerpt": "contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and Security Officer, Nicholas Chepesiuk [email protected].\nYou ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504493957,
+            "url": "https://app.thevillagefs.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. They also mention that they will never rent or sell the personal information or personal health information they collect. This indicates a strict policy against sharing data with third parties.",
+            "reference": "OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. OnCall Health will never rent or sell the personal information or personal health information it collects. URL: https://app.thevillagefs.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "c416114271293e57bcf63dc17302f1e75554c879f7ac8a054b844cb40bd49cd7",
+                "score": 0.010052369,
+                "excerpt": "starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular reports on privacy compliance and, in turn, reports to the Board for oversight....",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "eca6c5edeb13ae6c93070d65dd5e89aeaa0c18b5985a568a5fcf5a5ab01996e3",
+                "score": 0.007846239,
+                "excerpt": "The Village Family Services Privacy Policy\nThe Village Family Services Privacy Policy\nOnCall Health built the The Village Family Services app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. This means personal information and personal health information is collected by OnCall Health. This ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9e17eb4afdf6584bb8e0b2c13f145e7bdfb541a1acf310557684d783998cfcc0",
+                "score": 0.0030753696,
+                "excerpt": "or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or services, or promotions, OnCall Health will seek explicit consent to exer...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9c9c3b589c10351d451c36077124e19d4803e6ff0083732a6908a6fc73b6d58e",
+                "score": 0.0029694452,
+                "excerpt": "care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments that are assigned and completed through the system.\nHow we protect it\nO...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "2dfe041766a83874791fb495a1b7b6eda44061158d9623807db97781a7787a37",
+                "score": 0.0025212683,
+                "excerpt": "Contact, [email protected] and subjects use of OnCall Health secure video consultation to the following patient consent form.\nTo proceed with registration for OnCall Health secure video consultations, a patient must complete this consent form. OnCall Health Secure Consultation Patient Consent Form I agree to OnCall Health secure video or text consultation with a health care provider on the basis of the following information: OnCall Health will collect my name, the name and contact information of...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6504493957,
+            "url": "https://app.thevillagefs.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "OnCall Health does not share personal or personal health information with any third parties, except as required by law and upon demonstrated lawful authority, as stated in their Privacy Policy.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The Privacy Policy clearly outlines that OnCall Health does not share personal or personal health information with third parties unless required by law, ensuring data protection and confidentiality.",
+            "reference": "OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. URL: https://app.thevillagefs.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "c416114271293e57bcf63dc17302f1e75554c879f7ac8a054b844cb40bd49cd7",
+                "score": 0.020061802,
+                "excerpt": "starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular reports on privacy compliance and, in turn, reports to the Board for oversight....",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "eca6c5edeb13ae6c93070d65dd5e89aeaa0c18b5985a568a5fcf5a5ab01996e3",
+                "score": 0.007489625,
+                "excerpt": "The Village Family Services Privacy Policy\nThe Village Family Services Privacy Policy\nOnCall Health built the The Village Family Services app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. This means personal information and personal health information is collected by OnCall Health. This ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9e17eb4afdf6584bb8e0b2c13f145e7bdfb541a1acf310557684d783998cfcc0",
+                "score": 0.004736749,
+                "excerpt": "or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or services, or promotions, OnCall Health will seek explicit consent to exer...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "9c9c3b589c10351d451c36077124e19d4803e6ff0083732a6908a6fc73b6d58e",
+                "score": 0.0038543637,
+                "excerpt": "care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments that are assigned and completed through the system.\nHow we protect it\nO...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            },
+            {
+                "id": "92693fd3f23edac730b004a300705188fadc34eb7428f1372af88a0ed14e6ebf",
+                "score": 0.0033897832,
+                "excerpt": "contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and Security Officer, Nicholas Chepesiuk [email protected].\nYou ...",
+                "url": "https://app.thevillagefs.org/privacy/"
+            }
+        ]
+    }
+]

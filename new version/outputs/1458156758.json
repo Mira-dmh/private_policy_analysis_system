@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 1458156758,
+            "url": "https://my.akili.care/privacy"
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1458156758,\n       \"url\": \"https://my.akili.care/privacy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q1\",\n       \"question\": \"1. Does the app declare the collection of data?\",\n       \"answer\": {\n           \"full_answer\": \"Yes\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy clearly states that data may be collected, summarized below, including personal identifiers, contact information, password, health information, preferences, behavior, and more.\",\n       \"reference\": \"certain data may be collected, whether from or applicable to you, your child, or another individual, as summarized below. This includes submitted data as well as data that is automatically collected by our products or services. For example: - name, nickname, or other personal identifier or personal information; - email address, phone number, physical address, zip code, or other contact information; - password; - age or date of birth; - gender; - activation code(s); - information you enter in our enrollment form(s); - any health insurance or payor information you choose to provide; - information regarding an individual’s (including your child’s) preferences, behavior, or symptoms; - your, your child’s, or any other individual’s system, including as collected when one of our apps is initially downloaded.\",\n      \"URL: https://my.akili.care/privacy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "6af8c1549b9077d2e2ae6461adac75257106a4c077fd8d35c07e2c6a1eb44707",
+                "score": 0.26683465,
+                "excerpt": "Thank you for your interest in our mobile and web-based applications, brought to you by Akili Interactive\nLabs, Inc.! We are excited to share our products and services with you! Below is our Privacy Notice for the\napplications and Akili’s related services - feel free to reach out to us with any questions.\nWe want you to be fully aware of what data we collect, what we use it for, how\nwe store it, and how you can ask us to review, modify, or delete it - all of which we describe below!\nBy creating ...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "651ae9926b3c5f01fdb721b5f2288845b3765e7a85b9131534f47c900250fa90",
+                "score": 0.22185606,
+                "excerpt": "applies to all users of our products or services, including your\nchild and other people (for example, teachers or caregivers) who you may have permitted or invited to use\nAkili’s products or services. Please do not use our products or services if you do not accept the terms of\nthis Privacy Notice.\nFor information regarding data collected and processed via our various websites, please also see:\nhttps://www.akiliinteractive.com/privacy-policy\nWhat data is collected?\nWhen you register and create an...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "fa86885ed9dff0f0d650eb63150f8c31beb7b206543d3fa1f4604ce863129f98",
+                "score": 0.041307304,
+                "excerpt": "system, including as\ncollected\nwhen one of our apps is initially downloaded.\nHow does Akili use and protect your data?\nAkili is committed to keeping your personal data strictly confidential as described below, and we\nwill transmit and store your data in a secure and encrypted manner.\nYour data will be used only:\n- to provide you with the tools, information, and functionality delivered through our products and related services,\nincluding but not limited to presenting you with the collected inform...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "de162620e32bbe9adc93d4ee4f42a131889754c5ebfb2fd453a8afb51bc0604e",
+                "score": 0.013584392,
+                "excerpt": "physical address, zip code, or other contact information;\n- password;\n- age or date of birth;\n- gender;\n- activation code(s);\n- information you enter in our enrollment form(s);\n- any health insurance or payor information you choose to provide;\n- information regarding an individual’s (including your child’s) preferences, behavior, or symptoms;\n- your, your child’s, or any other individual’s responses to assessments or questionnaires, such as the Vanderbilt assessment or other cognitive assessment...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "07fd9c336ef0f4229b164cba9953f3e4e35dff5ac032bed82ca2601df345ea73",
+                "score": 0.004468384,
+                "excerpt": "to share any of the data with other individuals, such as sharing\nwith other caregivers or physicians specifically identified by you;\n- to share relevant content with you related to pediatric ADHD or attention difficulties;\n- to ask for your feedback regarding our products and services;\n- to help us evaluate, improve, and troubleshoot our products and services;\n- to monitor and analyze usage and trends regarding our products and services;\n- to detect, protect against, and address any error, fraud...",
+                "url": "https://my.akili.care/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1458156758,
+            "url": "https://my.akili.care/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal identifiers, contact information, health-related information, assessment responses, gameplay performance data, medical information, payment information, technical information, and other submitted information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal identifiers",
+                        "Contact information",
+                        "Health-related information",
+                        "Assessment responses",
+                        "Gameplay performance data",
+                        "Medical information",
+                        "Payment information",
+                        "Technical information",
+                        "Other submitted information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of data listed in the privacy policy document that the app collects from users. These types include personal identifiers, contact details, health information, assessment results, gameplay data, medical info, payment details, technical information, and various other submitted details.",
+            "reference": "The app collects various types of data, such as personal identifiers, contact information, health-related information, assessment responses, gameplay performance data, medical information, payment information, technical information, and other submitted information. URL: https://my.akili.care/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "651ae9926b3c5f01fdb721b5f2288845b3765e7a85b9131534f47c900250fa90",
+                "score": 0.8248855,
+                "excerpt": "applies to all users of our products or services, including your\nchild and other people (for example, teachers or caregivers) who you may have permitted or invited to use\nAkili’s products or services. Please do not use our products or services if you do not accept the terms of\nthis Privacy Notice.\nFor information regarding data collected and processed via our various websites, please also see:\nhttps://www.akiliinteractive.com/privacy-policy\nWhat data is collected?\nWhen you register and create an...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "de162620e32bbe9adc93d4ee4f42a131889754c5ebfb2fd453a8afb51bc0604e",
+                "score": 0.31299964,
+                "excerpt": "physical address, zip code, or other contact information;\n- password;\n- age or date of birth;\n- gender;\n- activation code(s);\n- information you enter in our enrollment form(s);\n- any health insurance or payor information you choose to provide;\n- information regarding an individual’s (including your child’s) preferences, behavior, or symptoms;\n- your, your child’s, or any other individual’s responses to assessments or questionnaires, such as the Vanderbilt assessment or other cognitive assessment...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "6af8c1549b9077d2e2ae6461adac75257106a4c077fd8d35c07e2c6a1eb44707",
+                "score": 0.24346252,
+                "excerpt": "Thank you for your interest in our mobile and web-based applications, brought to you by Akili Interactive\nLabs, Inc.! We are excited to share our products and services with you! Below is our Privacy Notice for the\napplications and Akili’s related services - feel free to reach out to us with any questions.\nWe want you to be fully aware of what data we collect, what we use it for, how\nwe store it, and how you can ask us to review, modify, or delete it - all of which we describe below!\nBy creating ...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "fa86885ed9dff0f0d650eb63150f8c31beb7b206543d3fa1f4604ce863129f98",
+                "score": 0.15482272,
+                "excerpt": "system, including as\ncollected\nwhen one of our apps is initially downloaded.\nHow does Akili use and protect your data?\nAkili is committed to keeping your personal data strictly confidential as described below, and we\nwill transmit and store your data in a secure and encrypted manner.\nYour data will be used only:\n- to provide you with the tools, information, and functionality delivered through our products and related services,\nincluding but not limited to presenting you with the collected inform...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "07fd9c336ef0f4229b164cba9953f3e4e35dff5ac032bed82ca2601df345ea73",
+                "score": 0.010986943,
+                "excerpt": "to share any of the data with other individuals, such as sharing\nwith other caregivers or physicians specifically identified by you;\n- to share relevant content with you related to pediatric ADHD or attention difficulties;\n- to ask for your feedback regarding our products and services;\n- to help us evaluate, improve, and troubleshoot our products and services;\n- to monitor and analyze usage and trends regarding our products and services;\n- to detect, protect against, and address any error, fraud...",
+                "url": "https://my.akili.care/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1458156758,
+            "url": "https://my.akili.care/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the specific purposes for which data is collected and used.",
+            "reference": "Your data will be used only: ... to help us evaluate, improve, and troubleshoot our products and services; ... to monitor and analyze usage and trends regarding our products and services; ... to detect, protect against, and address any error, fraud, wrongdoing, or illegal activity, and/or to enforce our Terms of Use or carry out our legal responsibilities; ... for any other purpose that is communicated to you ... URL: https://my.akili.care/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "fa86885ed9dff0f0d650eb63150f8c31beb7b206543d3fa1f4604ce863129f98",
+                "score": 0.24562746,
+                "excerpt": "system, including as\ncollected\nwhen one of our apps is initially downloaded.\nHow does Akili use and protect your data?\nAkili is committed to keeping your personal data strictly confidential as described below, and we\nwill transmit and store your data in a secure and encrypted manner.\nYour data will be used only:\n- to provide you with the tools, information, and functionality delivered through our products and related services,\nincluding but not limited to presenting you with the collected inform...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "07fd9c336ef0f4229b164cba9953f3e4e35dff5ac032bed82ca2601df345ea73",
+                "score": 0.14511536,
+                "excerpt": "to share any of the data with other individuals, such as sharing\nwith other caregivers or physicians specifically identified by you;\n- to share relevant content with you related to pediatric ADHD or attention difficulties;\n- to ask for your feedback regarding our products and services;\n- to help us evaluate, improve, and troubleshoot our products and services;\n- to monitor and analyze usage and trends regarding our products and services;\n- to detect, protect against, and address any error, fraud...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "6af8c1549b9077d2e2ae6461adac75257106a4c077fd8d35c07e2c6a1eb44707",
+                "score": 0.107250325,
+                "excerpt": "Thank you for your interest in our mobile and web-based applications, brought to you by Akili Interactive\nLabs, Inc.! We are excited to share our products and services with you! Below is our Privacy Notice for the\napplications and Akili’s related services - feel free to reach out to us with any questions.\nWe want you to be fully aware of what data we collect, what we use it for, how\nwe store it, and how you can ask us to review, modify, or delete it - all of which we describe below!\nBy creating ...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "37552281d60164ce3cac39c1eb0642affaa90a9b732fd369b0085ef47576176d",
+                "score": 0.049497053,
+                "excerpt": "such individuals are subject to stringent obligations\nto keep your data confidential and to use it only for the purposes described above. We may also confidentially use or\nconfidentially disclose your information in the event of a corporate change in control resulting from, for example, a\nmerger, sale of assets, or bankruptcy, solely for the purpose of effectuating any such corporate change in control, and\nany such use or disclosure will continue to be subject to the provisions of this Privacy N...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "de162620e32bbe9adc93d4ee4f42a131889754c5ebfb2fd453a8afb51bc0604e",
+                "score": 0.027532939,
+                "excerpt": "physical address, zip code, or other contact information;\n- password;\n- age or date of birth;\n- gender;\n- activation code(s);\n- information you enter in our enrollment form(s);\n- any health insurance or payor information you choose to provide;\n- information regarding an individual’s (including your child’s) preferences, behavior, or symptoms;\n- your, your child’s, or any other individual’s responses to assessments or questionnaires, such as the Vanderbilt assessment or other cognitive assessment...",
+                "url": "https://my.akili.care/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1458156758,
+            "url": "https://my.akili.care/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by contacting info@akiliinteractive.com.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can review, delete, or modify any collected data by simply contacting the provided email address.",
+            "reference": "If at any time you would like to review, delete, or modify any of your data that we’ve collected, please simply contact us at info@akiliinteractive.com. Akili will not discriminate against you for exercising any rights you may have under any applicable data privacy or security laws or regulations. Please note that Akili may retain certain of your data for applicable legal, regulatory, or other reasons that are permitted by applicable data privacy laws and regulations. URL: https://my.akili.care/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "1609d5bf07b34f17eb2f43470696651c31b7766cf463608a13ee5d52a8cbe4d4",
+                "score": 0.9790758,
+                "excerpt": "have not opted in for, or have opted\nout of, SMS), including using an automated dialer. Message and data rates may apply. You may opt out of any SMS messages\nby responding with “STOP”. To receive help, respond via SMS with “HELP”.\nWhat if you'd like to review, modify, or delete your data?\nIf at any time you would like to review, delete, or modify any of your data that we’ve collected, please simply contact\nus at\ninfo@akiliinteractive.com. Akili will not discriminate against you for exercising an...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "37552281d60164ce3cac39c1eb0642affaa90a9b732fd369b0085ef47576176d",
+                "score": 0.7942254,
+                "excerpt": "such individuals are subject to stringent obligations\nto keep your data confidential and to use it only for the purposes described above. We may also confidentially use or\nconfidentially disclose your information in the event of a corporate change in control resulting from, for example, a\nmerger, sale of assets, or bankruptcy, solely for the purpose of effectuating any such corporate change in control, and\nany such use or disclosure will continue to be subject to the provisions of this Privacy N...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "6af8c1549b9077d2e2ae6461adac75257106a4c077fd8d35c07e2c6a1eb44707",
+                "score": 0.2148561,
+                "excerpt": "Thank you for your interest in our mobile and web-based applications, brought to you by Akili Interactive\nLabs, Inc.! We are excited to share our products and services with you! Below is our Privacy Notice for the\napplications and Akili’s related services - feel free to reach out to us with any questions.\nWe want you to be fully aware of what data we collect, what we use it for, how\nwe store it, and how you can ask us to review, modify, or delete it - all of which we describe below!\nBy creating ...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "651ae9926b3c5f01fdb721b5f2288845b3765e7a85b9131534f47c900250fa90",
+                "score": 0.045522004,
+                "excerpt": "applies to all users of our products or services, including your\nchild and other people (for example, teachers or caregivers) who you may have permitted or invited to use\nAkili’s products or services. Please do not use our products or services if you do not accept the terms of\nthis Privacy Notice.\nFor information regarding data collected and processed via our various websites, please also see:\nhttps://www.akiliinteractive.com/privacy-policy\nWhat data is collected?\nWhen you register and create an...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "fa86885ed9dff0f0d650eb63150f8c31beb7b206543d3fa1f4604ce863129f98",
+                "score": 0.014728614,
+                "excerpt": "system, including as\ncollected\nwhen one of our apps is initially downloaded.\nHow does Akili use and protect your data?\nAkili is committed to keeping your personal data strictly confidential as described below, and we\nwill transmit and store your data in a secure and encrypted manner.\nYour data will be used only:\n- to provide you with the tools, information, and functionality delivered through our products and related services,\nincluding but not limited to presenting you with the collected inform...",
+                "url": "https://my.akili.care/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1458156758,
+            "url": "https://my.akili.care/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with other caregivers, healthcare professionals, pharmacies, and for various purposes such as feedback collection, product improvement, and scientific analysis.",
+            "reference": "to share any of the data with other individuals, such as sharing with other caregivers or physicians specifically identified by you; - to share relevant content with you related to pediatric ADHD or attention difficulties; - if applicable, to communicate with your pharmacy for the purposes of fulfilling or dispensing any prescription you’ve received for EndeavorRx™ treatment; URL: https://my.akili.care/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "07fd9c336ef0f4229b164cba9953f3e4e35dff5ac032bed82ca2601df345ea73",
+                "score": 0.86737317,
+                "excerpt": "to share any of the data with other individuals, such as sharing\nwith other caregivers or physicians specifically identified by you;\n- to share relevant content with you related to pediatric ADHD or attention difficulties;\n- to ask for your feedback regarding our products and services;\n- to help us evaluate, improve, and troubleshoot our products and services;\n- to monitor and analyze usage and trends regarding our products and services;\n- to detect, protect against, and address any error, fraud...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "fa86885ed9dff0f0d650eb63150f8c31beb7b206543d3fa1f4604ce863129f98",
+                "score": 0.3636469,
+                "excerpt": "system, including as\ncollected\nwhen one of our apps is initially downloaded.\nHow does Akili use and protect your data?\nAkili is committed to keeping your personal data strictly confidential as described below, and we\nwill transmit and store your data in a secure and encrypted manner.\nYour data will be used only:\n- to provide you with the tools, information, and functionality delivered through our products and related services,\nincluding but not limited to presenting you with the collected inform...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "651ae9926b3c5f01fdb721b5f2288845b3765e7a85b9131534f47c900250fa90",
+                "score": 0.18742996,
+                "excerpt": "applies to all users of our products or services, including your\nchild and other people (for example, teachers or caregivers) who you may have permitted or invited to use\nAkili’s products or services. Please do not use our products or services if you do not accept the terms of\nthis Privacy Notice.\nFor information regarding data collected and processed via our various websites, please also see:\nhttps://www.akiliinteractive.com/privacy-policy\nWhat data is collected?\nWhen you register and create an...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "6af8c1549b9077d2e2ae6461adac75257106a4c077fd8d35c07e2c6a1eb44707",
+                "score": 0.17398883,
+                "excerpt": "Thank you for your interest in our mobile and web-based applications, brought to you by Akili Interactive\nLabs, Inc.! We are excited to share our products and services with you! Below is our Privacy Notice for the\napplications and Akili’s related services - feel free to reach out to us with any questions.\nWe want you to be fully aware of what data we collect, what we use it for, how\nwe store it, and how you can ask us to review, modify, or delete it - all of which we describe below!\nBy creating ...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "37552281d60164ce3cac39c1eb0642affaa90a9b732fd369b0085ef47576176d",
+                "score": 0.12095703,
+                "excerpt": "such individuals are subject to stringent obligations\nto keep your data confidential and to use it only for the purposes described above. We may also confidentially use or\nconfidentially disclose your information in the event of a corporate change in control resulting from, for example, a\nmerger, sale of assets, or bankruptcy, solely for the purpose of effectuating any such corporate change in control, and\nany such use or disclosure will continue to be subject to the provisions of this Privacy N...",
+                "url": "https://my.akili.care/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1458156758,
+            "url": "https://my.akili.care/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app may share data with caregivers, physicians specifically identified by the user, partners, and individuals for specific purposes.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "caregivers",
+                        "physicians specifically identified",
+                        "partners",
+                        "individuals for specific purposes"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with caregivers, physicians specifically identified by the user, partners, and individuals for specific purposes. These parties are granted access for specific reasons outlined in the policy.",
+            "reference": "N/A. URL: https://my.akili.care/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "07fd9c336ef0f4229b164cba9953f3e4e35dff5ac032bed82ca2601df345ea73",
+                "score": 0.9324533,
+                "excerpt": "to share any of the data with other individuals, such as sharing\nwith other caregivers or physicians specifically identified by you;\n- to share relevant content with you related to pediatric ADHD or attention difficulties;\n- to ask for your feedback regarding our products and services;\n- to help us evaluate, improve, and troubleshoot our products and services;\n- to monitor and analyze usage and trends regarding our products and services;\n- to detect, protect against, and address any error, fraud...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "37552281d60164ce3cac39c1eb0642affaa90a9b732fd369b0085ef47576176d",
+                "score": 0.26246357,
+                "excerpt": "such individuals are subject to stringent obligations\nto keep your data confidential and to use it only for the purposes described above. We may also confidentially use or\nconfidentially disclose your information in the event of a corporate change in control resulting from, for example, a\nmerger, sale of assets, or bankruptcy, solely for the purpose of effectuating any such corporate change in control, and\nany such use or disclosure will continue to be subject to the provisions of this Privacy N...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "fa86885ed9dff0f0d650eb63150f8c31beb7b206543d3fa1f4604ce863129f98",
+                "score": 0.21419789,
+                "excerpt": "system, including as\ncollected\nwhen one of our apps is initially downloaded.\nHow does Akili use and protect your data?\nAkili is committed to keeping your personal data strictly confidential as described below, and we\nwill transmit and store your data in a secure and encrypted manner.\nYour data will be used only:\n- to provide you with the tools, information, and functionality delivered through our products and related services,\nincluding but not limited to presenting you with the collected inform...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "de162620e32bbe9adc93d4ee4f42a131889754c5ebfb2fd453a8afb51bc0604e",
+                "score": 0.18922126,
+                "excerpt": "physical address, zip code, or other contact information;\n- password;\n- age or date of birth;\n- gender;\n- activation code(s);\n- information you enter in our enrollment form(s);\n- any health insurance or payor information you choose to provide;\n- information regarding an individual’s (including your child’s) preferences, behavior, or symptoms;\n- your, your child’s, or any other individual’s responses to assessments or questionnaires, such as the Vanderbilt assessment or other cognitive assessment...",
+                "url": "https://my.akili.care/privacy"
+            },
+            {
+                "id": "651ae9926b3c5f01fdb721b5f2288845b3765e7a85b9131534f47c900250fa90",
+                "score": 0.1187934,
+                "excerpt": "applies to all users of our products or services, including your\nchild and other people (for example, teachers or caregivers) who you may have permitted or invited to use\nAkili’s products or services. Please do not use our products or services if you do not accept the terms of\nthis Privacy Notice.\nFor information regarding data collected and processed via our various websites, please also see:\nhttps://www.akiliinteractive.com/privacy-policy\nWhat data is collected?\nWhen you register and create an...",
+                "url": "https://my.akili.care/privacy"
+            }
+        ]
+    }
+]

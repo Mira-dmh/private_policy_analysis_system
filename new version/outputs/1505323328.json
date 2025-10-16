@@ -1,0 +1,343 @@
+[
+    {
+        "meta": {
+            "id": 1505323328,
+            "url": "https://uptime.app/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that Uptime collects personal information, indicating the declaration of data collection.",
+            "reference": "If you decide to download and use the Uptime App, we will collect information such as your name, phone number and/or email address to enable you to use Uptime’s services, including the Uptime App and the Uptime Site. URL: https://uptime.app/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "f8d1fc0b48e4784408c3a1f63696cbc0cd240149e9bd5c395a0713334487910b",
+                "score": 0.17596248,
+                "excerpt": "Privacy Policy\n[Modified as of 16 June 2025]\nPersonal Data Protection\nUptime App Ltd. (“Uptime”) is committed to ensuring user privacy. Therefore, we have tried to answer any questions you may have below. This Privacy Policy applies to all individuals who use the Uptime application (the “Uptime App”) or appear in- or in relation to the resources provided by it, and the Uptime website (the “Uptime Site”). Please note, this Privacy Policy also applies to other processing of personal data by Uptime...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "10348886bef29fe1b8f0e8a100b2609e0e8c635d18762c1c42eea3ad5eabdf77",
+                "score": 0.029929748,
+                "excerpt": "information such as identification numbers, other online identifiers, electronic location data, and your behaviour online.\nYou will find the Personal Data we use below. Also, Uptime has appointed a Data Protection Officer who oversees the collection and protection of your Personal Data. Our Data Protection Officer Aphaia Ltd can be reached by email at dpo@aphaia.co.uk.\nWhat Personal Information About Customers Does Uptime Collect and Why?\nIf you are just visiting Uptime to look around and check ...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "f2f4c602a348779723d4fcdc1659b1525d1a7b7f4e4af09b43c2c0b6dcd8edc2",
+                "score": 0.018334452,
+                "excerpt": "the disclosure of certain categories of personal information to third parties for their own direct marketing purposes in the preceding calendar year, if any. You may request this information by contacting us at privacy@uptime.app and indicate in the email subject line, “California Shine The Light Request.” Please include your mailing address, state of residence and email address with your request.\nFor California residents under the age of 18 and registered users of the Uptime App or the Uptime S...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "e11e558e80088af7cad7285de506253e12b5423f603a9321e10e7d24b3240c68",
+                "score": 0.017442485,
+                "excerpt": "January 2020, gives California consumers enhanced rights with respect to their personal information that is collected by businesses. First, California consumers may opt out of having their personal information sold to other persons or parties. Second, they have a right to know:\n1. What specific pieces of information a business has about the consumer;\n2. Categories of personal information it has collected about the consumer;\n3. Categories of sources from which the personal information is collecte...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "fddcdf2ce90aea03b886e73ed49e4d4f018360ba4ed1676ef9c3c34f410ecb58",
+                "score": 0.010986943,
+                "excerpt": "to your rights, please email privacy@uptime.app. We may need to request specific information from you when you exercise your rights to confirm your identity and to speed up our response. We may not be able to fulfil your request if we are not able to identify you.\nOur policy towards children\nUptime is a General Audience Site and the Uptime Services are only available to persons aged 13 and over.\nThe Uptime Services are not directed to persons under 13 and we do not knowingly collect personal inf...",
+                "url": "https://uptime.app/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1505323328,
+            "url": "https://uptime.app/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects information such as name, phone number, email address, social media information, user's employer-provided data, profile picture, username, about you section, and external links.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Phone number",
+                        "Email address",
+                        "Social media information",
+                        "User's employer-provided data",
+                        "Profile picture",
+                        "Username",
+                        "About you section",
+                        "External links"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section describing the types of information collected by the app, including personal data, employer-provided data, and additional user-provided data.",
+            "reference": "The app collects information such as name, phone number, email address, social media information, user's employer-provided data, profile picture, username, about you section, and external links. URL: https://uptime.app/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "10348886bef29fe1b8f0e8a100b2609e0e8c635d18762c1c42eea3ad5eabdf77",
+                "score": 0.53940785,
+                "excerpt": "information such as identification numbers, other online identifiers, electronic location data, and your behaviour online.\nYou will find the Personal Data we use below. Also, Uptime has appointed a Data Protection Officer who oversees the collection and protection of your Personal Data. Our Data Protection Officer Aphaia Ltd can be reached by email at dpo@aphaia.co.uk.\nWhat Personal Information About Customers Does Uptime Collect and Why?\nIf you are just visiting Uptime to look around and check ...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "5b3981503615e257a88d988178f6c6a4b440be26bac92dff8434d4c24cd9a596",
+                "score": 0.18286288,
+                "excerpt": "information we collect will be used to communicate with you and to gather data about how you use the Uptime Services.\nHere are the types of information we gather and the technical means we use to gather it:\nInformation You Give Us\nUptime receives and stores any information you provide in relation to the Uptime Services using an electronic form where we ask you to enter certain personal data through our third-party applications, which are identified in the table below. We will use your email addr...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "f8d1fc0b48e4784408c3a1f63696cbc0cd240149e9bd5c395a0713334487910b",
+                "score": 0.1390453,
+                "excerpt": "Privacy Policy\n[Modified as of 16 June 2025]\nPersonal Data Protection\nUptime App Ltd. (“Uptime”) is committed to ensuring user privacy. Therefore, we have tried to answer any questions you may have below. This Privacy Policy applies to all individuals who use the Uptime application (the “Uptime App”) or appear in- or in relation to the resources provided by it, and the Uptime website (the “Uptime Site”). Please note, this Privacy Policy also applies to other processing of personal data by Uptime...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "498599422df3587c96385fdb4b457d3dffefa410a1204f2d1fbd2c2422445d62",
+                "score": 0.029367855,
+                "excerpt": "may include:\n- Profile picture - optional;\n- Name - required and will be prefilled with the name used during registration;\n- Username - required (pre-generated but changeable); and\n- About you - optional; and\n- Up to 5 external links - optional;\nYou hereby consent to the processing of any such information you provide in connection with your role as a content creator for your Provider.\nFor What Purposes Does Uptime Process Your Personal Information?\nWe process your personal information to operate...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "f2f4c602a348779723d4fcdc1659b1525d1a7b7f4e4af09b43c2c0b6dcd8edc2",
+                "score": 0.007489625,
+                "excerpt": "the disclosure of certain categories of personal information to third parties for their own direct marketing purposes in the preceding calendar year, if any. You may request this information by contacting us at privacy@uptime.app and indicate in the email subject line, “California Shine The Light Request.” Please include your mailing address, state of residence and email address with your request.\nFor California residents under the age of 18 and registered users of the Uptime App or the Uptime S...",
+                "url": "https://uptime.app/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1505323328,
+            "url": "https://uptime.app/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purposes of data collection and use, ensuring transparency for users.",
+            "reference": "Here are the types of information we gather and the technical means we use to gather it: Information You Give Us. Uptime receives and stores any information you provide in relation to the Uptime Services... All of the information we collect will be used to communicate with you and to gather data about how you use the Uptime Services. URL: https://uptime.app/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "56a49d786c90008a6a13a17202a5c23a7817256720c4daca063fee4ec8141f7c",
+                "score": 0.047161866,
+                "excerpt": "retain this personal information or use it for any other purpose. And we need to search our records and systems only for the preceding 12 months.\nDo Not Track\nWe currently do not honour browser-based Do-Not-Track signals.\nChanges to this policy\nWe may amend this Privacy Policy from time to time in order that it accurately reflects the regulatory environment and our own data collection and disclosure practices. Accordingly, you should review this policy periodically. When we change this Privacy P...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "5b3981503615e257a88d988178f6c6a4b440be26bac92dff8434d4c24cd9a596",
+                "score": 0.033972,
+                "excerpt": "information we collect will be used to communicate with you and to gather data about how you use the Uptime Services.\nHere are the types of information we gather and the technical means we use to gather it:\nInformation You Give Us\nUptime receives and stores any information you provide in relation to the Uptime Services using an electronic form where we ask you to enter certain personal data through our third-party applications, which are identified in the table below. We will use your email addr...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "a1cf1c499b5b8676298058188933e810f829cd92488af87129914e7fae9b4637",
+                "score": 0.02870708,
+                "excerpt": "does not presently sell any personal information to third parties for any purpose.\nTo make a “request to know” or request to delete your personal information, send us an e-mail at privacy@uptime.app. (Please put either “Request to Know” or “Request to Delete” in the subject heading of your email.) We will honour these requests for US individuals whether or not you would qualify as a California consumer under the CCPA.\nWe will confirm receipt of your request within 10 days along with a descriptio...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "adbd129f11893c2631d078b6d83d8abd014c14f6c6cd2e614cfcad8a7c9eaf86",
+                "score": 0.028490042,
+                "excerpt": "a user’s name, email address, job title/responsibilities within the Provider’s organization (if applicable), picture/s and other information known to the Provider (“User Info”). If you download the Uptime App or access Uptime on the internet with invitation sent to you by the Provider or the link given by the Provider or otherwise made publicly available, you consent to your information being used for these purposes by the Provider. Similarly, User Info may be disclosed by the Provider in order ...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "10348886bef29fe1b8f0e8a100b2609e0e8c635d18762c1c42eea3ad5eabdf77",
+                "score": 0.0212467,
+                "excerpt": "information such as identification numbers, other online identifiers, electronic location data, and your behaviour online.\nYou will find the Personal Data we use below. Also, Uptime has appointed a Data Protection Officer who oversees the collection and protection of your Personal Data. Our Data Protection Officer Aphaia Ltd can be reached by email at dpo@aphaia.co.uk.\nWhat Personal Information About Customers Does Uptime Collect and Why?\nIf you are just visiting Uptime to look around and check ...",
+                "url": "https://uptime.app/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1505323328,
+            "url": "https://uptime.app/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection and delete data by making a request to Uptime via email.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can request the deletion of their personal information by contacting Uptime via email, indicating that users have the option to opt out of data collection and delete their data.",
+            "reference": "To make a 'request to know' or request to delete your personal information, send us an e-mail at privacy@uptime.app. URL: https://uptime.app/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e11e558e80088af7cad7285de506253e12b5423f603a9321e10e7d24b3240c68",
+                "score": 0.86153823,
+                "excerpt": "January 2020, gives California consumers enhanced rights with respect to their personal information that is collected by businesses. First, California consumers may opt out of having their personal information sold to other persons or parties. Second, they have a right to know:\n1. What specific pieces of information a business has about the consumer;\n2. Categories of personal information it has collected about the consumer;\n3. Categories of sources from which the personal information is collecte...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "8b4b77b0217b150b6e411d0590d220d8147c078dfb5382ec851d412f8a7b4342",
+                "score": 0.49375185,
+                "excerpt": "latest state-of-the-art technology to ensure that your information is fully protected.\nWhat Choices Do I Have?\nIf you have any questions or objection as to how we collect and process your personal information, please contact us at privacy@uptime.app or our Data Protection Officer directly at dpo@aphaia.co.uk\nHow Long Do We Keep Your Personal Information?\nWe keep your personal information as long as may be necessary to enable your continued use of Uptime Services. In case of resource-related pers...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "f2f4c602a348779723d4fcdc1659b1525d1a7b7f4e4af09b43c2c0b6dcd8edc2",
+                "score": 0.4466456,
+                "excerpt": "the disclosure of certain categories of personal information to third parties for their own direct marketing purposes in the preceding calendar year, if any. You may request this information by contacting us at privacy@uptime.app and indicate in the email subject line, “California Shine The Light Request.” Please include your mailing address, state of residence and email address with your request.\nFor California residents under the age of 18 and registered users of the Uptime App or the Uptime S...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "b95fe9a98269427663a5d21919f9f60ef6eed1f6144e6792455f26b180b1427b",
+                "score": 0.38491216,
+                "excerpt": "elsewhere.\nRight to object: You may ask us at any time to stop processing your personal information where we process your data based on our legitimate interests, provided no compelling legitimate grounds for further processing exist.\nRights in relation to automated decision-making and profiling: You have the right to be free from decisions based solely on automated processing of your personal information, including profiling, unless this is necessary in relation to a contract between you and us ...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "fd7330a28b1f2d9376b918128d0f7e24606a385fd849e66e1194aa069a192322",
+                "score": 0.14730968,
+                "excerpt": "you can request a copy of that information by emailing privacy@uptime.app.\nRight to rectification: If your personal information is inaccurate or incomplete, you are entitled to ask that we correct or complete it. If we shared your personal information with others, we will tell them about the correction where possible.\nRight to erasure: You may ask us to erase your personal information in some circumstances, such as where we no longer need it or you withdraw your consent.\nRight to restrict proces...",
+                "url": "https://uptime.app/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1505323328,
+            "url": "https://uptime.app/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not presently sell any personal information to third parties for any purpose.",
+            "reference": "Uptime does not presently sell any personal information to third parties for any purpose. URL: https://uptime.app/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "a1cf1c499b5b8676298058188933e810f829cd92488af87129914e7fae9b4637",
+                "score": 0.8372211,
+                "excerpt": "does not presently sell any personal information to third parties for any purpose.\nTo make a “request to know” or request to delete your personal information, send us an e-mail at privacy@uptime.app. (Please put either “Request to Know” or “Request to Delete” in the subject heading of your email.) We will honour these requests for US individuals whether or not you would qualify as a California consumer under the CCPA.\nWe will confirm receipt of your request within 10 days along with a descriptio...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "498599422df3587c96385fdb4b457d3dffefa410a1204f2d1fbd2c2422445d62",
+                "score": 0.7371582,
+                "excerpt": "may include:\n- Profile picture - optional;\n- Name - required and will be prefilled with the name used during registration;\n- Username - required (pre-generated but changeable); and\n- About you - optional; and\n- Up to 5 external links - optional;\nYou hereby consent to the processing of any such information you provide in connection with your role as a content creator for your Provider.\nFor What Purposes Does Uptime Process Your Personal Information?\nWe process your personal information to operate...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "ced9f81d1a741f3c4397fd52ce0859601270ea87082e6198685dc87b4cf38214",
+                "score": 0.6962682,
+                "excerpt": "recommendation and searches.\nDoes Uptime Share Your Personal Information?\nPersonal data that we process may be shared with analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure and other cloud services providers, recruitment and HR services providers. If you have redeemed a bulk subscription offer, we may also share information regarding a user’s registration and a user's cumulative usage of the Uptime App to the company that p...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "f2f4c602a348779723d4fcdc1659b1525d1a7b7f4e4af09b43c2c0b6dcd8edc2",
+                "score": 0.6494675,
+                "excerpt": "the disclosure of certain categories of personal information to third parties for their own direct marketing purposes in the preceding calendar year, if any. You may request this information by contacting us at privacy@uptime.app and indicate in the email subject line, “California Shine The Light Request.” Please include your mailing address, state of residence and email address with your request.\nFor California residents under the age of 18 and registered users of the Uptime App or the Uptime S...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "e11e558e80088af7cad7285de506253e12b5423f603a9321e10e7d24b3240c68",
+                "score": 0.42662016,
+                "excerpt": "January 2020, gives California consumers enhanced rights with respect to their personal information that is collected by businesses. First, California consumers may opt out of having their personal information sold to other persons or parties. Second, they have a right to know:\n1. What specific pieces of information a business has about the consumer;\n2. Categories of personal information it has collected about the consumer;\n3. Categories of sources from which the personal information is collecte...",
+                "url": "https://uptime.app/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1505323328,
+            "url": "https://uptime.app/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure, and other cloud services providers, as well as recruitment and HR services providers. Additionally, information may be shared with companies that provided bulk subscription offers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "analytics providers",
+                        "communications providers",
+                        "database providers",
+                        "authentication providers",
+                        "marketing providers",
+                        "content and user management providers",
+                        "testing providers",
+                        "cloud infrastructure providers",
+                        "cloud services providers",
+                        "recruitment services providers",
+                        "HR services providers",
+                        "companies offering bulk subscription offers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states the various third parties with whom the app shares data, including analytics, communications, marketing, cloud services, and recruitment providers, among others.",
+            "reference": "The app shares data with analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure and other cloud services providers, recruitment and HR services providers. If you have redeemed a bulk subscription offer, we may also share information regarding a user’s registration and a user's cumulative usage of the Uptime App to the company that provided the offer. URL: https://uptime.app/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ced9f81d1a741f3c4397fd52ce0859601270ea87082e6198685dc87b4cf38214",
+                "score": 0.7189892,
+                "excerpt": "recommendation and searches.\nDoes Uptime Share Your Personal Information?\nPersonal data that we process may be shared with analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure and other cloud services providers, recruitment and HR services providers. If you have redeemed a bulk subscription offer, we may also share information regarding a user’s registration and a user's cumulative usage of the Uptime App to the company that p...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "498599422df3587c96385fdb4b457d3dffefa410a1204f2d1fbd2c2422445d62",
+                "score": 0.5631978,
+                "excerpt": "may include:\n- Profile picture - optional;\n- Name - required and will be prefilled with the name used during registration;\n- Username - required (pre-generated but changeable); and\n- About you - optional; and\n- Up to 5 external links - optional;\nYou hereby consent to the processing of any such information you provide in connection with your role as a content creator for your Provider.\nFor What Purposes Does Uptime Process Your Personal Information?\nWe process your personal information to operate...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "5b3981503615e257a88d988178f6c6a4b440be26bac92dff8434d4c24cd9a596",
+                "score": 0.39140594,
+                "excerpt": "information we collect will be used to communicate with you and to gather data about how you use the Uptime Services.\nHere are the types of information we gather and the technical means we use to gather it:\nInformation You Give Us\nUptime receives and stores any information you provide in relation to the Uptime Services using an electronic form where we ask you to enter certain personal data through our third-party applications, which are identified in the table below. We will use your email addr...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "a1cf1c499b5b8676298058188933e810f829cd92488af87129914e7fae9b4637",
+                "score": 0.29849136,
+                "excerpt": "does not presently sell any personal information to third parties for any purpose.\nTo make a “request to know” or request to delete your personal information, send us an e-mail at privacy@uptime.app. (Please put either “Request to Know” or “Request to Delete” in the subject heading of your email.) We will honour these requests for US individuals whether or not you would qualify as a California consumer under the CCPA.\nWe will confirm receipt of your request within 10 days along with a descriptio...",
+                "url": "https://uptime.app/privacy-policy/"
+            },
+            {
+                "id": "f2f4c602a348779723d4fcdc1659b1525d1a7b7f4e4af09b43c2c0b6dcd8edc2",
+                "score": 0.22371607,
+                "excerpt": "the disclosure of certain categories of personal information to third parties for their own direct marketing purposes in the preceding calendar year, if any. You may request this information by contacting us at privacy@uptime.app and indicate in the email subject line, “California Shine The Light Request.” Please include your mailing address, state of residence and email address with your request.\nFor California residents under the age of 18 and registered users of the Uptime App or the Uptime S...",
+                "url": "https://uptime.app/privacy-policy/"
+            }
+        ]
+    }
+]

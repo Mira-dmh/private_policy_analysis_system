@@ -1,0 +1,336 @@
+[
+    {
+        "meta": {
+            "id": 6446434968,
+            "url": "https://choprafoundation.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is collected and used for various purposes.",
+            "reference": "We use the information you provide to us as follows: We may also use the information that you provide to us to contact you...maintain the nature of the data that we collect and the need to fulfill your request...sole purpose of the collection and use of that information is to effect transactions... URL: https://choprafoundation.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "e039b700b6173bceed93a23801534c6babcbb657e1d1acea4c424a2286869f4b",
+                "score": 0.004848533,
+                "excerpt": "log into your Web Site account with social media credentials, data is processed both by us and the applicable social media provider. Social media providers are unaffiliated with us, and we are not responsible for the content or privacy practices of social media providers. Social media providers have their own terms of use and privacy policies, and we encourage you to review those policies whenever you visit their websites or interact with their platforms.\nII. Use of Information Collected\nWe use ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "95ef4f1d908ff5e1eeaf567ae78fa76ac256b7747d905f5163af2793117a6fc3",
+                "score": 0.0026730062,
+                "excerpt": "the nature of the data that we collect and the need to fulfill your request.\nWhen we collect credit card information, the sole purpose of the collection and use of that information is to effect transactions for the sale of products and services or accept donations. In some instances, purchases and donations through a Web Site may not be handled by us but instead be handled by a third party, such as by PayPal, as described in Section III.B. below.\nWe may in the future allow Users to browse for ce...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "fd5c21e80e38844368fa62acf994c8c40297de1b2c8b8be179a1f1c7081b761d",
+                "score": 0.0021657674,
+                "excerpt": "be installed into Users’ profiles or shared with other Users. However, we do not control the third–party developers, and cannot dictate their actions. When a User engages with a third–party application, that User is interacting with the third–party developer, not with us. We encourage Users not to provide PII to the third party’s application unless the User knows the party with whom it is interacting.\nAn embedded script is programming code that is designed to collect information about your inter...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "2fca44e520f498dbeeba559025d36f7f0ba42a8ce9d48470114c14faab0142f8",
+                "score": 0.00092538487,
+                "excerpt": "whole. We do not link this automatically-collected data to other PII. We collect certain information from your visit to the Web Site via industry standard and commercially available web analytics solutions.\nOur Web Site uses Google Analytics which cookies to identify the frequency of use of certain areas of our Web Site and to identify preferences. For more information regarding how Google collects, uses and shares your information, please visit www.google.com/policies/privacy/partners/. Google ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "fbf0e2f0121c5216385eb9b395a425fee52d9688ac37fa0df68f094ffa030f05",
+                "score": 0.0006825019,
+                "excerpt": "better manage content on the Web Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ other PII. We use...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446434968,
+            "url": "https://choprafoundation.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects information related to interests, PII (Personally Identifiable Information), email addresses for promotional materials, payment card information, and other user-provided information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Interests",
+                        "Personally Identifiable Information (PII)",
+                        "Email addresses",
+                        "Payment card information",
+                        "User-provided information"
+                    ]
+                }
+            },
+            "analysis": "The app collects various types of data as outlined in the privacy policy document related to user interests, personally identifiable information, email addresses, payment card information, and other user-provided information.",
+            "reference": "The app collects information related to interests, PII (Personally Identifiable Information), email addresses for promotional materials, payment card information, and other user-provided information. URL: https://choprafoundation.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "95ef4f1d908ff5e1eeaf567ae78fa76ac256b7747d905f5163af2793117a6fc3",
+                "score": 0.31869715,
+                "excerpt": "the nature of the data that we collect and the need to fulfill your request.\nWhen we collect credit card information, the sole purpose of the collection and use of that information is to effect transactions for the sale of products and services or accept donations. In some instances, purchases and donations through a Web Site may not be handled by us but instead be handled by a third party, such as by PayPal, as described in Section III.B. below.\nWe may in the future allow Users to browse for ce...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "e039b700b6173bceed93a23801534c6babcbb657e1d1acea4c424a2286869f4b",
+                "score": 0.03120282,
+                "excerpt": "log into your Web Site account with social media credentials, data is processed both by us and the applicable social media provider. Social media providers are unaffiliated with us, and we are not responsible for the content or privacy practices of social media providers. Social media providers have their own terms of use and privacy policies, and we encourage you to review those policies whenever you visit their websites or interact with their platforms.\nII. Use of Information Collected\nWe use ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "fd5c21e80e38844368fa62acf994c8c40297de1b2c8b8be179a1f1c7081b761d",
+                "score": 0.010986943,
+                "excerpt": "be installed into Users’ profiles or shared with other Users. However, we do not control the third–party developers, and cannot dictate their actions. When a User engages with a third–party application, that User is interacting with the third–party developer, not with us. We encourage Users not to provide PII to the third party’s application unless the User knows the party with whom it is interacting.\nAn embedded script is programming code that is designed to collect information about your inter...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "2fca44e520f498dbeeba559025d36f7f0ba42a8ce9d48470114c14faab0142f8",
+                "score": 0.010209055,
+                "excerpt": "whole. We do not link this automatically-collected data to other PII. We collect certain information from your visit to the Web Site via industry standard and commercially available web analytics solutions.\nOur Web Site uses Google Analytics which cookies to identify the frequency of use of certain areas of our Web Site and to identify preferences. For more information regarding how Google collects, uses and shares your information, please visit www.google.com/policies/privacy/partners/. Google ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "15a9529d7cdca4669831b767552d9d4dde8b8a192d26ef50f724886db6b76e3f",
+                "score": 0.0075772414,
+                "excerpt": "the information you provide (typically, names and e-mail addresses) on a one-time basis to facilitate the communication and we do not use it for any other marketing purpose, unless we obtain consent from that person.\nWe collect your payment card information if you make a donation or subscribe to or purchase any of our Services.\nFrom time to time our interactions with you will be conducted over the telephone or video-conference, and such telephone calls and video conferences may be recorded.\nWe m...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446434968,
+            "url": "https://choprafoundation.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that when collecting data, the app mentions the purpose of the collection and use, such as for effecting transactions or sending promotional materials.",
+            "reference": "When we collect credit card information, the sole purpose of the collection and use of that information is to effect transactions for the sale of products and services or accept donations. If you have consented to receive promotional materials (e.g., newsletters) or notifications from us, we may periodically use your email address to send you such materials related to the Services. URL: https://choprafoundation.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "95ef4f1d908ff5e1eeaf567ae78fa76ac256b7747d905f5163af2793117a6fc3",
+                "score": 0.48168242,
+                "excerpt": "the nature of the data that we collect and the need to fulfill your request.\nWhen we collect credit card information, the sole purpose of the collection and use of that information is to effect transactions for the sale of products and services or accept donations. In some instances, purchases and donations through a Web Site may not be handled by us but instead be handled by a third party, such as by PayPal, as described in Section III.B. below.\nWe may in the future allow Users to browse for ce...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "e039b700b6173bceed93a23801534c6babcbb657e1d1acea4c424a2286869f4b",
+                "score": 0.36398596,
+                "excerpt": "log into your Web Site account with social media credentials, data is processed both by us and the applicable social media provider. Social media providers are unaffiliated with us, and we are not responsible for the content or privacy practices of social media providers. Social media providers have their own terms of use and privacy policies, and we encourage you to review those policies whenever you visit their websites or interact with their platforms.\nII. Use of Information Collected\nWe use ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "2fca44e520f498dbeeba559025d36f7f0ba42a8ce9d48470114c14faab0142f8",
+                "score": 0.0045032725,
+                "excerpt": "whole. We do not link this automatically-collected data to other PII. We collect certain information from your visit to the Web Site via industry standard and commercially available web analytics solutions.\nOur Web Site uses Google Analytics which cookies to identify the frequency of use of certain areas of our Web Site and to identify preferences. For more information regarding how Google collects, uses and shares your information, please visit www.google.com/policies/privacy/partners/. Google ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "3819f91bfd82b27ebc4fb281d38e49209dfd04fbde41857271d7b1f115e9d248",
+                "score": 0.0042646346,
+                "excerpt": "necessary to fulfill the purposes for which the information was collected and to perform our contractual and legal obligations. We will retain PII to comply with privacy requests, to manage active accounts, as required by law, in order to resolve disputes, or to enforce our agreements. We will retain the PII we process on behalf of our Users as directed by them. We may also retain copies of your PII for disaster recovery purposes, to prevent fraud or future abuse, or for our legitimate business ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "fd5c21e80e38844368fa62acf994c8c40297de1b2c8b8be179a1f1c7081b761d",
+                "score": 0.0027791907,
+                "excerpt": "be installed into Users’ profiles or shared with other Users. However, we do not control the third–party developers, and cannot dictate their actions. When a User engages with a third–party application, that User is interacting with the third–party developer, not with us. We encourage Users not to provide PII to the third party’s application unless the User knows the party with whom it is interacting.\nAn embedded script is programming code that is designed to collect information about your inter...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446434968,
+            "url": "https://choprafoundation.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by contacting the provided email at info@choprafoundation.org or making changes to user profile information connected to the account. Users can also opt out of receiving newsletters and promotional communications by following the instructions included in each communication.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection or delete data by contacting via email or modifying user profile information. Additionally, users can manage their newsletter and promotional communication preferences.",
+            "reference": "If you would like to make a request, cancel your account or request we delete or no longer use your account information to provide you services, contact us at info@choprafoundation.org or make changes to any user profile information connected to your account as available. URL: https://choprafoundation.org/privacy-policy/ Users may update or change their PII by editing their profile through a registration form or otherwise. We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. URL: https://choprafoundation.org/privacy-policy/ If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each communication. You may also update your profile on the sites that contain a profile and change your newsletter and promotional communications’ preferences. URL: https://choprafoundation.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "df8f8a4c798732342e53df3e39dd5be1d1307ebd13c982f2ea5f0d832c226dd4",
+                "score": 0.9241418,
+                "excerpt": "by affiliates or vendors that are located outside of the United States will be subject to applicable privacy laws in the country in which such affiliates or vendors are located. By using or providing your information to the Web Site you consent to the collection, transfer, storage and processing of your information in this manner.\nIV. Your Privacy Rights and Choices\nA. General.\nThis section is subject to specific disclosures on privacy rights set forth below. We are committed to facilitating the...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "da28436b100848dde753a4859a81a780b2d2ca39dc512bb9d450ae4561110fdc",
+                "score": 0.5491571,
+                "excerpt": "make changes to any user profile information connected to your account as available.\nSection (B) below describes the rights of those individuals located in the European Union, the United Kingdom or another jurisdiction that has adopted laws substantially similar to the European Union’s General Data Protection Regulation (GDPR).\nIn certain instances we provide you the opportunity to “opt-out” of having your PII used for certain purposes. For example, if you sign up for the Services but do not wis...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "561304b16aaf2ede2b780454072082221401f0f20b5bca2a9210f44d73a31c7a",
+                "score": 0.48895445,
+                "excerpt": "from us you can change your profile settings. In addition, you can opt out of, or unsubscribe from, e-mails at any time by following the instructions contained in those e-mails.\nSome information you provide to us in response to: (i) multiple choice questions like “interests;” (ii) information you add to open-ended questions; and, (iii) browsing behavior, may be used to customize the online ads, special promotions, e-mails, and other marketing information you encounter to those we believe are ali...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "95ef4f1d908ff5e1eeaf567ae78fa76ac256b7747d905f5163af2793117a6fc3",
+                "score": 0.34037554,
+                "excerpt": "the nature of the data that we collect and the need to fulfill your request.\nWhen we collect credit card information, the sole purpose of the collection and use of that information is to effect transactions for the sale of products and services or accept donations. In some instances, purchases and donations through a Web Site may not be handled by us but instead be handled by a third party, such as by PayPal, as described in Section III.B. below.\nWe may in the future allow Users to browse for ce...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "4830967c2f9d1d63c4b585750443558c0a933d7501c0a2a9e753de68f3a577c5",
+                "score": 0.28388065,
+                "excerpt": "good faith efforts to make requested changes in our then active databases as soon as reasonably practicable. You may cancel or modify your communications such as newsletters that you have elected to receive from the Web Site by following the instructions contained within an e-mail or by logging into your user account and changing your communication preferences.\nSubject to local law, you may have additional rights under the laws of your jurisdiction regarding your personal data, such as the right...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446434968,
+            "url": "https://choprafoundation.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that personal information may be shared with outside contractors, agents, sponsors, or third party vendors for various purposes.",
+            "reference": "We may share your PII with those who help us manage or provide the Services, or with outside contractors, agents or sponsors who help us with different aspects. URL: https://choprafoundation.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fd5c21e80e38844368fa62acf994c8c40297de1b2c8b8be179a1f1c7081b761d",
+                "score": 0.4895035,
+                "excerpt": "be installed into Users’ profiles or shared with other Users. However, we do not control the third–party developers, and cannot dictate their actions. When a User engages with a third–party application, that User is interacting with the third–party developer, not with us. We encourage Users not to provide PII to the third party’s application unless the User knows the party with whom it is interacting.\nAn embedded script is programming code that is designed to collect information about your inter...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "fbf0e2f0121c5216385eb9b395a425fee52d9688ac37fa0df68f094ffa030f05",
+                "score": 0.16505408,
+                "excerpt": "better manage content on the Web Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ other PII. We use...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "380cd194a6e6477ffdefdbc51fc8bd6ac950e178136ee81e7ff8e2a2366aed2e",
+                "score": 0.062103126,
+                "excerpt": "order to measure interest in and use of the various areas of the Web Site. In addition, we may in the future inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.\nB. Personally Identifiable Information\nWe may sometimes permit third parties to offer registration-based services through the Web Site. We are not responsible for any actions or policies of such third parties and users should check the applicable privacy...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "c9a4f6cf3af304d2ebbf86f31e23c3791e280f060055ad30322cf183a793b675",
+                "score": 0.05350215,
+                "excerpt": "services and to assist with providing a community environment/social network, on our Web Site. When you sign up for the Services we will share the PII that is necessary for the third party to provide the Services.\nD. Law Enforcement and Assignment\nWe reserve the right to disclose your PII pursuant to a subpoena or other judicial or administrative order, when required by law, when we believe that disclosure is necessary to protect our rights, the rights of our affiliated companies, the rights or ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "bc4458777c09fb997e2511da1a4e4c22eedcc0f1c7fc4e94aea848e7fc0aa5f8",
+                "score": 0.044931643,
+                "excerpt": "fulfillment), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests and promotions.\nThese outside contractors or agents may temporarily store some information on their servers. We may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. We also may share your PII w...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446434968,
+            "url": "https://choprafoundation.org/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app may share data with outside contractors, agents, sponsors, affiliated companies for business reasons, and third-party vendors such as PayPal for order/donation processing. Additionally, third party ad network providers, advertisers, sponsors, and traffic measurement services may access data for advertising purposes.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "outside contractors",
+                        "agents",
+                        "sponsors",
+                        "affiliated companies",
+                        "third-party vendors like PayPal",
+                        "third party ad network providers",
+                        "advertisers",
+                        "sponsors",
+                        "traffic measurement services"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions various third parties with whom data may be shared for different purposes, including order processing, advertising, and network services.",
+            "reference": "The app may share your PII with outside contractors, agents or sponsors for administration and contest prize fulfillment purposes. Additionally, the app mentions sharing PII with affiliated companies if there is a business reason to do so. Third party vendors like PayPal are involved in order/donation processing. Furthermore, the app utilizes third-party ad network providers, advertisers, sponsors, and traffic measurement services for advertising and analytics. URL: https://choprafoundation.org/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "bc4458777c09fb997e2511da1a4e4c22eedcc0f1c7fc4e94aea848e7fc0aa5f8",
+                "score": 0.35186765,
+                "excerpt": "fulfillment), or with outside contractors, agents or sponsors who help us with the administration, judging and prize fulfillment aspects of contests and promotions.\nThese outside contractors or agents may temporarily store some information on their servers. We may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. We also may share your PII w...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "4c4b9f1df68afc7c5119307a0b4ea20bcf8b4726f24ec327a66862245623671b",
+                "score": 0.2391716,
+                "excerpt": "parties such as network advertisers to serve advertisements on the Web Site and may use third party analytics service providers to evaluate and provide us with information about the use of the Web Site and viewing of our content. Network advertisers are third parties that display advertisements based on your visits to the Web Site and other web sites you have visited. The Web Site’s third–party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "3819f91bfd82b27ebc4fb281d38e49209dfd04fbde41857271d7b1f115e9d248",
+                "score": 0.2148561,
+                "excerpt": "necessary to fulfill the purposes for which the information was collected and to perform our contractual and legal obligations. We will retain PII to comply with privacy requests, to manage active accounts, as required by law, in order to resolve disputes, or to enforce our agreements. We will retain the PII we process on behalf of our Users as directed by them. We may also retain copies of your PII for disaster recovery purposes, to prevent fraud or future abuse, or for our legitimate business ...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "380cd194a6e6477ffdefdbc51fc8bd6ac950e178136ee81e7ff8e2a2366aed2e",
+                "score": 0.21272224,
+                "excerpt": "order to measure interest in and use of the various areas of the Web Site. In addition, we may in the future inform advertisers of such information as well as the number of users that have been exposed to or clicked on their advertising banners.\nB. Personally Identifiable Information\nWe may sometimes permit third parties to offer registration-based services through the Web Site. We are not responsible for any actions or policies of such third parties and users should check the applicable privacy...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            },
+            {
+                "id": "fbf0e2f0121c5216385eb9b395a425fee52d9688ac37fa0df68f094ffa030f05",
+                "score": 0.13718532,
+                "excerpt": "better manage content on the Web Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ other PII. We use...",
+                "url": "https://choprafoundation.org/privacy-policy/"
+            }
+        ]
+    }
+]

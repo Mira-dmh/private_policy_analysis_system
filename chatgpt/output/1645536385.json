@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1645536385,
+      "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal identification information may be collected from users in various ways, including when users visit the site, register, place an order, subscribe to the newsletter, respond to surveys, and fill out forms. Additionally, non-personal identification information may also be collected when users interact with the site.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the methods of collection.",
+          "content": "The app collects personal identification information such as name, email address, mailing address, phone number, and more, as well as non-personal identification information like browser name and operating system."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, indicating transparency in data collection practices.",
+      "reference": "Personal identification information section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1645536385,
+      "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal identification information, which may include name, email address, mailing address, phone number, credit card information, and social security number. It also collects non-personal identification information, such as browser name, type of computer, operating system, and Internet service providers.",
+        "simple_answer": "The app collects personal identification information and non-personal identification information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of data to enhance user experience and improve services.",
+          "content": "Personal identification information includes name, email, mailing address, phone number, credit card information, and social security number. Non-personal identification information includes browser name, type of computer, operating system, and Internet service providers."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal identification information and Non-personal identification information sections"
+    }
+  },
+  {
+    "meta": {
+      "id": 1645536385,
+      "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information may be collected and used for various purposes including improving customer service, personalizing user experience, improving the site, processing payments, running promotions, and sending periodic emails.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The purposes include improving customer service, personalizing user experience, improving the site, processing payments, running promotions, and sending periodic emails."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use collected information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1645536385,
+      "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can refuse to supply personally identifiable information, which may prevent them from engaging in certain site-related activities. However, the policy does not explicitly mention a process for deleting data once collected.",
+        "simple_answer": "Users can refuse to provide personal information but there's no explicit mention of data deletion.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of providing personal information, the policy lacks details on how users can delete their data.",
+          "content": "Users may refuse to supply personally identifiable information, but this may limit their ability to use certain features of the site. The privacy policy does not specify a method for users to delete their data."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of providing personal information, but it does not provide a clear mechanism for users to delete their data once it has been collected.",
+      "reference": "Personal identification information section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1645536385,
+      "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, trade, or rent Users' personal identification information to others. However, it may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers. Additionally, the app may use third-party service providers to help operate the business and the Site, and may share information with these third parties for limited purposes, provided that Users have given permission.",
+        "simple_answer": "Yes, the app may share data with third parties for limited purposes.",
+        "extended_simple_answer": {
+          "comment": "The app ensures that personal identification information is not sold or traded, but does share aggregated data and may involve third-party service providers.",
+          "content": "The app does not sell, trade, or rent Users' personal identification information. It may share generic aggregated demographic information with partners and may use third-party service providers for specific activities."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while personal identification information is protected from being sold or traded, there are instances where data may be shared in an aggregated form or with third-party service providers for operational purposes.",
+      "reference": "Sharing your personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1645536385,
+      "url": "https://www.ohealthappsstudio.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share information with third-party service providers to help operate the business and the Site or administer activities on their behalf, such as sending out newsletters or surveys. However, this sharing is limited to those purposes and only occurs if the User has given permission.",
+        "simple_answer": "The app shares data with third-party service providers for specific purposes.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell or trade personal identification information.",
+          "content": "The app may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers."
+        }
+      },
+      "analysis": "The privacy policy indicates that while the app does share data with third parties, it is done under strict conditions and primarily for operational purposes.",
+      "reference": "Sharing your personal information"
+    }
+  }
+]

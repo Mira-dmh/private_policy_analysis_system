@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1643932633,
+      "url": "https://moodtracker.me/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it may automatically log standard data provided by your device, including your IP address, device type, and usage details. Additionally, it collects personal information when users voluntarily provide it, and it may combine this with automatically collected data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the circumstances under which it is collected.",
+          "content": "The app collects standard data from devices, logs usage details, and gathers personal information voluntarily provided by users."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, indicating transparency in data collection practices.",
+      "reference": "Log Data, Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1643932633,
+      "url": "https://moodtracker.me/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information which includes any information that can be used to identify you, such as your name, address, date of birth, device details, payment information, and usage data. Additionally, it automatically logs standard data provided by your device, including your IP address, device type and version, activity within the app, and error data when issues occur.",
+        "simple_answer": "The app collects personal information, device details, usage data, and error data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to enhance user experience and ensure functionality.",
+          "content": "Personal information includes name, address, date of birth, device details, payment information, and usage data. It also logs device IP address, type, version, and error data."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Information, Log Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1643932633,
+      "url": "https://moodtracker.me/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it only collects and uses personal information when there is a legitimate reason for doing so, and it only collects personal information that is reasonably necessary to provide its services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that it collects personal information for legitimate reasons and to provide services.",
+          "content": "We only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you."
+        }
+      },
+      "analysis": "",
+      "reference": "Legitimate Reasons for Processing Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1643932633,
+      "url": "https://moodtracker.me/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users do not have to provide personal information to the app, but if they choose not to, it may affect their use of the app or the services offered. Additionally, users can request details of the personal information held about them and can contact the company to correct any inaccurate or outdated information. However, the policy does not explicitly state a process for opting out of data collection entirely or deleting data.",
+        "simple_answer": "Users can choose not to provide personal information, but this may affect app usage. They can request access to their data and request corrections.",
+        "extended_simple_answer": {
+          "comment": "While users can limit the information they provide, the policy does not clearly outline a full opt-out or data deletion process.",
+          "content": "Users can request details of their personal information and correct inaccuracies, but opting out of data collection or deleting data is not explicitly mentioned."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have some control over their personal information, including the ability to request access and corrections. However, it lacks a clear mechanism for opting out of data collection or deleting data.",
+      "reference": "Your Rights and Controlling Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1643932633,
+      "url": "https://moodtracker.me/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. The privacy policy states that the app may combine voluntarily provided and automatically collected personal information with general information or research data from other trusted sources. Additionally, it mentions that if you consent to the app accessing your social media profiles, information from those profiles may be combined with your provided information. Furthermore, the app uses third-party services such as Google Analytics.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app may share data for enhanced user experience and analytics.",
+          "content": "The app combines user information with data from trusted sources and uses third-party services like Google Analytics."
+        }
+      },
+      "analysis": "The app's privacy policy indicates that data sharing occurs primarily for enhancing user experience and analytics purposes, which is common practice in app development.",
+      "reference": "Legitimate Reasons for Processing Your Personal Information, Third parties we currently use include: Google Analytics"
+    }
+  },
+  {
+    "meta": {
+      "id": 1643932633,
+      "url": "https://moodtracker.me/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties including Google Analytics.",
+        "simple_answer": "Google Analytics.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for analytics purposes.",
+          "content": "The privacy policy mentions that third parties currently used include Google Analytics."
+        }
+      },
+      "analysis": "The app utilizes Google Analytics for data analysis, which implies that user data may be shared with this service for tracking and reporting purposes.",
+      "reference": "Third parties we currently use include: Google Analytics"
+    }
+  }
+]

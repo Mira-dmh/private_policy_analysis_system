@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1478859313,
+            "url": "http://www.domobile.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the app's practice of collecting user data.",
+            "reference": "When you use our services (including websites, mobile applications and games), we may collect and use your related information. URL: http://www.domobile.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "a951084182b60e31274a2e10ca6ed66e3e46fc5f19a4e71e265fb69f0c1b9264",
+                "score": 0.06916356,
+                "excerpt": "Last Modified: April 24, 2023\nDoMobile values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads p...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "9868844b6b38e87b846fd9f78d8429789eff6f02d491146ae65cd18004a70c24",
+                "score": 0.022542967,
+                "excerpt": "implementing legislation (the \"GDPR\"), DoMobile (referred to as “we”, “us”, or “our”) will be the data controller responsible for any personal data we process.\nIf you have any questions or concerns about this Privacy Policy, including those related to exercise any of your rights, please contact us through privacy@domobile.com.\nAccording to the needs of different features, we may collect the information you provided to us. Such as the name or email address you submitted while you register an acco...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "ada046bb1625a53d601e465d8e8c4d4d1a6308b363bef93106a570037820b823",
+                "score": 0.016529556,
+                "excerpt": "provider to know the use frequency and time of the Service. These service providers may collect related information, such as the content you viewed, the linked you jumped to when using our service, and the system information and geography information of your device etc. The information may be transferred to related third-party data analyze service provider and saved by them.\n• The Services may include links to third-party websites (such as social media services) where you may be able to post com...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "9bcbb98c742dee184ea6e1c360b23d736d1f541119e23b54ff44212e0fc2d0fe",
+                "score": 0.0035380858,
+                "excerpt": "have the right to request that we delete the information we have collected from you (and direct our service providers and third parties where your information has been “sold” or “shared” to do the same) by sending an email to privacy@domobile.com, unless this proves impossible or involves disproportionate effort. There are a number of exceptions, however, that include, but are not limited to, when the information is necessary for us or a third party to do any of the following:\n•· Complete your t...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "8187b9d0f34b87d8c6097e0bb80a928637dc4c7b6403bc29957d94174b7ea39f",
+                "score": 0.003209961,
+                "excerpt": "Make other internal and lawful uses of the information that are compatible with the context in which you provided it.\nWe will respond to all requests within a reasonable timeframe.\nInformation SecurityDoMobile is very concerned about safeguarding the confidentiality of your information. We employ administrative, physical and electronic measures designed to protect your Personal and Non-Personal Information from unauthorized access and use.\nChildrenWe understand the importance of taking extra pre...",
+                "url": "http://www.domobile.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1478859313,
+            "url": "http://www.domobile.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects device information such as brand, model, operating system, system version, Bluetooth settings, internet connection, RAM, installed applications, running applications, advertising ID, activation time, and country code. It also collects information about the user's use of the services including displayed content, advertisements, visited URLs, notifications, and may potentially access photos, media, files, camera, microphone, Wi-Fi information, device ID, and location data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device information (brand, model, etc.)",
+                        "User's service usage info (content displayed, advertisements, URLs visited, etc.)",
+                        "User account and game progress information",
+                        "Information from third-party tools (account, avatar)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that describes the automatic collection of user information when using the services, covering device details, usage information, and account details. It also includes the information collected from third-party tools. The data types collected are detailed within this context.",
+            "reference": "The app collects information such as device brand, model, operating system, RAM, etc., and user service usage info including content displayed, URLs visited, etc. It also gathers user account and game progress info, and data from third-party tools like account and avatar. URL: http://www.domobile.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9868844b6b38e87b846fd9f78d8429789eff6f02d491146ae65cd18004a70c24",
+                "score": 0.24598956,
+                "excerpt": "implementing legislation (the \"GDPR\"), DoMobile (referred to as “we”, “us”, or “our”) will be the data controller responsible for any personal data we process.\nIf you have any questions or concerns about this Privacy Policy, including those related to exercise any of your rights, please contact us through privacy@domobile.com.\nAccording to the needs of different features, we may collect the information you provided to us. Such as the name or email address you submitted while you register an acco...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "ada046bb1625a53d601e465d8e8c4d4d1a6308b363bef93106a570037820b823",
+                "score": 0.06779314,
+                "excerpt": "provider to know the use frequency and time of the Service. These service providers may collect related information, such as the content you viewed, the linked you jumped to when using our service, and the system information and geography information of your device etc. The information may be transferred to related third-party data analyze service provider and saved by them.\n• The Services may include links to third-party websites (such as social media services) where you may be able to post com...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a951084182b60e31274a2e10ca6ed66e3e46fc5f19a4e71e265fb69f0c1b9264",
+                "score": 0.03204008,
+                "excerpt": "Last Modified: April 24, 2023\nDoMobile values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads p...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a7b4355cb4e2c34f75e8a9158978531197522bbfcfef24c0cdbafaadb7faa974",
+                "score": 0.018941708,
+                "excerpt": "(\"RAM\"), the application you have installed, the applications you have running in the background, mobile device's advertising ID, activation time and country code of the device etc.\n• Information of your use of the services. Such as content displayed to you and whether you clicked on it, advertisements displayed to you and whether you clicked on them, URLs you have visited, notifications that have appeared on your mobile device. According to the needs of specific features, we may read (probably ...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "3092921e69f1d7b607ad2a5ed0d2edf04586bcf44b03f4f714d8d73915ce7706",
+                "score": 0.005260852,
+                "excerpt": "Apple's ID for advertising (the 'IDFA'), which are uniquely associated with your device. Similar technologies include tracking pixels within ads. These technologies allow companies (including marketers and advertisers) to recognize your device when you use websites and applications.\nCookies are small text files that are stored by your browser on your desktop computer or mobile device. You can withdraw your consent to cookies by updating the settings within your browser. However, some parts of th...",
+                "url": "http://www.domobile.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1478859313,
+            "url": "http://www.domobile.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purposes for collecting and using data, such as providing services, assuring product safety, developing new services, analyzing data, improving services, verifying software, administering upgrades, and more.",
+            "reference": "The privacy policy mentions the purposes of data collection and use, including providing services, assuring product safety, developing new services, analyzing data, improving services, verifying software, administering upgrades, participating in surveys, evaluating advertisements, enabling social features, disclosing information to service providers, and making lawful uses of information. URL: http://www.domobile.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "ada046bb1625a53d601e465d8e8c4d4d1a6308b363bef93106a570037820b823",
+                "score": 0.1859472,
+                "excerpt": "provider to know the use frequency and time of the Service. These service providers may collect related information, such as the content you viewed, the linked you jumped to when using our service, and the system information and geography information of your device etc. The information may be transferred to related third-party data analyze service provider and saved by them.\n• The Services may include links to third-party websites (such as social media services) where you may be able to post com...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a951084182b60e31274a2e10ca6ed66e3e46fc5f19a4e71e265fb69f0c1b9264",
+                "score": 0.08050192,
+                "excerpt": "Last Modified: April 24, 2023\nDoMobile values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads p...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "2d6334d24ac8c7020fe55da8bd1d4ad70f68bdaf5af23e938a26a736a9258378",
+                "score": 0.012007351,
+                "excerpt": "the IMEI code of the device.\n2. to assure the safety of products and services we offer via using your information on identification-check, customer services, security, fraud-detection, archives and backups when we are providing you with our services;\n3. to help us develop new services and improve our existing services;\n4. to analyze data and better understand how you access and use our services, for the purposes of improving and personalizing our services to better respond your desires and prefe...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "8187b9d0f34b87d8c6097e0bb80a928637dc4c7b6403bc29957d94174b7ea39f",
+                "score": 0.011642224,
+                "excerpt": "Make other internal and lawful uses of the information that are compatible with the context in which you provided it.\nWe will respond to all requests within a reasonable timeframe.\nInformation SecurityDoMobile is very concerned about safeguarding the confidentiality of your information. We employ administrative, physical and electronic measures designed to protect your Personal and Non-Personal Information from unauthorized access and use.\nChildrenWe understand the importance of taking extra pre...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a7b4355cb4e2c34f75e8a9158978531197522bbfcfef24c0cdbafaadb7faa974",
+                "score": 0.0036642202,
+                "excerpt": "(\"RAM\"), the application you have installed, the applications you have running in the background, mobile device's advertising ID, activation time and country code of the device etc.\n• Information of your use of the services. Such as content displayed to you and whether you clicked on it, advertisements displayed to you and whether you clicked on them, URLs you have visited, notifications that have appeared on your mobile device. According to the needs of specific features, we may read (probably ...",
+                "url": "http://www.domobile.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1478859313,
+            "url": "http://www.domobile.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can request the deletion of the information collected from them by sending an email to privacy@domobile.com.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the right to request the deletion of their collected information by contacting a specified email address.",
+            "reference": "You have the right to request that we delete the information. We will respond to all requests within a reasonable timeframe. URL: http://www.domobile.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9bcbb98c742dee184ea6e1c360b23d736d1f541119e23b54ff44212e0fc2d0fe",
+                "score": 0.49227586,
+                "excerpt": "have the right to request that we delete the information we have collected from you (and direct our service providers and third parties where your information has been “sold” or “shared” to do the same) by sending an email to privacy@domobile.com, unless this proves impossible or involves disproportionate effort. There are a number of exceptions, however, that include, but are not limited to, when the information is necessary for us or a third party to do any of the following:\n•· Complete your t...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "3092921e69f1d7b607ad2a5ed0d2edf04586bcf44b03f4f714d8d73915ce7706",
+                "score": 0.44773194,
+                "excerpt": "Apple's ID for advertising (the 'IDFA'), which are uniquely associated with your device. Similar technologies include tracking pixels within ads. These technologies allow companies (including marketers and advertisers) to recognize your device when you use websites and applications.\nCookies are small text files that are stored by your browser on your desktop computer or mobile device. You can withdraw your consent to cookies by updating the settings within your browser. However, some parts of th...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "d6b2a1abc7d3870dfde0a0e8b191ae8669189df0476c3199212a1a219697e84d",
+                "score": 0.020215968,
+                "excerpt": "way, a notice will be posted on our website along with the updated Privacy Policy. If you do not agree to any modifications to this Policy, you could immediately stop all use of all the Services. Your continued use of the Site following the posting of any modifications to this Policy will constitute your acceptance of the revised Policy.",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a951084182b60e31274a2e10ca6ed66e3e46fc5f19a4e71e265fb69f0c1b9264",
+                "score": 0.018475594,
+                "excerpt": "Last Modified: April 24, 2023\nDoMobile values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads p...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "8187b9d0f34b87d8c6097e0bb80a928637dc4c7b6403bc29957d94174b7ea39f",
+                "score": 0.010570489,
+                "excerpt": "Make other internal and lawful uses of the information that are compatible with the context in which you provided it.\nWe will respond to all requests within a reasonable timeframe.\nInformation SecurityDoMobile is very concerned about safeguarding the confidentiality of your information. We employ administrative, physical and electronic measures designed to protect your Personal and Non-Personal Information from unauthorized access and use.\nChildrenWe understand the importance of taking extra pre...",
+                "url": "http://www.domobile.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1478859313,
+            "url": "http://www.domobile.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as mentioned in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may transfer information to related third-party data analyze service providers and save it. Furthermore, it mentions sharing information with employees, contractors, affiliates, and service providers who provide certain services on behalf of the app.",
+            "reference": "The information may be transferred to related third-party data analyze service provider and saved by them. We disclose your information to our employees, contractors, affiliates, ('Service Providers') who provide certain services to us or on our behalf. URL: http://www.domobile.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "ada046bb1625a53d601e465d8e8c4d4d1a6308b363bef93106a570037820b823",
+                "score": 0.7133318,
+                "excerpt": "provider to know the use frequency and time of the Service. These service providers may collect related information, such as the content you viewed, the linked you jumped to when using our service, and the system information and geography information of your device etc. The information may be transferred to related third-party data analyze service provider and saved by them.\n• The Services may include links to third-party websites (such as social media services) where you may be able to post com...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "9bcbb98c742dee184ea6e1c360b23d736d1f541119e23b54ff44212e0fc2d0fe",
+                "score": 0.14330755,
+                "excerpt": "have the right to request that we delete the information we have collected from you (and direct our service providers and third parties where your information has been “sold” or “shared” to do the same) by sending an email to privacy@domobile.com, unless this proves impossible or involves disproportionate effort. There are a number of exceptions, however, that include, but are not limited to, when the information is necessary for us or a third party to do any of the following:\n•· Complete your t...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "2d6334d24ac8c7020fe55da8bd1d4ad70f68bdaf5af23e938a26a736a9258378",
+                "score": 0.08344117,
+                "excerpt": "the IMEI code of the device.\n2. to assure the safety of products and services we offer via using your information on identification-check, customer services, security, fraud-detection, archives and backups when we are providing you with our services;\n3. to help us develop new services and improve our existing services;\n4. to analyze data and better understand how you access and use our services, for the purposes of improving and personalizing our services to better respond your desires and prefe...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a951084182b60e31274a2e10ca6ed66e3e46fc5f19a4e71e265fb69f0c1b9264",
+                "score": 0.0658447,
+                "excerpt": "Last Modified: April 24, 2023\nDoMobile values your privacy. When you use our services (including websites, mobile applications and games), we may collect and use your related information. If the related information was not provided, otherwise you may not register as our user to use some of our services or we may not able to operate effectively and provide you with the best experiences from our services. So we've developed a Privacy Policy that covers aspects of how we and our marketing and ads p...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "8451ff8438e4740b30b7873d73ce8c108a47b8eb12b6bac123c11b7fe5581585",
+                "score": 0.05997644,
+                "excerpt": "profile data, in-game activities and read the messages you have posted.\n9. We disclose your information to our employees, contractors, affiliates, (\"Service Providers\") who provide certain services to us or on our behalf, such as operating and supporting the Services, analyzing data, or performing marketing or consulting services. These Service Providers will only have access to the information needed to perform these limited functions on our behalf.\n10. It may be necessary − by law, legal proce...",
+                "url": "http://www.domobile.com/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1478859313,
+            "url": "http://www.domobile.com/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Third-party data analyze service providers, social media services, and third-party websites",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Third-party data analyze service providers",
+                        "Social media services",
+                        "Third-party websites"
+                    ]
+                }
+            },
+            "analysis": "The app shares data with various third parties including data analyze service providers, social media services, and other websites as outlined in the privacy policy.",
+            "reference": "The information may be transferred to related third-party data analyze service provider and saved by them. URL: http://www.domobile.com/privacy.html; Your use of these third-party websites may result in the collection or sharing of information about you by these third-party websites. URL: http://www.domobile.com/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "ada046bb1625a53d601e465d8e8c4d4d1a6308b363bef93106a570037820b823",
+                "score": 0.6058573,
+                "excerpt": "provider to know the use frequency and time of the Service. These service providers may collect related information, such as the content you viewed, the linked you jumped to when using our service, and the system information and geography information of your device etc. The information may be transferred to related third-party data analyze service provider and saved by them.\n• The Services may include links to third-party websites (such as social media services) where you may be able to post com...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "8451ff8438e4740b30b7873d73ce8c108a47b8eb12b6bac123c11b7fe5581585",
+                "score": 0.18359363,
+                "excerpt": "profile data, in-game activities and read the messages you have posted.\n9. We disclose your information to our employees, contractors, affiliates, (\"Service Providers\") who provide certain services to us or on our behalf, such as operating and supporting the Services, analyzing data, or performing marketing or consulting services. These Service Providers will only have access to the information needed to perform these limited functions on our behalf.\n10. It may be necessary − by law, legal proce...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "2d6334d24ac8c7020fe55da8bd1d4ad70f68bdaf5af23e938a26a736a9258378",
+                "score": 0.16171701,
+                "excerpt": "the IMEI code of the device.\n2. to assure the safety of products and services we offer via using your information on identification-check, customer services, security, fraud-detection, archives and backups when we are providing you with our services;\n3. to help us develop new services and improve our existing services;\n4. to analyze data and better understand how you access and use our services, for the purposes of improving and personalizing our services to better respond your desires and prefe...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "9bcbb98c742dee184ea6e1c360b23d736d1f541119e23b54ff44212e0fc2d0fe",
+                "score": 0.14211279,
+                "excerpt": "have the right to request that we delete the information we have collected from you (and direct our service providers and third parties where your information has been “sold” or “shared” to do the same) by sending an email to privacy@domobile.com, unless this proves impossible or involves disproportionate effort. There are a number of exceptions, however, that include, but are not limited to, when the information is necessary for us or a third party to do any of the following:\n•· Complete your t...",
+                "url": "http://www.domobile.com/privacy.html"
+            },
+            {
+                "id": "a7b4355cb4e2c34f75e8a9158978531197522bbfcfef24c0cdbafaadb7faa974",
+                "score": 0.06941547,
+                "excerpt": "(\"RAM\"), the application you have installed, the applications you have running in the background, mobile device's advertising ID, activation time and country code of the device etc.\n• Information of your use of the services. Such as content displayed to you and whether you clicked on it, advertisements displayed to you and whether you clicked on them, URLs you have visited, notifications that have appeared on your mobile device. According to the needs of specific features, we may read (probably ...",
+                "url": "http://www.domobile.com/privacy.html"
+            }
+        ]
+    }
+]

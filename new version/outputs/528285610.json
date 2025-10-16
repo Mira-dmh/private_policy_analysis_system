@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 528285610,
+            "url": "http://www.cognifit.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they collect various categories of personal information, implying the declaration of data collection.",
+            "reference": "As described in the Information We Collect section, we collect the categories of personal information listed below. We receive this information from you, your device, your use of the Services, third parties, and as otherwise described in this policy. URL: http://www.cognifit.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0555934ebeb258aa5c5edbad1d4d3f12d49fbf49e4e1f6123148ac9efedf661e",
+                "score": 0.057599206,
+                "excerpt": "the European Union’s General Data Protection Regulation (GDPR).\nHealth and Other Special Categories of Personal Data\nTo the extent that information we collect is health data or another special category of personal data subject to the GDPR, we ask for your explicit consent to process the data. We obtain this consent separately when you take actions leading to our obtaining the data, for example, when you pair your device to your account, grant us access to your exercise or activity data from anot...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "34b5696a23a7dee133e4977bae87efba96f3569c731ad4e4cd2098d079bbfc66",
+                "score": 0.053107902,
+                "excerpt": "Data section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact our Data Protection Officer at data-protection-office@cognifit.com, and we will consider your request in accordance with applicable...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "dedaaee4f741750ddde52783b75b25b3b38866a4e2526d65049788901f210b88",
+                "score": 0.025419652,
+                "excerpt": "party unless we prove we are not responsible for the event giving rise to the damage.\nCogniFit, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Data Privacy Framework in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.\nFor more information about the Data Privacy Framework (DPF) program and to view ou...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "682c38f056d5ea77559a65d1cce3350e9c1bcd98d08008b1b9cfb9eede1c18fb",
+                "score": 0.020410309,
+                "excerpt": "in locations around the world for the purposes described in this privacy policy.\nWherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "6fbfc0f73bf2b04a6af3bbef9926d307249dcca292aa6ac36de2e4fd6e21db8d",
+                "score": 0.005448068,
+                "excerpt": "friends.\nIf you contact us or participate in a survey, contest, or promotion, we collect the information you submit such as your name, contact information, and message.\nPayment and Card Information\nYou may provide us with payment information, including your credit or debit card number, card expiration date, CVV code, and billing address, in order to purchase cognitive assessment or training, as well as other offerings provided as part of our Services. Since payments are processed by a third-part...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 528285610,
+            "url": "http://www.cognifit.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects identifiers, demographic information, health data, electronic/visual information, professional/educational/employment-related information, other user-provided information, geolocation data, and inferences drawn from the collected data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identifiers (e.g., name, username, email address)",
+                        "Demographic information",
+                        "Health data",
+                        "Electronic/visual information",
+                        "Professional/educational/employment-related information",
+                        "Other user-provided information",
+                        "Geolocation data",
+                        "Inferences drawn from the data"
+                    ]
+                }
+            },
+            "analysis": "The app collects various types of data as mentioned in the Privacy Policy under different categories. These include personal identifiers, health-related data, professional information, and more.",
+            "reference": "Identifiers, demographic info, health data, electronic/visual info, professional/educational/employment-related info, other user-provided info, geolocation data, inferences drawn from the collected data. URL: http://www.cognifit.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "34b5696a23a7dee133e4977bae87efba96f3569c731ad4e4cd2098d079bbfc66",
+                "score": 0.2710587,
+                "excerpt": "Data section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact our Data Protection Officer at data-protection-office@cognifit.com, and we will consider your request in accordance with applicable...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "0555934ebeb258aa5c5edbad1d4d3f12d49fbf49e4e1f6123148ac9efedf661e",
+                "score": 0.26020142,
+                "excerpt": "the European Union’s General Data Protection Regulation (GDPR).\nHealth and Other Special Categories of Personal Data\nTo the extent that information we collect is health data or another special category of personal data subject to the GDPR, we ask for your explicit consent to process the data. We obtain this consent separately when you take actions leading to our obtaining the data, for example, when you pair your device to your account, grant us access to your exercise or activity data from anot...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "b535bcac3ffe07ab31ef8d5c4f9d67e676381884de97e1b852a747cdd6a322cd",
+                "score": 0.16465074,
+                "excerpt": "on your computer. However, some of our services may not function properly if you disable cookies. When your browser or device allows it, we use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage patterns, and to personalize and otherwise operate our services such as by providing account security, personalizing the content we show you including ads, and remembering your language preferences. For more information, please ...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "f6199dda8089dcb08c9f57e4ef0978d4eb5359383e3a0172b7d3d8ebac7c8133",
+                "score": 0.09186979,
+                "excerpt": "Geolocation data, including GPS signals, device sensors, Wi-Fi access points, and cell tower IDs, if you have granted us access to that information.\n- Electronic, visual, or similar information, such as your profile photo or other photos.\n- Professional, educational or employment related information, including any information (like your name, email address, or similar information) that your healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, ...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "6fbfc0f73bf2b04a6af3bbef9926d307249dcca292aa6ac36de2e4fd6e21db8d",
+                "score": 0.058776557,
+                "excerpt": "friends.\nIf you contact us or participate in a survey, contest, or promotion, we collect the information you submit such as your name, contact information, and message.\nPayment and Card Information\nYou may provide us with payment information, including your credit or debit card number, card expiration date, CVV code, and billing address, in order to purchase cognitive assessment or training, as well as other offerings provided as part of our Services. Since payments are processed by a third-part...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 528285610,
+            "url": "http://www.cognifit.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they use the information collected for various purposes such as customer support, safety, security, and sharing aggregate insights.",
+            "reference": "We use the information we collect for the following purposes...Provide and Maintain the Services...using personal data for the purposes described in this privacy policy.URL: http://www.cognifit.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "34b5696a23a7dee133e4977bae87efba96f3569c731ad4e4cd2098d079bbfc66",
+                "score": 0.2562732,
+                "excerpt": "Data section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact our Data Protection Officer at data-protection-office@cognifit.com, and we will consider your request in accordance with applicable...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "f0175ae93019c65cbd4acb986e6da46b73901f53ff431b06f9d2e63aeed474ca",
+                "score": 0.227641,
+                "excerpt": "in an email.\nCookies\nWe use cookies and similar technologies for the purposes described above. For more information, please read our Cookie Use statement.\nCustomer Support\nWe use the data (which can include your communications) to investigate, respond to and resolve complaints and Service issues (e.g., bugs).\nPromote Safety and Security\nWe use the information we collect to promote the safety and security of the Services, our users, and other parties. For example, we may use the information to au...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "ef033a597262e9d6f55f03a30d8ab735a74db23955847756cd121ce23385253f",
+                "score": 0.13072868,
+                "excerpt": "and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Facebook or Twitter account to share content from our Services into these other services. You may revoke the link with such accounts.\nService Providers\nWe transfer information to our corporate affiliates, service providers, and other partners who process it for us, based on our instructions, and in compliance with this policy and any other appropria...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "b535bcac3ffe07ab31ef8d5c4f9d67e676381884de97e1b852a747cdd6a322cd",
+                "score": 0.04069295,
+                "excerpt": "on your computer. However, some of our services may not function properly if you disable cookies. When your browser or device allows it, we use both session cookies and persistent cookies to better understand how you interact with our services, to monitor aggregate usage patterns, and to personalize and otherwise operate our services such as by providing account security, personalizing the content we show you including ads, and remembering your language preferences. For more information, please ...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "682c38f056d5ea77559a65d1cce3350e9c1bcd98d08008b1b9cfb9eede1c18fb",
+                "score": 0.02931223,
+                "excerpt": "in locations around the world for the purposes described in this privacy policy.\nWherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we use standard contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 528285610,
+            "url": "http://www.cognifit.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection and delete their data by using their account settings and tools.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the ability to control their personal data by accessing account settings and tools.",
+            "reference": "By logging into your account and using your account settings, you can change and delete your personal information. If you choose to delete your account, please note that all data, scores, and information will be permanently deleted. URL: http://www.cognifit.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d2e51d67f8454c2e69562b2037dbec16f883c3c9b842c20502a8aa80e339657d",
+                "score": 0.85741025,
+                "excerpt": "an individual. We may disclose such information publicly and to third parties, for example, in public reports about exercise and activity, to partners under agreement with us, or as part of the community benchmarking information we provide to users of our subscription services.\n4. Your Rights to Access and Control Your Personal Data\nWe give you account settings and tools to access and control your personal data, as described below. If you live in certain jurisdictions, you may have legal rights ...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "0555934ebeb258aa5c5edbad1d4d3f12d49fbf49e4e1f6123148ac9efedf661e",
+                "score": 0.5885936,
+                "excerpt": "the European Union’s General Data Protection Regulation (GDPR).\nHealth and Other Special Categories of Personal Data\nTo the extent that information we collect is health data or another special category of personal data subject to the GDPR, we ask for your explicit consent to process the data. We obtain this consent separately when you take actions leading to our obtaining the data, for example, when you pair your device to your account, grant us access to your exercise or activity data from anot...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "16e0f24836fcc00c89a1d5f95c477f3fbefc32b02d1a5b1559c0335dffc4bba6",
+                "score": 0.50129414,
+                "excerpt": "systems.\nObjecting to Data Use\nWe give you account settings and tools to control our data use. For example, through your privacy settings, you can limit how your information is visible to other users of the Services; using your notification settings, you can limit the notifications you receive from us; and under your account settings, you can revoke the access of third-party applications that you previously connected to your CogniFit account.\n5. Data Retention\nWe keep your account information, l...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "3de80aa62cb9d11869e9ff7b355bd2961adc6b1bdb550a925bb8d71b2800bd5d",
+                "score": 0.4330222,
+                "excerpt": "tools;\n- When the processing is necessary to perform a contract with you, like the Terms of Service; and\n- Our legitimate business interests, such as in improving, personalizing, and developing the Services, marketing new features or products that may be of interest, and promoting safety and security as described in the How We Use Information section.\nHow to Exercise your Legal Rights\nPlease review the Your Rights to Access and Control Your Personal Data section for how your account settings and...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "b57827f0275063f4d1fcc26dc792aa37946f1b5183f8041f5a7191a9e594412e",
+                "score": 0.39338502,
+                "excerpt": "tools to delete the data or your account because we use this data to provide you with your personal statistics and other aspects of the Services. We also keep information about you and your use of the Services for as long as necessary for our legitimate business interests, for legal reasons, and to prevent harm, including as described in the How We Use Information and How Information Is Shared sections.\n6. Analytics and Advertising Services Provided by Others\nWe work with partners who provide us...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 528285610,
+            "url": "http://www.cognifit.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that CogniFit may partner with third parties, such as healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, research facilities, health and wellness companies, and share personal information received from those organizations with them.",
+            "reference": "We may partner with third parties, such as healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, research facilities, health and wellness companies, that offer CogniFit Services to their patients, customers, employees, clients, students, study participants and consumers. In such cases, those organizations may provide us with your name, email address, or similar information (like a telephone number or subscriber ID) so that we can invite you to participate or determine your eligibility for particular benefits, such as discounts or free services. URL: http://www.cognifit.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "957750b1511cf9cea0aa55d8d686cae607af8d091c1b40a76599081822435585",
+                "score": 0.62452257,
+                "excerpt": "provided one) is visible to other users of the Services. You may direct us to disclose more information to others, such as when your account is linked to a professional or to your parents (see next paragraph) or when you use our community features like the challenges and other social tools. For certain information, we provide you with privacy preferences in account settings and other tools to control how your information is visible to other users of the Services.\nProfessional and family accounts...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "93da49b969d531d1a118db128c28f4da4d1cbf4b66a6e1634fc29f763bb9e4f1",
+                "score": 0.55311304,
+                "excerpt": "granted us), and cookie information.\nInformation from Third-Party Services\nIf you choose to connect your account on our Services to your account on another service, we may receive information from the other service. For example, if you connect to Facebook or Twitter, we may receive information like your name, profile picture, age range, gender, language, email address, and friend list. You may also choose to grant us access to your exercise or activity data from another service. You can stop sha...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "8577bd40ecccb45dfe20a715b82135c4dd17c9256eb94c6629acdf7f80029316",
+                "score": 0.5149339,
+                "excerpt": "or to prevent, detect, or investigate illegal activity, fraud, abuse, violations of our terms, or threats to the security of the Services or the physical safety of any person.\nOur policy is to notify you of legal process seeking access to your information, such as search warrants, court orders, or subpoenas, unless we are prohibited by law from doing so. In cases where a court order specifies a non-disclosure period, we provide delayed notice after the expiration of the non-disclosure period. Ex...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "34b5696a23a7dee133e4977bae87efba96f3569c731ad4e4cd2098d079bbfc66",
+                "score": 0.49214238,
+                "excerpt": "Data section, for example:\n- By logging into your account and using your account settings, you may exercise your right to access your personal information and to understand how we collect, use, and disclose it.\n- Your account settings also let you exercise your right to delete personal information.\nIf you need further assistance regarding your rights, please contact our Data Protection Officer at data-protection-office@cognifit.com, and we will consider your request in accordance with applicable...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "16e0f24836fcc00c89a1d5f95c477f3fbefc32b02d1a5b1559c0335dffc4bba6",
+                "score": 0.45622808,
+                "excerpt": "systems.\nObjecting to Data Use\nWe give you account settings and tools to control our data use. For example, through your privacy settings, you can limit how your information is visible to other users of the Services; using your notification settings, you can limit the notifications you receive from us; and under your account settings, you can revoke the access of third-party applications that you previously connected to your CogniFit account.\n5. Data Retention\nWe keep your account information, l...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 528285610,
+            "url": "http://www.cognifit.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, research facilities, health and wellness companies",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, research facilities, health and wellness companies"
+                }
+            },
+            "analysis": "The privacy policy mentions that CogniFit may partner with various third parties to offer services to their respective clients. These third parties include healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, research facilities, and health and wellness companies. The app shares data with these entities based on the partnerships.",
+            "reference": "We may partner with third parties, such as healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, research facilities, health and wellness companies, that offer CogniFit Services to their patients, customers, employees, clients, students, study participants and consumers. In such cases, those organizations may provide us with your name, email address, or similar information (like a telephone number or subscriber ID) so that we can invite you to participate or determine your eligibility for particular benefits, such as discounts or free services. URL: http://www.cognifit.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "957750b1511cf9cea0aa55d8d686cae607af8d091c1b40a76599081822435585",
+                "score": 0.50128174,
+                "excerpt": "provided one) is visible to other users of the Services. You may direct us to disclose more information to others, such as when your account is linked to a professional or to your parents (see next paragraph) or when you use our community features like the challenges and other social tools. For certain information, we provide you with privacy preferences in account settings and other tools to control how your information is visible to other users of the Services.\nProfessional and family accounts...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "93da49b969d531d1a118db128c28f4da4d1cbf4b66a6e1634fc29f763bb9e4f1",
+                "score": 0.41994524,
+                "excerpt": "granted us), and cookie information.\nInformation from Third-Party Services\nIf you choose to connect your account on our Services to your account on another service, we may receive information from the other service. For example, if you connect to Facebook or Twitter, we may receive information like your name, profile picture, age range, gender, language, email address, and friend list. You may also choose to grant us access to your exercise or activity data from another service. You can stop sha...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "0707b2759487ba47a7a54414e98b6061e9c38f8bf9217fdbade4c39862e5dc49",
+                "score": 0.38983688,
+                "excerpt": "to view our certification, please visit https://www.dataprivacyframework.gov/.\nIf you have any inquiries or complaints about our handling of your personal information under the Data Privacy Framework, or about our privacy practices generally, please contact us at: privacy@cognifit.com. We will respond to your inquiry promptly. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (fre...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "b57827f0275063f4d1fcc26dc792aa37946f1b5183f8041f5a7191a9e594412e",
+                "score": 0.3429015,
+                "excerpt": "tools to delete the data or your account because we use this data to provide you with your personal statistics and other aspects of the Services. We also keep information about you and your use of the Services for as long as necessary for our legitimate business interests, for legal reasons, and to prevent harm, including as described in the How We Use Information and How Information Is Shared sections.\n6. Analytics and Advertising Services Provided by Others\nWe work with partners who provide us...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            },
+            {
+                "id": "f6199dda8089dcb08c9f57e4ef0978d4eb5359383e3a0172b7d3d8ebac7c8133",
+                "score": 0.32723817,
+                "excerpt": "Geolocation data, including GPS signals, device sensors, Wi-Fi access points, and cell tower IDs, if you have granted us access to that information.\n- Electronic, visual, or similar information, such as your profile photo or other photos.\n- Professional, educational or employment related information, including any information (like your name, email address, or similar information) that your healthcare providers, pharmaceutical companies, employers, insurance companies, educational institutions, ...",
+                "url": "http://www.cognifit.com/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1312926037,
+      "url": "https://www.getstoic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when users open the Stoic App, certain data about the app and how users engage with it is automatically collected, including device information, app usage patterns, and approximate location. This data is used to analyze patterns and enhance user experience, and it is collected in an anonymized and aggregated manner.",
+        "simple_answer": "Yes, the app collects data about user engagement and device information.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes that it does not collect personal identifiers like names or contact details unless users contact them directly.",
+          "content": "The app collects data such as device type, pages opened, time spent, and user activities to improve functionality and user experience. This data is not shared with third parties for marketing purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and the purposes for which it is used, ensuring transparency with users.",
+      "reference": "Section 1: Data from Stoic App"
+    }
+  },
+  {
+    "meta": {
+      "id": 1312926037,
+      "url": "https://www.getstoic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects data related to user engagement with the app, including device information, pages opened, time, type, frequency, and duration of activities. It also collects approximate location data, Log Data in case of errors, and data from Apple HealthKit or Google Fit if the user grants access. Additionally, it collects contact data if the user contacts Stoic directly.",
+        "simple_answer": "The app collects user engagement data, location data, and contact data.",
+        "extended_simple_answer": {
+          "comment": "The app does not collect personal identifiers unless the user contacts them directly.",
+          "content": "Data collected includes: 1. User engagement data (device info, app usage patterns), 2. Approximate location data (if shared), 3. Log Data (in case of errors), 4. Health data (if connected to HealthKit or Google Fit), 5. Contact data (if the user reaches out)."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Data from Stoic App"
+    }
+  },
+  {
+    "meta": {
+      "id": 1312926037,
+      "url": "https://www.getstoic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that data is collected to analyze patterns, enhance and personalize user experience, and for performance analysis, identifying trends, and improving functionality. Additionally, it mentions that data is processed to provide services, fix technical problems, and develop the service further.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that data is collected for various purposes, including improving user experience and service development.",
+          "content": "The data collected is used to analyze user engagement, enhance the app's functionality, and provide personalized experiences. It also mentions that data is processed to address individual needs and fix technical issues."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Data from Stoic App"
+    }
+  },
+  {
+    "meta": {
+      "id": 1312926037,
+      "url": "https://www.getstoic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by switching off analytics within the App settings. Additionally, users can stop Stoic App from accessing their data in HealthKit or Google Fit by changing the settings. However, the policy does not explicitly mention a process for deleting data once collected.",
+        "simple_answer": "Yes, users can opt out of data collection.",
+        "extended_simple_answer": {
+          "comment": "Users have control over certain data collection settings.",
+          "content": "Users can manage their analytics preferences within the App settings and can stop Stoic App from accessing their data in HealthKit or Google Fit at any time."
+        }
+      },
+      "analysis": "The privacy policy provides users with options to manage their data collection preferences, particularly regarding analytics and third-party integrations.",
+      "reference": "Section 1: Data from Stoic App; Section 2: Apple HealthKit and Google Fit"
+    }
+  },
+  {
+    "meta": {
+      "id": 1312926037,
+      "url": "https://www.getstoic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share user data with third parties for marketing or advertising purposes, nor does it sell user data. It works with trusted third-party analytics providers to collect and process certain anonymized and aggregated data solely for performance analysis and improving functionality.",
+        "simple_answer": "No, the app does not share data with third parties for marketing or advertising.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and does not engage in selling or sharing data for commercial purposes.",
+          "content": "The app collects data to analyze patterns and enhance user experience but ensures that this data is anonymized and aggregated. It does not share this data with third parties for marketing or advertising."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Data from Stoic App"
+    }
+  },
+  {
+    "meta": {
+      "id": 1312926037,
+      "url": "https://www.getstoic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with third parties for marketing or advertising purposes, nor does it sell user data. However, it works with trusted third-party analytics providers to collect and process certain data about app usage, which is anonymized and aggregated for performance analysis and improving functionality.",
+        "simple_answer": "The app shares data with trusted third-party analytics providers for performance analysis.",
+        "extended_simple_answer": {
+          "comment": "The data shared is anonymized and aggregated, ensuring user privacy.",
+          "content": "We work with trusted third-party analytics providers to collect and process this data. We may use cookies and similar tracking technologies to help us understand how users engage with the App. This information is anonymized and aggregated, and is solely used for performance analysis, identifying trends, and improving functionality."
+        }
+      },
+      "analysis": "",
+      "reference": "DATA WE PROCESS, Section 1"
+    }
+  }
+]

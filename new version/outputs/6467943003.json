@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 6467943003,
+            "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that it describes the policies and procedures on the collection, use, and disclosure of user information, indicating that data collection is declared.",
+            "reference": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You. URL: https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+        },
+        "source_documents": [
+            {
+                "id": "24b611f835a4aedf9962d98918ff5f5ae0c4cb5b6ae705fe6398b2c9b75cdd16",
+                "score": 0.08122776,
+                "excerpt": "set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.\nApple Store In-App Payments\nTheir Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/\nWe may process Personal Data under the following conditions:\nIn any case, the Company will gladly help to clarify the specific legal basis that applies to the pr...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "5d9b99624c12726758a1e72e6b40becb0aecfcc8cf372d1caf913cdc1171a591",
+                "score": 0.025760558,
+                "excerpt": "Privacy Policy for Affirmation Widget\nLast updated: October 04, 2023\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capi...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "21c84d7aaaa45afe48fe988c2f1e31ae51033a482581fc701a5cb9435df9c366",
+                "score": 0.024656856,
+                "excerpt": "respond to You as soon as possible.\nYou have the right to complain to a Data Protection Authority about Our collection and use of Your Personal Data. For more information, if You are in the European Economic Area (EEA), please contact Your local data protection authority in the EEA.\nThis privacy notice section for California residents supplements the information contained in Our Privacy Policy and it applies solely to all visitors, users, and others who reside in the State of California.\nWe coll...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "7aa284caf877dd4de7c883946d71cfe210684de0297312d0811e2984b2f20fef",
+                "score": 0.012673736,
+                "excerpt": "store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is an analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "ec1fdda984efbbed1f471885128b0b6eb58c6938f3b8aaffb2a8d634762d93e1",
+                "score": 0.011419615,
+                "excerpt": "legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nUnder GDPR, You can be referred to as the Data Subject or as the User as you are the individual using the Service.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6467943003,
+            "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Usage Data, such as IP addresses, browser types, pages visited, timestamps, unique device identifiers, and other diagnostic data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol addresses",
+                        "browser types",
+                        "pages visited",
+                        "timestamps",
+                        "unique device identifiers",
+                        "other diagnostic data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions collecting Usage Data, which includes a variety of information related to users' activities on the service.",
+            "reference": "Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. URL: https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+        },
+        "source_documents": [
+            {
+                "id": "7aa284caf877dd4de7c883946d71cfe210684de0297312d0811e2984b2f20fef",
+                "score": 0.22575782,
+                "excerpt": "store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is an analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "21c84d7aaaa45afe48fe988c2f1e31ae51033a482581fc701a5cb9435df9c366",
+                "score": 0.1584346,
+                "excerpt": "respond to You as soon as possible.\nYou have the right to complain to a Data Protection Authority about Our collection and use of Your Personal Data. For more information, if You are in the European Economic Area (EEA), please contact Your local data protection authority in the EEA.\nThis privacy notice section for California residents supplements the information contained in Our Privacy Policy and it applies solely to all visitors, users, and others who reside in the State of California.\nWe coll...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "ec1fdda984efbbed1f471885128b0b6eb58c6938f3b8aaffb2a8d634762d93e1",
+                "score": 0.13006426,
+                "excerpt": "legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nUnder GDPR, You can be referred to as the Data Subject or as the User as you are the individual using the Service.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "b555814f553d2345613989540ce3bcaa5282668a5bb20e017d95c226daa9f05e",
+                "score": 0.072243005,
+                "excerpt": "location data, online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity.\nFor the purposes of the CCPA/CPRA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.\nService refers to the Application.\nService Provider means any natural or legal person who processes the data on behalf of the Com...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "3a7187799bfe4b19b7bcc2fc6ac4148656093d3a060bd9027bf79894da6eed8e",
+                "score": 0.06620602,
+                "excerpt": "the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6467943003,
+            "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the company uses personal data for specific purposes such as providing and maintaining the service, managing user accounts, contacting users, providing news and updates, and ensuring secure payment processing.",
+            "reference": "The Company may use Personal Data for the following purposes: To provide and maintain our Service, including to monitor the usage of our Service. To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user. For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service. To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation. To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information. URL: https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+        },
+        "source_documents": [
+            {
+                "id": "5d9b99624c12726758a1e72e6b40becb0aecfcc8cf372d1caf913cdc1171a591",
+                "score": 0.13420755,
+                "excerpt": "Privacy Policy for Affirmation Widget\nLast updated: October 04, 2023\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nThe words of which the initial letter is capi...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "ec1fdda984efbbed1f471885128b0b6eb58c6938f3b8aaffb2a8d634762d93e1",
+                "score": 0.031439852,
+                "excerpt": "legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nUnder GDPR, You can be referred to as the Data Subject or as the User as you are the individual using the Service.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "3a7187799bfe4b19b7bcc2fc6ac4148656093d3a060bd9027bf79894da6eed8e",
+                "score": 0.024656856,
+                "excerpt": "the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "24b611f835a4aedf9962d98918ff5f5ae0c4cb5b6ae705fe6398b2c9b75cdd16",
+                "score": 0.022586042,
+                "excerpt": "set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.\nApple Store In-App Payments\nTheir Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/\nWe may process Personal Data under the following conditions:\nIn any case, the Company will gladly help to clarify the specific legal basis that applies to the pr...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "63d0340bc7a59d8077bace22456108548b44f6278611309576cdd2d692054b87",
+                "score": 0.01798621,
+                "excerpt": "of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average Consumer who requests such services or goods.\nWe collect, use and disclose sensitive personal information in ways that are necessary to provide the Service. For more information on how We use Your personal information, please see the \"Use of Your Personal Data\" section or contact us.\nOur Service does not respond to Do Not Track signals.\nHowever, som...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6467943003,
+            "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can opt out of data collection or request the deletion of their personal data.",
+            "reference": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You. URL: https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3."
+        },
+        "source_documents": [
+            {
+                "id": "5c9ec85f5ac25feb9a85c7d72628445faa4a8ba499f606270f3abe1225d5632b",
+                "score": 0.63906056,
+                "excerpt": "listed on the Service to review your privacy preferences and opt out of cookies and other technologies that We may use. Please note that You will need to opt out from each browser that You use to access the Service.\nAdditionally, You can opt out of receiving ads that are personalized as served by our Service Providers by following our instructions presented on the Service:\nThe opt out will place a cookie on Your computer that is unique to the browser You use to opt out. If you change browsers or...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "7aca5fb1a6c90aa27f959c18c0ccda96c6dc05dd07d60c9d408ffdcedc4f05ca",
+                "score": 0.6206791,
+                "excerpt": "than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "e7673bc08f62b4fc7342293a430f594a983c84a41c85e0d3879404a4a8d1dcce",
+                "score": 0.47513342,
+                "excerpt": "from the applicable category may be and may have been shared for value in return.\nWe do not knowingly collect personal information from minors under the age of 16 through our Service, although certain third party websites that we link to may do so. These third-party websites have their own terms of use and privacy policies and We encourage parents and legal guardians to monitor their children's Internet usage and instruct their children to never provide information on other websites without thei...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "8f3a4a8ba8be61aba938b7b9ae509211b894d3eeda91dca32a79b6133f55bd26",
+                "score": 0.45950055,
+                "excerpt": "Your personal information for the business purposes described in Our Privacy Policy, for activities such as advertising, marketing, and analytics, and these may be deemed a sale under CCPA/CPRA.\nYou have the right to opt-out of the sale of Your personal information. Once We receive and confirm a verifiable consumer request from You, we will stop selling Your personal information. To exercise Your right to opt-out, please contact Us.\nThe Service Providers we partner with (for example, our analyti...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "7d1409d13691f030772c4578df0e2c5d8c9a8bc25cbbf3741599dea2695b3ac1",
+                "score": 0.18257122,
+                "excerpt": "provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.\nIf We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.\nOur Service may contain links to other websites tha...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6467943003,
+            "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app shares data with third-party service providers and third-party payment processors, indicating data sharing with external entities.",
+            "reference": "We may use third-party Service providers to monitor and analyze the use of our Service. We may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors). URL: https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+        },
+        "source_documents": [
+            {
+                "id": "7aa284caf877dd4de7c883946d71cfe210684de0297312d0811e2984b2f20fef",
+                "score": 0.40833575,
+                "excerpt": "store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is an analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "5effe25f34a61670628bad746ba1ab61238399219be9a3953e34721cd3c126ea",
+                "score": 0.3497548,
+                "excerpt": "note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public ...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "63d0340bc7a59d8077bace22456108548b44f6278611309576cdd2d692054b87",
+                "score": 0.14163722,
+                "excerpt": "of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average Consumer who requests such services or goods.\nWe collect, use and disclose sensitive personal information in ways that are necessary to provide the Service. For more information on how We use Your personal information, please see the \"Use of Your Personal Data\" section or contact us.\nOur Service does not respond to Do Not Track signals.\nHowever, som...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "24b611f835a4aedf9962d98918ff5f5ae0c4cb5b6ae705fe6398b2c9b75cdd16",
+                "score": 0.073430054,
+                "excerpt": "set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.\nApple Store In-App Payments\nTheir Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/\nWe may process Personal Data under the following conditions:\nIn any case, the Company will gladly help to clarify the specific legal basis that applies to the pr...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "fde34b157bdc394f6ebbf2beb846bec986e676199aa47366b4c6f7297017cea8",
+                "score": 0.03875619,
+                "excerpt": "the security updates, when necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restruct...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6467943003,
+            "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Firebase, Google Inc., payment processors, Apple Store, third-party vendors",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Firebase",
+                        "Google Inc.",
+                        "payment processors",
+                        "Apple Store",
+                        "third-party vendors"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states the various third parties with which the app shares data, including Firebase, Google Inc., payment processors, Apple Store, and third-party vendors.",
+            "reference": "Firebase, Google Inc., payment processors, Apple Store, third-party vendors. URL: https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+        },
+        "source_documents": [
+            {
+                "id": "7aa284caf877dd4de7c883946d71cfe210684de0297312d0811e2984b2f20fef",
+                "score": 0.4763361,
+                "excerpt": "store, use, process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nFirebase\nFirebase is an analytics service provided by Google Inc.\nYou may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "5effe25f34a61670628bad746ba1ab61238399219be9a3953e34721cd3c126ea",
+                "score": 0.47184682,
+                "excerpt": "note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public ...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "fd291749e6bf22ad77baf819eff4c1c417e7823fb9438e6acf8a220da7f9b5d7",
+                "score": 0.30239108,
+                "excerpt": "different, unrelated, or incompatible purposes We will update this Privacy Policy.\nWe may use or disclose and may have used or disclosed in the last twelve (12) months the following categories of personal information for business or commercial purposes:\nPlease note that the categories listed above are those defined in the CCPA/CPRA. This does not mean that all examples of that category of personal information were in fact disclosed, but reflects our good faith belief to the best of our knowledge...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "fde34b157bdc394f6ebbf2beb846bec986e676199aa47366b4c6f7297017cea8",
+                "score": 0.15482272,
+                "excerpt": "the security updates, when necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restruct...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            },
+            {
+                "id": "63d0340bc7a59d8077bace22456108548b44f6278611309576cdd2d692054b87",
+                "score": 0.13951357,
+                "excerpt": "of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average Consumer who requests such services or goods.\nWe collect, use and disclose sensitive personal information in ways that are necessary to provide the Service. For more information on how We use Your personal information, please see the \"Use of Your Personal Data\" section or contact us.\nOur Service does not respond to Do Not Track signals.\nHowever, som...",
+                "url": "https://www.privacypolicies.com/live/bdf43acc-2740-4f0f-ad9d-35d2c0eab4a3"
+            }
+        ]
+    }
+]

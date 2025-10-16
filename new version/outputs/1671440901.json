@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 1671440901,
+            "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects data.",
+            "reference": "We collect information that identifies, relates to, describes, references, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular Consumer or Device. URL: https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+        },
+        "source_documents": [
+            {
+                "id": "3b4e203db8321bc21fb7aebc59bfc2d25e4b64144576a8b4028acbbfc259304b",
+                "score": 0.05291181,
+                "excerpt": "of GetResponse, please visit their Privacy policy: https://www.getresponse.com/legal/privacy.html\nWe may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere t...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "0f2bcd2a56553057dca65cacbda952c1bfd24bfbe24014b2ceb0d4f3d1b3233f",
+                "score": 0.024191486,
+                "excerpt": "specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.\nThe Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights.\nYou have the right under this Privacy Policy, and by law if You are within the EU, to:\nYou may exercise Your rights of access, rectification, cancellation and opposition b...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "73fb1c6e10e7373b17172b8e9df6a1af00969c4e870c827c60f0add7534517fd",
+                "score": 0.01621503,
+                "excerpt": "you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245\nFor more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https://policies.google.com/technologies/partner-sites\nWe may use Your Personal Data to contact You with newsletters, marketing or promotional materials and other information that may be of interest to You. You may opt-out of rece...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "5c4bfcb4993aaf6164794c297abdc16f92afb0a31a1e4015da3465d06ddf522a",
+                "score": 0.013428255,
+                "excerpt": "about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nGoogle Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own adve...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "4b05ceb2612cbd881b6d5c7d597776749d3155c6c60d12f4c8e24860bd82d4eb",
+                "score": 0.012241275,
+                "excerpt": "more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity.\nFor the purposes of the CCPA/CPRA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linked, directly or indirectly, with You.\nService refers to the Application.\nService Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or in...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671440901,
+            "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects 'Internet or other similar network activity' data such as interaction with the service or advertisements, and 'Sensitive personal information' including account login and password information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet or other similar network activity",
+                        "Sensitive personal information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that outlines the types of data collected by the app, including network activity data and sensitive personal information.",
+            "reference": "Category F: Internet or other similar network activity. Examples: Interaction with our Service or advertisement. Collected: Yes.; Category L: Sensitive personal information. Examples: Account login and password information, geolocation data. Collected: Yes. URL: https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+        },
+        "source_documents": [
+            {
+                "id": "5c4bfcb4993aaf6164794c297abdc16f92afb0a31a1e4015da3465d06ddf522a",
+                "score": 0.325735,
+                "excerpt": "about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nGoogle Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own adve...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "73fb1c6e10e7373b17172b8e9df6a1af00969c4e870c827c60f0add7534517fd",
+                "score": 0.2670257,
+                "excerpt": "you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245\nFor more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https://policies.google.com/technologies/partner-sites\nWe may use Your Personal Data to contact You with newsletters, marketing or promotional materials and other information that may be of interest to You. You may opt-out of rece...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "588e8ce9d44b55195b420059bd66b6c3e5aaa08af47508a166cdf440f404a839",
+                "score": 0.12326006,
+                "excerpt": "physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.\nCollected: No.\nCategory F: Internet or other similar network activity.\nExamples: Interaction with our Service or advertisement.\nCollected: Yes.\nCategory G: Geolocation data.\nExamples: Appro...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "7b8266b0dba94c5fd0e9a9b1a2cbce45692dea244deb797db009d06e8e3d28e2",
+                "score": 0.09318171,
+                "excerpt": "is accessing or using the Service, as applicable.\nUnder GDPR, You can be referred to as the Data Subject or as the User as you are the individual using the Service.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail address\nUsage Data\nUsage Data is collected automatically when using the Service.\nUsage Data may include infor...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "0f2bcd2a56553057dca65cacbda952c1bfd24bfbe24014b2ceb0d4f3d1b3233f",
+                "score": 0.0751764,
+                "excerpt": "specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.\nThe Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights.\nYou have the right under this Privacy Policy, and by law if You are within the EU, to:\nYou may exercise Your rights of access, rectification, cancellation and opposition b...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671440901,
+            "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app uses Personal Data for several specific purposes, such as providing and maintaining the service, managing user accounts, contacting users for updates or informative communications, providing news and special offers, managing user requests, and more.",
+            "reference": "The Company may use Personal Data for the following purposes: To provide and maintain our Service, including to monitor the usage of our Service. To manage Your Account: to manage Your registration as a user of the Service. To contact You: To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services... URL: https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+        },
+        "source_documents": [
+            {
+                "id": "83f993ada1e637e7dc45a0f0386ce4014c5297ead2d4366e21fe37476c0888a9",
+                "score": 0.03711691,
+                "excerpt": "You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different fu...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "7b8266b0dba94c5fd0e9a9b1a2cbce45692dea244deb797db009d06e8e3d28e2",
+                "score": 0.033336826,
+                "excerpt": "is accessing or using the Service, as applicable.\nUnder GDPR, You can be referred to as the Data Subject or as the User as you are the individual using the Service.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail address\nUsage Data\nUsage Data is collected automatically when using the Service.\nUsage Data may include infor...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "6b2c81639fd147f678dac6f8afad07d83c1a4585e8b0160def99a4e7ca8d6279",
+                "score": 0.023916386,
+                "excerpt": "of 13, the Service will be either blocked or redirected to a parental consent process.\nThe Company may collect and store persistent identifiers such as cookies or IP addresses from Children without parental consent for the purpose of supporting the internal operation of the Service.\nWe may collect and store other personal information about children if this information is submitted by a child with prior parent consent or by the parent or guardian of the child.\nThe Company may collect and store th...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "9e7ba9a76b4901b3dc0d7204ad9e92b8419cc95fd13a727749966e0200fab827",
+                "score": 0.022933563,
+                "excerpt": "as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen th...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "95c5db027e00feb00bf59d51b5eb414206f49b67041e2ce05290547b3b6a78e0",
+                "score": 0.019870713,
+                "excerpt": "Service may contain content appropriate for children under the age of 13. As a parent, you should know that through the Service children under the age of 13 may participate in activities that involve the collection or use of personal information. We use reasonable efforts to ensure that before we collect any personal information from a child, the child's parent receives notice of and consents to our personal information practices.\nWe also may limit how We collect, use, and store some of the info...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671440901,
+            "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt-out of data collection and request the deletion of their personal data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection and request the deletion of their personal data, indicating that users have the option to control their data.",
+            "reference": "You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You. URL: https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+        },
+        "source_documents": [
+            {
+                "id": "19e3ab7390762ea626b96eea5bb5d2677f81acf36c8854dd910fea31335cd71e",
+                "score": 0.7937462,
+                "excerpt": "less than 13 years of age. Consumers who opt-in to the sale of personal information may opt-out of future sales at any time. To exercise the right to opt-out, You (or Your authorized representative) may submit a request to Us by contacting Us.\nIf You have reason to believe that a child under the age of 13 (or 16) has provided Us with personal information, please contact Us with sufficient detail to enable Us to delete that information.\nThe CCPA/CPRA provides California residents with specific ri...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "8df07033cccdcc5cf5ef486f118a33b3f278c390877dc2bf824a30c45fafba33",
+                "score": 0.7189892,
+                "excerpt": "below.\nPlease note that any opt out is specific to the browser You use. You may need to opt out on every browser that You use.\nIf applicable, click \"Privacy Preferences\", \"Update Privacy Preferences\" or \"Do Not Sell My Personal Information\" buttons listed on the Service to review your privacy preferences and opt out of cookies and other technologies that We may use. Please note that You will need to opt out from each browser that You use to access the Service.\nAdditionally, You can opt out of re...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "5c66bf85222530d657cc85ba8edd52b65fd458f491549da78da7f2733497877f",
+                "score": 0.5333367,
+                "excerpt": "to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.\nYou have the right to delete or request that W...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "639c589c6036c333a05ed00f554fadc606130c7a8ebab8e3d23e71327964ba4d",
+                "score": 0.25460163,
+                "excerpt": "are targeted to Your interests:\nYou can also stop the collection of location information from Your mobile device by changing the preferences on Your mobile device.\nIf You are a California resident, You have the right to limit the use and disclosure of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average Consumer who requests such services or goods.\nWe collect, use and disclose sensitive personal informat...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "5c4bfcb4993aaf6164794c297abdc16f92afb0a31a1e4015da3465d06ddf522a",
+                "score": 0.19208428,
+                "excerpt": "about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nGoogle Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own adve...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671440901,
+            "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for payment processing and email marketing services.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions the use of third-party services for payment processing and email marketing, indicating data sharing with third parties.",
+            "reference": "We may use third-party Service providers to monitor and analyze the use of our Service.\nGoogle Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. URL: https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+        },
+        "source_documents": [
+            {
+                "id": "3b4e203db8321bc21fb7aebc59bfc2d25e4b64144576a8b4028acbbfc259304b",
+                "score": 0.6868954,
+                "excerpt": "of GetResponse, please visit their Privacy policy: https://www.getresponse.com/legal/privacy.html\nWe may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere t...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "5c4bfcb4993aaf6164794c297abdc16f92afb0a31a1e4015da3465d06ddf522a",
+                "score": 0.51376,
+                "excerpt": "about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nGoogle Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own adve...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "73fb1c6e10e7373b17172b8e9df6a1af00969c4e870c827c60f0add7534517fd",
+                "score": 0.22592856,
+                "excerpt": "you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245\nFor more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https://policies.google.com/technologies/partner-sites\nWe may use Your Personal Data to contact You with newsletters, marketing or promotional materials and other information that may be of interest to You. You may opt-out of rece...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "639c589c6036c333a05ed00f554fadc606130c7a8ebab8e3d23e71327964ba4d",
+                "score": 0.21967213,
+                "excerpt": "are targeted to Your interests:\nYou can also stop the collection of location information from Your mobile device by changing the preferences on Your mobile device.\nIf You are a California resident, You have the right to limit the use and disclosure of Your sensitive personal information to that use which is necessary to perform the services or provide the goods reasonably expected by an average Consumer who requests such services or goods.\nWe collect, use and disclose sensitive personal informat...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "8c32f75fa0212ce43465453132c53a6a56168b7ef9025c5d47671873b4c9f4aa",
+                "score": 0.21900326,
+                "excerpt": "web browser.\nUnder California Civil Code Section 1798 (California's Shine the Light law), California residents with an established business relationship with us can request information once a year about sharing their Personal Data with third parties for the third parties' direct marketing purposes.\nIf you'd like to request more information under the California Shine the Light law, and if You are a California resident, You can contact Us using the contact information provided below.\nCalifornia Bu...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1671440901,
+            "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties such as Apple Store, Google Play, Stripe, Shopify, PayPal, Square, Google Analytics, Firebase, Mailchimp, AWeber, and GetResponse.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Apple Store",
+                        "Google Play",
+                        "Stripe",
+                        "Shopify",
+                        "PayPal",
+                        "Square",
+                        "Google Analytics",
+                        "Firebase",
+                        "Mailchimp",
+                        "AWeber",
+                        "GetResponse"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy lists various third-party services with whom the app shares data.",
+            "reference": "The app shares data with third parties such as Apple Store, Google Play, Stripe, Shopify, PayPal, Square, Google Analytics, Firebase, Mailchimp, AWeber, and GetResponse. URL: https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+        },
+        "source_documents": [
+            {
+                "id": "3b4e203db8321bc21fb7aebc59bfc2d25e4b64144576a8b4028acbbfc259304b",
+                "score": 0.70669675,
+                "excerpt": "of GetResponse, please visit their Privacy policy: https://www.getresponse.com/legal/privacy.html\nWe may provide paid products and/or services within the Service. In that case, we may use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect Your payment card details. That information is provided directly to Our third-party payment processors whose use of Your personal information is governed by their Privacy Policy. These payment processors adhere t...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "f11bc5529b47f6c1383a6842c2300661f4c57b3376512028472c3ced246af6e6",
+                "score": 0.37662312,
+                "excerpt": "to retain certain information when we have a legal obligation or lawful basis to do so.\nIf the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.\nUnder certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a g...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "5c4bfcb4993aaf6164794c297abdc16f92afb0a31a1e4015da3465d06ddf522a",
+                "score": 0.3351332,
+                "excerpt": "about Your activity on Our Service in accordance with their Privacy Policies.\nWe may use third-party Service providers to monitor and analyze the use of our Service.\nGoogle Analytics\nGoogle Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own adve...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "73fb1c6e10e7373b17172b8e9df6a1af00969c4e870c827c60f0add7534517fd",
+                "score": 0.27067295,
+                "excerpt": "you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245\nFor more information on what type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https://policies.google.com/technologies/partner-sites\nWe may use Your Personal Data to contact You with newsletters, marketing or promotional materials and other information that may be of interest to You. You may opt-out of rece...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            },
+            {
+                "id": "75ecfa129d8c094d39a19cc08445889fa749d140eb031913b942eabfe366d427",
+                "score": 0.25757828,
+                "excerpt": "were in fact disclosed, but reflects our good faith belief to the best of our knowledge that some of that information from the applicable category may be and may have been disclosed.\nWhen We disclose personal information for a business purpose or a commercial purpose, We enter a contract that describes the purpose and requires the recipient to both keep that personal information confidential and not use it for any purpose except performing the contract.\nWe may share, and have shared in the last ...",
+                "url": "https://www.termsfeed.com/live/d95ac4f5-6025-4554-8ee8-7b40b3f7adf1"
+            }
+        ]
+    }
+]

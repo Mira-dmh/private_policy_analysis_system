@@ -1,0 +1,337 @@
+[
+    {
+        "meta": {
+            "id": 6473900916,
+            "url": "https://www.parenityapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the information collected by the app and the purposes for which it is collected.",
+            "reference": "We require you to provide certain pieces of personal information in order to operate as designed. Requested information for use of the Services may include, but is not limited to: i. Full Name ii. E-mail address iii. Telephone iv. Your Country v. Date of Birth vi. Self-selected habits. URL: https://www.parenityapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f0cc4c5222f87de27dafed4cba0caadb6439bfe8b751b7ea3b743f7ed415282a",
+                "score": 0.04903963,
+                "excerpt": "databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy. You ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "42aa0c3f079883838d0ae20e2136d758a77547ecb11655cec05599ec4c5945ff",
+                "score": 0.02800752,
+                "excerpt": "an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a result of any dealings...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "ff50f2b31bccbba148e3d5b46195847a4bfd68849b188ab2ef5779296b1ac95e",
+                "score": 0.015247591,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nThe Parenity App is operated by the AffirmedYou LLC (“AffirmedYou”, “we” “us” or “our”). The AffirmedYou LLC operates the Parenity App Website (www.parenityapp.com) and Parenity App (each and “app” or “site”, respectively) and several related services (all such services, “Services”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy Policy. Please read ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "eaed9c7c935d4100dfeff70608b0d76b171597d6d7bf24cc89eda984a565f744",
+                "score": 0.0043653264,
+                "excerpt": "This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a\npersonally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PROCESSING\nWe may sell subscriptions or merc...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "362323cc008b488225aeb6be9935d8773f80819f81dcd1ed0a7acbceaab56b06",
+                "score": 0.0036642202,
+                "excerpt": "web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have installed our applic...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473900916,
+            "url": "https://www.parenityapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Browser or platform type, IP address, referring site, Location information, Transactional information, Billing information, Device information, and Account information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Browser or platform type",
+                        "IP address",
+                        "Location Information",
+                        "Transactional Information",
+                        "Billing Information",
+                        "Device Information",
+                        "Account Information"
+                    ]
+                }
+            },
+            "analysis": "The app collects various types of data, including information related to the device, transactional details, and account information, to provide optimized services and manage accounts.",
+            "reference": "Browser or platform type, IP address, referring site, Location Information, Transactional Information, Billing Information, Device Information, and Account Information. URL: https://www.parenityapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "eaed9c7c935d4100dfeff70608b0d76b171597d6d7bf24cc89eda984a565f744",
+                "score": 0.30383506,
+                "excerpt": "This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a\npersonally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PROCESSING\nWe may sell subscriptions or merc...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "ff50f2b31bccbba148e3d5b46195847a4bfd68849b188ab2ef5779296b1ac95e",
+                "score": 0.050611433,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nThe Parenity App is operated by the AffirmedYou LLC (“AffirmedYou”, “we” “us” or “our”). The AffirmedYou LLC operates the Parenity App Website (www.parenityapp.com) and Parenity App (each and “app” or “site”, respectively) and several related services (all such services, “Services”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy Policy. Please read ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "362323cc008b488225aeb6be9935d8773f80819f81dcd1ed0a7acbceaab56b06",
+                "score": 0.018511046,
+                "excerpt": "web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have installed our applic...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "42aa0c3f079883838d0ae20e2136d758a77547ecb11655cec05599ec4c5945ff",
+                "score": 0.013171949,
+                "excerpt": "an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a result of any dealings...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "f0cc4c5222f87de27dafed4cba0caadb6439bfe8b751b7ea3b743f7ed415282a",
+                "score": 0.0067188703,
+                "excerpt": "databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy. You ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473900916,
+            "url": "https://www.parenityapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The collected data is used for various purposes such as registration, delivering services, communication, compliance with contractual obligations, sending important notices, research and development, verifying identity, conducting surveys, marketing, promotions, advertising activities, monitoring online activity, and to improve the user experience. Additionally, the app may use cookies, web beacons, and other tracking mechanisms to optimize services, manage accounts, and develop content.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the various purposes for which data is collected and used by the app, including essential functions like registration and communication, as well as marketing, research, and improving user experience.",
+            "reference": "We collect your personal information for the following purposes. i. To register you with us. ii. To deliver you services you have applied for. iii. To communicate with you. iv. To comply with the contractual obligations. v. To send you important notices in lieu of services. vi. For research and development. vii. To verify your identity. viii. To conduct surveys and research. ix. To conduct marketing, promotions, and advertising activities. x. To monitor online activity on Company’s properties. xi. To market, improve and... URL: https://www.parenityapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "eaed9c7c935d4100dfeff70608b0d76b171597d6d7bf24cc89eda984a565f744",
+                "score": 0.0145595195,
+                "excerpt": "This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a\npersonally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PROCESSING\nWe may sell subscriptions or merc...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "362323cc008b488225aeb6be9935d8773f80819f81dcd1ed0a7acbceaab56b06",
+                "score": 0.009633653,
+                "excerpt": "web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have installed our applic...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "ddf19c59d710aab1a160567cc4c70d854f2200c035c87d51348890e6a7cfefce",
+                "score": 0.0077555366,
+                "excerpt": "Privacy Notice (a current version of which can be found at https://www.parenityapp.com.\n3. Grant of Limited License\nProvided that you have complied with, and that you continue to comply with, all of the provisions of this Agreement, Parenity hereby grants to you a limited and non-exclusive right to install, run, access and use the Application in object code form only for the purposes described in this Agreement or otherwise as may be instructed or described by Parenity in writing.\n4. License Res...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "f0cc4c5222f87de27dafed4cba0caadb6439bfe8b751b7ea3b743f7ed415282a",
+                "score": 0.0063883206,
+                "excerpt": "databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy. You ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "ff50f2b31bccbba148e3d5b46195847a4bfd68849b188ab2ef5779296b1ac95e",
+                "score": 0.006241259,
+                "excerpt": "PRIVACY POLICY\nINTRODUCTION\nThe Parenity App is operated by the AffirmedYou LLC (“AffirmedYou”, “we” “us” or “our”). The AffirmedYou LLC operates the Parenity App Website (www.parenityapp.com) and Parenity App (each and “app” or “site”, respectively) and several related services (all such services, “Services”). The Privacy Policy should serve as an accessible guide to the information we collect during your use of the Services. By using the Services, you agree to this Privacy Policy. Please read ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473900916,
+            "url": "https://www.parenityapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by uninstalling the app or by contacting the company directly.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can stop all collection of information by the app by uninstalling it or by contacting the company to request deletion of their personal information.",
+            "reference": "You can stop all collection of information by the App(s) by uninstalling the App(s). You may access and modify the Personal Information associated with your Account through your Account settings. If you want us to delete your Personal Information and your Account, please contact us at hello@parenityapp.com with your request. URL: https://www.parenityapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f0cc4c5222f87de27dafed4cba0caadb6439bfe8b751b7ea3b743f7ed415282a",
+                "score": 0.6234915,
+                "excerpt": "databases and to prevent the user from utilizing the Sites and the Services. However, if you are under the age of thirteen (13) and using our services, you understand that we shall not be held liable to you for any loss of data.\nYOUR RIGHT\nYou can review and/or change certain of your Personal Information by logging into the Site or the App and accessing your account. You authorize us to use and disclose any new or modified information that you provide in accordance with this Privacy Policy. You ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "42aa0c3f079883838d0ae20e2136d758a77547ecb11655cec05599ec4c5945ff",
+                "score": 0.10070161,
+                "excerpt": "an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a result of any dealings...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "362323cc008b488225aeb6be9935d8773f80819f81dcd1ed0a7acbceaab56b06",
+                "score": 0.08021325,
+                "excerpt": "web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have installed our applic...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "91404afad25ee900f68fba025f1d4cdb142dc82debdb87f9513fe3e312e7ccb3",
+                "score": 0.011201214,
+                "excerpt": "our users happy and satisfied with their use of the App. If you have any questions, concerns, complaints or comments in any way related to this Agreement, please contact us at hello@parenityapp.com. If you have any questions, concerns, complaints or comments in any way related to your use of the Services, please contact us at: AffirmedYou LLC 7356 Skyrocket Drive, El Paso, TX 79911 hello@parenityapp.com",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "2cfea0cb8129eede361001ff8edca27fe7ecc97f7397165e8fec03e4dc99b168",
+                "score": 0.0042646346,
+                "excerpt": "in a reasonable time.\nCHANGES TO THE PRIVACY POLICY\nAlthough most changes are likely to be minor, we may change our Privacy Policy from time to time, and at our sole discretion. We encourage you to frequently check this page for any changes to its Privacy Policy. Your continued use of the Services after any change in this Privacy Policy will constitute your acceptance of such change.\nQUESTIONS, COMPLAINTS AND FEEDBACK\nShould you have any question, feedback, concern, or complaint regarding our pr...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473900916,
+            "url": "https://www.parenityapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share any data with third parties.",
+            "reference": "We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a result of any dealings between you and any third party, or as a result of the presence of links or ads of such third parties on the Services. URL: https://www.parenityapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5c96e7e54c01166a4da221c74ce7050e9bdd663409927b235090646f72df484b",
+                "score": 0.60288024,
+                "excerpt": "make available the Application or any features or functionality of the Application, to any third party for any reason.\n5. Age Restriction\nBy using the Parenity App, you represent and warrant that:\na. you are 18 years of age or older and you agree to be bound by this Agreement;\nb. if you are under 18 years of age, you have obtained verifiable consent from a parent or legal guardian; and\nc. your use of the Parenity App does not violate any applicable law or regulation. Your access to the Parenity ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "ddf19c59d710aab1a160567cc4c70d854f2200c035c87d51348890e6a7cfefce",
+                "score": 0.43284237,
+                "excerpt": "Privacy Notice (a current version of which can be found at https://www.parenityapp.com.\n3. Grant of Limited License\nProvided that you have complied with, and that you continue to comply with, all of the provisions of this Agreement, Parenity hereby grants to you a limited and non-exclusive right to install, run, access and use the Application in object code form only for the purposes described in this Agreement or otherwise as may be instructed or described by Parenity in writing.\n4. License Res...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "362323cc008b488225aeb6be9935d8773f80819f81dcd1ed0a7acbceaab56b06",
+                "score": 0.41211605,
+                "excerpt": "web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have installed our applic...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "42aa0c3f079883838d0ae20e2136d758a77547ecb11655cec05599ec4c5945ff",
+                "score": 0.3474264,
+                "excerpt": "an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a result of any dealings...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "eaed9c7c935d4100dfeff70608b0d76b171597d6d7bf24cc89eda984a565f744",
+                "score": 0.258326,
+                "excerpt": "This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a\npersonally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PROCESSING\nWe may sell subscriptions or merc...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473900916,
+            "url": "https://www.parenityapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third party vendors, third parties to whom users demand to send Personal Information, affiliates, partners, subsidiaries, joint ventures, other companies, and third-party payment processors.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "third party vendors",
+                        "third parties to whom users demand to send Personal Information",
+                        "affiliates",
+                        "partners",
+                        "subsidiaries",
+                        "joint ventures",
+                        "other companies",
+                        "third-party payment processors"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document specifies that the app shares data with various third parties for different purposes.",
+            "reference": "i. To third party vendors who helped us to provide you the services.\nii. To third parties to whom you demand us to send Personal Information.\niii. To our affiliates, partners, subsidiaries, joint ventures, or other companies.\n\nThird-party payment processing:\nWe may sell subscriptions or merchandise through our Services...\nURL: https://www.parenityapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5c96e7e54c01166a4da221c74ce7050e9bdd663409927b235090646f72df484b",
+                "score": 0.5500032,
+                "excerpt": "make available the Application or any features or functionality of the Application, to any third party for any reason.\n5. Age Restriction\nBy using the Parenity App, you represent and warrant that:\na. you are 18 years of age or older and you agree to be bound by this Agreement;\nb. if you are under 18 years of age, you have obtained verifiable consent from a parent or legal guardian; and\nc. your use of the Parenity App does not violate any applicable law or regulation. Your access to the Parenity ...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "362323cc008b488225aeb6be9935d8773f80819f81dcd1ed0a7acbceaab56b06",
+                "score": 0.48424292,
+                "excerpt": "web beacons to track a user’s interactions with the Services. This information will be used to deliver or optimize the Services, manage accounts, for research and analysis, to communicate with users and to develop content. You can opt-out of cookies by utilizing the settings provided in their browsers, but some of the functionality of the Services may be disabled or inaccessible if you do so. Additionally, we may collect information from our mobile application users who have installed our applic...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "eaed9c7c935d4100dfeff70608b0d76b171597d6d7bf24cc89eda984a565f744",
+                "score": 0.42996785,
+                "excerpt": "This will typically include:\ni. Browser or platform type\nii. IP address, referring site, and the date and time of each visitor request.\niii. Location Information\niv. Transactional Information and Billing Information.\nv. Device Information\nvi. Account Information\nWe collect this data to best serve our users. This information will never be released to others on a\npersonally identifiable basis but may be released in a compiled manner.\nTHIRD PARTY PAYMENT PROCESSING\nWe may sell subscriptions or merc...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "42aa0c3f079883838d0ae20e2136d758a77547ecb11655cec05599ec4c5945ff",
+                "score": 0.16264586,
+                "excerpt": "an endorsement by us.\nYou shall access and use such third-party sites, including the content, items, or services on those sites, solely at your own risk. We do not make any representations or warranties with respect to any content or privacy practices, or otherwise with respect to such third parties or any items or services that may be obtained from such third parties, and you agree that we will have no liability with respect to any loss or damage of any kind incurred as a result of any dealings...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            },
+            {
+                "id": "bcc3fb78fc42c93d00540248a4654dec827c038cb4abdea6948f0799ca50a0ba",
+                "score": 0.114368536,
+                "excerpt": "send Personal Information.\niii. To our affiliates, partners, subsidiaries, joint ventures, or other companies.\niv. If we believe in good faith that such disclosure is important to:\n❖ Resolve disputes, investigate problems, or enforce our terms and conditions.\n❖ To comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information...",
+                "url": "https://www.parenityapp.com/privacy-policy"
+            }
+        ]
+    }
+]

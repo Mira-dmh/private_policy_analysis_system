@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 1373639965,
+            "url": "https://www.monsenso.com/solution-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data in its privacy policy document, specifically mentioning the types of data collected and the purposes for processing.",
+            "reference": "Monsenso’s collection and processing of Personal Data, when you use the Monsenso Solution, are carried out according to the GDPR and any applicable data protection law, including the Danish Data Protection Law no. 502 of 23 May 2018. URL: https://www.monsenso.com/solution-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "29ebc13776f03c0e7ba5756f8cae8b14e9a1b44a9924c2b1b9d19cb336d2e6e1",
+                "score": 0.07263671,
+                "excerpt": "further detail how we process your personal data.\n1. PROCESSING ACTIVITIES WHERE MONSENSO IS THE DATA CONTROLLER\nBelow you can read more about when Monsenso is a data controller, including when Monsenso will use your personal data for its own means and purposes, and how Monsenso will process your personal data as a data controller. As indicated below, some processing activities are only relevant for the Individual Scenario.\nIf nothing is indicated, the processing activity applies to all three sc...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "200c8b8d7e8b2f2a0129bcfeee4e1eb556fd3922737e424f0264ceb256371946",
+                "score": 0.041930523,
+                "excerpt": "limited to the following types of Personal Data: Identity Data, Technical Data and Communication Data (see the description below). In this case Monsenso does not collect any other Personal Data, including sensitive Personal Data such as Health Data.\nTechnical Data: Monsenso gathers technical data through browsing and app usage information. Monsenso also collects technical information associated with your mobile phone and computer (such as IP addresses, access provider, usage data, hardware confi...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "bd3566ce10a46bd0d96f0e6639bd7d5618752bf6a774b6f223b0e1800094d896",
+                "score": 0.025565214,
+                "excerpt": "clear about our policy on collecting, using and protecting personal data and other information managed by the Monsenso Solution.\nIf you do not find the answer to your questions in this document, feel free to contact us though this email: support@monsenso.com.\nMonsenso A/S is a Danish company with registered offices located at: Rosenørns Allé 31, 2. , DK-1970 Frederiksberg, Denmark, and is represented by Chief Executive Officer, Mr. Thomas Lethenborg.\nThe Monsenso Solution is designed to enable t...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "3b7e56f0889aead4b34c3f7ba620c13484dccb4a980be0e37ab0cc3ff6fab891",
+                "score": 0.019419348,
+                "excerpt": "above, Monsenso never work with your technical data when it identifies you directly unless you have given us your consent, for example in order to resolve a problem that you have pointed out to us.\nIdentity Data: Monsenso collects Personal Data when you create an Account to use the Monsenso Solution. This data may include information about your identity (such as name, address, email, etc.), demographic (such as age, gender, occupation, etc.). Monsenso will use your Identity Data to provide you w...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "0b358926665f52883e537ebe867a52a58957378bb446ac92fb2aeb182a4b8d5f",
+                "score": 0.008847355,
+                "excerpt": "offer surveys, competitions, discount coupons or events in which you are free to participate. We may also use your Identity Data to provide you information on our products, such as new features, sale offers from Monsenso or our partners, or to announce new products. The legal basis for processing is GDPR art. 6(1)(f). Processing is necessary for our legitimate interests to develop our business and to market our services. You may at any time withdraw your consent. Please note that if you withdraw...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1373639965,
+            "url": "https://www.monsenso.com/solution-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Identity Data, Technical Data, Communication Data, Self-reported Data (including Health Data in the Individual Scenario), and Behavioural Data (only in the Individual Scenario).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identity Data",
+                        "Technical Data",
+                        "Communication Data",
+                        "Self-reported Data (including Health Data in the Individual Scenario)",
+                        "Behavioural Data (only in the Individual Scenario)"
+                    ]
+                }
+            },
+            "analysis": "The app collects various types of data including Identity Data, Technical Data, Communication Data, Self-reported Data (including Health Data in the Individual Scenario), and Behavioural Data (only in the Individual Scenario) as detailed in the privacy policy.",
+            "reference": "The app collects Identity Data, Technical Data, Communication Data, Self-reported Data (including Health Data in the Individual Scenario), and Behavioural Data (only in the Individual Scenario). URL: https://www.monsenso.com/solution-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "29ebc13776f03c0e7ba5756f8cae8b14e9a1b44a9924c2b1b9d19cb336d2e6e1",
+                "score": 0.75868946,
+                "excerpt": "further detail how we process your personal data.\n1. PROCESSING ACTIVITIES WHERE MONSENSO IS THE DATA CONTROLLER\nBelow you can read more about when Monsenso is a data controller, including when Monsenso will use your personal data for its own means and purposes, and how Monsenso will process your personal data as a data controller. As indicated below, some processing activities are only relevant for the Individual Scenario.\nIf nothing is indicated, the processing activity applies to all three sc...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "200c8b8d7e8b2f2a0129bcfeee4e1eb556fd3922737e424f0264ceb256371946",
+                "score": 0.6578682,
+                "excerpt": "limited to the following types of Personal Data: Identity Data, Technical Data and Communication Data (see the description below). In this case Monsenso does not collect any other Personal Data, including sensitive Personal Data such as Health Data.\nTechnical Data: Monsenso gathers technical data through browsing and app usage information. Monsenso also collects technical information associated with your mobile phone and computer (such as IP addresses, access provider, usage data, hardware confi...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "0b358926665f52883e537ebe867a52a58957378bb446ac92fb2aeb182a4b8d5f",
+                "score": 0.15065254,
+                "excerpt": "offer surveys, competitions, discount coupons or events in which you are free to participate. We may also use your Identity Data to provide you information on our products, such as new features, sale offers from Monsenso or our partners, or to announce new products. The legal basis for processing is GDPR art. 6(1)(f). Processing is necessary for our legitimate interests to develop our business and to market our services. You may at any time withdraw your consent. Please note that if you withdraw...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "3b7e56f0889aead4b34c3f7ba620c13484dccb4a980be0e37ab0cc3ff6fab891",
+                "score": 0.11536139,
+                "excerpt": "above, Monsenso never work with your technical data when it identifies you directly unless you have given us your consent, for example in order to resolve a problem that you have pointed out to us.\nIdentity Data: Monsenso collects Personal Data when you create an Account to use the Monsenso Solution. This data may include information about your identity (such as name, address, email, etc.), demographic (such as age, gender, occupation, etc.). Monsenso will use your Identity Data to provide you w...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "11b9041900cdfe6db6621175db1bbebb9d3f7f60a546e80357903c5aba86cafd",
+                "score": 0.057176597,
+                "excerpt": "treatment and care of mental health. We will only anonymize your health data based on your explicit prior consent, c.f. GDPR art. 9(2)(a). You may at any time withdraw your consent. Please note that such withdrawal will not affect any anonymization of health data already performed.\nFor the avoidance of doubt, in the Clinic and Clinical Study Scenarios, Monsenso does not use your health data for any other purpose than to anonymize it as described above.\nBehavioural Data (only in the Individual Sc...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1373639965,
+            "url": "https://www.monsenso.com/solution-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Monsenso Solution clearly declares the purpose of data collection and use in the privacy policy document.",
+            "reference": "The Monsenso Solution is designed to support the treatment of individuals with a mental disorder by collecting health-related data and sharing it with their clinician. As the purpose of the Monsenso Solution is to collect and share personal data of its users, below we have described how we process such personal data. URL: https://www.monsenso.com/solution-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "bd3566ce10a46bd0d96f0e6639bd7d5618752bf6a774b6f223b0e1800094d896",
+                "score": 0.35075492,
+                "excerpt": "clear about our policy on collecting, using and protecting personal data and other information managed by the Monsenso Solution.\nIf you do not find the answer to your questions in this document, feel free to contact us though this email: support@monsenso.com.\nMonsenso A/S is a Danish company with registered offices located at: Rosenørns Allé 31, 2. , DK-1970 Frederiksberg, Denmark, and is represented by Chief Executive Officer, Mr. Thomas Lethenborg.\nThe Monsenso Solution is designed to enable t...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "29ebc13776f03c0e7ba5756f8cae8b14e9a1b44a9924c2b1b9d19cb336d2e6e1",
+                "score": 0.2617081,
+                "excerpt": "further detail how we process your personal data.\n1. PROCESSING ACTIVITIES WHERE MONSENSO IS THE DATA CONTROLLER\nBelow you can read more about when Monsenso is a data controller, including when Monsenso will use your personal data for its own means and purposes, and how Monsenso will process your personal data as a data controller. As indicated below, some processing activities are only relevant for the Individual Scenario.\nIf nothing is indicated, the processing activity applies to all three sc...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "200c8b8d7e8b2f2a0129bcfeee4e1eb556fd3922737e424f0264ceb256371946",
+                "score": 0.075995214,
+                "excerpt": "limited to the following types of Personal Data: Identity Data, Technical Data and Communication Data (see the description below). In this case Monsenso does not collect any other Personal Data, including sensitive Personal Data such as Health Data.\nTechnical Data: Monsenso gathers technical data through browsing and app usage information. Monsenso also collects technical information associated with your mobile phone and computer (such as IP addresses, access provider, usage data, hardware confi...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "133ca42eeef308dfd09539e93d2d0fee12bdbf231df30f1f568fa0af79458540",
+                "score": 0.061649624,
+                "excerpt": "MONSENSO SOLUTION PRIVACY POLICY\nMONSENSO A/S\nVersion 1.0.7 EU, 3. February 2024\nIntroduction\nThe Monsenso Solution is designed to support the treatment of individuals with a mental disorder by collecting health-related data and sharing it with their clinician. As the purpose of the Monsenso Solution is to collect and share personal data of its users, below we have described how we process such personal data. As a general rule we process personal data of our users to facilitate the Monsenso Solu...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "11b9041900cdfe6db6621175db1bbebb9d3f7f60a546e80357903c5aba86cafd",
+                "score": 0.048405956,
+                "excerpt": "treatment and care of mental health. We will only anonymize your health data based on your explicit prior consent, c.f. GDPR art. 9(2)(a). You may at any time withdraw your consent. Please note that such withdrawal will not affect any anonymization of health data already performed.\nFor the avoidance of doubt, in the Clinic and Clinical Study Scenarios, Monsenso does not use your health data for any other purpose than to anonymize it as described above.\nBehavioural Data (only in the Individual Sc...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1373639965,
+            "url": "https://www.monsenso.com/solution-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to ask Monsenso to delete or remove their personal data, and they also have the right to restrict processing of their data or object to certain processing purposes. This indicates that users can opt out of data collection or request deletion of their data.",
+            "reference": "You may ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing...URL: https://www.monsenso.com/solution-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "d12ac686f72e2a28a256a8dc08442ce98320431b097c8275a2c4047131c5465a",
+                "score": 0.8701566,
+                "excerpt": "your personal data to other users (Carer, Care Provider and/or Individual) to the extent that you have instructed us to do so. It is your decision who you want to connect with and share your personal data with. If you no longer want to share your personal data with a user you can simply remove the connection to that user.\n5. RIGHT TO BE FORGOTTEN\nYou may ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to de...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "36e1e82f06a3112ea4bab32aec014f6c18b3e361f77903b3312c9d646bdb75b1",
+                "score": 0.23423143,
+                "excerpt": "order for us to rectify the data. Please see section 17 for contact details.\nYou can also correct the data you have provided when creating an account via log-in to your user profile.\n9. RIGHT TO RESTRICTION\nYou have a right to restrict our processing of your personal data, e.g. if you contest the accuracy of your personal data. Please send a request using the contact details provided section 17.\n10. RIGHT TO OBJECT TO YOUR DATA BEING PROCESSED\nYou may for legitimate reasons object to your Person...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "9bb4aad9741642ec9687d67c552343faeb8a4b209bcb3500e06f95cca853402b",
+                "score": 0.19744445,
+                "excerpt": "your data to you and any other user(s) you communicate with. The legal basis for processing is GDPR art. 6(1)(b). Processing is necessary for the performance of a contract with you. If health data is processed, we will only process such Health data based on your explicit consent, cf. GDPR art. 9 (2)(a). You may at any time withdraw your consent. Please note that if you withdraw your consent, we may not be able to provide the Monsenso Solution to you.\nRecord of operations conducted in log form. W...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "a417b668c8983957bfd96bd5e20aea90d210ecabc0fe7e22df38e0306a388604",
+                "score": 0.19178137,
+                "excerpt": "is necessary to establish, exercise or defend a legal claim.\n11. THE RIGHT TO WITHDRAW CONSENT\nYou are at any time entitled to withdraw your consent to our processing of your Personal Data. If you wish to withdraw consent, please use the contact details provided in section 17.\n12. THE RIGHT TO COMPLAINT\na. You are at any time entitled to file a complaint to any relevant supervisory authority – in particular in the Member State of your habitual residence, place of work or place of the alleged inf...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "b425d0a40bcc18a16e1f2f37f454f6f11e4588aa21355c80592e31c99df3e146",
+                "score": 0.07723878,
+                "excerpt": "of presenting your data to you and any other user(s) you have invited to see your profile. The legal basis for processing is GDPR art. 6(1)(b). Processing is necessary for the performance of a contract with you. If Health data is processed, we will only process such Health data based on your explicit consent, c.f. GDPR art. 9 (2)(a). You may at any time withdraw your consent. Please note that if you withdraw your consent, we may not be able to provide the Monsenso Solution to you.\nIn both the Cl...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1373639965,
+            "url": "https://www.monsenso.com/solution-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data will not be shared with any third party other than Monsenso who processes the data. Additionally, the document mentions that users can decide who they want to connect with and share their personal data with, indicating that sharing with third parties is based on user instructions.",
+            "reference": "Personal Data will not be sold, leased, transferred, shared, or otherwise accessed by or to any third parties other than to Monsenso who processes the data. In the Individual Scenario you may invite other users (i.e. Individuals, Carers and Care Providers) to see your profile. Monsenso will only disclose your personal data to other users (Carer, Care Provider and/or Individual) to the extent that you have instructed us to do so. URL: https://www.monsenso.com/solution-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9bb4aad9741642ec9687d67c552343faeb8a4b209bcb3500e06f95cca853402b",
+                "score": 0.8740772,
+                "excerpt": "your data to you and any other user(s) you communicate with. The legal basis for processing is GDPR art. 6(1)(b). Processing is necessary for the performance of a contract with you. If health data is processed, we will only process such Health data based on your explicit consent, cf. GDPR art. 9 (2)(a). You may at any time withdraw your consent. Please note that if you withdraw your consent, we may not be able to provide the Monsenso Solution to you.\nRecord of operations conducted in log form. W...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "f3077187bd6276de85e4ff561b49c49e5e7ef49761a724bb433d5e8edc91b5d2",
+                "score": 0.48721594,
+                "excerpt": "logical security measures and are not communicated to unauthorised persons. Remote access to the servers is highly restricted and controlled.\nData in the Monsenso App on your smartphone can be protected by a PIN code.\nAll data communication in the Monsenso Solution is protected by strong encryption. Hence, data traffic via the Internet between the Monsenso App and the Monsenso servers is encrypted.\\n Anonymisation techniques (hashing) on the telephone numbers you call or text are applied. The co...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "d12ac686f72e2a28a256a8dc08442ce98320431b097c8275a2c4047131c5465a",
+                "score": 0.2588877,
+                "excerpt": "your personal data to other users (Carer, Care Provider and/or Individual) to the extent that you have instructed us to do so. It is your decision who you want to connect with and share your personal data with. If you no longer want to share your personal data with a user you can simply remove the connection to that user.\n5. RIGHT TO BE FORGOTTEN\nYou may ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to de...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "f38609e4f91cfe72ad6f800362dbe15c5af55a3b1e428489f35d1435d98eecc2",
+                "score": 0.09894659,
+                "excerpt": "April 2016 (“GDPR”)). If you want to know more about how the Sponsor processes your personal data, please contact your principal investigator at the investigational site, in accordance with the informed consent you signed when enrolled in the clinical study.\n‘INDIVIDUAL SCENARIO’\nIn this scenario, the Individual, Carer and Care Provider signs up for the Solution, and invites other users (i.e. Individuals, Carers and Care Providers) to see its profile. Monsenso will only disclose your personal da...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "58f341416bc08986df8bf8169441c1458479a510c7e14b02c96969367e0c18a4",
+                "score": 0.09790669,
+                "excerpt": "to other 3rd party services, such as web sites, applications, or apps that are not controlled by Monsenso. This document's privacy rules do not apply to these 3rd party services.\n16. DELETION OF PERSONAL DATA\nWe will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.\nTo determine the appropriate retention period for personal data, we consider the amount, nat...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1373639965,
+            "url": "https://www.monsenso.com/solution-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with other users (Carer, Care Provider and/or Individual) to the extent instructed by the user.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "other users (Carer, Care Provider and/or Individual)"
+                }
+            },
+            "analysis": "The privacy policy specifies that the app may share personal data with other users based on the user's instructions, indicating that the app shares data with specific categories of third parties.",
+            "reference": "In the Individual Scenario you may invite other users (i.e. Individuals, Carers and Care Providers) to see your profile. Monsenso will only disclose your personal data to other users (Carer, Care Provider and/or Individual) to the extent that you have instructed us to do so. It is your decision who you want to connect with and share your personal data with. If you no longer want to share your personal data with a user you can simply remove the connection to that user. URL: https://www.monsenso.com/solution-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9bb4aad9741642ec9687d67c552343faeb8a4b209bcb3500e06f95cca853402b",
+                "score": 0.78596646,
+                "excerpt": "your data to you and any other user(s) you communicate with. The legal basis for processing is GDPR art. 6(1)(b). Processing is necessary for the performance of a contract with you. If health data is processed, we will only process such Health data based on your explicit consent, cf. GDPR art. 9 (2)(a). You may at any time withdraw your consent. Please note that if you withdraw your consent, we may not be able to provide the Monsenso Solution to you.\nRecord of operations conducted in log form. W...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "d12ac686f72e2a28a256a8dc08442ce98320431b097c8275a2c4047131c5465a",
+                "score": 0.44993636,
+                "excerpt": "your personal data to other users (Carer, Care Provider and/or Individual) to the extent that you have instructed us to do so. It is your decision who you want to connect with and share your personal data with. If you no longer want to share your personal data with a user you can simply remove the connection to that user.\n5. RIGHT TO BE FORGOTTEN\nYou may ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to de...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "f3077187bd6276de85e4ff561b49c49e5e7ef49761a724bb433d5e8edc91b5d2",
+                "score": 0.3035253,
+                "excerpt": "logical security measures and are not communicated to unauthorised persons. Remote access to the servers is highly restricted and controlled.\nData in the Monsenso App on your smartphone can be protected by a PIN code.\nAll data communication in the Monsenso Solution is protected by strong encryption. Hence, data traffic via the Internet between the Monsenso App and the Monsenso servers is encrypted.\\n Anonymisation techniques (hashing) on the telephone numbers you call or text are applied. The co...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "58f341416bc08986df8bf8169441c1458479a510c7e14b02c96969367e0c18a4",
+                "score": 0.10989668,
+                "excerpt": "to other 3rd party services, such as web sites, applications, or apps that are not controlled by Monsenso. This document's privacy rules do not apply to these 3rd party services.\n16. DELETION OF PERSONAL DATA\nWe will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.\nTo determine the appropriate retention period for personal data, we consider the amount, nat...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            },
+            {
+                "id": "0b358926665f52883e537ebe867a52a58957378bb446ac92fb2aeb182a4b8d5f",
+                "score": 0.042245492,
+                "excerpt": "offer surveys, competitions, discount coupons or events in which you are free to participate. We may also use your Identity Data to provide you information on our products, such as new features, sale offers from Monsenso or our partners, or to announce new products. The legal basis for processing is GDPR art. 6(1)(f). Processing is necessary for our legitimate interests to develop our business and to market our services. You may at any time withdraw your consent. Please note that if you withdraw...",
+                "url": "https://www.monsenso.com/solution-privacy-policy/"
+            }
+        ]
+    }
+]

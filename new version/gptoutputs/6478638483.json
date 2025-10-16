@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6478638483,
+      "url": "https://xumbers.com/agreements/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "The app does not require anyone to share any personal information in order to visit the Website or use The Xumbers Software. However, if users choose to submit personal information, the Company may collect it and maintain databases to store such information indefinitely.",
+        "simple_answer": "Yes, the app declares the collection of data if users choose to submit personal information.",
+        "extended_simple_answer": {
+          "comment": "The app allows users to use it without providing personal information, but data may be collected if voluntarily submitted.",
+          "content": "The Company does not require personal information for access, but may collect it if users choose to provide it."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while the app does not require personal information for use, it may collect data if users voluntarily provide it.",
+      "reference": "Section: Does Company Collect Any Personal Information About Users?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478638483,
+      "url": "https://xumbers.com/agreements/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app may collect personal information such as your username and/or email address(es), and any other information that you voluntarily provide. This information can be collected through various means including the Website, App Store, email, and online forms.",
+        "simple_answer": "The app collects personal information like username and email address.",
+        "extended_simple_answer": {
+          "comment": "The app collects personal information voluntarily provided by users.",
+          "content": "Personal Information that Company may collect includes, but is not limited to your username and/or email address(es), and any other information that you voluntarily provide. This information is used for internal verification, completing transactions, providing notifications, and technical support."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Does Company Collect Any Personal Information About Users?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478638483,
+      "url": "https://xumbers.com/agreements/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The personal information collected may be used for internal verification, to complete requested transactions, to provide notifications about updates, and to help provide technical support for the Website and The Xumbers Software.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies how the collected personal information will be utilized.",
+          "content": "The personal information collected may be used for internal verification, to complete requested transactions, obtain information for indexes, ensure appropriate legal use, provide notifications about updates, and assist with technical support."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Does Company Collect Any Personal Information About Users?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478638483,
+      "url": "https://xumbers.com/agreements/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can request the correction or deletion of their personal data. The Company makes good faith efforts to provide access to personal information and will correct or delete such data at the user's request if it is inaccurate or not required to be retained by law or for legitimate business purposes.",
+        "simple_answer": "Yes, users can request to delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to request deletion of their personal information.",
+          "content": "If you wish to request the correction or deletion of such data, you may contact us by e-mail by clicking the Contact Us button on the Xumbers.com web page or by mail."
+        }
+      },
+      "analysis": "",
+      "reference": "How Does Company Maintain the Personal Information We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478638483,
+      "url": "https://xumbers.com/agreements/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares personal information with third parties. It mentions that personal information may be maintained in databases and used for internal purposes, but there is no indication of sharing this information with third parties.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes internal use of personal information and does not mention third-party sharing.",
+          "content": "The privacy policy indicates that personal information is used for internal verification, notifications, and technical support, but does not mention sharing with third parties."
+        }
+      },
+      "analysis": "The absence of any mention of third-party data sharing in the privacy policy suggests that the app prioritizes user privacy and does not engage in such practices.",
+      "reference": "Section: Does Company Collect Any Personal Information About Users?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6478638483,
+      "url": "https://xumbers.com/agreements/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any third parties with whom the app shares data. It primarily focuses on the collection and use of personal information without detailing any third-party data sharing.",
+        "simple_answer": "The app does not specify any third parties for data sharing.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the company's commitment to privacy and does not mention third-party sharing.",
+          "content": "The privacy policy does not provide information about sharing data with third parties."
+        }
+      },
+      "analysis": "The absence of information regarding third-party data sharing suggests a focus on user privacy and data protection.",
+      "reference": "The Xumbers Software Privacy Policy does not mention third-party data sharing."
+    }
+  }
+]

@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1551123268,
+            "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that data collection is declared and outlines the specifics of what data is collected.",
+            "reference": "The Noisy Brain App requires consent to its Privacy Policy and clearly states the data collection practices. URL: https://noisybrain.disciplemedia.com/privacy_policy"
+        },
+        "source_documents": [
+            {
+                "id": "19479ab7a2b64cd6fd443ec6f50bc62f618048b09f49b059d9b5349cc1c34948",
+                "score": 0.4220877,
+                "excerpt": "not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\nWe will only retain your personal information for as long as you are a registered user of the Channel. We comply with all legislative and regulatory information retention requirements and will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delet...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "58fe5743331e8126ec3a662eb6940e8329f3e7e5a6ff5332ad6dec621df8a3ea",
+                "score": 0.2510964,
+                "excerpt": "will use appropriate technical and organisational measures to ensure the safety, security and accuracy of your personal data\n● You have important rights in relation to the use of your personal data, listed in Section 9\n● We do not knowingly request or store sensitive or children's information\n● You should contact the Data Controller if you have any questions about this Privacy Policy or the collection, processing and storage of your personal data. See Section 16\nThis Privacy Policy will help you...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "3b07e13d131e6272d9218e2b71d69cdd773eb0885d3ad64825b0e681c3f5ef67",
+                "score": 0.24023944,
+                "excerpt": "use this personal information\n○ to provide you with the full features of the App;\n○ to analyse, improve and promote the App and its content\n● We will always ask you before processing your personal data in any other ways\n● We will use an anonymised version of your personal data, from which you cannot be identified, to prepare statistics so we can learn and improve our service. For example, how many users login each day, how many messages are sent, how many comments are made etc\n● We will only sha...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "1ad74d0bc116d101722cc56c9db4a24eef83c1dd90432b7c48d6f3ba0e4732af",
+                "score": 0.23810701,
+                "excerpt": "Updated on: 11/01/2021\nThanks for downloading the The Noisy Brain App. In order for you to participate in this App We will need your consent to this Privacy Policy and the associated Terms of Service. Thank you.\nThis Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal data.\nAlong with the Disciple Media Terms and Conditions of Use, this Privacy Po...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "ae5fe7c02ced499ca6a652b9327643c82460390f00317deafe9961c24e12f2a1",
+                "score": 0.20673385,
+                "excerpt": "Data Controllers.\nThis Service does not knowingly collect or process any sensitive personal information unless you have chosen to voluntarily disclose and share such information during your use of the Service (e.g. post in the App).\nThis Service, and any services available from it, are not directed to users under the age of 18 (save where any users between 13 - 18 years old have obtained prior parental or guardian consent).\nIf you learn that a user under the age of 18 has provided Us with their ...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1551123268,
+            "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as name, email, phone number, IP address, and any other contact details or content voluntarily provided by the user.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "name",
+                        "email",
+                        "phone number",
+                        "IP address",
+                        "other contact details or content provided by the user"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from specific details mentioned in the privacy policy regarding the types of data collected by the app.",
+            "reference": "Depending on how you choose to interact with us we may collect your name, email, phone number, IP address or any other contact details or content which you have provided to us. URL: https://noisybrain.disciplemedia.com/privacy_policy"
+        },
+        "source_documents": [
+            {
+                "id": "1ad74d0bc116d101722cc56c9db4a24eef83c1dd90432b7c48d6f3ba0e4732af",
+                "score": 0.16118816,
+                "excerpt": "Updated on: 11/01/2021\nThanks for downloading the The Noisy Brain App. In order for you to participate in this App We will need your consent to this Privacy Policy and the associated Terms of Service. Thank you.\nThis Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal data.\nAlong with the Disciple Media Terms and Conditions of Use, this Privacy Po...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "19479ab7a2b64cd6fd443ec6f50bc62f618048b09f49b059d9b5349cc1c34948",
+                "score": 0.14669742,
+                "excerpt": "not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\nWe will only retain your personal information for as long as you are a registered user of the Channel. We comply with all legislative and regulatory information retention requirements and will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delet...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "58fe5743331e8126ec3a662eb6940e8329f3e7e5a6ff5332ad6dec621df8a3ea",
+                "score": 0.13718532,
+                "excerpt": "will use appropriate technical and organisational measures to ensure the safety, security and accuracy of your personal data\n● You have important rights in relation to the use of your personal data, listed in Section 9\n● We do not knowingly request or store sensitive or children's information\n● You should contact the Data Controller if you have any questions about this Privacy Policy or the collection, processing and storage of your personal data. See Section 16\nThis Privacy Policy will help you...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "479e155e1c4edf942a61fc734a16c04dc7009446b40df7184955ec005099e770",
+                "score": 0.11104825,
+                "excerpt": "in this section.\nWe collect and process two distinct kinds of information:\n● non-personal information such as the pages you have accessed, helping Us to determine how many people use Our Service, how many people visit on a regular basis, and how popular each of Our pages are. This information doesn't tell Us anything about who you are or where you live. It simply allows Us to monitor and improve Our service.\n● personal information such as your IP address, email address, username, password, appro...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "286ca89fa6349ae257e68d060218f96ad71b7e49a162fa50fd8956f4d5ea2b1c",
+                "score": 0.086169556,
+                "excerpt": "email fran@thenoisybrain.com, the \"Data Controller\" for this Service.\nThe Data Controller is responsible for determining the processing purposes of your personal data, and the content and related services or features which are made available to you from using this Service.\nThe Noisy Brain is a trading name of The Noisy Brain Limited is based within the United Kingdom and is registered with the Information Commissioner's Office (ICO) as a Data Controller under the UK Data Protection Act of 1998 (...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1551123268,
+            "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use, ensuring transparency to users.",
+            "reference": "This Privacy Policy will help you to understand what information We collect and process using the official APP NAME Application...In this Privacy Policy when we refer to 'The Noisy Brain', 'We', 'Us' or 'Our' we are referring to The Noisy Brain Limited...We do not knowingly request or store sensitive or children's information...We do not knowingly request or store sensitive or children's information. URL: https://noisybrain.disciplemedia.com/privacy_policy"
+        },
+        "source_documents": [
+            {
+                "id": "58fe5743331e8126ec3a662eb6940e8329f3e7e5a6ff5332ad6dec621df8a3ea",
+                "score": 0.44278705,
+                "excerpt": "will use appropriate technical and organisational measures to ensure the safety, security and accuracy of your personal data\n● You have important rights in relation to the use of your personal data, listed in Section 9\n● We do not knowingly request or store sensitive or children's information\n● You should contact the Data Controller if you have any questions about this Privacy Policy or the collection, processing and storage of your personal data. See Section 16\nThis Privacy Policy will help you...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "19479ab7a2b64cd6fd443ec6f50bc62f618048b09f49b059d9b5349cc1c34948",
+                "score": 0.31027624,
+                "excerpt": "not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\nWe will only retain your personal information for as long as you are a registered user of the Channel. We comply with all legislative and regulatory information retention requirements and will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delet...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "3b07e13d131e6272d9218e2b71d69cdd773eb0885d3ad64825b0e681c3f5ef67",
+                "score": 0.29067874,
+                "excerpt": "use this personal information\n○ to provide you with the full features of the App;\n○ to analyse, improve and promote the App and its content\n● We will always ask you before processing your personal data in any other ways\n● We will use an anonymised version of your personal data, from which you cannot be identified, to prepare statistics so we can learn and improve our service. For example, how many users login each day, how many messages are sent, how many comments are made etc\n● We will only sha...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "1ad74d0bc116d101722cc56c9db4a24eef83c1dd90432b7c48d6f3ba0e4732af",
+                "score": 0.1732882,
+                "excerpt": "Updated on: 11/01/2021\nThanks for downloading the The Noisy Brain App. In order for you to participate in this App We will need your consent to this Privacy Policy and the associated Terms of Service. Thank you.\nThis Privacy Policy has been created to help you understand the personal data which we may collect, how we intend to securely process and store that data, and the rights you have in relation to your personal data.\nAlong with the Disciple Media Terms and Conditions of Use, this Privacy Po...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "286ca89fa6349ae257e68d060218f96ad71b7e49a162fa50fd8956f4d5ea2b1c",
+                "score": 0.06644793,
+                "excerpt": "email fran@thenoisybrain.com, the \"Data Controller\" for this Service.\nThe Data Controller is responsible for determining the processing purposes of your personal data, and the content and related services or features which are made available to you from using this Service.\nThe Noisy Brain is a trading name of The Noisy Brain Limited is based within the United Kingdom and is registered with the Information Commissioner's Office (ICO) as a Data Controller under the UK Data Protection Act of 1998 (...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1551123268,
+            "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the user has the right to withdraw consent and opt out of data collection or request deletion of their data.",
+            "reference": "varied or withdraw your consent at any time (although if you do so, it does not mean that anything We have done with your personal data with your consent up to that point is unlawful). This includes your right to withdraw your consent to Us using your personal data for marketing purposes. We usually act on validated requests and provide the requested information... URL: https://noisybrain.disciplemedia.com/privacy_policy"
+        },
+        "source_documents": [
+            {
+                "id": "19479ab7a2b64cd6fd443ec6f50bc62f618048b09f49b059d9b5349cc1c34948",
+                "score": 0.5024357,
+                "excerpt": "not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\nWe will only retain your personal information for as long as you are a registered user of the Channel. We comply with all legislative and regulatory information retention requirements and will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delet...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "aae42e088e2acc12091c0a1a217e348ffb0cbfe570b16fe390c16f1cdd49f8d9",
+                "score": 0.2516477,
+                "excerpt": "consent at any time (although if you do so, it does not mean that anything We have done with your personal data with your consent up to that point is unlawful). This includes your right to withdraw your consent to Us using your personal data for marketing purposes.\nWe usually act on validated requests and provide the requested information or activity free of charge, but by law we are allowed to charge a reasonable fee to cover Our administrative costs of providing the information for:\n● baseless...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "6583460715b04b831c808805416c40cec60f1873e42296dd3e9b03f22111d7ab",
+                "score": 0.20593424,
+                "excerpt": "be provided with the updated Privacy Policy to review and consent to before you are able to continue using the Service.\nIf you have any questions about this Privacy Policy, would like to exercise any of your statutory rights or to make a complaint, please write to:\nThe Noisy Brain\n71-75 Shelton Street, Covent Garden\nTel: 07365526360\nEmail: fran@thenoisybrain.com",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "9bde9bec67b0c97cb49b41d10a3e764c677d2e02c160b411d31efd142e759892",
+                "score": 0.19574778,
+                "excerpt": "Policy.\n2. The right of access\nYou have the right to obtain access to your personal information (if We're processing it), and certain other information such as the reasons why we are processing or storing it. This is so you're aware and can check that We're using your personal information in accordance with data protection legislation and your agreement.\n3. The right to rectification\nYou are entitled to request that your personal information is promptly corrected if it's identified as being inac...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "218a452edd65b152912cf7697d28eaaca7e133738a0e0d99036b0b080a4b0e23",
+                "score": 0.16532344,
+                "excerpt": "maintain lists of people who have asked for further use of their personal information to be 'blocked' to make sure the restriction is respected in future.\n6. The right to data portability\nYou have rights to obtain and reuse your personal data for your own purposes across different services. For example, if you decide to switch to a new provider, this enables you to move, copy or transfer your information easily between Our IT systems and theirs safely and securely, without affecting its usabilit...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1551123268,
+            "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app only shares personal information with declared data processors and does not sell, rent, or give away personal data to other third parties.",
+            "reference": "We will only share your personal information with our declared data processors. We may transfer your data to authorised data processors outside of the EEA...We will never sell, rent or give away your personal data to other third parties. URL: https://noisybrain.disciplemedia.com/privacy_policy"
+        },
+        "source_documents": [
+            {
+                "id": "3b07e13d131e6272d9218e2b71d69cdd773eb0885d3ad64825b0e681c3f5ef67",
+                "score": 0.9235924,
+                "excerpt": "use this personal information\n○ to provide you with the full features of the App;\n○ to analyse, improve and promote the App and its content\n● We will always ask you before processing your personal data in any other ways\n● We will use an anonymised version of your personal data, from which you cannot be identified, to prepare statistics so we can learn and improve our service. For example, how many users login each day, how many messages are sent, how many comments are made etc\n● We will only sha...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "4ac5d139f9bc7e3d0dd961d21895b31fda4945c5eaec9d82f9805057dd5b3a77",
+                "score": 0.8493474,
+                "excerpt": "and on public web pages.\nYou may also send friend requests to other users and, should they accept, you will have the ability to send one-to-one and group messages to them. These messages are completely private between you and any other recipients and are not monitored.\nAs you use the App We will keep track of what sections you have visited, so that We can highlight sections or content to you that you may have missed. We also use this data in an aggregated form to understand how popular the App a...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "19479ab7a2b64cd6fd443ec6f50bc62f618048b09f49b059d9b5349cc1c34948",
+                "score": 0.82375413,
+                "excerpt": "not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\nWe will only retain your personal information for as long as you are a registered user of the Channel. We comply with all legislative and regulatory information retention requirements and will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delet...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "f5655bcac153f7c8a505636c4010a737a687d225bb59c8fb627889e8fb4c4079",
+                "score": 0.13974822,
+                "excerpt": "back to them each time you access or use the site, and may be necessary for the site to function. They are unique to you or your web browser and may contain personally identifiable information as well as technical information (e.g. your device manufacturer and model, screen resolution, internet service provider, browser, and geo-location data). Session-based cookies last only while your browser is open and are automatically deleted when you close the browser. Persistent cookies last until you or...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "58fe5743331e8126ec3a662eb6940e8329f3e7e5a6ff5332ad6dec621df8a3ea",
+                "score": 0.073164724,
+                "excerpt": "will use appropriate technical and organisational measures to ensure the safety, security and accuracy of your personal data\n● You have important rights in relation to the use of your personal data, listed in Section 9\n● We do not knowingly request or store sensitive or children's information\n● You should contact the Data Controller if you have any questions about this Privacy Policy or the collection, processing and storage of your personal data. See Section 16\nThis Privacy Policy will help you...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1551123268,
+            "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with the following third parties: Disciple Media, MailChimp, Appsflyer, PubNub.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Disciple Media",
+                        "MailChimp",
+                        "Appsflyer",
+                        "PubNub"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states the third parties with whom data is shared.",
+            "reference": "Disciple Media, MailChimp, Appsflyer, PubNub. URL: https://noisybrain.disciplemedia.com/privacy_policy"
+        },
+        "source_documents": [
+            {
+                "id": "3b07e13d131e6272d9218e2b71d69cdd773eb0885d3ad64825b0e681c3f5ef67",
+                "score": 0.82976806,
+                "excerpt": "use this personal information\n○ to provide you with the full features of the App;\n○ to analyse, improve and promote the App and its content\n● We will always ask you before processing your personal data in any other ways\n● We will use an anonymised version of your personal data, from which you cannot be identified, to prepare statistics so we can learn and improve our service. For example, how many users login each day, how many messages are sent, how many comments are made etc\n● We will only sha...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "4ac5d139f9bc7e3d0dd961d21895b31fda4945c5eaec9d82f9805057dd5b3a77",
+                "score": 0.5408632,
+                "excerpt": "and on public web pages.\nYou may also send friend requests to other users and, should they accept, you will have the ability to send one-to-one and group messages to them. These messages are completely private between you and any other recipients and are not monitored.\nAs you use the App We will keep track of what sections you have visited, so that We can highlight sections or content to you that you may have missed. We also use this data in an aggregated form to understand how popular the App a...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "19479ab7a2b64cd6fd443ec6f50bc62f618048b09f49b059d9b5349cc1c34948",
+                "score": 0.5053899,
+                "excerpt": "not provide the personal data necessary, or withdraw your consent for the processing of your personal data, you may not be able to access or use the App.\nWe will only retain your personal information for as long as you are a registered user of the Channel. We comply with all legislative and regulatory information retention requirements and will securely and permanently delete your personal information when there is (a) no justification for its further retention, or (b) you have asked Us to delet...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "b2a54a1980687a1d22678b202f9d93431d4549483a48793a4b60e3155ae829c9",
+                "score": 0.26961395,
+                "excerpt": "compromised, you should notify Us immediately (see Section 16 below). We will not be liable for any personal information loss, theft or compromise where this can be attributed to your failure to secure your Service login credentials.\nTo make an informed decision on whether to provide your personal data to Us when using this Service, we need to make you aware of the organisations that act as Data Sub-Processors for Us, helping in the provision of the Service and its functionality.\nThese partners ...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            },
+            {
+                "id": "53f1dd7f65d7b7f1c02fd35f6b75bfd092a2f5b3471e8faa8fb661ad71c1c624",
+                "score": 0.19163005,
+                "excerpt": "PubNub: Used to pass user comments in livestreams. Based in the United States. PubNub complies with the EU-US Privacy Shield Framework, as set forth by the US Department of Commerce, covering the collection, use and retention of personal data transferred from the European Union to the United States.\nAs We have described above, to be able to provide you with the Services We may transfer your personal data to partners in countries outside the EEA (such as the United States). These countries' priva...",
+                "url": "https://noisybrain.disciplemedia.com/privacy_policy"
+            }
+        ]
+    }
+]

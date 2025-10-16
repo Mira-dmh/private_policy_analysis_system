@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6443794589,
+      "url": "https://www.merago.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that information is collected in multiple ways, including directly from users, automatically from devices, and from third parties.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the various methods of data collection.",
+          "content": "The app collects information you provide directly, automatically from your device, and from third parties."
+        }
+      },
+      "analysis": "The privacy policy emphasizes transparency regarding data collection practices, ensuring users are informed about how their information is gathered.",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443794589,
+      "url": "https://www.merago.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1. Information you provide directly, such as your name, email address, phone number, mailing address, payment information, and geographic location when you create an account, upload documents, make purchases, or contact them. 2. Automatically collected information, including device information (IP addresses, location, unique device identifiers), browser types, operating system, and usage statistics (like pages viewed, time spent, and frequency of use). 3. Data collected through cookies and tracking technologies, which help recognize your computer, store preferences, and enhance user experience. 4. Information from third parties, which may include demographic information and identity verification data.",
+        "simple_answer": "The app collects personal information, device information, usage statistics, and data from third parties.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to improve services and user experience.",
+          "content": "Types of data collected include personal information (name, email, etc.), device and usage information (IP address, browser type), cookies and tracking data, and third-party information."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443794589,
+      "url": "https://www.merago.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected may be used to fulfill the purposes for which it was provided, improve the Services, fundraise, send communications, respond to inquiries, conduct analytics, comply with the law, and enforce the Terms of Use.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency.",
+          "content": "The information may be used to fulfill user requests, improve services, process transactions, send communications, conduct analytics, comply with legal obligations, and enforce terms."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which user data is collected, aligning with best practices for transparency in data handling.",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443794589,
+      "url": "https://www.merago.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users can change their settings to block cookies, which may limit some data collection. For specific data deletion requests, users would need to contact Merago directly, as the policy does not provide detailed instructions on this process.",
+        "simple_answer": "Users can block cookies but the policy does not specify a direct method for opting out of all data collection or deleting data.",
+        "extended_simple_answer": {
+          "comment": "While users can manage cookie settings, the policy lacks clear instructions for opting out of all data collection or deleting personal data.",
+          "content": "Users can change their cookie settings to block cookies, which may limit data collection, but the policy does not provide a clear method for opting out of all data collection or deleting their data."
+        }
+      },
+      "analysis": "The privacy policy indicates some control over cookie settings but lacks comprehensive options for users to opt out of data collection or delete their data.",
+      "reference": "Information We Collect, Cookies and Other Tracking Technologies"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443794589,
+      "url": "https://www.merago.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. The privacy policy states that information may be collected from third parties, and it also implies that data may be shared to fulfill various purposes, including compliance with the law and protecting the safety and rights of Merago Inc. and its users.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collects information from third parties and may share data for various purposes.",
+          "content": "The privacy policy mentions that information may be collected from third parties, including public sources and social media platforms, and that this information could be used for various purposes."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing with third parties is part of their practices, particularly for compliance and safety purposes.",
+      "reference": "Information from Third Parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 6443794589,
+      "url": "https://www.merago.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties, including public sources, social media platforms, and marketing and market research firms. This information could include name, contact information, demographic information, and other relevant data for various purposes.",
+        "simple_answer": "The app shares data with public sources, social media platforms, and marketing firms.",
+        "extended_simple_answer": {
+          "comment": "The app collects information from third parties to enhance its services and for safety purposes.",
+          "content": "Information collected from third parties could include name, contact information, demographic information, and information for fraud or safety protection purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "Information from Third Parties"
+    }
+  }
+]

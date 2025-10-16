@@ -1,0 +1,101 @@
+# 核心框架和工具
+haystack-ai>=2.0.0
+haystack_integrations>=3.0.0
+
+# 数据处理和机器学习
+datasets>=3.6.0
+sentence-transformers>=4.1.0
+accelerate>=0.20.0
+numpy>=1.24.0
+pandas>=1.5.0
+
+# Cohere 集成
+cohere>=4.0.0
+
+# OpenAI 集成
+openai>=1.56.1
+
+# 环境配置
+python-dotenv>=0.19.0
+
+# 进度条
+tqdm>=4.64.0
+
+# JSON 处理（标准库，但列出用于文档）
+# json - 内置模块
+
+# HTTP 请求
+requests>=2.28.0
+
+# 文档类型检测
+filetype>=1.2.0
+
+# 模板引擎
+jinja2>=3.1.0
+
+# 数据验证
+pydantic>=2.0.0
+
+# YAML 处理
+pyyaml>=6.0
+
+# 网络和异步
+anyio>=3.5.0
+
+# 系统信息
+distro>=1.7.0
+
+# 重试机制
+tenacity>=8.2.0,!=8.4.0
+
+# JSON Schema 验证
+jsonschema>=4.0.0
+
+# 日期时间处理
+python-dateutil>=2.8.0
+
+# 类型提示
+typing-extensions>=4.7
+
+# 网络图处理
+networkx>=3.0
+
+# 文档字符串解析
+docstring-parser>=0.15
+
+# 延迟导入
+lazy-imports>=1.0.0
+
+# 更多迭代工具
+more-itertools>=8.0.0
+
+# 用户分析（可选）
+posthog>=6.0.0,!=3.12.0
+
+# Jupyter 环境（如果需要在 Jupyter 中运行）
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 警告控制（标准库）
+# warnings - 内置模块
+
+# 操作系统接口（标准库）
+# os - 内置模块
+
+# =============================
+# 开发和测试工具（可选）
+pytest>=7.0.0
+black>=23.0.0
+isort>=5.0.0
+flake8>=6.0.0
+
+# =============================
+# 深度学习框架（如有需要，按需取消注释）
+# torch>=2.0.0
+# tensorflow>=2.12.0
+
+# =============================
+# 打包和部署工具（可选）
+setuptools>=68.0.0
+wheel>=0.40.0
+twine>=4.0.0

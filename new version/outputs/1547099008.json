@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 1547099008,
+            "url": "https://theseasonsapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects data via both voluntarily provided and automatically collected information. It details the types of data collected and the circumstances under which data may be accessed.",
+            "reference": "Information we collect falls into one of two categories: 'voluntarily provided' information and 'automatically collected' information. URL: https://theseasonsapp.com/privacy."
+        },
+        "source_documents": [
+            {
+                "id": "e2048e0aace55f79555adc7ef3ef6f49d0c908f05ac0e54d7670bbc849398023",
+                "score": 0.15165494,
+                "excerpt": "the error is.\nPlease be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.\nOur app may access and collect data via your device's in-built tools, such as:\nWhen you install the app or use your device’s tools within the app, we request permission to access this information. The specific data we collect can depend on the individual settings of your device and the permissions you gr...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "8827d124fa9225100ff0989585d83bc221cce20c351a3ffb66447a2d9df75b1b",
+                "score": 0.072374016,
+                "excerpt": "categories: “voluntarily provided” information and “automatically collected” information.\n“Voluntarily provided” information refers to any information you knowingly and actively provide us when using our app and its associated services.\n“Automatically collected” information refers to any information automatically sent by your device in the course of accessing our app and its associated services.\nWhen you access our servers via our app, we may automatically log the standard data provided by your ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "08a56def5be4df446fd5454533b4e89c21286340976f9b95a07c2c9f16c90ac5",
+                "score": 0.07185127,
+                "excerpt": "Your privacy is important to us. It is Seasons' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including via our app, Seasons Goal Journaling, and its associated services.\nPersonal information is any information about you which can be used to identify you. This includes information about you as a person (such as name, address, and date of birth), your devices, payment details, and even information abou...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "1d8eca9b52472b517118c6a1a8d7fe1530233d687b555c9cb7614870bc11cbd4",
+                "score": 0.027742893,
+                "excerpt": "app and services.\nWhen we collect and process personal information, and while we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.\nAlthough we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is 100% secure, and no one can guarantee absolute data security.\nYou are responsible for ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "fb43c7a9179a211156b88e779ce109aca4901aeefe1cbbfb69417d7c0b3d5d54",
+                "score": 0.021698097,
+                "excerpt": "that any content you submit for the purpose of publication will be public after posting (and subsequent review or vetting process). Once published, it may be accessible to third parties not covered under this privacy policy.\nWe only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you.\nWe may collect personal information from you when you do any ...",
+                "url": "https://theseasonsapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1547099008,
+            "url": "https://theseasonsapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as Internet Protocol (IP) address, device type and version, app usage activity, date and time of app usage, technical details in case of errors, and personal information voluntarily provided by users.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol (IP) address",
+                        "Device type and version",
+                        "App usage activity",
+                        "Date and time of app usage",
+                        "Technical error details",
+                        "Personal information provided voluntarily"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the sections in the privacy policy that discuss the categories of data collected, including voluntarily provided information and automatically collected information.",
+            "reference": "It may include your device's Internet Protocol (IP) address, your device type and version, your activity within the app, time and date, and other details about your usage. Additionally, when you encounter certain errors while using the app, we automatically collect data about the error and the circumstances surrounding its occurrence. This data may include technical details about your device... We may ask for personal information — for example, when you submit content to us or when you contact us — which may include one or more of the following. URL: https://theseasonsapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "8827d124fa9225100ff0989585d83bc221cce20c351a3ffb66447a2d9df75b1b",
+                "score": 0.42071855,
+                "excerpt": "categories: “voluntarily provided” information and “automatically collected” information.\n“Voluntarily provided” information refers to any information you knowingly and actively provide us when using our app and its associated services.\n“Automatically collected” information refers to any information automatically sent by your device in the course of accessing our app and its associated services.\nWhen you access our servers via our app, we may automatically log the standard data provided by your ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "e2048e0aace55f79555adc7ef3ef6f49d0c908f05ac0e54d7670bbc849398023",
+                "score": 0.28517285,
+                "excerpt": "the error is.\nPlease be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.\nOur app may access and collect data via your device's in-built tools, such as:\nWhen you install the app or use your device’s tools within the app, we request permission to access this information. The specific data we collect can depend on the individual settings of your device and the permissions you gr...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "08a56def5be4df446fd5454533b4e89c21286340976f9b95a07c2c9f16c90ac5",
+                "score": 0.20339088,
+                "excerpt": "Your privacy is important to us. It is Seasons' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including via our app, Seasons Goal Journaling, and its associated services.\nPersonal information is any information about you which can be used to identify you. This includes information about you as a person (such as name, address, and date of birth), your devices, payment details, and even information abou...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "fb43c7a9179a211156b88e779ce109aca4901aeefe1cbbfb69417d7c0b3d5d54",
+                "score": 0.025323061,
+                "excerpt": "that any content you submit for the purpose of publication will be public after posting (and subsequent review or vetting process). Once published, it may be accessible to third parties not covered under this privacy policy.\nWe only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you.\nWe may collect personal information from you when you do any ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "f096170b66b77b5d47c1e07aa6366c11470496e61f29565a2651806a9944227f",
+                "score": 0.014728614,
+                "excerpt": "a financial incentive program requires your prior opt-in consent, which you may revoke at any time.\nIn the past 12 months, we have collected the following categories of personal information enumerated in the California Consumer Privacy Act:\nFor more information on information we collect, including the sources we receive information from, review the “Information We Collect” section. We collect and use these categories of personal information for the business purposes described in the “Collection ...",
+                "url": "https://theseasonsapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1547099008,
+            "url": "https://theseasonsapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that personal information is collected for specific purposes explicitly stated in the policy.",
+            "reference": "We may collect, hold, use, and disclose information for the following purposes, and personal information will not be further processed in a manner that is incompatible with these purposes: URL: https://theseasonsapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "fb43c7a9179a211156b88e779ce109aca4901aeefe1cbbfb69417d7c0b3d5d54",
+                "score": 0.36897394,
+                "excerpt": "that any content you submit for the purpose of publication will be public after posting (and subsequent review or vetting process). Once published, it may be accessible to third parties not covered under this privacy policy.\nWe only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you.\nWe may collect personal information from you when you do any ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "e2048e0aace55f79555adc7ef3ef6f49d0c908f05ac0e54d7670bbc849398023",
+                "score": 0.24131057,
+                "excerpt": "the error is.\nPlease be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.\nOur app may access and collect data via your device's in-built tools, such as:\nWhen you install the app or use your device’s tools within the app, we request permission to access this information. The specific data we collect can depend on the individual settings of your device and the permissions you gr...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "1d8eca9b52472b517118c6a1a8d7fe1530233d687b555c9cb7614870bc11cbd4",
+                "score": 0.115960725,
+                "excerpt": "app and services.\nWhen we collect and process personal information, and while we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use, or modification.\nAlthough we will do our best to protect the personal information you provide to us, we advise that no method of electronic transmission or storage is 100% secure, and no one can guarantee absolute data security.\nYou are responsible for ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "f096170b66b77b5d47c1e07aa6366c11470496e61f29565a2651806a9944227f",
+                "score": 0.04304285,
+                "excerpt": "a financial incentive program requires your prior opt-in consent, which you may revoke at any time.\nIn the past 12 months, we have collected the following categories of personal information enumerated in the California Consumer Privacy Act:\nFor more information on information we collect, including the sources we receive information from, review the “Information We Collect” section. We collect and use these categories of personal information for the business purposes described in the “Collection ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "038116cc0abadc6b0866bcb4b98870b3a251a533250a005524dd6dabf0160eb1",
+                "score": 0.008847355,
+                "excerpt": "(i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.\nYour choice: By providing personal information to us, you understand we will collect, hold, use, and disclose your personal information in accordance with this privacy policy. You do not have to provide personal information to us, however, if you do not, it may affect your use of our app or the products an...",
+                "url": "https://theseasonsapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1547099008,
+            "url": "https://theseasonsapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users have rights to delete their personal information and know certain details about data practices, including the ability to contact the app to exercise these rights. Additionally, California residents have specific rights to request data deletion and opt-out of certain data practices.",
+            "reference": "If you are a California resident, you have rights to delete your personal information we collected...To exercise any of these rights, please contact us using the details provided...URL: https://theseasonsapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f096170b66b77b5d47c1e07aa6366c11470496e61f29565a2651806a9944227f",
+                "score": 0.7316342,
+                "excerpt": "a financial incentive program requires your prior opt-in consent, which you may revoke at any time.\nIn the past 12 months, we have collected the following categories of personal information enumerated in the California Consumer Privacy Act:\nFor more information on information we collect, including the sources we receive information from, review the “Information We Collect” section. We collect and use these categories of personal information for the business purposes described in the “Collection ...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "be0a111b0128c41f120d561edf19cac07387bed628f8063c287aa9ad22bff2c6",
+                "score": 0.50031424,
+                "excerpt": "law, we will get your permission or give you the opportunity to opt in to or opt out of, as applicable, any new uses of your personal information.\nUnder California Civil Code Section 1798.83, if you live in California and your business relationship with us is mainly for personal, family, or household purposes, you may ask us about the information we release to other organizations for their marketing purposes.\nTo make such a request, please contact us using the details provided in this privacy po...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "e04d2d79767af2311182a20a40fc4f74909a54077c2f079f6ab0d2d3132f3873",
+                "score": 0.4305663,
+                "excerpt": "relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.\nUnsubscribe: To unsubscribe from our email database o...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "7100867f657d9c07e63b260bf0da36b6e8f2536e28165159dd7cdd88e7a946c1",
+                "score": 0.18609506,
+                "excerpt": "duration your account exists on our system. If your personal information is no longer required for this purpose, we will delete it or make it anonymous by removing all details that identify you.\nHowever, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes.\nWe do not aim any of our products or services directly...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "cfac8c8da90de08301a214b145c12fbea65a6648ab8a9ef2c70267886189fae1",
+                "score": 0.15974101,
+                "excerpt": "and that any parties who acquire us may, to the extent permitted by applicable law, continue to use your personal information according to this policy, which they will be required to assume as it is the basis for any ownership or use rights we have over such information.\nOur app may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy pra...",
+                "url": "https://theseasonsapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1547099008,
+            "url": "https://theseasonsapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may link to external sites that are not operated by them, indicating a possibility of sharing data with third parties.",
+            "reference": "Our app may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices. URL: https://theseasonsapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "cfac8c8da90de08301a214b145c12fbea65a6648ab8a9ef2c70267886189fae1",
+                "score": 0.6916015,
+                "excerpt": "and that any parties who acquire us may, to the extent permitted by applicable law, continue to use your personal information according to this policy, which they will be required to assume as it is the basis for any ownership or use rights we have over such information.\nOur app may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy pra...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "e2048e0aace55f79555adc7ef3ef6f49d0c908f05ac0e54d7670bbc849398023",
+                "score": 0.57684,
+                "excerpt": "the error is.\nPlease be aware that while this information may not be personally identifying by itself, it may be possible to combine it with other data to personally identify individual persons.\nOur app may access and collect data via your device's in-built tools, such as:\nWhen you install the app or use your device’s tools within the app, we request permission to access this information. The specific data we collect can depend on the individual settings of your device and the permissions you gr...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "08a56def5be4df446fd5454533b4e89c21286340976f9b95a07c2c9f16c90ac5",
+                "score": 0.573141,
+                "excerpt": "Your privacy is important to us. It is Seasons' policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including via our app, Seasons Goal Journaling, and its associated services.\nPersonal information is any information about you which can be used to identify you. This includes information about you as a person (such as name, address, and date of birth), your devices, payment details, and even information abou...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "038116cc0abadc6b0866bcb4b98870b3a251a533250a005524dd6dabf0160eb1",
+                "score": 0.57284224,
+                "excerpt": "(i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.\nYour choice: By providing personal information to us, you understand we will collect, hold, use, and disclose your personal information in accordance with this privacy policy. You do not have to provide personal information to us, however, if you do not, it may affect your use of our app or the products an...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "fb43c7a9179a211156b88e779ce109aca4901aeefe1cbbfb69417d7c0b3d5d54",
+                "score": 0.5402872,
+                "excerpt": "that any content you submit for the purpose of publication will be public after posting (and subsequent review or vetting process). Once published, it may be accessible to third parties not covered under this privacy policy.\nWe only collect and use your personal information when we have a legitimate reason for doing so. In which instance, we only collect personal information that is reasonably necessary to provide our services to you.\nWe may collect personal information from you when you do any ...",
+                "url": "https://theseasonsapp.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1547099008,
+            "url": "https://theseasonsapp.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "NOTUSED",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Third parties we currently use include:"
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app may disclose personal information to third parties. However, the specific third parties are not listed explicitly but referred to for users to inquire further.",
+            "reference": "Third parties we currently use include: URL: https://theseasonsapp.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "cfac8c8da90de08301a214b145c12fbea65a6648ab8a9ef2c70267886189fae1",
+                "score": 0.6090592,
+                "excerpt": "and that any parties who acquire us may, to the extent permitted by applicable law, continue to use your personal information according to this policy, which they will be required to assume as it is the basis for any ownership or use rights we have over such information.\nOur app may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy pra...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "038116cc0abadc6b0866bcb4b98870b3a251a533250a005524dd6dabf0160eb1",
+                "score": 0.5246687,
+                "excerpt": "(i) we will perform those transfers in accordance with the requirements of applicable law; and (ii) we will protect the transferred personal information in accordance with this privacy policy.\nYour choice: By providing personal information to us, you understand we will collect, hold, use, and disclose your personal information in accordance with this privacy policy. You do not have to provide personal information to us, however, if you do not, it may affect your use of our app or the products an...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "7100867f657d9c07e63b260bf0da36b6e8f2536e28165159dd7cdd88e7a946c1",
+                "score": 0.49631125,
+                "excerpt": "duration your account exists on our system. If your personal information is no longer required for this purpose, we will delete it or make it anonymous by removing all details that identify you.\nHowever, if necessary, we may retain your personal information for our compliance with a legal, accounting, or reporting obligation or for archiving purposes in the public interest, scientific, or historical research purposes or statistical purposes.\nWe do not aim any of our products or services directly...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "e04d2d79767af2311182a20a40fc4f74909a54077c2f079f6ab0d2d3132f3873",
+                "score": 0.49493045,
+                "excerpt": "relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.\nUnsubscribe: To unsubscribe from our email database o...",
+                "url": "https://theseasonsapp.com/privacy"
+            },
+            {
+                "id": "9e0cd25e5cffcb8c20287cce7030d286293c1c31337a7beb700a47f5309192e7",
+                "score": 0.42608273,
+                "excerpt": "information as defined by California’s “Shine the Light” with third parties and affiliates for their own direct marketing purposes.\nTo receive this information, send us a request using the contact details provided in this privacy policy. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code.\nFor any questions or concerns regarding your privacy, you may contact us using the following details:...",
+                "url": "https://theseasonsapp.com/privacy"
+            }
+        ]
+    }
+]

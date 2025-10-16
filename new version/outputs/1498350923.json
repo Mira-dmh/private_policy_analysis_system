@@ -1,0 +1,183 @@
+[
+    {
+        "meta": {
+            "id": 1498350923,
+            "url": "https://yayoiengineer.com/app-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app may request specific information such as user’s App version, OS version, error logs, etc., which is used solely for the improvement of the application.",
+            "reference": "This application may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes. URL: https://yayoiengineer.com/app-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "058f033e9a748fa01a0c45419f854bb8cbd2b80f770fe1a3bb8012d92f873529",
+                "score": 0.54955,
+                "excerpt": "App Privacy Policy\n- 2019.08.18\n- アプリプライバシーポリシー\nRegarding privacy information handling in this application, we will establish a privacy policy as follows.\nArticle 1 Collection and Use of Information\nThis application（藤田和弥） may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes.\nArticle 2 Advertisement\nThis application(excluding paid version) delivers the best advertisemen...",
+                "url": "https://yayoiengineer.com/app-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498350923,
+            "url": "https://yayoiengineer.com/app-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app may collect user's App version, OS version, error logs, and any other specific information required for improving the application.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "App version",
+                        "OS version",
+                        "Error logs",
+                        "Specific information for app improvement"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states the types of data that the app may collect for improving the application.",
+            "reference": "The app may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes. URL: https://yayoiengineer.com/app-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "058f033e9a748fa01a0c45419f854bb8cbd2b80f770fe1a3bb8012d92f873529",
+                "score": 0.12147716,
+                "excerpt": "App Privacy Policy\n- 2019.08.18\n- アプリプライバシーポリシー\nRegarding privacy information handling in this application, we will establish a privacy policy as follows.\nArticle 1 Collection and Use of Information\nThis application（藤田和弥） may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes.\nArticle 2 Advertisement\nThis application(excluding paid version) delivers the best advertisemen...",
+                "url": "https://yayoiengineer.com/app-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498350923,
+            "url": "https://yayoiengineer.com/app-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares that the information collected, such as user's App version, OS version, error logs, etc., is only used to improve the application and not for other purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the information collected by the app is utilized solely for the purpose of enhancing the application.",
+            "reference": "These information are used to improve the application, it is not used for other purposes. URL: https://yayoiengineer.com/app-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "058f033e9a748fa01a0c45419f854bb8cbd2b80f770fe1a3bb8012d92f873529",
+                "score": 0.8293538,
+                "excerpt": "App Privacy Policy\n- 2019.08.18\n- アプリプライバシーポリシー\nRegarding privacy information handling in this application, we will establish a privacy policy as follows.\nArticle 1 Collection and Use of Information\nThis application（藤田和弥） may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes.\nArticle 2 Advertisement\nThis application(excluding paid version) delivers the best advertisemen...",
+                "url": "https://yayoiengineer.com/app-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498350923,
+            "url": "https://yayoiengineer.com/app-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by not providing specific information requested by the application. However, there is no explicit mention of the ability to delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the application may request specific information from the user, but it is solely used to improve the application and not for other purposes. This implies that users can choose not to provide certain information, therefore opting out of data collection. However, there is no explicit statement regarding the deletion of data.",
+            "reference": "This application may request specific information such as user's App version, OS version, error log, etc. This information is only used to improve the application, and it is not used for other purposes. URL: https://yayoiengineer.com/app-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "058f033e9a748fa01a0c45419f854bb8cbd2b80f770fe1a3bb8012d92f873529",
+                "score": 0.0012113064,
+                "excerpt": "App Privacy Policy\n- 2019.08.18\n- アプリプライバシーポリシー\nRegarding privacy information handling in this application, we will establish a privacy policy as follows.\nArticle 1 Collection and Use of Information\nThis application（藤田和弥） may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes.\nArticle 2 Advertisement\nThis application(excluding paid version) delivers the best advertisemen...",
+                "url": "https://yayoiengineer.com/app-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498350923,
+            "url": "https://yayoiengineer.com/app-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not share data with third parties.",
+            "reference": "This data is saved in the internal memory of the device, so it is not explicitly used by this application. URL: https://yayoiengineer.com/app-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "058f033e9a748fa01a0c45419f854bb8cbd2b80f770fe1a3bb8012d92f873529",
+                "score": 0.018617803,
+                "excerpt": "App Privacy Policy\n- 2019.08.18\n- アプリプライバシーポリシー\nRegarding privacy information handling in this application, we will establish a privacy policy as follows.\nArticle 1 Collection and Use of Information\nThis application（藤田和弥） may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes.\nArticle 2 Advertisement\nThis application(excluding paid version) delivers the best advertisemen...",
+                "url": "https://yayoiengineer.com/app-privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498350923,
+            "url": "https://yayoiengineer.com/app-privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Google, as mentioned in the privacy policy.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Google"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section where it is stated that the application's privacy policy refers to the privacy policy of the service provider used in the application, which is Google.",
+            "reference": "The privacy policy of the service provider used in the application is here. URL: https://yayoiengineer.com/app-privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "058f033e9a748fa01a0c45419f854bb8cbd2b80f770fe1a3bb8012d92f873529",
+                "score": 0.007149102,
+                "excerpt": "App Privacy Policy\n- 2019.08.18\n- アプリプライバシーポリシー\nRegarding privacy information handling in this application, we will establish a privacy policy as follows.\nArticle 1 Collection and Use of Information\nThis application（藤田和弥） may request specific information such as user’s App version, OS version, error log etc .. This information is only used to improve the application, it is not used for other purposes.\nArticle 2 Advertisement\nThis application(excluding paid version) delivers the best advertisemen...",
+                "url": "https://yayoiengineer.com/app-privacy-policy/"
+            }
+        ]
+    }
+]

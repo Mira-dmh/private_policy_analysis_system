@@ -1,0 +1,107 @@
+[
+  {
+    "meta": {
+      "id": 6450941099,
+      "url": "https://www.counselr.ai/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects personal information relating to users, including account information, user content, communication information, social media information, and technical information automatically from users' interactions with the services.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of personal information collected from users.",
+          "content": "The app collects personal information such as account information, user content, communication information, social media information, and technical information."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of personal information collected from users, ensuring transparency about data collection practices.",
+      "reference": "Section 1: Personal information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450941099,
+      "url": "https://www.counselr.ai/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including: 1. Personal Information You Provide: - Account Information: Name, contact information, account credentials, payment card information, and transaction history. - User Content: Personal information included in input, file uploads, or feedback provided to the Services. - Communication Information: Name, contact information, and contents of messages sent to Counselr. - Social Media Information: Personal information provided when interacting with Counselr's social media pages. 2. Personal Information Received Automatically: - Log Data: Information sent by your browser, including IP address, browser type, and interaction details. - Usage Data: Information about how you use the Services, including content viewed, features used, and user inputs. - Device Information: Details about the device used, including operating system and identifiers. - Cookies: Information collected through cookies to enhance user experience. - Analytics: Data collected through online analytics products to analyze user behavior.",
+        "simple_answer": "The app collects personal information such as account details, user content, communication information, social media information, log data, usage data, device information, cookies, and analytics.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of personal information to provide and improve its services.",
+          "content": "Types of data collected include account information, user content, communication details, social media interactions, log data, usage data, device information, cookies, and analytics."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Personal information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450941099,
+      "url": "https://www.counselr.ai/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that Personal Information may be used for various purposes including providing, administering, maintaining, and analyzing the Services, improving the Services, communicating with users, developing new programs and services, preventing fraud, and complying with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The purposes include providing and improving services, communication, fraud prevention, and legal compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: How we use personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450941099,
+      "url": "https://www.counselr.ai/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users cannot opt out of sharing Content they provide if they use the Services, as this information may be used to improve the Services. However, the policy does not explicitly mention a process for users to delete their data.",
+        "simple_answer": "No, users cannot opt out of data collection for Content provided.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that if users do not want their Content used for improving Services, they should not use the Services.",
+          "content": "Users cannot opt out of sharing Content they provide if they use the Services, as this information may be used to improve the Services. However, the policy does not explicitly mention a process for users to delete their data."
+        }
+      },
+      "analysis": "The privacy policy emphasizes that using the Services entails sharing certain data, particularly Content, which cannot be opted out of. There is no clear mention of a data deletion process.",
+      "reference": "Section 2: How we use personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450941099,
+      "url": "https://www.counselr.ai/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your Personal Information with third parties in certain circumstances, including vendors and service providers, during business transfers, and to comply with legal requirements.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data to assist in business operations, during transactions, and for legal compliance.",
+          "content": "In certain circumstances we may provide your Personal Information to third parties without further notice to you, unless required by the law: Vendors and Service Providers, Business Transfers, Legal Requirements."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: Disclosure of personal information"
+    }
+  }
+]

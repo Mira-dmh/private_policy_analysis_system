@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1601915333,
+      "url": "http://arcgamestudio.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it may collect and process various types of data about users, including personal information provided by users, details of their use of the services, correspondence records, social media interactions, information from third parties, and data collected via cookies and similar technologies.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the methods of collection.",
+          "content": "The app collects personal information, usage details, correspondence records, social media interactions, third-party data, and data via cookies."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Information we collect about you, and how we collect it"
+    }
+  },
+  {
+    "meta": {
+      "id": 1601915333,
+      "url": "http://arcgamestudio.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects and processes various types of data, including: information provided by users when filling in forms or creating accounts, details of user interactions with the Services, records of correspondence with users, information from third-party sources, and data collected via cookies and similar technologies.",
+        "simple_answer": "The app collects personal information, usage details, correspondence records, third-party data, and cookie data.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps improve user experience and service functionality.",
+          "content": "The types of data collected include: personal information (name, address, email), usage details (how and when the app is used), correspondence records, social media interactions, third-party data, and cookie data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Information we collect about you, and how we collect it"
+    }
+  },
+  {
+    "meta": {
+      "id": 1601915333,
+      "url": "http://arcgamestudio.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that Personal Information may be used for contacting users, managing accounts, improving services, conducting research, marketing, and personalizing content and advertising.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for which personal data is collected.",
+          "content": "The purposes include contacting users, managing accounts, improving services, conducting research, marketing, and personalizing content and advertising."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: How will we use your Personal Information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1601915333,
+      "url": "http://arcgamestudio.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by disabling cookies through their web or phone browser settings. However, they may not be able to enjoy all the features of the Services if they do so. Additionally, if users do not wish for their data to be collected as described in the policy, they should stop using the Services.",
+        "simple_answer": "Yes, users can opt out by disabling cookies or stopping the use of the Services.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data collection preferences.",
+          "content": "Users can disable cookies through their browser settings, but this may limit their experience with the Services. They can also choose to stop using the Services if they do not want their data collected."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 and Cookies & Tracking Devices"
+    }
+  },
+  {
+    "meta": {
+      "id": 1601915333,
+      "url": "http://arcgamestudio.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your Personal Information with third parties. This includes sharing data with suppliers or group companies acting on behalf of arc GAME STUDIO for various purposes such as customer support, improving services, marketing, and personalization of content.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is done under specific circumstances and for defined purposes.",
+          "content": "The app may share your Personal Information with third parties for customer support, service improvement, marketing, and personalization."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3.1 - How will we use your Personal Information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1601915333,
+      "url": "http://arcgamestudio.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties such as payment service providers, advertising networks, and social media platforms. Specifically, it mentions that it may obtain information about you from third parties who hold data about you and who agree to share this data with us. Additionally, it may use advertising identifiers to deliver ads that relate to your interests and improve ad campaign effectiveness.",
+        "simple_answer": "The app shares data with payment service providers, advertising networks, and social media platforms.",
+        "extended_simple_answer": {
+          "comment": "The app collects and shares data to enhance user experience and for advertising purposes.",
+          "content": "The app may share data with third parties such as payment service providers, advertising networks, and social media platforms. It may also obtain information from third parties who hold data about you."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 and Section 3.1"
+    }
+  }
+]

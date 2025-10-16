@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 6443679619,
+            "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various types of information, indicating that it declares the collection of data.",
+            "reference": "We collect information from and about users of our App. Directly from you when you provide it to us. Automatically when you use the App. URL: https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5eee3499bb6d561b898ab82efd7e6a4b63278635064bbdd2d9bd62582aef52c5",
+                "score": 0.28696787,
+                "excerpt": "(including email addresses and phone numbers), if you contact us.\nYour responses to surveys that we might ask you to complete for research purposes.\nYour search queries on the App.\nAutomatic Information Collection and Tracking\nWhen you download, access, and use the App, it may use technology to automatically collect:\nUsage Details. When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and o...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "82c9f4a62b20a7c00cba0705b81f324e39d9e1166045f8e50f10c5bbcc6fbbb1",
+                "score": 0.2639787,
+                "excerpt": "Rights for more information.\nInformation We Collect and How We Collect It\nWe collect information from and about users of our App:\nDirectly from you when you provide it to us.\nAutomatically when you use the App.\nWhen you download, register with, or use this App, we may ask you provide information:\nBy which you may be personally identified, such as name, postal address, email address, telephone number, or ANY OTHER INFORMATION THE APP COLLECTS THAT IS DEFINED AS PERSONAL OR PERSONALLY IDENTIFIABLE...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "92a2434381dde5897e9fad85fe36b1482cb076125b67d14ba3819c5d45078557",
+                "score": 0.17823957,
+                "excerpt": "information and how we will treat it. If you do not agree with our policies and practices, do not download, register with, or use this App. By downloading, registering with, or using this App, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this App after we revise this policy means you accept those changes, so please check the policy periodically for updates.\nThe App is not intended for children under 16 years...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "9dc66e758c84746c803ff09d028901ef66eb0edf04a308e87f1c0e04d13dd8c8",
+                "score": 0.096705794,
+                "excerpt": "into between you and us, including the App EULA, and for billing and collection.\nIf we believe disclosure is necessary or appropriate to protect the rights, property, or safety of OnTarget, our customers, or others.\nYour Choices About Our Collection, Use, and Disclosure of Your Information\nWe strive to provide you with choices regarding the personal information you provide to us. This section describes mechanisms we provide for you to control certain uses and disclosures of over your information...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "4e5e9ceca15fd3e4c3537b904d6326a086410f0eadb2c1e4b0fc9f2992ae6dc1",
+                "score": 0.07864238,
+                "excerpt": "Privacy Policy\nMobile Application Privacy Policy\nLast modified: 2022-2023\nOnTarget (\"Company\" or \"We\") respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes:\nThe types of information we may collect or that you may provide when you download, install, register with, access, or use the OnTarget application (the \"App\").\nOur practices for collecting, using, maintaining, protecting, and disclosing that information.\nThis policy applies on...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443679619,
+            "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Usage Details, Device Information, Stored Information and Files, and Location Information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Usage Details",
+                        "Device Information",
+                        "Stored Information and Files",
+                        "Location Information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the specific types of data collected by the app under the section 'Automatic Information Collection and Tracking.'",
+            "reference": "Usage Details. When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and other communication data and the resources that you access and use on or through the App. Device Information. We may collect information about your mobile device and internet connection, including the device's unique device identifier, IP address, operating system, browser type, mobile network information, and the device's telephone number. Stored Information and Files. The App also may access metadata and other information associated with other files stored on your device. This may include, for example, photographs, audio and video clips, personal contacts, and address book information. Location Information. This App collects real-time information about the location of your device for EVV Services where required. URL: https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5eee3499bb6d561b898ab82efd7e6a4b63278635064bbdd2d9bd62582aef52c5",
+                "score": 0.82615143,
+                "excerpt": "(including email addresses and phone numbers), if you contact us.\nYour responses to surveys that we might ask you to complete for research purposes.\nYour search queries on the App.\nAutomatic Information Collection and Tracking\nWhen you download, access, and use the App, it may use technology to automatically collect:\nUsage Details. When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and o...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "82c9f4a62b20a7c00cba0705b81f324e39d9e1166045f8e50f10c5bbcc6fbbb1",
+                "score": 0.5181805,
+                "excerpt": "Rights for more information.\nInformation We Collect and How We Collect It\nWe collect information from and about users of our App:\nDirectly from you when you provide it to us.\nAutomatically when you use the App.\nWhen you download, register with, or use this App, we may ask you provide information:\nBy which you may be personally identified, such as name, postal address, email address, telephone number, or ANY OTHER INFORMATION THE APP COLLECTS THAT IS DEFINED AS PERSONAL OR PERSONALLY IDENTIFIABLE...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "4e5e9ceca15fd3e4c3537b904d6326a086410f0eadb2c1e4b0fc9f2992ae6dc1",
+                "score": 0.2881683,
+                "excerpt": "Privacy Policy\nMobile Application Privacy Policy\nLast modified: 2022-2023\nOnTarget (\"Company\" or \"We\") respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes:\nThe types of information we may collect or that you may provide when you download, install, register with, access, or use the OnTarget application (the \"App\").\nOur practices for collecting, using, maintaining, protecting, and disclosing that information.\nThis policy applies on...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "d64f5b64b588cfd8d03197d292189ba3ad4e3ff66e744566e10f67f3292b39b4",
+                "score": 0.23881637,
+                "excerpt": "single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related app statistics (for example, recording the popularity of certain app content and verifying system and server integrity).\nThird-Party Information Collection\nWhen you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties include:\nGoogle Serv...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "4d1f38afe1fb122564b406e40e7b7dd39ab9216c4ddc8bd531708bdc2478d0ff",
+                "score": 0.20481864,
+                "excerpt": "your device for EVV Services where required.\nIf you do not want us to collect this information do not download the App or delete it from your device. For more information, see Your Choices About Our Collection, Use, and Disclosure of Your Information. Note, however, that opting out of the App's collection of location information will disable its location-based features.\nWe also may use these technologies to collect information about your activities over time and across third-party websites, apps...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443679619,
+            "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use, indicating transparency to users.",
+            "reference": "Your Choices About Our Collection, Use, and Disclosure of Your Information. This section describes mechanisms we provide for you to control certain uses and disclosures of over your information. URL: https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5eee3499bb6d561b898ab82efd7e6a4b63278635064bbdd2d9bd62582aef52c5",
+                "score": 0.31090358,
+                "excerpt": "(including email addresses and phone numbers), if you contact us.\nYour responses to surveys that we might ask you to complete for research purposes.\nYour search queries on the App.\nAutomatic Information Collection and Tracking\nWhen you download, access, and use the App, it may use technology to automatically collect:\nUsage Details. When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and o...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "770f525aeb00f7b2586ca56ea1089cd8f129507c0ab5390aa3f6508205a6430d",
+                "score": 0.3083985,
+                "excerpt": "information that does not identify any individual or device, without restriction.\nIn addition, we may disclose personal information that we collect or you provide:\nTo our subsidiaries and affiliates.\nTo contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.\nTo a buyer or other successor in the event of a merger, ...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "9dc66e758c84746c803ff09d028901ef66eb0edf04a308e87f1c0e04d13dd8c8",
+                "score": 0.10484336,
+                "excerpt": "into between you and us, including the App EULA, and for billing and collection.\nIf we believe disclosure is necessary or appropriate to protect the rights, property, or safety of OnTarget, our customers, or others.\nYour Choices About Our Collection, Use, and Disclosure of Your Information\nWe strive to provide you with choices regarding the personal information you provide to us. This section describes mechanisms we provide for you to control certain uses and disclosures of over your information...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "2729abf34b3b993aa5bcd2a99bef3dbf11ba118b137a03552c7c90520a4ee79f",
+                "score": 0.09451043,
+                "excerpt": "targeted content, you should contact the responsible provider directly.\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nProvide you with the App and its contents, and any other information, products, or services that you request from us.\nFulfill any other purpose for which you provide it.\nGive you notices about your account/subscription, including expiration and renewal notices.\nCarry out our obligations and enforce our rights arisi...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "d64f5b64b588cfd8d03197d292189ba3ad4e3ff66e744566e10f67f3292b39b4",
+                "score": 0.076683804,
+                "excerpt": "single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related app statistics (for example, recording the popularity of certain app content and verifying system and server integrity).\nThird-Party Information Collection\nWhen you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties include:\nGoogle Serv...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443679619,
+            "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by sending an email to support@ontargetclinical.com to request access to, correct, or delete any personal information provided. However, deleting personal information requires deleting the user account, and requests to change information may not be accommodated if they violate laws or legal requirements.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can opt out of data collection or delete data by sending an email to the specified address. However, deleting personal information involves deleting the user account, and certain requests for information changes may not be accommodated under specific circumstances.",
+            "reference": "You may also send us an email at support@ontargetclinical.com to request access to, correct, or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. URL: https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "82351202d4387359dc8cc704c6b00bfb1cd59267218b216024a330d545d14b4d",
+                "score": 0.8850366,
+                "excerpt": "properly.\nWe do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (\"NAI\") on the NAI's website.\nResidents in certain states, such as California, may have additional personal information rights and choices. Please see Your State Pri...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "4d1f38afe1fb122564b406e40e7b7dd39ab9216c4ddc8bd531708bdc2478d0ff",
+                "score": 0.64131004,
+                "excerpt": "your device for EVV Services where required.\nIf you do not want us to collect this information do not download the App or delete it from your device. For more information, see Your Choices About Our Collection, Use, and Disclosure of Your Information. Note, however, that opting out of the App's collection of location information will disable its location-based features.\nWe also may use these technologies to collect information about your activities over time and across third-party websites, apps...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "5eee3499bb6d561b898ab82efd7e6a4b63278635064bbdd2d9bd62582aef52c5",
+                "score": 0.38919824,
+                "excerpt": "(including email addresses and phone numbers), if you contact us.\nYour responses to surveys that we might ask you to complete for research purposes.\nYour search queries on the App.\nAutomatic Information Collection and Tracking\nWhen you download, access, and use the App, it may use technology to automatically collect:\nUsage Details. When you access and use the App, we may automatically collect certain details of your access to and use of the App, including traffic data, location data, logs, and o...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "9dc66e758c84746c803ff09d028901ef66eb0edf04a308e87f1c0e04d13dd8c8",
+                "score": 0.14187483,
+                "excerpt": "into between you and us, including the App EULA, and for billing and collection.\nIf we believe disclosure is necessary or appropriate to protect the rights, property, or safety of OnTarget, our customers, or others.\nYour Choices About Our Collection, Use, and Disclosure of Your Information\nWe strive to provide you with choices regarding the personal information you provide to us. This section describes mechanisms we provide for you to control certain uses and disclosures of over your information...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "8b0d5feb6c412ff3e4a99ea68694004286091ce40888077b8a75054cd8a5f060",
+                "score": 0.06644793,
+                "excerpt": "provide.\nWe may update our privacy policy from time to time. If we make material changes to how we treat our users' personal information, we will post the new privacy policy on this page.\nThe date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address and/or phone number for you and for periodically visiting this privacy policy to check for any changes.\nTo ask questions or comment about...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443679619,
+            "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that certain third parties may collect information about users or their devices when using the app. These third parties may use tracking technologies and collect personal information for advertising purposes.",
+            "reference": "When you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties include: Google Services: https://policies.google.com/privacy, Your mobile device manufacturer, Your mobile service provider. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. URL: https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d64f5b64b588cfd8d03197d292189ba3ad4e3ff66e744566e10f67f3292b39b4",
+                "score": 0.93663365,
+                "excerpt": "single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related app statistics (for example, recording the popularity of certain app content and verifying system and server integrity).\nThird-Party Information Collection\nWhen you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties include:\nGoogle Serv...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "9dc66e758c84746c803ff09d028901ef66eb0edf04a308e87f1c0e04d13dd8c8",
+                "score": 0.8053262,
+                "excerpt": "into between you and us, including the App EULA, and for billing and collection.\nIf we believe disclosure is necessary or appropriate to protect the rights, property, or safety of OnTarget, our customers, or others.\nYour Choices About Our Collection, Use, and Disclosure of Your Information\nWe strive to provide you with choices regarding the personal information you provide to us. This section describes mechanisms we provide for you to control certain uses and disclosures of over your information...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "770f525aeb00f7b2586ca56ea1089cd8f129507c0ab5390aa3f6508205a6430d",
+                "score": 0.76153845,
+                "excerpt": "information that does not identify any individual or device, without restriction.\nIn addition, we may disclose personal information that we collect or you provide:\nTo our subsidiaries and affiliates.\nTo contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.\nTo a buyer or other successor in the event of a merger, ...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "4d1f38afe1fb122564b406e40e7b7dd39ab9216c4ddc8bd531708bdc2478d0ff",
+                "score": 0.6659539,
+                "excerpt": "your device for EVV Services where required.\nIf you do not want us to collect this information do not download the App or delete it from your device. For more information, see Your Choices About Our Collection, Use, and Disclosure of Your Information. Note, however, that opting out of the App's collection of location information will disable its location-based features.\nWe also may use these technologies to collect information about your activities over time and across third-party websites, apps...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "2729abf34b3b993aa5bcd2a99bef3dbf11ba118b137a03552c7c90520a4ee79f",
+                "score": 0.64321727,
+                "excerpt": "targeted content, you should contact the responsible provider directly.\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nProvide you with the App and its contents, and any other information, products, or services that you request from us.\nFulfill any other purpose for which you provide it.\nGive you notices about your account/subscription, including expiration and renewal notices.\nCarry out our obligations and enforce our rights arisi...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443679619,
+            "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Google Services, mobile device manufacturers, and mobile service providers are the third parties that the app shares data with.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Google Services",
+                        "mobile device manufacturers",
+                        "mobile service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions Google Services, mobile device manufacturers, and mobile service providers as the third parties with whom data is shared.",
+            "reference": "These third parties include: Google Services: https://policies.google.com/privacy Your mobile device manufacturer. Your mobile service provider. URL: https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d64f5b64b588cfd8d03197d292189ba3ad4e3ff66e744566e10f67f3292b39b4",
+                "score": 0.9430336,
+                "excerpt": "single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related app statistics (for example, recording the popularity of certain app content and verifying system and server integrity).\nThird-Party Information Collection\nWhen you use the App or its content, certain third parties may use automatic information collection technologies to collect information about you or your device. These third parties include:\nGoogle Serv...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "770f525aeb00f7b2586ca56ea1089cd8f129507c0ab5390aa3f6508205a6430d",
+                "score": 0.84619683,
+                "excerpt": "information that does not identify any individual or device, without restriction.\nIn addition, we may disclose personal information that we collect or you provide:\nTo our subsidiaries and affiliates.\nTo contractors, service providers, and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.\nTo a buyer or other successor in the event of a merger, ...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "2729abf34b3b993aa5bcd2a99bef3dbf11ba118b137a03552c7c90520a4ee79f",
+                "score": 0.72749174,
+                "excerpt": "targeted content, you should contact the responsible provider directly.\nWe use information that we collect about you or that you provide to us, including any personal information, to:\nProvide you with the App and its contents, and any other information, products, or services that you request from us.\nFulfill any other purpose for which you provide it.\nGive you notices about your account/subscription, including expiration and renewal notices.\nCarry out our obligations and enforce our rights arisi...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "9dc66e758c84746c803ff09d028901ef66eb0edf04a308e87f1c0e04d13dd8c8",
+                "score": 0.68783975,
+                "excerpt": "into between you and us, including the App EULA, and for billing and collection.\nIf we believe disclosure is necessary or appropriate to protect the rights, property, or safety of OnTarget, our customers, or others.\nYour Choices About Our Collection, Use, and Disclosure of Your Information\nWe strive to provide you with choices regarding the personal information you provide to us. This section describes mechanisms we provide for you to control certain uses and disclosures of over your information...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            },
+            {
+                "id": "4d1f38afe1fb122564b406e40e7b7dd39ab9216c4ddc8bd531708bdc2478d0ff",
+                "score": 0.52415115,
+                "excerpt": "your device for EVV Services where required.\nIf you do not want us to collect this information do not download the App or delete it from your device. For more information, see Your Choices About Our Collection, Use, and Disclosure of Your Information. Note, however, that opting out of the App's collection of location information will disable its location-based features.\nWe also may use these technologies to collect information about your activities over time and across third-party websites, apps...",
+                "url": "https://ontarget.helpscoutdocs.com/article/383-privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1458156758,
+      "url": "https://my.akili.care/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that certain data may be collected when users register, create an account, use the apps or web dashboards, or communicate with Akili. This includes personal information, contact details, health information, and other data related to the user's or their child's preferences and behavior.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of data collected, ensuring transparency about data practices.",
+          "content": "The policy states that data may be collected from users, including personal identifiers, contact information, health-related data, and responses to assessments."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected, which aligns with best practices for transparency in data collection.",
+      "reference": "What data is collected?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458156758,
+      "url": "https://my.akili.care/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including but not limited to: name, nickname, or other personal identifier; email address, phone number, physical address, zip code; password; age or date of birth; gender; activation code(s); information entered in enrollment forms; health insurance or payor information; preferences, behavior, or symptoms; responses to assessments or questionnaires; photos or images uploaded; disclosed medical information or diagnosis; gameplay performance data; assessment data; text or information in open text boxes; information submitted via Akili Assist; information from web dashboards; survey responses; payment or financial information; and technical information such as IP address and device type.",
+        "simple_answer": "The app collects personal identifiers, contact information, health-related data, gameplay performance data, and technical information.",
+        "extended_simple_answer": {
+          "comment": "The data collected is comprehensive and includes both personal and technical information.",
+          "content": "The app collects personal identifiers, contact information, health-related data, gameplay performance data, and technical information."
+        }
+      },
+      "analysis": "",
+      "reference": "What data is collected?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458156758,
+      "url": "https://my.akili.care/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the data will be used to provide tools, information, and functionality through its products and services, to contact users for support, to communicate with healthcare professionals regarding treatment, to fulfill requests for data sharing, to gather feedback, to improve services, to monitor usage trends, to detect fraud, and for other communicated purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various purposes for which data is collected, ensuring transparency.",
+          "content": "The data will be used for providing services, contacting users, communicating with healthcare professionals, fulfilling requests, gathering feedback, improving services, monitoring trends, detecting fraud, and other specified purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "How does Akili use and protect your data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458156758,
+      "url": "https://my.akili.care/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can request to review, modify, or delete their data. The privacy policy states that users have the ability to ask Akili to review, modify, or delete their data, although specific procedures for opting out or deleting data are not detailed in the provided text.",
+        "simple_answer": "Yes, users can request to delete their data.",
+        "extended_simple_answer": {
+          "comment": "The policy allows users to manage their data, but specific opt-out procedures are not outlined.",
+          "content": "Users can ask Akili to review, modify, or delete their data."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have rights regarding their data, including the ability to request deletion, but does not provide detailed instructions on how to do so.",
+      "reference": "What if you’d like to review, modify, or delete your data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458156758,
+      "url": "https://my.akili.care/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties under certain circumstances. Specifically, Akili may share your data with other individuals, such as caregivers or physicians, if you have explicitly requested or consented to such sharing. Additionally, Akili may confidentially disclose your information in the event of a corporate change in control, such as a merger or sale of assets.",
+        "simple_answer": "Yes, the app shares data with third parties if you consent or in case of corporate changes.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited to specific circumstances and requires user consent.",
+          "content": "Akili may share your data with caregivers or physicians if you explicitly request it, and may also disclose information during corporate changes."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing is not routine but occurs under specific conditions, emphasizing user consent and corporate changes.",
+      "reference": "How does Akili use and protect your data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1458156758,
+      "url": "https://my.akili.care/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with healthcare professionals, pharmacies, and other individuals specifically identified by the user for the purposes of fulfilling requests or consents. Additionally, data may be shared with Akili employees and partners who need to know the data for the purposes described in the privacy policy.",
+        "simple_answer": "The app shares data with healthcare professionals, pharmacies, and identified individuals.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited to specific purposes and individuals.",
+          "content": "Data may be shared with healthcare professionals for treatment communication, with pharmacies for prescription fulfillment, and with other caregivers or physicians as explicitly requested by the user."
+        }
+      },
+      "analysis": "",
+      "reference": "How does Akili use and protect your data?"
+    }
+  }
+]

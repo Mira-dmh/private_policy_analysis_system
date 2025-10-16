@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6466716476,
+      "url": "https://www.pregamie.com/user/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that when users access the services or interact with PregAmie, they may be asked to voluntarily provide certain information that personally identifies them or could be used to identify them. This includes personal information and sensitive personal data as defined under the SPI Rules.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the types of information collected and the user's consent to this collection.",
+          "content": "The information collected may include contact data, demographic data, and other voluntarily provided information, which may constitute personal information or sensitive personal data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and emphasizes that users provide this information voluntarily, indicating transparency in data collection practices.",
+      "reference": "What Information We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466716476,
+      "url": "https://www.pregamie.com/user/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including contact data (such as email address and phone number), demographic data (such as gender, date of birth, and pin code), and other information that users voluntarily provide (such as information shared through emails or letters). This information may constitute 'personal information' or 'sensitive personal data or information' under the SPI Rules.",
+        "simple_answer": "The app collects contact data, demographic data, and other voluntarily provided information.",
+        "extended_simple_answer": {
+          "comment": "The collected data can include personal and sensitive information as defined under the SPI Rules.",
+          "content": "Contact data includes email addresses and phone numbers; demographic data includes gender, date of birth, and pin code; and other information may include details shared through emails or letters."
+        }
+      },
+      "analysis": "",
+      "reference": "What Information We Collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466716476,
+      "url": "https://www.pregamie.com/user/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected may be used for providing services, for commercial purposes in an aggregated form for research and analysis, for communication to improve user experience, and for contacting users regarding transactions and feedback.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for which user data may be utilized.",
+          "content": "The purposes include providing services, commercial use in aggregated form, communication for better service, and contacting users for transaction completion and feedback."
+        }
+      },
+      "analysis": "",
+      "reference": "Privacy Terms section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466716476,
+      "url": "https://www.pregamie.com/user/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the option not to provide Personal Information sought to be collected. They also have the option to withdraw their consent at any point, either directly from the website or by informing PregAmie in advance. If a user does not provide Personal Information or withdraws consent, PregAmie may restrict the user from using the website and may not fulfill the purposes for which the Personal Information was sought.",
+        "simple_answer": "Yes, users can opt out of data collection and withdraw consent.",
+        "extended_simple_answer": {
+          "comment": "Users can choose not to provide their Personal Information and can withdraw consent at any time.",
+          "content": "If users do not provide Personal Information or withdraw consent, PregAmie may restrict their access to the website."
+        }
+      },
+      "analysis": "",
+      "reference": "You have the option not to provide us the Personal Information sought to be collected. You will also have an option to withdraw Your consent at any point, directly from the website or by informing us in advance."
+    }
+  },
+  {
+    "meta": {
+      "id": 6466716476,
+      "url": "https://www.pregamie.com/user/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, PregAmie may share information in an aggregated or non-personally identifiable form with third parties and affiliates for commercial purposes, research, statistical analysis, and business intelligence purposes.",
+        "simple_answer": "Yes, it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data primarily in an aggregated form, which does not identify individual users.",
+          "content": "PregAmie reserves the right to use certain information for commercial purposes and may sell or transfer such research, statistical, or intelligence data in an aggregated or non-personally identifiable form to third parties and affiliates."
+        }
+      },
+      "analysis": "",
+      "reference": "Privacy Terms section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466716476,
+      "url": "https://www.pregamie.com/user/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "PregAmie may share aggregated or non-personally identifiable information with third parties and affiliates for commercial purposes, research, statistical analysis, and business intelligence. However, specific third parties are not explicitly named in the privacy policy.",
+        "simple_answer": "PregAmie shares data with third parties for commercial purposes and research, but does not specify which third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared in an aggregated form, which does not identify individual users.",
+          "content": "PregAmie may share aggregated or non-personally identifiable information with third parties and affiliates for commercial purposes, research, statistical analysis, and business intelligence."
+        }
+      },
+      "analysis": "The privacy policy does not provide a detailed list of specific third parties with whom data is shared, focusing instead on the types of data and purposes for sharing.",
+      "reference": "Privacy Terms section"
+    }
+  }
+]

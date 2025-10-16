@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 985365789,
+      "url": "https://spiritualme.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that users can access and use the Services without revealing their identity, but certain features may require users to provide Personal Information, such as their name and email address. The policy also mentions that the app receives and stores any information users knowingly provide when making a purchase or filling out forms on the Services.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app informs users about the collection of Personal Information and the circumstances under which it occurs.",
+          "content": "Users can access the Services without revealing their identity, but to use certain features, they may need to provide Personal Information. The app collects and stores information provided during purchases or form submissions."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data is collected, ensuring transparency for users regarding their Personal Information.",
+      "reference": "Collection of personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 985365789,
+      "url": "https://spiritualme.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Information, which may include your name and e-mail address, as well as any information you knowingly provide when making a purchase or filling out forms on the Services.",
+        "simple_answer": "The app collects Personal Information such as your name and e-mail address.",
+        "extended_simple_answer": {
+          "comment": "The collection of data is necessary for certain features of the Services.",
+          "content": "You can access and use the Services without revealing your identity, but to use some features, you may need to provide Personal Information."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection of personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 985365789,
+      "url": "https://spiritualme.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected may be used for delivering products or services, running and operating the Services, and processing Personal Information based on user interaction, consent, legal obligations, and legitimate interests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines specific purposes for which personal information is collected.",
+          "content": "The purposes include delivering products or services, operating the Services, and complying with legal obligations."
+        }
+      },
+      "analysis": "The privacy policy clearly specifies the various purposes for which personal information is collected, ensuring transparency in data handling practices.",
+      "reference": "Use and processing of collected information"
+    }
+  },
+  {
+    "meta": {
+      "id": 985365789,
+      "url": "https://spiritualme.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can choose not to provide their Personal Information, which may limit their ability to use certain features of the Services. Additionally, users have the right to request the deletion of their Personal Information, especially if it pertains to children under the age of 13, as stated in the privacy policy.",
+        "simple_answer": "Yes, users can opt out of data collection and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users are encouraged to contact the company for clarification on mandatory information and can request deletion of data.",
+          "content": "Users can opt out of providing Personal Information, which may restrict access to certain features. They can also request deletion of their data, particularly if it involves children under 13."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of data collection by not providing Personal Information. It also provides a mechanism for users to request deletion of their data.",
+      "reference": "Collection of personal information; Privacy of children"
+    }
+  },
+  {
+    "meta": {
+      "id": 985365789,
+      "url": "https://spiritualme.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. However, it mentions that third-party payment processors are used to assist in processing payment information securely. This implies that some data may be shared with these payment processors for the purpose of processing payments.",
+        "simple_answer": "Yes, data may be shared with third-party payment processors.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that while the app uses third-party services for payment processing, it does not provide detailed information on sharing data with other third parties.",
+          "content": "The app uses third-party payment processors to handle payment information securely, which suggests some data sharing occurs in that context."
+        }
+      },
+      "analysis": "The privacy policy indicates that while the app may share data with third-party payment processors for payment processing, it does not provide further details on sharing data with other third parties.",
+      "reference": "Payment processing section"
+    }
+  },
+  {
+    "meta": {
+      "id": 985365789,
+      "url": "https://spiritualme.com/privacy_policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any particular third parties with whom the app shares data. It mentions that the app uses third-party payment processors to assist in processing payment information securely, but does not provide details on other third parties.",
+        "simple_answer": "The app uses third-party payment processors but does not specify other third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates the use of third-party payment processors for payment processing but lacks details on other third-party data sharing.",
+          "content": "The app shares data with third-party payment processors for secure payment processing."
+        }
+      },
+      "analysis": "The privacy policy is vague regarding third-party data sharing beyond payment processing, which may raise concerns for users about how their data is handled.",
+      "reference": "Use and processing of collected information"
+    }
+  }
+]

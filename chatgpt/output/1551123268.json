@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1551123268,
+      "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it will only collect personal information that users have voluntarily decided to provide or that has been recorded from their usage of the Service. The types of data collected include name, email, phone number, IP address, and other contact details.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the data it collects and the purposes for which it is used.",
+          "content": "The app collects personal information voluntarily provided by users and records data from their usage of the Service."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and emphasizes that it is based on user consent.",
+      "reference": "Summary Privacy Policy"
+    }
+  },
+  {
+    "meta": {
+      "id": 1551123268,
+      "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects two distinct kinds of information: non-personal information and personal information. Non-personal information includes data such as the pages accessed, which helps determine usage statistics. Personal information includes details such as IP address, email address, username, password, approximate location, and any optional information provided by the user, such as text, photographs, or memes.",
+        "simple_answer": "The app collects non-personal information and personal information.",
+        "extended_simple_answer": {
+          "comment": "The app collects both non-personal and personal data to enhance user experience and improve the service.",
+          "content": "Non-personal information includes usage statistics, while personal information includes IP address, email, username, password, and optional user-generated content."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 5: What Information Do We Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1551123268,
+      "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The purpose of the service is to grow communities interested in mental health, music, and mental wellness. The personal information collected is used to provide users with the full features of the app, to analyze, improve, and promote the app and its content.",
+        "simple_answer": "Yes, the app states that it collects data to grow communities and improve its services.",
+        "extended_simple_answer": {
+          "comment": "The app clearly outlines its intentions regarding data collection.",
+          "content": "The purpose of this Service is to grow communities interested in mental health, music, and mental wellness. The personal information collected is used to provide users with the full features of the app, to analyze, improve, and promote the app and its content."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: What is the Purpose of this Service?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1551123268,
+      "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection. However, it states that personal information is only collected voluntarily and that users can contact the Data Controller for questions regarding their personal data. The policy implies that users may have the right to request deletion of their data, but specific procedures for opting out or deleting data are not detailed.",
+        "simple_answer": "The policy does not explicitly provide an opt-out option, but users can contact the Data Controller regarding their data.",
+        "extended_simple_answer": {
+          "comment": "While the policy does not detail opt-out procedures, it emphasizes user consent and the ability to contact the Data Controller.",
+          "content": "Users can inquire about their data and potentially request deletion, but the policy lacks specific opt-out instructions."
+        }
+      },
+      "analysis": "The absence of explicit opt-out procedures in the privacy policy suggests that users may need to rely on contacting the Data Controller for any data-related requests.",
+      "reference": "Section 5 and Section 16"
+    }
+  },
+  {
+    "meta": {
+      "id": 1551123268,
+      "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app will only share your personal information with declared data processors and may transfer your data to authorized data processors outside of the EEA, but will ensure that appropriate safeguards are in place. The app will never sell, rent, or give away your personal data to other third parties.",
+        "simple_answer": "Yes, but only with declared data processors and under strict conditions.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to protecting your personal data and only shares it under specific circumstances.",
+          "content": "The app shares personal information with declared data processors and may transfer data outside the EEA with safeguards. It does not sell or rent personal data."
+        }
+      },
+      "analysis": "",
+      "reference": "Summary Privacy Policy"
+    }
+  },
+  {
+    "meta": {
+      "id": 1551123268,
+      "url": "https://noisybrain.disciplemedia.com/privacy_policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app will only share your personal information with our declared data processors. It does not specify the names of these third parties in the privacy policy.",
+        "simple_answer": "The app shares data with declared data processors.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy does not provide specific names of third parties.",
+          "content": "The app will only share your personal information with our declared data processors."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing is limited to declared data processors, but does not elaborate on who these processors are.",
+      "reference": "Summary Privacy Policy"
+    }
+  }
+]

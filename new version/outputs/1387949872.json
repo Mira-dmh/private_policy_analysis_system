@@ -1,0 +1,341 @@
+[
+    {
+        "meta": {
+            "id": 1387949872,
+            "url": "https://cancerdojo.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that different types of data including log data, device data, personal information, and business data may be collected by the app.",
+            "reference": "The privacy policy document specifies the collection of various types of data such as log data, device data, personal information, and business data. URL: https://cancerdojo.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ba9b147d492411c16482a59ca30cc656edb019d071e2c4daab97af9181080f3b",
+                "score": 0.06301947,
+                "excerpt": "Privacy Policy\nYour privacy is important to us. It is DojoLabs Pty Ltd’s policy to respect your privacy regarding any information we may collect from you across our website, https://cancerdojo.com, and other sites we own and operate.\n1. Information we collect\nLog data\nWhen you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the ti...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "0cde6730922e74c4b6ba3c78f6b9c363d251ae0b587b77738979175ce10b35a6",
+                "score": 0.05042407,
+                "excerpt": "market and promote our services, and to protect our legal rights and interests;\n- you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or\n- we need to process your data to comply with a legal obligation.\nWhere you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).\nWe don’t keep personal inform...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "f9d22b9f7b6a331a8a0f625661ff3044a5ea8d424028313e87b3130133112db6",
+                "score": 0.02942358,
+                "excerpt": "Date of birth\n- Phone/mobile number\n- Website address\n- Payment information\n- Tax/SSN/Medicare/etc. number\nBusiness data\nBusiness data refers to data that accumulates over the normal course of operation on our platform. This may include transaction records, stored files, user profiles, analytics data and other metrics, as well as other types of information, created or generated, as users interact with our services.\n2. Legal bases for processing\nWe will process your personal information lawfully,...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "dc969714fb00be58fb3b149d662c7514900f6675d4116c4e804be7dfee33aa2b",
+                "score": 0.009161027,
+                "excerpt": "another natural person.\n3. Collection and use of information\nWe may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:\n- to provide you with our platform’s core features;\n- to process any transactional or ongoing payments;\n- to enable you to access and use our website, associated applications and associated social media platforms;\n- to contact and communicate with you;...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "d3a72090cb8b79e9c50bbf833f2ea3a46225b22d6831676d163a55231d839bd0",
+                "score": 0.0006023541,
+                "excerpt": "for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;\n- our employees, contractors and/or related entities;\n- sponsors or promoters of any competition we run;\n- third parties, including agents or sub-contractors, who assist us in providing infor...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1387949872,
+            "url": "https://cancerdojo.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as Name, Social media profiles, Date of birth, Phone/mobile number, Website address, Payment information, Tax/SSN/Medicare/etc. number, and Business data including transaction records, stored files, user profiles, analytics data, and other metrics.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Social media profiles",
+                        "Date of birth",
+                        "Phone/mobile number",
+                        "Website address",
+                        "Payment information",
+                        "Tax/SSN/Medicare/etc. number",
+                        "Business data (transaction records, stored files, user profiles, analytics data, etc.)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the specific types of data collected by the app, including personal information like name, phone number, and payment details, as well as business data such as transaction records and user profiles.",
+            "reference": "Name, Social media profiles, Date of birth, Phone/mobile number, Website address, Payment information, Tax/SSN/Medicare/etc. number, Business data (transaction records, stored files, user profiles, analytics data, etc.) URL: https://cancerdojo.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "f9d22b9f7b6a331a8a0f625661ff3044a5ea8d424028313e87b3130133112db6",
+                "score": 0.36116472,
+                "excerpt": "Date of birth\n- Phone/mobile number\n- Website address\n- Payment information\n- Tax/SSN/Medicare/etc. number\nBusiness data\nBusiness data refers to data that accumulates over the normal course of operation on our platform. This may include transaction records, stored files, user profiles, analytics data and other metrics, as well as other types of information, created or generated, as users interact with our services.\n2. Legal bases for processing\nWe will process your personal information lawfully,...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "ba9b147d492411c16482a59ca30cc656edb019d071e2c4daab97af9181080f3b",
+                "score": 0.2926964,
+                "excerpt": "Privacy Policy\nYour privacy is important to us. It is DojoLabs Pty Ltd’s policy to respect your privacy regarding any information we may collect from you across our website, https://cancerdojo.com, and other sites we own and operate.\n1. Information we collect\nLog data\nWhen you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the ti...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "0cde6730922e74c4b6ba3c78f6b9c363d251ae0b587b77738979175ce10b35a6",
+                "score": 0.015543648,
+                "excerpt": "market and promote our services, and to protect our legal rights and interests;\n- you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or\n- we need to process your data to comply with a legal obligation.\nWhere you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).\nWe don’t keep personal inform...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "dc969714fb00be58fb3b149d662c7514900f6675d4116c4e804be7dfee33aa2b",
+                "score": 0.0075772414,
+                "excerpt": "another natural person.\n3. Collection and use of information\nWe may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:\n- to provide you with our platform’s core features;\n- to process any transactional or ongoing payments;\n- to enable you to access and use our website, associated applications and associated social media platforms;\n- to contact and communicate with you;...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "d3a72090cb8b79e9c50bbf833f2ea3a46225b22d6831676d163a55231d839bd0",
+                "score": 0.002019014,
+                "excerpt": "for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;\n- our employees, contractors and/or related entities;\n- sponsors or promoters of any competition we run;\n- third parties, including agents or sub-contractors, who assist us in providing infor...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1387949872,
+            "url": "https://cancerdojo.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purposes for which data is collected and used, including providing core features, contacting users, analytics, marketing, legal compliance, and more.",
+            "reference": "We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes: ...URL: https://cancerdojo.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "0cde6730922e74c4b6ba3c78f6b9c363d251ae0b587b77738979175ce10b35a6",
+                "score": 0.9433476,
+                "excerpt": "market and promote our services, and to protect our legal rights and interests;\n- you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or\n- we need to process your data to comply with a legal obligation.\nWhere you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).\nWe don’t keep personal inform...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "dc969714fb00be58fb3b149d662c7514900f6675d4116c4e804be7dfee33aa2b",
+                "score": 0.9022657,
+                "excerpt": "another natural person.\n3. Collection and use of information\nWe may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:\n- to provide you with our platform’s core features;\n- to process any transactional or ongoing payments;\n- to enable you to access and use our website, associated applications and associated social media platforms;\n- to contact and communicate with you;...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "f9d22b9f7b6a331a8a0f625661ff3044a5ea8d424028313e87b3130133112db6",
+                "score": 0.18535663,
+                "excerpt": "Date of birth\n- Phone/mobile number\n- Website address\n- Payment information\n- Tax/SSN/Medicare/etc. number\nBusiness data\nBusiness data refers to data that accumulates over the normal course of operation on our platform. This may include transaction records, stored files, user profiles, analytics data and other metrics, as well as other types of information, created or generated, as users interact with our services.\n2. Legal bases for processing\nWe will process your personal information lawfully,...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "d3a72090cb8b79e9c50bbf833f2ea3a46225b22d6831676d163a55231d839bd0",
+                "score": 0.017045317,
+                "excerpt": "for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;\n- our employees, contractors and/or related entities;\n- sponsors or promoters of any competition we run;\n- third parties, including agents or sub-contractors, who assist us in providing infor...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "ba9b147d492411c16482a59ca30cc656edb019d071e2c4daab97af9181080f3b",
+                "score": 0.00079783343,
+                "excerpt": "Privacy Policy\nYour privacy is important to us. It is DojoLabs Pty Ltd’s policy to respect your privacy regarding any information we may collect from you across our website, https://cancerdojo.com, and other sites we own and operate.\n1. Information we collect\nLog data\nWhen you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the ti...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1387949872,
+            "url": "https://cancerdojo.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that users can unsubscribe from the email database, opt-out of communications, and request erasure of personal information, indicating they have the ability to opt out of data collection or delete data.",
+            "reference": "Unsubscribe: To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication. Correction: If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us. You may request that we erase the personal information we hold about you at any time. URL: https://cancerdojo.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "046697a2ed19276cfab342f997c1c484fbb3fcbe5886442a7a16e4bafe25d189",
+                "score": 0.27688602,
+                "excerpt": "complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.\nUnsubscribe: To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.\n7. Cookies\n...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "0cde6730922e74c4b6ba3c78f6b9c363d251ae0b587b77738979175ce10b35a6",
+                "score": 0.056444027,
+                "excerpt": "market and promote our services, and to protect our legal rights and interests;\n- you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or\n- we need to process your data to comply with a legal obligation.\nWhere you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).\nWe don’t keep personal inform...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "1bc7fbef1db887f9faea45e5f5f956d051def77a9cea0e0d9594eaba4b7cc5f0",
+                "score": 0.038466193,
+                "excerpt": "details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party.\nCorrection: If you believe that any information we hold about you is inaccurate, out of date...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "b74fd7ffaf5c862f259a243ad8e51ba1a31f7e745a6dca2b9d4d2a4385d3369a",
+                "score": 0.022759154,
+                "excerpt": "personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it.\nInformation from third parties: If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide t...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "099a432673474c17053d924ad705222a2fd3a01f1482c97f0be2f296a5ac9068",
+                "score": 0.021739595,
+                "excerpt": "the use of binding corporate rules or other legally accepted means.\nWhere we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our j...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1387949872,
+            "url": "https://cancerdojo.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app discloses personal information to third parties for various purposes, including providing services, marketing, and data collection and processing.",
+            "reference": "We may disclose personal information to third party service providers for enabling them to provide their services, sponsors of competitions, and other third parties assisting in providing information or services. URL: https://cancerdojo.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "d3a72090cb8b79e9c50bbf833f2ea3a46225b22d6831676d163a55231d839bd0",
+                "score": 0.48531762,
+                "excerpt": "for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;\n- our employees, contractors and/or related entities;\n- sponsors or promoters of any competition we run;\n- third parties, including agents or sub-contractors, who assist us in providing infor...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "dc969714fb00be58fb3b149d662c7514900f6675d4116c4e804be7dfee33aa2b",
+                "score": 0.13892843,
+                "excerpt": "another natural person.\n3. Collection and use of information\nWe may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:\n- to provide you with our platform’s core features;\n- to process any transactional or ongoing payments;\n- to enable you to access and use our website, associated applications and associated social media platforms;\n- to contact and communicate with you;...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "099a432673474c17053d924ad705222a2fd3a01f1482c97f0be2f296a5ac9068",
+                "score": 0.059866417,
+                "excerpt": "the use of binding corporate rules or other legally accepted means.\nWhere we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our j...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "0cde6730922e74c4b6ba3c78f6b9c363d251ae0b587b77738979175ce10b35a6",
+                "score": 0.010860331,
+                "excerpt": "market and promote our services, and to protect our legal rights and interests;\n- you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or\n- we need to process your data to comply with a legal obligation.\nWhere you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).\nWe don’t keep personal inform...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "de31935bc10c17a7e510c100d4e6ff4b47f93f8d74d82adfb0ac35222ac30e8b",
+                "score": 0.009485713,
+                "excerpt": "any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.\n9. Limits of our policy\nOur website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.\n10. Changes to this policy\nAt our discretion, we may ...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1387949872,
+            "url": "https://cancerdojo.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties such as IT service providers, data storage providers, web-hosting providers, debt collectors, maintenance providers, marketing providers, professional advisors, payment systems operators, sponsors of competitions, agents or sub-contractors, and third parties assisting in providing information, products, services, or direct marketing.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "IT service providers",
+                        "Data storage providers",
+                        "Web-hosting providers",
+                        "Debt collectors",
+                        "Maintenance providers",
+                        "Marketing providers",
+                        "Professional advisors",
+                        "Payment systems operators",
+                        "Sponsors of competitions",
+                        "Agents or sub-contractors",
+                        "Third parties assisting in providing information, products, services, or direct marketing"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies various third parties with whom the app shares data for different purposes. These third parties include a wide range of service providers and entities involved in different aspects of the app's operations.",
+            "reference": "The app shares data with third parties, including IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators; our employees, contractors and/or related entities; sponsors or promoters of any competition we run; third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and third parties to collect and process data. URL: https://cancerdojo.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "d3a72090cb8b79e9c50bbf833f2ea3a46225b22d6831676d163a55231d839bd0",
+                "score": 0.633637,
+                "excerpt": "for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;\n- our employees, contractors and/or related entities;\n- sponsors or promoters of any competition we run;\n- third parties, including agents or sub-contractors, who assist us in providing infor...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "099a432673474c17053d924ad705222a2fd3a01f1482c97f0be2f296a5ac9068",
+                "score": 0.31038076,
+                "excerpt": "the use of binding corporate rules or other legally accepted means.\nWhere we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our j...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "dc969714fb00be58fb3b149d662c7514900f6675d4116c4e804be7dfee33aa2b",
+                "score": 0.30777398,
+                "excerpt": "another natural person.\n3. Collection and use of information\nWe may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:\n- to provide you with our platform’s core features;\n- to process any transactional or ongoing payments;\n- to enable you to access and use our website, associated applications and associated social media platforms;\n- to contact and communicate with you;...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "de31935bc10c17a7e510c100d4e6ff4b47f93f8d74d82adfb0ac35222ac30e8b",
+                "score": 0.059319146,
+                "excerpt": "any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.\n9. Limits of our policy\nOur website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.\n10. Changes to this policy\nAt our discretion, we may ...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            },
+            {
+                "id": "046697a2ed19276cfab342f997c1c484fbb3fcbe5886442a7a16e4bafe25d189",
+                "score": 0.037467506,
+                "excerpt": "complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.\nUnsubscribe: To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.\n7. Cookies\n...",
+                "url": "https://cancerdojo.com/privacy-policy/"
+            }
+        ]
+    }
+]

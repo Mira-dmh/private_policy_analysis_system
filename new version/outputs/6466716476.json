@@ -1,0 +1,216 @@
+[
+    {
+        "meta": {
+            "id": 6466716476,
+            "url": "https://www.pregamie.com/user/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various types of personal information.",
+            "reference": "When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you...The information collected from you by PregAmie may constitute ‘personal information’ or ‘sensitive personal data or information’ under the SPI Rules. URL: https://www.pregamie.com/user/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3e0987e73b6dfa6de81da9e857d7812cee63c7ee50130ae3adc2eb0dfdbcf80b",
+                "score": 0.016466176,
+                "excerpt": "Generally, some of the Services require us to know who you are so that we can best meet your needs. When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you. You hereby consent to the collection of such information by PregAmie. Without prejudice to the generality of the above, information collecte...",
+                "url": "https://www.pregamie.com/user/privacy"
+            },
+            {
+                "id": "d5f3eabf8b1c9bef94510dae45138590b7143950ba4226015c20c6621278d882",
+                "score": 0.0016166499,
+                "excerpt": "any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available to a body corporate, is capable of identifying such person.\nSPI Rules further define “Sensitive Personal Data or Information” of a person to mean personal information about that person relating to:\n- passwords;\n- financial information such as bank accounts, credit, and debit card details or other payment instrument details;\n- physical, ...",
+                "url": "https://www.pregamie.com/user/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466716476,
+            "url": "https://www.pregamie.com/user/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects contact data (such as email address and phone number), demographic data (such as gender, date of birth, and pin code), and any other information voluntarily provided by the user (including data shared through emails or letters).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact data (email address and phone number)",
+                        "Demographic data (gender, date of birth, pin code)",
+                        "Other voluntarily provided information shared through emails or letters"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the types of data that the app collects from users, which includes contact data, demographic data, and any other voluntarily provided information.",
+            "reference": "contact data (such as your email address and phone number); demographic data (such as your gender, your date of birth and your pin code); other information that you voluntarily choose to provide to us (such as information shared by you with us through emails or letters. URL: https://www.pregamie.com/user/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3e0987e73b6dfa6de81da9e857d7812cee63c7ee50130ae3adc2eb0dfdbcf80b",
+                "score": 0.07978202,
+                "excerpt": "Generally, some of the Services require us to know who you are so that we can best meet your needs. When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you. You hereby consent to the collection of such information by PregAmie. Without prejudice to the generality of the above, information collecte...",
+                "url": "https://www.pregamie.com/user/privacy"
+            },
+            {
+                "id": "d5f3eabf8b1c9bef94510dae45138590b7143950ba4226015c20c6621278d882",
+                "score": 0.031026179,
+                "excerpt": "any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available to a body corporate, is capable of identifying such person.\nSPI Rules further define “Sensitive Personal Data or Information” of a person to mean personal information about that person relating to:\n- passwords;\n- financial information such as bank accounts, credit, and debit card details or other payment instrument details;\n- physical, ...",
+                "url": "https://www.pregamie.com/user/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466716476,
+            "url": "https://www.pregamie.com/user/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app collects information that personally identifies users or could be used to identify them. It specifies that the collected information may include contact data, demographic data, and other voluntarily provided information. These details indicate that the app declares the purpose of data collection and use.",
+            "reference": "The privacy policy mentions, '...ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you... information collected by us from you may include (but is not limited to) contact data, demographic data, other information that you voluntarily choose to provide to us...' URL: https://www.pregamie.com/user/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3e0987e73b6dfa6de81da9e857d7812cee63c7ee50130ae3adc2eb0dfdbcf80b",
+                "score": 0.0018602987,
+                "excerpt": "Generally, some of the Services require us to know who you are so that we can best meet your needs. When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you. You hereby consent to the collection of such information by PregAmie. Without prejudice to the generality of the above, information collecte...",
+                "url": "https://www.pregamie.com/user/privacy"
+            },
+            {
+                "id": "d5f3eabf8b1c9bef94510dae45138590b7143950ba4226015c20c6621278d882",
+                "score": 0.00094730896,
+                "excerpt": "any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available to a body corporate, is capable of identifying such person.\nSPI Rules further define “Sensitive Personal Data or Information” of a person to mean personal information about that person relating to:\n- passwords;\n- financial information such as bank accounts, credit, and debit card details or other payment instrument details;\n- physical, ...",
+                "url": "https://www.pregamie.com/user/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466716476,
+            "url": "https://www.pregamie.com/user/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Users cannot opt out of data collection or delete data.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy document does not mention any provision for users to opt out of data collection or delete data.",
+            "reference": "N/A. URL: https://www.pregamie.com/user/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3e0987e73b6dfa6de81da9e857d7812cee63c7ee50130ae3adc2eb0dfdbcf80b",
+                "score": 0.015424552,
+                "excerpt": "Generally, some of the Services require us to know who you are so that we can best meet your needs. When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you. You hereby consent to the collection of such information by PregAmie. Without prejudice to the generality of the above, information collecte...",
+                "url": "https://www.pregamie.com/user/privacy"
+            },
+            {
+                "id": "d5f3eabf8b1c9bef94510dae45138590b7143950ba4226015c20c6621278d882",
+                "score": 0.003945407,
+                "excerpt": "any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available to a body corporate, is capable of identifying such person.\nSPI Rules further define “Sensitive Personal Data or Information” of a person to mean personal information about that person relating to:\n- passwords;\n- financial information such as bank accounts, credit, and debit card details or other payment instrument details;\n- physical, ...",
+                "url": "https://www.pregamie.com/user/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466716476,
+            "url": "https://www.pregamie.com/user/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, PregAmie may share data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that PregAmie may collect and disclose information without consent if it is freely available in the public domain, implying a possibility of sharing data with third parties.",
+            "reference": "PregAmie will be free to use, collect and disclose information that is freely available in the public domain without your consent. URL: https://www.pregamie.com/user/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3e0987e73b6dfa6de81da9e857d7812cee63c7ee50130ae3adc2eb0dfdbcf80b",
+                "score": 0.0068771075,
+                "excerpt": "Generally, some of the Services require us to know who you are so that we can best meet your needs. When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you. You hereby consent to the collection of such information by PregAmie. Without prejudice to the generality of the above, information collecte...",
+                "url": "https://www.pregamie.com/user/privacy"
+            },
+            {
+                "id": "d5f3eabf8b1c9bef94510dae45138590b7143950ba4226015c20c6621278d882",
+                "score": 0.0063635735,
+                "excerpt": "any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available to a body corporate, is capable of identifying such person.\nSPI Rules further define “Sensitive Personal Data or Information” of a person to mean personal information about that person relating to:\n- passwords;\n- financial information such as bank accounts, credit, and debit card details or other payment instrument details;\n- physical, ...",
+                "url": "https://www.pregamie.com/user/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466716476,
+            "url": "https://www.pregamie.com/user/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "N/A"
+                }
+            },
+            "analysis": "The privacy policy mentions that PregAmie may collect information from users that falls under 'personal information' or 'sensitive personal data or information'. This indicates that data sharing with third parties may occur, but specific third parties are not disclosed in the provided policy.",
+            "reference": "N/A. URL: https://www.pregamie.com/user/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "d5f3eabf8b1c9bef94510dae45138590b7143950ba4226015c20c6621278d882",
+                "score": 0.011201214,
+                "excerpt": "any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available to a body corporate, is capable of identifying such person.\nSPI Rules further define “Sensitive Personal Data or Information” of a person to mean personal information about that person relating to:\n- passwords;\n- financial information such as bank accounts, credit, and debit card details or other payment instrument details;\n- physical, ...",
+                "url": "https://www.pregamie.com/user/privacy"
+            },
+            {
+                "id": "3e0987e73b6dfa6de81da9e857d7812cee63c7ee50130ae3adc2eb0dfdbcf80b",
+                "score": 0.0065897717,
+                "excerpt": "Generally, some of the Services require us to know who you are so that we can best meet your needs. When you access the Services, or through any interaction with us via emails, telephone calls or other correspondence, we may ask you to voluntarily provide us with certain information that personally identifies you or could be used to personally identify you. You hereby consent to the collection of such information by PregAmie. Without prejudice to the generality of the above, information collecte...",
+                "url": "https://www.pregamie.com/user/privacy"
+            }
+        ]
+    }
+]

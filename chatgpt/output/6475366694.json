@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6475366694,
+      "url": "https://www.getaware.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal information is collected from users when they register, place orders, sign up for newsletters, contact the company, or participate in promotions or surveys. Additionally, it collects information automatically when users visit the platform, including IP address, browser type, and browsing behavior.",
+        "simple_answer": "Yes, the app collects data from users.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of information collected from users, both actively and passively.",
+          "content": "The app collects personal information when users register, make purchases, or interact with the platform, and it also collects data automatically such as IP addresses and browsing behavior."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the data collection practices of the app, ensuring transparency for users regarding what information is collected and how it is used.",
+      "reference": "Information You Provide; Information We Collect Automatically"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475366694,
+      "url": "https://www.getaware.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information such as your name, gender, email address, mailing address, billing address, telephone number, date of birth, insurance information, and payment method. Additionally, it collects information automatically, including your IP address, browser type, operating system, device-identifying information, web pages visited, and browsing behavior.",
+        "simple_answer": "The app collects personal information and automatically collected data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both personal information you provide and data collected automatically during your use of the platform.",
+          "content": "Personal information includes name, email, address, and payment details. Automatically collected data includes IP address, browser type, and browsing behavior."
+        }
+      },
+      "analysis": "",
+      "reference": "Information You Provide; Information We Collect Automatically"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475366694,
+      "url": "https://www.getaware.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected may be used to fulfill requests for services, inform users of services and promotions, customize content, conduct data analysis, and provide interest-based advertising, among other purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for which user data is collected and utilized.",
+          "content": "The information may be used to fulfill requests for services, respond to inquiries, inform users of services and promotions, customize content, conduct data analysis, identify usage trends, and provide interest-based advertising."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475366694,
+      "url": "https://www.getaware.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of receiving communications about special offers and promotions by following the opt-out instructions provided. Additionally, individuals in certain jurisdictions may have the right to opt-in or withdraw consent for certain uses of their data, as detailed in the Access, Correction, & Deletion section of the privacy policy.",
+        "simple_answer": "Yes, users can opt out of communications and may have rights to withdraw consent for data use.",
+        "extended_simple_answer": {
+          "comment": "Users have options regarding their data and communications.",
+          "content": "Users can unsubscribe from emails and may have rights to opt-in or withdraw consent for data collection in certain jurisdictions."
+        }
+      },
+      "analysis": "",
+      "reference": "Access, Correction, & Deletion section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475366694,
+      "url": "https://www.getaware.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. The privacy policy states that information may be disclosed to third parties for various purposes, including to fulfill requests for services, to inform users of services and promotions, and for interest-based advertising.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app may share your information with trusted partners and for advertising purposes.",
+          "content": "The app may share your information with third parties to fulfill requests for services, inform you of services and promotions, and provide interest-based advertising."
+        }
+      },
+      "analysis": "",
+      "reference": "Disclosure of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475366694,
+      "url": "https://www.getaware.ai/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share your information with third-party service providers that assist in tracking, collecting, and analyzing information. Additionally, it may share information with trusted partners for marketing offers and other communications.",
+        "simple_answer": "The app shares data with third-party service providers and trusted partners.",
+        "extended_simple_answer": {
+          "comment": "The specific third parties are not named, but they include service providers and marketing partners.",
+          "content": "The app may share your information with third-party service providers that assist in tracking, collecting, and analyzing information. Additionally, it may share information with trusted partners for marketing offers and other communications."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing with Third Parties"
+    }
+  }
+]

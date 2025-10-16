@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1289018369,
+      "url": "https://www.rootd.io/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects various types of personal data, including identification data, stats page data, communication data, social media data, internet activity data, device data, usage data, location data, and email open/click data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The app collects personal data you provide, such as your email address and name, as well as data related to your usage of the service, including internet activity and device data."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected from users, ensuring transparency about data practices.",
+      "reference": "Section 1: What Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1289018369,
+      "url": "https://www.rootd.io/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including Personal Data such as Identification Data (email address, name, password, phone number), Stats Page Data (information about panic attacks conquered, warrior points, etc.), Communication Data (information from user interactions), Social Media Data (data from interactions on social media), Anxiety Check-In data, Internet Activity Data (log data, cookies data, device data, usage data, location data, email open/click data), and it does not collect Payment Card data directly.",
+        "simple_answer": "The app collects Personal Data, Stats Page Data, Communication Data, Social Media Data, Anxiety Check-In data, Internet Activity Data, and does not collect Payment Card data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to enhance user experience and provide services.",
+          "content": "Types of data collected include: Identification Data, Stats Page Data, Communication Data, Social Media Data, Anxiety Check-In data, Internet Activity Data (including log data, cookies data, device data, usage data, location data, email open/click data)."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: What Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1289018369,
+      "url": "https://www.rootd.io/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It explains that the information collected is used to identify users, provide the Service, improve user experience, and for communication purposes. Specific purposes include managing panic attacks and anxiety, providing features like the anxiety check-in, and gathering feedback through surveys.",
+        "simple_answer": "Yes, the app states the purposes for data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, emphasizing user support and service improvement.",
+          "content": "The app collects data to identify users, enhance the Service, and communicate effectively. It also mentions specific features like the anxiety check-in and the collection of feedback."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: What Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1289018369,
+      "url": "https://www.rootd.io/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not providing personal data or by contacting Rootd to request deletion of their data. The privacy policy indicates that users have the option to provide information voluntarily and can also contact the company for inquiries regarding their data.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal data and can choose not to provide it.",
+          "content": "The policy states that providing certain information is optional, and users can contact Rootd for data deletion requests."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal data, allowing for opt-out options and data deletion requests.",
+      "reference": "1. What Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1289018369,
+      "url": "https://www.rootd.io/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. Specifically, Rootd may report aggregate, anonymized data or member level data to organizations if you are a member through a Community Subscription. Additionally, Rootd partners with third parties, such as Facebook and Google, to manage advertising of the Service on other sites or platforms, which may involve sharing data about your activities.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Rootd shares data primarily in aggregate or anonymized forms, and for advertising purposes.",
+          "content": "Rootd may report aggregate, anonymized data or member level data to organizations if you are a member through a Community Subscription. They also partner with third parties for advertising, which involves sharing data about user activities."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: What Data We Collect; How We Share Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1289018369,
+      "url": "https://www.rootd.io/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties such as payment processors like Apple, Google, and Stripe for processing payments. Additionally, it partners with third parties like Facebook and Google for advertising purposes, which may involve sharing data about user activities.",
+        "simple_answer": "The app shares data with payment processors and advertising partners.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with various third parties for payment processing and advertising.",
+          "content": "Payment processors include Apple, Google, and Stripe. Advertising partners include Facebook and Google."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: What Data We Collect"
+    }
+  }
+]

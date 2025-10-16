@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1500085577,
+      "url": "https://sona.care/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that by downloading, registering with, or using the app, users consent to the collection of personal information as described in the privacy policy. The policy details the types of information collected, including device information and order information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the user's consent to this collection.",
+          "content": "The app collects device information and order information, and users consent to this collection by using the app."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the data collection practices and emphasizes user consent, ensuring transparency regarding the handling of personal information.",
+      "reference": "Section 1 - What do we collect? What do we do with your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1500085577,
+      "url": "https://sona.care/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects two main types of data: 'device information' and 'order information'. Device information includes details such as traffic data, location data, logs, unique device identification number, IP address, mobile network information, and cookies. Order information includes personally identifying data such as name, billing address, shipping address, email address, and phone number.",
+        "simple_answer": "The app collects device information and order information.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to enhance user experience and ensure security.",
+          "content": "Device information includes traffic data, location data, logs, unique device identification number, IP address, mobile network information, and cookies. Order information includes name, billing address, shipping address, email address, and phone number."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1 - What do we collect? What do we do with your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1500085577,
+      "url": "https://sona.care/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information may be used for various purposes, including providing, maintaining, and improving the app and products, managing accounts, responding to inquiries, communicating about offers, monitoring trends, detecting fraud, personalizing the app, facilitating promotions, and carrying out any other purpose for which the information was collected.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines multiple purposes for data collection.",
+          "content": "The purposes include improving the app, managing accounts, customer service, communication about products, monitoring usage trends, fraud detection, personalization, and more."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1 - What do we collect? What do we do with your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1500085577,
+      "url": "https://sona.care/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can withdraw their consent for the continued collection, use, or disclosure of their information at any time by contacting the company via email. Additionally, users can opt out of marketing emails by clicking the 'unsubscribe' link in the emails they receive.",
+        "simple_answer": "Yes, users can opt out of data collection and marketing emails.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to withdraw consent and opt out of marketing communications.",
+          "content": "Users may withdraw their consent for data collection by contacting the company via email at pineallabs@gmail.com. They can also opt out of marketing emails by using the 'unsubscribe' link provided in those emails."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2 – Consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 1500085577,
+      "url": "https://sona.care/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, rent, share, or otherwise distribute your personal information to third parties outside of its group of companies without your consent. However, it may access, use, preserve, and disclose your personal information to third parties if it believes in good faith that it is reasonably necessary to comply with applicable laws, protect safety, detect fraud, enforce terms of service, or protect its rights or property.",
+        "simple_answer": "No, the app does not share data with third parties without consent, except under certain circumstances.",
+        "extended_simple_answer": {
+          "comment": "The app has strict policies regarding the sharing of personal information.",
+          "content": "It may share data to comply with laws, protect safety, or prevent fraud."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3 - Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1500085577,
+      "url": "https://sona.care/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not sell, rent, share, or otherwise distribute personal information to third parties outside of its group of companies without consent. However, it may access, use, preserve, and disclose personal information to third parties if it believes in good faith that it is reasonably necessary to comply with applicable laws, protect safety, detect fraud, enforce terms of service, or protect its rights or property.",
+        "simple_answer": "The app does not share data with third parties without consent, except for legal and safety reasons.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to protecting user privacy and only shares data under specific circumstances.",
+          "content": "The app may disclose personal information to comply with laws, protect safety, detect fraud, enforce terms, or protect its rights."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3 - Disclosure"
+    }
+  }
+]

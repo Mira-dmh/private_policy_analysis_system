@@ -1,0 +1,183 @@
+[
+    {
+        "meta": {
+            "id": 1564740564,
+            "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "N/A",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "Upon reviewing the privacy policy document, it does not explicitly declare the collection of data by the app.",
+            "reference": "N/A. URL: https://m-path.io/LegalPage/legal.html#privacyApp"
+        },
+        "source_documents": [
+            {
+                "id": "412ad2c9ab59d2621226356cad8d3e2b532f14eb3be9eeb90703a44b3e1de8ec",
+                "score": 0.0010484692,
+                "excerpt": "(*) Please note that before the end of September, we plan to migrate our data and hosting from the KU Leuven servers to European servers of Microsoft Azure. We are aiming to complete this transition without noticeable downtime for the platform, so ongoing work should not be impacted.\nThese legal documents provide the terms and conditions, and privacy statements for the m-Path app as well as the online dashboard. The m-Path app is the mobile application used by clients or participants. The online...",
+                "url": "https://m-path.io/LegalPage/legal.html#privacyApp"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1564740564,
+            "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app may collect the following types of data: personal identification information, including name, email address, phone number, and usage data related to the app.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "personal identification information",
+                        "usage data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states the types of data that the app may collect, including personal identification information and usage data.",
+            "reference": "Personal identification information means data that can be used to identify an individual uniquely or contact a specific person, including name, email address, phone number. URL: https://m-path.io/LegalPage/legal.html#privacyApp"
+        },
+        "source_documents": [
+            {
+                "id": "412ad2c9ab59d2621226356cad8d3e2b532f14eb3be9eeb90703a44b3e1de8ec",
+                "score": 0.002889581,
+                "excerpt": "(*) Please note that before the end of September, we plan to migrate our data and hosting from the KU Leuven servers to European servers of Microsoft Azure. We are aiming to complete this transition without noticeable downtime for the platform, so ongoing work should not be impacted.\nThese legal documents provide the terms and conditions, and privacy statements for the m-Path app as well as the online dashboard. The m-Path app is the mobile application used by clients or participants. The online...",
+                "url": "https://m-path.io/LegalPage/legal.html#privacyApp"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1564740564,
+            "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The answer is derived from the privacy policy section likely detailing the purpose of data collection and usage by the app.",
+            "reference": "When downloading or using the app, you acknowledge and agree that your information may be collected by m-Path. URL: https://m-path.io/LegalPage/legal.html#privacyApp"
+        },
+        "source_documents": [
+            {
+                "id": "412ad2c9ab59d2621226356cad8d3e2b532f14eb3be9eeb90703a44b3e1de8ec",
+                "score": 0.0016040893,
+                "excerpt": "(*) Please note that before the end of September, we plan to migrate our data and hosting from the KU Leuven servers to European servers of Microsoft Azure. We are aiming to complete this transition without noticeable downtime for the platform, so ongoing work should not be impacted.\nThese legal documents provide the terms and conditions, and privacy statements for the m-Path app as well as the online dashboard. The m-Path app is the mobile application used by clients or participants. The online...",
+                "url": "https://m-path.io/LegalPage/legal.html#privacyApp"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1564740564,
+            "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "No explicit information was found in the privacy policy regarding the user being able to opt out of data collection or delete data.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "After thoroughly reviewing the privacy policy document, there was no clear indication provided about the user's ability to opt out of data collection or delete their data.",
+            "reference": "N/A. URL: https://m-path.io/LegalPage/legal.html#privacyApp"
+        },
+        "source_documents": [
+            {
+                "id": "412ad2c9ab59d2621226356cad8d3e2b532f14eb3be9eeb90703a44b3e1de8ec",
+                "score": 0.0021489493,
+                "excerpt": "(*) Please note that before the end of September, we plan to migrate our data and hosting from the KU Leuven servers to European servers of Microsoft Azure. We are aiming to complete this transition without noticeable downtime for the platform, so ongoing work should not be impacted.\nThese legal documents provide the terms and conditions, and privacy statements for the m-Path app as well as the online dashboard. The m-Path app is the mobile application used by clients or participants. The online...",
+                "url": "https://m-path.io/LegalPage/legal.html#privacyApp"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1564740564,
+            "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "Based on the privacy policy document, the app does not share data with third parties.",
+            "reference": "N/A. URL: https://m-path.io/LegalPage/legal.html#privacyApp"
+        },
+        "source_documents": [
+            {
+                "id": "412ad2c9ab59d2621226356cad8d3e2b532f14eb3be9eeb90703a44b3e1de8ec",
+                "score": 0.011642224,
+                "excerpt": "(*) Please note that before the end of September, we plan to migrate our data and hosting from the KU Leuven servers to European servers of Microsoft Azure. We are aiming to complete this transition without noticeable downtime for the platform, so ongoing work should not be impacted.\nThese legal documents provide the terms and conditions, and privacy statements for the m-Path app as well as the online dashboard. The m-Path app is the mobile application used by clients or participants. The online...",
+                "url": "https://m-path.io/LegalPage/legal.html#privacyApp"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1564740564,
+            "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties for data processing, analytics, and service improvements.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Data processing companies",
+                        "Analytics providers",
+                        "Cloud service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app may share data with third-party service providers for various purposes.",
+            "reference": "Our app may share information with third-party data processing companies, analytics providers, and cloud service providers for data processing, analytics, and service improvements. URL: https://m-path.io/LegalPage/legal.html#privacyApp"
+        },
+        "source_documents": [
+            {
+                "id": "412ad2c9ab59d2621226356cad8d3e2b532f14eb3be9eeb90703a44b3e1de8ec",
+                "score": 0.0065897717,
+                "excerpt": "(*) Please note that before the end of September, we plan to migrate our data and hosting from the KU Leuven servers to European servers of Microsoft Azure. We are aiming to complete this transition without noticeable downtime for the platform, so ongoing work should not be impacted.\nThese legal documents provide the terms and conditions, and privacy statements for the m-Path app as well as the online dashboard. The m-Path app is the mobile application used by clients or participants. The online...",
+                "url": "https://m-path.io/LegalPage/legal.html#privacyApp"
+            }
+        ]
+    }
+]

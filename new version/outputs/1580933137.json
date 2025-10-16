@@ -1,0 +1,338 @@
+[
+    {
+        "meta": {
+            "id": 1580933137,
+            "url": "https://www.onvy.health/privacy-app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data is collected when using the app, and it details the types of data collected and the purposes for which they are processed.",
+            "reference": "In the following, we provide information about the collection of personal data when using our mobile app (hereinafter only 'App'). Personal data is any data that can be related to a specific natural person, such as their name or IP address. URL: https://www.onvy.health/privacy-app"
+        },
+        "source_documents": [
+            {
+                "id": "6b3c2156ce6191e17526ef8d2fd297f12bdf24273bfad7e55b95cf10ed966a59",
+                "score": 0.98544043,
+                "excerpt": "PRIVACY POLICY MOBILE APP\n1. Introduction\nIn the following, we provide information about the collection of personal data when using our mobile app (hereinafter only \"App\").\nPersonal data is any data that can be related to a specific natural person, such as their name or IP address.\n1.1. Contact details\nThe controller within the meaning of Art. 4 (7) EU General Data Protection Regulation (GDPR) is Onvy HealthTech Group GmbH, Schloßstraße 19, 82031 Grünwald, Germany, email: contact@onvy.health. We...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "fbf084946c196f2b178631f822d40e980ff87c0af992c66272f85372295945b4",
+                "score": 0.5330329,
+                "excerpt": "is required by law.\n1.8. Making contact\nWhen contacting us, e.g. by e-mail or telephone, the data provided to us (e.g. names and e-mail addresses) will be stored by us in order to answer questions. The legal basis for the processing is our legitimate interest (Art. 6 para. 1 s. 1 lit. f GDPR) to answer inquiries directed to us. We delete the data accruing in this context after the storage is no longer necessary or restrict the processing if there are legal retention obligations.\n2. Data processi...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "e0a57b5e576be2f134cfe5546e3276410a4b493fafbc97148dd2170c07c36777",
+                "score": 0.352759,
+                "excerpt": "mobile app to the user's mobile device.\nUsers can also download this mobile app directly to their mobile device via our website. When downloading, further user data is processed via the website, which we inform about in the privacy policy of our website.\n2.2. Hosting\nOur app is hosted by Amazon Web Services. The provider thereby processes the personal data transmitted via the app, e.g. on content, usage, meta/communication data or contact data. It is our legitimate interest to provide an app, so...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "60cd89244c317e1ea2223699737670b32b8955d1f81c3a22c859597fc7c70c07",
+                "score": 0.17314835,
+                "excerpt": "agreement concluded with the user via the app.\nThe data processed to this extent are\n● Only the data entered into the app by the user themselves\n● Public IP address to get the ap. location for weather data, .\n2.6. User account\nUsers can open a user account in the app. We process the data requested in this context to fulfill the respective user contract concluded for the account, so that the legal basis for the processing is Art. 6 para. 1 s. 1 lit. b GDPR. We delete the data when users delete th...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "8cb29d02dd8011819a25080bd7cdc488b22ec054bea77fde00b25c6de626c705",
+                "score": 0.029986508,
+                "excerpt": "in our applications and on our websites. The provider is RevenueCat, Inc., headquartered in the USA. RevenueCat acts as a data processor under the General Data Protection Regulation (GDPR), while we act as the data controller. This means we are responsible for disclosing and protecting the personal data we transmit to RevenueCat.\nRevenueCat processes usage data (e.g., visited websites, content interests, access times), content data (e.g., inputs in online forms), and meta/communication data (e.g...",
+                "url": "https://www.onvy.health/privacy-app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1580933137,
+            "url": "https://www.onvy.health/privacy-app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects IP address, date and time of the request, time zone difference, content of the request, access status, amount of data transferred, operating system details, language and version of the operating system, data entered by the user themselves, and the public IP address.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "IP address",
+                        "Date and time of the request",
+                        "Time zone difference from Greenwich Mean Time (GMT)",
+                        "Content of the request",
+                        "Access status/HTTP status code",
+                        "Amount of data transferred",
+                        "Operating system and its interface",
+                        "Language and version of the operating system",
+                        "Data entered into the app by the user themselves",
+                        "Public IP address"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document clearly outlines the types of data collected by the app under different usage scenarios, ensuring transparency for users.",
+            "reference": "URL: https://www.onvy.health/privacy-app"
+        },
+        "source_documents": [
+            {
+                "id": "6b3c2156ce6191e17526ef8d2fd297f12bdf24273bfad7e55b95cf10ed966a59",
+                "score": 0.91700584,
+                "excerpt": "PRIVACY POLICY MOBILE APP\n1. Introduction\nIn the following, we provide information about the collection of personal data when using our mobile app (hereinafter only \"App\").\nPersonal data is any data that can be related to a specific natural person, such as their name or IP address.\n1.1. Contact details\nThe controller within the meaning of Art. 4 (7) EU General Data Protection Regulation (GDPR) is Onvy HealthTech Group GmbH, Schloßstraße 19, 82031 Grünwald, Germany, email: contact@onvy.health. We...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "fbf084946c196f2b178631f822d40e980ff87c0af992c66272f85372295945b4",
+                "score": 0.5776145,
+                "excerpt": "is required by law.\n1.8. Making contact\nWhen contacting us, e.g. by e-mail or telephone, the data provided to us (e.g. names and e-mail addresses) will be stored by us in order to answer questions. The legal basis for the processing is our legitimate interest (Art. 6 para. 1 s. 1 lit. f GDPR) to answer inquiries directed to us. We delete the data accruing in this context after the storage is no longer necessary or restrict the processing if there are legal retention obligations.\n2. Data processi...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "e0a57b5e576be2f134cfe5546e3276410a4b493fafbc97148dd2170c07c36777",
+                "score": 0.53184766,
+                "excerpt": "mobile app to the user's mobile device.\nUsers can also download this mobile app directly to their mobile device via our website. When downloading, further user data is processed via the website, which we inform about in the privacy policy of our website.\n2.2. Hosting\nOur app is hosted by Amazon Web Services. The provider thereby processes the personal data transmitted via the app, e.g. on content, usage, meta/communication data or contact data. It is our legitimate interest to provide an app, so...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "60cd89244c317e1ea2223699737670b32b8955d1f81c3a22c859597fc7c70c07",
+                "score": 0.50519925,
+                "excerpt": "agreement concluded with the user via the app.\nThe data processed to this extent are\n● Only the data entered into the app by the user themselves\n● Public IP address to get the ap. location for weather data, .\n2.6. User account\nUsers can open a user account in the app. We process the data requested in this context to fulfill the respective user contract concluded for the account, so that the legal basis for the processing is Art. 6 para. 1 s. 1 lit. b GDPR. We delete the data when users delete th...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "8cb29d02dd8011819a25080bd7cdc488b22ec054bea77fde00b25c6de626c705",
+                "score": 0.18097353,
+                "excerpt": "in our applications and on our websites. The provider is RevenueCat, Inc., headquartered in the USA. RevenueCat acts as a data processor under the General Data Protection Regulation (GDPR), while we act as the data controller. This means we are responsible for disclosing and protecting the personal data we transmit to RevenueCat.\nRevenueCat processes usage data (e.g., visited websites, content interests, access times), content data (e.g., inputs in online forms), and meta/communication data (e.g...",
+                "url": "https://www.onvy.health/privacy-app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1580933137,
+            "url": "https://www.onvy.health/privacy-app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as it states the scope of data processing, processing purposes, and legal bases, including informative use of the app, access to functions or data, hosting, user account, and processing of health data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the purposes of data collection and use, stating the legal bases for processing personal data and specifying different activities within the app for which data is collected and processed.",
+            "reference": "The app declares the purpose of data collection and use by detailing the scope of data processing, processing purposes, and legal bases. It includes sections on informative use of the app, access to functions or data, hosting, user account, and processing of health data. URL: https://www.onvy.health/privacy-app"
+        },
+        "source_documents": [
+            {
+                "id": "6b3c2156ce6191e17526ef8d2fd297f12bdf24273bfad7e55b95cf10ed966a59",
+                "score": 0.276007,
+                "excerpt": "PRIVACY POLICY MOBILE APP\n1. Introduction\nIn the following, we provide information about the collection of personal data when using our mobile app (hereinafter only \"App\").\nPersonal data is any data that can be related to a specific natural person, such as their name or IP address.\n1.1. Contact details\nThe controller within the meaning of Art. 4 (7) EU General Data Protection Regulation (GDPR) is Onvy HealthTech Group GmbH, Schloßstraße 19, 82031 Grünwald, Germany, email: contact@onvy.health. We...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "e0a57b5e576be2f134cfe5546e3276410a4b493fafbc97148dd2170c07c36777",
+                "score": 0.19513355,
+                "excerpt": "mobile app to the user's mobile device.\nUsers can also download this mobile app directly to their mobile device via our website. When downloading, further user data is processed via the website, which we inform about in the privacy policy of our website.\n2.2. Hosting\nOur app is hosted by Amazon Web Services. The provider thereby processes the personal data transmitted via the app, e.g. on content, usage, meta/communication data or contact data. It is our legitimate interest to provide an app, so...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "2a862cb097a055ab9899242f36fab5ce10ed6820697a7576870b92910efeb4cf",
+                "score": 0.08632348,
+                "excerpt": "GDPR, as we have a legitimate interest in monitoring the functionality and security of our applications.\nThe data will be deleted once the purpose of their collection is no longer applicable and no legal retention requirements exist. More information can be found in the provider’s privacy policy at https://sentry.io/privacy/.\n2.10.6. Terra\nWe use Terra to integrate data from wearables and other health devices into our applications and websites. The provider is Terra Enabling Developers, Inc., he...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "fbf084946c196f2b178631f822d40e980ff87c0af992c66272f85372295945b4",
+                "score": 0.06644793,
+                "excerpt": "is required by law.\n1.8. Making contact\nWhen contacting us, e.g. by e-mail or telephone, the data provided to us (e.g. names and e-mail addresses) will be stored by us in order to answer questions. The legal basis for the processing is our legitimate interest (Art. 6 para. 1 s. 1 lit. f GDPR) to answer inquiries directed to us. We delete the data accruing in this context after the storage is no longer necessary or restrict the processing if there are legal retention obligations.\n2. Data processi...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "60cd89244c317e1ea2223699737670b32b8955d1f81c3a22c859597fc7c70c07",
+                "score": 0.058453243,
+                "excerpt": "agreement concluded with the user via the app.\nThe data processed to this extent are\n● Only the data entered into the app by the user themselves\n● Public IP address to get the ap. location for weather data, .\n2.6. User account\nUsers can open a user account in the app. We process the data requested in this context to fulfill the respective user contract concluded for the account, so that the legal basis for the processing is Art. 6 para. 1 s. 1 lit. b GDPR. We delete the data when users delete th...",
+                "url": "https://www.onvy.health/privacy-app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1580933137,
+            "url": "https://www.onvy.health/privacy-app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection and request data deletion by contacting the provider.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can revoke their consent for data processing at any time by contacting the provider. It further mentions that data will be deleted when its purpose no longer applies and there is no legal obligation to retain it.",
+            "reference": "Data subjects may revoke their consent at any time by contacting us, for example, using the contact details provided in our privacy policy. The data will be deleted when the purpose for which it was collected no longer applies and there is no obligation to retain it. Further information is available in the provider's privacy policy at https://www.onvy.health/privacy-app."
+        },
+        "source_documents": [
+            {
+                "id": "f51701cece962553510f72aac3fde8e120f0482299263be1c9985b8fec4710b7",
+                "score": 0.567637,
+                "excerpt": "at any time by contacting us, for example, using the contact details provided in our privacy policy. The revocation does not affect the lawfulness of the processing until the revocation.\nThe data will be deleted when the purpose for which it was collected no longer applies and there is no obligation to retain it. Further information is available in the provider's privacy policy at https://firebase.google.com/support/privacy.\n2.10.4. YouTube Videos\nWe use YouTube Videos to share interests in soci...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "bfaab687f400da73cd596f693bb80241a13856da9b21e3379dd9718b3910e76a",
+                "score": 0.43074587,
+                "excerpt": "38 avenue John F. Kennedy, L-1855, Luxemburg. The provider processes usage data (e.g. web pages visited, interest in content, access times) and meta/communication data (e.g. device information, IP addresses) in the EU.\nThe legal basis for the processing is Art. 6 para. 1 s. 1 lit. f GDPR. We have a legitimate interest in maintaining a modern and cost-effective hosting environment.\nThe data will be deleted when the purpose for which it was collected no longer applies and there is no obligation to...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "b0c889f1bd8375202b42305d05d56e6b256b2355f04cfb343ccb330b378addee",
+                "score": 0.39589298,
+                "excerpt": "takes place for the performance of the contract concluded with the respective user (Art. 6 para. 1 s. 1 lit. b GDPR).\n2.10. Third-party tools\n2.10.1. AppsFlyer\nWe use AppsFlyer for analytics. The provider is AppsFlyer Ltd., 14 Maskit St., Herziliya, Israel. The provider processes usage data (e.g. web pages visited, interest in content, access times) and meta/communication data (e.g. device information, IP addresses) in the EU.\nThe legal basis for the processing is Art. 6 para. 1 s. 1 lit. a GDPR...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "3a6f71a62e0681ae5176595887ce5eddbe89af678169d2b855464812fefe2d3c",
+                "score": 0.2923932,
+                "excerpt": "protect the data. These include, for example, guarantees regarding the encryption of data or regarding an obligation on the part of the third party to notify data subjects if law enforcement agencies wish to access the respective data.\n1.4. Storage duration\nUnless expressly stated in this privacy policy, the data stored by us will be deleted as soon as they are no longer required for their intended purpose and no legal obligations to retain data conflict with the deletion. If the data are not de...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "01280087931eeeee39ece0ee02c10ba6a045ded5dbae520ca015ab9f27f0e164",
+                "score": 0.14767806,
+                "excerpt": "any time.\nData subjects also have the right to complain to a data protection supervisory authority about the processing of their personal data. Contact details of the data protection supervisory authorities are available at https://www.bfdi.bund.de/EN/Service/Anschriften/Laender/Laender-node.html.\n1.6. Obligation to provide data\nWithin the scope of the business or other relationship, customers, prospective customers or third parties need to provide us with personal data that is necessary for the...",
+                "url": "https://www.onvy.health/privacy-app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1580933137,
+            "url": "https://www.onvy.health/privacy-app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as indicated in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties as described in the document.",
+            "reference": "The app shares data with third-party service providers such as Apple Inc., Google Ireland Limited, AppsFlyer Ltd., and Amazon Web Services EMEA Sarl. URL: https://www.onvy.health/privacy-app"
+        },
+        "source_documents": [
+            {
+                "id": "6abe22a98cbc818cb1acdfcbf75a82df2ca3ed04e56ce5d0ea82e4fba352db48",
+                "score": 0.46965706,
+                "excerpt": "from the provider that the user is logged in to the provider and the provider receives information that the user is using the single sign-on procedure in our app. Depending on the user's settings in his account on the provider's site, additional information may be provided to us by the provider. The legal basis for this processing is Art. 6 para. 1 sentence 1 lit. f GDPR. We have a legitimate interest in providing users with a simple log-in option. At the same time, the interests of the users ar...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "b0c889f1bd8375202b42305d05d56e6b256b2355f04cfb343ccb330b378addee",
+                "score": 0.2594502,
+                "excerpt": "takes place for the performance of the contract concluded with the respective user (Art. 6 para. 1 s. 1 lit. b GDPR).\n2.10. Third-party tools\n2.10.1. AppsFlyer\nWe use AppsFlyer for analytics. The provider is AppsFlyer Ltd., 14 Maskit St., Herziliya, Israel. The provider processes usage data (e.g. web pages visited, interest in content, access times) and meta/communication data (e.g. device information, IP addresses) in the EU.\nThe legal basis for the processing is Art. 6 para. 1 s. 1 lit. a GDPR...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "60cd89244c317e1ea2223699737670b32b8955d1f81c3a22c859597fc7c70c07",
+                "score": 0.14463145,
+                "excerpt": "agreement concluded with the user via the app.\nThe data processed to this extent are\n● Only the data entered into the app by the user themselves\n● Public IP address to get the ap. location for weather data, .\n2.6. User account\nUsers can open a user account in the app. We process the data requested in this context to fulfill the respective user contract concluded for the account, so that the legal basis for the processing is Art. 6 para. 1 s. 1 lit. b GDPR. We delete the data when users delete th...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "a0a39fa8a70d32cd08c06bb585d229ba17f6bf97fe8769fd7bf967c0c7841217",
+                "score": 0.12962294,
+                "excerpt": "legal basis for the transfer to a country outside the EEA are adequacy decision. The security of the data transferred to the third country (i.e. a country outside the EEA) is guaranteed because the EU Commission has decided as part of an adequacy decision in accordance with Art. 45 para. 3 GDPR that the third country ensures an adequate level of protection.\nWe delete the data when the purpose for which it was collected no longer applies. Further information is available in the provider's privacy...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "f83e6e1a5169906cfdb0b7b313b5e02850e557db6bb3643597d6d535aa3eccf4",
+                "score": 0.08137364,
+                "excerpt": "Mean Time (GMT)\n● Content of the request (concrete interface)\n● Access status/HTTP status code\n● Amount of data transferred in each case\n● Operating system and its interface\n● Language and version of the operating system\n2.4. Access to functions or data\nThe app requests the user's access to functions of the end device or to data of the device in order to be able to execute functions of the app. By allowing access, the user gives consent to the associated data processing, so that the legal basis ...",
+                "url": "https://www.onvy.health/privacy-app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1580933137,
+            "url": "https://www.onvy.health/privacy-app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Apple Inc., Google Ireland Limited, AppsFlyer Ltd., Amazon Web Services EMEA Sarl, Terra Enabling Developers, Inc., and PostHog.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Apple Inc.",
+                        "Google Ireland Limited",
+                        "AppsFlyer Ltd.",
+                        "Amazon Web Services EMEA Sarl",
+                        "Terra Enabling Developers, Inc.",
+                        "PostHog"
+                    ]
+                }
+            },
+            "analysis": "The information in the privacy policy clearly states the third-party providers with whom the app shares data.",
+            "reference": "Providers of the offered method(s) are: Apple Inc., Google Ireland Limited, AppsFlyer Ltd., and Amazon Web Services EMEA Sarl. In addition, the app uses Terra Enabling Developers, Inc. and PostHog for data integration and product analytics, respectively. URL: https://www.onvy.health/privacy-app"
+        },
+        "source_documents": [
+            {
+                "id": "6abe22a98cbc818cb1acdfcbf75a82df2ca3ed04e56ce5d0ea82e4fba352db48",
+                "score": 0.7129322,
+                "excerpt": "from the provider that the user is logged in to the provider and the provider receives information that the user is using the single sign-on procedure in our app. Depending on the user's settings in his account on the provider's site, additional information may be provided to us by the provider. The legal basis for this processing is Art. 6 para. 1 sentence 1 lit. f GDPR. We have a legitimate interest in providing users with a simple log-in option. At the same time, the interests of the users ar...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "b0c889f1bd8375202b42305d05d56e6b256b2355f04cfb343ccb330b378addee",
+                "score": 0.6759785,
+                "excerpt": "takes place for the performance of the contract concluded with the respective user (Art. 6 para. 1 s. 1 lit. b GDPR).\n2.10. Third-party tools\n2.10.1. AppsFlyer\nWe use AppsFlyer for analytics. The provider is AppsFlyer Ltd., 14 Maskit St., Herziliya, Israel. The provider processes usage data (e.g. web pages visited, interest in content, access times) and meta/communication data (e.g. device information, IP addresses) in the EU.\nThe legal basis for the processing is Art. 6 para. 1 s. 1 lit. a GDPR...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "199c89e360b80d70881272b6dca9fdb9a2d9f5b2768102e22d8e08972e7da8ed",
+                "score": 0.35420963,
+                "excerpt": "the EEA\nInsofar as we transfer data to service providers or other third parties outside the EEA, the security of the data during the transfer is guaranteed by adequacy decisions of the EU Commission, insofar as they exist (e.g. for Great Britain, Canada and Israel) (Art. 45 para. 3 GDPR).\nIn the case of data transfer to service providers in the USA, the legal basis for the data transfer is an adequacy decision of the EU Commission if the service provider has also certified itself under the EU US...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "60cd89244c317e1ea2223699737670b32b8955d1f81c3a22c859597fc7c70c07",
+                "score": 0.3339375,
+                "excerpt": "agreement concluded with the user via the app.\nThe data processed to this extent are\n● Only the data entered into the app by the user themselves\n● Public IP address to get the ap. location for weather data, .\n2.6. User account\nUsers can open a user account in the app. We process the data requested in this context to fulfill the respective user contract concluded for the account, so that the legal basis for the processing is Art. 6 para. 1 s. 1 lit. b GDPR. We delete the data when users delete th...",
+                "url": "https://www.onvy.health/privacy-app"
+            },
+            {
+                "id": "2a862cb097a055ab9899242f36fab5ce10ed6820697a7576870b92910efeb4cf",
+                "score": 0.28397992,
+                "excerpt": "GDPR, as we have a legitimate interest in monitoring the functionality and security of our applications.\nThe data will be deleted once the purpose of their collection is no longer applicable and no legal retention requirements exist. More information can be found in the provider’s privacy policy at https://sentry.io/privacy/.\n2.10.6. Terra\nWe use Terra to integrate data from wearables and other health devices into our applications and websites. The provider is Terra Enabling Developers, Inc., he...",
+                "url": "https://www.onvy.health/privacy-app"
+            }
+        ]
+    }
+]

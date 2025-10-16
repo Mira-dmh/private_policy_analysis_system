@@ -1,0 +1,341 @@
+[
+    {
+        "meta": {
+            "id": 6502472827,
+            "url": "https://www.acemyhealth.us/branded-app-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects various types of information from users directly or automatically.",
+            "reference": "We collect several types of information from and about users of the Mobile App... URL: https://www.acemyhealth.us/branded-app-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "7611d271b8ef97812f78e000b132c3af4cbde7b1e6d5670aa990065db95ef8f3",
+                "score": 0.120232075,
+                "excerpt": "when you provide it to us, such as when you create and account, or contact us with inquiries; and\n- automatically as you use the Mobile App. Information collected automatically may include usage details, and information collected through cookies.\nBy voluntarily providing us with any such information, you are consenting to our use of it in accordance with this Privacy Notice. You can choose not to provide us with certain information, but then you may not be able to take advantage of many features...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "2b3b7123cb0a68e9ee63287e50c4e921040807136d48ed4de0abddd3d78059a1",
+                "score": 0.06548521,
+                "excerpt": "Privacy Notice\nI. Introduction\nAceMyHealthCircle (collectively, the \"Company,\" \"we,\" \"our,\" or \"us\") knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we employ in safeguarding your personal information.\nThis Privacy Notice covers Company's treatment of information collected when you access the mobile application or any other linked pages, features, content, or application services offered from time to time...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "df8606f3b64509dec1d22e6711b83095831435479efb6ee63b2e20333b796cc5",
+                "score": 0.063831605,
+                "excerpt": "to believe that a child under the age of 18 has provided personal information to Company through this Mobile App, please contact us, and we will endeavor to delete that information from our databases.\nIV. Information We Collect and How We Collect It\nWe collect several types of information from and about users of the Mobile App, including information:\n- by which you may be personally identified, such as name, postal address, e-mail address, phone number, or any other identifier by which you may b...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "a82e8886f0d1f4b8075b7198133fa569855206a2da06345ae603553db98053b3",
+                "score": 0.036977556,
+                "excerpt": "process personal information from around the world, including from other countries in which Company has operations, in order to provide the Mobile App.\nIf you are accessing or using our Mobile App or otherwise providing personal information to us, you are agreeing and consenting to the processing of your personal information in the United States and other jurisdictions in which we operate.\nXIII. Your California Privacy Rights.\nCalifornia Civil Code Section 1798.83 permits users who are Californi...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "17bbd35d2533eaf6b3f4966562b5f6bb23bf95aa5b5e16cf0693c958222d5ded",
+                "score": 0.023109278,
+                "excerpt": "our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you must stop using the Mobile App. By accessing or using the Mobile App or using any of our services, you acknowledge that you have read and accept the practices and policies outlined in this Privacy Notice, our Terms of Use, and any other Company policies or agreements in place at that time. We reserve the right to make changes to this Privacy Notice from time to...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502472827,
+            "url": "https://www.acemyhealth.us/branded-app-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information, content submissions, preferences and demographics, geolocation, internet connection details, equipment information, account and login details, chat and email data, occupation history, date of birth, credit card information, financial and economic details, gender.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "personal information",
+                        "content submissions",
+                        "preferences and demographics",
+                        "geolocation",
+                        "internet connection details",
+                        "equipment information",
+                        "account and login details",
+                        "chat and email data",
+                        "occupation history",
+                        "date of birth",
+                        "credit card information",
+                        "financial and economic details",
+                        "gender"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section 'Information We Collect and How We Collect It' which lists the various types of information the app collects from users.",
+            "reference": "personal information, content submissions, preferences and demographics, geolocation, internet connection details, equipment information, account and login details, chat modules, messaging and email data, including related metrics, occupation history, date of birth, credit card information and other payment processing information, financial and economic information, gender URL: https://www.acemyhealth.us/branded-app-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "df8606f3b64509dec1d22e6711b83095831435479efb6ee63b2e20333b796cc5",
+                "score": 0.69904906,
+                "excerpt": "to believe that a child under the age of 18 has provided personal information to Company through this Mobile App, please contact us, and we will endeavor to delete that information from our databases.\nIV. Information We Collect and How We Collect It\nWe collect several types of information from and about users of the Mobile App, including information:\n- by which you may be personally identified, such as name, postal address, e-mail address, phone number, or any other identifier by which you may b...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "7611d271b8ef97812f78e000b132c3af4cbde7b1e6d5670aa990065db95ef8f3",
+                "score": 0.537618,
+                "excerpt": "when you provide it to us, such as when you create and account, or contact us with inquiries; and\n- automatically as you use the Mobile App. Information collected automatically may include usage details, and information collected through cookies.\nBy voluntarily providing us with any such information, you are consenting to our use of it in accordance with this Privacy Notice. You can choose not to provide us with certain information, but then you may not be able to take advantage of many features...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "17bbd35d2533eaf6b3f4966562b5f6bb23bf95aa5b5e16cf0693c958222d5ded",
+                "score": 0.04054074,
+                "excerpt": "our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you must stop using the Mobile App. By accessing or using the Mobile App or using any of our services, you acknowledge that you have read and accept the practices and policies outlined in this Privacy Notice, our Terms of Use, and any other Company policies or agreements in place at that time. We reserve the right to make changes to this Privacy Notice from time to...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "e785ce69e67a73bbdbf4f7ab7a289890450211d7d6c3a0c17aca156792186212",
+                "score": 0.029256709,
+                "excerpt": "when visiting the Mobile App. Cookies are little tags that are placed onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Cookies allows us to customize the Mobile App to your individual preferences in order to create a more personalized experience. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are rec...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "0f0784f7b7a9a59c1f05e82b666adf679241dec6a643387a59e232e1cdcd809b",
+                "score": 0.027066175,
+                "excerpt": "use information that we collect about you or that you provide to us, including any personal information:\n- To provide the Mobile App and its contents to you.\n- To process transactions and fulfill orders, including billing and collections.\n- To register a user.\n- To provide you with marketing and promotions, and for us to audit the same.\n- To provide you with information, opportunities, or services, including customer support, that you request from us.\n- To provide you with notices about your acc...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502472827,
+            "url": "https://www.acemyhealth.us/branded-app-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that data is collected for various reasons such as providing the app, processing transactions, marketing, customer support, fulfilling orders, among others.",
+            "reference": "The app collects data to provide the Mobile App and its contents to you, to process transactions and fulfill orders, and for marketing purposes. URL: https://www.acemyhealth.us/branded-app-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0f0784f7b7a9a59c1f05e82b666adf679241dec6a643387a59e232e1cdcd809b",
+                "score": 0.16830945,
+                "excerpt": "use information that we collect about you or that you provide to us, including any personal information:\n- To provide the Mobile App and its contents to you.\n- To process transactions and fulfill orders, including billing and collections.\n- To register a user.\n- To provide you with marketing and promotions, and for us to audit the same.\n- To provide you with information, opportunities, or services, including customer support, that you request from us.\n- To provide you with notices about your acc...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "a545014b1ddc12e2d488e8d0c6fc81a25a900c01938c5031e8d3e7df316a54ab",
+                "score": 0.047249712,
+                "excerpt": "disclosed by us when you provide the information.\n- To our professional advisors, including lawyers, accountants, consultants, security professionals and other similar parties when disclosure is reasonably necessary.\n- With your consent.\n- To third party advertising partners who may use data to serve ads for us and provide us with analytics.\n- To third party vendors who may use data to provide you additional services and products.\nWe may also disclose your personal information:\n- To comply with ...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "7611d271b8ef97812f78e000b132c3af4cbde7b1e6d5670aa990065db95ef8f3",
+                "score": 0.047161866,
+                "excerpt": "when you provide it to us, such as when you create and account, or contact us with inquiries; and\n- automatically as you use the Mobile App. Information collected automatically may include usage details, and information collected through cookies.\nBy voluntarily providing us with any such information, you are consenting to our use of it in accordance with this Privacy Notice. You can choose not to provide us with certain information, but then you may not be able to take advantage of many features...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "c249b63d92e5e6f2e9c867c9067dabefefc4e29f7fecd99bb55a3ff3654bef95",
+                "score": 0.043123372,
+                "excerpt": "your consent.\nYou may notify us to opt-out from receiving certain marketing emails and each marketing email will include an opt-out button or unsubscribe link.\nVI. Disclosure of Your Information\nCompany is not in the business of selling your information. We have the right to disclose aggregated information about our users, and information that does not identify any individual. We may disclose personal information that we collect or you provide in accordance with this Privacy Notice:\n- To our sub...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "a82e8886f0d1f4b8075b7198133fa569855206a2da06345ae603553db98053b3",
+                "score": 0.03615194,
+                "excerpt": "process personal information from around the world, including from other countries in which Company has operations, in order to provide the Mobile App.\nIf you are accessing or using our Mobile App or otherwise providing personal information to us, you are agreeing and consenting to the processing of your personal information in the United States and other jurisdictions in which we operate.\nXIII. Your California Privacy Rights.\nCalifornia Civil Code Section 1798.83 permits users who are Californi...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502472827,
+            "url": "https://www.acemyhealth.us/branded-app-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can notify the company to opt out of receiving certain marketing emails and each marketing email includes an opt-out button or unsubscribe link. This indicates that users have the option to opt out of data collection. Additionally, the policy also mentions that the company has the right to disclose personal information with user consent, which implies that users have control over their data.",
+            "reference": "You may notify us to opt-out from receiving certain marketing emails and each marketing email will include an opt-out button or unsubscribe link. URL: https://www.acemyhealth.us/branded-app-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c249b63d92e5e6f2e9c867c9067dabefefc4e29f7fecd99bb55a3ff3654bef95",
+                "score": 0.3709087,
+                "excerpt": "your consent.\nYou may notify us to opt-out from receiving certain marketing emails and each marketing email will include an opt-out button or unsubscribe link.\nVI. Disclosure of Your Information\nCompany is not in the business of selling your information. We have the right to disclose aggregated information about our users, and information that does not identify any individual. We may disclose personal information that we collect or you provide in accordance with this Privacy Notice:\n- To our sub...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "df8606f3b64509dec1d22e6711b83095831435479efb6ee63b2e20333b796cc5",
+                "score": 0.22253112,
+                "excerpt": "to believe that a child under the age of 18 has provided personal information to Company through this Mobile App, please contact us, and we will endeavor to delete that information from our databases.\nIV. Information We Collect and How We Collect It\nWe collect several types of information from and about users of the Mobile App, including information:\n- by which you may be personally identified, such as name, postal address, e-mail address, phone number, or any other identifier by which you may b...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "47440238035e1d7f65b755c58412a8fbd83296f3f59bc0fd419fe213ca383681",
+                "score": 0.09170696,
+                "excerpt": "use of their personal information. In summary, those rights include rights to: fair processing of information and transparency over how we use your personal information, require us to provide you with information regarding the information that we have about you and how we use that information, require us to correct any mistakes in your information which we hold, require the erasure of personal information concerning you in certain situations, and object at any time to the processing, use, and au...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "17bbd35d2533eaf6b3f4966562b5f6bb23bf95aa5b5e16cf0693c958222d5ded",
+                "score": 0.054098696,
+                "excerpt": "our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you must stop using the Mobile App. By accessing or using the Mobile App or using any of our services, you acknowledge that you have read and accept the practices and policies outlined in this Privacy Notice, our Terms of Use, and any other Company policies or agreements in place at that time. We reserve the right to make changes to this Privacy Notice from time to...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "7eb2cdfd7aef89a57114d649eefaf9027ef4d19be29ea18cab52f29643fef5ba",
+                "score": 0.04038907,
+                "excerpt": "However, any transfer of your personal information will be subject to applicable safeguards as proscribed in this Privacy Notice and as permitted under Article 46(5) and any relevant section of the GDPR that are designed to help safeguard your privacy rights and give you remedies in the unlikely event of a misuse of your personal information. To obtain a copy of such safeguards please contact us using the methods described in Section 11 of this Privacy Notice.\nIf you would like further informati...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502472827,
+            "url": "https://www.acemyhealth.us/branded-app-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app shares data with third-party advertising partners, third-party vendors, and other similar parties.",
+            "reference": "To third party advertising partners who may use data to serve ads for us and provide us with analytics. - To third party vendors who may use data to provide you additional services and products. - With your consent. URL: https://www.acemyhealth.us/branded-app-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a545014b1ddc12e2d488e8d0c6fc81a25a900c01938c5031e8d3e7df316a54ab",
+                "score": 0.8465777,
+                "excerpt": "disclosed by us when you provide the information.\n- To our professional advisors, including lawyers, accountants, consultants, security professionals and other similar parties when disclosure is reasonably necessary.\n- With your consent.\n- To third party advertising partners who may use data to serve ads for us and provide us with analytics.\n- To third party vendors who may use data to provide you additional services and products.\nWe may also disclose your personal information:\n- To comply with ...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "a82e8886f0d1f4b8075b7198133fa569855206a2da06345ae603553db98053b3",
+                "score": 0.84556025,
+                "excerpt": "process personal information from around the world, including from other countries in which Company has operations, in order to provide the Mobile App.\nIf you are accessing or using our Mobile App or otherwise providing personal information to us, you are agreeing and consenting to the processing of your personal information in the United States and other jurisdictions in which we operate.\nXIII. Your California Privacy Rights.\nCalifornia Civil Code Section 1798.83 permits users who are Californi...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "55e23ea45c5274a84043941f5a7b9e71d1c0f755859099e6d9643ca74ae791cc",
+                "score": 0.80942667,
+                "excerpt": "customize the content you see on our Mobile App or to communicate with you about opportunities. This information provides us with the type of user who is accessing our Mobile App and certain browsing activities of that user. We may make extensive use of this data at an aggregated level in order to understand, among other things, how our Mobile App is being used. Company may share this data with its affiliates within our corporate family, agents, third party vendors, service providers, and busine...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "c249b63d92e5e6f2e9c867c9067dabefefc4e29f7fecd99bb55a3ff3654bef95",
+                "score": 0.6576484,
+                "excerpt": "your consent.\nYou may notify us to opt-out from receiving certain marketing emails and each marketing email will include an opt-out button or unsubscribe link.\nVI. Disclosure of Your Information\nCompany is not in the business of selling your information. We have the right to disclose aggregated information about our users, and information that does not identify any individual. We may disclose personal information that we collect or you provide in accordance with this Privacy Notice:\n- To our sub...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "d96b179801a2bbdf91c5b6f072ef2116ce45ffcd0be2b6f4cbf5be45db3335c2",
+                "score": 0.647241,
+                "excerpt": "should take special care in deciding what information you send to us via e-mail or through a form. Please keep this in mind when disclosing any personal information to Company via the Internet. Your Company account personal information is protected by a password for your privacy and security. You are responsible for protecting against unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and brows...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502472827,
+            "url": "https://www.acemyhealth.us/branded-app-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Third parties the app shares data with include professional advisors, third party advertising partners, third party vendors, contractors, service providers, and other third parties.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "professional advisors",
+                        "third party advertising partners",
+                        "third party vendors",
+                        "contractors",
+                        "service providers",
+                        "other third parties"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the various third parties with whom the app shares data, including professional advisors, advertising partners, vendors, contractors, and service providers.",
+            "reference": "To our professional advisors, including lawyers, accountants, consultants, security professionals and other similar parties when disclosure is reasonably necessary. ... With your consent. ... To third party advertising partners who may use data to serve ads for us and provide us with analytics. ... To contractors, service providers, vendors, and other third parties we use to support our business. URL: https://www.acemyhealth.us/branded-app-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a545014b1ddc12e2d488e8d0c6fc81a25a900c01938c5031e8d3e7df316a54ab",
+                "score": 0.9370958,
+                "excerpt": "disclosed by us when you provide the information.\n- To our professional advisors, including lawyers, accountants, consultants, security professionals and other similar parties when disclosure is reasonably necessary.\n- With your consent.\n- To third party advertising partners who may use data to serve ads for us and provide us with analytics.\n- To third party vendors who may use data to provide you additional services and products.\nWe may also disclose your personal information:\n- To comply with ...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "c249b63d92e5e6f2e9c867c9067dabefefc4e29f7fecd99bb55a3ff3654bef95",
+                "score": 0.76524264,
+                "excerpt": "your consent.\nYou may notify us to opt-out from receiving certain marketing emails and each marketing email will include an opt-out button or unsubscribe link.\nVI. Disclosure of Your Information\nCompany is not in the business of selling your information. We have the right to disclose aggregated information about our users, and information that does not identify any individual. We may disclose personal information that we collect or you provide in accordance with this Privacy Notice:\n- To our sub...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "a82e8886f0d1f4b8075b7198133fa569855206a2da06345ae603553db98053b3",
+                "score": 0.6784335,
+                "excerpt": "process personal information from around the world, including from other countries in which Company has operations, in order to provide the Mobile App.\nIf you are accessing or using our Mobile App or otherwise providing personal information to us, you are agreeing and consenting to the processing of your personal information in the United States and other jurisdictions in which we operate.\nXIII. Your California Privacy Rights.\nCalifornia Civil Code Section 1798.83 permits users who are Californi...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "55e23ea45c5274a84043941f5a7b9e71d1c0f755859099e6d9643ca74ae791cc",
+                "score": 0.64623696,
+                "excerpt": "customize the content you see on our Mobile App or to communicate with you about opportunities. This information provides us with the type of user who is accessing our Mobile App and certain browsing activities of that user. We may make extensive use of this data at an aggregated level in order to understand, among other things, how our Mobile App is being used. Company may share this data with its affiliates within our corporate family, agents, third party vendors, service providers, and busine...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            },
+            {
+                "id": "d96b179801a2bbdf91c5b6f072ef2116ce45ffcd0be2b6f4cbf5be45db3335c2",
+                "score": 0.60112536,
+                "excerpt": "should take special care in deciding what information you send to us via e-mail or through a form. Please keep this in mind when disclosing any personal information to Company via the Internet. Your Company account personal information is protected by a password for your privacy and security. You are responsible for protecting against unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and brows...",
+                "url": "https://www.acemyhealth.us/branded-app-privacy-policy"
+            }
+        ]
+    }
+]

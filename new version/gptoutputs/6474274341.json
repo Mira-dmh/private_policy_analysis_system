@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6474274341,
+      "url": "https://www.staraxy.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that while using the service, users may be required to provide certain personally identifiable information, and it also mentions the use of third-party services that may collect information to identify users.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of personal information collected and the purposes for which it is used.",
+          "content": "The app collects personal information such as nickname, email address, and preference information, and it may also use third-party services that collect data."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of personal information collected from users and the involvement of third-party services in data collection.",
+      "reference": "Section 1: INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474274341,
+      "url": "https://www.staraxy.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including but not limited to: nickname, email address, language preference, communications exchanged with users, marketing data related to user preferences, and usage and device information for analytics. It also uses third-party services that may collect information to identify users.",
+        "simple_answer": "The app collects nickname, email address, language preference, communications, marketing data, and usage information.",
+        "extended_simple_answer": {
+          "comment": "The app collects personal information to enhance user experience and provide services.",
+          "content": "The types of data collected include personal information for account registration, preference information, communications, marketing data, and analytics information."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474274341,
+      "url": "https://www.staraxy.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is used to deliver services, conduct research and development, for marketing and advertising, and to comply with applicable laws.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific purposes for collecting personal information.",
+          "content": "The purposes include providing and maintaining services, understanding user preferences, communicating with users, improving the app, and complying with laws."
+        }
+      },
+      "analysis": "The privacy policy clearly specifies the various purposes for which personal information is collected and used, ensuring transparency for users.",
+      "reference": "Section 2: HOW WE USE INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474274341,
+      "url": "https://www.staraxy.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by requesting data deletion via email. However, users cannot delete their account/data if they have an active subscription, as the processing of their data is necessary for the execution of the contract.",
+        "simple_answer": "Yes, users can request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to delete their personal data, but there are restrictions if they have an active subscription.",
+          "content": "You may delete your personal data at any time by requesting a data deletion via an email to hello@staraxy.com. Please note that you cannot delete your account/data in case of an active subscription as the processing of your data is necessary for the execution of the contract."
+        }
+      },
+      "analysis": "",
+      "reference": "Data Retention section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474274341,
+      "url": "https://www.staraxy.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third-party companies who help provide the Services for various reasons, including facilitating the Service, assisting with research and analysis, providing advertising, sending marketing communications, and complying with laws and regulations. The third-party providers are obligated not to disclose or use the information for any other purpose.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with third-party service providers to enhance its services and ensure compliance with legal requirements.",
+          "content": "We may share your information with third-party companies who help us provide the Services for the following reasons: (i) To facilitate our Service; (ii) Assist us with research and analysis; (iii) Providing you with advertising; (iv) Sending marketing communications; and (v) Comply with laws and regulations, or requests by government departments for the purpose of protecting the rights, safety, and property of our users."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: INFORMATION SHARING AND DISCLOSURE"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474274341,
+      "url": "https://www.staraxy.com/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party companies who help provide the Services for various reasons, including facilitating the Service, assisting with research and analysis, providing advertising, sending marketing communications, and complying with laws and regulations. The third-party providers are obligated not to disclose or use the information for any other purpose.",
+        "simple_answer": "The app shares data with third-party service providers for various purposes.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with third parties to enhance service delivery and compliance.",
+          "content": "Third-party companies assist in facilitating the Service, conducting research and analysis, providing advertising, sending marketing communications, and ensuring compliance with laws."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: INFORMATION SHARING AND DISCLOSURE"
+    }
+  }
+]

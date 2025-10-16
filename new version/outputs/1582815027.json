@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 1582815027,
+            "url": "http://44.235.70.104/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information is collected and outlines the types of data collected.",
+            "reference": "We may also collect other personal information outside of these categories instances where you interact with us in-person, online, or by phone or mail in the context of:...URL: http://44.235.70.104/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "749e370ec02344c4b7e1427fd3f6d078905b0ecb354c650faf10677beab2923d",
+                "score": 0.0190509,
+                "excerpt": "about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.\nIf you are under 18 years of age, reside in California, and have a registered account with th...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "27c34f2610d666048538567da71cac98ae3affd399fb8653c87a440d4a2b2356",
+                "score": 0.0065388246,
+                "excerpt": "technological development and demonstration. This is not considered to be \"selling\" of your personal data.\nCoach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers.\nYour rights with respect to your personal data\nRight to request deletion of the data - Request to delete\nYou can ask for the dele...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "336ae4d8e31e894137b1f367d40826c5f883c517c13509fb0051322b87914a79",
+                "score": 0.0025114634,
+                "excerpt": "this notice as necessary to stay compliant with relevant laws.\nWe may update this privacy notice from time to time. The updated version will be indicated by an updated \"Revised\" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of ho...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "f3828ce2d67cef06f35a68126addc9e1c6f347524dd0be59833b05fabbaa8ad7",
+                "score": 0.0024438866,
+                "excerpt": "or mail in the context of:\n- Receiving help through our customer support channels;\n- Participation in customer surveys or contests; and\n- Facilitation in the delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by email at umcworkout@gmail.com, or by referring to the contact details at the bottom of this document.\nIf you...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "81b3dc8326c3842890377946ee93ae9d9225e245744a2ae5e32caaea6998e93a",
+                "score": 0.0006070756,
+                "excerpt": "details and payment information |\nYES\n|\nE. Biometric information | Fingerprints and voiceprints |\nNO\n|\nF. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems and advertisements |\nNO\n|\nG. Geolocation data | Device location |\nNO\n|\nH. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1582815027,
+            "url": "http://44.235.70.104/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Contact details, name, contact information, education, employment, employment history, financial information, transaction information, purchase history, financial details, and payment information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact details",
+                        "Name",
+                        "Contact information",
+                        "Education",
+                        "Employment",
+                        "Employment history",
+                        "Financial information",
+                        "Transaction information",
+                        "Purchase history",
+                        "Financial details",
+                        "Payment information"
+                    ]
+                }
+            },
+            "analysis": "The data collected by the app includes a wide range of personal information related to contact details, financial information, employment history, and more.",
+            "reference": "Category | Examples | Collected | A. Identifiers | Contact details, name, contact information, education, employment, employment history, financial information, transaction information, purchase history, financial details, and payment information | YES | URL: http://44.235.70.104/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "749e370ec02344c4b7e1427fd3f6d078905b0ecb354c650faf10677beab2923d",
+                "score": 0.025323061,
+                "excerpt": "about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.\nIf you are under 18 years of age, reside in California, and have a registered account with th...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "81b3dc8326c3842890377946ee93ae9d9225e245744a2ae5e32caaea6998e93a",
+                "score": 0.023375316,
+                "excerpt": "details and payment information |\nYES\n|\nE. Biometric information | Fingerprints and voiceprints |\nNO\n|\nF. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems and advertisements |\nNO\n|\nG. Geolocation data | Device location |\nNO\n|\nH. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "afb5c74b7894c150cd832565654437269f15bb67c52baa015cc5ef6f342b875c",
+                "score": 0.020924192,
+                "excerpt": "of Regulations defines a \"resident\" as:\n(1) every individual who is in the State of California for other than a temporary or transitory purpose and\n(2) every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose\nAll other individuals are defined as \"non-residents.\"\nIf this definition of \"resident\" applies to you, we must adhere to certain rights and obligations regarding your personal information.\nWhat categories of pe...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "0f3cdd39be850a9e28db9e965a78665ae1f007543006970e640eb18642b08f24",
+                "score": 0.004248079,
+                "excerpt": "information;\n- the categories of personal information that we collect;\n- the purposes for which the collected personal information is used;\n- whether we sell your personal information to third parties;\n- the categories of personal information that we sold or disclosed for a business purpose;\n- the categories of third parties to whom the personal information was sold or disclosed for a business purpose; and\n- the business or commercial purpose for collecting or selling personal information.\nIn ac...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "27c34f2610d666048538567da71cac98ae3affd399fb8653c87a440d4a2b2356",
+                "score": 0.0031236485,
+                "excerpt": "technological development and demonstration. This is not considered to be \"selling\" of your personal data.\nCoach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers.\nYour rights with respect to your personal data\nRight to request deletion of the data - Request to delete\nYou can ask for the dele...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1582815027,
+            "url": "http://44.235.70.104/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as stated in the privacy policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that more information about data collection and sharing practices can be found in the document, indicating a statement of purpose.",
+            "reference": "More information about our data collection and sharing practices can be found in this privacy notice. URL: http://44.235.70.104/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "f3828ce2d67cef06f35a68126addc9e1c6f347524dd0be59833b05fabbaa8ad7",
+                "score": 0.034553625,
+                "excerpt": "or mail in the context of:\n- Receiving help through our customer support channels;\n- Participation in customer surveys or contests; and\n- Facilitation in the delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by email at umcworkout@gmail.com, or by referring to the contact details at the bottom of this document.\nIf you...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "27c34f2610d666048538567da71cac98ae3affd399fb8653c87a440d4a2b2356",
+                "score": 0.01678549,
+                "excerpt": "technological development and demonstration. This is not considered to be \"selling\" of your personal data.\nCoach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers.\nYour rights with respect to your personal data\nRight to request deletion of the data - Request to delete\nYou can ask for the dele...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "749e370ec02344c4b7e1427fd3f6d078905b0ecb354c650faf10677beab2923d",
+                "score": 0.0042646346,
+                "excerpt": "about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.\nIf you are under 18 years of age, reside in California, and have a registered account with th...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "0f3cdd39be850a9e28db9e965a78665ae1f007543006970e640eb18642b08f24",
+                "score": 0.0032350558,
+                "excerpt": "information;\n- the categories of personal information that we collect;\n- the purposes for which the collected personal information is used;\n- whether we sell your personal information to third parties;\n- the categories of personal information that we sold or disclosed for a business purpose;\n- the categories of third parties to whom the personal information was sold or disclosed for a business purpose; and\n- the business or commercial purpose for collecting or selling personal information.\nIn ac...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "81b3dc8326c3842890377946ee93ae9d9225e245744a2ae5e32caaea6998e93a",
+                "score": 0.00109019,
+                "excerpt": "details and payment information |\nYES\n|\nE. Biometric information | Fingerprints and voiceprints |\nNO\n|\nF. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems and advertisements |\nNO\n|\nG. Geolocation data | Device location |\nNO\n|\nH. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1582815027,
+            "url": "http://44.235.70.104/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users can request to terminate their account, allowing for the deactivation or deletion of their account and information from databases. Additionally, users can opt-out from future selling of their personal information to third parties.",
+            "reference": "Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with applicable legal requirements. URL: http://44.235.70.104/privacypolicy/. Coach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers. URL: http://44.235.70.104/privacypolicy/."
+        },
+        "source_documents": [
+            {
+                "id": "0acdb7ed8ce59ececb6641dd5b37d4af1d924751c3a4d25ec9fc647a9c8af8d7",
+                "score": 0.79975533,
+                "excerpt": "If you would at any time like to review or change the information in your account or terminate your account, you can:\n- Log in to your account settings and update your user account.\nUpon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with applicable legal r...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "dd4004020ca78eb1c26ac16b5223245f2cba2b4e8e733f00674856e0c2cd0ffc",
+                "score": 0.5935504,
+                "excerpt": "you may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the data\n- you can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.\n- you may request to opt-out from future selling of your personal information to third parties. Upon receiving...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "27c34f2610d666048538567da71cac98ae3affd399fb8653c87a440d4a2b2356",
+                "score": 0.5184091,
+                "excerpt": "technological development and demonstration. This is not considered to be \"selling\" of your personal data.\nCoach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers.\nYour rights with respect to your personal data\nRight to request deletion of the data - Request to delete\nYou can ask for the dele...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "336ae4d8e31e894137b1f367d40826c5f883c517c13509fb0051322b87914a79",
+                "score": 0.23828422,
+                "excerpt": "this notice as necessary to stay compliant with relevant laws.\nWe may update this privacy notice from time to time. The updated version will be indicated by an updated \"Revised\" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of ho...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "005240e0521a004e66aee38244e33768105fd2a3b50677ebb0d0b9ac6caf75e0",
+                "score": 0.22270013,
+                "excerpt": "DO-NOT-TRACK FEATURES\nMost web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communica...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1582815027,
+            "url": "http://44.235.70.104/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share personal information with service providers as outlined in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may disclose personal information with service providers pursuant to a written contract, not for selling purposes. This indicates sharing data with third parties.",
+            "reference": "We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf. This is not considered to be 'selling' of your personal data. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers. URL: http://44.235.70.104/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "749e370ec02344c4b7e1427fd3f6d078905b0ecb354c650faf10677beab2923d",
+                "score": 0.94776917,
+                "excerpt": "about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.\nIf you are under 18 years of age, reside in California, and have a registered account with th...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "f3828ce2d67cef06f35a68126addc9e1c6f347524dd0be59833b05fabbaa8ad7",
+                "score": 0.23510839,
+                "excerpt": "or mail in the context of:\n- Receiving help through our customer support channels;\n- Participation in customer surveys or contests; and\n- Facilitation in the delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by email at umcworkout@gmail.com, or by referring to the contact details at the bottom of this document.\nIf you...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "27c34f2610d666048538567da71cac98ae3affd399fb8653c87a440d4a2b2356",
+                "score": 0.060418423,
+                "excerpt": "technological development and demonstration. This is not considered to be \"selling\" of your personal data.\nCoach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers.\nYour rights with respect to your personal data\nRight to request deletion of the data - Request to delete\nYou can ask for the dele...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "005240e0521a004e66aee38244e33768105fd2a3b50677ebb0d0b9ac6caf75e0",
+                "score": 0.029760094,
+                "excerpt": "DO-NOT-TRACK FEATURES\nMost web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communica...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "dd4004020ca78eb1c26ac16b5223245f2cba2b4e8e733f00674856e0c2cd0ffc",
+                "score": 0.013325147,
+                "excerpt": "you may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the data\n- you can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.\n- you may request to opt-out from future selling of your personal information to third parties. Upon receiving...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1582815027,
+            "url": "http://44.235.70.104/privacypolicy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers pursuant to a written contract between the app and each service provider.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that the app shares data with service providers as detailed in written contracts.",
+            "reference": "We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf. URL: http://44.235.70.104/privacypolicy/"
+        },
+        "source_documents": [
+            {
+                "id": "749e370ec02344c4b7e1427fd3f6d078905b0ecb354c650faf10677beab2923d",
+                "score": 0.9024378,
+                "excerpt": "about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.\nIf you are under 18 years of age, reside in California, and have a registered account with th...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "f3828ce2d67cef06f35a68126addc9e1c6f347524dd0be59833b05fabbaa8ad7",
+                "score": 0.16940588,
+                "excerpt": "or mail in the context of:\n- Receiving help through our customer support channels;\n- Participation in customer surveys or contests; and\n- Facilitation in the delivery of our Services and to respond to your inquiries.\nHow do we use and share your personal information?\nMore information about our data collection and sharing practices can be found in this privacy notice.\nYou may contact us by email at umcworkout@gmail.com, or by referring to the contact details at the bottom of this document.\nIf you...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "005240e0521a004e66aee38244e33768105fd2a3b50677ebb0d0b9ac6caf75e0",
+                "score": 0.068288535,
+                "excerpt": "DO-NOT-TRACK FEATURES\nMost web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communica...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "27c34f2610d666048538567da71cac98ae3affd399fb8653c87a440d4a2b2356",
+                "score": 0.06430005,
+                "excerpt": "technological development and demonstration. This is not considered to be \"selling\" of your personal data.\nCoach Bobby has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Coach Bobby will not sell personal information in the future belonging to website visitors, users and other consumers.\nYour rights with respect to your personal data\nRight to request deletion of the data - Request to delete\nYou can ask for the dele...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            },
+            {
+                "id": "81b3dc8326c3842890377946ee93ae9d9225e245744a2ae5e32caaea6998e93a",
+                "score": 0.036838703,
+                "excerpt": "details and payment information |\nYES\n|\nE. Biometric information | Fingerprints and voiceprints |\nNO\n|\nF. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems and advertisements |\nNO\n|\nG. Geolocation data | Device location |\nNO\n|\nH. Audio, electronic, visual, thermal, olfactory, or similar information | Images and audio, video or call recordings created in connection with...",
+                "url": "http://44.235.70.104/privacypolicy/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 6464433358,
+            "url": "https://mindfuly.app/legal/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects data and explains how it is used.",
+            "reference": "Our Privacy Policy governs your visit to ... you agree to the collection and use of information in accordance with this policy. URL: https://mindfuly.app/legal/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ee254fb7e55f526a6dbe75ee0635ec4413d2b2d6bd65c92f94fccf89d9fa5b95",
+                "score": 0.057176597,
+                "excerpt": "its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/\nAccording to CalOPPA we agree to the following:\nOur Policy on \"Do Not Track\" Signals:\nWe honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Trac...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "1c9152669a611476595f431d872d27a0c92e9887c7cfdaf0e97b73a769cde6e2",
+                "score": 0.036220055,
+                "excerpt": "Effective date: 07/23/2023\nWelcome to Deep Meditate, Inc.\nDeep Meditate, Inc. (\"us\", \"we\", or \"our\") operates https://mindfuly.app and Mindfuly mobile application (hereinafter referred to as \"Service\").\nOur Privacy Policy governs your visit to https://mindfuly.app and Mindfuly mobile application, and explains how we collect, safeguard and disclose information that results from your use of our Service.\nWe use your data to provide and improve Service. By using Service, you agree to the collection ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "471342f5c96e4ab1533881c749c1019637ddd1d687b64618f68c904a46e48e3d",
+                "score": 0.025516603,
+                "excerpt": "more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.\nWe may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nWe may use third...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "04c951e61a423a6f302605b5fca176278b55110cd2035fd7f7fcb5ed88623ff5",
+                "score": 0.01822929,
+                "excerpt": "manage projects, and build software.\nFor more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.\nWe may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect your payment card details. That information is provided directly...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "a16ca8caa4fa2601c3d822e43a1e3ac496159059583ec7340809b37f1614287d",
+                "score": 0.017242778,
+                "excerpt": "correct, amend, delete, or limit the use of your Personal Data.\nIf you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at [email protected].\nIn certain circumstances, you have the following data protection rights:\nPlease note that we may ask you to verify your identity before responding to such requests. Please note, we may not able to provide Service without some necessary data.\nYou have the right to complain to a Data ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6464433358,
+            "url": "https://mindfuly.app/legal/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personal Data and Usage Data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal Data",
+                        "Usage Data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of Personal Data and Usage Data by the app.",
+            "reference": "Personal Data\nUsage Data\nURL: https://mindfuly.app/legal/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "471342f5c96e4ab1533881c749c1019637ddd1d687b64618f68c904a46e48e3d",
+                "score": 0.45671266,
+                "excerpt": "more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.\nWe may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nWe may use third...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "ee254fb7e55f526a6dbe75ee0635ec4413d2b2d6bd65c92f94fccf89d9fa5b95",
+                "score": 0.15804437,
+                "excerpt": "its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/\nAccording to CalOPPA we agree to the following:\nOur Policy on \"Do Not Track\" Signals:\nWe honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Trac...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "48e0c3d98aef33699c2b68f7e6915e38eddb8c0d7f4f85bdf34714859df63447",
+                "score": 0.11951086,
+                "excerpt": "collected automatically either generated by the use of Service or from Service infrastructure itself (for example, the duration of a page visit).\nCOOKIES are small files stored on your device (computer or mobile device).\nDATA CONTROLLER means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controlle...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "1c9152669a611476595f431d872d27a0c92e9887c7cfdaf0e97b73a769cde6e2",
+                "score": 0.10502681,
+                "excerpt": "Effective date: 07/23/2023\nWelcome to Deep Meditate, Inc.\nDeep Meditate, Inc. (\"us\", \"we\", or \"our\") operates https://mindfuly.app and Mindfuly mobile application (hereinafter referred to as \"Service\").\nOur Privacy Policy governs your visit to https://mindfuly.app and Mindfuly mobile application, and explains how we collect, safeguard and disclose information that results from your use of our Service.\nWe use your data to provide and improve Service. By using Service, you agree to the collection ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "04c951e61a423a6f302605b5fca176278b55110cd2035fd7f7fcb5ed88623ff5",
+                "score": 0.10502681,
+                "excerpt": "manage projects, and build software.\nFor more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.\nWe may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect your payment card details. That information is provided directly...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6464433358,
+            "url": "https://mindfuly.app/legal/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that it governs the collection, use, and disclosure of information resulting from the use of the Service, indicating that the purpose of data collection and use is declared.",
+            "reference": "Our Privacy Policy governs your visit to https://mindfuly.app and Mindfuly mobile application, and explains how we collect, safeguard and disclose information that results from your use of our Service. ... By using Service, you agree to the collection and use of information in accordance with this policy. URL: https://mindfuly.app/legal/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "1c9152669a611476595f431d872d27a0c92e9887c7cfdaf0e97b73a769cde6e2",
+                "score": 0.123365626,
+                "excerpt": "Effective date: 07/23/2023\nWelcome to Deep Meditate, Inc.\nDeep Meditate, Inc. (\"us\", \"we\", or \"our\") operates https://mindfuly.app and Mindfuly mobile application (hereinafter referred to as \"Service\").\nOur Privacy Policy governs your visit to https://mindfuly.app and Mindfuly mobile application, and explains how we collect, safeguard and disclose information that results from your use of our Service.\nWe use your data to provide and improve Service. By using Service, you agree to the collection ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "471342f5c96e4ab1533881c749c1019637ddd1d687b64618f68c904a46e48e3d",
+                "score": 0.08570928,
+                "excerpt": "more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.\nWe may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nWe may use third...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "04c951e61a423a6f302605b5fca176278b55110cd2035fd7f7fcb5ed88623ff5",
+                "score": 0.068040416,
+                "excerpt": "manage projects, and build software.\nFor more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.\nWe may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect your payment card details. That information is provided directly...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "48e0c3d98aef33699c2b68f7e6915e38eddb8c0d7f4f85bdf34714859df63447",
+                "score": 0.015189049,
+                "excerpt": "collected automatically either generated by the use of Service or from Service infrastructure itself (for example, the duration of a page visit).\nCOOKIES are small files stored on your device (computer or mobile device).\nDATA CONTROLLER means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controlle...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "3ecc281c7f506f63760300302fd64c3f1cf7f010f96287e61a63add47c832ab3",
+                "score": 0.010130412,
+                "excerpt": "and similar tracking technologies to track the activity on our Service and we hold certain information.\nCookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyze our Service.\nYou can instruct your browser to refuse all cookies or to indicate when a co...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6464433358,
+            "url": "https://mindfuly.app/legal/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt-out of data collection or request the deletion of their data by sending a request to the provided email address.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can exercise their data protection rights by requesting the deletion or limiting the use of their personal data.",
+            "reference": "If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at [email protected]. - URL: https://mindfuly.app/legal/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ee254fb7e55f526a6dbe75ee0635ec4413d2b2d6bd65c92f94fccf89d9fa5b95",
+                "score": 0.92709976,
+                "excerpt": "its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/\nAccording to CalOPPA we agree to the following:\nOur Policy on \"Do Not Track\" Signals:\nWe honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Trac...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "a16ca8caa4fa2601c3d822e43a1e3ac496159059583ec7340809b37f1614287d",
+                "score": 0.8000679,
+                "excerpt": "correct, amend, delete, or limit the use of your Personal Data.\nIf you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please email us at [email protected].\nIn certain circumstances, you have the following data protection rights:\nPlease note that we may ask you to verify your identity before responding to such requests. Please note, we may not able to provide Service without some necessary data.\nYou have the right to complain to a Data ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "920f1ac93e95e95f602d53582d1629e103f63b53619d345fc96fd5324c503c57",
+                "score": 0.65588725,
+                "excerpt": "When you make this request, the information provided may be limited to the personal information we collected about you in the previous 12 months.\nIf you submit a request to stop selling your personal information, we will stop making such transfers. If you are a California resident, to opt-out of the sale of your personal information, click \"Do Not Sell My Personal Information\" at the bottom of our home page to submit your request.\nPlease note, if you ask us to delete or stop selling your data, i...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "471342f5c96e4ab1533881c749c1019637ddd1d687b64618f68c904a46e48e3d",
+                "score": 0.07290027,
+                "excerpt": "more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.\nWe may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nWe may use third...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "fdaa85cefec1fd23238f97d531227749491f1b5b9c89ba3226542c8aa161958a",
+                "score": 0.057918087,
+                "excerpt": "are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nOur Services are not intended for use by children under the age of 18 (\"Child\" or \"Children\").\nWe do not knowingly collect personally identifiable information from Children under ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6464433358,
+            "url": "https://mindfuly.app/legal/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes such as providing services, analytics, and payment processing.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may use third-party companies and individuals to facilitate the service, analyze service usage, and provide various services including payment processing. The app also mentions specific third-party service providers like Firebase, GitHub, Apple Store, Google Play, and Stripe for different purposes such as analytics and payment processing.",
+            "reference": "We may employ third party companies and individuals to facilitate our Service ('Service Providers'), provide Service on our behalf, perform Service-related services or assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. URL: https://mindfuly.app/legal/privacy-policy/."
+        },
+        "source_documents": [
+            {
+                "id": "471342f5c96e4ab1533881c749c1019637ddd1d687b64618f68c904a46e48e3d",
+                "score": 0.60696447,
+                "excerpt": "more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.\nWe may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nWe may use third...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "04c951e61a423a6f302605b5fca176278b55110cd2035fd7f7fcb5ed88623ff5",
+                "score": 0.22017473,
+                "excerpt": "manage projects, and build software.\nFor more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.\nWe may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect your payment card details. That information is provided directly...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "920f1ac93e95e95f602d53582d1629e103f63b53619d345fc96fd5324c503c57",
+                "score": 0.041930523,
+                "excerpt": "When you make this request, the information provided may be limited to the personal information we collected about you in the previous 12 months.\nIf you submit a request to stop selling your personal information, we will stop making such transfers. If you are a California resident, to opt-out of the sale of your personal information, click \"Do Not Sell My Personal Information\" at the bottom of our home page to submit your request.\nPlease note, if you ask us to delete or stop selling your data, i...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "b953608acd20111d211e382a49bb4ac49ce79a8c4b811b0389be130dfbf05cb8",
+                "score": 0.030100338,
+                "excerpt": "no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.\nWe may disclose personal information that we collect, or you provide:\nUnder certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities.\nIf we or our subsidiaries are involved in a merger, acquisition or asset ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "fdaa85cefec1fd23238f97d531227749491f1b5b9c89ba3226542c8aa161958a",
+                "score": 0.02865267,
+                "excerpt": "are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nOur Services are not intended for use by children under the age of 18 (\"Child\" or \"Children\").\nWe do not knowingly collect personally identifiable information from Children under ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6464433358,
+            "url": "https://mindfuly.app/legal/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Firebase, GitHub, Apple Store In-App Payments, Google Play In-App Payments, and Stripe.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Firebase",
+                        "GitHub",
+                        "Apple Store In-App Payments",
+                        "Google Play In-App Payments",
+                        "Stripe"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the specific third-party services the app shares data with in the context of providing services, payment processing, and analytics.",
+            "reference": "Firebase; GitHub; Apple Store In-App Payments; Google Play In-App Payments; Stripe. URL: https://mindfuly.app/legal/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "471342f5c96e4ab1533881c749c1019637ddd1d687b64618f68c904a46e48e3d",
+                "score": 0.64220816,
+                "excerpt": "more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.\nWe may employ third party companies and individuals to facilitate our Service (\"Service Providers\"), provide Service on our behalf, perform Service-related services or assist us in analysing how our Service is used.\nThese third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.\nWe may use third...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "04c951e61a423a6f302605b5fca176278b55110cd2035fd7f7fcb5ed88623ff5",
+                "score": 0.48668218,
+                "excerpt": "manage projects, and build software.\nFor more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.\nWe may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).\nWe will not store or collect your payment card details. That information is provided directly...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "b953608acd20111d211e382a49bb4ac49ce79a8c4b811b0389be130dfbf05cb8",
+                "score": 0.20577459,
+                "excerpt": "no transfer of your Personal Data will take place to an organisation or a country unless there are adequate controls in place including the security of your data and other personal information.\nWe may disclose personal information that we collect, or you provide:\nUnder certain circumstances, we may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities.\nIf we or our subsidiaries are involved in a merger, acquisition or asset ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "ee254fb7e55f526a6dbe75ee0635ec4413d2b2d6bd65c92f94fccf89d9fa5b95",
+                "score": 0.10631887,
+                "excerpt": "its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/\nAccording to CalOPPA we agree to the following:\nOur Policy on \"Do Not Track\" Signals:\nWe honor Do Not Track signals and do not track, plant cookies, or use advertising when a Do Not Track browser mechanism is in place. Do Not Trac...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            },
+            {
+                "id": "fdaa85cefec1fd23238f97d531227749491f1b5b9c89ba3226542c8aa161958a",
+                "score": 0.08050192,
+                "excerpt": "are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.\nWe have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.\nOur Services are not intended for use by children under the age of 18 (\"Child\" or \"Children\").\nWe do not knowingly collect personally identifiable information from Children under ...",
+                "url": "https://mindfuly.app/legal/privacy-policy/"
+            }
+        ]
+    }
+]

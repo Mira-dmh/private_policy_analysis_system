@@ -1,0 +1,178 @@
+[
+    {
+        "meta": {
+            "id": 6472111765,
+            "url": "https://soniahealth.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "No data is collected by the app as per the privacy policy.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that no data is collected, indicating a clear declaration of data collection practices.",
+            "reference": "No data is collected by the app. URL: https://soniahealth.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "115ad2267fee964b35f691c62399c0927fc010bc449c19ee3e608bf355ad13af",
+                "score": 0.0027149853,
+                "excerpt": "Redirecting to Privacy Policy...",
+                "url": "https://soniahealth.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472111765,
+            "url": "https://soniahealth.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as personal information, device information, and usage information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal information",
+                        "Device information",
+                        "Usage information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the specific data types collected by the app.",
+            "reference": "Personal information, device information, and usage information. URL: https://soniahealth.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "115ad2267fee964b35f691c62399c0927fc010bc449c19ee3e608bf355ad13af",
+                "score": 0.0032858334,
+                "excerpt": "Redirecting to Privacy Policy...",
+                "url": "https://soniahealth.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472111765,
+            "url": "https://soniahealth.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "N/A",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app does declare the purpose of data collection and use as mentioned in the privacy policy.",
+            "reference": "The app does declare the purpose of data collection and use under the 'Information We Collect' section. URL: https://soniahealth.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "115ad2267fee964b35f691c62399c0927fc010bc449c19ee3e608bf355ad13af",
+                "score": 0.0010005044,
+                "excerpt": "Redirecting to Privacy Policy...",
+                "url": "https://soniahealth.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472111765,
+            "url": "https://soniahealth.com/privacy"
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 6472111765,\n       \"url\": \"https://soniahealth.com/privacy\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q4\",\n       \"question\": \"4. Can the user opt out of data collection or delete data?\",\n       \"answer\": {\n           \"full_answer\": \"\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy states that users have the right to opt-out or delete data that has been collected.\",\n       \"reference\": \"If you wish to opt out of the use of Personal Information for interest-based advertising purposes, you may do so by...\" URL: https://soniahealth.com/privacy\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "115ad2267fee964b35f691c62399c0927fc010bc449c19ee3e608bf355ad13af",
+                "score": 0.014281933,
+                "excerpt": "Redirecting to Privacy Policy...",
+                "url": "https://soniahealth.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472111765,
+            "url": "https://soniahealth.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "Based on the privacy policy document, the app shares data with third parties.",
+            "reference": "The app may share information with third parties for the purposes described in this Privacy Policy. URL: https://soniahealth.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "115ad2267fee964b35f691c62399c0927fc010bc449c19ee3e608bf355ad13af",
+                "score": 0.019160708,
+                "excerpt": "Redirecting to Privacy Policy...",
+                "url": "https://soniahealth.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472111765,
+            "url": "https://soniahealth.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers for the purpose of providing services and improving user experience.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "service providers"
+                }
+            },
+            "analysis": "The privacy policy specifies that the app shares data with service providers, which indicates external entities involved in providing services.",
+            "reference": "The app shares data with service providers that help us to provide services and improve the Services. URL: https://soniahealth.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "115ad2267fee964b35f691c62399c0927fc010bc449c19ee3e608bf355ad13af",
+                "score": 0.010944578,
+                "excerpt": "Redirecting to Privacy Policy...",
+                "url": "https://soniahealth.com/privacy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,339 @@
+[
+    {
+        "meta": {
+            "id": 1289018369,
+            "url": "https://www.rootd.io/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal data and explains the types of data collected, which indicates the declaration of data collection.",
+            "reference": "We collect information that alone or in combination with other information in our possession could be used to identify you (“Personal Data”) as follows: Personal Data You Provide: We collect the following categories of Personal Data from you when you create an account, sign up for our newsletter, use the Service, or communicate with us URL: https://www.rootd.io/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "8e16c7ac7a4badab8e2b669f6aecb89890fb02b1741acb145ece462f1051778b",
+                "score": 0.64097303,
+                "excerpt": "Privacy Policy\nLast update: December 14, 2022\nManaging panic attacks and anxiety is a journey. Our hope is for Rootd to be your partner along the way – available to offer support any time, any where, for any reason.\nAny successful partnership needs to start with trust. For this reason, and countless others, we take the privacy of your data seriously.\nThis Privacy Policy explains how Simply Rooted Media, Inc., the provider of the Rootd app (“Rootd”, “we”, “us”, or “our”) collects, uses, and discl...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "d4084085bcad0de560e66959100118495927134551f17d04c9db9273f3999ec8",
+                "score": 0.06903793,
+                "excerpt": "Policy, please do not access the Site or otherwise use the Service.\n1. What Data We Collect\nWe collect information that alone or in combination with other information in our possession could be used to identify you (“Personal Data”) as follows:\nPersonal Data You Provide: We collect the following categories of Personal Data from you when you create an account, sign up for our newsletter, use the Service, or communicate with us:\n- Identification Data: We collect your email address, name or nicknam...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "31ae1dcd451dcbd6cf66bcba4a1dd71b7820d18c06cc89f137e9b58e984397d2",
+                "score": 0.025662705,
+                "excerpt": "data. Apple and Google collect Payment Card data with respect to in-app purchases made through the Apps, and our payment processor Stripe collects Payment Card data with respect to purchases made through the Websites. Such payment processors generally provide us with some limited data related to you, such as a unique, anonymous token that enables you to make additional purchases using the data they’ve stored, and your card’s type, expiration date, billing address, and the last four digits of you...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "0a0d17f9c776f021966993c56bae82a2d6cd91521f5ec12d5d700cda9836ebeb",
+                "score": 0.025371311,
+                "excerpt": "withdraw that consent at any time.\n- You have the right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning personal data about you. We encourage you to first reach out to us at [email protected] so we have an opportunity to address your concerns directly before you do so.\nIf you would like to exercise any of these rights and can’t do so directly via the Service or your device, you may contact us as indica...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "6ac4ef87f963601e64b8faa4b9a11d550162a7d50bdad97e9a41ee2cf4114559",
+                "score": 0.021287352,
+                "excerpt": "for market research seeking your opinion and feedback. Providing this information is optional to you.\n- Social Media Data: We have pages on social media sites like Instagram, Facebook, Twitter, and LinkedIn (“Social Media Pages”). When you interact with our Social Media Pages, we may collect Personal Data that you elect to provide to us, such as your contact details. In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1289018369,
+            "url": "https://www.rootd.io/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Identification Data, Stats Page Data, Communication Data, Social Media Data, Log Data, Cookies Data, Device Data, Usage Data, Location Data, Email Open/Click Data, Payment Card data, Internet Activity Data, and Anxiety Check-In Data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identification Data",
+                        "Stats Page Data",
+                        "Communication Data",
+                        "Social Media Data",
+                        "Log Data",
+                        "Cookies Data",
+                        "Device Data",
+                        "Usage Data",
+                        "Location Data",
+                        "Email Open/Click Data",
+                        "Payment Card data",
+                        "Internet Activity Data",
+                        "Anxiety Check-In Data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document specifies various types of data collected by the app under different categories, including personal data, log data, cookies data, device data, usage data, location data, email open/click data, payment card data, internet activity data, and anxiety check-in data.",
+            "reference": "Reference: Data collected include Identification Data, Stats Page Data, Communication Data, Social Media Data, Log Data, Cookies Data, Device Data, Usage Data, Location Data, Email Open/Click Data, Payment Card data, Internet Activity Data, and Anxiety Check-In Data. URL: https://www.rootd.io/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d4084085bcad0de560e66959100118495927134551f17d04c9db9273f3999ec8",
+                "score": 0.49200508,
+                "excerpt": "Policy, please do not access the Site or otherwise use the Service.\n1. What Data We Collect\nWe collect information that alone or in combination with other information in our possession could be used to identify you (“Personal Data”) as follows:\nPersonal Data You Provide: We collect the following categories of Personal Data from you when you create an account, sign up for our newsletter, use the Service, or communicate with us:\n- Identification Data: We collect your email address, name or nicknam...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "8e16c7ac7a4badab8e2b669f6aecb89890fb02b1741acb145ece462f1051778b",
+                "score": 0.44537878,
+                "excerpt": "Privacy Policy\nLast update: December 14, 2022\nManaging panic attacks and anxiety is a journey. Our hope is for Rootd to be your partner along the way – available to offer support any time, any where, for any reason.\nAny successful partnership needs to start with trust. For this reason, and countless others, we take the privacy of your data seriously.\nThis Privacy Policy explains how Simply Rooted Media, Inc., the provider of the Rootd app (“Rootd”, “we”, “us”, or “our”) collects, uses, and discl...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "f761e02b8193fd672006b815f52e26ef8edaaca9ce40ca7a270f2904ab53c58a",
+                "score": 0.3684057,
+                "excerpt": "systems:\n- Log Data: Information that your browser automatically sends whenever you visit the Site. Log Data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site. Such Log Data is also collected when you interact with the App.\n- Cookies Data: Please see the “Cookies” section below to learn more about how we use cookies.\n- Device Data: Includes name of the device, operating system, and browser you are using. In...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "31ae1dcd451dcbd6cf66bcba4a1dd71b7820d18c06cc89f137e9b58e984397d2",
+                "score": 0.32156652,
+                "excerpt": "data. Apple and Google collect Payment Card data with respect to in-app purchases made through the Apps, and our payment processor Stripe collects Payment Card data with respect to purchases made through the Websites. Such payment processors generally provide us with some limited data related to you, such as a unique, anonymous token that enables you to make additional purchases using the data they’ve stored, and your card’s type, expiration date, billing address, and the last four digits of you...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "6ac4ef87f963601e64b8faa4b9a11d550162a7d50bdad97e9a41ee2cf4114559",
+                "score": 0.18639107,
+                "excerpt": "for market research seeking your opinion and feedback. Providing this information is optional to you.\n- Social Media Data: We have pages on social media sites like Instagram, Facebook, Twitter, and LinkedIn (“Social Media Pages”). When you interact with our Social Media Pages, we may collect Personal Data that you elect to provide to us, such as your contact details. In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1289018369,
+            "url": "https://www.rootd.io/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use to provide transparency to users.",
+            "reference": "This Privacy Policy explains how Simply Rooted Media, Inc., the provider of the Rootd app, collects, uses, and discloses information about you when you access or use the Service. URL: https://www.rootd.io/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "0a0d17f9c776f021966993c56bae82a2d6cd91521f5ec12d5d700cda9836ebeb",
+                "score": 0.030967517,
+                "excerpt": "withdraw that consent at any time.\n- You have the right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning personal data about you. We encourage you to first reach out to us at [email protected] so we have an opportunity to address your concerns directly before you do so.\nIf you would like to exercise any of these rights and can’t do so directly via the Service or your device, you may contact us as indica...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "6ac4ef87f963601e64b8faa4b9a11d550162a7d50bdad97e9a41ee2cf4114559",
+                "score": 0.015967654,
+                "excerpt": "for market research seeking your opinion and feedback. Providing this information is optional to you.\n- Social Media Data: We have pages on social media sites like Instagram, Facebook, Twitter, and LinkedIn (“Social Media Pages”). When you interact with our Social Media Pages, we may collect Personal Data that you elect to provide to us, such as your contact details. In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "8e16c7ac7a4badab8e2b669f6aecb89890fb02b1741acb145ece462f1051778b",
+                "score": 0.013171949,
+                "excerpt": "Privacy Policy\nLast update: December 14, 2022\nManaging panic attacks and anxiety is a journey. Our hope is for Rootd to be your partner along the way – available to offer support any time, any where, for any reason.\nAny successful partnership needs to start with trust. For this reason, and countless others, we take the privacy of your data seriously.\nThis Privacy Policy explains how Simply Rooted Media, Inc., the provider of the Rootd app (“Rootd”, “we”, “us”, or “our”) collects, uses, and discl...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "cece1b9c13f1935243cf796b35e0eb77a86740009b330eb4dc4f45fd94cccfb8",
+                "score": 0.011823394,
+                "excerpt": "to you. For instance, if you elect to provide your email, we may use that information to send you special offers. You may opt out of receiving emails by following the instructions contained in each promotional email we send you. In addition, if at any time you do not wish to receive future marketing communications, you may contact us. If you unsubscribe from our marketing lists, you will no longer receive marketing communications but we may continue to contact you regarding management of your ac...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "01191042de8165dd25d53377b3fd2ed95b974ada8eef61a995a484c8163468a9",
+                "score": 0.007968815,
+                "excerpt": "this information for the business and commercial purposes described in the “How We Use” section above. We share this information with the categories of third parties described in the “How We Share Data” section above.\nSubject to certain limitations and exceptions, the CCPA provides California consumers the right to request to know more details about the categories and specific pieces of personal information, to delete their personal information, to opt out of any “sales” that may be occurring, a...",
+                "url": "https://www.rootd.io/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1289018369,
+            "url": "https://www.rootd.io/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or delete data. California consumers have the right to request specific details about their personal information, delete their personal information, opt out of any 'sales,' and not be discriminated against for exercising these rights.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that California consumers have the right to request their personal data details, delete personal information, opt out of any 'sales,' and not face discrimination for exercising these rights.",
+            "reference": "Subject to certain limitations and exceptions, the CCPA provides California consumers the right to request to know more details about the categories and specific pieces of personal information, to delete their personal information, to opt out of any 'sales' that may be occurring, and to not be discriminated against for exercising these rights. URL: https://www.rootd.io/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "01191042de8165dd25d53377b3fd2ed95b974ada8eef61a995a484c8163468a9",
+                "score": 0.3654567,
+                "excerpt": "this information for the business and commercial purposes described in the “How We Use” section above. We share this information with the categories of third parties described in the “How We Share Data” section above.\nSubject to certain limitations and exceptions, the CCPA provides California consumers the right to request to know more details about the categories and specific pieces of personal information, to delete their personal information, to opt out of any “sales” that may be occurring, a...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "1516866e5aa02796379ad4ba4635f751f419b81a3dc663bf2c3b5eec2c548744",
+                "score": 0.34466398,
+                "excerpt": "any Personal Data to Rootd via the Internet. In addition, we are not responsible for circumvention of any privacy settings or security measures contained on the Service, or third party websites.\n7. International Users\nRootd is based in Canada and processes information in Canada, which may not provide equivalent levels of data protection as your home jurisdiction.\n8. Healthkit\nApple iOS users may opt-in to allow the Products to provide data regarding the amount of minutes spent in Rootd’s tools a...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "cece1b9c13f1935243cf796b35e0eb77a86740009b330eb4dc4f45fd94cccfb8",
+                "score": 0.32018328,
+                "excerpt": "to you. For instance, if you elect to provide your email, we may use that information to send you special offers. You may opt out of receiving emails by following the instructions contained in each promotional email we send you. In addition, if at any time you do not wish to receive future marketing communications, you may contact us. If you unsubscribe from our marketing lists, you will no longer receive marketing communications but we may continue to contact you regarding management of your ac...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "e6c6c85577de33a2a7a276f365cf4d42e7432c72854535c159ccf6f5f6882246",
+                "score": 0.21076629,
+                "excerpt": "retain cached or archived copies of information about you for a certain period of time.\nPromotional Communications: You may opt out of receiving promotional emails from Rootd by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.\nMobile Push Notifications/Alerts: With your consent, we send promotional and other push notifications to your mobile device. You can deactivate thes...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "0a0d17f9c776f021966993c56bae82a2d6cd91521f5ec12d5d700cda9836ebeb",
+                "score": 0.19544049,
+                "excerpt": "withdraw that consent at any time.\n- You have the right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning personal data about you. We encourage you to first reach out to us at [email protected] so we have an opportunity to address your concerns directly before you do so.\nIf you would like to exercise any of these rights and can’t do so directly via the Service or your device, you may contact us as indica...",
+                "url": "https://www.rootd.io/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1289018369,
+            "url": "https://www.rootd.io/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes such as advertising, marketing, and analytics.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with various third parties for different reasons.",
+            "reference": "Advertisements: We may share data with third parties, such as Facebook, in order to serve Rootd advertisements on such third party platforms, to the extent that you have consented to such practices under applicable law. URL: https://www.rootd.io/privacy-policy Business Transfers: If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider (collectively a 'Transaction'), your Personal Data and other information may be shared in the diligence process with counter-parties and others assisting with the Transaction and transferred to a successor or affiliate as part of that Transaction along with other assets. URL: https://www.rootd.io/privacy-policy Corporate and other Community Sharing: If you access the Service as part of a company plan, government program, or wellness platform, we may share aggregate or member level Personal Data with the organization you are associated with, and use this information to analyze the effectiveness of our Service, to improve and add features to our Service, and for other similar purposes. URL: https://www.rootd.io/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b6dadb8e8163710e57e0a6f0dc3424d4d8affb064b5dea57dc6d82fb420a69c0",
+                "score": 0.96653706,
+                "excerpt": "email delivery and in-app/push messaging services, advertising and marketing services, payment processors, content monitoring services, and web, subscription, and app analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Data in the course of performing their duties to us. We take commercially reasonable steps to ensure our service providers adhere to the security standards we apply to your Personal Data.\nBusiness Transfers: If we are involved in...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "f597fc297058b867445657552024b5a1f805ab7c5d05f450b9d1192cf301f0b7",
+                "score": 0.87599933,
+                "excerpt": "requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Service, or the public, or (v) protect against legal liability.\nAdvertisements: We may share data with third parties, such as Facebook, in order to serve Rootd advertisements on such third party platforms, to the extent that you have consented to such practices under applicable law.\nCorporate and other Community Sharing: If you access ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "cece1b9c13f1935243cf796b35e0eb77a86740009b330eb4dc4f45fd94cccfb8",
+                "score": 0.8418256,
+                "excerpt": "to you. For instance, if you elect to provide your email, we may use that information to send you special offers. You may opt out of receiving emails by following the instructions contained in each promotional email we send you. In addition, if at any time you do not wish to receive future marketing communications, you may contact us. If you unsubscribe from our marketing lists, you will no longer receive marketing communications but we may continue to contact you regarding management of your ac...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "1516866e5aa02796379ad4ba4635f751f419b81a3dc663bf2c3b5eec2c548744",
+                "score": 0.32562774,
+                "excerpt": "any Personal Data to Rootd via the Internet. In addition, we are not responsible for circumvention of any privacy settings or security measures contained on the Service, or third party websites.\n7. International Users\nRootd is based in Canada and processes information in Canada, which may not provide equivalent levels of data protection as your home jurisdiction.\n8. Healthkit\nApple iOS users may opt-in to allow the Products to provide data regarding the amount of minutes spent in Rootd’s tools a...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "6ac4ef87f963601e64b8faa4b9a11d550162a7d50bdad97e9a41ee2cf4114559",
+                "score": 0.21011727,
+                "excerpt": "for market research seeking your opinion and feedback. Providing this information is optional to you.\n- Social Media Data: We have pages on social media sites like Instagram, Facebook, Twitter, and LinkedIn (“Social Media Pages”). When you interact with our Social Media Pages, we may collect Personal Data that you elect to provide to us, such as your contact details. In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1289018369,
+            "url": "https://www.rootd.io/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with vendors, service providers, organizations associated with community plans, educational institutions, and large consumer communities.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Vendors and Service Providers",
+                        "Organizations associated with community plans",
+                        "Educational institutions",
+                        "Large consumer communities"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with various categories of third parties including vendors, service providers, organizations associated with community plans, educational institutions, and large consumer communities.",
+            "reference": "Vendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with vendors and service providers...; Corporate and other Community Sharing: If you access the Service as part of a company plan, government program, or wellness platform, we may share aggregate or member level Personal Data with the organization you are associated with...; URL: https://www.rootd.io/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b6dadb8e8163710e57e0a6f0dc3424d4d8affb064b5dea57dc6d82fb420a69c0",
+                "score": 0.94355595,
+                "excerpt": "email delivery and in-app/push messaging services, advertising and marketing services, payment processors, content monitoring services, and web, subscription, and app analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Data in the course of performing their duties to us. We take commercially reasonable steps to ensure our service providers adhere to the security standards we apply to your Personal Data.\nBusiness Transfers: If we are involved in...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "cece1b9c13f1935243cf796b35e0eb77a86740009b330eb4dc4f45fd94cccfb8",
+                "score": 0.92905515,
+                "excerpt": "to you. For instance, if you elect to provide your email, we may use that information to send you special offers. You may opt out of receiving emails by following the instructions contained in each promotional email we send you. In addition, if at any time you do not wish to receive future marketing communications, you may contact us. If you unsubscribe from our marketing lists, you will no longer receive marketing communications but we may continue to contact you regarding management of your ac...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "f597fc297058b867445657552024b5a1f805ab7c5d05f450b9d1192cf301f0b7",
+                "score": 0.8039445,
+                "excerpt": "requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Service, or the public, or (v) protect against legal liability.\nAdvertisements: We may share data with third parties, such as Facebook, in order to serve Rootd advertisements on such third party platforms, to the extent that you have consented to such practices under applicable law.\nCorporate and other Community Sharing: If you access ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "01191042de8165dd25d53377b3fd2ed95b974ada8eef61a995a484c8163468a9",
+                "score": 0.6073139,
+                "excerpt": "this information for the business and commercial purposes described in the “How We Use” section above. We share this information with the categories of third parties described in the “How We Share Data” section above.\nSubject to certain limitations and exceptions, the CCPA provides California consumers the right to request to know more details about the categories and specific pieces of personal information, to delete their personal information, to opt out of any “sales” that may be occurring, a...",
+                "url": "https://www.rootd.io/privacy-policy"
+            },
+            {
+                "id": "6ac4ef87f963601e64b8faa4b9a11d550162a7d50bdad97e9a41ee2cf4114559",
+                "score": 0.3685193,
+                "excerpt": "for market research seeking your opinion and feedback. Providing this information is optional to you.\n- Social Media Data: We have pages on social media sites like Instagram, Facebook, Twitter, and LinkedIn (“Social Media Pages”). When you interact with our Social Media Pages, we may collect Personal Data that you elect to provide to us, such as your contact details. In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the ...",
+                "url": "https://www.rootd.io/privacy-policy"
+            }
+        ]
+    }
+]

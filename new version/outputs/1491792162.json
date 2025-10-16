@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1491792162,
+            "url": "https://www.thelucidproject.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data in its Privacy Policy document.",
+            "reference": "This Privacy Policy may be updated from time-to-time at our sole discretion. You can determine when this Privacy Policy was last updated by referring to the 'Last Updated' date at the top of this page. Please note that this Privacy Policy only applies to the processing of personal data carried out by LUCID as a data controller. URL: https://www.thelucidproject.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4eb3540ae40deabe69ae9b62936ba8ddecc4a2ebcc7a81aa4000d964807f2195",
+                "score": 0.08093671,
+                "excerpt": "note that this Privacy Policy only applies to the processing of personal data carried out by LUCID as a data controller. The Personal Information Protection and Electronic Document Act (PIPEDA) and the App Store privacy guidelines have been taken into account in the drafting of this Privacy Policy.\n2. HOW OUR APP WORKS\nVIBE hosts a number of features but the core of the product is to use music and psychoacoustics to help users manage their personal mental wellbeing. Each time Users log in to the...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "987b826c446d2ebbbe57aec4b0d62c336349efc310ef6e7f4a7c6c35b2f919b6",
+                "score": 0.052327625,
+                "excerpt": "Privacy Policy: VIBE App\nLUCID, Inc.\nPRIVACY POLICY for VIBE App\nLast Update: July 16th 2021\n1. ABOUT THIS DOCUMENT\nLUCID Inc. (“LUCID”, “us,“ “we,” or “our”) is committed to data and privacy protection in connection with the use of our applications (“App(s)”) and other products, services and features thereof (collectively, the “Services”).\nThis Privacy Policy (“Policy”) has been put together to provide our users (“Users” or “you”) with information about the privacy practices of our Services. We...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "82fd6cf6096de34c81060d97b92319025761bcdf3da894e7929ce8f222b7fdbc",
+                "score": 0.0015608892,
+                "excerpt": "you will be required to register a User Account. A User Account is stored information that we keep on individual Users that details their music preferences, responses, and interactions. Data stored with User Accounts include: ●Unique User ID ●Email Address ●Age ●Gender identity ●Baseline profile survey (STOMP, STAI-Trait, Big 5 Personality Trait) ●Biometric data acquired through wearable devices (optional) ●Emotional and cognitive self-assessment data*\n*These include the following self-assessmen...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "3d7a6f8ad3ea70ef07de7f1d6868986e830eb67af7a1eef27d7956166018a88c",
+                "score": 0.0014895174,
+                "excerpt": "the request unless we have legitimate grounds not to. You may also object to our collection, use, and disclosure if it is out of the scope for the purpose of our Services or for legal compliance. If we do not have legitimate grounds to collect, use, or disclose your personal data, we will cease collection, use, and disclosure upon your objection.\nMINOR’S RIGHTS TO DATAUsers under the age of 18 or under the minimum age based on your jurisdiction are not permitted to create accounts without parent...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "60a76219ee14f07136b840fecbd3b951b55049e2a4b7b7409b767c28be5a1308",
+                "score": 0.0012545944,
+                "excerpt": "AND MAINTAIN THE SERVICESFirst and foremost, we use personal data to offer the Services to you. For example, we need user assessment data to understand your current mood and/or physiological state. We also need a baseline profile to personalize your experience further based on the general trends of your mood states. This allows our algorithms to provide you with curated musical solutions personalized to your current state and your personal goal. TO IMPROVE THE SERVICESWe use the information we c...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1491792162,
+            "url": "https://www.thelucidproject.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Unique User ID, Email Address, Age, Gender identity, Baseline profile survey data (STOMP, STAI-Trait, Big 5 Personality Trait), Biometric data acquired through wearable devices, Emotional and cognitive self-assessment data including Arousal / Valence Grid, SUDS (Subjective Units of Discomfort) - Anxiety, POMS (Profile of mood states).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Unique User ID",
+                        "Email Address",
+                        "Age",
+                        "Gender identity",
+                        "Baseline profile survey data (STOMP, STAI-Trait, Big 5 Personality Trait)",
+                        "Biometric data acquired through wearable devices",
+                        "Emotional and cognitive self-assessment data including Arousal / Valence Grid",
+                        "SUDS (Subjective Units of Discomfort) - Anxiety",
+                        "POMS (Profile of mood states)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the types of data collected by the app, ranging from user identification information to emotional and cognitive self-assessment data.",
+            "reference": "The app collects Unique User ID, Email Address, Age, Gender identity, Baseline profile survey data (STOMP, STAI-Trait, Big 5 Personality Trait), Biometric data acquired through wearable devices, Emotional and cognitive self-assessment data including Arousal / Valence Grid, SUDS (Subjective Units of Discomfort) - Anxiety, POMS (Profile of mood states).; URL: https://www.thelucidproject.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4eb3540ae40deabe69ae9b62936ba8ddecc4a2ebcc7a81aa4000d964807f2195",
+                "score": 0.3351332,
+                "excerpt": "note that this Privacy Policy only applies to the processing of personal data carried out by LUCID as a data controller. The Personal Information Protection and Electronic Document Act (PIPEDA) and the App Store privacy guidelines have been taken into account in the drafting of this Privacy Policy.\n2. HOW OUR APP WORKS\nVIBE hosts a number of features but the core of the product is to use music and psychoacoustics to help users manage their personal mental wellbeing. Each time Users log in to the...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "82fd6cf6096de34c81060d97b92319025761bcdf3da894e7929ce8f222b7fdbc",
+                "score": 0.035144847,
+                "excerpt": "you will be required to register a User Account. A User Account is stored information that we keep on individual Users that details their music preferences, responses, and interactions. Data stored with User Accounts include: ●Unique User ID ●Email Address ●Age ●Gender identity ●Baseline profile survey (STOMP, STAI-Trait, Big 5 Personality Trait) ●Biometric data acquired through wearable devices (optional) ●Emotional and cognitive self-assessment data*\n*These include the following self-assessmen...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "3de6dd12aae166885ba6b618995c4be0b1ce2d695d9916a4be1f6e7129a605a5",
+                "score": 0.008610767,
+                "excerpt": "information, you may not be able to register for, access, or otherwise use certain benefits of the Services, which may be conditioned upon certain eligibility requirements, such as age and the assessment needed for a personalized experience.\nC. HEALTH DATAIn order to provide a fully personalized user experience, our machine learning requires emotional and cognitive self-assessment at the beginning and end of the experience, as well as biometric information provided through wearable devices (opti...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "987b826c446d2ebbbe57aec4b0d62c336349efc310ef6e7f4a7c6c35b2f919b6",
+                "score": 0.008061991,
+                "excerpt": "Privacy Policy: VIBE App\nLUCID, Inc.\nPRIVACY POLICY for VIBE App\nLast Update: July 16th 2021\n1. ABOUT THIS DOCUMENT\nLUCID Inc. (“LUCID”, “us,“ “we,” or “our”) is committed to data and privacy protection in connection with the use of our applications (“App(s)”) and other products, services and features thereof (collectively, the “Services”).\nThis Privacy Policy (“Policy”) has been put together to provide our users (“Users” or “you”) with information about the privacy practices of our Services. We...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "60a76219ee14f07136b840fecbd3b951b55049e2a4b7b7409b767c28be5a1308",
+                "score": 0.005099818,
+                "excerpt": "AND MAINTAIN THE SERVICESFirst and foremost, we use personal data to offer the Services to you. For example, we need user assessment data to understand your current mood and/or physiological state. We also need a baseline profile to personalize your experience further based on the general trends of your mood states. This allows our algorithms to provide you with curated musical solutions personalized to your current state and your personal goal. TO IMPROVE THE SERVICESWe use the information we c...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1491792162,
+            "url": "https://www.thelucidproject.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by utilizing music and psychoacoustics to help users manage their personal mental wellbeing. It collects user self-assessment scores and biometric data to provide personalized music interventions and better user experiences.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app focuses on using music and psychoacoustics to aid users in managing their mental wellbeing and describes how user self-assessment scores and biometric data are collected and used to personalize music interventions and enhance user experiences.",
+            "reference": "VIBE hosts a number of features but the core of the product is to use music and psychoacoustics to help users manage their personal mental wellbeing. Each time Users log in to the VIBE App and selects one of our core music interventions...these results enable our machine learning algorithm to provide users with curated music personalized for their mental state and optimized to reach their goal state. As an additional option, biometric data acquired through wearable devices can be used for additional measurements to improve the accuracy of the machine learning system. URL: https://www.thelucidproject.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4eb3540ae40deabe69ae9b62936ba8ddecc4a2ebcc7a81aa4000d964807f2195",
+                "score": 0.034880888,
+                "excerpt": "note that this Privacy Policy only applies to the processing of personal data carried out by LUCID as a data controller. The Personal Information Protection and Electronic Document Act (PIPEDA) and the App Store privacy guidelines have been taken into account in the drafting of this Privacy Policy.\n2. HOW OUR APP WORKS\nVIBE hosts a number of features but the core of the product is to use music and psychoacoustics to help users manage their personal mental wellbeing. Each time Users log in to the...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "3d7a6f8ad3ea70ef07de7f1d6868986e830eb67af7a1eef27d7956166018a88c",
+                "score": 0.027532939,
+                "excerpt": "the request unless we have legitimate grounds not to. You may also object to our collection, use, and disclosure if it is out of the scope for the purpose of our Services or for legal compliance. If we do not have legitimate grounds to collect, use, or disclose your personal data, we will cease collection, use, and disclosure upon your objection.\nMINOR’S RIGHTS TO DATAUsers under the age of 18 or under the minimum age based on your jurisdiction are not permitted to create accounts without parent...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "3de6dd12aae166885ba6b618995c4be0b1ce2d695d9916a4be1f6e7129a605a5",
+                "score": 0.020764738,
+                "excerpt": "information, you may not be able to register for, access, or otherwise use certain benefits of the Services, which may be conditioned upon certain eligibility requirements, such as age and the assessment needed for a personalized experience.\nC. HEALTH DATAIn order to provide a fully personalized user experience, our machine learning requires emotional and cognitive self-assessment at the beginning and end of the experience, as well as biometric information provided through wearable devices (opti...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "987b826c446d2ebbbe57aec4b0d62c336349efc310ef6e7f4a7c6c35b2f919b6",
+                "score": 0.013480103,
+                "excerpt": "Privacy Policy: VIBE App\nLUCID, Inc.\nPRIVACY POLICY for VIBE App\nLast Update: July 16th 2021\n1. ABOUT THIS DOCUMENT\nLUCID Inc. (“LUCID”, “us,“ “we,” or “our”) is committed to data and privacy protection in connection with the use of our applications (“App(s)”) and other products, services and features thereof (collectively, the “Services”).\nThis Privacy Policy (“Policy”) has been put together to provide our users (“Users” or “you”) with information about the privacy practices of our Services. We...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "32c52351231858af8ddb942527d3af54f2342d4817647533c42c9153e0f0a8d6",
+                "score": 0.0025016968,
+                "excerpt": "separated from these records in these instances,\n5. SHARING YOUR PERSONAL INFORMATION\nWe do not share personal information with third parties outside of our organization unless one of the following circumstances applies:\nFOR RELEASE REQUIRED BY LAWWe may process and transfer personal information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, or as otherwise required by law. Where possible, we will inform Users about such tr...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1491792162,
+            "url": "https://www.thelucidproject.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the right to withdraw their consent, update information, erase data from the system, and object to data collection, use, and disclosure. This provides users with the ability to opt out of data collection or delete their data.",
+            "reference": "You have the right to withdraw consent at any time. Withdrawing your consent may result in less access to our Services. The withdrawal of consent does not affect the collection, use, and disclosure of the personal information prior to the request for withdrawal. URL: https://www.thelucidproject.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3de6dd12aae166885ba6b618995c4be0b1ce2d695d9916a4be1f6e7129a605a5",
+                "score": 0.8467045,
+                "excerpt": "information, you may not be able to register for, access, or otherwise use certain benefits of the Services, which may be conditioned upon certain eligibility requirements, such as age and the assessment needed for a personalized experience.\nC. HEALTH DATAIn order to provide a fully personalized user experience, our machine learning requires emotional and cognitive self-assessment at the beginning and end of the experience, as well as biometric information provided through wearable devices (opti...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "478226c49fae722b2f24d4a95f4d6935281ec848d6bd0128bc968191038998c4",
+                "score": 0.82810634,
+                "excerpt": "we cannot guarantee the security of any information you provide to us or guarantee that information may not be accessed, disclosed, altered, or destroyed by unauthorized persons.\n8. YOUR RIGHTS\nRIGHT TO ACCESS YOUR PERSONAL DATAYou have the right to access your personal data that we use, collect or disclose. You may do this by contacting us.\nRIGHT TO WITHDRAW CONSENTYou have the right to withdraw consent at any time. There is implied consent when you browse the site and expressed consent is give...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "3d7a6f8ad3ea70ef07de7f1d6868986e830eb67af7a1eef27d7956166018a88c",
+                "score": 0.7090191,
+                "excerpt": "the request unless we have legitimate grounds not to. You may also object to our collection, use, and disclosure if it is out of the scope for the purpose of our Services or for legal compliance. If we do not have legitimate grounds to collect, use, or disclose your personal data, we will cease collection, use, and disclosure upon your objection.\nMINOR’S RIGHTS TO DATAUsers under the age of 18 or under the minimum age based on your jurisdiction are not permitted to create accounts without parent...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "857d823788b146210c02a111053ff5baaa9add8152c3d6e8fb0ebf75d04c7518",
+                "score": 0.40133578,
+                "excerpt": "deletion.\nIn addition, we do not delete from our servers files containing non-identifying information that you have in common with other Users. Without your request to delete your information, we will retain personal information for a minimum of one year. We will destroy or anonymize your personal information within three years after it is no longer required to provide the Services.\n7. INFORMATION SECURITY\nThe security of your information is very important to us. We use commercially reasonable s...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "13a26ae30b946d0628e2cdbfd8ce79d4f866e11e668bd5715aa054503dc2fb74",
+                "score": 0.08344117,
+                "excerpt": "this Privacy Policy concerning personal information do not apply to non-identifying Information.\nNO RELEASE FOR MARKETING PURPOSES LUCID will not share, sell, rent, trade, or disclose personal information to any third party for marketing or commercial purposes, unless you have granted us permission in writing to do so.\n6. DATA RETENTION\nWe will retain User Information and Biometric Data for as long as your User Account is active or as long as needed to provide you with the Services. If you wish ...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1491792162,
+            "url": "https://www.thelucidproject.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share personal information with third parties outside LUCID's organization under specific circumstances such as required by law or with explicit user consent.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share personal information with third parties outside their organization under certain conditions.",
+            "reference": "We do not share personal information with third parties outside of our organization unless one of the following circumstances applies: FOR RELEASE REQUIRED BY LAW We may process and transfer personal information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, or as otherwise required by law. Where possible, we will inform Users about such transfer and processing. WITH YOUR EXPLICIT CONSENT We may share personal information with third parties outside LUCID’s organization for other reasons than the ones mentioned before, when we have the User’s explicit consent to do so. The User has the right to withdraw this consent at all times. ANONYMIZED DATA We may disclose aggregated information that does not include personal information and we may disclose non-identifying information and Log Data to third parties for industry analysis and consultation. Any information or Log Data shared in these contexts will not contain personal user information (only anonymized health data). The limitations and requirements in this Privacy Policy concerning personal information do not apply to non-identifying Information. NO RELEASE FOR MARKETING PURPOSES LUCID will not share, sell, rent, trade, or disclose personal information to any third party for marketing or commercial purposes, unless you have granted us permission in writing to do so. URL: https://www.thelucidproject.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "32c52351231858af8ddb942527d3af54f2342d4817647533c42c9153e0f0a8d6",
+                "score": 0.9947187,
+                "excerpt": "separated from these records in these instances,\n5. SHARING YOUR PERSONAL INFORMATION\nWe do not share personal information with third parties outside of our organization unless one of the following circumstances applies:\nFOR RELEASE REQUIRED BY LAWWe may process and transfer personal information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, or as otherwise required by law. Where possible, we will inform Users about such tr...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "60a76219ee14f07136b840fecbd3b951b55049e2a4b7b7409b767c28be5a1308",
+                "score": 0.9859364,
+                "excerpt": "AND MAINTAIN THE SERVICESFirst and foremost, we use personal data to offer the Services to you. For example, we need user assessment data to understand your current mood and/or physiological state. We also need a baseline profile to personalize your experience further based on the general trends of your mood states. This allows our algorithms to provide you with curated musical solutions personalized to your current state and your personal goal. TO IMPROVE THE SERVICESWe use the information we c...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "13a26ae30b946d0628e2cdbfd8ce79d4f866e11e668bd5715aa054503dc2fb74",
+                "score": 0.55700207,
+                "excerpt": "this Privacy Policy concerning personal information do not apply to non-identifying Information.\nNO RELEASE FOR MARKETING PURPOSES LUCID will not share, sell, rent, trade, or disclose personal information to any third party for marketing or commercial purposes, unless you have granted us permission in writing to do so.\n6. DATA RETENTION\nWe will retain User Information and Biometric Data for as long as your User Account is active or as long as needed to provide you with the Services. If you wish ...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "4eb3540ae40deabe69ae9b62936ba8ddecc4a2ebcc7a81aa4000d964807f2195",
+                "score": 0.010448625,
+                "excerpt": "note that this Privacy Policy only applies to the processing of personal data carried out by LUCID as a data controller. The Personal Information Protection and Electronic Document Act (PIPEDA) and the App Store privacy guidelines have been taken into account in the drafting of this Privacy Policy.\n2. HOW OUR APP WORKS\nVIBE hosts a number of features but the core of the product is to use music and psychoacoustics to help users manage their personal mental wellbeing. Each time Users log in to the...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "987b826c446d2ebbbe57aec4b0d62c336349efc310ef6e7f4a7c6c35b2f919b6",
+                "score": 0.0063883206,
+                "excerpt": "Privacy Policy: VIBE App\nLUCID, Inc.\nPRIVACY POLICY for VIBE App\nLast Update: July 16th 2021\n1. ABOUT THIS DOCUMENT\nLUCID Inc. (“LUCID”, “us,“ “we,” or “our”) is committed to data and privacy protection in connection with the use of our applications (“App(s)”) and other products, services and features thereof (collectively, the “Services”).\nThis Privacy Policy (“Policy”) has been put together to provide our users (“Users” or “you”) with information about the privacy practices of our Services. We...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1491792162,
+            "url": "https://www.thelucidproject.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third parties outside LUCID's organization with the User's explicit consent.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "third parties outside LUCID's organization with the User's explicit consent"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties outside the organization only with the User's explicit consent, ensuring transparency and user control over their data sharing.",
+            "reference": "We may share personal information with third parties outside LUCID’s organization for reasons other than those mentioned before, when we have the User's explicit consent to do so. The User has the right to withdraw this consent at all times. URL: https://www.thelucidproject.ca/privacy-policy",
+            "URL": "https://www.thelucidproject.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "32c52351231858af8ddb942527d3af54f2342d4817647533c42c9153e0f0a8d6",
+                "score": 0.9587699,
+                "excerpt": "separated from these records in these instances,\n5. SHARING YOUR PERSONAL INFORMATION\nWe do not share personal information with third parties outside of our organization unless one of the following circumstances applies:\nFOR RELEASE REQUIRED BY LAWWe may process and transfer personal information and any other information available to us in order to investigate, prevent or take action regarding illegal activities, or as otherwise required by law. Where possible, we will inform Users about such tr...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "60a76219ee14f07136b840fecbd3b951b55049e2a4b7b7409b767c28be5a1308",
+                "score": 0.6706083,
+                "excerpt": "AND MAINTAIN THE SERVICESFirst and foremost, we use personal data to offer the Services to you. For example, we need user assessment data to understand your current mood and/or physiological state. We also need a baseline profile to personalize your experience further based on the general trends of your mood states. This allows our algorithms to provide you with curated musical solutions personalized to your current state and your personal goal. TO IMPROVE THE SERVICESWe use the information we c...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "13a26ae30b946d0628e2cdbfd8ce79d4f866e11e668bd5715aa054503dc2fb74",
+                "score": 0.5028534,
+                "excerpt": "this Privacy Policy concerning personal information do not apply to non-identifying Information.\nNO RELEASE FOR MARKETING PURPOSES LUCID will not share, sell, rent, trade, or disclose personal information to any third party for marketing or commercial purposes, unless you have granted us permission in writing to do so.\n6. DATA RETENTION\nWe will retain User Information and Biometric Data for as long as your User Account is active or as long as needed to provide you with the Services. If you wish ...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "987b826c446d2ebbbe57aec4b0d62c336349efc310ef6e7f4a7c6c35b2f919b6",
+                "score": 0.005001672,
+                "excerpt": "Privacy Policy: VIBE App\nLUCID, Inc.\nPRIVACY POLICY for VIBE App\nLast Update: July 16th 2021\n1. ABOUT THIS DOCUMENT\nLUCID Inc. (“LUCID”, “us,“ “we,” or “our”) is committed to data and privacy protection in connection with the use of our applications (“App(s)”) and other products, services and features thereof (collectively, the “Services”).\nThis Privacy Policy (“Policy”) has been put together to provide our users (“Users” or “you”) with information about the privacy practices of our Services. We...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            },
+            {
+                "id": "857d823788b146210c02a111053ff5baaa9add8152c3d6e8fb0ebf75d04c7518",
+                "score": 0.0042646346,
+                "excerpt": "deletion.\nIn addition, we do not delete from our servers files containing non-identifying information that you have in common with other Users. Without your request to delete your information, we will retain personal information for a minimum of one year. We will destroy or anonymize your personal information within three years after it is no longer required to provide the Services.\n7. INFORMATION SECURITY\nThe security of your information is very important to us. We use commercially reasonable s...",
+                "url": "https://www.thelucidproject.ca/privacy-policy"
+            }
+        ]
+    }
+]

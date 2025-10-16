@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1584145241,
+            "url": "https://www.fkabrands.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects and uses personal information for various purposes.",
+            "reference": "FKA Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. URL: https://www.fkabrands.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9487a186b28a95cfdcec707ecd782a8aa01be2ac39fb858c26c8b1e6d375e6d1",
+                "score": 0.0065642493,
+                "excerpt": "Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market rese...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "14bcc5eb0333acc8accecc14b699f0f0fc7fdf23d5ff368a17d5e15c0091a630",
+                "score": 0.006338922,
+                "excerpt": "Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.\nWhen we disclose personal information\nYour personal information may be shared with other FKA Brands business units. They will protect your personal information in accordance with the FKA Brands Customer Privacy Policy.\nFKA Brands also works with other companies th...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "a84138de9151481b2f19e04ce32175cb50207d62024a366e1e7f4f07f0825e23",
+                "score": 0.0023231625,
+                "excerpt": "Shield framework, and to view the Companies’ certification, please visit www.privacyshield.gov/welcome.\nThis Privacy Policy sets forth the privacy principles that FKA Brands follows with respect to personal information transferred from the European Union (EU) to the United States and is in accordance with the agreed upon framework (the “Privacy Shield Framework”) between the US Department of Commerce and the European Commission. FKA Brands complies with the EU-U.S. Privacy Shield framework as se...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "028845bcc3a567bc67c744c6d23ecd931417710d9332dbe437bdefa272979109",
+                "score": 0.00062389387,
+                "excerpt": "is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.\nOur company-wide commitment to privacy\nTo make sure your personal information remains confidential, we communicate these privacy guidelines to every FKA Brands employee. FKA Brands does not knowingly solicit personal information from children or send them requests for personal information.\nIf we are going to use your personal informati...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "2f651615bf282e4142559eb4cbf15691872b8a1b79b38f875d38be4e12c1473c",
+                "score": 0.0003668626,
+                "excerpt": "Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about ho...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1584145241,
+            "url": "https://www.fkabrands.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app declares the collection of the following data types: Name, Email Address, Phone Number, Postal Address, Payment Information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Email Address",
+                        "Phone Number",
+                        "Postal Address",
+                        "Payment Information"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the explicit mention of the types of data collected in the privacy policy for the app.",
+            "reference": "Personal data shared with third-parties includes: - Name - Email Address - Phone Number - Postal Address - Payment Information. FKA Brands will always ask for your consent before sharing your Personal Information with a Third Party for purposes other than those described in this section. URL: https://www.fkabrands.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9487a186b28a95cfdcec707ecd782a8aa01be2ac39fb858c26c8b1e6d375e6d1",
+                "score": 0.042722195,
+                "excerpt": "Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market rese...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "a84138de9151481b2f19e04ce32175cb50207d62024a366e1e7f4f07f0825e23",
+                "score": 0.009161027,
+                "excerpt": "Shield framework, and to view the Companies’ certification, please visit www.privacyshield.gov/welcome.\nThis Privacy Policy sets forth the privacy principles that FKA Brands follows with respect to personal information transferred from the European Union (EU) to the United States and is in accordance with the agreed upon framework (the “Privacy Shield Framework”) between the US Department of Commerce and the European Commission. FKA Brands complies with the EU-U.S. Privacy Shield framework as se...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "2f651615bf282e4142559eb4cbf15691872b8a1b79b38f875d38be4e12c1473c",
+                "score": 0.008610767,
+                "excerpt": "Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about ho...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "14bcc5eb0333acc8accecc14b699f0f0fc7fdf23d5ff368a17d5e15c0091a630",
+                "score": 0.0085443305,
+                "excerpt": "Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.\nWhen we disclose personal information\nYour personal information may be shared with other FKA Brands business units. They will protect your personal information in accordance with the FKA Brands Customer Privacy Policy.\nFKA Brands also works with other companies th...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "028845bcc3a567bc67c744c6d23ecd931417710d9332dbe437bdefa272979109",
+                "score": 0.0016040893,
+                "excerpt": "is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.\nOur company-wide commitment to privacy\nTo make sure your personal information remains confidential, we communicate these privacy guidelines to every FKA Brands employee. FKA Brands does not knowingly solicit personal information from children or send them requests for personal information.\nIf we are going to use your personal informati...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1584145241,
+            "url": "https://www.fkabrands.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The app collects personal information to provide customer service, access to products, keep users informed about products, offers, and promotions, conduct market research surveys, and process online purchases.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information is collected for specific purposes related to customer service, product access, notifications, market research, and online purchases.",
+            "reference": "Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market research survey, so that we can gauge customer satisfaction and develop better products. Moreover, we may collect your billing and shipping information for processing an online purchase. URL: https://www.fkabrands.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9487a186b28a95cfdcec707ecd782a8aa01be2ac39fb858c26c8b1e6d375e6d1",
+                "score": 0.015365342,
+                "excerpt": "Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market rese...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "a84138de9151481b2f19e04ce32175cb50207d62024a366e1e7f4f07f0825e23",
+                "score": 0.010052369,
+                "excerpt": "Shield framework, and to view the Companies’ certification, please visit www.privacyshield.gov/welcome.\nThis Privacy Policy sets forth the privacy principles that FKA Brands follows with respect to personal information transferred from the European Union (EU) to the United States and is in accordance with the agreed upon framework (the “Privacy Shield Framework”) between the US Department of Commerce and the European Commission. FKA Brands complies with the EU-U.S. Privacy Shield framework as se...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "14bcc5eb0333acc8accecc14b699f0f0fc7fdf23d5ff368a17d5e15c0091a630",
+                "score": 0.004038592,
+                "excerpt": "Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.\nWhen we disclose personal information\nYour personal information may be shared with other FKA Brands business units. They will protect your personal information in accordance with the FKA Brands Customer Privacy Policy.\nFKA Brands also works with other companies th...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "2f651615bf282e4142559eb4cbf15691872b8a1b79b38f875d38be4e12c1473c",
+                "score": 0.0034030052,
+                "excerpt": "Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about ho...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "01fab177d095f36901009e1011a304aeae1b119a7de8d034146ae43075a142f7",
+                "score": 0.0027255826,
+                "excerpt": "for purposes other than those described in this section.\nAt times we may be required by law or legal process to disclose your personal information. FKA Brands is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.\nHow we protect your personal information\nFKA Brands places safeguards to protect against the loss, misuse, unauthorized access and alteration of the data you send us with ph...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1584145241,
+            "url": "https://www.fkabrands.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. Users have the right to access, amend, correct, and review their personal information held by FKA Brands. They can also withdraw their consent for data collection, use, or disclosure by contacting FKA Brands.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users have the right to access, amend, correct, and review their personal information. Additionally, users can withdraw their consent for data collection, use, or disclosure by contacting FKA Brands directly.",
+            "reference": "You retain all rights to your Personal Information and can access, amend, and correct it anytime. If you would like to review personal information that FKA Brands may have about you, email us at privacy@fkabrands.com. How to withdraw your consent: If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at privacy@fkabrands.com or mailing us at: FKA Brands Privacy Department 3000 N. Pontiac Trail Commerce Township, MI 48390. URL: https://www.fkabrands.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9052cf80fea86ea40036470c7edaedc49161c8f478e77add00a3f4bafbc1c64c",
+                "score": 0.026205415,
+                "excerpt": "contract, and is subject, by law, to a comparable level of protection as that provided by FKA Brands.\nFKA Brands will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that FKA Brands determines is in violation of this policy will be subject to disciplinary action up to and including termination of employment. FKA Brands will conduct an annual review to ensure adherence to the Privacy Shield framework requirements and complaint handling ...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "028845bcc3a567bc67c744c6d23ecd931417710d9332dbe437bdefa272979109",
+                "score": 0.009055264,
+                "excerpt": "is your destination. We track click-throughs to help us determine your interest in particular topics and measure the effectiveness of our customer communications.\nOur company-wide commitment to privacy\nTo make sure your personal information remains confidential, we communicate these privacy guidelines to every FKA Brands employee. FKA Brands does not knowingly solicit personal information from children or send them requests for personal information.\nIf we are going to use your personal informati...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "a84138de9151481b2f19e04ce32175cb50207d62024a366e1e7f4f07f0825e23",
+                "score": 0.0065388246,
+                "excerpt": "Shield framework, and to view the Companies’ certification, please visit www.privacyshield.gov/welcome.\nThis Privacy Policy sets forth the privacy principles that FKA Brands follows with respect to personal information transferred from the European Union (EU) to the United States and is in accordance with the agreed upon framework (the “Privacy Shield Framework”) between the US Department of Commerce and the European Commission. FKA Brands complies with the EU-U.S. Privacy Shield framework as se...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "414fc83cfbe87acd9b1fd957f5310ef246aa43ff8c02ae53471031a10bf415bb",
+                "score": 0.00498227,
+                "excerpt": "has been used in a manner not consistent with the policies outlined, please contact us using the information provided above. If your complaint remains unresolved, you may also contact the International Centre for Dispute Resolution®, the international division of the American Arbitration Association® (ICDR/AAA). This organization provides independent dispute resolution services, at no charge to you. ICDR/AAA can be contacted at go.adr.org/privacyshield.html\nIf, after attempting to resolve a disp...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "14bcc5eb0333acc8accecc14b699f0f0fc7fdf23d5ff368a17d5e15c0091a630",
+                "score": 0.0049436893,
+                "excerpt": "Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.\nWhen we disclose personal information\nYour personal information may be shared with other FKA Brands business units. They will protect your personal information in accordance with the FKA Brands Customer Privacy Policy.\nFKA Brands also works with other companies th...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1584145241,
+            "url": "https://www.fkabrands.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares personal data such as name, email address, phone number, postal address, and payment information with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that personal data including name, email address, phone number, postal address, and payment information is shared with third parties under specific circumstances.",
+            "reference": "Personal data shared with third-parties includes: - Name - Email Address - Phone Number - Postal Address - Payment Information. FKA Brands will always ask for your consent before sharing your Personal Information with a Third Party for purposes other than those described in this section. URL: https://www.fkabrands.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "14bcc5eb0333acc8accecc14b699f0f0fc7fdf23d5ff368a17d5e15c0091a630",
+                "score": 0.9549844,
+                "excerpt": "Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.\nWhen we disclose personal information\nYour personal information may be shared with other FKA Brands business units. They will protect your personal information in accordance with the FKA Brands Customer Privacy Policy.\nFKA Brands also works with other companies th...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "9487a186b28a95cfdcec707ecd782a8aa01be2ac39fb858c26c8b1e6d375e6d1",
+                "score": 0.08787644,
+                "excerpt": "Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market rese...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "01fab177d095f36901009e1011a304aeae1b119a7de8d034146ae43075a142f7",
+                "score": 0.03302355,
+                "excerpt": "for purposes other than those described in this section.\nAt times we may be required by law or legal process to disclose your personal information. FKA Brands is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.\nHow we protect your personal information\nFKA Brands places safeguards to protect against the loss, misuse, unauthorized access and alteration of the data you send us with ph...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "a84138de9151481b2f19e04ce32175cb50207d62024a366e1e7f4f07f0825e23",
+                "score": 0.0087791085,
+                "excerpt": "Shield framework, and to view the Companies’ certification, please visit www.privacyshield.gov/welcome.\nThis Privacy Policy sets forth the privacy principles that FKA Brands follows with respect to personal information transferred from the European Union (EU) to the United States and is in accordance with the agreed upon framework (the “Privacy Shield Framework”) between the US Department of Commerce and the European Commission. FKA Brands complies with the EU-U.S. Privacy Shield framework as se...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "2f651615bf282e4142559eb4cbf15691872b8a1b79b38f875d38be4e12c1473c",
+                "score": 0.0043483814,
+                "excerpt": "Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about ho...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1584145241,
+            "url": "https://www.fkabrands.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with other FKA Brands business units, shipping companies for delivery purposes, companies that help provide products and services, and third parties as required by law or legal process.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "FKA Brands business units",
+                        "Shipping companies",
+                        "Companies providing products and services",
+                        "Third parties as required by law or legal process"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that personal information may be shared with various entities including other business units within FKA Brands, shipping companies, companies providing products and services, and third parties as mandated by law or legal processes.",
+            "reference": "Personal data shared with third-parties includes: - Name - Email Address - Phone Number - Postal Address - Payment Information. FKA Brands also works with other companies that help us provide products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your refills or replacement products efficiently. The information they receive is for shipping and delivery purposes only. URL: https://www.fkabrands.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "14bcc5eb0333acc8accecc14b699f0f0fc7fdf23d5ff368a17d5e15c0091a630",
+                "score": 0.97057647,
+                "excerpt": "Ellia App captures an image and deletes the image captured within the amount of time it takes the App to recognize the color from your surroundings and match it to the mood light on your Ellia Aroma Diffuser, generally several seconds.\nWhen we disclose personal information\nYour personal information may be shared with other FKA Brands business units. They will protect your personal information in accordance with the FKA Brands Customer Privacy Policy.\nFKA Brands also works with other companies th...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "01fab177d095f36901009e1011a304aeae1b119a7de8d034146ae43075a142f7",
+                "score": 0.21900326,
+                "excerpt": "for purposes other than those described in this section.\nAt times we may be required by law or legal process to disclose your personal information. FKA Brands is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.\nHow we protect your personal information\nFKA Brands places safeguards to protect against the loss, misuse, unauthorized access and alteration of the data you send us with ph...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "9487a186b28a95cfdcec707ecd782a8aa01be2ac39fb858c26c8b1e6d375e6d1",
+                "score": 0.123365626,
+                "excerpt": "Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about. From time to time, we may also use your personal information to contact you to participate in a market rese...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "a84138de9151481b2f19e04ce32175cb50207d62024a366e1e7f4f07f0825e23",
+                "score": 0.024563089,
+                "excerpt": "Shield framework, and to view the Companies’ certification, please visit www.privacyshield.gov/welcome.\nThis Privacy Policy sets forth the privacy principles that FKA Brands follows with respect to personal information transferred from the European Union (EU) to the United States and is in accordance with the agreed upon framework (the “Privacy Shield Framework”) between the US Department of Commerce and the European Commission. FKA Brands complies with the EU-U.S. Privacy Shield framework as se...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            },
+            {
+                "id": "2f651615bf282e4142559eb4cbf15691872b8a1b79b38f875d38be4e12c1473c",
+                "score": 0.013902059,
+                "excerpt": "Microsoft Clarity and Microsoft Advertising to capture how you use and interact with our website through behavioral metrics, heatmaps, and session replay to improve and market our products/services. Website usage data is captured using first and third-party cookies and other tracking technologies to determine the popularity of products/services and online activity. Additionally, we use this information for site optimization, fraud/security purposes, and advertising. For more information about ho...",
+                "url": "https://www.fkabrands.com/privacy-policy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6474006415,
+      "url": "https://www.neurojourneyapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of both personal and non-personal data. It specifies that certain personal information is required for the operation of the services, and it also collects non-personally identifiable information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the types of personal information required and also mentions the collection of non-personal data.",
+          "content": "The Neuro Journey App requires users to provide personal information such as full name, email address, and date of birth, and it also collects non-personally identifiable information like IP address and device information."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected, ensuring transparency with users regarding their information.",
+      "reference": "INFORMATION YOU ARE REQUIRED TO PROVIDE; ADDITIONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474006415,
+      "url": "https://www.neurojourneyapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects both personal information and non-personally identifiable information. Personal information includes full name, email address, telephone, country, date of birth, and self-selected habits. Non-personally identifiable information includes browser or platform type, IP address, location information, transactional and billing information, device information, and account information.",
+        "simple_answer": "The app collects personal information and non-personally identifiable information.",
+        "extended_simple_answer": {
+          "comment": "The app requires certain personal information for operation and also collects additional non-personal data to enhance user experience.",
+          "content": "Personal information includes: full name, email address, telephone, country, date of birth, and self-selected habits. Non-personal information includes: browser type, IP address, location, transactional information, device information, and account information."
+        }
+      },
+      "analysis": "",
+      "reference": "INFORMATION YOU ARE REQUIRED TO PROVIDE, ADDITIONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474006415,
+      "url": "https://www.neurojourneyapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal information is collected for various purposes including registering users, delivering services, communicating with users, complying with contractual obligations, conducting research and development, marketing, and ensuring safety among others.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines multiple reasons for collecting personal information.",
+          "content": "The purposes include registering users, delivering services, communicating, complying with legal obligations, conducting research, marketing, and ensuring safety."
+        }
+      },
+      "analysis": "",
+      "reference": "WHY WE NEED YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474006415,
+      "url": "https://www.neurojourneyapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt-out of cookies by utilizing the settings provided in their browsers, but some functionality of the Services may be disabled or inaccessible if they do so. However, the policy does not explicitly mention a process for users to delete their data.",
+        "simple_answer": "Yes, users can opt-out of cookies, but there's no clear process for deleting data.",
+        "extended_simple_answer": {
+          "comment": "While users can manage cookie settings, the privacy policy lacks details on data deletion.",
+          "content": "Users can opt-out of cookies through their browser settings, but this may limit some functionalities. The policy does not provide a specific method for users to delete their personal data."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt-out of cookies, which is a form of data collection, but does not provide a clear mechanism for users to delete their personal data from the system.",
+      "reference": "COOKIES section and general data collection practices."
+    }
+  },
+  {
+    "meta": {
+      "id": 6474006415,
+      "url": "https://www.neurojourneyapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may disclose certain Personal Information to third party vendors who help provide the services, to third parties as requested by the user, to affiliates and partners, and if necessary to comply with laws or protect rights.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data for various reasons including service provision and legal compliance.",
+          "content": "The app may disclose Personal Information to third party vendors, affiliates, and in compliance with laws."
+        }
+      },
+      "analysis": "The privacy policy clearly states the circumstances under which personal information may be shared with third parties, indicating a structured approach to data sharing.",
+      "reference": "HOW WE MAY USE YOUR INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474006415,
+      "url": "https://www.neurojourneyapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose certain Personal Information to third party vendors who help provide the services, to third parties to whom you demand the app to send Personal Information, to affiliates, partners, subsidiaries, joint ventures, or other companies. Additionally, the app may disclose information if it believes in good faith that such disclosure is important to resolve disputes, investigate problems, enforce terms and conditions, comply with relevant laws, respond to law enforcement requests, or protect and defend its rights or property or the rights and property of you or third parties.",
+        "simple_answer": "The app shares data with third party vendors, affiliates, partners, and in compliance with legal obligations.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with various third parties under specific circumstances.",
+          "content": "The app may share data with third party vendors, affiliates, partners, and in cases of legal compliance or to protect rights."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW WE MAY USE YOUR INFORMATION"
+    }
+  }
+]

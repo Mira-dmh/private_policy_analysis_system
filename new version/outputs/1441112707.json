@@ -1,0 +1,328 @@
+[
+    {
+        "meta": {
+            "id": 1441112707,
+            "url": "https://joye.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects information from users and describes the type of data collected.",
+            "reference": "During the use of Joye, we collect information that you provide to us, and use it to provide you a better experience. In line with our strict privacy policy the employee information is encrypted and is anonymised for any analytics shared. URL: https://joye.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "684accf957d65da2bb5cacf2ab9232cb071a4bc6b29294e8d7a59d7b0b13798b",
+                "score": 0.087720014,
+                "excerpt": "that you read this Privacy Policy carefully to understand our treatment and use of personal data. Please note that by using our Product, you acknowledge that you have read and understood this Privacy Policy.\nIn case of any further doubts and clarifications, you can reach us at connect@joye.ai and we will endeavor to address your concern at the earliest.\nInformation we collect from you and how we use\nSigning in. Data Collected.\nYou have our promise to protect your privacy with advanced technology...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "ab970405a59549f0bd2f89524733cec826bbfe9b903e6ecf51b93f1baa56309a",
+                "score": 0.060418423,
+                "excerpt": "Our default locations are between USA, Singapore, or India. In line with GDPR guidelines we could also host your company’s data in any of these or any other location that you choose.\nContact information\nPlease contact us at connect@joye.ai\nDetailed\nThis Privacy Policy will inform you of the basis on which we collect personal information from you and the basis on which it is used, processed or disclosed by us. This Privacy Policy does not apply to any third-party websites, services or application...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "f2fa2a15918dad57acd83fb7960f6a524250b4f365ee7f9248584cd39db7a59d",
+                "score": 0.04858621,
+                "excerpt": "we do not knowingly collect personal data from minors. If a parent or legal guardian learns that their child has provided us with personal data without their consent, they may contact us as set forth below. If we learn that we have collected any personal data in violation of applicable law, we will promptly take steps to delete such personal data and terminate the minor’s account.\nWhere your data is stored and how we ensure it's security\nJoye’s architecture uses advanced technology and high secu...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "03e58e3baec103711bca71038842e4dd513e1fe7d9a7812acf8366a0b02b34ca",
+                "score": 0.037750274,
+                "excerpt": "are responsible for maintaining the security of any device on which you utilize the Services. Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any personal data you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unintentional disclosure.\nRevisions to Privacy Policy\nAny information that is collected via our Product is covered by the Privacy Policy in effect at the time such information is collected. We may r...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "7b3a19ed77c364e895b78c5a1005c57fc6189738095a64750a5de0f2c18202d6",
+                "score": 0.018264279,
+                "excerpt": "nor do we send unsolicited advertisements to the user. During the use of Joye, we collect information that you provide to us, and use it to provide you a better experience. In line with our strict privacy policy the employee information is encrypted and is anonymised for any analytics shared with the employer.\nIf you’re using Joye in Entomo, we use an anonymised technology that doesn’t receive any Personal Identifiable Information (PII) information – other than your company or department name in...",
+                "url": "https://joye.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1441112707,
+            "url": "https://joye.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects basic user profile information (email, time zone, unique identity parameters), analyzes users' free-busy time in the calendar without storing the content, and sends messages to users inside the Teams chat.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Basic user profile information (email, time zone, unique identity parameters)",
+                        "Analysis of users' free-busy time in the calendar without storing the content",
+                        "Sending messages to users inside the Teams chat"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies the types of data collected, which include basic user profile information, analysis of calendar data without storing content, and sending messages within the Teams chat.",
+            "reference": "The app declares the collection of data types such as basic user profile information, analysis of free-busy calendar time, and sending messages. URL: https://joye.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "684accf957d65da2bb5cacf2ab9232cb071a4bc6b29294e8d7a59d7b0b13798b",
+                "score": 0.30362856,
+                "excerpt": "that you read this Privacy Policy carefully to understand our treatment and use of personal data. Please note that by using our Product, you acknowledge that you have read and understood this Privacy Policy.\nIn case of any further doubts and clarifications, you can reach us at connect@joye.ai and we will endeavor to address your concern at the earliest.\nInformation we collect from you and how we use\nSigning in. Data Collected.\nYou have our promise to protect your privacy with advanced technology...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "878a731b1ae3402b65e4003aa9742d51d0744101582365a73135077bb8add381",
+                "score": 0.05613278,
+                "excerpt": "Private. Secure.\nISO 27001 Certified.\nGDPR Compliant.\nEU AI Act Compliant.\nMicrosoft 365 Certified.\nPrivacy Policy\n9th May 2023\nSummary\nWhat information we collect from you, and how we use it\nYou have our promise to protect your privacy with advanced technology and strict privacy policy. Joye is ISO 27001 certified for global standards of Information Security.\nOur Joye for Microsoft Teams offering uses Microsoft’s Active Directory Single-Sign-On (SSO) authentication, and needs a few basic inform...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "7b3a19ed77c364e895b78c5a1005c57fc6189738095a64750a5de0f2c18202d6",
+                "score": 0.05572029,
+                "excerpt": "nor do we send unsolicited advertisements to the user. During the use of Joye, we collect information that you provide to us, and use it to provide you a better experience. In line with our strict privacy policy the employee information is encrypted and is anonymised for any analytics shared with the employer.\nIf you’re using Joye in Entomo, we use an anonymised technology that doesn’t receive any Personal Identifiable Information (PII) information – other than your company or department name in...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "8ffe2c75485ce80c3c36ddc79281d6454dd3e7c7a21b9ffe7499dd04817aa47e",
+                "score": 0.052134257,
+                "excerpt": "also be conditional to your organisations policies and terms agreed with Joye.\nNotifications\nIf you are using Joye for Microsoft Teams, we may track your basic calendar schedule to access the pattern of free/busy time. We use this information to time the prompts – in our endeavour of providing you the right care at the right time. We do not use this information to ‘guess’ your emotion health. We don’t save this information once we send our the prompt.\nFinancial Information\nWithin the app, Joye d...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "f2fa2a15918dad57acd83fb7960f6a524250b4f365ee7f9248584cd39db7a59d",
+                "score": 0.039121646,
+                "excerpt": "we do not knowingly collect personal data from minors. If a parent or legal guardian learns that their child has provided us with personal data without their consent, they may contact us as set forth below. If we learn that we have collected any personal data in violation of applicable law, we will promptly take steps to delete such personal data and terminate the minor’s account.\nWhere your data is stored and how we ensure it's security\nJoye’s architecture uses advanced technology and high secu...",
+                "url": "https://joye.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1441112707,
+            "url": "https://joye.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data will be used only for the purposes outlined and in compliance with applicable laws. Users are advised to read the Privacy Policy carefully to understand how their data is treated and used.",
+            "reference": "We will use your personal data only for the purposes and in the manner outlined below, and in compliance with applicable laws...please be assured that we will use your personal data only for the purposes and in the manner outlined below, and in compliance with applicable laws. We request that you read this Privacy Policy carefully to understand our treatment and use of personal data. Please note that by using our Product, you acknowledge that you have read and understood this Privacy Policy. URL: https://joye.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "ab970405a59549f0bd2f89524733cec826bbfe9b903e6ecf51b93f1baa56309a",
+                "score": 0.31132215,
+                "excerpt": "Our default locations are between USA, Singapore, or India. In line with GDPR guidelines we could also host your company’s data in any of these or any other location that you choose.\nContact information\nPlease contact us at connect@joye.ai\nDetailed\nThis Privacy Policy will inform you of the basis on which we collect personal information from you and the basis on which it is used, processed or disclosed by us. This Privacy Policy does not apply to any third-party websites, services or application...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "684accf957d65da2bb5cacf2ab9232cb071a4bc6b29294e8d7a59d7b0b13798b",
+                "score": 0.14953138,
+                "excerpt": "that you read this Privacy Policy carefully to understand our treatment and use of personal data. Please note that by using our Product, you acknowledge that you have read and understood this Privacy Policy.\nIn case of any further doubts and clarifications, you can reach us at connect@joye.ai and we will endeavor to address your concern at the earliest.\nInformation we collect from you and how we use\nSigning in. Data Collected.\nYou have our promise to protect your privacy with advanced technology...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "c1584dea1b1ba78c057d0964048d8eea45272a323b19485b43eb7fc3c0876fe2",
+                "score": 0.12126887,
+                "excerpt": "how often you engage with the Products, the events that occur within the Products, aggregated usage and performance data, and where the Applications were downloaded from. We may link the information we store within the analytics software to other information available to us.\nWe gather certain information automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, dat...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "e4962b2933d4d33452dfb64926d167d0887592d9813ae88b6fdeb1534377dedc",
+                "score": 0.079638734,
+                "excerpt": "the Product. Additionally, before we use Personal Information for any new purpose not originally authorized by you, we will endeavor to provide information regarding the new purpose and give you the opportunity to opt-out. Where consent of the individual for the Processing of Personal Information is otherwise required by law or contract, Joye will endeavor to comply with the law or contract.\nContact information\nWe will be happy to provide any other information that you consider relevant to enabl...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "03e58e3baec103711bca71038842e4dd513e1fe7d9a7812acf8366a0b02b34ca",
+                "score": 0.044764314,
+                "excerpt": "are responsible for maintaining the security of any device on which you utilize the Services. Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any personal data you provide to us. To the fullest extent permitted by applicable law, we do not accept liability for unintentional disclosure.\nRevisions to Privacy Policy\nAny information that is collected via our Product is covered by the Privacy Policy in effect at the time such information is collected. We may r...",
+                "url": "https://joye.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1441112707,
+            "url": "https://joye.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request the deletion of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the user's rights to request deletion or removal of personal data, including the right to object to data processing.",
+            "reference": "The right to removal of data. URL: https://joye.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c202ea2112ad0cedc406429a4617a96f85323e0e74a3552f9e7bf844fce4a60e",
+                "score": 0.75635755,
+                "excerpt": "that any information that we hold about you is incomplete, partially incorrect or incorrect in its entirety, this right enables you to have any such data corrected.\nThe right to removal of data\nThis right enables you to ask us for deletion or removal of your Personal data where there is no good reason for us to continue processing it. You also have the right to ask us to delete or remove your Personal Data where you have exercised your right to object to processing (see below).\nThe right to obje...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "f2fa2a15918dad57acd83fb7960f6a524250b4f365ee7f9248584cd39db7a59d",
+                "score": 0.2391716,
+                "excerpt": "we do not knowingly collect personal data from minors. If a parent or legal guardian learns that their child has provided us with personal data without their consent, they may contact us as set forth below. If we learn that we have collected any personal data in violation of applicable law, we will promptly take steps to delete such personal data and terminate the minor’s account.\nWhere your data is stored and how we ensure it's security\nJoye’s architecture uses advanced technology and high secu...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "e4962b2933d4d33452dfb64926d167d0887592d9813ae88b6fdeb1534377dedc",
+                "score": 0.13398075,
+                "excerpt": "the Product. Additionally, before we use Personal Information for any new purpose not originally authorized by you, we will endeavor to provide information regarding the new purpose and give you the opportunity to opt-out. Where consent of the individual for the Processing of Personal Information is otherwise required by law or contract, Joye will endeavor to comply with the law or contract.\nContact information\nWe will be happy to provide any other information that you consider relevant to enabl...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "5e1be9de7d72643c48da4879a290eb3b23d5a28802f162941e6574873a3df69c",
+                "score": 0.100348406,
+                "excerpt": "us to use or where we used the information to perform a contract with you.\nThe right to withdraw consent\nThis right only exists where we are relying on consent to process your Personal Data (“Consent Withdrawal”). If you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our Products. We will advise you if this is the case at the time you withdraw your consent.\nPlease note that whenever you request any of the above, we will take necess...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "7b3a19ed77c364e895b78c5a1005c57fc6189738095a64750a5de0f2c18202d6",
+                "score": 0.0913821,
+                "excerpt": "nor do we send unsolicited advertisements to the user. During the use of Joye, we collect information that you provide to us, and use it to provide you a better experience. In line with our strict privacy policy the employee information is encrypted and is anonymised for any analytics shared with the employer.\nIf you’re using Joye in Entomo, we use an anonymised technology that doesn’t receive any Personal Identifiable Information (PII) information – other than your company or department name in...",
+                "url": "https://joye.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1441112707,
+            "url": "https://joye.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app does share data with third parties as outlined in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app may disclose user information to third parties under specific circumstances, such as providing requested services or in the context of business transactions or legal obligations.",
+            "reference": "If we are under a duty to disclose or share your personal information in order to comply with any legal obligation such as to comply with a subpoena, bankruptcy proceedings, URL: https://joye.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "48fb20db321fe88568d2b56cbea92d215a636eb398951e66098a7d1d0d82062a",
+                "score": 0.7675156,
+                "excerpt": "a third party, in which case personal information held by us about our customers will be one of the transferred assets.\nIf we are under a duty to disclose or share your personal information in order to comply with any legal obligation such as to comply with a subpoena, bankruptcy proceedings, similar legal process, or in order to enforce or apply our agreements with you; or to protect the rights, property, or safety Joye, our customers, or others. This includes exchanging information with other ...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "9a6f369c825ff37c8fda2b43ca58114e9db17d93977c45f1999d6cd585e889fe",
+                "score": 0.71393055,
+                "excerpt": "longer if your request is particularly complex or you have made a number of requests.\nDisclosure of your information to third parties\nYou have our promise to protect your privacy with advanced technology and strict privacy policy. Joye is ISO 27001 certified for global standards of Information Security. Joye’s data is independently managed by Joye Pte Ltd Singapore, and your employer or third parties will not be able to see your private information, except in certain cases highlighted below.\nWe ...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "b6d40a8034ddef7c2d6c17756972b59c7e2bf03520a963d56676d68dcd0953fa",
+                "score": 0.6721165,
+                "excerpt": "encrypted and is anonymised for any analytics shared with the employer.\nIf you’re using Joye in Entomo, or our demo web app(s), like https://anonymous.joye.ai/, we use an anonymised technology and that doesn’t receive any of your PII information other than your company or department name in come cases. We identify you with a pseudo identity and we’ll not know any of your Personal Identifiable Information.\nIf you’re using Joye embedded in Rewardz, we use single-sign-on from the Rewardz sign-in, t...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "ab970405a59549f0bd2f89524733cec826bbfe9b903e6ecf51b93f1baa56309a",
+                "score": 0.27009502,
+                "excerpt": "Our default locations are between USA, Singapore, or India. In line with GDPR guidelines we could also host your company’s data in any of these or any other location that you choose.\nContact information\nPlease contact us at connect@joye.ai\nDetailed\nThis Privacy Policy will inform you of the basis on which we collect personal information from you and the basis on which it is used, processed or disclosed by us. This Privacy Policy does not apply to any third-party websites, services or application...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "5e1be9de7d72643c48da4879a290eb3b23d5a28802f162941e6574873a3df69c",
+                "score": 0.08647765,
+                "excerpt": "us to use or where we used the information to perform a contract with you.\nThe right to withdraw consent\nThis right only exists where we are relying on consent to process your Personal Data (“Consent Withdrawal”). If you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our Products. We will advise you if this is the case at the time you withdraw your consent.\nPlease note that whenever you request any of the above, we will take necess...",
+                "url": "https://joye.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1441112707,
+            "url": "https://joye.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app may share data with third parties in specific circumstances, such as service providers fulfilling user requests, prospective business sellers or buyers, or in compliance with legal obligations.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers fulfilling user requests",
+                        "Prospective business sellers or buyers",
+                        "Third parties in compliance with legal obligations"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the circumstances under which the app may share data with third parties, including service providers, prospective business sellers or buyers, and in compliance with legal obligations.",
+            "reference": "The app may disclose your information, to third parties as follows: In some circumstances, based on your specific requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such a party, or fulfil a request for information from such a party. URL: https://joye.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "9a6f369c825ff37c8fda2b43ca58114e9db17d93977c45f1999d6cd585e889fe",
+                "score": 0.68573904,
+                "excerpt": "longer if your request is particularly complex or you have made a number of requests.\nDisclosure of your information to third parties\nYou have our promise to protect your privacy with advanced technology and strict privacy policy. Joye is ISO 27001 certified for global standards of Information Security. Joye’s data is independently managed by Joye Pte Ltd Singapore, and your employer or third parties will not be able to see your private information, except in certain cases highlighted below.\nWe ...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "48fb20db321fe88568d2b56cbea92d215a636eb398951e66098a7d1d0d82062a",
+                "score": 0.6184348,
+                "excerpt": "a third party, in which case personal information held by us about our customers will be one of the transferred assets.\nIf we are under a duty to disclose or share your personal information in order to comply with any legal obligation such as to comply with a subpoena, bankruptcy proceedings, similar legal process, or in order to enforce or apply our agreements with you; or to protect the rights, property, or safety Joye, our customers, or others. This includes exchanging information with other ...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "b6d40a8034ddef7c2d6c17756972b59c7e2bf03520a963d56676d68dcd0953fa",
+                "score": 0.32477057,
+                "excerpt": "encrypted and is anonymised for any analytics shared with the employer.\nIf you’re using Joye in Entomo, or our demo web app(s), like https://anonymous.joye.ai/, we use an anonymised technology and that doesn’t receive any of your PII information other than your company or department name in come cases. We identify you with a pseudo identity and we’ll not know any of your Personal Identifiable Information.\nIf you’re using Joye embedded in Rewardz, we use single-sign-on from the Rewardz sign-in, t...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "ab970405a59549f0bd2f89524733cec826bbfe9b903e6ecf51b93f1baa56309a",
+                "score": 0.15908672,
+                "excerpt": "Our default locations are between USA, Singapore, or India. In line with GDPR guidelines we could also host your company’s data in any of these or any other location that you choose.\nContact information\nPlease contact us at connect@joye.ai\nDetailed\nThis Privacy Policy will inform you of the basis on which we collect personal information from you and the basis on which it is used, processed or disclosed by us. This Privacy Policy does not apply to any third-party websites, services or application...",
+                "url": "https://joye.ai/privacy"
+            },
+            {
+                "id": "5e1be9de7d72643c48da4879a290eb3b23d5a28802f162941e6574873a3df69c",
+                "score": 0.07696084,
+                "excerpt": "us to use or where we used the information to perform a contract with you.\nThe right to withdraw consent\nThis right only exists where we are relying on consent to process your Personal Data (“Consent Withdrawal”). If you withdraw your consent, we may not be able to provide you with access to the certain specific functionalities of our Products. We will advise you if this is the case at the time you withdraw your consent.\nPlease note that whenever you request any of the above, we will take necess...",
+                "url": "https://joye.ai/privacy"
+            }
+        ]
+    }
+]

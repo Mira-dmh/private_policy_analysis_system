@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1063248233,
+            "url": "https://aexol.com/docs/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data such as full name, position, company name, email address, phone number, login, IP number, and information collected via cookies or other technologies may be processed.",
+            "reference": "The Personal Data processed by us may include: full name, position, company name, e-mail address, phone number, login, IP number, information collected via cookies or other similar technologies or other data necessary for the verification of a person. URL: https://aexol.com/docs/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "571e41ccff4fbc2b3a062abfa9f23f960d1dc8e3f3e8c90b7e71f9cea6b69b2e",
+                "score": 0.022977369,
+                "excerpt": "These marketing communications are aimed at driving engagement and maximizing what you get out of the Services and what we think may be of interest to you. You can opt-out of receiving marketing communications from us at any time by following the unsubscribe instructions included in our marketing communications. Please note that your consent to our marketing activities is voluntary and may be withdrawn by you at any time. - basis in Article 6(1)(f) of the GDPR; The Controller processes the Perso...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "878528768c26e002af102307fd848798efd79be3897ee048c7e664090e22d1d3",
+                "score": 0.008511303,
+                "excerpt": "at: https://policies.google.com/technologies/ads?hl=pl.\nFacebook Pixel\nFacebook pixel is a tool that enables measuring the effectiveness of advertising campaigns executed by the Controller on Facebook. The tool enables advanced data analytics in order to optimize the Controller's acts together with the use of other tools offered by Facebook. Detailed information on data processing by Facebook can be found at: https://pl-pl.facebook.com/help/443357099140264?helpref=about_content.\nGoogle Tag Manag...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "f4e2120bd72dc228fc3503fe65f83acf65ead9378d45cb77e7f476e8ed857175",
+                "score": 0.0075187176,
+                "excerpt": "tracking technologies\nThe Controller uses standard technologies like browser Cookies and third-party analytics tools to collect behavioral and operational data when you interact with us through our Website and apps and when we communicate with you by email or text message. This Privacy Policy provides information about how we use cookies and similar technologies and how you can control and manage them. A cookie is a small text file that is placed on a computer or other device and is used to iden...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "df918a626d844a19144edb57256bb67f75f23f7ea9ee37b71b36b5a0e10ef9cf",
+                "score": 0.0034834242,
+                "excerpt": "18 years of age and we do not collect Personal Data from users under 18.\nYour rights\n- The right to be informed about the processing of Personal Data.\n- The right to obtain a copy of the data.\n- The right to rectification.\n- The right to delete data.\n- The right to restriction of the processing.\n- The right to data portability.\n- The right to object to other purposes of data processing.\n- The right to withdraw consent to data processing at any time\n- The right to lodge a complaint with the super...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "d4de596b9369c0d6670ddb6708eb6c77069797b4b645001765b49c4a40679a01",
+                "score": 0.0028449097,
+                "excerpt": "at the following links:\n- Internet Explorer: https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d\n- Mozilla Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectslug=Cookies&redirectlocale=en-US\n- Google Chrome: https://support.google.com/chrome/answer/95647?hl=en\n- Opera: https://help.opera.com/en/latest/web-preferences/#cookies\n- Safari: https://support.apple.com/kb/PH5042?locale=en-GB\nWh...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1063248233,
+            "url": "https://aexol.com/docs/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data such as full name, position, company name, e-mail address, phone number, login, IP number, information collected via cookies or other similar technologies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Full name",
+                        "Position",
+                        "Company name",
+                        "E-mail address",
+                        "Phone number",
+                        "Login",
+                        "IP number",
+                        "Information collected via cookies or other similar technologies"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that describes the personal data collected by the app, including specific details of the types of data such as name, email, and IP number.",
+            "reference": "The Personal Data processed by us may include: full name, position, company name, e-mail address, phone number, login, IP number, information collected via cookies or other similar technologies or other data necessary for the verification of a person. URL: https://aexol.com/docs/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "571e41ccff4fbc2b3a062abfa9f23f960d1dc8e3f3e8c90b7e71f9cea6b69b2e",
+                "score": 0.1732882,
+                "excerpt": "These marketing communications are aimed at driving engagement and maximizing what you get out of the Services and what we think may be of interest to you. You can opt-out of receiving marketing communications from us at any time by following the unsubscribe instructions included in our marketing communications. Please note that your consent to our marketing activities is voluntary and may be withdrawn by you at any time. - basis in Article 6(1)(f) of the GDPR; The Controller processes the Perso...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "f4e2120bd72dc228fc3503fe65f83acf65ead9378d45cb77e7f476e8ed857175",
+                "score": 0.061424043,
+                "excerpt": "tracking technologies\nThe Controller uses standard technologies like browser Cookies and third-party analytics tools to collect behavioral and operational data when you interact with us through our Website and apps and when we communicate with you by email or text message. This Privacy Policy provides information about how we use cookies and similar technologies and how you can control and manage them. A cookie is a small text file that is placed on a computer or other device and is used to iden...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "e6559b7805f675c17cd3d81b9d519bf2eec7c9df791d11b068778655c548d3b8",
+                "score": 0.047161866,
+                "excerpt": "- a small piece of information recorded by the server on your computer disc in the form of small text files.\nPrivacy Policy - this document\nWebsite - our website and its subpages: www.aexol.com\nService - The Controller's website that describes their services, allows you to contact them, provides information about other activities we organize or participate in, such as events, newsletters, etc.\nContact information\nThe Controller of the Personal Data obtained from you is Aexol Sp. z o.o., a Polish...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "5173f70bdbd1184648b1f3d545f51921f4d78e43faa3cb5567f7496cccb026a3",
+                "score": 0.028274601,
+                "excerpt": "for analytical and marketing purposes. Below you may find basic information about these tools. Detailed information in this respect may be found in the privacy policy of a particular partner.\nGoogle Analytics\nGoogle Analytics cookies are used by Google to analyze how the user uses the Website as well as to compile statistics and reports about the operation of the Website. Google does not use the collected data to identify a user and neither does it combine any information items to make such iden...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "0b0833039e7ed7c7b8af8932c9c9bc33b5752132c85e40e4b7b03be90126b47e",
+                "score": 0.019681409,
+                "excerpt": "behalf. They will securely store your personal data and only for as long as we indicate or as required by applicable law.\nPersonal Data - means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as in particular a name and surname, e-mail address, device IP, location data, Internet ID and information collected through cookie...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1063248233,
+            "url": "https://aexol.com/docs/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purposes for collecting and using data, including exchanging correspondence, providing services, internal administrative purposes, conducting analytics, archiving, and establishing claims.",
+            "reference": "The Controller uses standard technologies like browser Cookies and third-party analytics tools to collect behavioral and operational data when you interact with us through our Website and apps and when we communicate with you by email or text message. This Privacy Policy provides information about how we use cookies and similar technologies and how you can control and manage them. URL: https://aexol.com/docs/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "80190ea7c1a738fa5afed07fee365692e3b4e3ff3077dc86836942b47f43f37a",
+                "score": 0.030100338,
+                "excerpt": "following purposes: exchange of correspondence regarding business relations/contract concluded between you and the Controller, including replying to your inquiries about products and services provided by the Controller including our live chat - basis in Article 6(1)(b) of the GDPR; in order to provide Services - then the legal basis for processing is the necessity of processing to perform the contract -- basis in Article 6 (1) (b) of the GDPR; internal administrative purposes of the Controller, ...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "f4e2120bd72dc228fc3503fe65f83acf65ead9378d45cb77e7f476e8ed857175",
+                "score": 0.025711587,
+                "excerpt": "tracking technologies\nThe Controller uses standard technologies like browser Cookies and third-party analytics tools to collect behavioral and operational data when you interact with us through our Website and apps and when we communicate with you by email or text message. This Privacy Policy provides information about how we use cookies and similar technologies and how you can control and manage them. A cookie is a small text file that is placed on a computer or other device and is used to iden...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "e6559b7805f675c17cd3d81b9d519bf2eec7c9df791d11b068778655c548d3b8",
+                "score": 0.0226292,
+                "excerpt": "- a small piece of information recorded by the server on your computer disc in the form of small text files.\nPrivacy Policy - this document\nWebsite - our website and its subpages: www.aexol.com\nService - The Controller's website that describes their services, allows you to contact them, provides information about other activities we organize or participate in, such as events, newsletters, etc.\nContact information\nThe Controller of the Personal Data obtained from you is Aexol Sp. z o.o., a Polish...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "e40b5a2fb9d9758e3ea76babeac846a64473f9f0469c64791349e36ae729a87c",
+                "score": 0.015603535,
+                "excerpt": "Privacy Policy\nProtecting your privacy is really important to us. Accordingly, Aexol Sp. z o.o. provides this Privacy Policy to explain our practices regarding our collection, use and disclosure of Personal Data and other information that we receive.\nWe take the protection of your Personal Data very seriously and strictly adhere to all applicable laws and regulations on data protection, in particular the General Data Protection Regulation, the Polish Data Protection Act. The following explanatio...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "571e41ccff4fbc2b3a062abfa9f23f960d1dc8e3f3e8c90b7e71f9cea6b69b2e",
+                "score": 0.014172367,
+                "excerpt": "These marketing communications are aimed at driving engagement and maximizing what you get out of the Services and what we think may be of interest to you. You can opt-out of receiving marketing communications from us at any time by following the unsubscribe instructions included in our marketing communications. Please note that your consent to our marketing activities is voluntary and may be withdrawn by you at any time. - basis in Article 6(1)(f) of the GDPR; The Controller processes the Perso...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1063248233,
+            "url": "https://aexol.com/docs/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the right to withdraw consent to data processing at any time, which implies the ability to opt out of data collection or delete data.",
+            "reference": "The right to withdraw consent to data processing at any time - URL: https://aexol.com/docs/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "df918a626d844a19144edb57256bb67f75f23f7ea9ee37b71b36b5a0e10ef9cf",
+                "score": 0.7666432,
+                "excerpt": "18 years of age and we do not collect Personal Data from users under 18.\nYour rights\n- The right to be informed about the processing of Personal Data.\n- The right to obtain a copy of the data.\n- The right to rectification.\n- The right to delete data.\n- The right to restriction of the processing.\n- The right to data portability.\n- The right to object to other purposes of data processing.\n- The right to withdraw consent to data processing at any time\n- The right to lodge a complaint with the super...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "571e41ccff4fbc2b3a062abfa9f23f960d1dc8e3f3e8c90b7e71f9cea6b69b2e",
+                "score": 0.53236437,
+                "excerpt": "These marketing communications are aimed at driving engagement and maximizing what you get out of the Services and what we think may be of interest to you. You can opt-out of receiving marketing communications from us at any time by following the unsubscribe instructions included in our marketing communications. Please note that your consent to our marketing activities is voluntary and may be withdrawn by you at any time. - basis in Article 6(1)(f) of the GDPR; The Controller processes the Perso...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "19f3ce5f0cbcae945dc45e401fcf241fa1958c138672dda30da9f53d7dcef41b",
+                "score": 0.16344544,
+                "excerpt": "Users of Aexol Services are encrypted using Secure Socket Layer (SSL) Certificates. As a user of the Services, You should use the Services responsibly and not share your User Information including your username or password or account information with anyone.\nHow long do We keep Your Personal Data\nThe period of data processing by the Collector depends on the type of Service provided and the purpose of processing. As a rule, the user's data is processed by using the Services or conducting correspo...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "878528768c26e002af102307fd848798efd79be3897ee048c7e664090e22d1d3",
+                "score": 0.111821815,
+                "excerpt": "at: https://policies.google.com/technologies/ads?hl=pl.\nFacebook Pixel\nFacebook pixel is a tool that enables measuring the effectiveness of advertising campaigns executed by the Controller on Facebook. The tool enables advanced data analytics in order to optimize the Controller's acts together with the use of other tools offered by Facebook. Detailed information on data processing by Facebook can be found at: https://pl-pl.facebook.com/help/443357099140264?helpref=about_content.\nGoogle Tag Manag...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "0b0833039e7ed7c7b8af8932c9c9bc33b5752132c85e40e4b7b03be90126b47e",
+                "score": 0.09790669,
+                "excerpt": "behalf. They will securely store your personal data and only for as long as we indicate or as required by applicable law.\nPersonal Data - means any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as in particular a name and surname, e-mail address, device IP, location data, Internet ID and information collected through cookie...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1063248233,
+            "url": "https://aexol.com/docs/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app shares Personal Data with various entities, including processing entities, controlling entities, postal operators, courier companies, and external entities for contract performance.",
+            "reference": "We may share your Personal Data with the following entities: processing entities in connection with activities commissioned by the Controller, controlling and supervisory entities, postal operators and courier companies, external entities for the proper performance of the contract. URL: https://aexol.com/docs/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "d4de596b9369c0d6670ddb6708eb6c77069797b4b645001765b49c4a40679a01",
+                "score": 0.3348069,
+                "excerpt": "at the following links:\n- Internet Explorer: https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d\n- Mozilla Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectslug=Cookies&redirectlocale=en-US\n- Google Chrome: https://support.google.com/chrome/answer/95647?hl=en\n- Opera: https://help.opera.com/en/latest/web-preferences/#cookies\n- Safari: https://support.apple.com/kb/PH5042?locale=en-GB\nWh...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "878528768c26e002af102307fd848798efd79be3897ee048c7e664090e22d1d3",
+                "score": 0.1665398,
+                "excerpt": "at: https://policies.google.com/technologies/ads?hl=pl.\nFacebook Pixel\nFacebook pixel is a tool that enables measuring the effectiveness of advertising campaigns executed by the Controller on Facebook. The tool enables advanced data analytics in order to optimize the Controller's acts together with the use of other tools offered by Facebook. Detailed information on data processing by Facebook can be found at: https://pl-pl.facebook.com/help/443357099140264?helpref=about_content.\nGoogle Tag Manag...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "ab3b5e6c7839323871ebce3948991ceb5a1b086029cf5b88b4b967eb5c57933d",
+                "score": 0.15482272,
+                "excerpt": "justified situations, when the performance of the contract requires cooperation with technological partners from outside the European Economic Area (\"EEA\"), your Personal Data will be transferred to third countries. Due to the fact that the level of Personal Data protection outside the EEA differs from that provided by European law, the Controller undertakes to apply appropriate safeguards that, in accordance with EU law, legalize the transfer and provide adequate guarantees for the protection o...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "f4e2120bd72dc228fc3503fe65f83acf65ead9378d45cb77e7f476e8ed857175",
+                "score": 0.077937685,
+                "excerpt": "tracking technologies\nThe Controller uses standard technologies like browser Cookies and third-party analytics tools to collect behavioral and operational data when you interact with us through our Website and apps and when we communicate with you by email or text message. This Privacy Policy provides information about how we use cookies and similar technologies and how you can control and manage them. A cookie is a small text file that is placed on a computer or other device and is used to iden...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "571e41ccff4fbc2b3a062abfa9f23f960d1dc8e3f3e8c90b7e71f9cea6b69b2e",
+                "score": 0.0751764,
+                "excerpt": "These marketing communications are aimed at driving engagement and maximizing what you get out of the Services and what we think may be of interest to you. You can opt-out of receiving marketing communications from us at any time by following the unsubscribe instructions included in our marketing communications. Please note that your consent to our marketing activities is voluntary and may be withdrawn by you at any time. - basis in Article 6(1)(f) of the GDPR; The Controller processes the Perso...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1063248233,
+            "url": "https://aexol.com/docs/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with processing entities, controlling and supervisory entities, postal operators, courier companies, and external entities.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "processing entities, controlling and supervisory entities, postal operators, courier companies, external entities"
+                }
+            },
+            "analysis": "The privacy policy mentions specific third parties that the app shares data with, including processing entities, controlling and supervisory entities, postal operators, courier companies, and external entities.",
+            "reference": "processing entities in connection with activities commissioned by the Controller, controlled and supervisory entities, postal operators and courier companies, external entities, if it is necessary for the proper performance of the contract on the basis of which you cooperate with the Controller. URL: https://aexol.com/docs/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "d4de596b9369c0d6670ddb6708eb6c77069797b4b645001765b49c4a40679a01",
+                "score": 0.79565805,
+                "excerpt": "at the following links:\n- Internet Explorer: https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d\n- Mozilla Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectslug=Cookies&redirectlocale=en-US\n- Google Chrome: https://support.google.com/chrome/answer/95647?hl=en\n- Opera: https://help.opera.com/en/latest/web-preferences/#cookies\n- Safari: https://support.apple.com/kb/PH5042?locale=en-GB\nWh...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "878528768c26e002af102307fd848798efd79be3897ee048c7e664090e22d1d3",
+                "score": 0.25054586,
+                "excerpt": "at: https://policies.google.com/technologies/ads?hl=pl.\nFacebook Pixel\nFacebook pixel is a tool that enables measuring the effectiveness of advertising campaigns executed by the Controller on Facebook. The tool enables advanced data analytics in order to optimize the Controller's acts together with the use of other tools offered by Facebook. Detailed information on data processing by Facebook can be found at: https://pl-pl.facebook.com/help/443357099140264?helpref=about_content.\nGoogle Tag Manag...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "ab3b5e6c7839323871ebce3948991ceb5a1b086029cf5b88b4b967eb5c57933d",
+                "score": 0.21304953,
+                "excerpt": "justified situations, when the performance of the contract requires cooperation with technological partners from outside the European Economic Area (\"EEA\"), your Personal Data will be transferred to third countries. Due to the fact that the level of Personal Data protection outside the EEA differs from that provided by European law, the Controller undertakes to apply appropriate safeguards that, in accordance with EU law, legalize the transfer and provide adequate guarantees for the protection o...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "f4e2120bd72dc228fc3503fe65f83acf65ead9378d45cb77e7f476e8ed857175",
+                "score": 0.10875559,
+                "excerpt": "tracking technologies\nThe Controller uses standard technologies like browser Cookies and third-party analytics tools to collect behavioral and operational data when you interact with us through our Website and apps and when we communicate with you by email or text message. This Privacy Policy provides information about how we use cookies and similar technologies and how you can control and manage them. A cookie is a small text file that is placed on a computer or other device and is used to iden...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            },
+            {
+                "id": "e75bfa5c4c3fd6da776bee3c21818e04c0c2c45722bf563a71a7a4a56b9efe22",
+                "score": 0.08740792,
+                "excerpt": "(evidential purpose) which constitutes pursuit of our legitimate interests of securing information in case a legal need for evidence arises - basis in Article 6(1)(f) of the GDPR; potential establishment of claims, the exercise of claims or defense against claims, which constitutes pursuit of our legitimate interests - basis in Article 6(1)(f) of the GDPR;\nHandling of complaints, when they are lodged, in respect of the quality of services provided by the Controller and the manner of service deli...",
+                "url": "https://aexol.com/docs/privacy-policy/"
+            }
+        ]
+    }
+]

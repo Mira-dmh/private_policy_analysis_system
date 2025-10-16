@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1212999482,
+      "url": "https://www.iubenda.com/privacy-policy/78522884",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects some Personal Data from its Users, which may include device information, Usage Data, Application opens, User ID, and purchase history.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app specifies the types of Personal Data collected and mentions that Users can contact the Owner for more information.",
+          "content": "This Application collects some Personal Data from its Users. Among the types of Personal Data that this Application collects, by itself or through third parties, there are: device information; Usage Data; Application opens; User ID; purchase history; diagnostics; product interaction."
+        }
+      },
+      "analysis": "",
+      "reference": "This Application collects some Personal Data from its Users. Among the types of Personal Data that this Application collects, by itself or through third parties, there are: device information; Usage Data; Application opens; User ID; purchase history; diagnostics; product interaction."
+    }
+  },
+  {
+    "meta": {
+      "id": 1212999482,
+      "url": "https://www.iubenda.com/privacy-policy/78522884",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of Personal Data: device information, Usage Data, Application opens, User ID, purchase history, diagnostics, and product interaction.",
+        "simple_answer": "The app collects device information, Usage Data, Application opens, User ID, purchase history, diagnostics, and product interaction.",
+        "extended_simple_answer": {
+          "comment": "These data types are collected either directly from the user or automatically during the use of the application.",
+          "content": "The types of Personal Data collected include device information, Usage Data, Application opens, User ID, purchase history, diagnostics, and product interaction."
+        }
+      },
+      "analysis": "",
+      "reference": "Types of Data collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1212999482,
+      "url": "https://www.iubenda.com/privacy-policy/78522884",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests, detect any malicious or fraudulent activity, and for purposes such as infrastructure monitoring, handling payments, and platform services and hosting.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app collects data to provide services, comply with legal obligations, and monitor infrastructure, among other purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "The purposes of processing"
+    }
+  },
+  {
+    "meta": {
+      "id": 1212999482,
+      "url": "https://www.iubenda.com/privacy-policy/78522884",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that users are free not to communicate certain non-mandatory data without consequences to the availability or functioning of the service. Users who are uncertain about which personal data is mandatory can contact the owner for clarification.",
+        "simple_answer": "The policy does not explicitly provide an opt-out option, but users can choose not to provide non-mandatory data.",
+        "extended_simple_answer": {
+          "comment": "Users can inquire about mandatory data requirements.",
+          "content": "The policy indicates that users can choose not to provide non-mandatory data without affecting service availability."
+        }
+      },
+      "analysis": "The lack of explicit mention of an opt-out mechanism suggests that users may have limited control over data collection, but they can avoid providing certain data.",
+      "reference": "Types of Data collected; Personal Data may be freely provided by the User; Users are free not to communicate this Data without consequences."
+    }
+  },
+  {
+    "meta": {
+      "id": 1212999482,
+      "url": "https://www.iubenda.com/privacy-policy/78522884",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, specifically with external payment service providers for handling payments and with third-party technical service providers involved in the operation of the application.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for payment processing and other functionalities.",
+          "content": "The app processes payments through external service providers like RevenueCat, Apple App Store, and Google Play Store, which may involve sharing personal data such as device information and purchase history."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal data may be shared with third-party service providers for specific purposes, such as payment processing and infrastructure monitoring.",
+      "reference": "Detailed information on the processing of Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1212999482,
+      "url": "https://www.iubenda.com/privacy-policy/78522884",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties such as RevenueCat, Inc. for handling payments, and also with Apple Inc. and Google LLC for processing payments via the Apple App Store and Google Play Store respectively.",
+        "simple_answer": "The app shares data with RevenueCat, Apple, and Google.",
+        "extended_simple_answer": {
+          "comment": "These third parties are involved in processing payments and may have access to certain personal data.",
+          "content": "RevenueCat, Inc. for payment monitoring; Apple Inc. for purchases via the App Store; Google LLC for purchases via the Google Play Store."
+        }
+      },
+      "analysis": "",
+      "reference": "Detailed information on the processing of Personal Data"
+    }
+  }
+]

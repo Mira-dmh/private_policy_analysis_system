@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1608367638,
+      "url": "https://www.wix.com/about/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that Wix collects Personal Information from users when they register for services, use the services, and from other sources. This includes information provided directly by users, information collected during the use of services, and information obtained from third-party sources.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of Personal Information collected and the methods of collection.",
+          "content": "Wix collects Personal Information you provide, information from your use of the Services, and information from third-party sources."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the sources from which it is obtained, ensuring transparency about data collection practices.",
+      "reference": "Section 2: What ‘Personal Information’ do we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1608367638,
+      "url": "https://www.wix.com/about/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of Personal Information, including: 1. Information you provide us, such as name, email address, phone number, payment information, and information in communications with us. 2. Information we collect when you use the Services, including aggregated usage data like browsing activity, device information, and session details. 3. Information we collect from other sources, such as third-party security providers, social media platforms, and advertising partners.",
+        "simple_answer": "The app collects personal information you provide, usage data, and information from third-party sources.",
+        "extended_simple_answer": {
+          "comment": "The app gathers data to enhance its services and user experience.",
+          "content": "Types of data collected include user-provided information, usage statistics, and data from third-party sources."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What ‘Personal Information’ do we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1608367638,
+      "url": "https://www.wix.com/about/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the collected Personal Information is used to provide the Services, which includes various activities such as user registration, communication, and service improvement.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines that Personal Information is collected to deliver services and improve user experience.",
+          "content": "The policy describes that Personal Information is collected to provide the Services, which includes user registration, communication, and service improvement."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1 and Section 2 of the Privacy Policy"
+    }
+  },
+  {
+    "meta": {
+      "id": 1608367638,
+      "url": "https://www.wix.com/about/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to delete their information. The Privacy Policy states that users can exercise their rights regarding their Personal Information, including the right to delete it.",
+        "simple_answer": "Yes, users can delete their information.",
+        "extended_simple_answer": {
+          "comment": "Users have specific rights regarding their Personal Information.",
+          "content": "The Privacy Policy outlines that users can request the deletion of their Personal Information."
+        }
+      },
+      "analysis": "The Privacy Policy provides users with rights concerning their Personal Information, including the ability to delete it.",
+      "reference": "Section 2.1 - User information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1608367638,
+      "url": "https://www.wix.com/about/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. Wix may share Personal Information with third-party service providers, partners, and affiliates for various purposes, including to provide services, process payments, and for marketing purposes. Additionally, they may share information with advertising and marketing partners to monitor and manage ad campaigns.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Wix shares Personal Information with third parties for service provision and marketing.",
+          "content": "Wix may share Personal Information with third-party service providers, partners, and affiliates for various purposes, including to provide services, process payments, and for marketing purposes. They may also share information with advertising and marketing partners."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 - User information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1608367638,
+      "url": "https://www.wix.com/about/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party sources such as security providers, fraud detection and prevention providers, social media platforms, advertising and marketing partners, and lead enhancement companies.",
+        "simple_answer": "The app shares data with security providers, fraud detection services, social media platforms, advertising partners, and lead enhancement companies.",
+        "extended_simple_answer": {
+          "comment": "These third parties help Wix improve its services and manage ad campaigns.",
+          "content": "Wix may receive Personal Information from third-party sources, including security providers for fraud prevention, social media platforms when users log in, and advertising partners for campaign management."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 - User information"
+    }
+  }
+]

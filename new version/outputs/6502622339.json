@@ -1,0 +1,341 @@
+[
+    {
+        "meta": {
+            "id": 6502622339,
+            "url": "https://ehoa.app/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information is collected, and it provides details on the kinds of personal information collected.",
+            "reference": "The ways we collect personal information: We collect your personal information directly from you unless it is unreasonable or impracticable to do so. URL: https://ehoa.app/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c095e075b4cf6abfde3ecc296d30b893548357ec59e2911d36593de09443bbbc",
+                "score": 0.10212548,
+                "excerpt": "at hello@ehoa.app\nDisclosure of personal information:\nWe may disclose your information to:\n-\nour employees, related bodies corporate, contractors or service providers for the purposes of operating our Application, Website, our research, business or the Services, fulfilling requests by you, and to otherwise provide the Services and Website to you including, without limitation, web hosting providers, IT system administrators, mailing houses, couriers, payment processors, data entry service provide...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "58d2cc1af3c116a0bf5cc2b87805010ef757f23cf0750f04afcfc7b6d511327f",
+                "score": 0.065365784,
+                "excerpt": "to keep your information safe and secure.\nPrivacy Protected\nWhere you provide personal information to us, we will comply with the New Zealand Privacy Act 2020 and other applicable privacy laws and data protection laws (if applicable) (together, “Privacy Laws”). This document is our privacy policy and it tells you how we collect and manage your personal information.\nPersonal information is information about an identifiable individual (a natural person), and includes personal data, personally iden...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "b81844fc06b6caaf18d5df96b6464044586d85d9b2c0837850763ef4d13d415a",
+                "score": 0.04107589,
+                "excerpt": "that website’s privacy policy before you provide personal information to that owner or website.\nData retention policy:\nThe personal information that we collect and use will not be kept longer than necessary for the purposes for which it is collected, or for the duration required for compliance with applicable law, whichever is longer.\nComplaints:\nIf you believe that your privacy has been breached, please contact us on hello@ehoa.app and provide details of the incident so that we can investigate ...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "02d7c4ae2f0000703d0b65d431fd92a19d7d103c83097e51f2e64885927700e1",
+                "score": 0.026105914,
+                "excerpt": "the Ehoa mobile application.\nService means the services offered on the mobile application available on the apple and google app stores.\nUser Data means any Content, materials or other information that you post to the Service or provide to us or in connection with accessing the Service\nWebsite means the internet sites Ehoa owns and operates, including www.ehoa.app.\nAny further capitalised terms used but not defined in this privacy policy have the meanings given to them in Ehoa’s Terms of Use.\nKin...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "46532a171f85429a627d7b0cff327c1f827405a62939e05539dad8af299036fd",
+                "score": 0.022414217,
+                "excerpt": "using Ehoa, we may also collect your date of birth.\nWe may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our App, Website or Services.\nThe ways we collect personal information:\nWe collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you,...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502622339,
+            "url": "https://ehoa.app/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as country, iwi, energy data, emotional data, menstrual cycle data, full name, date of birth, transactional information, and user behavior.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Country",
+                        "Iwi",
+                        "Energy data",
+                        "Emotional data",
+                        "Menstrual cycle data",
+                        "Full name",
+                        "Date of birth",
+                        "Transactional information",
+                        "User behavior"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document outlines the various types of data collected by the app, including personal information like full name and date of birth, as well as other data related to energy, emotions, and menstrual cycles.",
+            "reference": "The app collects data such as country, iwi and data that you have input in relation to your energy, emotions and menstrual cycle. All other information about you including identifying information will not be disclosed as part of our research findings. We may collect your full name, We may also collect personal information generated by your use of the Services, such as transactional information, data that you have input and behaviour while using the app. If you are using Ehoa, we may also collect your date of birth. URL: https://ehoa.app/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "02d7c4ae2f0000703d0b65d431fd92a19d7d103c83097e51f2e64885927700e1",
+                "score": 0.2683658,
+                "excerpt": "the Ehoa mobile application.\nService means the services offered on the mobile application available on the apple and google app stores.\nUser Data means any Content, materials or other information that you post to the Service or provide to us or in connection with accessing the Service\nWebsite means the internet sites Ehoa owns and operates, including www.ehoa.app.\nAny further capitalised terms used but not defined in this privacy policy have the meanings given to them in Ehoa’s Terms of Use.\nKin...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "58d2cc1af3c116a0bf5cc2b87805010ef757f23cf0750f04afcfc7b6d511327f",
+                "score": 0.15077753,
+                "excerpt": "to keep your information safe and secure.\nPrivacy Protected\nWhere you provide personal information to us, we will comply with the New Zealand Privacy Act 2020 and other applicable privacy laws and data protection laws (if applicable) (together, “Privacy Laws”). This document is our privacy policy and it tells you how we collect and manage your personal information.\nPersonal information is information about an identifiable individual (a natural person), and includes personal data, personally iden...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "46532a171f85429a627d7b0cff327c1f827405a62939e05539dad8af299036fd",
+                "score": 0.09334688,
+                "excerpt": "using Ehoa, we may also collect your date of birth.\nWe may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our App, Website or Services.\nThe ways we collect personal information:\nWe collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you,...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "c095e075b4cf6abfde3ecc296d30b893548357ec59e2911d36593de09443bbbc",
+                "score": 0.039490405,
+                "excerpt": "at hello@ehoa.app\nDisclosure of personal information:\nWe may disclose your information to:\n-\nour employees, related bodies corporate, contractors or service providers for the purposes of operating our Application, Website, our research, business or the Services, fulfilling requests by you, and to otherwise provide the Services and Website to you including, without limitation, web hosting providers, IT system administrators, mailing houses, couriers, payment processors, data entry service provide...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "94c6a12e9a905d3079273e3a6e211947ad610f4755cabf0acaa831432a46aa1e",
+                "score": 0.03594832,
+                "excerpt": "Privacy policy\nWe want everyone to enjoy using Ehoa. For this reason we'd like to reassure you of what we will and won't do with any information you provide or create in Ehoa.\nPlease read our privacy policy below make sure you're in the know.\nPrivacy\nThe Service is a energy, emotion, period and Moon tracking tool created by Ehoa. Ehoa is undertaking research to explore the patterns in energy and emotions that someone feels when we understand where they are at within their menstrual cycle and the...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502622339,
+            "url": "https://ehoa.app/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as outlined in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app declares the purpose of data collection and use.",
+            "reference": "The app declares the purposes of data collection and use in various instances throughout the privacy policy. URL: https://ehoa.app/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b81844fc06b6caaf18d5df96b6464044586d85d9b2c0837850763ef4d13d415a",
+                "score": 0.26038948,
+                "excerpt": "that website’s privacy policy before you provide personal information to that owner or website.\nData retention policy:\nThe personal information that we collect and use will not be kept longer than necessary for the purposes for which it is collected, or for the duration required for compliance with applicable law, whichever is longer.\nComplaints:\nIf you believe that your privacy has been breached, please contact us on hello@ehoa.app and provide details of the incident so that we can investigate ...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "c095e075b4cf6abfde3ecc296d30b893548357ec59e2911d36593de09443bbbc",
+                "score": 0.22901753,
+                "excerpt": "at hello@ehoa.app\nDisclosure of personal information:\nWe may disclose your information to:\n-\nour employees, related bodies corporate, contractors or service providers for the purposes of operating our Application, Website, our research, business or the Services, fulfilling requests by you, and to otherwise provide the Services and Website to you including, without limitation, web hosting providers, IT system administrators, mailing houses, couriers, payment processors, data entry service provide...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "230811379b349d63cc53c4f0cf9760433f2a60291656a9e02602f2df6a863571",
+                "score": 0.06928941,
+                "excerpt": "made by you);\n-\nmonitoring Service and Application and Website usage and compliance with any contracts you have entered into with us;\n-\ncarrying out internal research and development;\n-\nproviding information to you about additional products or services that may be of interest to you (including direct marketing);\n-\nif you are either an Organisation or a Private user: providing billing details (names and email addresses) of users accessing the Service under that plan to Banqer’s sponsorship partne...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "b4edc9f1b6de215d8700edc9fd9549d115dfaaf1e6d0952ecbbfea56e60f517b",
+                "score": 0.063831605,
+                "excerpt": "means of accessing it (for example, by emailing it to you).\nWe may charge a fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge you for simply making a request.\nPlease contact hello@ehoa.app if you would like to request access to or update your personal information. Your email should provide evidence of who you are and set out the details of your request (e.g. the personal information to be corrected and the correction that you are r...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "3e3e16aa9ca5982e9cac7652f8d8e4fe70be99d0c8ad1979b1a41bf06b090668",
+                "score": 0.03581319,
+                "excerpt": "your personal information may be transferred to the third party purchaser. You acknowledge and agree that such transfers may occur, and that any acquirer of Banqer or its assets may continue to access and use the User Data and User Submissions as set out in the Terms of Use and this privacy policy.\nCollection and use of aggregate personal information\nYou agree that we may retain and aggregate personal information, including your User Data and User Submissions, for our research, marketing purpose...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502622339,
+            "url": "https://ehoa.app/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to access, correct, or request the deletion of personal information held by the app.",
+            "reference": "You have the right to access and request correction of any personal information that we hold about you, subject to certain exceptions. If you believe any information we hold about you is incorrect, incomplete or inaccurate, then you may request that it be amended. URL: https://ehoa.app/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "eaac3e5862c047d12326ab3f47a737951575df609ef928fafd913dea2d2e9f0d",
+                "score": 0.039416388,
+                "excerpt": "any questions about this privacy policy, please use the contact link on our Website or contact us using the details set out below.\nPlease contact us at: hello@ehoa.app\nChanges to our privacy policy:\nWe may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our Website. Please review it regularly. The change will apply from the date that we upload the revised privacy policy.\nThis privacy policy was last updated on Thursday 30th May 2024\nLaw...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "b81844fc06b6caaf18d5df96b6464044586d85d9b2c0837850763ef4d13d415a",
+                "score": 0.013532149,
+                "excerpt": "that website’s privacy policy before you provide personal information to that owner or website.\nData retention policy:\nThe personal information that we collect and use will not be kept longer than necessary for the purposes for which it is collected, or for the duration required for compliance with applicable law, whichever is longer.\nComplaints:\nIf you believe that your privacy has been breached, please contact us on hello@ehoa.app and provide details of the incident so that we can investigate ...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "70b776fb745e76607173f539b84c6a826ddc5fd1849b0f6b3208d9527ae9272f",
+                "score": 0.01107216,
+                "excerpt": "the user as they navigate the Website and to improve the Website’s usability. These cookies do not collect any personal information about the user.\nIf you set up an account with us, we may use cookies to manage the signup process, to remember who you are while you are using the Service, to track your use of the Service and to improve the Service’s usability. These cookies will usually be deleted when you log out of the Service, however in some cases they may remain after you have logged out to e...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "ca156be26bf8dbebf336f9f9d03b21c77ff0ef6d41ae996c141e648f41b5409e",
+                "score": 0.0089161275,
+                "excerpt": "spend on the Website and the pages that you visit. For more information on Google Analytics cookies, see the official Google Analytics page.\nYou can prevent the use of cookies by adjusting the settings on your browser (see your browser help for how to do this). Be aware that disabling cookies will affect, or may disable, some or all of the functionality and features of the Service or Website.\nAccessing or updating your personal information:\nYou have the right to access and request correction of ...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "5672b79c773a48cad0697396fa3df6686a1bd88bf679ef859b06967550b5af9c",
+                "score": 0.008610767,
+                "excerpt": "your personal information:\nAs required by applicable law, we will take steps to keep your personal information safe from loss, unauthorised activity, or other misuse. We implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks inherent in processing personal information.\nYou play an important role in keeping your personal information secure by maintaining the confidentiality of any password and accounts used in relation to our products an...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502622339,
+            "url": "https://ehoa.app/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as stated in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may disclose user information to employees, contractors, service providers, suppliers, third parties with commercial relationships, and any other person for authorized purposes with the user's consent. It also mentions the possibility of transferring personal information to a third party purchaser in case of a business sale.",
+            "reference": "The app may disclose your information to our employees, related bodies corporate, contractors or service providers for the purposes of operating our Application, Website, our research, business or the Services...URL: https://ehoa.app/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c095e075b4cf6abfde3ecc296d30b893548357ec59e2911d36593de09443bbbc",
+                "score": 0.96203625,
+                "excerpt": "at hello@ehoa.app\nDisclosure of personal information:\nWe may disclose your information to:\n-\nour employees, related bodies corporate, contractors or service providers for the purposes of operating our Application, Website, our research, business or the Services, fulfilling requests by you, and to otherwise provide the Services and Website to you including, without limitation, web hosting providers, IT system administrators, mailing houses, couriers, payment processors, data entry service provide...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "3e3e16aa9ca5982e9cac7652f8d8e4fe70be99d0c8ad1979b1a41bf06b090668",
+                "score": 0.38381448,
+                "excerpt": "your personal information may be transferred to the third party purchaser. You acknowledge and agree that such transfers may occur, and that any acquirer of Banqer or its assets may continue to access and use the User Data and User Submissions as set out in the Terms of Use and this privacy policy.\nCollection and use of aggregate personal information\nYou agree that we may retain and aggregate personal information, including your User Data and User Submissions, for our research, marketing purpose...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "230811379b349d63cc53c4f0cf9760433f2a60291656a9e02602f2df6a863571",
+                "score": 0.20481864,
+                "excerpt": "made by you);\n-\nmonitoring Service and Application and Website usage and compliance with any contracts you have entered into with us;\n-\ncarrying out internal research and development;\n-\nproviding information to you about additional products or services that may be of interest to you (including direct marketing);\n-\nif you are either an Organisation or a Private user: providing billing details (names and email addresses) of users accessing the Service under that plan to Banqer’s sponsorship partne...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "eaac3e5862c047d12326ab3f47a737951575df609ef928fafd913dea2d2e9f0d",
+                "score": 0.051367506,
+                "excerpt": "any questions about this privacy policy, please use the contact link on our Website or contact us using the details set out below.\nPlease contact us at: hello@ehoa.app\nChanges to our privacy policy:\nWe may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our Website. Please review it regularly. The change will apply from the date that we upload the revised privacy policy.\nThis privacy policy was last updated on Thursday 30th May 2024\nLaw...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "5672b79c773a48cad0697396fa3df6686a1bd88bf679ef859b06967550b5af9c",
+                "score": 0.043936532,
+                "excerpt": "your personal information:\nAs required by applicable law, we will take steps to keep your personal information safe from loss, unauthorised activity, or other misuse. We implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks inherent in processing personal information.\nYou play an important role in keeping your personal information secure by maintaining the confidentiality of any password and accounts used in relation to our products an...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502622339,
+            "url": "https://ehoa.app/policies/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with its employees, related bodies corporate, contractors, service providers, suppliers, sponsorship partners, law enforcement agencies, regulatory authorities, governmental authorities, and any other person with explicit consent.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "employees",
+                        "related bodies corporate",
+                        "contractors",
+                        "service providers",
+                        "suppliers",
+                        "sponsorship partners",
+                        "law enforcement agencies",
+                        "regulatory authorities",
+                        "governmental authorities",
+                        "other persons with consent"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines various entities with which the app may share data, including a broad range from employees and service providers to governmental authorities and persons with explicit consent.",
+            "reference": "The app shares data with its employees, related bodies corporate, contractors, service providers, suppliers, sponsorship partners, law enforcement agencies, regulatory authorities, governmental authorities, and any other person with explicit consent. URL: https://ehoa.app/policies/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c095e075b4cf6abfde3ecc296d30b893548357ec59e2911d36593de09443bbbc",
+                "score": 0.9599126,
+                "excerpt": "at hello@ehoa.app\nDisclosure of personal information:\nWe may disclose your information to:\n-\nour employees, related bodies corporate, contractors or service providers for the purposes of operating our Application, Website, our research, business or the Services, fulfilling requests by you, and to otherwise provide the Services and Website to you including, without limitation, web hosting providers, IT system administrators, mailing houses, couriers, payment processors, data entry service provide...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "230811379b349d63cc53c4f0cf9760433f2a60291656a9e02602f2df6a863571",
+                "score": 0.3947841,
+                "excerpt": "made by you);\n-\nmonitoring Service and Application and Website usage and compliance with any contracts you have entered into with us;\n-\ncarrying out internal research and development;\n-\nproviding information to you about additional products or services that may be of interest to you (including direct marketing);\n-\nif you are either an Organisation or a Private user: providing billing details (names and email addresses) of users accessing the Service under that plan to Banqer’s sponsorship partne...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "3e3e16aa9ca5982e9cac7652f8d8e4fe70be99d0c8ad1979b1a41bf06b090668",
+                "score": 0.36274344,
+                "excerpt": "your personal information may be transferred to the third party purchaser. You acknowledge and agree that such transfers may occur, and that any acquirer of Banqer or its assets may continue to access and use the User Data and User Submissions as set out in the Terms of Use and this privacy policy.\nCollection and use of aggregate personal information\nYou agree that we may retain and aggregate personal information, including your User Data and User Submissions, for our research, marketing purpose...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "5672b79c773a48cad0697396fa3df6686a1bd88bf679ef859b06967550b5af9c",
+                "score": 0.079638734,
+                "excerpt": "your personal information:\nAs required by applicable law, we will take steps to keep your personal information safe from loss, unauthorised activity, or other misuse. We implement appropriate technical and organisational measures to ensure a level of security appropriate to the risks inherent in processing personal information.\nYou play an important role in keeping your personal information secure by maintaining the confidentiality of any password and accounts used in relation to our products an...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            },
+            {
+                "id": "38c159e5cf68a29428be5ad5e9405167d2c05efd1e0f31a3636471412d207ddd",
+                "score": 0.029367855,
+                "excerpt": "teacher or employee of an Institution, or is caused by a breach of the Terms of Use or any part of this privacy policy by a Private User or a student, teacher or employee of an Institution, the relevant unauthorised or breaching person must pay us reasonable costs related to taking such steps.\nCookies:\nWe may store personal information through the use of cookies. Cookies are alphanumeric identifiers that the Website or Services transfer to your computer’s hard drive to enable our systems to reco...",
+                "url": "https://ehoa.app/policies/privacy-policy"
+            }
+        ]
+    }
+]

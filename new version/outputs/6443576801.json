@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 6443576801,
+            "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data through various means such as cookies, web beacons, and web server logs.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of data through automated means like cookies, web beacons, and web server logs, indicating that the app declares the collection of data.",
+            "reference": "The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the usage of our Service. URL: https://www.pmnowapp.com/pm-now-user-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4bfc3630f1b76fb504d77afee1755a61442d310b0a5404b6ba8222e4fa56585a",
+                "score": 0.022672437,
+                "excerpt": "analytics providers, collect certain information by automated means, such as cookies, web beacons and web server logs. By using the Platform, you consent to the placement of cookies, beacons, and other similar technology in your browser and on emails in accordance with this Privacy Policy. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "9c60c06c0b95d52a381cb2bc67a7c142000e9e10ec69682aa849db1ab646b053",
+                "score": 0.005448068,
+                "excerpt": "like to request that we update or correct any account information that you have provided to us through your use of the Platform, or if you have suggestions for improving this Privacy Policy, please send an email to Support@TeleWellApp.com. You may also update or correct your account information in your profile within the Platform.\nCHANGES TO OUR PRIVACY POLICY AND PRACTICES\nWe may make changes to this Privacy Policy from time to time, and the revised version will be effective when it is posted. ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "6a71c4c0acff32a331c05074242357a0e64a62866482f646c18cccc86b069266",
+                "score": 0.005159623,
+                "excerpt": "we cannot be absolutely sure that it is adequately protected. Your journal is accessible and viewable to you and your assigned provider.\nInformation you provide for payment processing. Our payment processors may collect payment information you provide (such as a credit card number, expiration date, credit card security number, or bank account number) as necessary to help you complete a purchase. TeleWell does not have access to information submitted to our payment processors. We recommend review...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "b6753dfdaa8814579fe135a46c57b7ea546c0294a0c8909f4ff4dce2d3b4df25",
+                "score": 0.0030753696,
+                "excerpt": "contain links to third party websites. This Privacy Policy does not apply to the practices of other websites, and we are not responsible for the actions and privacy policies of the third parties that operate or interact with those other websites.\nINFORMATION SECURITY\nTeleWell takes a variety of technical and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access. However, no method ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "c1a10195e4f5fb55336699b206cfede2e0def4a5633bd5fb62277bac60de0e0f",
+                "score": 0.0028560124,
+                "excerpt": "and health information you provide directly to us through the Platform. For certain activities, such as when you (i) register to use the Platform, (ii) use the Platform, including to receive telehealth services, (iii) make payments through the Platform, or (iv) communicate with us through the Platform, we may collect personal, demographic, health, payment and/or other miscellaneous user information such as:\n• Name, date of birth, address, email address, phone number, photograph of your ID\n• User...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443576801,
+            "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as IP address, browser characteristics, device IDs, operating system version, language preferences, referring URLs, and information about the usage of the service.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "IP address",
+                        "browser characteristics",
+                        "device IDs",
+                        "operating system version",
+                        "language preferences",
+                        "referring URLs",
+                        "usage information of the service"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that various data types are collected, including those related to device information, user behavior, and interactions with the service.",
+            "reference": "The app collects data such as IP address, browser characteristics, device IDs, operating system version, language preferences, referring URLs, and information about the usage of our Service. URL: https://www.pmnowapp.com/pm-now-user-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4bfc3630f1b76fb504d77afee1755a61442d310b0a5404b6ba8222e4fa56585a",
+                "score": 0.15856485,
+                "excerpt": "analytics providers, collect certain information by automated means, such as cookies, web beacons and web server logs. By using the Platform, you consent to the placement of cookies, beacons, and other similar technology in your browser and on emails in accordance with this Privacy Policy. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "c1a10195e4f5fb55336699b206cfede2e0def4a5633bd5fb62277bac60de0e0f",
+                "score": 0.09807933,
+                "excerpt": "and health information you provide directly to us through the Platform. For certain activities, such as when you (i) register to use the Platform, (ii) use the Platform, including to receive telehealth services, (iii) make payments through the Platform, or (iv) communicate with us through the Platform, we may collect personal, demographic, health, payment and/or other miscellaneous user information such as:\n• Name, date of birth, address, email address, phone number, photograph of your ID\n• User...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "6a71c4c0acff32a331c05074242357a0e64a62866482f646c18cccc86b069266",
+                "score": 0.08509905,
+                "excerpt": "we cannot be absolutely sure that it is adequately protected. Your journal is accessible and viewable to you and your assigned provider.\nInformation you provide for payment processing. Our payment processors may collect payment information you provide (such as a credit card number, expiration date, credit card security number, or bank account number) as necessary to help you complete a purchase. TeleWell does not have access to information submitted to our payment processors. We recommend review...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "d6d9d0e21207289ff188f6c983146b330a69fcf5f595c3036abc8b44b5cbd1f2",
+                "score": 0.009974921,
+                "excerpt": "Consumer Policies\nPrivacy Policy | Terms of Use\nPrivacy Policy\nTeleWell values your privacy. TeleWell offers a telehealth platform for users seeking access to mental health services.Information about users and their treatment choices are maintained in the telehealth platform. Any website or Internet service under the control of TeleWell, whether partial or otherwise, in will be referred to as the “Platform.”\nThe Privacy Policy explains how we collect, use, disclose, and secure personal informati...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "49cb5521073478b675ec8b3ab7792651917c98e98466c9ba21d06c332c12ff44",
+                "score": 0.008061991,
+                "excerpt": "purposes by various means, including mail, email, telephone, including voicemail, or SMS/MMS (text message). We may create, use, and disclose de-identified information (that is, information that cannot be used to identify you) or aggregated information for our internal business purposes in compliance with applicable law.\nWe may also use, preserve, and disclose information (as permitted by applicable law):\n• if we believe doing so is required or appropriate to: comply with law enforcement request...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443576801,
+            "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use in order to provide access to the Platform, improve products and services, contact users for support or marketing purposes, create de-identified or aggregated information, and for other specified purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app discloses the purpose of data collection and use for various reasons in compliance with applicable laws.",
+            "reference": "We will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and services in accordance with applicable law... We may store and use the information we receive from and about you to contact you to provide support or for TeleWell marketing and promotional purposes by various means... We may also use, preserve, and disclose de-identified information (that is, information that cannot be used to identify you) or aggregated information for our internal business purposes in compliance with applicable law. URL: https://www.pmnowapp.com/pm-now-user-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "49cb5521073478b675ec8b3ab7792651917c98e98466c9ba21d06c332c12ff44",
+                "score": 0.045948204,
+                "excerpt": "purposes by various means, including mail, email, telephone, including voicemail, or SMS/MMS (text message). We may create, use, and disclose de-identified information (that is, information that cannot be used to identify you) or aggregated information for our internal business purposes in compliance with applicable law.\nWe may also use, preserve, and disclose information (as permitted by applicable law):\n• if we believe doing so is required or appropriate to: comply with law enforcement request...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "4bfc3630f1b76fb504d77afee1755a61442d310b0a5404b6ba8222e4fa56585a",
+                "score": 0.015663648,
+                "excerpt": "analytics providers, collect certain information by automated means, such as cookies, web beacons and web server logs. By using the Platform, you consent to the placement of cookies, beacons, and other similar technology in your browser and on emails in accordance with this Privacy Policy. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "40603875effc8fba1904a024027cfff34e76ea1902cc312cb09a5591c27479e6",
+                "score": 0.0034162789,
+                "excerpt": "interest to you based on your use of the Platform. You may be able to change browser settings to block and delete cookies when you access the Platform through a web browser. However, if you do that, the Platform may not work properly. The Platform does not respond to browser do-not-track signals.\nHow DOES TeleWell USE AND DISCLOSE YOUR INFORMATION\nWe will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and serv...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "6a71c4c0acff32a331c05074242357a0e64a62866482f646c18cccc86b069266",
+                "score": 0.0028338498,
+                "excerpt": "we cannot be absolutely sure that it is adequately protected. Your journal is accessible and viewable to you and your assigned provider.\nInformation you provide for payment processing. Our payment processors may collect payment information you provide (such as a credit card number, expiration date, credit card security number, or bank account number) as necessary to help you complete a purchase. TeleWell does not have access to information submitted to our payment processors. We recommend review...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "d6d9d0e21207289ff188f6c983146b330a69fcf5f595c3036abc8b44b5cbd1f2",
+                "score": 0.0027576224,
+                "excerpt": "Consumer Policies\nPrivacy Policy | Terms of Use\nPrivacy Policy\nTeleWell values your privacy. TeleWell offers a telehealth platform for users seeking access to mental health services.Information about users and their treatment choices are maintained in the telehealth platform. Any website or Internet service under the control of TeleWell, whether partial or otherwise, in will be referred to as the “Platform.”\nThe Privacy Policy explains how we collect, use, disclose, and secure personal informati...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443576801,
+            "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the user may change browser settings to block and delete cookies when accessing the platform through a web browser. This implies that users have the option to opt out of data collection through this method.",
+            "reference": "You may be able to change browser settings to block and delete cookies when you access the Platform through a web browser. However, if you do that, the Platform may not work properly. The Platform does not respond to browser do-not-track signals. URL: https://www.pmnowapp.com/pm-now-user-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4bfc3630f1b76fb504d77afee1755a61442d310b0a5404b6ba8222e4fa56585a",
+                "score": 0.09807933,
+                "excerpt": "analytics providers, collect certain information by automated means, such as cookies, web beacons and web server logs. By using the Platform, you consent to the placement of cookies, beacons, and other similar technology in your browser and on emails in accordance with this Privacy Policy. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "40603875effc8fba1904a024027cfff34e76ea1902cc312cb09a5591c27479e6",
+                "score": 0.026759284,
+                "excerpt": "interest to you based on your use of the Platform. You may be able to change browser settings to block and delete cookies when you access the Platform through a web browser. However, if you do that, the Platform may not work properly. The Platform does not respond to browser do-not-track signals.\nHow DOES TeleWell USE AND DISCLOSE YOUR INFORMATION\nWe will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and serv...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "9c60c06c0b95d52a381cb2bc67a7c142000e9e10ec69682aa849db1ab646b053",
+                "score": 0.022977369,
+                "excerpt": "like to request that we update or correct any account information that you have provided to us through your use of the Platform, or if you have suggestions for improving this Privacy Policy, please send an email to Support@TeleWellApp.com. You may also update or correct your account information in your profile within the Platform.\nCHANGES TO OUR PRIVACY POLICY AND PRACTICES\nWe may make changes to this Privacy Policy from time to time, and the revised version will be effective when it is posted. ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "49cb5521073478b675ec8b3ab7792651917c98e98466c9ba21d06c332c12ff44",
+                "score": 0.008156248,
+                "excerpt": "purposes by various means, including mail, email, telephone, including voicemail, or SMS/MMS (text message). We may create, use, and disclose de-identified information (that is, information that cannot be used to identify you) or aggregated information for our internal business purposes in compliance with applicable law.\nWe may also use, preserve, and disclose information (as permitted by applicable law):\n• if we believe doing so is required or appropriate to: comply with law enforcement request...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "b6753dfdaa8814579fe135a46c57b7ea546c0294a0c8909f4ff4dce2d3b4df25",
+                "score": 0.0053018946,
+                "excerpt": "contain links to third party websites. This Privacy Policy does not apply to the practices of other websites, and we are not responsible for the actions and privacy policies of the third parties that operate or interact with those other websites.\nINFORMATION SECURITY\nTeleWell takes a variety of technical and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access. However, no method ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443576801,
+            "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties under certain circumstances such as law enforcement requests, legal processes, mergers, acquisitions, and with user permission.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share data with third parties in specific situations.",
+            "reference": "if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; comply with the law; and protect your, our, or others’ rights, property, or safety;... for the purpose you provide it; with your permission. URL: https://www.pmnowapp.com/pm-now-user-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b6753dfdaa8814579fe135a46c57b7ea546c0294a0c8909f4ff4dce2d3b4df25",
+                "score": 0.43965712,
+                "excerpt": "contain links to third party websites. This Privacy Policy does not apply to the practices of other websites, and we are not responsible for the actions and privacy policies of the third parties that operate or interact with those other websites.\nINFORMATION SECURITY\nTeleWell takes a variety of technical and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access. However, no method ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "49cb5521073478b675ec8b3ab7792651917c98e98466c9ba21d06c332c12ff44",
+                "score": 0.3165805,
+                "excerpt": "purposes by various means, including mail, email, telephone, including voicemail, or SMS/MMS (text message). We may create, use, and disclose de-identified information (that is, information that cannot be used to identify you) or aggregated information for our internal business purposes in compliance with applicable law.\nWe may also use, preserve, and disclose information (as permitted by applicable law):\n• if we believe doing so is required or appropriate to: comply with law enforcement request...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "4bfc3630f1b76fb504d77afee1755a61442d310b0a5404b6ba8222e4fa56585a",
+                "score": 0.107812636,
+                "excerpt": "analytics providers, collect certain information by automated means, such as cookies, web beacons and web server logs. By using the Platform, you consent to the placement of cookies, beacons, and other similar technology in your browser and on emails in accordance with this Privacy Policy. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "40603875effc8fba1904a024027cfff34e76ea1902cc312cb09a5591c27479e6",
+                "score": 0.067423776,
+                "excerpt": "interest to you based on your use of the Platform. You may be able to change browser settings to block and delete cookies when you access the Platform through a web browser. However, if you do that, the Platform may not work properly. The Platform does not respond to browser do-not-track signals.\nHow DOES TeleWell USE AND DISCLOSE YOUR INFORMATION\nWe will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and serv...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "6a71c4c0acff32a331c05074242357a0e64a62866482f646c18cccc86b069266",
+                "score": 0.05014425,
+                "excerpt": "we cannot be absolutely sure that it is adequately protected. Your journal is accessible and viewable to you and your assigned provider.\nInformation you provide for payment processing. Our payment processors may collect payment information you provide (such as a credit card number, expiration date, credit card security number, or bank account number) as necessary to help you complete a purchase. TeleWell does not have access to information submitted to our payment processors. We recommend review...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6443576801,
+            "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with vendors, health care providers, and other entities as necessary to provide services and improve products.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Vendors",
+                        "Health care providers",
+                        "Other entities"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that data can be disclosed to vendors, health care providers, and other entities to support services and enhance products.",
+            "reference": "We will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and services in accordance with applicable law. For example, we may disclose the information to our vendors so they can provide their services to us, including (i) verifying your identification during the registration process, and (ii) processing payments for selected treatment options. We may also disclose information to your health care provider who accesses the platform as part of their services. URL: https://www.pmnowapp.com/pm-now-user-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "49cb5521073478b675ec8b3ab7792651917c98e98466c9ba21d06c332c12ff44",
+                "score": 0.3555511,
+                "excerpt": "purposes by various means, including mail, email, telephone, including voicemail, or SMS/MMS (text message). We may create, use, and disclose de-identified information (that is, information that cannot be used to identify you) or aggregated information for our internal business purposes in compliance with applicable law.\nWe may also use, preserve, and disclose information (as permitted by applicable law):\n• if we believe doing so is required or appropriate to: comply with law enforcement request...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "b6753dfdaa8814579fe135a46c57b7ea546c0294a0c8909f4ff4dce2d3b4df25",
+                "score": 0.2592626,
+                "excerpt": "contain links to third party websites. This Privacy Policy does not apply to the practices of other websites, and we are not responsible for the actions and privacy policies of the third parties that operate or interact with those other websites.\nINFORMATION SECURITY\nTeleWell takes a variety of technical and organizational security measures to protect your information against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access. However, no method ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "4bfc3630f1b76fb504d77afee1755a61442d310b0a5404b6ba8222e4fa56585a",
+                "score": 0.19253936,
+                "excerpt": "analytics providers, collect certain information by automated means, such as cookies, web beacons and web server logs. By using the Platform, you consent to the placement of cookies, beacons, and other similar technology in your browser and on emails in accordance with this Privacy Policy. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the ...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "40603875effc8fba1904a024027cfff34e76ea1902cc312cb09a5591c27479e6",
+                "score": 0.08225395,
+                "excerpt": "interest to you based on your use of the Platform. You may be able to change browser settings to block and delete cookies when you access the Platform through a web browser. However, if you do that, the Platform may not work properly. The Platform does not respond to browser do-not-track signals.\nHow DOES TeleWell USE AND DISCLOSE YOUR INFORMATION\nWe will use and disclose the information we receive from and about you to provide you with access to the Platform and to improve our products and serv...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            },
+            {
+                "id": "c1a10195e4f5fb55336699b206cfede2e0def4a5633bd5fb62277bac60de0e0f",
+                "score": 0.01621503,
+                "excerpt": "and health information you provide directly to us through the Platform. For certain activities, such as when you (i) register to use the Platform, (ii) use the Platform, including to receive telehealth services, (iii) make payments through the Platform, or (iv) communicate with us through the Platform, we may collect personal, demographic, health, payment and/or other miscellaneous user information such as:\n• Name, date of birth, address, email address, phone number, photograph of your ID\n• User...",
+                "url": "https://www.pmnowapp.com/pm-now-user-privacy-policy"
+            }
+        ]
+    }
+]

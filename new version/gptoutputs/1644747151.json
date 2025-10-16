@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1644747151,
+      "url": "https://cfsleadershipcourses.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that while using the Service, users may be asked to provide certain personally identifiable information that can be used to contact or identify them, including but not limited to email address, first name and last name, and usage data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of personal data that may be collected.",
+          "content": "While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to: Email address, First name and last name, Usage Data."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1644747151,
+      "url": "https://cfsleadershipcourses.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Data, which may include, but is not limited to, email address, first name and last name, and Usage Data. Usage Data is collected automatically and may include information such as the Device's Internet Protocol address (IP address), browser type, browser version, the pages visited, the time and date of the visit, the time spent on those pages, unique device identifiers, and other diagnostic data.",
+        "simple_answer": "The app collects Personal Data like email, name, and Usage Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to improve its services.",
+          "content": "Personal Data includes email address, first name, last name, and Usage Data such as IP address, browser type, and pages visited."
+        }
+      },
+      "analysis": "",
+      "reference": "Collecting and Using Your Personal Data, Types of Data Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1644747151,
+      "url": "https://cfsleadershipcourses.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it uses personal data to provide and improve the Service. By using the Service, users agree to the collection and use of information in accordance with the Privacy Policy.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The purpose of data collection is clearly stated in the privacy policy.",
+          "content": "The app uses personal data to provide and improve the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "This information is found in the section titled 'Collecting and Using Your Personal Data'."
+    }
+  },
+  {
+    "meta": {
+      "id": 1644747151,
+      "url": "https://cfsleadershipcourses.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by adjusting their browser settings to refuse cookies. However, if cookies are not accepted, some parts of the service may not be usable. The policy does not explicitly mention a process for deleting data, but users can contact the company for more information on their data rights.",
+        "simple_answer": "Yes, users can opt out by refusing cookies.",
+        "extended_simple_answer": {
+          "comment": "Users have control over cookie settings, which can limit data collection.",
+          "content": "Users can instruct their browser to refuse all cookies or to indicate when a cookie is being sent. However, refusing cookies may affect the usability of some parts of the service."
+        }
+      },
+      "analysis": "The privacy policy provides users with the ability to manage their cookie preferences, which is a common method for opting out of certain data collection practices. However, it lacks detailed instructions on how to delete personal data.",
+      "reference": "Tracking Technologies and Cookies section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1644747151,
+      "url": "https://cfsleadershipcourses.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your personal data with third parties, including service providers who process data on behalf of the Company. This is done to facilitate the service, provide the service on behalf of the Company, perform services related to the service, or assist the Company in analyzing how the service is used.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is primarily for service facilitation and analysis.",
+          "content": "The app may share your personal data with service providers who process data on behalf of the Company."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal data may be shared with service providers, which is a common practice for app services to enhance functionality and user experience.",
+      "reference": "Collecting and Using Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1644747151,
+      "url": "https://cfsleadershipcourses.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It mentions that data may be shared with Service Providers, which are third-party companies or individuals employed by the Company to facilitate the Service, provide the Service on behalf of the Company, perform services related to the Service, or assist the Company in analyzing how the Service is used.",
+        "simple_answer": "The app shares data with Service Providers, but does not specify which ones.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared with third parties but does not list specific entities.",
+          "content": "Data may be shared with Service Providers who help facilitate or analyze the Service."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy may raise concerns for users about who exactly has access to their data.",
+      "reference": "Collecting and Using Your Personal Data, Service Provider definition"
+    }
+  }
+]

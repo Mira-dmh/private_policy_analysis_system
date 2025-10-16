@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1505323328,
+      "url": "https://uptime.app/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that if you download and use the Uptime App, information such as your name, phone number, and/or email address will be collected to enable you to use Uptime’s services. Additionally, it mentions that Automatic Information, such as Cookies, is collected when visiting the Uptime site.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of data collected and the purposes for which it is used.",
+          "content": "The app collects personal information like name, phone number, and email when you use the Uptime App, and also collects Automatic Information like Cookies when you visit the site."
+        }
+      },
+      "analysis": "The privacy policy provides transparency regarding the data collection practices of the Uptime App, ensuring users are informed about what personal data is collected and for what purposes.",
+      "reference": "What Personal Information About Customers Does Uptime Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1505323328,
+      "url": "https://uptime.app/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including your name, phone number, and/or email address when you download and use the Uptime App. It may also collect additional information such as social media information. Furthermore, if a Provider offers a customized version of the Uptime App, it may disclose information such as a user’s name, email address, job title, and other known information. Additionally, the app collects Automatic Information, such as Cookies, when you visit the Uptime Site.",
+        "simple_answer": "The app collects personal information like name, phone number, email address, and may also collect social media information and cookies.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both user-provided data and automatic data.",
+          "content": "User-provided data includes name, phone number, email, and potentially social media information. Automatic data includes cookies."
+        }
+      },
+      "analysis": "",
+      "reference": "What Personal Information About Customers Does Uptime Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1505323328,
+      "url": "https://uptime.app/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. Uptime processes personal information to operate, provide, and improve the Uptime Services, which includes communications with users, analytics and recommendation engine, and making resources available and accessible through the app.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The purposes include communication, analytics, and resource accessibility.",
+          "content": "Uptime processes personal information to operate, provide, and improve the Uptime Services, including communications with users, analytics and recommendation engine, and making resources available and accessible through the app."
+        }
+      },
+      "analysis": "",
+      "reference": "For What Purposes Does Uptime Process Your Personal Information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1505323328,
+      "url": "https://uptime.app/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of receiving marketing emails by clicking 'unsubscribe' in any email they receive or at any time in the Uptime app Settings. However, the privacy policy does not explicitly mention a process for users to delete their data.",
+        "simple_answer": "Yes, users can opt out of marketing emails.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of marketing communications, the policy does not provide details on how to delete personal data.",
+          "content": "Users can unsubscribe from marketing emails via a link in the emails or through the app settings."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of marketing communications but lacks specific instructions for data deletion.",
+      "reference": "Section: What Personal Information About Customers Does Uptime Collect and Why?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1505323328,
+      "url": "https://uptime.app/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, Uptime may share personal data with analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure and other cloud services providers, as well as recruitment and HR services providers. Additionally, if you have redeemed a bulk subscription offer, information regarding a user’s registration and cumulative usage of the Uptime App may be shared with the company that provided the offer.",
+        "simple_answer": "Yes, Uptime shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is done for various services and purposes.",
+          "content": "Personal data may be shared with various service providers and companies related to analytics, marketing, and user management."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Does Uptime Share Your Personal Information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1505323328,
+      "url": "https://uptime.app/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "Uptime shares personal data with analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure and other cloud services providers, as well as recruitment and HR services providers. Additionally, if a user has redeemed a bulk subscription offer, information regarding the user's registration and cumulative usage of the Uptime App may be shared with the company that provided the offer.",
+        "simple_answer": "Uptime shares data with analytics, marketing, and cloud service providers, among others.",
+        "extended_simple_answer": {
+          "comment": "Uptime shares data with various third-party service providers to enhance its services.",
+          "content": "These include analytics, communications, database, authentication, marketing, content and user management, testing, cloud infrastructure, and recruitment services."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Does Uptime Share Your Personal Information?"
+    }
+  }
+]

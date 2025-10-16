@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1491792162,
+      "url": "https://www.thelucidproject.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that user accounts will store information such as unique user ID, email address, age, gender identity, baseline profile survey responses, biometric data (optional), and emotional and cognitive self-assessment data.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the types of data it collects from users.",
+          "content": "The privacy policy outlines that user accounts will include various identifiable information and that health data is collected to provide a personalized experience."
+        }
+      },
+      "analysis": "The app's privacy policy clearly states the types of data collected from users, ensuring transparency in its data collection practices.",
+      "reference": "Section 3: INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1491792162,
+      "url": "https://www.thelucidproject.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: Unique User ID, Email Address, Age, Gender identity, Baseline profile survey (STOMP, STAI-Trait, Big 5 Personality Trait), optional Biometric data acquired through wearable devices, and Emotional and cognitive self-assessment data (which includes tools like Arousal/Valence Grid, SUDS, and POMS).",
+        "simple_answer": "The app collects user account information, biometric data, and emotional/cognitive self-assessment data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a range of personal and optional data to enhance user experience.",
+          "content": "Data collected includes Unique User ID, Email Address, Age, Gender identity, Baseline profile survey, optional Biometric data, and Emotional and cognitive self-assessment data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: INFORMATION WE COLLECT"
+    }
+  },
+  {
+    "meta": {
+      "id": 1491792162,
+      "url": "https://www.thelucidproject.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide and maintain the services, improve the services, and for research purposes. Specifically, user assessment data is needed to understand the user's current mood and physiological state, and to personalize their experience. Additionally, the information is used to continuously train algorithms for better service delivery and may be used in anonymized form for research and development processes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about its data collection practices.",
+          "content": "The information collected is used to provide and maintain services, improve user experience, and for research purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purposes for which user data is collected, ensuring transparency and user awareness.",
+      "reference": "Section 4: HOW WE USE INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1491792162,
+      "url": "https://www.thelucidproject.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by declining to provide certain identifiable information when requested. Additionally, users may change, request access to, or delete any of their User Information or Health Data by emailing LUCID at info@thelucidproject.ca.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to decline providing certain information and can request deletion of their data.",
+          "content": "Users can opt out of data collection by not providing requested identifiable information. They can also delete their User Information or Health Data by contacting LUCID via email."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have control over their data, including the ability to opt out of providing certain information and to delete their data upon request.",
+      "reference": "Section 3: INFORMATION WE COLLECT and Section 4: UPDATING & CORRECTING INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1491792162,
+      "url": "https://www.thelucidproject.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal information with third parties outside of LUCID's organization unless certain circumstances apply, such as legal requirements, explicit consent from the user, or sharing anonymized data. Specifically, personal information may be shared if required by law, with the user's explicit consent, or as anonymized data for industry analysis.",
+        "simple_answer": "Yes, but only under specific circumstances such as legal requirements or with user consent.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares data in limited situations.",
+          "content": "Personal information is shared only if required by law, with explicit user consent, or as anonymized data for analysis."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which personal information may be shared, emphasizing user consent and legal obligations.",
+      "reference": "Section 5: SHARING YOUR PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1491792162,
+      "url": "https://www.thelucidproject.ca/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share personal information with third parties in the following circumstances: 1) For release required by law, to investigate, prevent or take action regarding illegal activities, or as otherwise required by law. 2) With the user's explicit consent, for reasons other than those previously mentioned. 3) Anonymized data may be disclosed to third parties for industry analysis and consultations, which does not include personal information.",
+        "simple_answer": "The app shares data with third parties when required by law, with user consent, or as anonymized data for analysis.",
+        "extended_simple_answer": {
+          "comment": "The app is cautious about sharing personal information and does so under specific circumstances.",
+          "content": "1) Required by law; 2) With explicit user consent; 3) Anonymized data for industry analysis."
+        }
+      },
+      "analysis": "The app has strict guidelines on sharing personal information, ensuring that it is only done under legal obligations, with user consent, or in an anonymized format.",
+      "reference": "Section 5: SHARING YOUR PERSONAL INFORMATION"
+    }
+  }
+]

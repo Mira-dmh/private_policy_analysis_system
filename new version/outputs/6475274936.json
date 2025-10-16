@@ -1,0 +1,348 @@
+[
+    {
+        "meta": {
+            "id": 6475274936,
+            "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that information is collected when using the app's products and services.",
+            "reference": "By using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy. URL: https://flyingfishmart.com/private/PrivatePolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9aea986bde2fb59604c02b29669944e3855baaa738257244b788964c37fa94a8",
+                "score": 0.05127242,
+                "excerpt": "the contact information in the \"Contact Us\" section.\nBy using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy.\nThis privacy policy will help you understand the following contents:\n1.The Scope of Information We Collect\n1.1 Information you voluntarily provide when using our products and services:\nA. When you register an account by using an account from a third party, such as Facebook, QQ, ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "0ec0559b60d671f908603582891f30a2c3641b934b6c4c1c1b1876c4d82d29f2",
+                "score": 0.022802636,
+                "excerpt": "information, please read Apple's privacy policy.\n1.3 When you use sports and health products, in order to be able to realize the basic functions of the products, we may collect your gender, birthday, age, height, weight, and regional information, which is used to accurately calculate your use of the products and better monitor your sports and health. In order to improve the user experience and convenience of products and/or services, we might collect, via invoking device permissions, your inform...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "eacf145d573fb865f96828bdf4b7921c1c1b56c4cb219a210546bcec9da11e4c",
+                "score": 0.015247591,
+                "excerpt": "be regarded as personal information which shall be anonymized and de-identified during the combination period unless you are authorized or the laws and regulations demand otherwise.\n1.4 Third Party Service Providers\nIn order to provide you with better products or services, we have integrated third party services (They include but are not limited to data analysis, third party payment, and advertisement.) into our products. The third parties we cooperate with and their respective privacy policies ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "2ade242a59f50e278f207334eb96f78c0ace142f5d3a292d277f2b15e85c35c7",
+                "score": 0.0094125895,
+                "excerpt": "Privacy Policy\nThis privacy policy applies to our related products and services.\nLast Updated Date: January 4, 2024\nWhen you use our products and services, we might collect and use your related information. We intend to explain to you via this \"Privacy Policy\" how we collect, use, store, and share this information and the methods we provide for you to access, update, control, and protect this information.\nWe hope you will carefully read this policy and, when needed, make choices you deed proper ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "913da67a080810b01c8dba6b970ce2326a03a32d978b7aec0f175cbe71cff412",
+                "score": 0.008251599,
+                "excerpt": "and similar technologies, we can track your product progress in real-time and understand your preferences so as to provide you with a smooth, high-quality and personalized user experience. We will not use the above technologies for any purpose other than those described in this policy. Please understand that some services can only be achieved by using the above technologies. If permitted by your device or associated program, you may disable or delete the above technologies by changing your setti...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475274936,
+            "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects device or network information (device name, device model, Advertisement Identifiers, operating system, application version, user behaviors, language settings, resolution, mobile endpoint storage), payment result verification information, and personal information for sports and health products (gender, birthday, age, height, weight, regional information).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device or network information (device name, device model, Advertisement Identifiers, operating system, application version, user behaviors, language settings, resolution, mobile endpoint storage)",
+                        "Payment result verification information",
+                        "Personal information for sports and health products (gender, birthday, age, height, weight, regional information)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the types of data collected by the app, ranging from device-related information to payment verification and personal details for sports and health product functionalities.",
+            "reference": "Device or network information, Payment result verification information, Personal information for sports and health products. URL: https://flyingfishmart.com/private/PrivatePolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "cb7cb91ce47392466258478f51d4149df4dda3b91dfa8f523912114413509f21",
+                "score": 0.08647765,
+                "excerpt": "using our products and/or services.\n1.2 Information we may collect from you when you use our products and services:\nA. Device or network information\nWe might collect related device information from you in order to provide with you continuous and stable network product operation support. Related device information includes device name, device model, Advertisement Identifiers (include IDFA, IDFV), operating system, application version and type related to the operations users execute on devices and...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "eacf145d573fb865f96828bdf4b7921c1c1b56c4cb219a210546bcec9da11e4c",
+                "score": 0.05155819,
+                "excerpt": "be regarded as personal information which shall be anonymized and de-identified during the combination period unless you are authorized or the laws and regulations demand otherwise.\n1.4 Third Party Service Providers\nIn order to provide you with better products or services, we have integrated third party services (They include but are not limited to data analysis, third party payment, and advertisement.) into our products. The third parties we cooperate with and their respective privacy policies ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "0ec0559b60d671f908603582891f30a2c3641b934b6c4c1c1b1876c4d82d29f2",
+                "score": 0.046378206,
+                "excerpt": "information, please read Apple's privacy policy.\n1.3 When you use sports and health products, in order to be able to realize the basic functions of the products, we may collect your gender, birthday, age, height, weight, and regional information, which is used to accurately calculate your use of the products and better monitor your sports and health. In order to improve the user experience and convenience of products and/or services, we might collect, via invoking device permissions, your inform...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "9aea986bde2fb59604c02b29669944e3855baaa738257244b788964c37fa94a8",
+                "score": 0.041230027,
+                "excerpt": "the contact information in the \"Contact Us\" section.\nBy using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy.\nThis privacy policy will help you understand the following contents:\n1.The Scope of Information We Collect\n1.1 Information you voluntarily provide when using our products and services:\nA. When you register an account by using an account from a third party, such as Facebook, QQ, ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "913da67a080810b01c8dba6b970ce2326a03a32d978b7aec0f175cbe71cff412",
+                "score": 0.0068239546,
+                "excerpt": "and similar technologies, we can track your product progress in real-time and understand your preferences so as to provide you with a smooth, high-quality and personalized user experience. We will not use the above technologies for any purpose other than those described in this policy. Please understand that some services can only be achieved by using the above technologies. If permitted by your device or associated program, you may disable or delete the above technologies by changing your setti...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475274936,
+            "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app will use the collected information for the purposes covered by the policy and will analyze the operation of the product to ensure service security and optimize products.",
+            "reference": "We will use the information collected for the purposes covered by this Privacy Policy. If the scope of your personal information we intend to use exceeds the scope described in this 'Privacy Policy', we will revise the content of this 'Privacy Policy' before collecting your personal information and obtaining your express consent again. We will strictly abide by the provisions of laws and regulations and the agreement with you, and use the collected information in accordance with this 'Privacy Policy' and 'User Agreement'. We will analyze the operation of this product according to the frequency and situation of your use of the product, error information, and performance information, to ensure the security of the service, optimize our products and improve the quality of our services. URL: https://flyingfishmart.com/private/PrivatePolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "55daa37cb33de5dd8f155e7445151b5d1c8a28660a5cab6b4a8b192c17818447",
+                "score": 0.18832399,
+                "excerpt": "Advertising |\n|\n|\n|\nThird Party Login |\n|\n|\nLine |\nThird Party Login |\n|\n|\n|\nThird Party Login |\n|\n|\n|\nThird Party Login |\nhttps://weixin.qq.com/cgi-bin/readtemplate?t=opensdk_agreement&lang=zh_CN |\n|\nOneSignal |\nPush Notification |\n2.Lawful Basis for Our Using Your Personal Information\nWe will use the information collected for the purposes covered by this Privacy Policy. If the scope of your personal information we intend to use exceeds the scope described in this \"Privacy Policy\", we will revi...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "eacf145d573fb865f96828bdf4b7921c1c1b56c4cb219a210546bcec9da11e4c",
+                "score": 0.047161866,
+                "excerpt": "be regarded as personal information which shall be anonymized and de-identified during the combination period unless you are authorized or the laws and regulations demand otherwise.\n1.4 Third Party Service Providers\nIn order to provide you with better products or services, we have integrated third party services (They include but are not limited to data analysis, third party payment, and advertisement.) into our products. The third parties we cooperate with and their respective privacy policies ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "913da67a080810b01c8dba6b970ce2326a03a32d978b7aec0f175cbe71cff412",
+                "score": 0.03197956,
+                "excerpt": "and similar technologies, we can track your product progress in real-time and understand your preferences so as to provide you with a smooth, high-quality and personalized user experience. We will not use the above technologies for any purpose other than those described in this policy. Please understand that some services can only be achieved by using the above technologies. If permitted by your device or associated program, you may disable or delete the above technologies by changing your setti...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "9aea986bde2fb59604c02b29669944e3855baaa738257244b788964c37fa94a8",
+                "score": 0.025516603,
+                "excerpt": "the contact information in the \"Contact Us\" section.\nBy using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy.\nThis privacy policy will help you understand the following contents:\n1.The Scope of Information We Collect\n1.1 Information you voluntarily provide when using our products and services:\nA. When you register an account by using an account from a third party, such as Facebook, QQ, ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "0ec0559b60d671f908603582891f30a2c3641b934b6c4c1c1b1876c4d82d29f2",
+                "score": 0.018299334,
+                "excerpt": "information, please read Apple's privacy policy.\n1.3 When you use sports and health products, in order to be able to realize the basic functions of the products, we may collect your gender, birthday, age, height, weight, and regional information, which is used to accurately calculate your use of the products and better monitor your sports and health. In order to improve the user experience and convenience of products and/or services, we might collect, via invoking device permissions, your inform...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475274936,
+            "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or delete data by changing settings on their device or visiting the provider's web pages.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can disable or delete certain technologies by changing settings on their device or visiting provider web pages, indicating that users can opt out of data collection or delete data.",
+            "reference": "If permitted by your device or associated program, you may disable or delete the above technologies by changing your settings, or by visiting the provider's web pages. However, this action may affect your use of products and/or services. URL: https://flyingfishmart.com/private/PrivatePolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "913da67a080810b01c8dba6b970ce2326a03a32d978b7aec0f175cbe71cff412",
+                "score": 0.66671383,
+                "excerpt": "and similar technologies, we can track your product progress in real-time and understand your preferences so as to provide you with a smooth, high-quality and personalized user experience. We will not use the above technologies for any purpose other than those described in this policy. Please understand that some services can only be achieved by using the above technologies. If permitted by your device or associated program, you may disable or delete the above technologies by changing your setti...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "3be0b963b7a6d4f0f2553f4cbbb8dad679e6c125e8e1d83b03dcf842bac45728",
+                "score": 0.15278916,
+                "excerpt": "protected.\nIf we cease to provide services or operate, we and the third parties we cooperate with will stop collecting your personal information in time and shall abide by relevant laws and regulations to inform you in advance and delete or anonymize your personal data after we cease to operate or provide services unless laws, regulations or regulatory authorities demand otherwise.\n6.Protection of Your Personal Information\nWe use various security technologies and programs to prevent information ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "2ade242a59f50e278f207334eb96f78c0ace142f5d3a292d277f2b15e85c35c7",
+                "score": 0.0996453,
+                "excerpt": "Privacy Policy\nThis privacy policy applies to our related products and services.\nLast Updated Date: January 4, 2024\nWhen you use our products and services, we might collect and use your related information. We intend to explain to you via this \"Privacy Policy\" how we collect, use, store, and share this information and the methods we provide for you to access, update, control, and protect this information.\nWe hope you will carefully read this policy and, when needed, make choices you deed proper ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "222fdf2425a926bdcbb7522a5d098e7a2725a4f5042dd130877a9dcc50856b53",
+                "score": 0.016152835,
+                "excerpt": "via the contact information provided in this policy if you wish to check, edit or delete your personal profile. We will take reasonable measures after your identity is verified and your specific requirements are made clear.\n7.2 Account Deletion\nYou can directly contact us via the contact information provided in this privacy policy if you wish to delete your product account, at [Settings] - [Account Deletion] or at other places in the product. When requesting account deletion, we will verify your...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "9aea986bde2fb59604c02b29669944e3855baaa738257244b788964c37fa94a8",
+                "score": 0.008412978,
+                "excerpt": "the contact information in the \"Contact Us\" section.\nBy using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy.\nThis privacy policy will help you understand the following contents:\n1.The Scope of Information We Collect\n1.1 Information you voluntarily provide when using our products and services:\nA. When you register an account by using an account from a third party, such as Facebook, QQ, ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475274936,
+            "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share personal information with third party providers.",
+            "reference": "We promise that we will not share, sell, reveal to 3rd party providers in other ways the information you provide with us and the information we collect from you, or collect your personal information on behalf of 3rd party providers. URL: https://flyingfishmart.com/private/PrivatePolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "913da67a080810b01c8dba6b970ce2326a03a32d978b7aec0f175cbe71cff412",
+                "score": 0.92827886,
+                "excerpt": "and similar technologies, we can track your product progress in real-time and understand your preferences so as to provide you with a smooth, high-quality and personalized user experience. We will not use the above technologies for any purpose other than those described in this policy. Please understand that some services can only be achieved by using the above technologies. If permitted by your device or associated program, you may disable or delete the above technologies by changing your setti...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "eacf145d573fb865f96828bdf4b7921c1c1b56c4cb219a210546bcec9da11e4c",
+                "score": 0.33535084,
+                "excerpt": "be regarded as personal information which shall be anonymized and de-identified during the combination period unless you are authorized or the laws and regulations demand otherwise.\n1.4 Third Party Service Providers\nIn order to provide you with better products or services, we have integrated third party services (They include but are not limited to data analysis, third party payment, and advertisement.) into our products. The third parties we cooperate with and their respective privacy policies ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "9aea986bde2fb59604c02b29669944e3855baaa738257244b788964c37fa94a8",
+                "score": 0.12995382,
+                "excerpt": "the contact information in the \"Contact Us\" section.\nBy using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy.\nThis privacy policy will help you understand the following contents:\n1.The Scope of Information We Collect\n1.1 Information you voluntarily provide when using our products and services:\nA. When you register an account by using an account from a third party, such as Facebook, QQ, ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "598ceabcf866c4f4bac7abe16563cbff444f287f87f82283d2dc2dc78fac7433",
+                "score": 0.08929565,
+                "excerpt": "When you are willing to receive related product information, including notifications regarding updates, maintenance, changes, we will request application notification permission to be able to notify you.\n· In order to improve your productplay, we might request App Tracking permission (please update your system version to the latest.).\n· When you need to use the recording function within the product, we may apply for your microphone permission to support voice input and playback.\nNotification abo...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "0ec0559b60d671f908603582891f30a2c3641b934b6c4c1c1b1876c4d82d29f2",
+                "score": 0.048405956,
+                "excerpt": "information, please read Apple's privacy policy.\n1.3 When you use sports and health products, in order to be able to realize the basic functions of the products, we may collect your gender, birthday, age, height, weight, and regional information, which is used to accurately calculate your use of the products and better monitor your sports and health. In order to improve the user experience and convenience of products and/or services, we might collect, via invoking device permissions, your inform...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475274936,
+            "url": "https://flyingfishmart.com/private/PrivatePolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with multiple third-party providers for various purposes, including data analysis, performance monitoring, in-app advertising, push notifications, and third-party login. Some of these third parties include AppsFlyer, Bugly, Firebase, AdColony, Admob, Applovin, Chartboost, Fyber, HyBid, Inmobi, Ironsource, Maio, Mintegral, MyTarget, Pubmatic, Smaato, Tapjoy, Unity, Vungle, Yandex, Pangle, Line, and OneSignal.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "AppsFlyer",
+                        "Bugly",
+                        "Firebase",
+                        "AdColony",
+                        "Admob",
+                        "Applovin",
+                        "Chartboost",
+                        "Fyber",
+                        "HyBid",
+                        "Inmobi",
+                        "Ironsource",
+                        "Maio",
+                        "Mintegral",
+                        "MyTarget",
+                        "Pubmatic",
+                        "Smaato",
+                        "Tapjoy",
+                        "Unity",
+                        "Vungle",
+                        "Yandex",
+                        "Pangle",
+                        "Line",
+                        "OneSignal"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document clearly states the third-party service providers that the app shares data with, including their specific purposes. These third parties cover a wide range of services such as data analysis, in-app advertising, and push notifications.",
+            "reference": "The app shares data with multiple third-party providers for various purposes, including data analysis, performance monitoring, in-app advertising, push notifications, and third-party login. Some of these third parties include AppsFlyer, Bugly, Firebase, AdColony, Admob, Applovin, Chartboost, Fyber, HyBid, Inmobi, Ironsource, Maio, Mintegral, MyTarget, Pubmatic, Smaato, Tapjoy, Unity, Vungle, Yandex, Pangle, Line, and OneSignal. URL: https://flyingfishmart.com/private/PrivatePolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "eacf145d573fb865f96828bdf4b7921c1c1b56c4cb219a210546bcec9da11e4c",
+                "score": 0.69925445,
+                "excerpt": "be regarded as personal information which shall be anonymized and de-identified during the combination period unless you are authorized or the laws and regulations demand otherwise.\n1.4 Third Party Service Providers\nIn order to provide you with better products or services, we have integrated third party services (They include but are not limited to data analysis, third party payment, and advertisement.) into our products. The third parties we cooperate with and their respective privacy policies ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "913da67a080810b01c8dba6b970ce2326a03a32d978b7aec0f175cbe71cff412",
+                "score": 0.21321331,
+                "excerpt": "and similar technologies, we can track your product progress in real-time and understand your preferences so as to provide you with a smooth, high-quality and personalized user experience. We will not use the above technologies for any purpose other than those described in this policy. Please understand that some services can only be achieved by using the above technologies. If permitted by your device or associated program, you may disable or delete the above technologies by changing your setti...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "3be0b963b7a6d4f0f2553f4cbbb8dad679e6c125e8e1d83b03dcf842bac45728",
+                "score": 0.13117322,
+                "excerpt": "protected.\nIf we cease to provide services or operate, we and the third parties we cooperate with will stop collecting your personal information in time and shall abide by relevant laws and regulations to inform you in advance and delete or anonymize your personal data after we cease to operate or provide services unless laws, regulations or regulatory authorities demand otherwise.\n6.Protection of Your Personal Information\nWe use various security technologies and programs to prevent information ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "598ceabcf866c4f4bac7abe16563cbff444f287f87f82283d2dc2dc78fac7433",
+                "score": 0.13028541,
+                "excerpt": "When you are willing to receive related product information, including notifications regarding updates, maintenance, changes, we will request application notification permission to be able to notify you.\n· In order to improve your productplay, we might request App Tracking permission (please update your system version to the latest.).\n· When you need to use the recording function within the product, we may apply for your microphone permission to support voice input and playback.\nNotification abo...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            },
+            {
+                "id": "9aea986bde2fb59604c02b29669944e3855baaa738257244b788964c37fa94a8",
+                "score": 0.07303239,
+                "excerpt": "the contact information in the \"Contact Us\" section.\nBy using or continuing to use our services, you agree to the collection, use, storage, and sharing of your relevant information in accordance with this privacy policy.\nThis privacy policy will help you understand the following contents:\n1.The Scope of Information We Collect\n1.1 Information you voluntarily provide when using our products and services:\nA. When you register an account by using an account from a third party, such as Facebook, QQ, ...",
+                "url": "https://flyingfishmart.com/private/PrivatePolicy.html"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6472705015,
+      "url": "http://gracefill.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that when users use the Gracefill app or website, certain information is collected voluntarily and logged automatically, including account information, content uploaded by users, usage data, device information, payment information, communications with the company, and contacts and photos if shared.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of data collected from users.",
+          "content": "The app collects account information, user-uploaded content, usage data, device information, payment information, communications, and shared contacts/photos."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6472705015,
+      "url": "http://gracefill.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: account information (name, email address, phone number, username, password), content uploaded by users (messages, comments, photos, documents, audio files, video files), usage data and device information (website/app activity, log data, device information, network service provider, cookies), payment information (credit card details and billing address), communications with the app (support inquiries), and contacts & photos (if shared by the user).",
+        "simple_answer": "The app collects account information, user-uploaded content, usage data, device information, payment information, communications, and shared contacts/photos.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The types of data collected include account information, user content, usage data, device information, payment information, communications, and contacts/photos."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6472705015,
+      "url": "http://gracefill.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is used to identify users, provide services, improve services, respond to inquiries, personalize experiences, market services, send updates, and comply with legal requirements.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the various purposes for which personal information is collected and used.",
+          "content": "The purposes include identifying users, providing and improving services, responding to questions, personalizing experiences, marketing services, sending updates, and complying with legal requirements."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6472705015,
+      "url": "http://gracefill.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of receiving marketing emails by clicking the unsubscribe link at the bottom of any marketing email. Additionally, users can request that their personal information be deleted by contacting the company and providing relevant information to identify their account. The company will remove all data added to the user's profile and settings within 90 days of the request.",
+        "simple_answer": "Yes, users can opt out of marketing emails and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal information.",
+          "content": "Users can opt out of marketing emails and request deletion of their personal data by contacting the company."
+        }
+      },
+      "analysis": "The privacy policy provides clear options for users to manage their personal information, including opting out of marketing communications and requesting data deletion.",
+      "reference": "Your Choices; Requests to Delete Your Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6472705015,
+      "url": "http://gracefill.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares personal information with third parties, including service providers who help operate the website or app, payment processors, marketing partners, and law enforcement agencies or government entities in compliance with the law. The app ensures that third parties will not re-sell or use personal information beyond the described purposes.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to protecting user data and only shares it with trusted third parties.",
+          "content": "The app shares personal information with service providers, payment processors, marketing partners, and law enforcement as required by law."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Share Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6472705015,
+      "url": "http://gracefill.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares personal information with the following third parties: service providers who help operate the website or app, payment processors who assist in processing payments, marketing partners who help market the services, and law enforcement or government agencies in compliance with the law.",
+        "simple_answer": "The app shares data with service providers, payment processors, marketing partners, and law enforcement agencies.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app shares personal information with service providers, payment processors, marketing partners, and law enforcement agencies."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Share Your Information"
+    }
+  }
+]

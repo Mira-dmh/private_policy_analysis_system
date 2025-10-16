@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1218240628,
+            "url": "https://onourem.com/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that specific personal information is collected when using the app integrated with Facebook, specifying the categories of data collected.",
+            "reference": "We gather specific personal information when you utilize our app, which is integrated with Facebook. The categories of data we collect encompass: - Email Address, Name, Profile Picture. URL: https://onourem.com/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "85c51ee346ba3d470c54cd2c2f347018987f866068194990bc8c4455ac98a2d2",
+                "score": 0.11899801,
+                "excerpt": "to our App via your Facebook account, you grant us permission to receive your name and profile picture from Facebook. If an email address is linked to your Facebook account and you don't opt out, you also allow Facebook to share it with us.\nThis information is used to create your Onourem account. If you decide to remove the Onourem app's access in your Facebook settings, our access to this data will cease. Nevertheless, the personal data obtained during the initial setup of your Onourem account ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "6b0cbb2ddbcd5f2847a9732862931ae59fed92298f7ddf6714a338468cbd4a6a",
+                "score": 0.063134894,
+                "excerpt": "the app and address you by name. You are permitted to change your name at any point in time.\n- Profile Picture : We collect your profile picture from your Facebook account to display it within the app for a more personalized experience. You have the freedom to update your profile picture whenever you choose.\nIntended Use of Collected Data:\nWe utilize the gathered data for the following objectives:\n- Personalization : Your name and profile picture contribute to tailoring your interactions within ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "220632c6d4cab8ef2dba91ebb38932502f3ec7c12994b204a16288cd01e5abcd",
+                "score": 0.0355444,
+                "excerpt": "Data\nUsage Data\nUsage Data is collected automatically when using the Service and includes information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, th...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "ce270d9cba30033060601dcbd3a2065853038195194424655618ee56e849eef6",
+                "score": 0.016593177,
+                "excerpt": "Your Personal Data to third parties, and if accidently you come across any such instance, You can report it by emailing us at\nsupport@onourem.com\nThe right to know about Your Personal Data:\nYou have the right to request and obtain from the Company at the aforementioned address, information regarding the disclosure of the following:\n- The categories of Personal Data collected\n- The sources from which the Personal Data was collected\n- The business or commercial purpose for collecting the Personal ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "7f5356b591283eea382fac88688f5cb709f43d3501f7058412fef0fdeba8c286",
+                "score": 0.012771867,
+                "excerpt": "Facebook Fan Page and services by other companies that use Facebook services.\nFor more information on the privacy practices of Facebook, please visit Facebook Privacy Policy here:\nhttps://www.facebook.com/full_data_use_policy\nCCPA Privacy\nYour Rights under the CCPA\nUnder this Privacy Policy, and by law if You are a resident of California, You have the following rights:\n- The right to notice.\nYou must be properly notified which categories of Personal Data are being collected and the purposes for ...",
+                "url": "https://onourem.com/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1218240628,
+            "url": "https://onourem.com/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Email Address, Name, and Profile Picture.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email Address",
+                        "Name",
+                        "Profile Picture"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app collects specific personal information such as Email Address, Name, and Profile Picture.",
+            "reference": "Email Address : Your email address linked to your Facebook account is collected... - Name : Your name, sourced from your Facebook profile, is collected... - Profile Picture : We collect your profile picture from your Facebook account... URL: https://onourem.com/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "85c51ee346ba3d470c54cd2c2f347018987f866068194990bc8c4455ac98a2d2",
+                "score": 0.74871993,
+                "excerpt": "to our App via your Facebook account, you grant us permission to receive your name and profile picture from Facebook. If an email address is linked to your Facebook account and you don't opt out, you also allow Facebook to share it with us.\nThis information is used to create your Onourem account. If you decide to remove the Onourem app's access in your Facebook settings, our access to this data will cease. Nevertheless, the personal data obtained during the initial setup of your Onourem account ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "3aa5499b57b2db712cc88b4c0e17376b6f1653b28bc44f3a41ce8cec5e785f5b",
+                "score": 0.62360615,
+                "excerpt": "of California. - Consumer\n, for the purpose of the CCPA (California Consumer Privacy Act), means a natural person who is a California resident. A resident, as defined in the law, includes (1) every individual who is in the USA for other than a temporary or transitory purpose, and (2) every individual who is domiciled in the USA who is outside the USA for a temporary or transitory purpose. - Sale\n, for the purpose of the CCPA (California Consumer Privacy Act), means selling, renting, releasing, d...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "220632c6d4cab8ef2dba91ebb38932502f3ec7c12994b204a16288cd01e5abcd",
+                "score": 0.35108855,
+                "excerpt": "Data\nUsage Data\nUsage Data is collected automatically when using the Service and includes information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, th...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "6b0cbb2ddbcd5f2847a9732862931ae59fed92298f7ddf6714a338468cbd4a6a",
+                "score": 0.19238758,
+                "excerpt": "the app and address you by name. You are permitted to change your name at any point in time.\n- Profile Picture : We collect your profile picture from your Facebook account to display it within the app for a more personalized experience. You have the freedom to update your profile picture whenever you choose.\nIntended Use of Collected Data:\nWe utilize the gathered data for the following objectives:\n- Personalization : Your name and profile picture contribute to tailoring your interactions within ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "483d5fc380a74f70f741fbd7064df39a2d2c1fe505ce6fbef68566f38396bc3f",
+                "score": 0.122418255,
+                "excerpt": "Application, We may collect, with your prior permission:\n- Pictures and other information from your Device's camera and photo library\nWe use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it be simply stored on Your device.\nYou can enable or disable access to this information at any time, through Your Device settings. You can also enable or disable location s...",
+                "url": "https://onourem.com/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1218240628,
+            "url": "https://onourem.com/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The collected data is used for personalization, communication, and account retrieval purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the gathered data, including email address, name, and profile picture, is used for personalization, communication, and account retrieval purposes. This indicates that the app declares the purpose of data collection and use.",
+            "reference": "We utilize the gathered data for the following objectives:\n- Personalization : Your name and profile picture contribute to tailoring your interactions within the app, amplifying your user experience.\n- Communication : Your email address serves the purpose of delivering crucial notifications and app-related updates to you. Additionally, the email address is used for account retrieval purposes. URL: https://onourem.com/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "6b0cbb2ddbcd5f2847a9732862931ae59fed92298f7ddf6714a338468cbd4a6a",
+                "score": 0.41561022,
+                "excerpt": "the app and address you by name. You are permitted to change your name at any point in time.\n- Profile Picture : We collect your profile picture from your Facebook account to display it within the app for a more personalized experience. You have the freedom to update your profile picture whenever you choose.\nIntended Use of Collected Data:\nWe utilize the gathered data for the following objectives:\n- Personalization : Your name and profile picture contribute to tailoring your interactions within ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "0a259299267747b7acfa6bf420885f95120f96eb5e2e3d0aebf21c470ff9822b",
+                "score": 0.055823144,
+                "excerpt": "Privacy Policy\nLast updated: Aug 16, 2023\nHello Folks! Allow us to present to you Onourem’s Privacy Policy which describes our policies and procedures on the collection, use and disclosure of your information when You use the Service and tells You about Your privacy rights and how the law protects You. While all this might sound too typical and technical, we have made a genuine attempt to make it comprehensive to everyone by offering this quick summary to you at the end. However, the summary in ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "220632c6d4cab8ef2dba91ebb38932502f3ec7c12994b204a16288cd01e5abcd",
+                "score": 0.047691282,
+                "excerpt": "Data\nUsage Data\nUsage Data is collected automatically when using the Service and includes information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, th...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "7f5356b591283eea382fac88688f5cb709f43d3501f7058412fef0fdeba8c286",
+                "score": 0.04296247,
+                "excerpt": "Facebook Fan Page and services by other companies that use Facebook services.\nFor more information on the privacy practices of Facebook, please visit Facebook Privacy Policy here:\nhttps://www.facebook.com/full_data_use_policy\nCCPA Privacy\nYour Rights under the CCPA\nUnder this Privacy Policy, and by law if You are a resident of California, You have the following rights:\n- The right to notice.\nYou must be properly notified which categories of Personal Data are being collected and the purposes for ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "85c51ee346ba3d470c54cd2c2f347018987f866068194990bc8c4455ac98a2d2",
+                "score": 0.03191915,
+                "excerpt": "to our App via your Facebook account, you grant us permission to receive your name and profile picture from Facebook. If an email address is linked to your Facebook account and you don't opt out, you also allow Facebook to share it with us.\nThis information is used to create your Onourem account. If you decide to remove the Onourem app's access in your Facebook settings, our access to this data will cease. Nevertheless, the personal data obtained during the initial setup of your Onourem account ...",
+                "url": "https://onourem.com/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1218240628,
+            "url": "https://onourem.com/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the user has the right to withdraw consent on using their Personal Data, and they can exercise their GDPR Data Protection Rights to request the deletion or removal of their data.",
+            "reference": "You have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service. Exercising of Your GDPR Data Protection Rights. You may exercise Your rights of access, rectification, cancellation and opposition. URL: https://onourem.com/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "4a89cbd6e27be682fcecb73f19cf8a07c59fb7db35354e5e60d4da94880524da",
+                "score": 0.79692537,
+                "excerpt": "or inaccurate information We hold about You corrected. - Object to processing of Your Personal Data.\nThis right exists where We are relying on a legitimate interest as the legal basis for Our processing and there is something about Your particular situation, which makes You want to object to our processing of Your Personal Data on this ground. You also have the right to object where We are processing Your Personal Data for direct marketing purposes. - Request erasure of Your Personal Data.\nYou h...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "d236602b78740cfa7c44a89bb2a95a4022378154ceb9a2f2fca09580e8061e43",
+                "score": 0.68773484,
+                "excerpt": "information as defined by the CCPA law.\nIf you wish to opt out of the use of your personal information for interest-based advertising purposes and these potential sales as defined under CCPA law, you may do so by following the instructions below.\nPlease note that any opt out is specific to the browser You use. You may need to opt out on every browser that you use.\nWebsite\nYou can opt out of receiving ads that are personalized as served by our Service Providers by following our instructions prese...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "ee258c2f92d333090630216c1e30cc67cb30fa1206d7aa8e9ade917dfe936e5c",
+                "score": 0.6303436,
+                "excerpt": "any case, the Company will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract.\nYour Rights under the GDPR\nThe Company undertakes to respect the confidentiality of Your Personal Data and to guarantee You can exercise Your rights.\nYou have the right under this Privacy Policy, and by law if You are within the EU, to:\n- R...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "4c4512677f8379534eff1f1e7d7a5620bcdf346476fddd5f599628ca33bfb6fb",
+                "score": 0.5649387,
+                "excerpt": "have the right to withdraw Your consent on using your Personal Data. If You withdraw Your consent, We may not be able to provide You with access to certain specific functionalities of the Service.\nExercising of Your GDPR Data Protection Rights\nYou may exercise Your rights of access, rectification, cancellation and opposition by contacting Us. Please note that we may ask You to verify Your identity before responding to such requests. If You make a request, We will try our best to respond to You a...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "ce270d9cba30033060601dcbd3a2065853038195194424655618ee56e849eef6",
+                "score": 0.32723817,
+                "excerpt": "Your Personal Data to third parties, and if accidently you come across any such instance, You can report it by emailing us at\nsupport@onourem.com\nThe right to know about Your Personal Data:\nYou have the right to request and obtain from the Company at the aforementioned address, information regarding the disclosure of the following:\n- The categories of Personal Data collected\n- The sources from which the Personal Data was collected\n- The business or commercial purpose for collecting the Personal ...",
+                "url": "https://onourem.com/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1218240628,
+            "url": "https://onourem.com/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with various entities including Service Providers, Business Partners, Affiliates, and other users, as detailed in the Privacy Policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy mentions multiple instances where the app shares data with different entities for various purposes, indicating that data sharing with third parties does occur.",
+            "reference": "When You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside... URL: https://onourem.com/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "220632c6d4cab8ef2dba91ebb38932502f3ec7c12994b204a16288cd01e5abcd",
+                "score": 0.5822535,
+                "excerpt": "Data\nUsage Data\nUsage Data is collected automatically when using the Service and includes information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, th...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "979e11eca902242521b7050800d995342f10a477ca1330ec57f9966c96ea09a0",
+                "score": 0.33982763,
+                "excerpt": "following situations:\n- With Service Providers:\nWe may share Your personal information with Service Providers to monitor and analyze the use of our Service, to help support and maintain Our Service, to contact You, to advertise on third party websites to You after You visited our Service or for payment processing. - For Business transfers:\nWe may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisitio...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "a9d0b9e3a3075f7c5e5fe80516f1a900c179100091ebe536c43c9c6e30262bb7",
+                "score": 0.33764017,
+                "excerpt": "or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see You name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile. - With Educational Inst...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "85c51ee346ba3d470c54cd2c2f347018987f866068194990bc8c4455ac98a2d2",
+                "score": 0.32412842,
+                "excerpt": "to our App via your Facebook account, you grant us permission to receive your name and profile picture from Facebook. If an email address is linked to your Facebook account and you don't opt out, you also allow Facebook to share it with us.\nThis information is used to create your Onourem account. If you decide to remove the Onourem app's access in your Facebook settings, our access to this data will cease. Nevertheless, the personal data obtained during the initial setup of your Onourem account ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "ce270d9cba30033060601dcbd3a2065853038195194424655618ee56e849eef6",
+                "score": 0.20402452,
+                "excerpt": "Your Personal Data to third parties, and if accidently you come across any such instance, You can report it by emailing us at\nsupport@onourem.com\nThe right to know about Your Personal Data:\nYou have the right to request and obtain from the Company at the aforementioned address, information regarding the disclosure of the following:\n- The categories of Personal Data collected\n- The sources from which the Personal Data was collected\n- The business or commercial purpose for collecting the Personal ...",
+                "url": "https://onourem.com/policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1218240628,
+            "url": "https://onourem.com/policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Service Providers, Business partners, Affiliates, Educational Institutions, other users, and Group/business partners. This includes monitoring and analyzing service usage, supporting and maintaining the service, advertising, payment processing, business transfers, maintaining business relationships, and enabling essential services for mental wellness support.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service Providers",
+                        "Business partners",
+                        "Affiliates",
+                        "Educational Institutions",
+                        "other users",
+                        "Group/business partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines various entities with which the app may share data, including service providers, business partners, affiliates, educational institutions, other users, and group/business partners, for purposes such as monitoring usage, supporting services, advertising, mental wellness support, and legal requirements.",
+            "reference": "With Service Providers, For Business transfers, With Affiliates, With Business partners, With other users, How we share information?, URL: https://onourem.com/policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "979e11eca902242521b7050800d995342f10a477ca1330ec57f9966c96ea09a0",
+                "score": 0.7570767,
+                "excerpt": "following situations:\n- With Service Providers:\nWe may share Your personal information with Service Providers to monitor and analyze the use of our Service, to help support and maintain Our Service, to contact You, to advertise on third party websites to You after You visited our Service or for payment processing. - For Business transfers:\nWe may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisitio...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "a9d0b9e3a3075f7c5e5fe80516f1a900c179100091ebe536c43c9c6e30262bb7",
+                "score": 0.50442874,
+                "excerpt": "or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. If You interact with other users or register through a Third-Party Social Media Service, Your contacts on the Third-Party Social Media Service may see You name, profile, pictures and description of Your activity. Similarly, other users will be able to view descriptions of Your activity, communicate with You and view Your profile. - With Educational Inst...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "220632c6d4cab8ef2dba91ebb38932502f3ec7c12994b204a16288cd01e5abcd",
+                "score": 0.2926964,
+                "excerpt": "Data\nUsage Data\nUsage Data is collected automatically when using the Service and includes information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.\nWhen You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, th...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "ce270d9cba30033060601dcbd3a2065853038195194424655618ee56e849eef6",
+                "score": 0.23248434,
+                "excerpt": "Your Personal Data to third parties, and if accidently you come across any such instance, You can report it by emailing us at\nsupport@onourem.com\nThe right to know about Your Personal Data:\nYou have the right to request and obtain from the Company at the aforementioned address, information regarding the disclosure of the following:\n- The categories of Personal Data collected\n- The sources from which the Personal Data was collected\n- The business or commercial purpose for collecting the Personal ...",
+                "url": "https://onourem.com/policy.html"
+            },
+            {
+                "id": "de587bf4cc8ca84980fdfefdd2d27fb0a5b5630fc83e2cdf10e3fffa2750b600",
+                "score": 0.20291664,
+                "excerpt": "first interact with us, it’s heart-welling to know how you are feeling.\n- Second, we sometimes learn about you from other people and services. For example, if a friend uploads their contact list, we might see your phone number.\n- Third, we learn about you when you use our service through user analytics. For example, if you spend time on question games, it’s safe to assume that you’d like to be informed about them.\nHow we share information?\nWhen we share information, it’s usually because you ask ...",
+                "url": "https://onourem.com/policy.html"
+            }
+        ]
+    }
+]

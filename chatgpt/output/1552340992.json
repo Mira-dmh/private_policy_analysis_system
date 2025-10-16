@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1552340992,
+      "url": "https://blazer-stage.web.app/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies the types of information collected, including personal identifiers provided voluntarily by users during registration, information collected through feedback surveys, and data collected automatically through tracking technologies.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various types of data collected, including personal information and usage data.",
+          "content": "The policy describes how the app collects information you voluntarily provide, such as your contact details during registration, as well as data collected automatically through tracking technologies."
+        }
+      },
+      "analysis": "",
+      "reference": "Section A: Information Collected Through the Application"
+    }
+  },
+  {
+    "meta": {
+      "id": 1552340992,
+      "url": "https://blazer-stage.web.app/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1) Information you voluntarily provide, such as your name, telephone number, email address, and location tracking settings during registration. 2) Information collected automatically through tracking technologies, including general location, device identifiers, advertising identifiers, and usage information. 3) Information from other sources, such as social media platforms, which may include aggregate data on followers and engagement data.",
+        "simple_answer": "The app collects personal identifiers, location data, device identifiers, and social media engagement data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both voluntary and automatic data to enhance user experience and for advertising purposes.",
+          "content": "1) Voluntary information: name, phone number, email, location tracking settings. 2) Automatic information: general location, device identifiers, advertising identifiers, usage information. 3) Data from social media: aggregate follower data and engagement metrics."
+        }
+      },
+      "analysis": "",
+      "reference": "Section A: Information Collected Through the Application"
+    }
+  },
+  {
+    "meta": {
+      "id": 1552340992,
+      "url": "https://blazer-stage.web.app/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The data is collected to make the Application effective, improve and personalize the user experience, and allow the organization to apply for and receive funding to sustain the Application. Additionally, it is used for personalized advertising and to create audiences for third-party advertisers.",
+        "simple_answer": "Yes, the app states the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app collects data to enhance user experience and for advertising purposes.",
+          "content": "The data is collected for the Application to be effective and in order to improve and personalize Your experience and allow Us to apply for and receive funding in order to sustain the Application. We also gather data for personalized advertising."
+        }
+      },
+      "analysis": "",
+      "reference": "Why is this data being collected? What’s the purpose for collecting each piece of information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1552340992,
+      "url": "https://blazer-stage.web.app/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users can edit their GPS settings at any time and that they have the option to provide feedback or participate in surveys voluntarily. For any significant changes in data handling, users will be notified.",
+        "simple_answer": "The policy does not explicitly allow opting out or deleting data.",
+        "extended_simple_answer": {
+          "comment": "While users can manage certain settings, the policy lacks clear opt-out or data deletion options.",
+          "content": "Users can edit GPS settings and provide feedback voluntarily, but there is no explicit mention of opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The absence of explicit opt-out or data deletion options may raise concerns for users regarding their control over personal information.",
+      "reference": "Section A) Information Collected Through the Application and Section B) Information Collected From Other Sources."
+    }
+  },
+  {
+    "meta": {
+      "id": 1552340992,
+      "url": "https://blazer-stage.web.app/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, including service providers and advertisers. The data shared may include aggregated or de-identified information, and it is used for various purposes such as maintaining technology, offering customer service, serving targeted ads, and conducting analytics.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with service providers and advertisers to enhance user experience and deliver personalized advertising.",
+          "content": "The app works with service providers to carry out tasks like maintaining technology, customer service, and serving targeted ads. It also shares aggregated or de-identified information with third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "With Whom Do We Share the Information We Gather?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1552340992,
+      "url": "https://blazer-stage.web.app/privacy-policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party partners such as Mixpanel for tracking users' cookies and may use similar tracking tools across its platform. Additionally, the app works with third parties operating in various sectors including Health care, CPG, Retail, Health and Wellness, Education, Beauty, Pharmaceuticals, Non-profit, Technology, Advertising, and Marketing to show personalized ads on behalf of advertisers.",
+        "simple_answer": "The app shares data with third-party partners like Mixpanel and various sectors for personalized advertising.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with third-party service providers for various functions and personalized advertising.",
+          "content": "Third-party partners include Mixpanel for tracking and various sectors for advertising."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: With Whom Do We Share the Information We Gather?"
+    }
+  }
+]

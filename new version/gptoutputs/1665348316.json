@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1665348316,
+      "url": "https://www.projectcamus.com/privacy.php",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of information from users, including personally identifiable information, billing and payment information, profile information, and log data.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states that it collects various types of information to operate effectively and provide a good user experience.",
+          "content": "The information collected may include your name, phone number, email address, address, computer information, IP address, pages visited, actions taken, and other relevant statistics."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, emphasizing the importance of this information for the app's functionality and user experience.",
+      "reference": "Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1665348316,
+      "url": "https://www.projectcamus.com/privacy.php",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including personally identifiable information, billing and payment information, profile information, and log data. This may include your name, phone number, email address, address, computer information, IP address, pages visited, actions taken, and other relevant statistics. Additionally, certain information provided may be considered health-related data.",
+        "simple_answer": "The app collects personally identifiable information, billing information, profile information, log data, and potentially health-related data.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of data to operate effectively and enhance user experience.",
+          "content": "Types of data collected include: name, phone number, email address, address, computer information, IP address, pages visited, actions taken, and health-related data."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1665348316,
+      "url": "https://www.projectcamus.com/privacy.php",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the information collected may be used for various business or operational purposes, including creating and managing user accounts, providing customer support, contacting users with relevant information, handling billing matters, ensuring safety, and improving service quality. Additionally, deidentified data may be used for research and study purposes.",
+        "simple_answer": "Yes, the app specifies the purposes for data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines multiple purposes for collecting user data, ensuring transparency in its practices.",
+          "content": "The purposes include account management, customer support, safety measures, service improvement, and research using deidentified data."
+        }
+      },
+      "analysis": "The privacy policy clearly states the various purposes for which user data is collected and used, demonstrating a commitment to transparency and user awareness.",
+      "reference": "Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1665348316,
+      "url": "https://www.projectcamus.com/privacy.php",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it states that users can contact the company for questions or concerns regarding the collection, use, or disclosure of their information, which may imply that users can inquire about their data management options.",
+        "simple_answer": "The policy does not explicitly state an option to opt out or delete data.",
+        "extended_simple_answer": {
+          "comment": "Users are encouraged to contact the company for inquiries about their data.",
+          "content": "The privacy policy emphasizes the importance of user privacy and encourages users to reach out with any questions or concerns regarding their information."
+        }
+      },
+      "analysis": "The lack of explicit mention of opting out or deleting data suggests that users may need to directly contact the company for such requests.",
+      "reference": "Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1665348316,
+      "url": "https://www.projectcamus.com/privacy.php",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, rent, or share your user content with any third parties, except as outlined in the Privacy Policy and as required by law. The information collected may be disclosed to third parties for specific business or operational purposes, such as providing customer support, handling billing-related matters, and complying with legal requests.",
+        "simple_answer": "No, the app does not sell or rent your data, but it may share it for specific purposes.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and has strict controls in place.",
+          "content": "The app does not sell or rent your information and only shares it for necessary operational purposes or as required by law."
+        }
+      },
+      "analysis": "The app maintains a strong commitment to user privacy, ensuring that personal data is not sold or rented. However, it does allow for limited sharing of information with third parties for operational needs and legal compliance.",
+      "reference": "Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1665348316,
+      "url": "https://www.projectcamus.com/privacy.php",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties for the following business or operational purposes: creating and managing your Camus account, providing customer support, contacting you with relevant information, handling billing-related matters, reaching out if there is reason to believe you or others may be in danger, supervising and monitoring the service, measuring and improving service quality, responding to law enforcement requests, complying with applicable laws, and providing, supporting, personalizing, and developing Camus and Mental Health Services.",
+        "simple_answer": "The app shares data with third parties for account management, customer support, billing, safety concerns, service improvement, legal compliance, and service development.",
+        "extended_simple_answer": {
+          "comment": "The app has specific purposes for sharing data with third parties.",
+          "content": "Data may be shared for account management, customer support, billing, safety concerns, service improvement, legal compliance, and service development."
+        }
+      },
+      "analysis": "The privacy policy outlines specific operational purposes for which data may be shared with third parties, emphasizing the app's commitment to user privacy while also detailing necessary disclosures.",
+      "reference": "Information Collection, Use, and Disclosure"
+    }
+  }
+]

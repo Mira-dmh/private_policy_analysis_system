@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1634039293,
+      "url": "https://www.atomei.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that the Company collects information about users, including personal information that directly or indirectly identifies them, only if they choose to share it. The policy outlines various types of information collected, such as account information, profile, activity, and usage information, as well as geolocation data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the types of data it collects and the purposes for which it is used.",
+          "content": "The Company collects personal information voluntarily provided by users, including account details and usage data, and informs users about the collection process."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and emphasizes that it is only collected with user consent.",
+      "reference": "PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1634039293,
+      "url": "https://www.atomei.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including account information (such as email address, username, and password), profile, activity, and usage information (including date, time, and geo-location information restricted to the nearest city/town). It also collects automatic information such as log information, which includes browser type, access times, pages viewed, clickstream data, IP address, ISP, operating system, date/time stamp, and referring link.",
+        "simple_answer": "The app collects account information, profile and activity information, and automatic log information.",
+        "extended_simple_answer": {
+          "comment": "The app collects data to provide services and improve user experience.",
+          "content": "Account information includes email, username, and password. Profile and activity information includes date, time, and geo-location (nearest city/town). Automatic log information includes browser type, access times, pages viewed, IP address, and more."
+        }
+      },
+      "analysis": "",
+      "reference": "PERSONAL INFORMATION, INFORMATION WE COLLECT AUTOMATICALLY"
+    }
+  },
+  {
+    "meta": {
+      "id": 1634039293,
+      "url": "https://www.atomei.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is collected to deliver the Services, honor the Terms of Service contract, build new features, provide customer support, analyze and improve the Services, and communicate with users about services, offers, and promotions.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies various purposes for collecting personal information, ensuring transparency.",
+          "content": "The purposes include delivering services, customer support, improving the app, and communicating with users."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the reasons for data collection, which aligns with best practices for transparency in data handling.",
+      "reference": "COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1634039293,
+      "url": "https://www.atomei.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of receiving communications about services, offers, and promotions if they choose to do so. Additionally, users can request to delete their account, which will result in the permanent and irreversible deletion of their personal data from the company's systems, including backups. However, it may take up to 90 days to fully delete all personal information and system logs.",
+        "simple_answer": "Yes, users can opt out of communications and request account deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can request deletion.",
+          "content": "Users can opt out of receiving messages and can request to delete their account, which leads to the permanent deletion of their personal data."
+        }
+      },
+      "analysis": "The privacy policy clearly states the user's rights regarding data collection and deletion, ensuring transparency and user control over personal information.",
+      "reference": "COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION; CHANGES IN PRIVACY POLICY; PROTECTING YOUR PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1634039293,
+      "url": "https://www.atomei.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not disclose personal information to any third party except with actual or implied consent, or as required by law. However, the app may use third-party analytics providers like Amplitude to gain insights into how the services are used and to help improve the services. When using outside service providers, the app requires those third parties to protect personal information in the same manner in which it protects it and to not use or disclose it for any purposes except as directed by the app.",
+        "simple_answer": "No, the app does not share personal data with third parties except under specific conditions.",
+        "extended_simple_answer": {
+          "comment": "The app takes privacy seriously and only shares data when necessary.",
+          "content": "The app does not exchange or sell personal information and only shares it with third parties when there is consent or legal requirements."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal information is kept confidential and is not shared with third parties unless consent is given or required by law. This indicates a strong commitment to user privacy.",
+      "reference": "COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1634039293,
+      "url": "https://www.atomei.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party analytics providers like Amplitude to gain insights into how the Services are used and to help improve the Services. Additionally, the app may use third-party service providers to carry out certain functions, requiring them to protect personal information in the same manner as the app does and not to use or disclose it for any purposes except as directed by The Atom App.",
+        "simple_answer": "The app shares data with third-party analytics providers like Amplitude.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for analytics and other functions.",
+          "content": "The app shares data with third-party analytics providers like Amplitude and may use other third-party service providers for various functions, ensuring they protect personal information."
+        }
+      },
+      "analysis": "",
+      "reference": "COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION"
+    }
+  }
+]

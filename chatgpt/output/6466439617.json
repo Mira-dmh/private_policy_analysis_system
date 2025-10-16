@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6466439617,
+      "url": "https://legal.oliva.health/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal data and provides transparency about how it collects and uses this data. It states that personal data is anything that could identify an individual and outlines the various ways data is processed when using their services.",
+        "simple_answer": "Yes, the app declares the collection of personal data.",
+        "extended_simple_answer": {
+          "comment": "The privacy notice emphasizes transparency in data collection and processing.",
+          "content": "The privacy notice exists to tell users exactly how personal data is collected and used, indicating that they act as a Data Controller under GDPR and UK GDPR."
+        }
+      },
+      "analysis": "",
+      "reference": "The ways we process your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466439617,
+      "url": "https://legal.oliva.health/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data that could identify an individual, which may include sensitive personal information due to its nature as a mental health platform. This includes data collected when users engage with the app, such as when they use Oliva's services, apply for a job, or join as an employee or mental health professional.",
+        "simple_answer": "The app collects personal data, including sensitive information related to mental health.",
+        "extended_simple_answer": {
+          "comment": "The app's data collection is comprehensive and includes various types of personal data.",
+          "content": "The types of data collected include personal data that can identify individuals, which may encompass sensitive information due to the mental health focus of the platform."
+        }
+      },
+      "analysis": "",
+      "reference": "This information is derived from the section discussing the types of data processed when users engage with Oliva's services."
+    }
+  },
+  {
+    "meta": {
+      "id": 6466439617,
+      "url": "https://legal.oliva.health/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use by stating that it aims to be transparent about how personal data is collected and used. The privacy notice explains that personal data is processed throughout the user's journey with the services, from the moment it enters the system until it is deleted.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy notice emphasizes transparency in data processing.",
+          "content": "The privacy notice exists to inform users about how their personal data is collected and used, indicating that the app is committed to transparency regarding data processing."
+        }
+      },
+      "analysis": "The privacy notice clearly outlines the purpose of data collection and use, ensuring users are informed about how their data will be handled.",
+      "reference": "The ways we process your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466439617,
+      "url": "https://legal.oliva.health/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection entirely. However, users have rights regarding their personal data, including the ability to make requests about their data. Users can contact Oliva to exercise their rights, which may include requesting deletion of their data. The policy encourages users to reach out for any requests regarding their personal data.",
+        "simple_answer": "Users can request deletion of their data but cannot opt out of data collection entirely.",
+        "extended_simple_answer": {
+          "comment": "While users cannot opt out of data collection, they have rights to request information and deletion of their data.",
+          "content": "Users based in the UK/EU can exercise their rights regarding personal data by contacting Oliva. They can request information or deletion of their data, but the policy does not mention an option to completely opt out of data collection."
+        }
+      },
+      "analysis": "The privacy policy emphasizes transparency and user rights but does not provide a clear option for users to opt out of data collection entirely. Instead, it focuses on the rights users have to manage their personal data.",
+      "reference": "Section: What are your rights?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466439617,
+      "url": "https://legal.oliva.health/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares personal data with third parties. It emphasizes transparency in data processing and mentions that personal data is processed according to the notice, but does not provide details on sharing with third parties.",
+        "simple_answer": "No, the app does not explicitly state that it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy focuses on data processing and user rights without detailing third-party data sharing.",
+          "content": "The privacy notice indicates that Oliva acts as a Data Controller under GDPR and UK GDPR, but does not mention sharing personal data with third parties."
+        }
+      },
+      "analysis": "The absence of information regarding third-party data sharing suggests that Oliva may prioritize user privacy and data protection.",
+      "reference": "The ways we process your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6466439617,
+      "url": "https://legal.oliva.health/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list the third parties with whom the app shares data. It mentions that personal data may be shared with partners and service providers necessary for the operation of the services, but specific names or categories of third parties are not provided.",
+        "simple_answer": "The app does not specify which third parties it shares data with.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data may be shared with partners and service providers, but lacks specific details.",
+          "content": "The privacy policy states that personal data may be shared with partners and service providers necessary for the operation of the services, but does not provide specific names or categories of third parties."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy may raise concerns for users about transparency in data sharing practices.",
+      "reference": "The ways we process your data"
+    }
+  }
+]

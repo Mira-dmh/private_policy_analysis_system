@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 1444463273,
+            "url": "https://vaultplatform.com/product-privacy-statement",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy specifically mentions the type of personal data collected and the purpose of data collection, indicating that the app declares the collection of data.",
+            "reference": "The type of personal data that Vault Platform may collect on the Business Customer’s behalf and the timing of when it may be shared with the Business Customer is explained in this section. URL: https://vaultplatform.com/product-privacy-statement",
+            "section": "Personal Data We Collect on The Business Customer’s Behalf"
+        },
+        "source_documents": [
+            {
+                "id": "f4e1f939b3c5d3f0777083b66a44ebaf89af47158fb341dac3ea8a971930fe25",
+                "score": 0.03825006,
+                "excerpt": "Product Privacy Statement is not a substitute for any privacy notice that the Business Customers are required to provide to End Users.\nPersonal Data We Collect on The Business Customer’s Behalf\nThe type of personal data that Vault Platform may collect on the Business Customer’s behalf and the timing of when it may be shared with the Business Customer is explained in this section.\nIn using the Services, you may provide certain personal data about yourself and other End Users if you decide, at you...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "434ef8baa0bd44fdd857ef13838824a27104b73cb32d58113833519cfe9a494b",
+                "score": 0.03038675,
+                "excerpt": "(collectively, the “Services”).\nIf you are an End User using our Services on behalf of, or as allowed by, one of our Business Customers, Vault Platform is the data processor and the Business Customer is the data controller with respect to your personal data. In most cases, the Business Customer will be your employer.\nBecause the Business Customer is the data controller, it is primarily the Business Customer that is responsible for how your personal data is collected, processed and shared in acco...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "afdd4bfc45bd81c61a11214a9c21af409edfedaafad8aaf29e638c06981ac058",
+                "score": 0.021698097,
+                "excerpt": "enablement and improvement. The information that may be collected automatically includes your IP address, computer or mobile device operating system type and version number, manufacturer and model, device identifier, default language, browser type, screen resolution, general location information such as city, state or general geographic area (not precise location), metadata; and information about your use of and actions on the Services and how you interact with us, such as pages or screens you v...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "5e6c96995e57da69a079716da6e26fb50f3fd6906811eecb54f7db2cb256679b",
+                "score": 0.017242778,
+                "excerpt": "your personal data very seriously. Vault Platform works hard to protect the personal data we hold about you and process as part of the Services from loss, misuse and unauthorized access or disclosure. These steps take into account the importance of the personal data we collect, process and store and the current state of technology. Vault Platform maintains compliance with various security frameworks such as ISO27001 and SOC2. [To learn more about Vault Platform’s current practices and policies r...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "b6b4c09f5f6e89bfc0fd92b1c64f8c5f07642dbb148447a23bdc1b42710bd8de",
+                "score": 0.014172367,
+                "excerpt": "to this Product Privacy Statement will be effective upon our posting the new terms and/or upon implementation of the new changes on the Services (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Product Privacy Statement indicates your acceptance of the modified Product Privacy Statement.\nHow to Contact Us\nPlease direct any other questions or comments about this Product Privacy Statement or privacy practices to ...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1444463273,
+            "url": "https://vaultplatform.com/product-privacy-statement",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app may collect data such as IP address, operating system type and version, device identifier, default language, browser type, screen resolution, general location information, metadata, and information about user interactions with the Services.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "IP address",
+                        "operating system type and version",
+                        "device identifier",
+                        "default language",
+                        "browser type",
+                        "screen resolution",
+                        "general location information",
+                        "metadata",
+                        "information about user interactions with the Services"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section that discusses the automated collection of information on the Services, including various types of data that may be gathered about the users.",
+            "reference": "The app may collect data such as IP address, operating system type and version, device identifier, default language, browser type, screen resolution, general location information, metadata, and information about user interactions with the Services. URL: https://vaultplatform.com/product-privacy-statement"
+        },
+        "source_documents": [
+            {
+                "id": "afdd4bfc45bd81c61a11214a9c21af409edfedaafad8aaf29e638c06981ac058",
+                "score": 0.36920136,
+                "excerpt": "enablement and improvement. The information that may be collected automatically includes your IP address, computer or mobile device operating system type and version number, manufacturer and model, device identifier, default language, browser type, screen resolution, general location information such as city, state or general geographic area (not precise location), metadata; and information about your use of and actions on the Services and how you interact with us, such as pages or screens you v...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "f4e1f939b3c5d3f0777083b66a44ebaf89af47158fb341dac3ea8a971930fe25",
+                "score": 0.34809092,
+                "excerpt": "Product Privacy Statement is not a substitute for any privacy notice that the Business Customers are required to provide to End Users.\nPersonal Data We Collect on The Business Customer’s Behalf\nThe type of personal data that Vault Platform may collect on the Business Customer’s behalf and the timing of when it may be shared with the Business Customer is explained in this section.\nIn using the Services, you may provide certain personal data about yourself and other End Users if you decide, at you...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "434ef8baa0bd44fdd857ef13838824a27104b73cb32d58113833519cfe9a494b",
+                "score": 0.2670257,
+                "excerpt": "(collectively, the “Services”).\nIf you are an End User using our Services on behalf of, or as allowed by, one of our Business Customers, Vault Platform is the data processor and the Business Customer is the data controller with respect to your personal data. In most cases, the Business Customer will be your employer.\nBecause the Business Customer is the data controller, it is primarily the Business Customer that is responsible for how your personal data is collected, processed and shared in acco...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "9136a8c5acdbc1b881d4d1490459ceaa491b538f832f961db4a26e1322ae1de5",
+                "score": 0.16545822,
+                "excerpt": "account for the Services.\n- Feedback or correspondence, such as personal data you provide when you contact us with questions, feedback, or otherwise correspond with us online.\n- Other personal data that we may collect which is not specifically listed here, but which we will use in accordance with this Product Privacy Statement, the Business Customer’s instructions, or as otherwise disclosed at the time of collection. Such personal data may include work history, skills and experience.\nPersonal da...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "6c3e505b42571f2cd49bc3f139baaafe31acb2104f8e4c3fd9cd8ec41e7dcf0e",
+                "score": 0.045268092,
+                "excerpt": "Business Customer, and share with the Business Customer, personal data about you that is provided to us by other End Users when submitting a misconduct report using the Services.\nPersonal data you provide to us.\nThe personal data you provide to us through the Services (and which we collect on behalf of the Business Customer) may include:\n- Business and personal contact information, such as your first and last name, email address, your relationship with the Business Customer, role, department, wo...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1444463273,
+            "url": "https://vaultplatform.com/product-privacy-statement",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use. The personal data collected is used to enable end users to report workplace misconduct, improve the Business Customer and user services, establish and maintain user profiles, communicate about the services, provide support, respond to requests, and comply with legal and regulatory requirements.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy document clearly outlines the purpose of data collection and use, indicating that the collected data is used for specific functions related to enabling users to report misconduct, improving services, and ensuring compliance with legal requirements.",
+            "reference": "The personal data collected is used to provide the Services and for related internal purposes, including to enable End Users to report workplace misconduct; improve the Business Customer and your Services; establish and maintain your user profile on the Services; communicate with you about the Services, including by sending you announcements, updates, new features, security alerts, and support and administrative messages; provide support and maintenance for the Services; and respond to your requests, questions and feedback. URL: https://vaultplatform.com/product-privacy-statement"
+        },
+        "source_documents": [
+            {
+                "id": "afdd4bfc45bd81c61a11214a9c21af409edfedaafad8aaf29e638c06981ac058",
+                "score": 0.10447732,
+                "excerpt": "enablement and improvement. The information that may be collected automatically includes your IP address, computer or mobile device operating system type and version number, manufacturer and model, device identifier, default language, browser type, screen resolution, general location information such as city, state or general geographic area (not precise location), metadata; and information about your use of and actions on the Services and how you interact with us, such as pages or screens you v...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "9136a8c5acdbc1b881d4d1490459ceaa491b538f832f961db4a26e1322ae1de5",
+                "score": 0.018797074,
+                "excerpt": "account for the Services.\n- Feedback or correspondence, such as personal data you provide when you contact us with questions, feedback, or otherwise correspond with us online.\n- Other personal data that we may collect which is not specifically listed here, but which we will use in accordance with this Product Privacy Statement, the Business Customer’s instructions, or as otherwise disclosed at the time of collection. Such personal data may include work history, skills and experience.\nPersonal da...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "11e2820d3048f4d42bb1fca7631ccdc03a6102061f5bd2569f170601db9081f5",
+                "score": 0.01812472,
+                "excerpt": "to provide the Services and for related internal purposes, including to:\n- enable End Users to report workplace misconduct;\n- improve the Business Customer and your Services;\n- establish and maintain your user profile on the Services;\n- communicate with you about the Services, including by sending you announcements, updates, new features, security alerts, and support and administrative messages;\n- provide support and maintenance for the Services; and\n- respond to your requests, questions and fee...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "09f6ca5c09ccdcbe343e0e28b751ae23ecc2d215bf1b34f3972d7652b938705f",
+                "score": 0.011597361,
+                "excerpt": "Product Privacy Statement\nEffective as of July 3 2025.\nVault Platform, Inc. and its affiliates (collectively, “Vault Platform”, “we”, “us”, or “our”) provide a solution for misconduct reporting for workplace personnel.\nTable of Contents:\n- Overview\n- Personal Data We Collect on the Business Customer’s Behalf\n- How We Use Your Personal Data\n- How We Share your Personal Data\n- Your Choices\n- Security Practices\n- Data Retention\n- International Data Transfers\n- Changes to this Product Privacy Statem...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "b6b4c09f5f6e89bfc0fd92b1c64f8c5f07642dbb148447a23bdc1b42710bd8de",
+                "score": 0.0051797125,
+                "excerpt": "to this Product Privacy Statement will be effective upon our posting the new terms and/or upon implementation of the new changes on the Services (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Product Privacy Statement indicates your acceptance of the modified Product Privacy Statement.\nHow to Contact Us\nPlease direct any other questions or comments about this Product Privacy Statement or privacy practices to ...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1444463273,
+            "url": "https://vaultplatform.com/product-privacy-statement",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request deletion of data by submitting Data Subject Requests to the Business Customer, who will then cooperate with Vault Platform.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the user can request to exercise their rights to opt out of data collection or request deletion of data by contacting the Business Customer, who will manage these requests with Vault Platform as per the contractual arrangements.",
+            "reference": "As the Business Customer is the data controller in respect of the personal data that we hold about you and process as part of the Services, the Business Customer is primarily responsible for receiving and responding to your requests to exercise any rights afforded to you under applicable data protection laws, including in respect of the removal of your personal data ('Data Subject Requests'). We will cooperate with the Business Customer in respect of your Data Subject Requests in accordance with our contractual arrangements with the Business Customer. URL: https://vaultplatform.com/product-privacy-statement"
+        },
+        "source_documents": [
+            {
+                "id": "b6b4c09f5f6e89bfc0fd92b1c64f8c5f07642dbb148447a23bdc1b42710bd8de",
+                "score": 0.028816197,
+                "excerpt": "to this Product Privacy Statement will be effective upon our posting the new terms and/or upon implementation of the new changes on the Services (or as otherwise indicated at the time of posting). In all cases, your continued use of the Services after the posting of any modified Product Privacy Statement indicates your acceptance of the modified Product Privacy Statement.\nHow to Contact Us\nPlease direct any other questions or comments about this Product Privacy Statement or privacy practices to ...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "6151609aad546da93e0a34ffce6eb4c1694e5d8dd06192a5a3b01f41bee0a791",
+                "score": 0.027117657,
+                "excerpt": "to (i) protect our rights, privacy, safety or property, and/or that of you or others; and (ii) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.\nWe may sell, transfer or otherwise share some or all of Vault Platform’s business or assets, including the End Users’ personal data, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankr...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "afdd4bfc45bd81c61a11214a9c21af409edfedaafad8aaf29e638c06981ac058",
+                "score": 0.0130707845,
+                "excerpt": "enablement and improvement. The information that may be collected automatically includes your IP address, computer or mobile device operating system type and version number, manufacturer and model, device identifier, default language, browser type, screen resolution, general location information such as city, state or general geographic area (not precise location), metadata; and information about your use of and actions on the Services and how you interact with us, such as pages or screens you v...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "d8b6b06aa1fcf74f4e8e6263f28297a031ba2193967ce57acff25299d16d04fe",
+                "score": 0.011331754,
+                "excerpt": "United States and hosted on Amazon Web Services (AWS) using data centres hosted exclusively in the United Kingdom. We have service providers in other countries and may transfer your personal data outside of the country in which you reside, including to the United States. Any transfer of your personal data will be carried out in accordance with our contractual arrangements with the Business Customer.\nChanges to this Product Privacy Statement\nWe reserve the right to modify this Product Privacy Sta...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "5e6c96995e57da69a079716da6e26fb50f3fd6906811eecb54f7db2cb256679b",
+                "score": 0.007345827,
+                "excerpt": "your personal data very seriously. Vault Platform works hard to protect the personal data we hold about you and process as part of the Services from loss, misuse and unauthorized access or disclosure. These steps take into account the importance of the personal data we collect, process and store and the current state of technology. Vault Platform maintains compliance with various security frameworks such as ISO27001 and SOC2. [To learn more about Vault Platform’s current practices and policies r...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1444463273,
+            "url": "https://vaultplatform.com/product-privacy-statement",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with specific entities and individuals as permitted by the Business Customer, including corporate affiliates, service providers for hosting and analytics, and government or law enforcement officials when required by law.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share personal data with certain entities and individuals in accordance with agreements with the Business Customer or if required by law.",
+            "reference": "We do not share your personal data with third parties other than in accordance with the agreement with the Business Customer or if required to be disclosed by law... We may share your personal data with the following entities and individuals as permitted by the Business Customer... Vault Platform’s corporate affiliates and subsidiaries; Vault Platform’s service providers that help or enable us to provide the Services... government, law enforcement officials or private parties as required by law... URL: https://vaultplatform.com/product-privacy-statement"
+        },
+        "source_documents": [
+            {
+                "id": "1cb0ac4ee9926b6f9a5f000727d935e7af1a94763a5a1ae06f912702ec298913",
+                "score": 0.85776806,
+                "excerpt": "the sharing and disclosure of your personal data. Vault Platform does not control how they or any other third parties choose to share or disclose your personal data.\nWe do not share your personal data with third parties other than in accordance with the agreement with the Business Customer or if required to be disclosed by law, by any court of competent jurisdiction or by any regulatory or administrative body. We may share your personal data with the following entities and individuals as permitt...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "11e2820d3048f4d42bb1fca7631ccdc03a6102061f5bd2569f170601db9081f5",
+                "score": 0.71442884,
+                "excerpt": "to provide the Services and for related internal purposes, including to:\n- enable End Users to report workplace misconduct;\n- improve the Business Customer and your Services;\n- establish and maintain your user profile on the Services;\n- communicate with you about the Services, including by sending you announcements, updates, new features, security alerts, and support and administrative messages;\n- provide support and maintenance for the Services; and\n- respond to your requests, questions and fee...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "6151609aad546da93e0a34ffce6eb4c1694e5d8dd06192a5a3b01f41bee0a791",
+                "score": 0.09318171,
+                "excerpt": "to (i) protect our rights, privacy, safety or property, and/or that of you or others; and (ii) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.\nWe may sell, transfer or otherwise share some or all of Vault Platform’s business or assets, including the End Users’ personal data, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankr...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "5e6c96995e57da69a079716da6e26fb50f3fd6906811eecb54f7db2cb256679b",
+                "score": 0.07935289,
+                "excerpt": "your personal data very seriously. Vault Platform works hard to protect the personal data we hold about you and process as part of the Services from loss, misuse and unauthorized access or disclosure. These steps take into account the importance of the personal data we collect, process and store and the current state of technology. Vault Platform maintains compliance with various security frameworks such as ISO27001 and SOC2. [To learn more about Vault Platform’s current practices and policies r...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "afdd4bfc45bd81c61a11214a9c21af409edfedaafad8aaf29e638c06981ac058",
+                "score": 0.0434469,
+                "excerpt": "enablement and improvement. The information that may be collected automatically includes your IP address, computer or mobile device operating system type and version number, manufacturer and model, device identifier, default language, browser type, screen resolution, general location information such as city, state or general geographic area (not precise location), metadata; and information about your use of and actions on the Services and how you interact with us, such as pages or screens you v...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1444463273,
+            "url": "https://vaultplatform.com/product-privacy-statement",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Vault Platform shares data with its corporate affiliates, subsidiaries, and service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Vault Platform’s corporate affiliates and subsidiaries",
+                        "Vault Platform’s service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that Vault Platform may share personal data with its corporate affiliates, subsidiaries, and service providers to provide the services.",
+            "reference": "Vault Platform’s corporate affiliates and subsidiaries; Vault Platform’s service providers that help or enable us to provide the Services. URL: https://vaultplatform.com/product-privacy-statement"
+        },
+        "source_documents": [
+            {
+                "id": "1cb0ac4ee9926b6f9a5f000727d935e7af1a94763a5a1ae06f912702ec298913",
+                "score": 0.8271311,
+                "excerpt": "the sharing and disclosure of your personal data. Vault Platform does not control how they or any other third parties choose to share or disclose your personal data.\nWe do not share your personal data with third parties other than in accordance with the agreement with the Business Customer or if required to be disclosed by law, by any court of competent jurisdiction or by any regulatory or administrative body. We may share your personal data with the following entities and individuals as permitt...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "11e2820d3048f4d42bb1fca7631ccdc03a6102061f5bd2569f170601db9081f5",
+                "score": 0.41555095,
+                "excerpt": "to provide the Services and for related internal purposes, including to:\n- enable End Users to report workplace misconduct;\n- improve the Business Customer and your Services;\n- establish and maintain your user profile on the Services;\n- communicate with you about the Services, including by sending you announcements, updates, new features, security alerts, and support and administrative messages;\n- provide support and maintenance for the Services; and\n- respond to your requests, questions and fee...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "5e6c96995e57da69a079716da6e26fb50f3fd6906811eecb54f7db2cb256679b",
+                "score": 0.08977329,
+                "excerpt": "your personal data very seriously. Vault Platform works hard to protect the personal data we hold about you and process as part of the Services from loss, misuse and unauthorized access or disclosure. These steps take into account the importance of the personal data we collect, process and store and the current state of technology. Vault Platform maintains compliance with various security frameworks such as ISO27001 and SOC2. [To learn more about Vault Platform’s current practices and policies r...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "6c3e505b42571f2cd49bc3f139baaafe31acb2104f8e4c3fd9cd8ec41e7dcf0e",
+                "score": 0.08929565,
+                "excerpt": "Business Customer, and share with the Business Customer, personal data about you that is provided to us by other End Users when submitting a misconduct report using the Services.\nPersonal data you provide to us.\nThe personal data you provide to us through the Services (and which we collect on behalf of the Business Customer) may include:\n- Business and personal contact information, such as your first and last name, email address, your relationship with the Business Customer, role, department, wo...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            },
+            {
+                "id": "6151609aad546da93e0a34ffce6eb4c1694e5d8dd06192a5a3b01f41bee0a791",
+                "score": 0.083142914,
+                "excerpt": "to (i) protect our rights, privacy, safety or property, and/or that of you or others; and (ii) protect, investigate and deter against fraudulent, harmful, unauthorized, unethical or illegal activity.\nWe may sell, transfer or otherwise share some or all of Vault Platform’s business or assets, including the End Users’ personal data, in connection with a business deal (or potential business deal) such as a merger, consolidation, acquisition, reorganization or sale of assets or in the event of bankr...",
+                "url": "https://vaultplatform.com/product-privacy-statement"
+            }
+        ]
+    }
+]

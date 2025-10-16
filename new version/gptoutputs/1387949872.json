@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1387949872,
+      "url": "https://cancerdojo.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including log data, device data, and personal information such as name, email, and payment information.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the types of data it collects.",
+          "content": "The privacy policy outlines that the app collects log data, device data, and personal information, which includes various identifiers and contact details."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected, ensuring transparency about data collection practices.",
+      "reference": "Section 1: Information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1387949872,
+      "url": "https://cancerdojo.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including log data (such as IP address, browser type, pages visited), device data (including device type, operating system, unique identifiers, and geo-location), and personal information (such as name, email, social media profiles, date of birth, phone number, payment information, and business data).",
+        "simple_answer": "The app collects log data, device data, and personal information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a range of data to enhance user experience and comply with legal obligations.",
+          "content": "Log data includes standard data from your web browser, device data includes information about the device used to access the app, and personal information may include your name, email, and payment details."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Information we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1387949872,
+      "url": "https://cancerdojo.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information may be collected, held, used, and disclosed for various purposes, including providing core features of the platform, processing payments, enabling access to the website and applications, communication, internal record keeping, analytics, marketing, and compliance with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The purposes include providing core features, processing payments, enabling access to the website, communication, internal record keeping, analytics, marketing, and legal compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: Collection and use of information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1387949872,
+      "url": "https://cancerdojo.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to change their consent regarding the use of their personal information for specific purposes at any time. However, this will not affect any processing that has already taken place. Additionally, while the policy does not explicitly state a method for opting out of data collection or deleting data, it implies that users can control their personal information by withdrawing consent.",
+        "simple_answer": "Yes, users can change their consent regarding data use.",
+        "extended_simple_answer": {
+          "comment": "Users can withdraw consent for specific purposes, but the policy does not detail a direct method for opting out of all data collection.",
+          "content": "You have the right to change your mind at any time regarding your consent for specific purposes, but this does not affect any processing that has already taken place."
+        }
+      },
+      "analysis": "The privacy policy indicates that users can withdraw their consent for specific uses of their data, which implies some level of control over data collection. However, it does not provide explicit instructions for opting out of all data collection or for deleting data.",
+      "reference": "Section 2: Legal bases for processing"
+    }
+  },
+  {
+    "meta": {
+      "id": 1387949872,
+      "url": "https://cancerdojo.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may disclose personal information to third parties for various purposes, including enabling third party service providers to provide their services, and for marketing or advertising purposes.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with third parties to facilitate services and for marketing.",
+          "content": "We may disclose personal information to third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Disclosure of personal information to third parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 1387949872,
+      "url": "https://cancerdojo.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose personal information to third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, web-hosting and server providers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators; our employees, contractors and/or related entities; sponsors or promoters of any competition we run; third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and third parties to collect and process data.",
+        "simple_answer": "The app shares data with third party service providers, employees, contractors, sponsors, and agents.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with various third parties to facilitate services and marketing.",
+          "content": "Third party service providers, employees, contractors, sponsors, agents, and sub-contractors."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Disclosure of personal information to third parties"
+    }
+  }
+]

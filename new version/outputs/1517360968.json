@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1517360968,
+            "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app does declare the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data, including personal data, for various purposes.",
+            "reference": "We collect user’s personal data when user starts using our Services. Our main aim is to perform our contractual obligation towards the User and make our Service available to the User. We use information that you submit and information that is processed automatically to provide you with all requested services. | https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9c54ebe7ed835e0fa967a58581c8aa84679dcc4014a92b6a1de0ba1fe49a0bfa",
+                "score": 0.19498022,
+                "excerpt": "to campaigns and optimize their users’ acquisition funnel. Personal Data collected: Device Info, Identity Data. | https://www.adjust.com/terms/privacy-policy/ |\nOther partners | ||\nApple, Inc. | To collect and process payments for subscription to the App. Personal Data collected: Payment and banking information and Usage Data. To manage in-app subscriptions, certain user interaction data, as outlined above, is shared with Apple through the consumptionRequestReason feature to facilitate accurate ...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "9314aa4c34f1c9be1499fdc8bb4265c091781dd5d4832f34a262fa7362fadbb9",
+                "score": 0.15791446,
+                "excerpt": "your device advertising settings, or by following the instructions provided in their Privacy Policy. You may visit www.aboutads.info/choices or www.youronlinechoices.eu (for individuals in the EU) to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Personal data is collected to find you and people like you and share our services with them. ...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "918e773d5492522c646a4fab825a5d46e16a4cb35cce3a03382372af04e163e9",
+                "score": 0.13488984,
+                "excerpt": "your permission to access your microphone recordings and your photo and video library when you use the app to activate voice commands and to enable you to share your achievements on your social media accounts. However, we do not collect or have access to such data. We may send push notifications to the User to send you app updates, high scores, and other service-related notifications that may be of importance to you (You can disable this anytime in your phone settings).\nThe purpose of this Priva...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "27b9c084d4f8366c28bc71f6bbb8e76cce6b68448e205df06bc953566c3f0281",
+                "score": 0.11716747,
+                "excerpt": "in your device’s operating system. You have the right to withdraw your consent anytime in the manner indicated at the time consent is requested with no impact on the validity and lawfulness of collection or processing based on the consent made before its withdrawal.\nPURPOSE OF PROCESSING | LAWFUL BASIS |\nWe collect Registration Data if you wish to register for the Services (to create an account) – only if it is applicable to the App, a device to set up and administer your account, provide techni...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "490fc8eada30e090c6451c727af8d356877107c5b1ff926ac27e27b2f34dfdfa",
+                "score": 0.06301947,
+                "excerpt": "Information about your mobile service provider).\nF. Our app integrates with Apple’s App Store Server API to manage in-app subscriptions and improve your experience by accurately tracking engagement with subscription content. We use the consumptionRequestReason feature, which enables us to collect specific data about your interactions with subscription content. Certain data collected may also be shared with Apple to enhance subscription management in line with Apple’s guidelines:\nApple uses and p...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1517360968,
+            "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Device Info, Identity Data, Payment and banking information, Usage Data, Cookies, unique device identifiers for advertising, and other various types of Data as specified in the privacy policy of the services used by the app.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Device Info",
+                        "Identity Data",
+                        "Payment and banking information",
+                        "Usage Data",
+                        "Cookies",
+                        "unique device identifiers for advertising",
+                        "various types of Data specified in service privacy policies"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of data mentioned in the privacy policy document that the app collects.",
+            "reference": "The app collects Device Info, Identity Data, Payment and banking information, Usage Data, Cookies, unique device identifiers for advertising, and various types of Data as specified in the privacy policy of the service. URL: https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9c54ebe7ed835e0fa967a58581c8aa84679dcc4014a92b6a1de0ba1fe49a0bfa",
+                "score": 0.8238959,
+                "excerpt": "to campaigns and optimize their users’ acquisition funnel. Personal Data collected: Device Info, Identity Data. | https://www.adjust.com/terms/privacy-policy/ |\nOther partners | ||\nApple, Inc. | To collect and process payments for subscription to the App. Personal Data collected: Payment and banking information and Usage Data. To manage in-app subscriptions, certain user interaction data, as outlined above, is shared with Apple through the consumptionRequestReason feature to facilitate accurate ...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "9314aa4c34f1c9be1499fdc8bb4265c091781dd5d4832f34a262fa7362fadbb9",
+                "score": 0.6750153,
+                "excerpt": "your device advertising settings, or by following the instructions provided in their Privacy Policy. You may visit www.aboutads.info/choices or www.youronlinechoices.eu (for individuals in the EU) to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Personal data is collected to find you and people like you and share our services with them. ...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "34e6ba036d0bfa8ca5a6ed5722c25b7f9fe6f1a3878f393e4da6076862eee8a0",
+                "score": 0.39001107,
+                "excerpt": "via the Apple App Store (Apple, https://www.apple.com/legal/privacy/en-ww/), the Google Play Store (Google, https://policies.google.com/privacy), or other payment processors. Payment processing takes place through a payment system, integrated into the app store, appropriate for your platform. We may receive the billing and payment information that you provide when your purchase is processed by someone else (like, Apple or Google, Etc.), such as when you purchase a subscription. If you purchase s...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "c57e4e0ac2a1603f9f08f9c3ea1de93fcfff2ec6f8f203120a056fe98383086c",
+                "score": 0.33209375,
+                "excerpt": "our Services we automatically collect certain personal data about you:\nA. Device Info: type and model; operating system and version number (ex.: ios 7.1.3, android), hardware type, connection type (for example, WiFi, 3G, 4G), network service provider, device motion parameters and carrier, Platform; Device Locale; App Version.\nB. Identity Data (only identify a computer, device, browser, or Application): IP Address; ID for advertisers (IDFA) (iOS only); Google Advertising ID, or GPS ADID (ID Devic...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "781ef4060c61e0a0b4ea43a3893ac988037f37928eb564da193d4e5e7cc9fc6b",
+                "score": 0.25293726,
+                "excerpt": "direction. Apple will not share the data with third parties for their own marketing purposes. For more information, see App Store & Privacy.\n2.3. Information received from third parties\nA. Third-party log-in data: If you sign into the Services with Facebook Connect (Instagram), Google Connect, or Apple, we will collect information that is visible via your Facebook or Google account, such as (1) your first and last name, (2) Facebook ID/Google ID/Apple ID (3) Profile Picture/URL, city-level locat...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1517360968,
+            "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use in the Privacy Policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy document clearly outlines the purposes for which data is collected and used, including account setup, customer support, training, identity verification, providing information, customization, technical issue resolution, communication, feedback provision, billing, and administrative purposes.",
+            "reference": "We collect Registration Data if you wish to register for the Services (to create an account) – only if it is applicable to the App, a device to set up and administer your account, provide technical and customer support and training, verify your identity, and send important account, subscription, and Service information. | Contract (art. 6(1)(b) of the GDPR) | We collect almost all data to provide and deliver the Services and all features, to show information about the app and your progress, to customize your experience, to enable your access, and to address technical issues. | Contract (art. 6(1)(b) of the GDPR) or Contract (art. 6(1)(b) of the GDPR) if the data relates to a special category of personal data in a covered jurisdiction. | To communicate with us (for example: to answer your questions and requests) To provide you with feedback and information about your progress. | Legitimate interest ((art. 6(1)(f) of GDPR) | For billing (invoicing), account management, and other administrative purposes, if applicable | Contract (art. 6(1)(b) of the GDPR) | The purpose of this Privacy Policy is the fulfillment of the provisions of the Terms of Service (“Contract”) concluded between the User and GOTOTOP LTD. We collect user’s personal data when user starts using our Services. Our main aim is to perform our contractual obligation towards the User and make our Service available to the User. We use information that you submit and information that is processed automatically to provide you with all requested services. | URL: https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "27b9c084d4f8366c28bc71f6bbb8e76cce6b68448e205df06bc953566c3f0281",
+                "score": 0.5078271,
+                "excerpt": "in your device’s operating system. You have the right to withdraw your consent anytime in the manner indicated at the time consent is requested with no impact on the validity and lawfulness of collection or processing based on the consent made before its withdrawal.\nPURPOSE OF PROCESSING | LAWFUL BASIS |\nWe collect Registration Data if you wish to register for the Services (to create an account) – only if it is applicable to the App, a device to set up and administer your account, provide techni...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "918e773d5492522c646a4fab825a5d46e16a4cb35cce3a03382372af04e163e9",
+                "score": 0.25330648,
+                "excerpt": "your permission to access your microphone recordings and your photo and video library when you use the app to activate voice commands and to enable you to share your achievements on your social media accounts. However, we do not collect or have access to such data. We may send push notifications to the User to send you app updates, high scores, and other service-related notifications that may be of importance to you (You can disable this anytime in your phone settings).\nThe purpose of this Priva...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "490fc8eada30e090c6451c727af8d356877107c5b1ff926ac27e27b2f34dfdfa",
+                "score": 0.19421494,
+                "excerpt": "Information about your mobile service provider).\nF. Our app integrates with Apple’s App Store Server API to manage in-app subscriptions and improve your experience by accurately tracking engagement with subscription content. We use the consumptionRequestReason feature, which enables us to collect specific data about your interactions with subscription content. Certain data collected may also be shared with Apple to enhance subscription management in line with Apple’s guidelines:\nApple uses and p...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "76e7d61b481ed34ee9a5406a2c769fc006d3c4163fdeb14ce5ff2012010ee882",
+                "score": 0.14953138,
+                "excerpt": "with us and we need to use some of your personal data to provide services you have requested or take steps that you request prior to providing services. For example, we cannot create an account for you if you do not provide the required information like your email address. If you do not provide information indicated as required or mandatory within our service, it will not be available to you.\nLegal obligations. We may have to process or share your personal data to comply with legal obligations, ...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "9c54ebe7ed835e0fa967a58581c8aa84679dcc4014a92b6a1de0ba1fe49a0bfa",
+                "score": 0.12326006,
+                "excerpt": "to campaigns and optimize their users’ acquisition funnel. Personal Data collected: Device Info, Identity Data. | https://www.adjust.com/terms/privacy-policy/ |\nOther partners | ||\nApple, Inc. | To collect and process payments for subscription to the App. Personal Data collected: Payment and banking information and Usage Data. To manage in-app subscriptions, certain user interaction data, as outlined above, is shared with Apple through the consumptionRequestReason feature to facilitate accurate ...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1517360968,
+            "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the User has the right to 'opt-out' or direct the app to stop 'selling' or sharing user information with third parties. The document also mentions the right to request the deletion of information collected from users.",
+            "reference": "The User has the right to 'opt-out' or direct us to stop 'selling' or otherwise sharing your information with third parties in exchange for monetary or other valuable consideration. To submit an opt-out request, please follow the instructions. URL: https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html."
+        },
+        "source_documents": [
+            {
+                "id": "4c5d43677999fda1adba91e7fac0c5ed5bdfca1357d7d6218feda9d209aacabd",
+                "score": 0.9825575,
+                "excerpt": "described above by emailing us at gototop@support-team.app. We must confirm your identity (e.g., first name, last name, account name, email address, state of residence, Etc.) and California residency to process your requests to exercise your information, access, or deletion rights. We aim to respond to a consumer request for access or deletion within 45 days of receiving that request. We will inform you of the reason and extension period in writing if we require more time.\nThe California Consume...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "b5e38c0dfbbb9872611013e92a09d5a3573364445840aaa3aa2f7f7c1b4c74b7",
+                "score": 0.98046875,
+                "excerpt": "the privacy settings on your device settings menu. Please note that even if you use your right to opt-out, you will still receive advertising, but not direct or target interest. On Apple, you can opt out of this by going to Settings > Privacy > Advertising and turning on “Limit Ad Tracking”. On Android, you can opt-out by going to Settings > Google Services> Ads and choosing “Opt out of Ads Personalization.”\n(iv) The right to request an update or correction (rectify) to any of your Personal Data...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "1be72c4a54a860adb29541bb2bc64d018305092dcc5702ff8b57db7327d09329",
+                "score": 0.9615338,
+                "excerpt": "us or a third party to do any of the following:\nRight to Opt-out\nThe User has the right to \"opt-out\" or direct us to stop \"selling\" or otherwise sharing your information with third parties in exchange for monetary or other valuable consideration. To submit an opt-out request, please follow the instructions under the 'Opt-out of targeted advertising' paragraph above to configure the Privacy Setting in any of our apps or by checking your device's privacy settings.\nOther Rights\nUsers can request ce...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "af957c7a0fc870b8481dff6e63b13060d6488c96a1a6416bb31e59e6281682ab",
+                "score": 0.7405498,
+                "excerpt": "that transfer.\nWe attach great importance to user privacy and would like to explain your data protection rights.\n(i) The right to withdrawal. It’s important to remember that if we process your data based on your consent, you have the right to withdraw your consent at any time. The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal. Withdrawal is made by the mere notification of GOTOTOP LTD via its Support service, i.e., by sending an e-mail...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "27b9c084d4f8366c28bc71f6bbb8e76cce6b68448e205df06bc953566c3f0281",
+                "score": 0.48652977,
+                "excerpt": "in your device’s operating system. You have the right to withdraw your consent anytime in the manner indicated at the time consent is requested with no impact on the validity and lawfulness of collection or processing based on the consent made before its withdrawal.\nPURPOSE OF PROCESSING | LAWFUL BASIS |\nWe collect Registration Data if you wish to register for the Services (to create an account) – only if it is applicable to the App, a device to set up and administer your account, provide techni...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1517360968,
+            "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as part of its operation to provide personalized, relevant advertisements within the service.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app shares Personal Data with certain third parties to deliver personalized advertisements within the service.",
+            "reference": "We share your Personal Data with certain third parties as part of our operation of the Service, whether shared by us or gathered directly by third parties through SDKs integrated into the Service. This data sharing enables us to provide you with the Service in an optimal way, such as serving you personalized, relevant advertisements within the Service. URL: https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "781ef4060c61e0a0b4ea43a3893ac988037f37928eb564da193d4e5e7cc9fc6b",
+                "score": 0.9840936,
+                "excerpt": "direction. Apple will not share the data with third parties for their own marketing purposes. For more information, see App Store & Privacy.\n2.3. Information received from third parties\nA. Third-party log-in data: If you sign into the Services with Facebook Connect (Instagram), Google Connect, or Apple, we will collect information that is visible via your Facebook or Google account, such as (1) your first and last name, (2) Facebook ID/Google ID/Apple ID (3) Profile Picture/URL, city-level locat...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "4c0625878f3daa528590ba1e4f7a56acd8500e3d9bee7a85e1177efe6f22c663",
+                "score": 0.936285,
+                "excerpt": "We share your Personal Data with certain third parties as part of our operation of the Service, whether shared by us or gathered directly by third parties through SDKs integrated into the Service. This data sharing enables us to provide you with the Service in an optimal way, such as serving you personalized, relevant advertisements within the Service. The following companies are the Processors of the Personal Data of the Services (In case you want to learn more about the services and privacy op...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "490fc8eada30e090c6451c727af8d356877107c5b1ff926ac27e27b2f34dfdfa",
+                "score": 0.91505283,
+                "excerpt": "Information about your mobile service provider).\nF. Our app integrates with Apple’s App Store Server API to manage in-app subscriptions and improve your experience by accurately tracking engagement with subscription content. We use the consumptionRequestReason feature, which enables us to collect specific data about your interactions with subscription content. Certain data collected may also be shared with Apple to enhance subscription management in line with Apple’s guidelines:\nApple uses and p...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "28521bafa871c6cb1c59b03f5b982f48d887f01085ff6ab12477bd6ef6809354",
+                "score": 0.88856554,
+                "excerpt": "of Information via the Internet is not completely secure. We do our best to maintain the privacy and integrity of your Information. We have implemented industry-standard security measures, which include encryption to protect your personal information, including all information you input into your habit data or share in Services, and this information is not available to third parties. Our measures include Pseudonymization and tokenization; Encryption, Protection of data integrity and etc. However...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "ee968294998c0c1360e8650f1900485118eac812d422a7581116b4b74848a0b9",
+                "score": 0.8267118,
+                "excerpt": "HealthKit privacy policies and practices.\n2.4. Cookies and Other Tracking Technologies\nCookies, web beacons (also known as \"tracking pixels\"), embedded scripts, location-identifying technologies, fingerprinting, device recognition technologies, in-app tracking methods, and other tracking technologies now and hereafter developed (\"Tracking Technologies\") may be used to collect information about interactions with the Service or e-mails, including information about your browsing and purchasing beha...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1517360968,
+            "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with HelpDesk (Text, Inc.) and AppLovin Corp.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "HelpDesk (Text, Inc.)",
+                        "AppLovin Corp"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions specifically that the app shares data with these two third-party companies for customer support and advertising services.",
+            "reference": "HelpDesk (Text, Inc.) | Customer support (Email address Content of the emails) | URL: https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html, AppLovin Corp | Advertising service. Personal Data collected: Cookies and Usage Data. | URL: https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "4c0625878f3daa528590ba1e4f7a56acd8500e3d9bee7a85e1177efe6f22c663",
+                "score": 0.9384633,
+                "excerpt": "We share your Personal Data with certain third parties as part of our operation of the Service, whether shared by us or gathered directly by third parties through SDKs integrated into the Service. This data sharing enables us to provide you with the Service in an optimal way, such as serving you personalized, relevant advertisements within the Service. The following companies are the Processors of the Personal Data of the Services (In case you want to learn more about the services and privacy op...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "781ef4060c61e0a0b4ea43a3893ac988037f37928eb564da193d4e5e7cc9fc6b",
+                "score": 0.93451476,
+                "excerpt": "direction. Apple will not share the data with third parties for their own marketing purposes. For more information, see App Store & Privacy.\n2.3. Information received from third parties\nA. Third-party log-in data: If you sign into the Services with Facebook Connect (Instagram), Google Connect, or Apple, we will collect information that is visible via your Facebook or Google account, such as (1) your first and last name, (2) Facebook ID/Google ID/Apple ID (3) Profile Picture/URL, city-level locat...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "28521bafa871c6cb1c59b03f5b982f48d887f01085ff6ab12477bd6ef6809354",
+                "score": 0.90174776,
+                "excerpt": "of Information via the Internet is not completely secure. We do our best to maintain the privacy and integrity of your Information. We have implemented industry-standard security measures, which include encryption to protect your personal information, including all information you input into your habit data or share in Services, and this information is not available to third parties. Our measures include Pseudonymization and tokenization; Encryption, Protection of data integrity and etc. However...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "490fc8eada30e090c6451c727af8d356877107c5b1ff926ac27e27b2f34dfdfa",
+                "score": 0.8709269,
+                "excerpt": "Information about your mobile service provider).\nF. Our app integrates with Apple’s App Store Server API to manage in-app subscriptions and improve your experience by accurately tracking engagement with subscription content. We use the consumptionRequestReason feature, which enables us to collect specific data about your interactions with subscription content. Certain data collected may also be shared with Apple to enhance subscription management in line with Apple’s guidelines:\nApple uses and p...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            },
+            {
+                "id": "3f54b34b10d7e7c827a537cdc83bc86585d20bd752d5a7d3a1645c7eecf8ed20",
+                "score": 0.783823,
+                "excerpt": "or http://www.aboutads.info/choices. Users in the European Union should visit the European Interactive Digital Advertising Alliance’s user information website https://www.youronlinechoices.eu/. | Consent (art. 6(1)(a) of GDPR) or Legitimate interest (unless it requires consent, for example, when covered under certain e-privacy regulations) |\nFor the customization of product and service offerings and making our recommendations to you, for example through emails or push notifications, including fo...",
+                "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html"
+            }
+        ]
+    }
+]

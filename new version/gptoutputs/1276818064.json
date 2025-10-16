@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1276818064,
+      "url": "https://www.mind-diagnostics.org/pages/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects, uses, and stores various types of information, including Visitor Data, Test Information, and Reviews, as detailed in the privacy policy.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The app collects Visitor Data, Test Information, and Reviews, and it states that this data is necessary for the operation of the Sites."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1276818064,
+      "url": "https://www.mind-diagnostics.org/pages/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including Visitor Data (such as pages visited, time spent on the site, browser/device information, mobile device ID, and IP address), Test Information (responses provided by users during tests), and Reviews (information provided when leaving reviews on the site).",
+        "simple_answer": "The app collects Visitor Data, Test Information, and Reviews.",
+        "extended_simple_answer": {
+          "comment": "The collected data helps in operating the site effectively and providing services.",
+          "content": "Visitor Data includes user visit details, Test Information includes responses to tests, and Reviews include user feedback."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1276818064,
+      "url": "https://www.mind-diagnostics.org/pages/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The information collected may be used for communication with users, delivery of services, administration and improvement of services, customization and marketing, compliance with law, and other uses with consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The purposes include communication with users, providing services, improving the site, marketing, legal compliance, and other consented uses."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Purposes for Which Information is Used"
+    }
+  },
+  {
+    "meta": {
+      "id": 1276818064,
+      "url": "https://www.mind-diagnostics.org/pages/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection entirely. However, users can opt out of receiving email marketing communications by unsubscribing using the unsubscribe link provided in all marketing emails. There is no mention of a process for users to delete their data.",
+        "simple_answer": "Users can opt out of email marketing but cannot opt out of data collection entirely.",
+        "extended_simple_answer": {
+          "comment": "While users have the option to unsubscribe from marketing emails, the policy does not provide a clear mechanism for opting out of all data collection or for deleting collected data.",
+          "content": "Users can opt out of receiving email marketing by unsubscribing using the unsubscribe link provided in all of our marketing email communications."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of marketing communications but does not provide a clear option for opting out of data collection or deleting data.",
+      "reference": "Section 3: Opting out of Marketing Communication"
+    }
+  },
+  {
+    "meta": {
+      "id": 1276818064,
+      "url": "https://www.mind-diagnostics.org/pages/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties for various purposes, including business purposes and advertising, with your direction or consent, with affiliates within the corporate group, compliance with law, in the context of a transaction, and for other business reasons.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has multiple reasons for sharing data with third parties, including legal compliance and business operations.",
+          "content": "Information about you may be disclosed to third parties for one or more of the following purposes: For business purposes and advertising; with your direction or consent; with affiliates within our corporate group; compliance with law; in the context of a transaction; and for other business reasons."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Information Collection, Use, and Disclosure"
+    }
+  },
+  {
+    "meta": {
+      "id": 1276818064,
+      "url": "https://www.mind-diagnostics.org/pages/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with third parties for various purposes, including: vendors and service providers (such as data hosting and storage partners, analytics and advertising providers, and technology service providers), professional advisers (like auditors and law firms), affiliates within its corporate group, law enforcement or regulatory entities as required by law, in connection with business transactions (such as asset sales or mergers), and for other business reasons to ensure the safety and security of the Site and its users.",
+        "simple_answer": "The app shares data with vendors, service providers, professional advisers, affiliates, law enforcement, and in business transactions.",
+        "extended_simple_answer": {
+          "comment": "The app has multiple categories of third parties with whom it shares data.",
+          "content": "1. Vendors and service providers (data hosting, analytics, advertising, etc.) 2. Professional advisers (auditors, law firms) 3. Affiliates within its corporate group 4. Law enforcement or regulatory entities 5. In connection with business transactions 6. For other business reasons."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Information Collection, Use, and Disclosure - Purposes for Which Information is Disclosed to Third Parties"
+    }
+  }
+]

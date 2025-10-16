@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1564740564,
+      "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data as part of its privacy policy.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states that it collects data from users.",
+          "content": "The privacy policy outlines the types of data collected, the purpose of the collection, and how the data is used."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that data collection is a fundamental aspect of the app's operation.",
+      "reference": "The privacy statement for the m-Path app."
+    }
+  },
+  {
+    "meta": {
+      "id": 1564740564,
+      "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data such as name, email address, phone number, and other information that users provide when using the app. Additionally, it may collect usage data, device information, and location data.",
+        "simple_answer": "The app collects personal data, usage data, device information, and location data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of data to enhance user experience and functionality.",
+          "content": "The types of data collected include personal information (like name and email), usage data, device information, and location data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section on Data Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 1564740564,
+      "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use, which includes providing the services of the m-Path app, improving the app, and conducting research.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that data is collected to enhance user experience and for research purposes.",
+          "content": "The privacy policy outlines that the data collected is used to provide and improve the services offered by the m-Path app, as well as for research and analysis."
+        }
+      },
+      "analysis": "",
+      "reference": "Section on Purpose of Data Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 1564740564,
+      "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and have the right to request the deletion of their personal data. The privacy policy outlines the procedures for opting out and deleting data.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal data and can exercise their rights regarding data collection.",
+          "content": "The privacy policy specifies that users can opt out of data collection and request deletion of their personal data."
+        }
+      },
+      "analysis": "The privacy policy provides clear options for users regarding their data, ensuring compliance with data protection regulations.",
+      "reference": "Section on User Rights"
+    }
+  },
+  {
+    "meta": {
+      "id": 1564740564,
+      "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties unless required by law or with the explicit consent of the user.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares data under specific circumstances.",
+          "content": "The app does not share personal data with third parties unless required by law or with the explicit consent of the user."
+        }
+      },
+      "analysis": "The privacy policy clearly states the conditions under which data may be shared, emphasizing user consent and legal requirements.",
+      "reference": "Section on Data Sharing"
+    }
+  },
+  {
+    "meta": {
+      "id": 1564740564,
+      "url": "https://m-path.io/LegalPage/legal.html#privacyApp",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties such as Microsoft Azure, which is used for data hosting and processing. Additionally, data may be shared with subcontractors as outlined in the data processing agreement.",
+        "simple_answer": "The app shares data with Microsoft Azure and subcontractors.",
+        "extended_simple_answer": {
+          "comment": "The app utilizes Microsoft Azure for hosting and may involve subcontractors for data processing.",
+          "content": "Data is shared with Microsoft Azure for hosting and processing, and potentially with subcontractors as specified in the data processing agreement."
+        }
+      },
+      "analysis": "The privacy policy indicates that data is shared primarily for hosting and processing purposes, specifically mentioning Microsoft Azure and subcontractors.",
+      "reference": "Section on data sharing and third parties"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1639682531,
+      "url": "https://www.mindswitch.ch/eng/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal data in its privacy policy, specifying the types of data processed, the purposes for which they are processed, and the categories of data subjects involved.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy provides a comprehensive overview of the data collection practices.",
+          "content": "The privacy policy states that it applies to all processing of personal data carried out by the company, including data collected through their services, websites, mobile applications, and social media profiles."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of personal data collected and the purposes for which this data is processed, ensuring transparency in data handling practices.",
+      "reference": "Preamble, Overview of processing operations"
+    }
+  },
+  {
+    "meta": {
+      "id": 1639682531,
+      "url": "https://www.mindswitch.ch/eng/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including inventory data, payment data, contact data, content data, contract data, usage data, and meta/communication data.",
+        "simple_answer": "The app collects inventory data, payment data, contact data, content data, contract data, usage data, and meta/communication data.",
+        "extended_simple_answer": {
+          "comment": "The types of data collected are categorized for clarity.",
+          "content": "The app collects the following types of data: inventory data, payment data, contact data, content data, contract data, usage data, and meta/communication data."
+        }
+      },
+      "analysis": "",
+      "reference": "Overview of processing operations"
+    }
+  },
+  {
+    "meta": {
+      "id": 1639682531,
+      "url": "https://www.mindswitch.ch/eng/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data is processed for various purposes including the provision of contractual services, customer support, contact requests, security measures, direct marketing, web analytics, managing inquiries, feedback, marketing, and authentication processes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy provides a detailed overview of the types of data processed and the purposes for which they are processed.",
+          "content": "The purposes of processing include: provision of contractual services, customer support, contact requests, security measures, direct marketing, web analytics, managing inquiries, feedback, marketing, profiles with user-related information, authentication processes, and provision of online services."
+        }
+      },
+      "analysis": "",
+      "reference": "Overview of processing operations"
+    }
+  },
+  {
+    "meta": {
+      "id": 1639682531,
+      "url": "https://www.mindswitch.ch/eng/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to request the erasure of their personal data. The privacy policy states that data subjects have rights regarding their data, including the right to erasure.",
+        "simple_answer": "Yes, users can request to delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users can exercise their rights regarding personal data, including deletion.",
+          "content": "The privacy policy mentions that data subjects have rights, including the right to request the erasure of their personal data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the rights of data subjects, including the right to request deletion of personal data, which indicates that users can opt out of data collection by requesting erasure.",
+      "reference": "Rights of Data Subjects"
+    }
+  },
+  {
+    "meta": {
+      "id": 1639682531,
+      "url": "https://www.mindswitch.ch/eng/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties. In the context of processing personal data, it may happen that the data is transferred to other places, companies, or persons, or that it is disclosed to them. Recipients of this data may include service providers commissioned with IT tasks or providers of services and content that are embedded in a website.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is done in compliance with legal requirements.",
+          "content": "The legal requirements will be respected, and corresponding contracts or agreements that serve the protection of your data will be concluded with the recipients of your data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that data may be shared with third parties, particularly service providers and partners, while ensuring compliance with legal standards.",
+      "reference": "Transmission of Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1639682531,
+      "url": "https://www.mindswitch.ch/eng/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with service providers commissioned with IT tasks or providers of services and content that are embedded in a website.",
+        "simple_answer": "The app shares data with IT service providers and content providers.",
+        "extended_simple_answer": {
+          "comment": "This sharing is done in compliance with legal requirements and involves contracts or agreements to protect your data.",
+          "content": "Recipients of this data may include, for example, service providers commissioned with IT tasks or providers of services and content that are embedded in a website."
+        }
+      },
+      "analysis": "",
+      "reference": "Transmission of Personal Data"
+    }
+  }
+]

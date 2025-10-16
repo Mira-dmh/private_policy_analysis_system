@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1396647655,
+      "url": "https://firefly.health/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It describes the types of information collected, how it is collected, and the reasons for collection in its Privacy Notice.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The Privacy Notice provides detailed information about the types of personal data collected and the methods of collection.",
+          "content": "The Privacy Notice states that it describes the information collected, how it is collected, and the reasons for collection."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Key Terms & Definitions and Our Privacy Notice"
+    }
+  },
+  {
+    "meta": {
+      "id": 1396647655,
+      "url": "https://firefly.health/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of Personal Data, including personal identifiers (such as name, birth date, email address, and Social Security number), information that identifies or relates to an individual (such as health or medical information, insurance policy number, and employment), characteristics of protected classifications (such as race, age, and medical conditions), biometric information (such as fingerprints and health data), and internet or electronic network activity information (such as IP address and device information).",
+        "simple_answer": "The app collects personal identifiers, health information, protected classifications, biometric information, and internet activity information.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of personal data to provide its services.",
+          "content": "Types of data include personal identifiers, health information, protected classifications, biometric data, and internet activity."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3. Personal Data - What types of Personal Data do we collect?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1396647655,
+      "url": "https://firefly.health/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide services, communicate with users, and improve the user experience. The Privacy Notice outlines how personal data is collected, used, and shared.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The Privacy Notice provides detailed information on the purposes for which personal data is collected.",
+          "content": "The app collects personal data to provide services, communicate with users, and enhance user experience."
+        }
+      },
+      "analysis": "The Privacy Notice clearly outlines the purposes of data collection, ensuring transparency for users regarding how their information will be utilized.",
+      "reference": "Section 3: Personal Data - How do we use your Personal Data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1396647655,
+      "url": "https://firefly.health/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have choices regarding the information collected, including the ability to manage, update, or request to delete their information.",
+        "simple_answer": "Yes, users can request to delete their information.",
+        "extended_simple_answer": {
+          "comment": "Users are informed about their choices regarding data management.",
+          "content": "The Privacy Notice describes the choices you have with the information we collect, including how you can manage, update, or request to delete information."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: Personal Data - Your choices about how we share your Personal Data."
+    }
+  },
+  {
+    "meta": {
+      "id": 1396647655,
+      "url": "https://firefly.health/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share your Personal Data with third parties, but it is done in accordance with the applicable laws and regulations. The specific circumstances under which your data may be shared include when it is necessary to provide the services, comply with legal obligations, or protect the rights and safety of Firefly Health and others. However, the app will not sell any Protected Health Information (PHI).",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is regulated and does not include selling PHI.",
+          "content": "The app may share your Personal Data with third parties for service provision, legal compliance, or safety reasons, but will not sell any PHI."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing compliance with legal standards and the protection of user privacy.",
+      "reference": "Section 3: How do we share your Personal Data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1396647655,
+      "url": "https://firefly.health/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It mentions that the app may share personal data with service providers, business partners, and other third parties as necessary to provide the services, comply with legal obligations, or protect rights and safety.",
+        "simple_answer": "The app shares data with service providers, business partners, and other third parties as necessary.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data sharing is done to provide services and comply with legal obligations.",
+          "content": "The app may share personal data with service providers, business partners, and other third parties as necessary to provide the services, comply with legal obligations, or protect rights and safety."
+        }
+      },
+      "analysis": "The privacy policy outlines that data may be shared with various third parties but does not provide specific names or categories of those third parties.",
+      "reference": "Section 3: How do we share your Personal Data?"
+    }
+  }
+]

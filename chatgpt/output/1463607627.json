@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1463607627,
+      "url": "https://www.otsuka-us.com/oapi-and-opdc-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that Otsuka collects Personal Information regarding its customers, visitors, and guests, including website visitors, patients or clinical trial subjects, healthcare providers, employees, workers, or job applicants.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of Personal Information collected and the purposes for which it is used.",
+          "content": "Otsuka collects Personal Information from various individuals, including customers and healthcare providers, as part of its operations."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 Individuals and Section 2.2 Information Otsuka Collects"
+    }
+  },
+  {
+    "meta": {
+      "id": 1463607627,
+      "url": "https://www.otsuka-us.com/oapi-and-opdc-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "Otsuka collects Personal Information regarding its customers, visitors, and guests, including website visitors, patients or clinical trial subjects, healthcare providers, employees, workers, or job applicants. The data collected may include information that is deemed Personal Information, which can be collected directly from individuals or from external sources.",
+        "simple_answer": "Otsuka collects Personal Information from customers, visitors, patients, healthcare providers, and job applicants.",
+        "extended_simple_answer": {
+          "comment": "The types of Personal Information collected depend on the relationship with Otsuka and applicable law.",
+          "content": "The data may include various types of Personal Information relevant for processing."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2.1 Individuals and Section 2.2 Information Otsuka Collects"
+    }
+  },
+  {
+    "meta": {
+      "id": 1463607627,
+      "url": "https://www.otsuka-us.com/oapi-and-opdc-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that Otsuka provides this Privacy Policy to inform users about their online and mobile information practices, the kinds of information they may collect, how they intend to use and share that information, and how users can correct or change such information.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The Privacy Policy emphasizes transparency regarding data collection and usage.",
+          "content": "Otsuka provides this Privacy Policy to inform users about their online and mobile information practices, the kinds of information they may collect, how they intend to use and share that information, and how users can correct or change such information."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.1 Purpose"
+    }
+  },
+  {
+    "meta": {
+      "id": 1463607627,
+      "url": "https://www.otsuka-us.com/oapi-and-opdc-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and have the ability to delete their data. The privacy policy outlines methods for opting out of communications and advertising choices, as well as the rights to request deletion of personal information under certain circumstances.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have rights regarding their personal information, including opting out of data collection and requesting deletion.",
+          "content": "The privacy policy provides details on how users can opt out of communications and advertising, as well as their rights to request deletion of personal information."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal information, allowing for opt-out options and deletion requests.",
+      "reference": "Section 3.0 Choice/Methods to Opt Out"
+    }
+  },
+  {
+    "meta": {
+      "id": 1463607627,
+      "url": "https://www.otsuka-us.com/oapi-and-opdc-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Otsuka does not sell information obtained through its Programs, including Personal Information submitted online. However, it may share information with non-affiliated third parties only to provide the products, services, and other information requested by the user, or to fulfill legal obligations under applicable law.",
+        "simple_answer": "Yes, but only to provide requested services or fulfill legal obligations.",
+        "extended_simple_answer": {
+          "comment": "Otsuka is committed to protecting user data and only shares it under specific circumstances.",
+          "content": "Otsuka does not sell your information and only shares it with non-affiliated third parties for the purpose of providing requested services or to comply with legal requirements."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1.3 Mobile Messaging Programs"
+    }
+  },
+  {
+    "meta": {
+      "id": 1463607627,
+      "url": "https://www.otsuka-us.com/oapi-and-opdc-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with service providers, business partners, and non-affiliated parties for protection and legal obligations. Specifically, it may disclose information to service providers who assist in providing products and services, business partners for collaboration, and in connection with business transactions. Additionally, information may be disclosed for the protection of the company and others, as well as to comply with legal requirements.",
+        "simple_answer": "The app shares data with service providers, business partners, and non-affiliated parties.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell personal information and only shares it as necessary for services and legal compliance.",
+          "content": "Data may be shared with service providers, business partners, and for legal protection."
+        }
+      },
+      "analysis": "The privacy policy outlines the types of third parties with whom data may be shared, emphasizing that sharing is limited to necessary parties for service provision and legal compliance.",
+      "reference": "Section 4.1 Information We Disclose"
+    }
+  }
+]

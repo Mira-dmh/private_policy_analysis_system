@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1492803107,
+      "url": "https://www.betterspace.uk/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of personal data, including usage data, communications and relationship data, account data, health data, ethnicity data, and transaction data.",
+        "simple_answer": "Yes, the app collects various types of personal data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the specific categories of personal data collected and the sources of that data.",
+          "content": "The personal data that we collect includes usage data (like IP address and browser type), communications and relationship data (like name and contact details), account data (like email and date of birth), health data, ethnicity data, and transaction data."
+        }
+      },
+      "analysis": "",
+      "reference": "The personal data that we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1492803107,
+      "url": "https://www.betterspace.uk/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of personal data, including: 1. Usage data: This includes IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views, and website navigation paths. 2. Communications and relationship data: This includes your name, business name, job title, contact details, and any information related to communications between you and BetterSpace. 3. Account data: This includes your name, email address, gender, date of birth, postcode, income bracket, and application settings. 4. Health data: Information about impairments, health conditions, and learning difficulties. 5. Ethnicity data: Information about your ethnicity. 6. Transaction data: This includes details related to goods, services, or digital products ordered through the app.",
+        "simple_answer": "The app collects usage data, communications and relationship data, account data, health data, ethnicity data, and transaction data.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of personal data to provide its services and enhance user experience.",
+          "content": "Types of data collected include usage data, communications and relationship data, account data, health data, ethnicity data, and transaction data."
+        }
+      },
+      "analysis": "",
+      "reference": "The personal data that we collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1492803107,
+      "url": "https://www.betterspace.uk/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies various purposes such as operating the website and application, managing relationships and communications, personalizing content, and processing transactions. Each purpose is associated with a legal basis for processing.",
+        "simple_answer": "Yes, the app declares the purposes of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data processing, ensuring transparency.",
+          "content": "The purposes include operations, publications, relationships and communications, personalisation, and direct marketing."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which personal data is collected and processed, which aligns with best practices for transparency in data privacy.",
+      "reference": "Purposes of processing and legal bases"
+    }
+  },
+  {
+    "meta": {
+      "id": 1492803107,
+      "url": "https://www.betterspace.uk/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection. However, it states that BetterSpace will delete any personal data collected if they know or suspect it relates to a person under 18 years of age. Users may have the ability to manage their account settings, which could include options for data deletion, but specific opt-out mechanisms are not detailed in the policy.",
+        "simple_answer": "The policy does not specify an opt-out option for data collection.",
+        "extended_simple_answer": {
+          "comment": "While there is no clear opt-out option mentioned, users may have some control over their data through account settings.",
+          "content": "BetterSpace will delete personal data if it relates to someone under 18 years of age."
+        }
+      },
+      "analysis": "The lack of explicit mention of an opt-out mechanism suggests that users may not have a straightforward way to refuse data collection. However, the policy does indicate a commitment to data privacy.",
+      "reference": "Introduction and The personal data that we collect sections."
+    }
+  },
+  {
+    "meta": {
+      "id": 1492803107,
+      "url": "https://www.betterspace.uk/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share personal data with third parties, including marketplace suppliers, payment services providers, and other business partners for the purposes of operating the service, processing transactions, and managing relationships.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is necessary for the operation of the app and to provide services to users.",
+          "content": "The app shares data with third parties such as marketplace suppliers and payment services providers to facilitate transactions and manage relationships."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing is part of the operational processes necessary for providing services and managing relationships with users and partners.",
+      "reference": "Section: Purposes of processing and legal bases"
+    }
+  },
+  {
+    "meta": {
+      "id": 1492803107,
+      "url": "https://www.betterspace.uk/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list specific third parties with whom the app shares data. However, it mentions that data may be shared with marketplace suppliers, general suppliers, and business partners as part of the operations and services provided through the BetterSpace application.",
+        "simple_answer": "The app shares data with marketplace suppliers, general suppliers, and business partners.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes that data sharing is part of the operational processes.",
+          "content": "Data may be shared with marketplace suppliers, general suppliers, and business partners to facilitate transactions and services."
+        }
+      },
+      "analysis": "The privacy policy indicates that while specific third parties are not named, the sharing of data is integral to the functioning of the app and its services.",
+      "reference": "Section: Purposes of processing and legal bases"
+    }
+  }
+]

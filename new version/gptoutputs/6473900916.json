@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6473900916,
+      "url": "https://www.parenityapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of both personal and non-personal data. It specifies that certain personal information is required for operation, and it also collects non-personally identifiable information for various purposes.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the reasons for collection.",
+          "content": "The app collects personal information such as full name, email address, and date of birth, as well as non-personal information like IP address and device information."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the purposes for which it is used, ensuring transparency with users.",
+      "reference": "INFORMATION YOU ARE REQUIRED TO PROVIDE, ADDITIONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473900916,
+      "url": "https://www.parenityapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects both personal information and non-personally identifiable information. Personal information includes full name, email address, telephone, country, date of birth, and self-selected habits. Non-personally identifiable information includes browser or platform type, IP address, location information, transactional and billing information, device information, and account information.",
+        "simple_answer": "The app collects personal information and non-personally identifiable information.",
+        "extended_simple_answer": {
+          "comment": "The app requires certain personal information for operation and also collects additional non-personal data to enhance user experience.",
+          "content": "Personal information: Full Name, E-mail address, Telephone, Country, Date of Birth, Self-selected habits. Non-personal information: Browser type, IP address, Location, Transactional and Billing Information, Device Information, Account Information."
+        }
+      },
+      "analysis": "",
+      "reference": "INFORMATION YOU ARE REQUIRED TO PROVIDE, ADDITIONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473900916,
+      "url": "https://www.parenityapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The personal information collected is used for various purposes including registering users, delivering services, communicating with users, complying with contractual obligations, conducting research and development, marketing, and ensuring user safety, among others.",
+        "simple_answer": "Yes, the app states the purposes for data collection.",
+        "extended_simple_answer": {
+          "comment": "The app outlines multiple reasons for collecting personal information.",
+          "content": "The purposes include registration, service delivery, communication, compliance with laws, research, marketing, and user safety."
+        }
+      },
+      "analysis": "The privacy policy clearly lists the reasons for data collection, ensuring transparency about how user data will be utilized.",
+      "reference": "Section: WHY WE NEED YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473900916,
+      "url": "https://www.parenityapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can opt-out of cookies by utilizing the settings provided in their browsers, but some functionality of the Services may be disabled or inaccessible if they do so. However, the policy does not explicitly mention a process for users to delete their data.",
+        "simple_answer": "Yes, users can opt-out of cookies, but there's no clear process for deleting data.",
+        "extended_simple_answer": {
+          "comment": "While users can manage cookie settings, the privacy policy lacks details on data deletion.",
+          "content": "Users can opt-out of cookies through their browser settings, but this may limit some functionalities. The policy does not specify how users can delete their personal data."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt-out of cookies, which is a form of data collection, but does not provide a clear mechanism for users to delete their personal data.",
+      "reference": "COOKIES"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473900916,
+      "url": "https://www.parenityapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may disclose certain Personal Information to third party vendors who help provide the services, to third parties as requested by the user, to affiliates and partners, and if necessary to comply with laws or protect rights.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data for various purposes including service provision and legal compliance.",
+          "content": "The app may disclose certain Personal Information to third party vendors, to third parties as requested by you, to affiliates, and to comply with laws or protect rights."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app shares user data with third parties under specific circumstances, which includes service provision and legal obligations.",
+      "reference": "HOW WE MAY USE YOUR INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 6473900916,
+      "url": "https://www.parenityapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may disclose certain Personal Information to third party vendors who help provide the services, to third parties to whom you request the app to send Personal Information, to affiliates, partners, subsidiaries, joint ventures, or other companies. Additionally, the app may disclose information if it believes in good faith that such disclosure is important to resolve disputes, investigate problems, enforce terms and conditions, comply with relevant laws, respond to law enforcement requests, or protect the rights and property of itself or others.",
+        "simple_answer": "The app shares data with third party vendors, affiliates, partners, and in compliance with legal obligations.",
+        "extended_simple_answer": {
+          "comment": "The app takes user privacy seriously and shares data only under specific circumstances.",
+          "content": "Data may be shared with third party vendors for service provision, with third parties at user request, and for legal compliance or protection of rights."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW WE MAY USE YOUR INFORMATION"
+    }
+  }
+]

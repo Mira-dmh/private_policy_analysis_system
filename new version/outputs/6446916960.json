@@ -1,0 +1,191 @@
+[
+    {
+        "meta": {
+            "id": 6446916960,
+            "url": "https://oterpink.com/happy-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy outlines the types of data collected, indicating that the app declares the collection of data.",
+            "reference": "Collected data: Contact, personal information, identifiers, commercial information, protected classification characteristics, biometric information, internet activity, geolocation data, audio/visual information, professional information, education information, inferences. URL: https://oterpink.com/happy-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "20428e072a950e7e6185648aea99577bc429b13409d9f12201a45e7455ba1367",
+                "score": 0.00012339458,
+                "excerpt": "| Category | Examples | Collected |\n|\nA. Identifiers\n|\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name\n|\n|\n|\nB. Personal information categories listed in the California Customer Records statute\n|\nName, contact information, education, employment, employment history, and financial information\n|\n|\n|\nC. Protected classification characteristics under...",
+                "url": "https://oterpink.com/happy-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446916960,
+            "url": "https://oterpink.com/happy-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Contact details, personal information categories, protected classification characteristics, commercial information, biometric information, internet activity, geolocation data, audio, visual information, professional information, education information, inferences drawn from personal information",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact details",
+                        "Personal information categories",
+                        "Protected classification characteristics",
+                        "Commercial information",
+                        "Biometric information",
+                        "Internet or other similar network activity",
+                        "Geolocation data",
+                        "Audio, visual information",
+                        "Professional or employment-related information",
+                        "Education Information",
+                        "Inferences drawn from other personal information"
+                    ]
+                }
+            },
+            "analysis": "The answer contains a comprehensive list of the types of data collected by the app as specified in the privacy policy document.",
+            "reference": "URL: https://oterpink.com/happy-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "20428e072a950e7e6185648aea99577bc429b13409d9f12201a45e7455ba1367",
+                "score": 0.097734325,
+                "excerpt": "| Category | Examples | Collected |\n|\nA. Identifiers\n|\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name\n|\n|\n|\nB. Personal information categories listed in the California Customer Records statute\n|\nName, contact information, education, employment, employment history, and financial information\n|\n|\n|\nC. Protected classification characteristics under...",
+                "url": "https://oterpink.com/happy-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446916960,
+            "url": "https://oterpink.com/happy-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the different categories of data collected and specifies the purpose for each category, ensuring transparency in data collection and use.",
+            "reference": "The app discloses the purpose of data collection and use for each category of data collected. URL: https://oterpink.com/happy-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "20428e072a950e7e6185648aea99577bc429b13409d9f12201a45e7455ba1367",
+                "score": 5.6058285e-05,
+                "excerpt": "| Category | Examples | Collected |\n|\nA. Identifiers\n|\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name\n|\n|\n|\nB. Personal information categories listed in the California Customer Records statute\n|\nName, contact information, education, employment, employment history, and financial information\n|\n|\n|\nC. Protected classification characteristics under...",
+                "url": "https://oterpink.com/happy-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446916960,
+            "url": "https://oterpink.com/happy-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt-out of data collection or request the deletion of their data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt-out of data collection or request the deletion of their data, indicating that users have control over their data.",
+            "reference": "If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us. URL: https://oterpink.com/happy-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "20428e072a950e7e6185648aea99577bc429b13409d9f12201a45e7455ba1367",
+                "score": 0.00023968685,
+                "excerpt": "| Category | Examples | Collected |\n|\nA. Identifiers\n|\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name\n|\n|\n|\nB. Personal information categories listed in the California Customer Records statute\n|\nName, contact information, education, employment, employment history, and financial information\n|\n|\n|\nC. Protected classification characteristics under...",
+                "url": "https://oterpink.com/happy-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446916960,
+            "url": "https://oterpink.com/happy-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share data with third parties for various purposes, indicating that data is indeed shared with external entities.",
+            "reference": "The user data collected by the app may be shared with third parties for primarily business purposes. URL: https://oterpink.com/happy-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "20428e072a950e7e6185648aea99577bc429b13409d9f12201a45e7455ba1367",
+                "score": 0.00047470425,
+                "excerpt": "| Category | Examples | Collected |\n|\nA. Identifiers\n|\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name\n|\n|\n|\nB. Personal information categories listed in the California Customer Records statute\n|\nName, contact information, education, employment, employment history, and financial information\n|\n|\n|\nC. Protected classification characteristics under...",
+                "url": "https://oterpink.com/happy-privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446916960,
+            "url": "https://oterpink.com/happy-privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with third-party analytics service providers and advertising partners.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "third-party analytics service providers",
+                        "advertising partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that data is shared with specific third parties for analytics and advertising purposes.",
+            "reference": "We may share information with third-party analytics service providers and advertising partners. URL: https://oterpink.com/happy-privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "20428e072a950e7e6185648aea99577bc429b13409d9f12201a45e7455ba1367",
+                "score": 0.0048297215,
+                "excerpt": "| Category | Examples | Collected |\n|\nA. Identifiers\n|\nContact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name\n|\n|\n|\nB. Personal information categories listed in the California Customer Records statute\n|\nName, contact information, education, employment, employment history, and financial information\n|\n|\n|\nC. Protected classification characteristics under...",
+                "url": "https://oterpink.com/happy-privacy-policy"
+            }
+        ]
+    }
+]

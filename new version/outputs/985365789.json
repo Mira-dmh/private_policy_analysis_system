@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 985365789,
+            "url": "https://spiritualme.com/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data as outlined in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions the collection of Personal Information and the purposes for which it is collected.",
+            "reference": "In order to make the Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. URL: https://spiritualme.com/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "0aaa3dac611d81bd0b97551209ee56745a01ff1e5d9586b3267907179cc7c760",
+                "score": 0.009232215,
+                "excerpt": "instances, the User providing Personal Information acts as a data controller in terms of the GDPR.\nIn order to make the Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:\n- Deliver products or services\n- Run and operate...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "6d23565d7c43f504fdba1b65d6be79e1b3b5e9100164037b2bbeb990b354d90b",
+                "score": 0.00502115,
+                "excerpt": "if you do not agree with the terms of this agreement, you must not accept this agreement and may not access and use the Services. By accessing and using the Services, you acknowledge that you have read, understood, and agree to be bound by the terms of this Policy. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.\nCollection of personal information\nYou can access and use the Services without telling us who y...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "ea139df64b97ed6d0045afa2e3e623ff143c0fb44519ba0d4728578175dc933a",
+                "score": 0.0045384318,
+                "excerpt": "Privacy policy\nWe respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) on the spiritualme.com website (“Website”), “Spiritual Me” mobile application (“Mobile Application”), and any of their related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "ded5fecedd2f79e27d1bc4a49fa95f1a48fd4c5d3bd72b6c60dbbfd49b9053be",
+                "score": 0.00402291,
+                "excerpt": "Services after the effective date of the revised Policy (or such other act specified at that time) will constitute your consent to those changes. However, we will not, without your consent, use your Personal Information in a manner materially different than what was stated at the time your Personal Information was collected.\nAcceptance of this policy\nYou acknowledge that you have read this Policy and agree to all its terms and conditions. By accessing and using the Services and submitting your i...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "07863c758c80f979b0c55e0ee940af2521aa4552ad29052b7c88c1859203e89b",
+                "score": 0.0038543637,
+                "excerpt": "is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.\nWe rely on the following legal bases as defined in the GDPR upon which we collect and process your Personal Information:\n- User’s consent\nNote that under some legislations we may ...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 985365789,
+            "url": "https://spiritualme.com/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as email address, address, credit card details, and bank account number for processing payments.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "email address",
+                        "address",
+                        "credit card details",
+                        "bank account number"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of personal information such as email address, address, credit card details, and bank account number for payment processing purposes.",
+            "reference": "Please note that the Payment Processors may collect some Personal Information from you, which allows them to process your payments (e.g., your email address, address, credit card details, and bank account number)...\". URL: https://spiritualme.com/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "ea139df64b97ed6d0045afa2e3e623ff143c0fb44519ba0d4728578175dc933a",
+                "score": 0.024750972,
+                "excerpt": "Privacy policy\nWe respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Policy”). This Policy describes the types of information we may collect from you or that you may provide (“Personal Information”) on the spiritualme.com website (“Website”), “Spiritual Me” mobile application (“Mobile Application”), and any of their related products and services (collectively, “Services”), and our practices for collecting, using, maintaining, protecting, and...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "0aaa3dac611d81bd0b97551209ee56745a01ff1e5d9586b3267907179cc7c760",
+                "score": 0.022328783,
+                "excerpt": "instances, the User providing Personal Information acts as a data controller in terms of the GDPR.\nIn order to make the Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:\n- Deliver products or services\n- Run and operate...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "d0d45b36f1b6f569f3393a5ff43f60e382c722c21ddcd4f3353c67bab55cee96",
+                "score": 0.017917344,
+                "excerpt": "or other payment account information, which will be used solely for processing payments. We use third-party payment processors (“Payment Processors”) to assist us in processing your payment information securely.\nPayment Processors adhere to the latest security standards as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. Sensitive and private data exchange happens over a SSL secured communication channel and is...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "07863c758c80f979b0c55e0ee940af2521aa4552ad29052b7c88c1859203e89b",
+                "score": 0.00619299,
+                "excerpt": "is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.\nWe rely on the following legal bases as defined in the GDPR upon which we collect and process your Personal Information:\n- User’s consent\nNote that under some legislations we may ...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "f8de1aceb56acb260071f754a09c2f1ed6703c046f1fa09301901eea89e6f114",
+                "score": 0.004038592,
+                "excerpt": "Twitter buttons, Share This buttons, etc (collectively, “Social Media Features”). These Social Media Features may collect your IP address, what page you are visiting on our Services, and may set a cookie to enable Social Media Features to function properly. Social Media Features are hosted either by their respective providers or directly on our Services. Your interactions with these Social Media Features are governed by the privacy policy of their respective providers.\nLinks to other resources\nT...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 985365789,
+            "url": "https://spiritualme.com/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use based on how users interact with the services, location, and legal obligations.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use depending on various factors such as user interaction, location, and legal obligations.",
+            "reference": "Processing your Personal Information depends on how you interact with the Services, where you are located in the world, and if one of the following applies:... URL: https://spiritualme.com/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "0aaa3dac611d81bd0b97551209ee56745a01ff1e5d9586b3267907179cc7c760",
+                "score": 0.20545557,
+                "excerpt": "instances, the User providing Personal Information acts as a data controller in terms of the GDPR.\nIn order to make the Services available to you, or to meet a legal obligation, we may need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Any of the information we collect from you may be used for the following purposes:\n- Deliver products or services\n- Run and operate...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "d0d45b36f1b6f569f3393a5ff43f60e382c722c21ddcd4f3353c67bab55cee96",
+                "score": 0.02947941,
+                "excerpt": "or other payment account information, which will be used solely for processing payments. We use third-party payment processors (“Payment Processors”) to assist us in processing your payment information securely.\nPayment Processors adhere to the latest security standards as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. Sensitive and private data exchange happens over a SSL secured communication channel and is...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "07863c758c80f979b0c55e0ee940af2521aa4552ad29052b7c88c1859203e89b",
+                "score": 0.0119150225,
+                "excerpt": "is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.\nWe rely on the following legal bases as defined in the GDPR upon which we collect and process your Personal Information:\n- User’s consent\nNote that under some legislations we may ...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "2660bef774bc16a7ad059bcef7d1404efea00db7796639dceea05bb4385b1747",
+                "score": 0.008156248,
+                "excerpt": "and processing of collected information\nWe act as a data controller and a data processor in terms of the GDPR when handling Personal Information, unless we have entered into a data processing agreement with you in which case you would be the data controller and we would be the data processor.\nOur role may also differ depending on the specific situation involving Personal Information. We act in the capacity of a data controller when we ask you to submit your Personal Information that is necessary...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "c71be1d532c1871cc53f1a9cdbdc0ea91586c1a98c7325040418ec823152da2d",
+                "score": 0.00685048,
+                "excerpt": "Service Providers are given the information they need only in order to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their own marketing or other purposes.\nRetention of information\nWe will retain and use your Personal Information for the period necessary to comply with our legal obligations, to enforce our agreements, resolve disputes, and unless a longer retention period is required or permitted by law.\nWe may use any agg...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 985365789,
+            "url": "https://spiritualme.com/privacy_policy.html"
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 985365789,\n       \"url\": \"https://spiritualme.com/privacy_policy.html\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q4\",\n       \"question\": \"4. Can the user opt out of data collection or delete data?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, users can opt-out of data collection by requesting deletion of their Personal Information or opting out of the sale of Personal Information. The app assures that users who exercise their rights under the GDPR will not be discriminated against for doing so.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy clearly states that users can request the deletion of their Personal Information or opt-out of the sale of their Personal Information. It also mentions that users who exercise their rights under the GDPR will not face discrimination.\",\n       \"reference\": \"Furthermore, California residents have the right to request deletion of their Personal Information or opt-out of the sale of their Personal Information. To do so, simply contact us. We will not discriminate against you if you exercise your rights under the CCPA. URL: https://spiritualme.com/privacy_policy.html\",\n       \"URL: https://spiritualme.com/privacy_policy.html\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "4de25c06cac9e27ca1661e237c1fb63541ec7ccec0229fbe094984317a751674",
+                "score": 0.7970834,
+                "excerpt": "lodge a complaint with your local data protection authority. For more information, please contact your local data protection authority in the EEA. This provision is applicable provided that your Personal Information is processed by automated means and that the processing is based on your consent, on a contract which you are part of, or on pre-contractual obligations thereof.\nCalifornia privacy rights\nConsumers residing in California are afforded certain additional rights with respect to their Pe...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "20edc335ce8755b92c6c2614d341f0758782071321fb9dd6357d2ed1ee5260dd",
+                "score": 0.39030153,
+                "excerpt": "the European Union and European Economic Area. If any such transfer takes place, you can find out more by checking the relevant sections of this Policy or inquire with us using the information provided in the contact section.\nData protection rights under the GDPR\nIf you are a resident of the European Economic Area (“EEA”), you have certain data protection rights and we aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information. If you wish ...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "4ada5bea0954c33485fa6eb52ba7da2a2ebc0126d38d22bc5ba4765c4bf5b08f",
+                "score": 0.21157968,
+                "excerpt": "accuracy of your Personal Information is contested by you and we must verify its accuracy; the processing is unlawful, but you oppose the erasure of your Personal Information and request the restriction of its use instead; we no longer need your Personal Information for the purposes of processing, but you require it to establish, exercise or defend your legal claims; you have objected to processing pending the verification of whether our legitimate grounds override your legitimate grounds. Where...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "cd3e527bf9434bb3d8e49b449dc7e20559ed432483de32deedb50d88e439ba4a",
+                "score": 0.18892181,
+                "excerpt": "otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure such as where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, to exercise or d...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "1d2d39d6b95251c3a6ab126970da19d126344c5d3ce2c4fc5872dfd5575fe442",
+                "score": 0.104294725,
+                "excerpt": "you may not be able to take advantage of some of the features on the Services. Users who are uncertain about what information is mandatory are welcome to contact us.\nPrivacy of children\nWe do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through the Services. If you have reason to believe that a child under the age of 13 has provided Personal Information to us through the Services, p...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 985365789,
+            "url": "https://spiritualme.com/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with third parties under certain circumstances like processing payments, refunds, and handling complaints and queries related to payments and refunds.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share payment data with payment processors to process payments securely. These payment processors may collect personal information for payment processing purposes.",
+            "reference": "We will share payment data with the Payment Processors only to the extent necessary for the purposes of processing your payments, refunding such payments, and dealing with complaints and queries related to such payments and refunds. URL: https://spiritualme.com/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d0d45b36f1b6f569f3393a5ff43f60e382c722c21ddcd4f3353c67bab55cee96",
+                "score": 0.6354487,
+                "excerpt": "or other payment account information, which will be used solely for processing payments. We use third-party payment processors (“Payment Processors”) to assist us in processing your payment information securely.\nPayment Processors adhere to the latest security standards as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. Sensitive and private data exchange happens over a SSL secured communication channel and is...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "1348b1e6eec732a27fbb003d646ad377ef8d9ed41a2b232bf2f552c163ffb468",
+                "score": 0.2683658,
+                "excerpt": "handle all the steps in the payment process through their systems, including data collection and data processing. The Payment Processors’ use of your Personal Information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this Policy. We suggest that you review their respective privacy policies.\nDisclosure of information\nDepending on the requested Services or as necessary to complete any transaction or provide any Service you have r...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "4bebbe102a5193df9c2da3b52f104e53e47ce7d5f6700eb49e64826a58a4f815",
+                "score": 0.17681369,
+                "excerpt": "access, use, modification, and disclosure of Personal Information in our control and custody. However, no data transmission over the Internet or wireless network can be guaranteed.\nTherefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and the Services cannot be guaranteed; a...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "c71be1d532c1871cc53f1a9cdbdc0ea91586c1a98c7325040418ec823152da2d",
+                "score": 0.024376597,
+                "excerpt": "Service Providers are given the information they need only in order to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their own marketing or other purposes.\nRetention of information\nWe will retain and use your Personal Information for the period necessary to comply with our legal obligations, to enforce our agreements, resolve disputes, and unless a longer retention period is required or permitted by law.\nWe may use any agg...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "07863c758c80f979b0c55e0ee940af2521aa4552ad29052b7c88c1859203e89b",
+                "score": 0.020606475,
+                "excerpt": "is necessary for compliance with a legal obligation to which you are subject; (iv) processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.\nWe rely on the following legal bases as defined in the GDPR upon which we collect and process your Personal Information:\n- User’s consent\nNote that under some legislations we may ...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 985365789,
+            "url": "https://spiritualme.com/privacy_policy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Payment Processors, Service Providers",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Payment Processors",
+                        "Service Providers"
+                    ]
+                }
+            },
+            "analysis": "The app shares data with Payment Processors and Service Providers according to the privacy policy.",
+            "reference": "Payment Processors adhere to the latest security standards... We will share payment data with the Payment Processors only. ...URL: https://spiritualme.com/privacy_policy.html. Disclosure of information...we may share your information with our affiliates, ... Service Providers we rely upon to assist in the operation of the Services...URL: https://spiritualme.com/privacy_policy.html"
+        },
+        "source_documents": [
+            {
+                "id": "d0d45b36f1b6f569f3393a5ff43f60e382c722c21ddcd4f3353c67bab55cee96",
+                "score": 0.84632385,
+                "excerpt": "or other payment account information, which will be used solely for processing payments. We use third-party payment processors (“Payment Processors”) to assist us in processing your payment information securely.\nPayment Processors adhere to the latest security standards as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. Sensitive and private data exchange happens over a SSL secured communication channel and is...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "1348b1e6eec732a27fbb003d646ad377ef8d9ed41a2b232bf2f552c163ffb468",
+                "score": 0.4257843,
+                "excerpt": "handle all the steps in the payment process through their systems, including data collection and data processing. The Payment Processors’ use of your Personal Information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this Policy. We suggest that you review their respective privacy policies.\nDisclosure of information\nDepending on the requested Services or as necessary to complete any transaction or provide any Service you have r...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "4bebbe102a5193df9c2da3b52f104e53e47ce7d5f6700eb49e64826a58a4f815",
+                "score": 0.11920292,
+                "excerpt": "access, use, modification, and disclosure of Personal Information in our control and custody. However, no data transmission over the Internet or wireless network can be guaranteed.\nTherefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and the Services cannot be guaranteed; a...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "c71be1d532c1871cc53f1a9cdbdc0ea91586c1a98c7325040418ec823152da2d",
+                "score": 0.09825223,
+                "excerpt": "Service Providers are given the information they need only in order to perform their designated functions, and we do not authorize them to use or disclose any of the provided information for their own marketing or other purposes.\nRetention of information\nWe will retain and use your Personal Information for the period necessary to comply with our legal obligations, to enforce our agreements, resolve disputes, and unless a longer retention period is required or permitted by law.\nWe may use any agg...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            },
+            {
+                "id": "0c68a6cd85fa49757f1e0b004d3e95f6bbf96edef064ec7c6b472b4b7354e9d1",
+                "score": 0.089136936,
+                "excerpt": "may include selling, disclosing, or transferring Personal Information to another business or a third party for monetary or other valuable consideration. To do so, simply contact us. We will not discriminate against you if you exercise your rights under the CCPA.\nHow to exercise your rights\nAny requests to exercise your rights can be directed to us through the contact details provided in this document. Please note that we may ask you to verify your identity before responding to such requests. You...",
+                "url": "https://spiritualme.com/privacy_policy.html"
+            }
+        ]
+    }
+]

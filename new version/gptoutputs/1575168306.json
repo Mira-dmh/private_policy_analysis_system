@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1575168306,
+      "url": "https://metacognium.com/App_privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal information is collected when users register on the Services, express interest in obtaining information, participate in activities, or contact the company. The types of personal information collected may include names, email addresses, and passwords.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the collection of personal information provided by users.",
+          "content": "The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines that the app collects personal information from users based on their interactions with the Services.",
+      "reference": "WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575168306,
+      "url": "https://metacognium.com/App_privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that you voluntarily provide, which may include names, email addresses, and passwords. Additionally, if you use the application, it may collect application data such as push notifications if you provide access or permission.",
+        "simple_answer": "The app collects names, email addresses, passwords, and may collect application data like push notifications.",
+        "extended_simple_answer": {
+          "comment": "The app does not process sensitive personal information.",
+          "content": "The personal information collected depends on user interactions and choices, and it includes names, email addresses, and passwords. Application data may also be collected if permission is granted."
+        }
+      },
+      "analysis": "",
+      "reference": "WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575168306,
+      "url": "https://metacognium.com/App_privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information is processed to provide, improve, and administer the Services, communicate with users, for security and fraud prevention, and to comply with law. Additionally, it may process information for other purposes with user consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various reasons for processing personal information.",
+          "content": "The purposes include facilitating account creation, responding to user inquiries, sending administrative information, fulfilling orders, and protecting individual interests."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW DO WE PROCESS YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575168306,
+      "url": "https://metacognium.com/App_privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by turning off push notifications in their device's settings. Additionally, users can exercise their rights regarding their personal information by filling out a data subject request form or by contacting the company directly.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have the ability to manage their data preferences.",
+          "content": "Users can opt out of receiving push notifications by adjusting their device settings. They can also exercise their rights regarding their personal information by filling out a data subject request form or contacting the company."
+        }
+      },
+      "analysis": "The privacy policy provides mechanisms for users to manage their data preferences, including opting out of notifications and requesting data deletion.",
+      "reference": "WHAT ARE YOUR PRIVACY RIGHTS?; HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575168306,
+      "url": "https://metacognium.com/App_privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app may share information in specific situations and with specific third parties, but it does not receive any information from third parties.",
+        "simple_answer": "Yes, the app may share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app does not receive information from third parties, but it may share information under certain circumstances.",
+          "content": "We may share information in specific situations and with specific third parties."
+        }
+      },
+      "analysis": "The privacy policy indicates that while the app does not receive information from third parties, it does have the potential to share user information under certain conditions.",
+      "reference": "In what situations and with which parties do we share personal information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575168306,
+      "url": "https://metacognium.com/App_privacy_policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with any third parties.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that the app does not receive any information from third parties and does not share personal information with them.",
+          "content": "We do not receive any information from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that there is no sharing of personal information with third parties, ensuring user data remains private.",
+      "reference": "Do you receive any information from third parties?"
+    }
+  }
+]

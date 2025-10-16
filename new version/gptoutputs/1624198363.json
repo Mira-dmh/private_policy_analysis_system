@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1624198363,
+      "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that with the consent of schools and/or guardians, it collects various types of student information necessary to provide and evaluate its services, including student ID, attendance data, grades, demographic information, and more.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines the types of information collected from students, schools, and guardians.",
+          "content": "Clayful collects student information such as names, usernames/passwords, email addresses, phone numbers, and demographic data, as well as information from schools and guardians."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the consent required for such collection, ensuring transparency about data practices.",
+      "reference": "Section 1: Collection of information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1624198363,
+      "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data including student information (such as student ID, attendance data, grade level, grades, and demographic information like gender, date of birth, ethnicity, income level, living situation, and languages spoken), school user information (like names and email addresses of teachers and staff), guardians' information (names, emails, phone numbers, and addresses), and automatically generated information (such as IP address, browser type, and engagement data).",
+        "simple_answer": "The app collects student information, school user information, guardians' information, and automatically generated information.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of data to provide its services effectively.",
+          "content": "Student information includes ID, attendance, grades, and demographics. School user information includes names and emails. Guardians' information includes names and contact details. Automatically generated information includes IP addresses and usage data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Collection of information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1624198363,
+      "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. Clayful may use personal information for various purposes including connecting students with coaches, creating aggregated/anonymized information for business purposes, improving the Service, conducting research and development, providing customer support for Schools, and ensuring legal compliance. The policy explicitly states that students' information will not be used for marketing or other commercial purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines specific uses of personal information, ensuring transparency.",
+          "content": "Clayful may use personal information for coaching, creating aggregated/anonymized information, improving the Service, research and development, providing customer support, and legal compliance."
+        }
+      },
+      "analysis": "The privacy policy clearly articulates the various purposes for which data is collected and used, ensuring that users are informed about how their information will be utilized.",
+      "reference": "Section 2: Use of information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1624198363,
+      "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Guardians can request access to or deletion of children’s information under COPPA. However, since Clayful provides the Service to students on behalf of Schools, guardians should contact Schools with such requests. Clayful will forward any requests it receives to the appropriate School.",
+        "simple_answer": "Yes, guardians can request deletion of children's information through Schools.",
+        "extended_simple_answer": {
+          "comment": "Guardians have rights under COPPA regarding their children's data.",
+          "content": "Guardians can request access to or deletion of children’s information, but they must do so through the Schools, as Clayful acts on behalf of the Schools."
+        }
+      },
+      "analysis": "The policy indicates that while guardians have the right to request deletion of data, the process requires them to go through the Schools, which may limit direct control over data for users.",
+      "reference": "Section 4: Privacy Rights"
+    }
+  },
+  {
+    "meta": {
+      "id": 1624198363,
+      "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, Clayful shares personal information with third parties as necessary for them to help provide the Service, including hosting, chat, and analytics services. Additionally, information may be disclosed to professional advisors like lawyers and accountants, and as required by law or to ensure safety.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Clayful shares data primarily for service provision and legal compliance.",
+          "content": "Clayful may disclose information to third parties as necessary for them to help us provide the Service, including hosting, chat, and analytics services. Clayful may also disclose information to professional advisors and as required by law."
+        }
+      },
+      "analysis": "The app's data sharing practices are primarily focused on operational needs and legal compliance, ensuring that student privacy is maintained.",
+      "reference": "Section 3: Sharing of information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1624198363,
+      "url": "https://www.clayfulhealth.com/legal/student-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "Clayful shares personal information with third parties as necessary for them to help provide the Service, including hosting, chat, and analytics services. Additionally, Clayful may disclose information to professional advisors like lawyers and accountants where necessary. It may also be required to disclose personal information to law enforcement, government authorities, and other parties to comply with legal requests and ensure safety.",
+        "simple_answer": "Clayful shares data with service providers, professional advisors, and law enforcement as required.",
+        "extended_simple_answer": {
+          "comment": "Clayful takes privacy seriously and shares information only as necessary.",
+          "content": "Clayful shares personal information with service providers for hosting, chat, and analytics, with professional advisors for legal and financial services, and with law enforcement or authorities as required by law."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: Sharing of information"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1465984722,
+      "url": "https://www.checkingin.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of Personal Information in various ways, including when users set up an account, use the Apps, purchase products and services, or participate in programs, contests, promotions, or events. The policy states that CheckingIn collects Personal Information directly from users, through customers, and via technology.",
+        "simple_answer": "Yes, the app declares the collection of Personal Information.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines the methods of data collection and emphasizes transparency.",
+          "content": "CheckingIn collects Personal Information directly from users, through customers, and via technology when users engage with the app."
+        }
+      },
+      "analysis": "The privacy policy clearly states the various methods through which Personal Information is collected, ensuring users are informed about data collection practices.",
+      "reference": "Section 5: How We Collect Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1465984722,
+      "url": "https://www.checkingin.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects Personal Information, which includes information about an identifiable individual such as name, date of birth, and email address. It also includes non-personal information that is linked to Personal Information.",
+        "simple_answer": "The app collects Personal Information like name, date of birth, and email address.",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of Personal Information directly from users, through customers, and via technology.",
+          "content": "Personal Information includes identifiable information such as name, date of birth, and email address, as well as non-personal information linked to Personal Information."
+        }
+      },
+      "analysis": "The privacy policy clearly defines Personal Information and outlines the types of data collected, emphasizing the importance of identifiable information.",
+      "reference": "Section 2: Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1465984722,
+      "url": "https://www.checkingin.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that CheckingIn will not collect, use, or share Personal Information without first obtaining consent, and it outlines that consent is required for new purposes or purposes other than those stated at the time of collection. The policy also mentions that it will inform users about the collection, use, and sharing of Personal Information in connection with specific products, services, programs, contests, promotions, or events.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes transparency regarding the collection and use of Personal Information.",
+          "content": "The policy explains that CheckingIn will obtain consent for the collection and use of Personal Information and will inform users about the purposes for which their data is being collected."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the need for consent and the purposes for which Personal Information is collected, ensuring users are informed about data practices.",
+      "reference": "Section 4: Consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 1465984722,
+      "url": "https://www.checkingin.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can withdraw their consent for certain purposes, which may limit the collection of their Personal Information. However, if users choose not to provide certain Personal Information or withdraw their consent, CheckingIn may not be able to offer them the products, services, programs, contests, promotions, events, or information that they requested. Additionally, users can contact CheckingIn to withdraw or limit their consent, but it may take some time for all records to reflect changes in their preferences.",
+        "simple_answer": "Yes, users can opt out by withdrawing their consent.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to withdraw consent, but this may affect the services they can receive.",
+          "content": "Users can withdraw their consent for certain purposes, which may limit the collection of their Personal Information. They can contact CheckingIn to manage their consent preferences."
+        }
+      },
+      "analysis": "The policy allows users to opt out of certain data collection practices by withdrawing their consent, but this may impact the services they can access.",
+      "reference": "Section 4: Consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 1465984722,
+      "url": "https://www.checkingin.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share Personal Information with third parties as described in the privacy policy. However, it is important to note that the policy emphasizes that CheckingIn will not collect, use, or share Personal Information without first obtaining consent, unless permitted or required by law.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is subject to obtaining consent.",
+          "content": "The app may share Personal Information with third parties, but only after obtaining consent unless required by law."
+        }
+      },
+      "analysis": "The privacy policy indicates that data sharing with third parties is contingent upon obtaining user consent, ensuring that users are aware of how their information is handled.",
+      "reference": "Section 4: Consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 1465984722,
+      "url": "https://www.checkingin.co/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It states that CheckingIn may share Personal Information with third parties as necessary to provide services, comply with legal obligations, or protect rights and safety. However, specific third-party entities are not listed in the policy.",
+        "simple_answer": "The policy does not specify particular third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy mentions sharing data as necessary but does not provide names of third parties.",
+          "content": "CheckingIn may share Personal Information with third parties as necessary for services, legal obligations, or safety, but does not list specific entities."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy suggests a general approach to data sharing, which may vary based on circumstances.",
+      "reference": "Section 1: Scope & Interpretation; Section 4: Consent"
+    }
+  }
+]

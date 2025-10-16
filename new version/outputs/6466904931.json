@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 6466904931,
+            "url": "https://www.empidream.com/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data.",
+            "reference": "This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service. URL: https://www.empidream.com/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "1b8d6f914459ec7879f2882e73c2cd6d71adaabe02df82d125b3c240fe0f9b71",
+                "score": 0.011201214,
+                "excerpt": "of the Service or the public\nProtect against legal liability\nSecurity of Your Personal Data\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nDetailed Information on the Processing of Your Personal Data The Service Providers We use may have access to Your P...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "fa1195002d71d2173098ecaeb3d39473eb16a627a21d4e5a0fa78ada6375d086",
+                "score": 0.009340025,
+                "excerpt": "Privacy Policy\nLast updated: May 13, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nInterpretation and Definitions\nInterpretation\nThe words of which the ini...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "1e2db0e764bb1f44ed2ca6c576d51e89532f347059a5b96ee070b69fa3c739e4",
+                "score": 0.008283626,
+                "excerpt": "type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https:// policies.google.com/technologies/partner-sites\nMixpanel\nMixpanel is provided by Mixpanel Inc.\nYou can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit this page: https:// mixpanel.com/optout/\nFor more information on what type of information Mixpanel collects, please visit the Terms of...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "0314c11f78ad9460f68d3884cf24272981b69af02cdbdd52e2c0d45607e05fa0",
+                "score": 0.007232764,
+                "excerpt": "(FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994\nSources of Personal Information\nWe obtain the categories of personal information listed above from the following categories of sources:\nDirectly from You. For example, from the forms You complete on our Service, preferences You express or provide through our Service.\nIndirectly from You. For example, from observing Your activity on our Service.\nAutomat...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "ffe59db5be29c6c10559dd3c57d2583ce3dfffef65fa2c4a91ed6b237f6503e5",
+                "score": 0.0061212815,
+                "excerpt": "the Personal Data is being used.\n• The right to know/access. Under CCPA/CPRA, You have the right to request that We disclose information to You about Our collection, use, sale, disclosure for business purposes and share of personal information. Once We receive and confirm Your request, We will disclose to You:\n• The categories of personal information We collected about You\n• The categories of sources for the personal information We collected about You\n• Our business or commercial purposes for co...",
+                "url": "https://www.empidream.com/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466904931,
+            "url": "https://www.empidream.com/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personally identifiable information such as email address and usage data automatically. This includes information like IP addresses, browser type, pages visited, unique device identifiers, and more.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Email address",
+                        "Usage Data including IP addresses, browser type, pages visited, unique device identifiers, etc."
+                    ]
+                }
+            },
+            "analysis": "Based on the 'Types of Data Collected' section in the privacy policy, the app collects personally identifiable information like email addresses and automatically collected usage data.",
+            "reference": "While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to: Email address, Usage Data including IP addresses, browser type, browser version, pages visited, time and date of visit, time spent on pages, unique device identifiers, and other diagnostic data. When You access the Service by or through a mobile device, We may collect certain information automatically...URL: https://www.empidream.com/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "1e2db0e764bb1f44ed2ca6c576d51e89532f347059a5b96ee070b69fa3c739e4",
+                "score": 0.31869715,
+                "excerpt": "type of information Firebase collects, please visit the How Google uses data when you use our partners' sites or apps webpage: https:// policies.google.com/technologies/partner-sites\nMixpanel\nMixpanel is provided by Mixpanel Inc.\nYou can prevent Mixpanel from using your information for analytics purposes by opting-out. To opt-out of Mixpanel service, please visit this page: https:// mixpanel.com/optout/\nFor more information on what type of information Mixpanel collects, please visit the Terms of...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "dad47dd2ad507b9ca852484a957a20122c2c7c2a81499399febd5d1c7c996e27",
+                "score": 0.22970797,
+                "excerpt": "domiciled in the USA who is outside the USA for a temporary or transitory purpose.\nCountry refers to: Delaware, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates to an identified or identifiable individual.\nFor the purposes of the CCPA/CPRA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linke...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "7df4bdd5d54c257be33c8e2dea4b0b92b8f638be84a61753b15e38408913f410",
+                "score": 0.21634248,
+                "excerpt": "a page visit).\nYou means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nCollecting and Using Your Personal Data\nTypes of Data Collected\nPersonal Data\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nEmail a...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "1b8d6f914459ec7879f2882e73c2cd6d71adaabe02df82d125b3c240fe0f9b71",
+                "score": 0.20995522,
+                "excerpt": "of the Service or the public\nProtect against legal liability\nSecurity of Your Personal Data\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nDetailed Information on the Processing of Your Personal Data The Service Providers We use may have access to Your P...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "0314c11f78ad9460f68d3884cf24272981b69af02cdbdd52e2c0d45607e05fa0",
+                "score": 0.057176597,
+                "excerpt": "(FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994\nSources of Personal Information\nWe obtain the categories of personal information listed above from the following categories of sources:\nDirectly from You. For example, from the forms You complete on our Service, preferences You express or provide through our Service.\nIndirectly from You. For example, from observing Your activity on our Service.\nAutomat...",
+                "url": "https://www.empidream.com/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466904931,
+            "url": "https://www.empidream.com/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that the company may use Personal Data for specific purposes such as maintaining the service, managing user accounts, contacting users for various reasons, and providing news and information about goods and services offered. These statements define the purposes of data collection and use.",
+            "reference": "The Company may use Personal Data for the following purposes: To provide and maintain our Service, including to monitor the usage of our Service. To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user. For the performance of a contract: the development, compliance, and undertaking of the purchase contract for the products, items, or services You have purchased or of any other contract with Us through the Service... URL: https://www.empidream.com/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "fa1195002d71d2173098ecaeb3d39473eb16a627a21d4e5a0fa78ada6375d086",
+                "score": 0.07463504,
+                "excerpt": "Privacy Policy\nLast updated: May 13, 2024\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.\nInterpretation and Definitions\nInterpretation\nThe words of which the ini...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "0314c11f78ad9460f68d3884cf24272981b69af02cdbdd52e2c0d45607e05fa0",
+                "score": 0.063134894,
+                "excerpt": "(FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994\nSources of Personal Information\nWe obtain the categories of personal information listed above from the following categories of sources:\nDirectly from You. For example, from the forms You complete on our Service, preferences You express or provide through our Service.\nIndirectly from You. For example, from observing Your activity on our Service.\nAutomat...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "0acb9f6d52ea244ff191fbf412132109f7262f5fe93f4a07b12185cd67f2d047",
+                "score": 0.03149938,
+                "excerpt": "mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nUse of Your Personal Data\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Yo...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "dad47dd2ad507b9ca852484a957a20122c2c7c2a81499399febd5d1c7c996e27",
+                "score": 0.02865267,
+                "excerpt": "domiciled in the USA who is outside the USA for a temporary or transitory purpose.\nCountry refers to: Delaware, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any information that relates to an identified or identifiable individual.\nFor the purposes of the CCPA/CPRA, Personal Data means any information that identifies, relates to, describes or is capable of being associated with, or could reasonably be linke...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "ffe59db5be29c6c10559dd3c57d2583ce3dfffef65fa2c4a91ed6b237f6503e5",
+                "score": 0.024940254,
+                "excerpt": "the Personal Data is being used.\n• The right to know/access. Under CCPA/CPRA, You have the right to request that We disclose information to You about Our collection, use, sale, disclosure for business purposes and share of personal information. Once We receive and confirm Your request, We will disclose to You:\n• The categories of personal information We collected about You\n• The categories of sources for the personal information We collected about You\n• Our business or commercial purposes for co...",
+                "url": "https://www.empidream.com/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466904931,
+            "url": "https://www.empidream.com/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users have the right to delete personal data under certain circumstances. Users can also request to limit the use or disclosure of sensitive personal information.",
+            "reference": "You have the right to delete Personal Data. You have the right to request the deletion of Your Personal Data under certain circumstances, subject to certain exceptions. Once We receive and confirm Your request, We will delete (and direct Our Service Providers to delete) Your personal information from our records, unless an exception applies. URL: https://www.empidream.com/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "7adcc03ba367fc8ccae1dd0ce310dd6c9d125b997adee1cbf20c5e880e7b8fec",
+                "score": 0.9785493,
+                "excerpt": "opt-out request, please see the \"Do Not Sell My Personal Information\" section or contact Us.\n• The right to correct Personal Data. You have the right to correct or rectify any inaccurate personal information about You that We collected. Once We receive and confirm Your request, We will use commercially reasonable efforts to correct (and direct our Service Providers to correct) Your personal information, unless an exception applies.\n• The right to limit use and disclosure of sensitive Personal Da...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "d0eea7da0de73cfe781770c2c3c2ec30e4e7a75f1015a1b061d9240df9ec6b66",
+                "score": 0.8614217,
+                "excerpt": "of Consumers We actually know are less than 16 years of age, unless We receive affirmative authorization (the \"right to opt-in\") from either the Consumer who is between 13 and 16 years of age, or the parent or guardian of a Consumer less than 13 years of age. Consumers who opt-in to the sale of personal information may opt-out of future sales at any time. To exercise the right to opt-out, You (or Your authorized representative) may submit a request to Us by contacting Us.\nIf You have reason to b...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "7fbb9cf877ca15e10c856ea55e62b6816bec4c74b4e3c4111f7e4c21a3041a1a",
+                "score": 0.6040486,
+                "excerpt": "each browser that You use to access the Service.\nAdditionally, You can opt out of receiving ads that are personalized as served by our Service Providers by following our instructions presented on the Service:\nThe NAI's opt-out platform: http://www.networkadvertising.org/choices/\nThe EDAA's opt-out platform http://www.youronlinechoices.com/\nThe DAA's opt-out platform: http://optout.aboutads.info/?c=2&lang=EN\nThe opt out will place a cookie on Your computer that is unique to the browser You use to...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "b657fc3d67687f4e49a5efd2a87a6c5ef9e72b32601567ca3e5b73c279d9ff62",
+                "score": 0.5593803,
+                "excerpt": "on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place t...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "d87edecbc93127dead8ae297d93a53f236745be08a6ddb69b0b4151cf0fef420",
+                "score": 0.52754474,
+                "excerpt": "right to opt-out of the sale of Your personal information. Once We receive and confirm a verifiable consumer request from You, we will stop selling Your personal information. To exercise Your right to opt-out, please contact Us.\nThe Service Providers we partner with (for example, our analytics or advertising partners) may use technology on the Service that sells personal information as defined by the CCPA/ CPRA law. If you wish to opt out of the use of Your personal information for interest-base...",
+                "url": "https://www.empidream.com/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466904931,
+            "url": "https://www.empidream.com/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as stated in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app shares personal information with service providers, business partners, affiliates, and other users.",
+            "reference": "We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You. For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company. With Affiliates: We may share Your information with Our affiliates... With business partners: We may share Your information with Our business partners... With other users: when You share personal information or otherwise interact in the public areas with other users, such information... With Your consent: We may disclose Your personal information for any other purpose with Your consent. URL: https://www.empidream.com/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "1b8d6f914459ec7879f2882e73c2cd6d71adaabe02df82d125b3c240fe0f9b71",
+                "score": 0.22405547,
+                "excerpt": "of the Service or the public\nProtect against legal liability\nSecurity of Your Personal Data\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nDetailed Information on the Processing of Your Personal Data The Service Providers We use may have access to Your P...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "fa8d4e2d2da71207276bdfcb5495538e1c44366b4f0c8286172d4588547029ef",
+                "score": 0.14511536,
+                "excerpt": "personal information in the following situations:\nWith Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.\nFor business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.\nWith Affiliates: We may share Your information with Our affil...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "0314c11f78ad9460f68d3884cf24272981b69af02cdbdd52e2c0d45607e05fa0",
+                "score": 0.1322902,
+                "excerpt": "(FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994\nSources of Personal Information\nWe obtain the categories of personal information listed above from the following categories of sources:\nDirectly from You. For example, from the forms You complete on our Service, preferences You express or provide through our Service.\nIndirectly from You. For example, from observing Your activity on our Service.\nAutomat...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "c074c68caba6fabc32869c68f397df3644d1f4281e54cdacd5b43b21f187ada9",
+                "score": 0.1187934,
+                "excerpt": "communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business tra...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "6a1ab34ed3c6297cdc8c106ee6e613442ea8926cdeea3dd21d304a57dc84be49",
+                "score": 0.078925885,
+                "excerpt": "processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.\nLinks to Other Websites\nOur Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.\nWe have no control over and assume no responsibility for the content, privacy p...",
+                "url": "https://www.empidream.com/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6466904931,
+            "url": "https://www.empidream.com/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Service Providers, Our affiliates, Our business partners, and third-party vendors authorized by the user or their agents. It may also share data with other third parties as outlined in the privacy policy.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service Providers",
+                        "Our affiliates",
+                        "Our business partners",
+                        "Third party vendors authorized by the user or their agents"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific mentions of sharing data with various third parties in different sections of the privacy policy document.",
+            "reference": "Categories with the following categories of third parties: Service Providers, Our affiliates, Our business partners, Third party vendors to whom You or Your agents authorize Us to disclose Your personal information in connection with products or services We provide to You. URL: https://www.empidream.com/privacypolicy",
+            "content": "https://www.empidream.com/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "fa8d4e2d2da71207276bdfcb5495538e1c44366b4f0c8286172d4588547029ef",
+                "score": 0.6445608,
+                "excerpt": "personal information in the following situations:\nWith Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.\nFor business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.\nWith Affiliates: We may share Your information with Our affil...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "5ba4223dcc7477ac2512e854b76338876f3ea9887cea381eb723a6dc902d613c",
+                "score": 0.6199316,
+                "excerpt": "categories with the following categories of third parties:\nService Providers\nOur affiliates\nOur business partners\nThird party vendors to whom You or Your agents authorize Us to disclose Your personal information in connection with products or services We provide to You\nSale of Personal Information\nAs defined in the CCPA/CPRA, \"sell\" and \"sale\" mean selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in\nwriting, or by electron...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "c074c68caba6fabc32869c68f397df3644d1f4281e54cdacd5b43b21f187ada9",
+                "score": 0.4051545,
+                "excerpt": "communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business tra...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "92c2984c128f266af8f0d8b17d3ac6293a6b1c2212555acec89c677d5d864bad",
+                "score": 0.34609914,
+                "excerpt": "or disclose and may have used or disclosed in the last twelve (12) months the following categories of personal information for business or commercial purposes:\nCategory A: Identifiers\nCategory B: Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))\nCategory F: Internet or other similar network activity\nPlease note that the categories listed above are those defined in the CCPA/CPRA. This does not mean that all examples of that category of...",
+                "url": "https://www.empidream.com/privacypolicy"
+            },
+            {
+                "id": "1b8d6f914459ec7879f2882e73c2cd6d71adaabe02df82d125b3c240fe0f9b71",
+                "score": 0.25720495,
+                "excerpt": "of the Service or the public\nProtect against legal liability\nSecurity of Your Personal Data\nThe security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nDetailed Information on the Processing of Your Personal Data The Service Providers We use may have access to Your P...",
+                "url": "https://www.empidream.com/privacypolicy"
+            }
+        ]
+    }
+]

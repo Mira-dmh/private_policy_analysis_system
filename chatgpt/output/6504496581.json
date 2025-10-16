@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6504496581,
+      "url": "https://unfairadvantage.mykajabi.com/bma-privacy-page",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that several types of information are collected from users, including personal information, preferences, demographics, geolocation, and usage details, among others. This information is collected both directly from users and automatically as they use the Mobile App.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the methods of collection.",
+          "content": "The app collects personal information, preferences, demographics, geolocation, and usage details, both directly from users and automatically."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504496581,
+      "url": "https://unfairadvantage.mykajabi.com/bma-privacy-page",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of information from and about users, including personal information such as name, postal address, email address, phone number, and other identifiers. It also collects information you submit, preferences and demographics, geolocation data, internet connection details, account information, chat and messaging data, occupation history, date of birth, credit card and payment processing information, financial information, and gender.",
+        "simple_answer": "The app collects personal information, preferences, geolocation, account details, and financial information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to enhance user experience and service delivery.",
+          "content": "Types of data collected include personal identifiers, preferences, geolocation, internet connection details, account information, chat data, occupation history, date of birth, payment information, and gender."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504496581,
+      "url": "https://unfairadvantage.mykajabi.com/bma-privacy-page",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide the Mobile App and its contents, process transactions, register users, provide marketing and promotions, offer customer support, and fulfill obligations arising from contracts.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific purposes for collecting user information.",
+          "content": "The information is used to provide the Mobile App and its contents, process transactions, register users, provide marketing and promotions, offer customer support, and fulfill contractual obligations."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504496581,
+      "url": "https://unfairadvantage.mykajabi.com/bma-privacy-page",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Users can choose not to provide certain information, but this may limit their ability to take advantage of many features or opportunities. Additionally, if a user believes that a child under 18 has provided personal information, they can contact the Company to have that information deleted.",
+        "simple_answer": "Users can opt out of providing certain information, but this may limit their use of the app. They can also request deletion of data if it involves a child under 18.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of providing some data, they cannot fully opt out of data collection if they wish to use the app.",
+          "content": "Users can choose not to provide certain information, but this may limit their ability to take advantage of many features or opportunities. If a user believes that a child under 18 has provided personal information, they can contact the Company to have that information deleted."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of providing certain information, but it does not provide a comprehensive opt-out mechanism for all data collection. Users can request deletion of data related to children under 18.",
+      "reference": "Information We Collect and How We Collect It; Users Must Be At Least 18"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504496581,
+      "url": "https://unfairadvantage.mykajabi.com/bma-privacy-page",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with its affiliates within the corporate family, agents, third party vendors, service providers, and business partners. Additionally, the Company may disclose aggregated user statistics to describe its services to current and prospective business partners and other third parties for lawful purposes.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares both aggregated data and specific user information with various third parties.",
+          "content": "The Company may share data with affiliates, agents, vendors, service providers, and business partners, and may disclose aggregated user statistics."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It; Automatically Collected Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504496581,
+      "url": "https://unfairadvantage.mykajabi.com/bma-privacy-page",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with its affiliates within the corporate family, agents, third party vendors, service providers, and business partners. Additionally, aggregated user statistics may be disclosed to current and prospective business partners and other third parties for lawful purposes.",
+        "simple_answer": "The app shares data with affiliates, agents, third party vendors, service providers, and business partners.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with various third parties for operational and analytical purposes.",
+          "content": "Data may be shared with affiliates, agents, third party vendors, service providers, and business partners, as well as for aggregated user statistics."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It; Automatically Collected Information"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6450326411,
+      "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personal information, health information, electronic identifiers, cookies, non-identifiable information, and usage data.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app specifies various types of data it collects to personalize user experience and support mental health management.",
+          "content": "The app collects personal information such as name, email, gender, and health information related to mental health concerns. It also collects electronic identifiers, cookies, non-identifiable information, and usage data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, emphasizing the commitment to user privacy and data protection.",
+      "reference": "Section 2: Processing your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450326411,
+      "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including: Personal Information (such as name, email address, gender, country, city, state, and age bracket), Health Information (related to mental health concerns and symptoms), Electronic Identifiers (like IP address, mobile device UDID, IMEI numbers, operating system, browser type, and screen size), Cookies (to improve user experience), Non-identifiable Information (aggregated data sets that do not reveal specific identities), and Usage Data (automatically collected behavioral data and device information).",
+        "simple_answer": "The app collects Personal Information, Health Information, Electronic Identifiers, Cookies, Non-identifiable Information, and Usage Data.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The app gathers various types of data to personalize user experience and support mental health management, including identifiable personal data and non-identifiable aggregated data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Processing your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450326411,
+      "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it processes user data in order to provide a program of personalised tools for self-managing mental health concerns and to support the delivery of that program.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The purpose of data collection is to personalize the user experience and support mental health management."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Processing your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450326411,
+      "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of external communications (such as email and push notifications) at any time. Additionally, users can request to opt out of their data being included in aggregated data sets shared with research partners by emailing hello@mindsethealth.com. However, the policy does not explicitly mention a process for deleting personal data.",
+        "simple_answer": "Yes, users can opt out of certain data collection and communications.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of external communications and aggregated data sharing, the policy does not specify a clear method for deleting personal data.",
+          "content": "Users can opt out of external communications at any time and can request to opt out of their data being included in aggregated data sets by emailing hello@mindsethealth.com."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of certain types of data collection and communications, but it lacks a clear process for deleting personal data.",
+      "reference": "Section 2: Processing your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450326411,
+      "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Mindset Health does not disclose Personal Information to third parties for any purpose materially different from the purpose(s) for which it was originally collected. However, there are instances where identifiable health information may be disclosed at the user's request, and in connection with providing services and internal operations, which may include sharing information with employers or health plans if accessed through those channels.",
+        "simple_answer": "No, the app does not share Personal Information with third parties for different purposes, but may share data at the user's request or for internal operations.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares data under specific circumstances.",
+          "content": "Mindset Health will never sell or rent identifiable health information and has safeguards to protect it. Disclosure may occur at the user's request or for internal operations, including sharing with employers or health plans."
+        }
+      },
+      "analysis": "The privacy policy emphasizes the protection of user data and limits sharing to specific circumstances, ensuring user consent and confidentiality.",
+      "reference": "Section 3: Who has access to that data?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450326411,
+      "url": "https://www.mindsethealth.com/legal/claria-privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not disclose Personal Information to third parties for any purpose materially different from the purpose(s) for which it was originally collected. However, it may share information with trusted suppliers who help deliver the services associated with the System, and in connection with providing services, for internal operations, and possibly with your employer’s wellness program, your health plan, or third-party administrators.",
+        "simple_answer": "The app shares data with trusted suppliers and may share information with your employer’s wellness program or health plan.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to maintaining the confidentiality of your identifiable health information and does not sell or rent it.",
+          "content": "The app may share data with trusted suppliers for service delivery and may disclose information to your employer’s wellness program or health plan."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: Who has access to that data?"
+    }
+  }
+]

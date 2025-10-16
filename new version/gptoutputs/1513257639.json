@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1513257639,
+      "url": "https://www.clearful.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that it collects personal information that you provide directly, as well as information that is automatically collected when you use the app.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about its data collection practices.",
+          "content": "The privacy policy outlines that personal information is collected directly from users and also through automated means."
+        }
+      },
+      "analysis": "The app's privacy policy clearly states its data collection practices, ensuring users are informed about what data is being collected.",
+      "reference": "Section on Data Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 1513257639,
+      "url": "https://www.clearful.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data such as your name, email address, and any other information you provide when you create an account or use the app. It may also collect usage data, including information about how you interact with the app, device information, and log data.",
+        "simple_answer": "The app collects personal data like name and email, as well as usage data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers both personal and usage data to enhance user experience.",
+          "content": "Personal data includes your name and email address, while usage data encompasses how you interact with the app, device information, and log data."
+        }
+      },
+      "analysis": "The collection of both personal and usage data is common in apps to improve functionality and user experience.",
+      "reference": "Section on Data Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 1513257639,
+      "url": "https://www.clearful.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that the information collected is used to provide and improve the service, communicate with users, and for other operational purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app outlines its data collection purposes clearly.",
+          "content": "The information collected is used to provide and enhance the service, communicate with users, and for operational purposes."
+        }
+      },
+      "analysis": "The privacy policy explicitly states the reasons for data collection, ensuring transparency with users regarding how their data will be utilized.",
+      "reference": "Section: Purpose of Data Collection"
+    }
+  },
+  {
+    "meta": {
+      "id": 1513257639,
+      "url": "https://www.clearful.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and can also request the deletion of their data. The privacy policy states that users have the right to request the deletion of their personal information and can opt out of certain data collection practices.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal information.",
+          "content": "The privacy policy provides users with the ability to request deletion of their personal data and to opt out of data collection."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal data, allowing for both opting out of data collection and requesting data deletion.",
+      "reference": "Section on User Rights and Data Management"
+    }
+  },
+  {
+    "meta": {
+      "id": 1513257639,
+      "url": "https://www.clearful.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties except as required by law or to protect the rights and safety of the app and its users.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares data under specific circumstances.",
+          "content": "According to the privacy policy, personal data is not shared with third parties unless it is necessary for legal compliance or to ensure the safety and rights of the app and its users."
+        }
+      },
+      "analysis": "The privacy policy clearly states the conditions under which data may be shared, emphasizing user privacy.",
+      "reference": "Section: Data Sharing"
+    }
+  },
+  {
+    "meta": {
+      "id": 1513257639,
+      "url": "https://www.clearful.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party service providers that assist in providing the service, such as analytics providers and cloud storage services.",
+        "simple_answer": "The app shares data with third-party service providers.",
+        "extended_simple_answer": {
+          "comment": "The app utilizes third-party services to enhance its functionality and user experience.",
+          "content": "These third-party service providers may include analytics providers and cloud storage services."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Data Sharing"
+    }
+  }
+]

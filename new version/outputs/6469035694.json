@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 6469035694,
+            "url": "https://www.progressmagic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects various types of personal information.",
+            "reference": "In our journey to offer exceptional therapy and coaching services, we gather various types of information: Personal Identification Details, Sensitive Health Information, Financial Transactions, Digital Footprints. URL: https://www.progressmagic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d9d97d9d41ccee464b3730d04c05ee3a495d21cf20dbcd7fe0052806bf172eed",
+                "score": 0.14104463,
+                "excerpt": "At Progress Magic, we deeply value the trust you place in us when you use our therapy and coaching services. This Privacy Policy is a testament to our dedication to safeguarding your personal information and respecting your privacy rights. It's tailored to meet the high standards set by Singapore's Personal Data Protection Act(PDPA), the EU's General Data Protection Regulation (GDPR), and other relevant privacy laws.\n1. Understanding the Data We Collect\nIn our journey to offer exceptional therap...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "807533db464eb0ea6b60ead1e90c7f0a3f428da3daadf527101532761418c16b",
+                "score": 0.042009056,
+                "excerpt": "user experience\n2. Scope of This Policy\nOur Privacy Policy outlines how we collect, use, share, and protect your personal information. It also explains your rights regarding your personal information and how you can exercise them. We aim to be transparent about our data practices and respect your privacy preferences.\nPlease understand that this Privacy Policy does not constitute a contract between you and Progress Magic nor does it create any legal rights or obligations. It serves as a declarati...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "03976e2be3b9641c4bbbd2b3e3be2c392782986403fbcd50f75238c25fe8f2fb",
+                "score": 0.019456575,
+                "excerpt": "to manage their practice, the personal information of clients is ultimately owned by the clients themselves. Clients have the right to request data deletion at any time, reflecting our commitment to privacy and data autonomy.\n4.2.2 Personal Information Collected by Progress Magic\nIn addition to the data provided or entered by your professional, Progress Magic directly collects certain types of personal information from clients to enhance the user experience and ensure the smooth operation of our...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "dadb59e50ce20add34affe3ecd53711acf261e8a428cd0ba7fe6e04cc60a586e",
+                "score": 0.01584536,
+                "excerpt": "users. Their personal information is processed within our platform to facilitate the provision of services by the professionals.\n- Marketing Website Users: Individuals who visit the Progress Magic website prior to logging in or creating an account. This group includes professionals exploring our platform and other visitors seeking information about Progress Magic.\n4. Types of Personal Information Progress Magic Collects\nWe understand the importance of keeping your data within trusted circles. He...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "fe7c8af39745ccb2c100f50496e92a67eee9d85cc7f034ec3bfb9f58a6deef02",
+                "score": 0.013902059,
+                "excerpt": "card details)\n- Information entered into the app, such as notes about your clients\n4.1.2 Source of Personal Information:\nWe collect this personal information directly from you, the professional user, ensuring accuracy and relevance to your needs and our service offerings.\n4.1.3 Purposes for Using Your Personal Information:\nWe utilize your personal information for several key purposes:\n- Personal identification and professional communication\n- Processing orders, subscriptions, and payment transac...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6469035694,
+            "url": "https://www.progressmagic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personal Identification Details, Sensitive Health Information, Financial Transactions, and Digital Footprints.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal Identification Details",
+                        "Sensitive Health Information",
+                        "Financial Transactions",
+                        "Digital Footprints"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly outlines the types of data collected by the app, ranging from personal identification details to digital footprints, indicating a broad range of data collection practices.",
+            "reference": "Personal Identification Details: Your name, contact information, and professional details are the keystones that help us personalize our services. Sensitive Health Information: We understand the delicacy of mental health and therapy details you share with us and we treat this data with the utmost care. Financial Transactions: Your payment and billing information are crucial for seamless service delivery, and we handle these with high-security standards. Digital Footprints: As you navigate our platform, technical data like IP addresses and usage statistics are collected to enhance your user experience. URL: https://www.progressmagic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d9d97d9d41ccee464b3730d04c05ee3a495d21cf20dbcd7fe0052806bf172eed",
+                "score": 0.6972998,
+                "excerpt": "At Progress Magic, we deeply value the trust you place in us when you use our therapy and coaching services. This Privacy Policy is a testament to our dedication to safeguarding your personal information and respecting your privacy rights. It's tailored to meet the high standards set by Singapore's Personal Data Protection Act(PDPA), the EU's General Data Protection Regulation (GDPR), and other relevant privacy laws.\n1. Understanding the Data We Collect\nIn our journey to offer exceptional therap...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "dadb59e50ce20add34affe3ecd53711acf261e8a428cd0ba7fe6e04cc60a586e",
+                "score": 0.3198645,
+                "excerpt": "users. Their personal information is processed within our platform to facilitate the provision of services by the professionals.\n- Marketing Website Users: Individuals who visit the Progress Magic website prior to logging in or creating an account. This group includes professionals exploring our platform and other visitors seeking information about Progress Magic.\n4. Types of Personal Information Progress Magic Collects\nWe understand the importance of keeping your data within trusted circles. He...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "03976e2be3b9641c4bbbd2b3e3be2c392782986403fbcd50f75238c25fe8f2fb",
+                "score": 0.22936256,
+                "excerpt": "to manage their practice, the personal information of clients is ultimately owned by the clients themselves. Clients have the right to request data deletion at any time, reflecting our commitment to privacy and data autonomy.\n4.2.2 Personal Information Collected by Progress Magic\nIn addition to the data provided or entered by your professional, Progress Magic directly collects certain types of personal information from clients to enhance the user experience and ensure the smooth operation of our...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "fe7c8af39745ccb2c100f50496e92a67eee9d85cc7f034ec3bfb9f58a6deef02",
+                "score": 0.048047356,
+                "excerpt": "card details)\n- Information entered into the app, such as notes about your clients\n4.1.2 Source of Personal Information:\nWe collect this personal information directly from you, the professional user, ensuring accuracy and relevance to your needs and our service offerings.\n4.1.3 Purposes for Using Your Personal Information:\nWe utilize your personal information for several key purposes:\n- Personal identification and professional communication\n- Processing orders, subscriptions, and payment transac...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "807533db464eb0ea6b60ead1e90c7f0a3f428da3daadf527101532761418c16b",
+                "score": 0.022542967,
+                "excerpt": "user experience\n2. Scope of This Policy\nOur Privacy Policy outlines how we collect, use, share, and protect your personal information. It also explains your rights regarding your personal information and how you can exercise them. We aim to be transparent about our data practices and respect your privacy preferences.\nPlease understand that this Privacy Policy does not constitute a contract between you and Progress Magic nor does it create any legal rights or obligations. It serves as a declarati...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6469035694,
+            "url": "https://www.progressmagic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the multiple purposes for using personal information, such as personal identification and professional communication, processing orders, analyzing user experience, and managing disputes among others.",
+            "reference": "We utilize your personal information for several key purposes: Personal identification and professional communication, Processing orders, subscriptions, and payment transactions, Administrative record-keeping, Conducting internal analyses, Managing disputes. URL: https://www.progressmagic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "fe7c8af39745ccb2c100f50496e92a67eee9d85cc7f034ec3bfb9f58a6deef02",
+                "score": 0.37771282,
+                "excerpt": "card details)\n- Information entered into the app, such as notes about your clients\n4.1.2 Source of Personal Information:\nWe collect this personal information directly from you, the professional user, ensuring accuracy and relevance to your needs and our service offerings.\n4.1.3 Purposes for Using Your Personal Information:\nWe utilize your personal information for several key purposes:\n- Personal identification and professional communication\n- Processing orders, subscriptions, and payment transac...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "807533db464eb0ea6b60ead1e90c7f0a3f428da3daadf527101532761418c16b",
+                "score": 0.23633993,
+                "excerpt": "user experience\n2. Scope of This Policy\nOur Privacy Policy outlines how we collect, use, share, and protect your personal information. It also explains your rights regarding your personal information and how you can exercise them. We aim to be transparent about our data practices and respect your privacy preferences.\nPlease understand that this Privacy Policy does not constitute a contract between you and Progress Magic nor does it create any legal rights or obligations. It serves as a declarati...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "03976e2be3b9641c4bbbd2b3e3be2c392782986403fbcd50f75238c25fe8f2fb",
+                "score": 0.20481864,
+                "excerpt": "to manage their practice, the personal information of clients is ultimately owned by the clients themselves. Clients have the right to request data deletion at any time, reflecting our commitment to privacy and data autonomy.\n4.2.2 Personal Information Collected by Progress Magic\nIn addition to the data provided or entered by your professional, Progress Magic directly collects certain types of personal information from clients to enhance the user experience and ensure the smooth operation of our...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "dadb59e50ce20add34affe3ecd53711acf261e8a428cd0ba7fe6e04cc60a586e",
+                "score": 0.12210387,
+                "excerpt": "users. Their personal information is processed within our platform to facilitate the provision of services by the professionals.\n- Marketing Website Users: Individuals who visit the Progress Magic website prior to logging in or creating an account. This group includes professionals exploring our platform and other visitors seeking information about Progress Magic.\n4. Types of Personal Information Progress Magic Collects\nWe understand the importance of keeping your data within trusted circles. He...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "d9d97d9d41ccee464b3730d04c05ee3a495d21cf20dbcd7fe0052806bf172eed",
+                "score": 0.01433703,
+                "excerpt": "At Progress Magic, we deeply value the trust you place in us when you use our therapy and coaching services. This Privacy Policy is a testament to our dedication to safeguarding your personal information and respecting your privacy rights. It's tailored to meet the high standards set by Singapore's Personal Data Protection Act(PDPA), the EU's General Data Protection Regulation (GDPR), and other relevant privacy laws.\n1. Understanding the Data We Collect\nIn our journey to offer exceptional therap...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6469035694,
+            "url": "https://www.progressmagic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection or request the deletion of their personal information under specific circumstances or according to their preferences.",
+            "reference": "You may request the deletion of your personal information under certain circumstances, such as when the information is no longer necessary, or if you withdraw your consent. Upon such a request, we will delete your information within a reasonable timeframe. URL: https://www.progressmagic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3f816eaa708a1a7cb570d625db93be057de50df504df1f90151b4fcbe44603b7",
+                "score": 0.89823216,
+                "excerpt": "you've objected to our processing and we're assessing your objection.\n- Objection: You can object to our processing of your personal information, particularly for data processed based on our legitimate interests. If you do object, please provide your reasons, so we can evaluate whether we have a prevailing interest to continue processing.\n- Choice/Opt-Out of Marketing Communications: At any time, you can opt-out of receiving marketing communications from us. Transactional or service communicatio...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "5077a86100add23f43e66c5919edda541481867492d5b9f82bbae2ff3d1d95df",
+                "score": 0.244363,
+                "excerpt": "for meeting applicable legal obligations\n- Consent: For specific processing activities, with the option for you to withdraw consent at any time\n- Legitimate interests: Including customer service and relationship management, business analysis, and dispute resolution\n4.1.5 The requirement to Provide Personal Information:\nProviding certain personal information is required for us to effectively process your subscription and deliver our services. This requirement is highlighted during the sign-up pro...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "03976e2be3b9641c4bbbd2b3e3be2c392782986403fbcd50f75238c25fe8f2fb",
+                "score": 0.244363,
+                "excerpt": "to manage their practice, the personal information of clients is ultimately owned by the clients themselves. Clients have the right to request data deletion at any time, reflecting our commitment to privacy and data autonomy.\n4.2.2 Personal Information Collected by Progress Magic\nIn addition to the data provided or entered by your professional, Progress Magic directly collects certain types of personal information from clients to enhance the user experience and ensure the smooth operation of our...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "9174dcd5ea34ab13e35833908887e5c3e72d25802d307c01dfc667111dfcdf82",
+                "score": 0.22592856,
+                "excerpt": "to support the functionality of our platform.\n4.2.6 Retention and Deletion of Your Personal Information:\nYou have control over your personal information within the Progress Magic platform, including the ability to request its deletion at any time. Personal information is retained by Progress Magic as long as it is necessary for the purposes for which it was collected, as outlined in this policy, or as required by law. Following a deletion request, your information will be promptly removed from o...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "e894c48f131f25272bef9dcd1fe92092169ae7af953e3c385420e4afc6b359b1",
+                "score": 0.10502681,
+                "excerpt": "to improve our website.\n- To manage and remember your consent preferences regarding the use of cookies.\n5.5 Consent and Your Control\n- Your consent is sought before any cookies are stored on your device, aligning with our commitment to your privacy rights.\n- You have the autonomy to withdraw your consent at any time. This can be done through the cookie settings on your browser, allowing you to change your preferences or delete existing cookies.\n- It's important to remember that withdrawing conse...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6469035694,
+            "url": "https://www.progressmagic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that certain personal information is shared with third-party service providers under strict confidentiality agreements to support the functionality of the platform.",
+            "reference": "Personal Information is shared with third-party service providers under strict confidentiality agreements. URL: https://www.progressmagic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "fd0cfe2f9fa29859ff450848b8a6ffbbfbccd5425a7577283d89364d982975a5",
+                "score": 0.78431904,
+                "excerpt": "third parties. Furthermore, we do not offer any form of financial incentive in exchange for the submission of your personal information. Our commitment to your privacy is foundational to the trust you place in us as a provider of therapy, coaching, and practice management solutions.\n7 Third-Party Disclosure\nIn the course of delivering comprehensive services and maintaining our platform, Progress Magic collaborates with a select group of third-party service providers. These providers are chosen b...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "d283ae4a035a53eddab38fc9e04a333491c24fa1cacf9f7d69095474f23cff2d",
+                "score": 0.5400144,
+                "excerpt": "for Processing Your Personal Information:\nYour personal information is processed for several reasons, including:\n- To facilitate account creation and management within the Progress Magic platform.\n- To enable effective communication between you, your professional, and Progress Magic.\n- To improve and personalize your experience with our services.\n- To comply with legal obligations or to respond to legal inquiries and disputes.\n4.2.4 Legal Basis for Processing Your Personal Information:\nWe proces...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "e894c48f131f25272bef9dcd1fe92092169ae7af953e3c385420e4afc6b359b1",
+                "score": 0.26971012,
+                "excerpt": "to improve our website.\n- To manage and remember your consent preferences regarding the use of cookies.\n5.5 Consent and Your Control\n- Your consent is sought before any cookies are stored on your device, aligning with our commitment to your privacy rights.\n- You have the autonomy to withdraw your consent at any time. This can be done through the cookie settings on your browser, allowing you to change your preferences or delete existing cookies.\n- It's important to remember that withdrawing conse...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "dadb59e50ce20add34affe3ecd53711acf261e8a428cd0ba7fe6e04cc60a586e",
+                "score": 0.071332,
+                "excerpt": "users. Their personal information is processed within our platform to facilitate the provision of services by the professionals.\n- Marketing Website Users: Individuals who visit the Progress Magic website prior to logging in or creating an account. This group includes professionals exploring our platform and other visitors seeking information about Progress Magic.\n4. Types of Personal Information Progress Magic Collects\nWe understand the importance of keeping your data within trusted circles. He...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "fe7c8af39745ccb2c100f50496e92a67eee9d85cc7f034ec3bfb9f58a6deef02",
+                "score": 0.027169233,
+                "excerpt": "card details)\n- Information entered into the app, such as notes about your clients\n4.1.2 Source of Personal Information:\nWe collect this personal information directly from you, the professional user, ensuring accuracy and relevance to your needs and our service offerings.\n4.1.3 Purposes for Using Your Personal Information:\nWe utilize your personal information for several key purposes:\n- Personal identification and professional communication\n- Processing orders, subscriptions, and payment transac...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6469035694,
+            "url": "https://www.progressmagic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with SiteGround, top-tier cloud services, Mailchimp, Stripe, and other third-party service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "SiteGround",
+                        "top-tier cloud services",
+                        "Mailchimp",
+                        "Stripe",
+                        "other third-party service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the specific third-party service providers with whom the app shares data, ensuring transparency and clarity.",
+            "reference": "Hosting Provider for Our Website: SiteGround, Hosting Provider for the App: top-tier cloud services for security and performance, Email Marketing Provider: Mailchimp, Payment Service Provider: Stripe, Analytical Service Provider: Google Analytics, URL: https://www.progressmagic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "fd0cfe2f9fa29859ff450848b8a6ffbbfbccd5425a7577283d89364d982975a5",
+                "score": 0.81960475,
+                "excerpt": "third parties. Furthermore, we do not offer any form of financial incentive in exchange for the submission of your personal information. Our commitment to your privacy is foundational to the trust you place in us as a provider of therapy, coaching, and practice management solutions.\n7 Third-Party Disclosure\nIn the course of delivering comprehensive services and maintaining our platform, Progress Magic collaborates with a select group of third-party service providers. These providers are chosen b...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "d283ae4a035a53eddab38fc9e04a333491c24fa1cacf9f7d69095474f23cff2d",
+                "score": 0.18817474,
+                "excerpt": "for Processing Your Personal Information:\nYour personal information is processed for several reasons, including:\n- To facilitate account creation and management within the Progress Magic platform.\n- To enable effective communication between you, your professional, and Progress Magic.\n- To improve and personalize your experience with our services.\n- To comply with legal obligations or to respond to legal inquiries and disputes.\n4.2.4 Legal Basis for Processing Your Personal Information:\nWe proces...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "e894c48f131f25272bef9dcd1fe92092169ae7af953e3c385420e4afc6b359b1",
+                "score": 0.10521054,
+                "excerpt": "to improve our website.\n- To manage and remember your consent preferences regarding the use of cookies.\n5.5 Consent and Your Control\n- Your consent is sought before any cookies are stored on your device, aligning with our commitment to your privacy rights.\n- You have the autonomy to withdraw your consent at any time. This can be done through the cookie settings on your browser, allowing you to change your preferences or delete existing cookies.\n- It's important to remember that withdrawing conse...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "dadb59e50ce20add34affe3ecd53711acf261e8a428cd0ba7fe6e04cc60a586e",
+                "score": 0.043204036,
+                "excerpt": "users. Their personal information is processed within our platform to facilitate the provision of services by the professionals.\n- Marketing Website Users: Individuals who visit the Progress Magic website prior to logging in or creating an account. This group includes professionals exploring our platform and other visitors seeking information about Progress Magic.\n4. Types of Personal Information Progress Magic Collects\nWe understand the importance of keeping your data within trusted circles. He...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            },
+            {
+                "id": "4150bdf0ef93c7707e732b7500ed73c1d133f4e9681f968ad284c18433bd6edc",
+                "score": 0.02211659,
+                "excerpt": "IT Development Company: Developing and enhancing the functionality of our platform.\n- Email Marketing Provider: Mailchimp, facilitating communication and updates through email campaigns.\n- IT Support Company: Offering technical support to ensure our services run smoothly.\n7.2 Non-Personal Information only\n- Analytical Service Provider: HotJar, Google Analytics, providing insights into app and website usage to improve user experience.\n8 How Progress Magic Protects Your Personal Information\nAt Pro...",
+                "url": "https://www.progressmagic.com/privacy-policy"
+            }
+        ]
+    }
+]

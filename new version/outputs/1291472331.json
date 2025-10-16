@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 1291472331,
+            "url": "https://kognito.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data from users.",
+            "reference": "The information we collect about you depends on the Services you use, how you use them, and the information you provide to us. We collect information in three main ways: (1) information you provide directly to us; (2) information we collect automatically through technology when you use the Services; and (3) information we collect from other sources. URL: https://kognito.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "af49f01ae342e7fa1bb9d0e28fa4af576238df5d637aa26cfb57bdbad0c0df36",
+                "score": 0.034036152,
+                "excerpt": "Policy, Ascend will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of Personal Data should be sent to us as specified in the “Contact Us” section.\nCertain personal data, such as your race or ethnicity, is considered “Sensitive Information.” Ascend will not use Sensitive Information for a purpose other than that for which it was originally collected or subsequently authorized by the individual, unl...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "a6bc9a8958ecd9c7857cd7db045cf3ef714c05ba461ccfc272a1c293799a6f76",
+                "score": 0.028274601,
+                "excerpt": "will govern. If you are a Customer End User and you have questions about how your information is collected and processed through the Services, please contact the Customer with whom you are affiliated or which has provided your information to us for more information.\nThis Policy contains the following sections:\n- The Information We Collect and Its Sources\n- Online Analytics and Advertising\n- How We Use Your Information\n- How We Disclose Your Information\n- Choice\n- De-Identified Information\n- Lega...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "f931ebf83326117ea24b989863adb8e3aac7679700ded367e52a2b0bbbb0ce01",
+                "score": 0.012527932,
+                "excerpt": "from other sources.\n(1) Information you provide directly to us.\nWhen you use our Services, you may provide certain information directly to us. For example, you may provide us with information when you register to use the Services and create an account; use, access, or participate in the Services; subscribe to a newsletter; place an order or make a purchase from us; interact with us through social media; post comments, photos, or videos to the Services; participate in surveys or research; or comm...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "1b7883e2c173f6931c6b0d3771e9fb36c8b3ab60bb49f5103e4cd6de0c01b255",
+                "score": 0.0074606435,
+                "excerpt": "tell you about the legal bases for processing your information. To the extent those laws apply, we rely on the following legal bases:\n- Performance of a contract: where use of your information is necessary to provide you with the Services under a contract, for example the relevant Customer services agreement.\n- Legitimate interests: where use of your information is necessary for our or others legitimate interests and where the use is not outweighed by your rights and interests. Some examples of ...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "6fa03f40d484017d377fa44177c161a96b158a9034d2bf13225624a525fc928b",
+                "score": 0.0047000605,
+                "excerpt": "other information we collect from and about you and use such combined information in accordance with this Policy.\nCertain features of our Services may make it possible for you to share comments, photos, or other content publicly with other users. Any information that you submit through these features is not confidential, and we may use it for any purpose permitted by law. Please be aware that any information you post openly through the Services that is viewable by other users may be used and sha...",
+                "url": "https://kognito.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1291472331,
+            "url": "https://kognito.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Contact and account identifiers, Commercial and financial information, Sensory information, Demographic information, Geolocation information, Online/device identifiers, Internet or other similar network activity",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact and account identifiers",
+                        "Commercial and financial information",
+                        "Sensory information",
+                        "Demographic information",
+                        "Geolocation information",
+                        "Online/device identifiers",
+                        "Internet or other similar network activity"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies various types of data collected directly from users and through automated technologies, covering a wide range of personal and device-related information.",
+            "reference": "Contact and account identifiers, Commercial and financial information, Sensory information, Demographic information, Geolocation information, Online/device identifiers, Internet or other similar network activity. URL: https://kognito.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "f931ebf83326117ea24b989863adb8e3aac7679700ded367e52a2b0bbbb0ce01",
+                "score": 0.12896329,
+                "excerpt": "from other sources.\n(1) Information you provide directly to us.\nWhen you use our Services, you may provide certain information directly to us. For example, you may provide us with information when you register to use the Services and create an account; use, access, or participate in the Services; subscribe to a newsletter; place an order or make a purchase from us; interact with us through social media; post comments, photos, or videos to the Services; participate in surveys or research; or comm...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "2d3d4c6b23d4c8584376dfc870dc7783e78f849caf844f0af211eefc20a07498",
+                "score": 0.09186979,
+                "excerpt": "and Advertising section below for further information regarding cookies.\nSome of the information we automatically collect when you use our Services includes:\n- Online/device identifiers, such as your IP address, MAC address, browser language, the state or country from which you accessed the Services (as derived from you IP address), and software and hardware attributes (including device IDs, operating system, and browser type).\n- Internet or other similar network activity, including referring an...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "6fa03f40d484017d377fa44177c161a96b158a9034d2bf13225624a525fc928b",
+                "score": 0.0607519,
+                "excerpt": "other information we collect from and about you and use such combined information in accordance with this Policy.\nCertain features of our Services may make it possible for you to share comments, photos, or other content publicly with other users. Any information that you submit through these features is not confidential, and we may use it for any purpose permitted by law. Please be aware that any information you post openly through the Services that is viewable by other users may be used and sha...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "f3a9362b2afd83abfc8162bf12278e24ca9d5939bc658f8a13bc87de06310314",
+                "score": 0.0551069,
+                "excerpt": "continuing education information, and data related to recertification, if any, is deemed “Certification Data,” even if such data was originally subject to contractual restrictions as Student Data. Certification Data may be subject to disclosure to our accreditors, regulatory agencies, or other professional oversight bodies and, with respect to certification status, the general public. By accepting this Policy, you agree to the reclassification of your Student Data to Certification Data as provid...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "32aa5744be61e47aafc51ec2c2451b518083577a427f355c63854d8f68e97548",
+                "score": 0.052327625,
+                "excerpt": "when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns. We, our service providers, and our vendors may also use cookies and similar tools to collect information on how you use our Services, such as information about your browsing behavior, page visits, clicks and cursor movements, searches, customer service interactions, and screen recordings.\n- Functionality cookies. These cookie...",
+                "url": "https://kognito.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1291472331,
+            "url": "https://kognito.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app discloses the purpose of data collection and use to users, ensuring transparency.",
+            "reference": "Ascend will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of Personal Data should be sent to us as specified in the “Contact Us” section. URL: https://kognito.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "af49f01ae342e7fa1bb9d0e28fa4af576238df5d637aa26cfb57bdbad0c0df36",
+                "score": 0.24707796,
+                "excerpt": "Policy, Ascend will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of Personal Data should be sent to us as specified in the “Contact Us” section.\nCertain personal data, such as your race or ethnicity, is considered “Sensitive Information.” Ascend will not use Sensitive Information for a purpose other than that for which it was originally collected or subsequently authorized by the individual, unl...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "1b7883e2c173f6931c6b0d3771e9fb36c8b3ab60bb49f5103e4cd6de0c01b255",
+                "score": 0.04054074,
+                "excerpt": "tell you about the legal bases for processing your information. To the extent those laws apply, we rely on the following legal bases:\n- Performance of a contract: where use of your information is necessary to provide you with the Services under a contract, for example the relevant Customer services agreement.\n- Legitimate interests: where use of your information is necessary for our or others legitimate interests and where the use is not outweighed by your rights and interests. Some examples of ...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "79bcedf3b0d80f9c26bd1c483b540c1407edecc2e011fb9ff2dc79c03bdbb883",
+                "score": 0.04038907,
+                "excerpt": "affirmative authorization.\nPlease note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser, we recognize such preference in accordance with applicable law.\nHow We Protect Your Information\nWe maintain organizational, technical, and physical safeguards to help protect the information we collect and use. These safeguards vary depending upon a variety of factors including the sensitivity of the information we collect and use. Despite all re...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "3191760059c902b4fa5db2985a8ca3ad7e15e8cb612bc4aa84b37a0691454723",
+                "score": 0.028598359,
+                "excerpt": "when we have a good faith belief that such sharing is necessary to protect and enforce the legal rights, privacy, and safety of ourselves and our users; protect against possible fraud, misuse or misappropriation of our Services, or illegal activity; respond to requests from government and other authorities; protect our intellectual property rights and the integrity of our Services, and otherwise comply with legal process.\n- Business transactions: In the event that Ascend, or any Ascend affiliate...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "6fa03f40d484017d377fa44177c161a96b158a9034d2bf13225624a525fc928b",
+                "score": 0.028598359,
+                "excerpt": "other information we collect from and about you and use such combined information in accordance with this Policy.\nCertain features of our Services may make it possible for you to share comments, photos, or other content publicly with other users. Any information that you submit through these features is not confidential, and we may use it for any purpose permitted by law. Please be aware that any information you post openly through the Services that is viewable by other users may be used and sha...",
+                "url": "https://kognito.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1291472331,
+            "url": "https://kognito.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or request the deletion of data. If the user has a legally-recognized browser-based opt-out preference signal turned on via their device browser, the app recognizes such preference in accordance with applicable law.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection based on their browser-based preferences, and the app recognizes and respects these preferences.",
+            "reference": "Please note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser, we recognize such preference in accordance with applicable law. URL: https://kognito.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "79bcedf3b0d80f9c26bd1c483b540c1407edecc2e011fb9ff2dc79c03bdbb883",
+                "score": 0.73961055,
+                "excerpt": "affirmative authorization.\nPlease note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser, we recognize such preference in accordance with applicable law.\nHow We Protect Your Information\nWe maintain organizational, technical, and physical safeguards to help protect the information we collect and use. These safeguards vary depending upon a variety of factors including the sensitivity of the information we collect and use. Despite all re...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "bcfc13087c1aad9e2db84748c472cf76e331573ed2e76815362d247a604b0908",
+                "score": 0.5723643,
+                "excerpt": "we rely on this basis, you have the right to subsequently withdraw your consent.\nChildren\nMost of our Services are intended for general audiences and are not directed at children. If we become aware that we have collected data without legally valid parental consent from children under an age where such consent is required in connection with such Services, we will take reasonable steps to delete it as soon as possible.\nHowever, please note that we do provide limited Services directly to education...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "9571d9e1fb55952ed13a86ca9a4f6bb95bd24ef018b9c16d1106a820d9fc9986",
+                "score": 0.49525848,
+                "excerpt": "You will need to exercise your opt out rights for each Ascend Service you use, and on each browser and device you use to access such Services.\nPlease note that if you have a legally-recognized browser-based opt out preference signal turned on via your device browser, we recognize such preference in accordance with applicable law.\nSensitive Information. The CCPA also allows you to limit the use or disclosure of your “sensitive personal information” (as defined in the CCPA) if your sensitive perso...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "752340780f79a570d4bd9ee2f7a1d291bc2262046507a65b234c9ff12016f7f8",
+                "score": 0.33296075,
+                "excerpt": "or legal guardian, as permitted by law. We limit the use of Student Data collected pursuant to the terms of the applicable Customer services agreement and secure such Student Data as required by law. We do not use Student Data for any commercial purpose, targeted advertising, profiling, or onward disclosure, unless we have the express consent of the student about whom the Student Data pertains and such student is of the age of consent. We also respond to requests by our educational institution C...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "af49f01ae342e7fa1bb9d0e28fa4af576238df5d637aa26cfb57bdbad0c0df36",
+                "score": 0.3274532,
+                "excerpt": "Policy, Ascend will provide you with an opportunity to choose whether to have your personal data so used or disclosed. Requests to opt out of such uses or disclosures of Personal Data should be sent to us as specified in the “Contact Us” section.\nCertain personal data, such as your race or ethnicity, is considered “Sensitive Information.” Ascend will not use Sensitive Information for a purpose other than that for which it was originally collected or subsequently authorized by the individual, unl...",
+                "url": "https://kognito.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1291472331,
+            "url": "https://kognito.com/privacy-policy/"
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "{\n   \"meta\": {\n       \"id\": 1291472331,\n       \"url\": \"https://kognito.com/privacy-policy/\",\n       \"title\": \"\"\n   },\n   \"reply\": {\n       \"qid\": \"q5\",\n       \"question\": \"5. Does the app share data with third parties?\",\n       \"answer\": {\n           \"full_answer\": \"Yes, the app shares data with third parties for various business purposes.\",\n           \"simple_answer\": \"Yes\",\n           \"extended_simple_answer\": {\n               \"comment\": \"\",\n               \"content\": \"\"\n           }\n       },\n       \"analysis\": \"The privacy policy mentions that the app may share information with service providers, law enforcement, regulators, attorneys, researchers, educational institutions, employers, and social networks for various purposes, including business transactions, analytics, and legal compliance.\",\n       \"reference\": \"Service Providers: We engage vendors to perform business purposes, as described above, on our behalf and may disclose information to them to enable them to assist us with such business purposes, including research and analytics, hosting, transaction and payment processing, administration, test delivery, fraud prevention, identity management, and other services. Law Enforcement, Regulators, Anti-fraud Coalitions, Attorneys and similar organizations: We share the information we collect, as appropriate, with these third parties when we have a good faith belief that such sharing is necessary to protect and enforce the legal rights, privacy, and safety of ourselves and our users; protect against possible fraud, misuse or misappropriation of our Services, or illegal activity; respond to requests from government and other authorities; protect our intellectual property rights and the integrity of our Services, and otherwise comply with legal process. Researchers: We may share your information to generate reports and analytics to be used by researchers or third parties in the industries or fields that we support to better understand changes and trends in such industries or fields. Your Educational Institution, Employer, and other Organizations: If you are using the Services as a Customer End User, we may share information about your use of the Services with your employer or educational institution (including relevant faculty and staff), in accordance with our services agreement with our Customers. We also may share information with governmental agencies, oversight organizations, professional organizations, accreditation organizations, and industry self-regulatory organizations where required or permitted by law. Social Networks: We may share your information with social media platforms. For example, if you click on a Facebook “like” button on the Services, the “like” may appear on your Facebook account. Or you may choose to share information directly on these platforms using sharing plug-ins. To control this sharing of information, please review and adjust your privacy settings for the relevant social network. Depending on, Law Enforcement, Regulators, Anti-fraud Coalitions, Attorneys and similar organizations: We share the information we collect, as appropriate, with these third parties when we have a good faith belief that such sharing is necessary to protect and enforce the legal rights, privacy, and safety of ourselves and our users; protect against possible fraud, misuse or misappropriation of our Services, or illegal activity; respond to requests from government and other authorities; protect our intellectual property rights and the integrity of our Services, and otherwise comply with legal process. Business transactions: In the event that Ascend, or any Ascend affiliate is involved in a merger, acquisition, transfer or sharing of control, bankruptcy, reorganization or sale of some or all assets, we may sell or transfer the information described in this Policy as part of that transaction or diligence associated with or in contemplation of such matters.\",\n       \"URL: https://kognito.com/privacy-policy/\"\n   }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "812b026610c379b9d4da8f2a22bb1e035229d6fed0c348051473bcf56c786958",
+                "score": 0.7409249,
+                "excerpt": "on a Facebook “like” button on the Services, the “like” may appear on your Facebook account. Or you may choose to share information directly on these platforms using sharing plug-ins. To control this sharing of information, please review and adjust your privacy settings for the relevant social network. Depending on your privacy settings and actions on such network, we may share contact information, identification and demographic information, user-generated content, device information and identif...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "43d697a347613e645dc5101e1cb08d5a7e0fe7fb07f40e3e072be01cc125eedf",
+                "score": 0.6210239,
+                "excerpt": "you. Please note that if we receive a request from an authorized agent, we may still need to verify you before fulfilling the request.\nNote that in certain circumstances and in accordance with applicable law, you may be able to appeal our response to your request. In such circumstances, we will provide you with additional information about your appeal rights and how to exercise them.\nIf you are using the Services as a Customer End User, please contact your employer, educational institution, or o...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "befb8b3f8520b05c9f80a6ee5af7b82337cfff1b28bbc77661f7e211c5a867a1",
+                "score": 0.46274617,
+                "excerpt": "and entities for the business purposes as discussed above and in this Privacy Policy.\n- Researchers: We may share your information to generate reports and analytics to be used by researchers or third parties in the industries or fields that we support to better understand changes and trends in such industries or fields.\n- Your Educational Institution, Employer, and other Organizations: If you are using the Services as a Customer End User, we may share information about your use of the Services w...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "3191760059c902b4fa5db2985a8ca3ad7e15e8cb612bc4aa84b37a0691454723",
+                "score": 0.43146437,
+                "excerpt": "when we have a good faith belief that such sharing is necessary to protect and enforce the legal rights, privacy, and safety of ourselves and our users; protect against possible fraud, misuse or misappropriation of our Services, or illegal activity; respond to requests from government and other authorities; protect our intellectual property rights and the integrity of our Services, and otherwise comply with legal process.\n- Business transactions: In the event that Ascend, or any Ascend affiliate...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "69ca4f330009e2dc3850685079900dc4a616fca2bb7e066d4ba9b81b7bc5d3cf",
+                "score": 0.397646,
+                "excerpt": "our Services and our user/customer base. The disclosure of your information to these third parties to assist us in providing these services may be considered a “sale” of personal information under applicable law or the processing/sharing of personal information for targeted advertising purposes.\nIf you would like to opt out of our online disclosure such as through cookie and pixel technology of your personal information for purposes that could be considered “sales” for those third parties' own c...",
+                "url": "https://kognito.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1291472331,
+            "url": "https://kognito.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Service Providers, Law Enforcement, Regulators, Anti-fraud Coalitions, Attorneys, Researchers, Educational Institutions, Employers, Organizations, Social Networks, and Affiliates.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service Providers",
+                        "Law Enforcement, Regulators, Anti-fraud Coalitions, Attorneys",
+                        "Researchers",
+                        "Educational Institutions, Employers, Organizations",
+                        "Social Networks",
+                        "Affiliates"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies various third parties with whom the app shares data for different business purposes, which include service providers, law enforcement, researchers, educational institutions, social networks, and affiliates.",
+            "reference": "Service Providers: We engage vendors to perform business purposes, as described above, on our behalf and may disclose information to them to enable them to assist us with such business purposes, including research and analytics, hosting, transaction and payment processing, administration, test delivery, fraud prevention, identity management, and other services. Service providers may use such information for their operational purposes in order to provide their services to us. Law Enforcement, Regulators, Anti-fraud Coalitions, Attorneys and similar organizations: We share the information we collect, as appropriate, with these third parties when we have a good faith belief that such sharing is necessary to protect and enforce the legal rights, privacy, and safety of ourselves and our users; protect against possible fraud, misuse or misappropriatio... Researchers: We may share your information to generate reports and analytics to be used by researchers or third parties in the industries or fields that we support to better understand changes and trends in such industries or fields. Your Educational Institution, Employer, and other Organizations: If you are using the Services as a Customer End User, we may share information about your use of the Services with your employer or educational institution (including relevant faculty and staff), in accordance with our services agree... Social Networks: We may share your information with social media platforms. For example, if you click on a Facebook “like” button on the Services, the “like” may appear on your Facebook account. Or you may choose to share information directly on these platforms using sharing plug-ins. To control this sharing of information, please review and adjust your privacy settings for the relevant social network. Depending on ... Affiliates: In accordance with applicable legal requirements and depending on our contracts with you or our Customers, we may share information among Ascend’s various brands and entities for the business purposes as discussed above and in this Privacy Policy.",
+            "URL": "https://kognito.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "812b026610c379b9d4da8f2a22bb1e035229d6fed0c348051473bcf56c786958",
+                "score": 0.8101787,
+                "excerpt": "on a Facebook “like” button on the Services, the “like” may appear on your Facebook account. Or you may choose to share information directly on these platforms using sharing plug-ins. To control this sharing of information, please review and adjust your privacy settings for the relevant social network. Depending on your privacy settings and actions on such network, we may share contact information, identification and demographic information, user-generated content, device information and identif...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "befb8b3f8520b05c9f80a6ee5af7b82337cfff1b28bbc77661f7e211c5a867a1",
+                "score": 0.7181004,
+                "excerpt": "and entities for the business purposes as discussed above and in this Privacy Policy.\n- Researchers: We may share your information to generate reports and analytics to be used by researchers or third parties in the industries or fields that we support to better understand changes and trends in such industries or fields.\n- Your Educational Institution, Employer, and other Organizations: If you are using the Services as a Customer End User, we may share information about your use of the Services w...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "877f0480ad3360935a54f3c47ca324f7754e41543f223acdb9eefb7c05dcd708",
+                "score": 0.6481324,
+                "excerpt": "Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Ascend has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal ...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "a950dcea61e243b623b84f91a30c75b1fce2c340e3b304cc0ad98b8232b989dd",
+                "score": 0.56949353,
+                "excerpt": "analytics to understand how users interact with our Services and advertisements, and to assess our Customers’ performance as compared to each other.\n- To improve our Services, including bug detection and error reporting, improving usability and effectiveness of our Services, and to test and create new products, features, and services.\n- For our business operations, including maintaining your account; providing customer service; and for legal compliance, such as detecting security incidents, comp...",
+                "url": "https://kognito.com/privacy-policy/"
+            },
+            {
+                "id": "3191760059c902b4fa5db2985a8ca3ad7e15e8cb612bc4aa84b37a0691454723",
+                "score": 0.450722,
+                "excerpt": "when we have a good faith belief that such sharing is necessary to protect and enforce the legal rights, privacy, and safety of ourselves and our users; protect against possible fraud, misuse or misappropriation of our Services, or illegal activity; respond to requests from government and other authorities; protect our intellectual property rights and the integrity of our Services, and otherwise comply with legal process.\n- Business transactions: In the event that Ascend, or any Ascend affiliate...",
+                "url": "https://kognito.com/privacy-policy/"
+            }
+        ]
+    }
+]

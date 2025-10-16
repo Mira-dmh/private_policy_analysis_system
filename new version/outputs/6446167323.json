@@ -1,0 +1,287 @@
+[
+    {
+        "meta": {
+            "id": 6446167323,
+            "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app only collects data that is entered into the app and transmitted via email when using the 'Send Report' function.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app only collects data that is entered into the app and transmitted via email using a specific function.",
+            "reference": "Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the 'Send Report' (via email) option. Therefore any personal data we may hold is only that data which you provide us by email originating from use of the Minds Meds App. URL: https://www.healthinnova.com/mindmeds/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "802aa563ceb484c0d0511c3b3795ab436862e059b3bfb6589008e5e4f2913100",
+                "score": 0.054802597,
+                "excerpt": "Information Commissioner’s Office, under registration number Z7616349 You can view our registration by clicking here: https://ico.org.uk/about-the-ico/what-we-do/register-of-fee-payers/\nWhat personal data do we hold\n(i) Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the “Send Report” (via email) option. When you use this function the information is transmitted over the open internet without encryption (using ‘SMTP’) and sent ...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "d94de1ba2123b098201ae59e2fd06edfc55483a42d71029926721c2e43c70b17",
+                "score": 0.031026179,
+                "excerpt": "Privacy Policy\nYour privacy matters\nSouth West London and St George`s Mental Health NHS Trust (“the Trust”) takes its patients privacy and confidentiality seriously. This privacy policy explains how the Trust uses your “personal data” when you use the “Mind Meds App” . We’ve tried to make our privacy policy simple, clear and easy to read. You can click on the headings below to find out more about how we handle your information.\nWho we are, how to contact us and our Data Protection Officer\nWe are...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "53e7eb23e14db2e90499f4105d4ea4a420d9fc9bf33a8aa0def408630e0e34d3",
+                "score": 0.019456575,
+                "excerpt": "number when installed on your device which enables the NHS Trust to monitor usage. Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "f221e829ad600ae8b1b46d4b49997f64567d373a04a9fae569cf9c99bd7ac6f7",
+                "score": 0.014899643,
+                "excerpt": "provisions above will apply to any loss you may suffer.\n(iv) We have measures in place to keep your information safe but it is important that you also play your part - visit the government's ‘Get Safe Online’ website for advice on how to do this ( www.getsafeonline.org ).\nWhat we do with your personal data\nNormally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446167323,
+            "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as usage data related to the device and the app itself, for example, the operating system version used on the phone.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Usage data relating to the device",
+                        "Usage data relating to the app itself, e.g., operating system version"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app collects usage data related to the device and the app, particularly mentioning the operating system version used.",
+            "reference": "Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems. Usage data is used by the NHS Trust to improve the design, functionality, and performance of the app and is stored in accordance with Data Protection law. The NHS Trust will not have access through this route to your clinical or other personal data that you input into the App. URL: https://www.healthinnova.com/mindmeds/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "802aa563ceb484c0d0511c3b3795ab436862e059b3bfb6589008e5e4f2913100",
+                "score": 0.17023194,
+                "excerpt": "Information Commissioner’s Office, under registration number Z7616349 You can view our registration by clicking here: https://ico.org.uk/about-the-ico/what-we-do/register-of-fee-payers/\nWhat personal data do we hold\n(i) Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the “Send Report” (via email) option. When you use this function the information is transmitted over the open internet without encryption (using ‘SMTP’) and sent ...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "53e7eb23e14db2e90499f4105d4ea4a420d9fc9bf33a8aa0def408630e0e34d3",
+                "score": 0.064535476,
+                "excerpt": "number when installed on your device which enables the NHS Trust to monitor usage. Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "d94de1ba2123b098201ae59e2fd06edfc55483a42d71029926721c2e43c70b17",
+                "score": 0.031084951,
+                "excerpt": "Privacy Policy\nYour privacy matters\nSouth West London and St George`s Mental Health NHS Trust (“the Trust”) takes its patients privacy and confidentiality seriously. This privacy policy explains how the Trust uses your “personal data” when you use the “Mind Meds App” . We’ve tried to make our privacy policy simple, clear and easy to read. You can click on the headings below to find out more about how we handle your information.\nWho we are, how to contact us and our Data Protection Officer\nWe are...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "f221e829ad600ae8b1b46d4b49997f64567d373a04a9fae569cf9c99bd7ac6f7",
+                "score": 0.008380453,
+                "excerpt": "provisions above will apply to any loss you may suffer.\n(iv) We have measures in place to keep your information safe but it is important that you also play your part - visit the government's ‘Get Safe Online’ website for advice on how to do this ( www.getsafeonline.org ).\nWhat we do with your personal data\nNormally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446167323,
+            "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app does declare the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The policy clearly states that the app discloses the purpose of data collection and use of user information.",
+            "reference": "The NHS Trust will not have access through this route to your clinical or other personal data that you input into the App. URL: https://www.healthinnova.com/mindmeds/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "53e7eb23e14db2e90499f4105d4ea4a420d9fc9bf33a8aa0def408630e0e34d3",
+                "score": 0.013902059,
+                "excerpt": "number when installed on your device which enables the NHS Trust to monitor usage. Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "802aa563ceb484c0d0511c3b3795ab436862e059b3bfb6589008e5e4f2913100",
+                "score": 0.0019192374,
+                "excerpt": "Information Commissioner’s Office, under registration number Z7616349 You can view our registration by clicking here: https://ico.org.uk/about-the-ico/what-we-do/register-of-fee-payers/\nWhat personal data do we hold\n(i) Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the “Send Report” (via email) option. When you use this function the information is transmitted over the open internet without encryption (using ‘SMTP’) and sent ...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "f221e829ad600ae8b1b46d4b49997f64567d373a04a9fae569cf9c99bd7ac6f7",
+                "score": 0.0015854306,
+                "excerpt": "provisions above will apply to any loss you may suffer.\n(iv) We have measures in place to keep your information safe but it is important that you also play your part - visit the government's ‘Get Safe Online’ website for advice on how to do this ( www.getsafeonline.org ).\nWhat we do with your personal data\nNormally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "d94de1ba2123b098201ae59e2fd06edfc55483a42d71029926721c2e43c70b17",
+                "score": 0.0008899655,
+                "excerpt": "Privacy Policy\nYour privacy matters\nSouth West London and St George`s Mental Health NHS Trust (“the Trust”) takes its patients privacy and confidentiality seriously. This privacy policy explains how the Trust uses your “personal data” when you use the “Mind Meds App” . We’ve tried to make our privacy policy simple, clear and easy to read. You can click on the headings below to find out more about how we handle your information.\nWho we are, how to contact us and our Data Protection Officer\nWe are...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446167323,
+            "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "No, the user cannot opt out of data collection or delete data.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that data is only stored and shared upon the user's submission through the 'Send Report' function. There is no mention of an opt-out option or the ability to delete data.",
+            "reference": "Normally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as described above. If you do so, the information you send will then be handled in accordance with the Trust’s general privacy policy and records retention arrangements, which are explained Privacy and confidentiality at SWLSTG. URL: https://www.healthinnova.com/mindmeds/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "f221e829ad600ae8b1b46d4b49997f64567d373a04a9fae569cf9c99bd7ac6f7",
+                "score": 0.023779983,
+                "excerpt": "provisions above will apply to any loss you may suffer.\n(iv) We have measures in place to keep your information safe but it is important that you also play your part - visit the government's ‘Get Safe Online’ website for advice on how to do this ( www.getsafeonline.org ).\nWhat we do with your personal data\nNormally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "53e7eb23e14db2e90499f4105d4ea4a420d9fc9bf33a8aa0def408630e0e34d3",
+                "score": 0.0015731122,
+                "excerpt": "number when installed on your device which enables the NHS Trust to monitor usage. Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "d94de1ba2123b098201ae59e2fd06edfc55483a42d71029926721c2e43c70b17",
+                "score": 0.0009622126,
+                "excerpt": "Privacy Policy\nYour privacy matters\nSouth West London and St George`s Mental Health NHS Trust (“the Trust”) takes its patients privacy and confidentiality seriously. This privacy policy explains how the Trust uses your “personal data” when you use the “Mind Meds App” . We’ve tried to make our privacy policy simple, clear and easy to read. You can click on the headings below to find out more about how we handle your information.\nWho we are, how to contact us and our Data Protection Officer\nWe are...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "802aa563ceb484c0d0511c3b3795ab436862e059b3bfb6589008e5e4f2913100",
+                "score": 0.0006615174,
+                "excerpt": "Information Commissioner’s Office, under registration number Z7616349 You can view our registration by clicking here: https://ico.org.uk/about-the-ico/what-we-do/register-of-fee-payers/\nWhat personal data do we hold\n(i) Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the “Send Report” (via email) option. When you use this function the information is transmitted over the open internet without encryption (using ‘SMTP’) and sent ...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446167323,
+            "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No data is shared with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "Based on the privacy policy document, the app does not share data with any third parties. The data provided in the app is only stored based on user interaction.",
+            "reference": "No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems. Usage data is used by the NHS Trust to improve the design, functionality and performance of the app and is stored in accordance with Data Protection law. The NHS Trust will not have access through this route to your clinical or other personal data that you input into the App. URL: https://www.healthinnova.com/mindmeds/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "f221e829ad600ae8b1b46d4b49997f64567d373a04a9fae569cf9c99bd7ac6f7",
+                "score": 0.39793837,
+                "excerpt": "provisions above will apply to any loss you may suffer.\n(iv) We have measures in place to keep your information safe but it is important that you also play your part - visit the government's ‘Get Safe Online’ website for advice on how to do this ( www.getsafeonline.org ).\nWhat we do with your personal data\nNormally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "802aa563ceb484c0d0511c3b3795ab436862e059b3bfb6589008e5e4f2913100",
+                "score": 0.2712517,
+                "excerpt": "Information Commissioner’s Office, under registration number Z7616349 You can view our registration by clicking here: https://ico.org.uk/about-the-ico/what-we-do/register-of-fee-payers/\nWhat personal data do we hold\n(i) Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the “Send Report” (via email) option. When you use this function the information is transmitted over the open internet without encryption (using ‘SMTP’) and sent ...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "53e7eb23e14db2e90499f4105d4ea4a420d9fc9bf33a8aa0def408630e0e34d3",
+                "score": 0.071073666,
+                "excerpt": "number when installed on your device which enables the NHS Trust to monitor usage. Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "d94de1ba2123b098201ae59e2fd06edfc55483a42d71029926721c2e43c70b17",
+                "score": 0.047249712,
+                "excerpt": "Privacy Policy\nYour privacy matters\nSouth West London and St George`s Mental Health NHS Trust (“the Trust”) takes its patients privacy and confidentiality seriously. This privacy policy explains how the Trust uses your “personal data” when you use the “Mind Meds App” . We’ve tried to make our privacy policy simple, clear and easy to read. You can click on the headings below to find out more about how we handle your information.\nWho we are, how to contact us and our Data Protection Officer\nWe are...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6446167323,
+            "url": "https://www.healthinnova.com/mindmeds/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "None"
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data entered into the app is not transmitted to any server, except when a user sends a report via email. In that case, the data is only shared with the user's health professional and not with any third parties. Therefore, the app does not share data with third parties.",
+            "reference": "The app does not share data with third parties.URL: https://www.healthinnova.com/mindmeds/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "802aa563ceb484c0d0511c3b3795ab436862e059b3bfb6589008e5e4f2913100",
+                "score": 0.13811268,
+                "excerpt": "Information Commissioner’s Office, under registration number Z7616349 You can view our registration by clicking here: https://ico.org.uk/about-the-ico/what-we-do/register-of-fee-payers/\nWhat personal data do we hold\n(i) Any Information you enter into the App is not transmitted from the App to any server unless you request this by using the “Send Report” (via email) option. When you use this function the information is transmitted over the open internet without encryption (using ‘SMTP’) and sent ...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "f221e829ad600ae8b1b46d4b49997f64567d373a04a9fae569cf9c99bd7ac6f7",
+                "score": 0.078078166,
+                "excerpt": "provisions above will apply to any loss you may suffer.\n(iv) We have measures in place to keep your information safe but it is important that you also play your part - visit the government's ‘Get Safe Online’ website for advice on how to do this ( www.getsafeonline.org ).\nWhat we do with your personal data\nNormally, your data is only stored on your advice and we will not be holding, storing or sharing any of your personal data unless you email your information through the send report function as...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "53e7eb23e14db2e90499f4105d4ea4a420d9fc9bf33a8aa0def408630e0e34d3",
+                "score": 0.052327625,
+                "excerpt": "number when installed on your device which enables the NHS Trust to monitor usage. Usage data sent from the app to a server does not include your personal data but might include usage data relating to your device as well as the app itself, for example the operating system version used on your phone (e.g. iOS7). No link is made between your personal data and this information about your device and usage of the app. We need to use this data in order for the app to work and to trouble-shoot problems...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            },
+            {
+                "id": "d94de1ba2123b098201ae59e2fd06edfc55483a42d71029926721c2e43c70b17",
+                "score": 0.011288074,
+                "excerpt": "Privacy Policy\nYour privacy matters\nSouth West London and St George`s Mental Health NHS Trust (“the Trust”) takes its patients privacy and confidentiality seriously. This privacy policy explains how the Trust uses your “personal data” when you use the “Mind Meds App” . We’ve tried to make our privacy policy simple, clear and easy to read. You can click on the headings below to find out more about how we handle your information.\nWho we are, how to contact us and our Data Protection Officer\nWe are...",
+                "url": "https://www.healthinnova.com/mindmeds/privacy.html"
+            }
+        ]
+    }
+]

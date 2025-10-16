@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 638609565,
+      "url": "https://docs.qq.com/doc/DZlZSclR6aWlad1BB",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that if you choose to use the service, you agree to the collection and use of information in relation to the privacy policy. The personal information collected is used for providing and improving the service.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the collection of personal information for service improvement.",
+          "content": "If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "InformationCollectionandUse"
+    }
+  },
+  {
+    "meta": {
+      "id": 638609565,
+      "url": "https://docs.qq.com/doc/DZlZSclR6aWlad1BB",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects certain personally identifiable information, which may include data such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing the Service, and the time and date of your use of the Service.",
+        "simple_answer": "The app collects personally identifiable information including IP address, device name, and usage data.",
+        "extended_simple_answer": {
+          "comment": "This information is used to provide and improve the Service.",
+          "content": "The app collects data such as your device's IP address, device name, operating system version, app configuration, and usage timestamps."
+        }
+      },
+      "analysis": "",
+      "reference": "InformationCollectionandUse"
+    }
+  },
+  {
+    "meta": {
+      "id": 638609565,
+      "url": "https://docs.qq.com/doc/DZlZSclR6aWlad1BB",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the personal information collected is used for providing and improving the Service.",
+        "simple_answer": "Yes.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that the information collected is for enhancing user experience and service quality.",
+          "content": "The Personal Information that we collect is used for providing and improving the Service."
+        }
+      },
+      "analysis": "",
+      "reference": "InformationCollectionandUse"
+    }
+  },
+  {
+    "meta": {
+      "id": 638609565,
+      "url": "https://docs.qq.com/doc/DZlZSclR6aWlad1BB",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy indicates that users have the option to refuse cookies, which may limit their ability to use some portions of the service. However, it does not explicitly state that users can opt out of all data collection or delete their data. The policy primarily focuses on the collection and use of information rather than providing a clear mechanism for opting out or deleting data.",
+        "simple_answer": "Users can refuse cookies but the policy does not clearly state how to opt out of all data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "The policy allows users to refuse cookies, which may affect service usage.",
+          "content": "The privacy policy does not provide explicit instructions for opting out of data collection or deleting personal data."
+        }
+      },
+      "analysis": "The lack of explicit options for opting out or deleting data may raise concerns for users who prioritize privacy.",
+      "reference": "Cookies section and Information Collection and Use section."
+    }
+  },
+  {
+    "meta": {
+      "id": 638609565,
+      "url": "https://docs.qq.com/doc/DZlZSclR6aWlad1BB",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app will not use or share your information with anyone except as described in this Privacy Policy.",
+        "simple_answer": "No, the app does not share data with third parties except as described in the policy.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes that it will not share personal information unless specified in the privacy policy.",
+          "content": "The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy."
+        }
+      },
+      "analysis": "",
+      "reference": "This information is derived from the section discussing the use and sharing of personal information."
+    }
+  },
+  {
+    "meta": {
+      "id": 638609565,
+      "url": "https://docs.qq.com/doc/DZlZSclR6aWlad1BB",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may employ third-party companies and individuals for various reasons, but it does not specify the exact third parties with whom data is shared. It states that the information collected is used for providing and improving the Service and will not be shared with anyone except as described in the Privacy Policy.",
+        "simple_answer": "The app may share data with third-party companies and individuals, but specific third parties are not mentioned.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that third parties may be involved in the service but does not list them explicitly.",
+          "content": "The app may employ third-party companies and individuals due to various reasons, but it does not specify which third parties are involved."
+        }
+      },
+      "analysis": "The privacy policy indicates that while third parties may be involved in the service, it does not provide a detailed list of these parties, focusing instead on the general use of data.",
+      "reference": "ServiceProviders section"
+    }
+  }
+]

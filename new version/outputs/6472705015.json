@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 6472705015,
+            "url": "http://gracefill.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various types of data as mentioned in the 'Information We Collect' section.",
+            "reference": "This privacy policy explains how we collect, use, and share your personal information when you visit our website or use our application. We are committed to protecting your privacy and will only use your personal information in accordance with this policy. URL: http://gracefill.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f2e0378e797190542f236c4a11cdce4a2acc8db865dace20fc3cd52344279b48",
+                "score": 0.049405243,
+                "excerpt": "Privacy Policy\nOverview\nThis privacy policy explains how we collect, use, and share your personal information when you visit our website or use our application. We are committed to protecting your privacy and will only use your personal information in accordance with this policy.\nInformation We Collect\nWhen you use the Gracefill app or website, you share certain information voluntarily which gets logged automatically:\n- Account information: When you sign up for Gracefill, we collect information ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "14f17ab2d7de8bc4d7564343ae7671848f52b8f10e3dd2eb6b68630dbdea2254",
+                "score": 0.004198795,
+                "excerpt": "you utilize), log data (date and time of your access), device information (unique device identifier, IP address, browser type, operating system, location, and settings), your network service provider, and \"cookies\" and similar technologies to collect certain information for improving user experience.\n- Payment information: When you make a transaction or subscribe to our plans, we may collect your credit card details and billing address.\n- Your communications with us: If you contact us for suppor...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "1a9aa1323693d85196edb6483122bd41ae14df253ee86b85f9bc88092ca11bef",
+                "score": 0.0023413408,
+                "excerpt": "experience and to help provide a better service for users of all ages. We do not share your birthdate with third parties or others on Gracefill.\nChanges to This Policy\nWe may update this privacy policy from time to time. If we make any changes, we will post the updated privacy policy on our website. If you continue to use Gracefill after those changes are in effect, the new policy applies to you. If the changes are significant, we may notify you by sending you an email.Contact UsIf you have any ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "b192c0beea1bb9fa143e75bae7c504c1544ee6a594b512337d0b1cfa5715b7f8",
+                "score": 0.0008072305,
+                "excerpt": "designed to comply with the California Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), the California Online Privacy Protection Act (CalOPPA), and the Children's Online Privacy Protection Act (COPPA).\nThe CCPA, CPRA, and CalOPPA are laws that protect the privacy of consumers in California. COPPA is a law that protects the privacy of children under the age of 13.\nYour Rights\nUnder the GDPR, CCPA, CPRA, CalOPPA, and COPPA, you have the following rights:\n- The right to access...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "fe768554f98d1006ed8dfc956469539b76fe93bc9834da4e17c5441f9578be4c",
+                "score": 0.0006641048,
+                "excerpt": "to your questions or comments.\n- To personalize your experience.\n- To market our services to you.\n- To send you updates, including by email, push notification, or SMS. You can unsubscribe from our promotional emails at any time and decide to stop getting other notifications by updating your settings.\n- To comply with legal requirements.\nHow We Share Your Information\nAnyone can see the public content you post, such as your gratitude messages and your public profile information. In addition, we ma...",
+                "url": "http://gracefill.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472705015,
+            "url": "http://gracefill.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects account information, user-generated content, usage data & device information, payment information, communications with users, contacts & photos.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Account information",
+                        "User-generated content",
+                        "Usage data & device information",
+                        "Payment information",
+                        "Communications with users",
+                        "Contacts & photos"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the data types mentioned in the 'Information We Collect' section of the privacy policy.",
+            "reference": "Account information: When you sign up for Gracefill, we collect information you provide, such as your name, email address, phone number, user name, and password. ... Your contacts & photos: If you opt to share your contacts, we will process the names, email addresses, and phone numbers of your shared contacts. Similarly, if you give us access to your photo library or device storage, we will process the photos, videos, and other files you specifically share with us. URL: http://gracefill.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f2e0378e797190542f236c4a11cdce4a2acc8db865dace20fc3cd52344279b48",
+                "score": 0.20641373,
+                "excerpt": "Privacy Policy\nOverview\nThis privacy policy explains how we collect, use, and share your personal information when you visit our website or use our application. We are committed to protecting your privacy and will only use your personal information in accordance with this policy.\nInformation We Collect\nWhen you use the Gracefill app or website, you share certain information voluntarily which gets logged automatically:\n- Account information: When you sign up for Gracefill, we collect information ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "14f17ab2d7de8bc4d7564343ae7671848f52b8f10e3dd2eb6b68630dbdea2254",
+                "score": 0.08882029,
+                "excerpt": "you utilize), log data (date and time of your access), device information (unique device identifier, IP address, browser type, operating system, location, and settings), your network service provider, and \"cookies\" and similar technologies to collect certain information for improving user experience.\n- Payment information: When you make a transaction or subscribe to our plans, we may collect your credit card details and billing address.\n- Your communications with us: If you contact us for suppor...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "1a9aa1323693d85196edb6483122bd41ae14df253ee86b85f9bc88092ca11bef",
+                "score": 0.005260852,
+                "excerpt": "experience and to help provide a better service for users of all ages. We do not share your birthdate with third parties or others on Gracefill.\nChanges to This Policy\nWe may update this privacy policy from time to time. If we make any changes, we will post the updated privacy policy on our website. If you continue to use Gracefill after those changes are in effect, the new policy applies to you. If the changes are significant, we may notify you by sending you an email.Contact UsIf you have any ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "fe768554f98d1006ed8dfc956469539b76fe93bc9834da4e17c5441f9578be4c",
+                "score": 0.0019494022,
+                "excerpt": "to your questions or comments.\n- To personalize your experience.\n- To market our services to you.\n- To send you updates, including by email, push notification, or SMS. You can unsubscribe from our promotional emails at any time and decide to stop getting other notifications by updating your settings.\n- To comply with legal requirements.\nHow We Share Your Information\nAnyone can see the public content you post, such as your gratitude messages and your public profile information. In addition, we ma...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "b192c0beea1bb9fa143e75bae7c504c1544ee6a594b512337d0b1cfa5715b7f8",
+                "score": 0.0017752605,
+                "excerpt": "designed to comply with the California Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), the California Online Privacy Protection Act (CalOPPA), and the Children's Online Privacy Protection Act (COPPA).\nThe CCPA, CPRA, and CalOPPA are laws that protect the privacy of consumers in California. COPPA is a law that protects the privacy of children under the age of 13.\nYour Rights\nUnder the GDPR, CCPA, CPRA, CalOPPA, and COPPA, you have the following rights:\n- The right to access...",
+                "url": "http://gracefill.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472705015,
+            "url": "http://gracefill.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app declares the purpose of data collection and use.",
+            "reference": "We use your personal information for the following purposes: To identify you when you use the Gracefill app, to provide you with our services, to improve our services, to respond to your questions or comments, to personalize your experience, to market our services to you, to send you updates, and to comply with legal requirements. URL: http://gracefill.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "f2e0378e797190542f236c4a11cdce4a2acc8db865dace20fc3cd52344279b48",
+                "score": 0.036838703,
+                "excerpt": "Privacy Policy\nOverview\nThis privacy policy explains how we collect, use, and share your personal information when you visit our website or use our application. We are committed to protecting your privacy and will only use your personal information in accordance with this policy.\nInformation We Collect\nWhen you use the Gracefill app or website, you share certain information voluntarily which gets logged automatically:\n- Account information: When you sign up for Gracefill, we collect information ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "14f17ab2d7de8bc4d7564343ae7671848f52b8f10e3dd2eb6b68630dbdea2254",
+                "score": 0.025323061,
+                "excerpt": "you utilize), log data (date and time of your access), device information (unique device identifier, IP address, browser type, operating system, location, and settings), your network service provider, and \"cookies\" and similar technologies to collect certain information for improving user experience.\n- Payment information: When you make a transaction or subscribe to our plans, we may collect your credit card details and billing address.\n- Your communications with us: If you contact us for suppor...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "fe768554f98d1006ed8dfc956469539b76fe93bc9834da4e17c5441f9578be4c",
+                "score": 0.0023231625,
+                "excerpt": "to your questions or comments.\n- To personalize your experience.\n- To market our services to you.\n- To send you updates, including by email, push notification, or SMS. You can unsubscribe from our promotional emails at any time and decide to stop getting other notifications by updating your settings.\n- To comply with legal requirements.\nHow We Share Your Information\nAnyone can see the public content you post, such as your gratitude messages and your public profile information. In addition, we ma...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "1a9aa1323693d85196edb6483122bd41ae14df253ee86b85f9bc88092ca11bef",
+                "score": 0.001648483,
+                "excerpt": "experience and to help provide a better service for users of all ages. We do not share your birthdate with third parties or others on Gracefill.\nChanges to This Policy\nWe may update this privacy policy from time to time. If we make any changes, we will post the updated privacy policy on our website. If you continue to use Gracefill after those changes are in effect, the new policy applies to you. If the changes are significant, we may notify you by sending you an email.Contact UsIf you have any ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "6e4c7ed8c19f0f82307bc3c3cf9191ff7c2707888801ec4996dec0a4a9d1b212",
+                "score": 0.0011740822,
+                "excerpt": "to protect your personal information from unauthorized access, use, or disclosure. We use industry-standard security measures, such as encryption and firewalls, to protect your personal information.\nData Transfers\nWe may transfer your personal information to other countries as necessary to conduct our business operations consistent with our description of how we user your data. If we do transfer your personal information to another country, we will take steps to ensure that your personal informa...",
+                "url": "http://gracefill.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472705015,
+            "url": "http://gracefill.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection and delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can opt out of data collection and delete their data by following the provided instructions.",
+            "reference": "You can opt out of receiving marketing emails from us by clicking the unsubscribe link at the bottom of any marketing email. You can request that we delete your personal information, including your username, password, and your profile data and user settings, by contacting us at developer@gracefill.com and providing your name, the email you have registered with our application, and any other relevant information that would help identify your account. URL: http://gracefill.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "fe768554f98d1006ed8dfc956469539b76fe93bc9834da4e17c5441f9578be4c",
+                "score": 0.73335636,
+                "excerpt": "to your questions or comments.\n- To personalize your experience.\n- To market our services to you.\n- To send you updates, including by email, push notification, or SMS. You can unsubscribe from our promotional emails at any time and decide to stop getting other notifications by updating your settings.\n- To comply with legal requirements.\nHow We Share Your Information\nAnyone can see the public content you post, such as your gratitude messages and your public profile information. In addition, we ma...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "65e87ff56c3f37d17f5bb17f0dabfaca9775311c047724c25eaa9d4a946325df",
+                "score": 0.71452844,
+                "excerpt": "marketing emails from us by clicking the unsubscribe link at the bottom of any marketing email.\n- You can correct information by updating information in your profile.\n- You can request access to your personal information by contacting us at hello@gracefill.com.\nRequests to Delete Your Data\nYou can request that we delete your personal information, including your username, password, and your profile data and user settings, by contacting us at developer@gracefill.com and providing your name, the em...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "b192c0beea1bb9fa143e75bae7c504c1544ee6a594b512337d0b1cfa5715b7f8",
+                "score": 0.10447732,
+                "excerpt": "designed to comply with the California Consumer Privacy Act (CCPA), the California Privacy Rights Act (CPRA), the California Online Privacy Protection Act (CalOPPA), and the Children's Online Privacy Protection Act (COPPA).\nThe CCPA, CPRA, and CalOPPA are laws that protect the privacy of consumers in California. COPPA is a law that protects the privacy of children under the age of 13.\nYour Rights\nUnder the GDPR, CCPA, CPRA, CalOPPA, and COPPA, you have the following rights:\n- The right to access...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "1a9aa1323693d85196edb6483122bd41ae14df253ee86b85f9bc88092ca11bef",
+                "score": 0.01678549,
+                "excerpt": "experience and to help provide a better service for users of all ages. We do not share your birthdate with third parties or others on Gracefill.\nChanges to This Policy\nWe may update this privacy policy from time to time. If we make any changes, we will post the updated privacy policy on our website. If you continue to use Gracefill after those changes are in effect, the new policy applies to you. If the changes are significant, we may notify you by sending you an email.Contact UsIf you have any ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "6e4c7ed8c19f0f82307bc3c3cf9191ff7c2707888801ec4996dec0a4a9d1b212",
+                "score": 0.011331754,
+                "excerpt": "to protect your personal information from unauthorized access, use, or disclosure. We use industry-standard security measures, such as encryption and firewalls, to protect your personal information.\nData Transfers\nWe may transfer your personal information to other countries as necessary to conduct our business operations consistent with our description of how we user your data. If we do transfer your personal information to another country, we will take steps to ensure that your personal informa...",
+                "url": "http://gracefill.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472705015,
+            "url": "http://gracefill.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app shares personal information with various third parties for different purposes.",
+            "reference": "We may share your personal information with the following third parties: Service providers, Payment processors, Marketing partners, Law enforcement agencies, government agencies, or other parties in compliance with the law. URL: http://gracefill.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "fe768554f98d1006ed8dfc956469539b76fe93bc9834da4e17c5441f9578be4c",
+                "score": 0.8373541,
+                "excerpt": "to your questions or comments.\n- To personalize your experience.\n- To market our services to you.\n- To send you updates, including by email, push notification, or SMS. You can unsubscribe from our promotional emails at any time and decide to stop getting other notifications by updating your settings.\n- To comply with legal requirements.\nHow We Share Your Information\nAnyone can see the public content you post, such as your gratitude messages and your public profile information. In addition, we ma...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "f2e0378e797190542f236c4a11cdce4a2acc8db865dace20fc3cd52344279b48",
+                "score": 0.38624245,
+                "excerpt": "Privacy Policy\nOverview\nThis privacy policy explains how we collect, use, and share your personal information when you visit our website or use our application. We are committed to protecting your privacy and will only use your personal information in accordance with this policy.\nInformation We Collect\nWhen you use the Gracefill app or website, you share certain information voluntarily which gets logged automatically:\n- Account information: When you sign up for Gracefill, we collect information ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "1a9aa1323693d85196edb6483122bd41ae14df253ee86b85f9bc88092ca11bef",
+                "score": 0.1322902,
+                "excerpt": "experience and to help provide a better service for users of all ages. We do not share your birthdate with third parties or others on Gracefill.\nChanges to This Policy\nWe may update this privacy policy from time to time. If we make any changes, we will post the updated privacy policy on our website. If you continue to use Gracefill after those changes are in effect, the new policy applies to you. If the changes are significant, we may notify you by sending you an email.Contact UsIf you have any ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "6e4c7ed8c19f0f82307bc3c3cf9191ff7c2707888801ec4996dec0a4a9d1b212",
+                "score": 0.12765263,
+                "excerpt": "to protect your personal information from unauthorized access, use, or disclosure. We use industry-standard security measures, such as encryption and firewalls, to protect your personal information.\nData Transfers\nWe may transfer your personal information to other countries as necessary to conduct our business operations consistent with our description of how we user your data. If we do transfer your personal information to another country, we will take steps to ensure that your personal informa...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "65e87ff56c3f37d17f5bb17f0dabfaca9775311c047724c25eaa9d4a946325df",
+                "score": 0.0894546,
+                "excerpt": "marketing emails from us by clicking the unsubscribe link at the bottom of any marketing email.\n- You can correct information by updating information in your profile.\n- You can request access to your personal information by contacting us at hello@gracefill.com.\nRequests to Delete Your Data\nYou can request that we delete your personal information, including your username, password, and your profile data and user settings, by contacting us at developer@gracefill.com and providing your name, the em...",
+                "url": "http://gracefill.com/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6472705015,
+            "url": "http://gracefill.com/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers, payment processors, marketing partners, and law enforcement agencies or government parties all in compliance with the law",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers",
+                        "Payment processors",
+                        "Marketing partners",
+                        "Law enforcement agencies or government agencies"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share personal information with various third parties, including service providers, payment processors, marketing partners, and law enforcement agencies or government parties. These third parties are involved in operating the website or app, processing payments, marketing services, and legal compliance.",
+            "reference": "Service providers who help us operate our website or app. Payment processors who help us process your payments. Marketing partners who help us market our services to you. With law enforcement agencies, government agencies or other parties in compliance with the law. We will only share your personal information with third parties who will not re-sell or otherwise use your personal information other than for the uses we describe herein. URL: http://gracefill.com/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "fe768554f98d1006ed8dfc956469539b76fe93bc9834da4e17c5441f9578be4c",
+                "score": 0.8828326,
+                "excerpt": "to your questions or comments.\n- To personalize your experience.\n- To market our services to you.\n- To send you updates, including by email, push notification, or SMS. You can unsubscribe from our promotional emails at any time and decide to stop getting other notifications by updating your settings.\n- To comply with legal requirements.\nHow We Share Your Information\nAnyone can see the public content you post, such as your gratitude messages and your public profile information. In addition, we ma...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "f2e0378e797190542f236c4a11cdce4a2acc8db865dace20fc3cd52344279b48",
+                "score": 0.19132768,
+                "excerpt": "Privacy Policy\nOverview\nThis privacy policy explains how we collect, use, and share your personal information when you visit our website or use our application. We are committed to protecting your privacy and will only use your personal information in accordance with this policy.\nInformation We Collect\nWhen you use the Gracefill app or website, you share certain information voluntarily which gets logged automatically:\n- Account information: When you sign up for Gracefill, we collect information ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "6e4c7ed8c19f0f82307bc3c3cf9191ff7c2707888801ec4996dec0a4a9d1b212",
+                "score": 0.15934819,
+                "excerpt": "to protect your personal information from unauthorized access, use, or disclosure. We use industry-standard security measures, such as encryption and firewalls, to protect your personal information.\nData Transfers\nWe may transfer your personal information to other countries as necessary to conduct our business operations consistent with our description of how we user your data. If we do transfer your personal information to another country, we will take steps to ensure that your personal informa...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "1a9aa1323693d85196edb6483122bd41ae14df253ee86b85f9bc88092ca11bef",
+                "score": 0.09057447,
+                "excerpt": "experience and to help provide a better service for users of all ages. We do not share your birthdate with third parties or others on Gracefill.\nChanges to This Policy\nWe may update this privacy policy from time to time. If we make any changes, we will post the updated privacy policy on our website. If you continue to use Gracefill after those changes are in effect, the new policy applies to you. If the changes are significant, we may notify you by sending you an email.Contact UsIf you have any ...",
+                "url": "http://gracefill.com/privacy"
+            },
+            {
+                "id": "14f17ab2d7de8bc4d7564343ae7671848f52b8f10e3dd2eb6b68630dbdea2254",
+                "score": 0.08035747,
+                "excerpt": "you utilize), log data (date and time of your access), device information (unique device identifier, IP address, browser type, operating system, location, and settings), your network service provider, and \"cookies\" and similar technologies to collect certain information for improving user experience.\n- Payment information: When you make a transaction or subscribe to our plans, we may collect your credit card details and billing address.\n- Your communications with us: If you contact us for suppor...",
+                "url": "http://gracefill.com/privacy"
+            }
+        ]
+    }
+]

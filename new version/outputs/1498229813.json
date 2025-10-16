@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 1498229813,
+            "url": "https://www.reachwell.info/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is collected by the app when users input their data, and it mentions the types of data collected.",
+            "reference": "If you do not consent, then you must not use the App. Aggregated Data We may anonymise and aggregate data from all users of the App. This data may be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your age, ethnicity, health and lifestyle data, but without your name, address or contact details. URL: https://www.reachwell.info/privacy.html, Information you give us. This is information (including Identity, Health and Lifestyle, Biological, Data about your contacts, and Communications Data) you consent to giving us about you by filling in forms on the URL: https://www.reachwell.info/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "c302ede4aa4ce667816d55e7ee64cc01e62dac74b5ef11b6f9ec9317028d8a54",
+                "score": 0.9348725,
+                "excerpt": "the App and input your data into the App, you consent to us collecting this data. If you do not consent, then you must not use the App.\nAggregated Data\nWe may anonymise and aggregate data from all users of the App. This data may be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your age, ethnicity, health and lifestyle data, but without your name, address or contact detail...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "221d111d3b2a004a8c234e8d797407c81fbf8cc3aef0075414035eccab046ad7",
+                "score": 0.58717394,
+                "excerpt": "required to read and accept the changes to continue your use of the App or Services.\nIt is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during our relationship with you.\nThird party links\nOur App or websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. Please note that these websites and any services that may be accessible through them have t...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "a5e427bbe8ea524990e5c847ad026d373286649600ba1660dc6ecd6682837a40",
+                "score": 0.5509396,
+                "excerpt": "Privacy Notice\nIntroduction\nThis policy (together with any additional terms of use notified to you) apply to your use of our REACHHealth web application (App). It applies whether you access the App by our website or by downloading and using the dedicated mobile application software.\nThis policy also applies to any services accessible through the App or that are available on any websites of ours (Services) unless a separate policy is notified to you when accessing or using those Services.\nThis po...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "457e7848fd96ccdfc9ab971da618dc58244123b4c72765ab7a9284b7e2054892",
+                "score": 0.45604637,
+                "excerpt": "of our website.\nFor more detailed information on how we use cookies, see our cookie policy\nIf you are using the mobile application software, we use your mobile device's built-in storage to store small pieces of data, similar to how cookies work in a browser. This information is generally stored indefinitely, to allow us to provide you the best possible experience. We do this to keep you authenticated to our servers, store data for easy retrieval later, and track the performance of the app.\nFor d...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "05b1d859f90cdb400a35135d81bbc13adbfa971efb4677d3a96eccd0fccf3fcb",
+                "score": 0.4188752,
+                "excerpt": "them with third parties.\nHow is your personal data collected?\nWe will collect and process the following data about you:\n-\nInformation you give us. This is information (including Identity, Health and Lifestyle, Biological, Data about your contacts, and Communications Data) you consent to giving us about you by filling in forms on the App or our websites, or by corresponding with us (for example, by email or chat). It includes information you provide when you register to use the App or any Service...",
+                "url": "https://www.reachwell.info/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498229813,
+            "url": "https://www.reachwell.info/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Identity Data (name, username, date of birth, biological sex), Contact Data (email address), Ethnicity, Biological Data (age, height, weight, heart rate, blood pressure, blood glucose, cholesterol), Health and Lifestyle Data, Device Data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identity Data",
+                        "Contact Data",
+                        "Ethnicity",
+                        "Biological Data",
+                        "Health and Lifestyle Data",
+                        "Device Data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly outlines the various types of personal data that the app collects from users.",
+            "reference": "Identity Data, Contact Data, Ethnicity, Biological Data, Health and Lifestyle Data, Device Data. URL: https://www.reachwell.info/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "221d111d3b2a004a8c234e8d797407c81fbf8cc3aef0075414035eccab046ad7",
+                "score": 0.9777139,
+                "excerpt": "required to read and accept the changes to continue your use of the App or Services.\nIt is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during our relationship with you.\nThird party links\nOur App or websites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. Please note that these websites and any services that may be accessible through them have t...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "c302ede4aa4ce667816d55e7ee64cc01e62dac74b5ef11b6f9ec9317028d8a54",
+                "score": 0.9094255,
+                "excerpt": "the App and input your data into the App, you consent to us collecting this data. If you do not consent, then you must not use the App.\nAggregated Data\nWe may anonymise and aggregate data from all users of the App. This data may be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your age, ethnicity, health and lifestyle data, but without your name, address or contact detail...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "05b1d859f90cdb400a35135d81bbc13adbfa971efb4677d3a96eccd0fccf3fcb",
+                "score": 0.82318634,
+                "excerpt": "them with third parties.\nHow is your personal data collected?\nWe will collect and process the following data about you:\n-\nInformation you give us. This is information (including Identity, Health and Lifestyle, Biological, Data about your contacts, and Communications Data) you consent to giving us about you by filling in forms on the App or our websites, or by corresponding with us (for example, by email or chat). It includes information you provide when you register to use the App or any Service...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4d7c85f36080cf77bc1ed6360af9413a296c1fea6c16da1fe9b947434ca4101b",
+                "score": 0.765418,
+                "excerpt": "height, weight, heart rate, blood pressure, blood glucose and cholesterol.\n-\nHealth and Lifestyle Data including information regarding your physical activity, diet, , stress levels, alcohol use, smoking, financial and mental wellbeing data and risk factors for specific diseases.\n-\nDevice Data: includes the type of mobile device you use, a unique device identifier (for example, your device’s IMEI number, the MAC address of the device’s wireless network interface, or the mobile phone number used b...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "28ed6abf7e39d579953cceab0658e87cc68a8cf8395f2757260893e01d53b947",
+                "score": 0.43815404,
+                "excerpt": "factors.\nBy installing and using the App or accessing the App on our website, you consent to us processing your information for those purposes. If you do not consent to us processing your information for those purposes, you must not use the App.\nOther uses of your personal data\nWe have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where ...",
+                "url": "https://www.reachwell.info/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498229813,
+            "url": "https://www.reachwell.info/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects information on lifestyle, health, and wellbeing to calculate risk factors for diseases and provide advice on managing those risk factors.",
+            "reference": "One of the main purposes of the App is to collect information on your lifestyle and health and wellbeing, in order to calculate your risk factors for specific diseases and provide advice on how to manage those risk factors. URL: https://www.reachwell.info/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "457e7848fd96ccdfc9ab971da618dc58244123b4c72765ab7a9284b7e2054892",
+                "score": 0.9528382,
+                "excerpt": "of our website.\nFor more detailed information on how we use cookies, see our cookie policy\nIf you are using the mobile application software, we use your mobile device's built-in storage to store small pieces of data, similar to how cookies work in a browser. This information is generally stored indefinitely, to allow us to provide you the best possible experience. We do this to keep you authenticated to our servers, store data for easy retrieval later, and track the performance of the app.\nFor d...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "28ed6abf7e39d579953cceab0658e87cc68a8cf8395f2757260893e01d53b947",
+                "score": 0.72903776,
+                "excerpt": "factors.\nBy installing and using the App or accessing the App on our website, you consent to us processing your information for those purposes. If you do not consent to us processing your information for those purposes, you must not use the App.\nOther uses of your personal data\nWe have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where ...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "c302ede4aa4ce667816d55e7ee64cc01e62dac74b5ef11b6f9ec9317028d8a54",
+                "score": 0.48701006,
+                "excerpt": "the App and input your data into the App, you consent to us collecting this data. If you do not consent, then you must not use the App.\nAggregated Data\nWe may anonymise and aggregate data from all users of the App. This data may be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your age, ethnicity, health and lifestyle data, but without your name, address or contact detail...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4a1c3ceda34f7cd59bfbd2d6cf98a7a150294fdf5606bd5b619f022f55b0f50c",
+                "score": 0.24544658,
+                "excerpt": "for any marketing purposes.\nWe will send you communications relating to your use of the App and Services, and notifications about challenges, tasks and goals that you and your contacts are competing in. You can disable notifications and emails in the account settings in the App.\n4. Disclosures of your personal data\nWe will share your personal data with the third parties set out below\n-\nYour contacts, when you take part in team challenges and tasks, or when you agree to share data with your conta...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4d7c85f36080cf77bc1ed6360af9413a296c1fea6c16da1fe9b947434ca4101b",
+                "score": 0.23881637,
+                "excerpt": "height, weight, heart rate, blood pressure, blood glucose and cholesterol.\n-\nHealth and Lifestyle Data including information regarding your physical activity, diet, , stress levels, alcohol use, smoking, financial and mental wellbeing data and risk factors for specific diseases.\n-\nDevice Data: includes the type of mobile device you use, a unique device identifier (for example, your device’s IMEI number, the MAC address of the device’s wireless network interface, or the mobile phone number used b...",
+                "url": "https://www.reachwell.info/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498229813,
+            "url": "https://www.reachwell.info/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users can withdraw consent at any time by closing their account, deleting their data, and contacting the data controller through email. Moreover, it mentions that users have the right to request erasure of their personal data, indicating that users can indeed opt out of data collection or delete their data.",
+            "reference": "You may withdraw your consent at any time by closing your account, and choosing to delete your data, from the profile section of the App. You can also contact us at [email protected]. URL: https://www.reachwell.info/privacy.html."
+        },
+        "source_documents": [
+            {
+                "id": "4c78eddbd7be5b64bef9afc1e19853261aaa5461149f1b1eda7cf20a036bac5d",
+                "score": 0.71651626,
+                "excerpt": "the new data you provide to us.\n-\nRequest erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, how...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4dca5dbd2b59499491618be33b4794a2a03cef1c2c7f85ef8e7b76636f4bdcbb",
+                "score": 0.5993679,
+                "excerpt": "the same way as set out in this privacy policy.\nIf the App is made available to you by your employer or another organisation, we will provide anonymous, aggregated data relating to all of your employer's employees who use the App (or all of the organisation's users who use the App) to your employer or to the organisation in the form of a monthly report. This information is not personal data.\n5. How to withdraw your consent\nYou may withdraw your consent at any time by closing your account, and ch...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "b176bb03590a8b13a1338a6675beee29ee33cc0fac2259a64dc7d2e31c6483c2",
+                "score": 0.40544873,
+                "excerpt": "freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.\n-\nRequest restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:\n-\nif you want us to establish the data's accuracy;\n-\nwhere our use of the ...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "faebca4d2af8d91ad38cd1eb12f865142cceaaa6f78aba940b87c6f560d7875c",
+                "score": 0.40415466,
+                "excerpt": "used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.\n-\nWithdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we will not be able to provide information to your employer.\n...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "d7966fc38370ddfe597871a8218a7b730fc6f452badef39802ec36066325b27a",
+                "score": 0.3179555,
+                "excerpt": "unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.\nIn most cases, this means we will retain your data unless and until you delete your account on the App or on our website.\nWe may delete your information if your employer requests us to do so.\nFor more details, please contact our Data Protection Manager.\n9. Your legal rights\nUnder certain ci...",
+                "url": "https://www.reachwell.info/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498229813,
+            "url": "https://www.reachwell.info/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares personal data with various third parties under specific circumstances.",
+            "reference": "We will share your personal data with the third parties set out below - Your contacts, when you take part in team challenges and tasks, or when you agree to share data with your contacts in the App. In these cases, we will share your activity data relating to the specific challenge or task. - Other members of our group of companies - Service providers acting as processors based in the United Kingdom who provide IT and system administration services. - Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. For any marketing purposes. URL: https://www.reachwell.info/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "05b1d859f90cdb400a35135d81bbc13adbfa971efb4677d3a96eccd0fccf3fcb",
+                "score": 0.9948001,
+                "excerpt": "them with third parties.\nHow is your personal data collected?\nWe will collect and process the following data about you:\n-\nInformation you give us. This is information (including Identity, Health and Lifestyle, Biological, Data about your contacts, and Communications Data) you consent to giving us about you by filling in forms on the App or our websites, or by corresponding with us (for example, by email or chat). It includes information you provide when you register to use the App or any Service...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4a1c3ceda34f7cd59bfbd2d6cf98a7a150294fdf5606bd5b619f022f55b0f50c",
+                "score": 0.9939731,
+                "excerpt": "for any marketing purposes.\nWe will send you communications relating to your use of the App and Services, and notifications about challenges, tasks and goals that you and your contacts are competing in. You can disable notifications and emails in the account settings in the App.\n4. Disclosures of your personal data\nWe will share your personal data with the third parties set out below\n-\nYour contacts, when you take part in team challenges and tasks, or when you agree to share data with your conta...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4dca5dbd2b59499491618be33b4794a2a03cef1c2c7f85ef8e7b76636f4bdcbb",
+                "score": 0.9937588,
+                "excerpt": "the same way as set out in this privacy policy.\nIf the App is made available to you by your employer or another organisation, we will provide anonymous, aggregated data relating to all of your employer's employees who use the App (or all of the organisation's users who use the App) to your employer or to the organisation in the form of a monthly report. This information is not personal data.\n5. How to withdraw your consent\nYou may withdraw your consent at any time by closing your account, and ch...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "c48f0f2dfbecd0714cef1387c0082672125a709f16428f406d3233c60584563f",
+                "score": 0.97520185,
+                "excerpt": "longer personal information) may still be used within the aggregated data we collate.\n6. International transfers\nWe may transfer your personal data to third parties providing services to us who are based outside of the United Kingdom. This includes parties providing IT administration services and hosting services.\nWhenever we transfer your personal data outside of the UK, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemente...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "c302ede4aa4ce667816d55e7ee64cc01e62dac74b5ef11b6f9ec9317028d8a54",
+                "score": 0.95230865,
+                "excerpt": "the App and input your data into the App, you consent to us collecting this data. If you do not consent, then you must not use the App.\nAggregated Data\nWe may anonymise and aggregate data from all users of the App. This data may be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your age, ethnicity, health and lifestyle data, but without your name, address or contact detail...",
+                "url": "https://www.reachwell.info/privacy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1498229813,
+            "url": "https://www.reachwell.info/privacy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with the user's contacts, other members of the company group, service providers, and potential business partners.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "User's contacts",
+                        "Other members of the company group",
+                        "Service providers",
+                        "Potential business partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states the different categories of third parties with whom the app shares data",
+            "reference": "Your contacts, when you take part in team challenges and tasks, or when you agree to share data with your contacts in the App. In these cases, we will share your activity data relating to the specific challenge or task. Other members of our group of companies. Service providers acting as processors based in the United Kingdom who provide IT and system administration services. Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. URL: https://www.reachwell.info/privacy.html"
+        },
+        "source_documents": [
+            {
+                "id": "4dca5dbd2b59499491618be33b4794a2a03cef1c2c7f85ef8e7b76636f4bdcbb",
+                "score": 0.9951325,
+                "excerpt": "the same way as set out in this privacy policy.\nIf the App is made available to you by your employer or another organisation, we will provide anonymous, aggregated data relating to all of your employer's employees who use the App (or all of the organisation's users who use the App) to your employer or to the organisation in the form of a monthly report. This information is not personal data.\n5. How to withdraw your consent\nYou may withdraw your consent at any time by closing your account, and ch...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "05b1d859f90cdb400a35135d81bbc13adbfa971efb4677d3a96eccd0fccf3fcb",
+                "score": 0.98975134,
+                "excerpt": "them with third parties.\nHow is your personal data collected?\nWe will collect and process the following data about you:\n-\nInformation you give us. This is information (including Identity, Health and Lifestyle, Biological, Data about your contacts, and Communications Data) you consent to giving us about you by filling in forms on the App or our websites, or by corresponding with us (for example, by email or chat). It includes information you provide when you register to use the App or any Service...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "4a1c3ceda34f7cd59bfbd2d6cf98a7a150294fdf5606bd5b619f022f55b0f50c",
+                "score": 0.9861514,
+                "excerpt": "for any marketing purposes.\nWe will send you communications relating to your use of the App and Services, and notifications about challenges, tasks and goals that you and your contacts are competing in. You can disable notifications and emails in the account settings in the App.\n4. Disclosures of your personal data\nWe will share your personal data with the third parties set out below\n-\nYour contacts, when you take part in team challenges and tasks, or when you agree to share data with your conta...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "c48f0f2dfbecd0714cef1387c0082672125a709f16428f406d3233c60584563f",
+                "score": 0.9798997,
+                "excerpt": "longer personal information) may still be used within the aggregated data we collate.\n6. International transfers\nWe may transfer your personal data to third parties providing services to us who are based outside of the United Kingdom. This includes parties providing IT administration services and hosting services.\nWhenever we transfer your personal data outside of the UK, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemente...",
+                "url": "https://www.reachwell.info/privacy.html"
+            },
+            {
+                "id": "df7a3e79f0682b480efa34ee737d79c98527dedb2a821bf47805316bb96de3e8",
+                "score": 0.9014011,
+                "excerpt": "data, which is not personal data, and share this data with your employer or the organisation providing the App to you. | Health, Financial, Goals set, Challenge data, Activity data | Your consent |\n| To deliver any Services to you, including managing any payments and collecting money owed to us. | Identity, Contact, Financial, Device, Communications | Your consent. Performance of a contract with you. Necessary for our legitimate interests (to recover debts due to us) |\n| To manage our relationsh...",
+                "url": "https://www.reachwell.info/privacy.html"
+            }
+        ]
+    }
+]

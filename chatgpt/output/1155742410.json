@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1155742410,
+      "url": "https://visionboardapp.github.io/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "The app does not declare the collection of personal data, stating that it does not store any personal user data throughout its mobile applications and does not collect any personal information from users.",
+        "simple_answer": "No, the app does not collect personal data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states that it does not collect personal information.",
+          "content": "We are not storing any personal user data throughout our mobile applications that are subject and linked to this privacy policy. We do not collect any personal information from you."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that the app does not engage in the collection of personal data from its users.",
+      "reference": "What personal information we collect from you."
+    }
+  },
+  {
+    "meta": {
+      "id": 1155742410,
+      "url": "https://visionboardapp.github.io/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app does not collect any personal information from users. It uses third-party services like Google Firebase Analytics and Crashlytics, which collect technical logs and usage data, but these do not include personal information.",
+        "simple_answer": "The app does not collect any personal information.",
+        "extended_simple_answer": {
+          "comment": "The app relies on third-party services for analytics and performance tracking, which do not collect personal data.",
+          "content": "The app uses Google Firebase Analytics to analyze usage and Crashlytics to track performance, but neither collects personal information."
+        }
+      },
+      "analysis": "The privacy policy clearly states that no personal user data is stored or collected by the app itself.",
+      "reference": "We are not storing any personal user data throughout our mobile applications that are subject and linked to this privacy policy. We do not collect any personal information from you."
+    }
+  },
+  {
+    "meta": {
+      "id": 1155742410,
+      "url": "https://visionboardapp.github.io/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "The app does not declare a purpose for data collection and use because it states that it does not collect any personal information from users. The only data collected is technical logs for performance analysis through services like Google Firebase Analytics and Crashlytics, which are used to improve the app and analyze its performance.",
+        "simple_answer": "No, the app does not collect personal information, so it does not declare a purpose for data collection.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes that it does not store personal user data and only collects technical logs for performance analysis.",
+          "content": "We are not storing any personal user data throughout our mobile applications that are subject and linked to this privacy policy. We do not collect any personal information from you."
+        }
+      },
+      "analysis": "The privacy policy clearly states that no personal information is collected, which implies that there is no declared purpose for data collection related to personal data.",
+      "reference": "We are not storing any personal user data throughout our mobile applications that are subject and linked to this privacy policy. We do not collect any personal information from you."
+    }
+  },
+  {
+    "meta": {
+      "id": 1155742410,
+      "url": "https://visionboardapp.github.io/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of data collection by simply stopping the use of the app and uninstalling it from their device.",
+        "simple_answer": "Yes, users can opt out by uninstalling the app.",
+        "extended_simple_answer": {
+          "comment": "The policy states that users can stop the collection of information by ceasing to use the app.",
+          "content": "In case you want to stop our apps collecting any information from you, you can just stop using them and even uninstall them from your device."
+        }
+      },
+      "analysis": "",
+      "reference": "In case you want to stop our apps collecting any information from you, you can just stop using them and even uninstall them from your device."
+    }
+  },
+  {
+    "meta": {
+      "id": 1155742410,
+      "url": "https://visionboardapp.github.io/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties as it does not collect any personal information from users. However, it uses third-party services like Google Firebase Analytics, Crashlytics, and Google Admob, which may collect data for their own purposes, but Vision Board does not have access to that information.",
+        "simple_answer": "No, the app does not share personal data with third parties.",
+        "extended_simple_answer": {
+          "comment": "While the app does not share personal data, it utilizes third-party services that may collect data independently.",
+          "content": "The app does not store or share any personal user data. It uses third-party services like Google Firebase Analytics and Crashlytics, which collect technical logs and usage data, but Vision Board does not have access to personal information from these services."
+        }
+      },
+      "analysis": "The privacy policy clearly states that Vision Board does not collect or store personal information, and therefore does not share it with third parties. The mention of third-party services indicates that while they may collect data, it is not personal data that Vision Board has access to.",
+      "reference": "We are not storing any personal user data throughout our mobile applications that are subject and linked to this privacy policy. We do not collect any personal information from you."
+    }
+  },
+  {
+    "meta": {
+      "id": 1155742410,
+      "url": "https://visionboardapp.github.io/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties, as it does not collect any personal information from users. However, it uses third-party services such as Google Firebase Analytics, Crashlytics, and Google Admob, which may collect data for their own purposes. Vision Board does not have access to the personal information collected by these third parties.",
+        "simple_answer": "The app does not share personal data with third parties.",
+        "extended_simple_answer": {
+          "comment": "While the app uses third-party services, it does not share personal data with them.",
+          "content": "The app uses Google Firebase Analytics for usage analysis, Crashlytics for performance tracking, and Google Admob for advertisements. These services may collect data, but Vision Board does not control or access that data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that Vision Board does not collect or store personal information, and therefore does not share it with third parties. The mention of third-party services indicates that while data may be collected by these services, it is not shared by Vision Board.",
+      "reference": "We are not storing any personal user data throughout our mobile applications that are subject and linked to this privacy policy. We do not collect any personal information from you."
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6475717895,
+      "url": "https://static.iqmasters.app/privacy-en.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal data of users, such as name, email address, phone number, order information, age group, gender, and performance data in games, are collected and processed by Codeway.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of personal data collected and the methods of collection.",
+          "content": "The personal data collected includes identity information, contact information, process security data, and information provided by users through the app."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Collection of Personal Data and Method"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475717895,
+      "url": "https://static.iqmasters.app/privacy-en.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including: 1. Identity Information: Name and surname (if you contact Codeway). 2. Contact Information: Phone number and e-mail address (if you contact Codeway). 3. Process Security and Application Data: Internet traffic data (network movements, IP address, visit data, time and date information), device name, in-app purchase history, Token ID (when you allow notifications), Identifier for Advertisers (IDFA), Identifier for Vendors (IDVF). 4. Information You Provide: Age group and gender information, survey responses, answers, choices, and other data created and returned by the app. 5. Your Activity: Scores and performances in the games played through the app. 6. Customer Transaction: Order information. 7. Marketing Data: IDFA and IDVF.",
+        "simple_answer": "The app collects identity information, contact information, application data, age group and gender, survey responses, activity data, order information, and marketing data.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of personal data to enhance user experience and customize services.",
+          "content": "Types of data collected include identity information, contact information, application data, age group and gender, survey responses, activity data, order information, and marketing data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Collection of Personal Data and Method"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475717895,
+      "url": "https://static.iqmasters.app/privacy-en.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal data may be processed for the purposes outlined in the Privacy Policy, which includes maintaining the accuracy of personal data, customizing services, and complying with legal obligations.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines specific purposes for data collection, ensuring transparency.",
+          "content": "The personal data may be processed for purposes such as customizing services, compliance with legal obligations, and enhancing user experience."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Objective and Section 2: Collection of Personal Data and Method"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475717895,
+      "url": "https://static.iqmasters.app/privacy-en.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by submitting a request to support@codeway.co. However, if they choose to opt out, the services will not be customized. The policy also implies that users can request the deletion of their data, although specific procedures for deletion are not detailed in the provided text.",
+        "simple_answer": "Yes, users can opt out of data collection.",
+        "extended_simple_answer": {
+          "comment": "Opting out will affect service customization.",
+          "content": "Users can submit a request to support@codeway.co to opt out of data collection."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of data collection, which is a common practice to ensure user control over personal data. However, opting out may limit the personalization of services.",
+      "reference": "Section 2, Collection of Personal Data and Method"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475717895,
+      "url": "https://static.iqmasters.app/privacy-en.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share personal data with third parties. The personal data may be transferred to institutions authorized to request such data by law and shall be classified and shared with third parties within the country or abroad under the conditions stipulated by legislation and upon your explicit consent if necessary.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is subject to legal conditions and user consent.",
+          "content": "The app may share personal data with third parties as required by law or with user consent."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal data may be shared with third parties under certain legal conditions and with user consent, indicating a structured approach to data sharing.",
+      "reference": "Section 1: Objective"
+    }
+  },
+  {
+    "meta": {
+      "id": 6475717895,
+      "url": "https://static.iqmasters.app/privacy-en.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share personal data with third parties that are authorized to request such data by law, and it may also be shared with third parties within the country or abroad under the conditions stipulated by legislation and upon the user's explicit consent if necessary.",
+        "simple_answer": "The app shares data with legally authorized third parties and others with user consent.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is subject to legal requirements and user consent.",
+          "content": "The app may share personal data with third parties authorized by law and may also share data with other third parties, both domestically and internationally, if required by law and with user consent."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Objective"
+    }
+  }
+]

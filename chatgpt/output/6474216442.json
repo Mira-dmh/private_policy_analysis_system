@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6474216442,
+      "url": "https://www.jiminihealth.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal data is collected from various sources, including directly from users, automatically through tracking technologies, and from third parties.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the sources and types of personal data collected.",
+          "content": "The app collects personal data about users from direct interactions, automatic tracking technologies, and third-party sources."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the collection of personal data, ensuring transparency about the sources and types of data collected.",
+      "reference": "Section 1: Sources of Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474216442,
+      "url": "https://www.jiminihealth.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of personal data: Identifiers (such as name, email address, physical address, telephone number, and device identifiers), demographic information (such as age and gender), commercial information (related to transactions and purchasing histories), internet or other electronic network activity information (such as browsing history and account settings), non-precise geolocation data (approximate location based on IP address), inferences drawn from collected information (to create a profile about preferences or behavior), and sensitive personal data (such as health information).",
+        "simple_answer": "The app collects identifiers, demographic information, commercial information, internet activity information, non-precise geolocation data, inferences, and sensitive personal data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of personal data to enhance user experience and provide services.",
+          "content": "Types of data collected include identifiers, demographic info, commercial info, internet activity, geolocation, inferences, and sensitive data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Personal Data We May Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474216442,
+      "url": "https://www.jiminihealth.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal data may be used for various purposes including providing the Platform, fulfilling obligations under the Terms of Use, communicating with users, managing user accounts, improving the Platform, conducting research and analysis, and ensuring compliance with legal obligations, among others.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines multiple purposes for data collection, ensuring transparency in its operations.",
+          "content": "The purposes include providing the Platform, fulfilling obligations, communicating with users, improving user experience, and complying with legal requirements."
+        }
+      },
+      "analysis": "The privacy policy clearly specifies the various ways in which personal data is utilized, indicating a commitment to transparency and user awareness.",
+      "reference": "Section 3: How We Use Your Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474216442,
+      "url": "https://www.jiminihealth.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it does state that users can contact Jimini Health for questions or concerns regarding their personal data, which may imply that users can inquire about their data management options.",
+        "simple_answer": "The policy does not specify an opt-out or data deletion option.",
+        "extended_simple_answer": {
+          "comment": "Users are encouraged to reach out for inquiries about their data.",
+          "content": "The privacy policy encourages users to contact Jimini Health with any questions or concerns about their personal data, but it does not provide specific details on opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The absence of explicit mention of opt-out or deletion options suggests that users may need to directly contact Jimini Health for such requests.",
+      "reference": "Contact Us section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474216442,
+      "url": "https://www.jiminihealth.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares personal data with third parties, including Providers and Service Providers. Providers are the healthcare organizations that oversee and direct your mental health care, while Service Providers are third-party companies and individuals that help run the business and provide services on behalf of Jimini Health. These Service Providers are contractually bound to protect your personal data and use it only for the limited purposes for which it is shared.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with Providers and Service Providers to facilitate services and improve the platform.",
+          "content": "Personal data is shared with Providers for mental health care and with Service Providers who assist in running the business."
+        }
+      },
+      "analysis": "The sharing of data with third parties is necessary for the operation of the app and to provide services to users. However, it is done under strict contractual obligations to protect user data.",
+      "reference": "Section 4: How We May Disclose Personal Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6474216442,
+      "url": "https://www.jiminihealth.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares personal data with the following categories of individuals/entities: Providers, which include your healthcare providers and their affiliated health care organizations to provide the Services and oversee your mental health care; and Service Providers, which are third-party companies and individuals that help run the business, perform service-related functions, or assist in analyzing how the Services are used and improving the Platform and user experience.",
+        "simple_answer": "The app shares data with Providers and Service Providers.",
+        "extended_simple_answer": {
+          "comment": "The app collaborates with healthcare providers and third-party service providers to enhance its services.",
+          "content": "Providers include your healthcare providers and their affiliated organizations, while Service Providers are third-party companies that assist in running the business and improving the user experience."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: How We May Disclose Personal Data"
+    }
+  }
+]

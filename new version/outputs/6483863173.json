@@ -1,0 +1,332 @@
+[
+    {
+        "meta": {
+            "id": 6483863173,
+            "url": "https://actuvi.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects data and explains the details related to data collection.",
+            "reference": "Our priority is protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information...use of our Services (which include the Sites), we appreciate that you are trusting us with your...In this privacy notice, we seek to explain to you in the clearest way...what information we collect...URL: https://actuvi.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "55d522b046148c6f36aa0a6aafbf4ed6d09c9921d06554b9850d2b7f06f267d0",
+                "score": 0.0065897717,
+                "excerpt": "Welcome to Actuvi, (“Actuvi“, “Company“, “we“, “us“, “our“). Our priority is protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at support@actuvi.com.\nWhen you visit our website http://www.actuvi.com or Actuvi Application (collectively, the “Sites”), and more generally, use any of our services (the “Services“, which include the Sites), we app...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "683226b5d13860d98be2677419d05534ed57a1eff35a5352594768efe4ae36ee",
+                "score": 0.0038096302,
+                "excerpt": "much information we collect depends on the type and settings of the device you use to access the Sites. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Servi...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "c400b1a69cd64211e1cfda2661d73cae2c6767aa630fd7e554844a25e16aa5fc",
+                "score": 0.0018748617,
+                "excerpt": "and solve any potential issues you might have with the use of our Services.\nTo send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Sites, subscribing to marketing or otherwise contacting us, we will collect personal information from you. Yo...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "2dbef191c824cf2492e50b64848c5f6eb2e3d242b5ba21b4d32e6b1bede03673",
+                "score": 0.0017961492,
+                "excerpt": "servers automatically collect when you access or use our Sites and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Sites (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "762551c25118a632f7ca363afa864ccc899064fd2e14c47f64bb827277940347",
+                "score": 0.0013250224,
+                "excerpt": "are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at support@actuvi.com .\nWHAT ARE YOUR PRIVACY RIGHTS?\nIn Short: You may...",
+                "url": "https://actuvi.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6483863173,
+            "url": "https://actuvi.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as geolocation data, text message information, changes made on the portal, device data, location data, personal information provided by users, and information automatically collected including IP address, browser type, device characteristics, and usage data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Geolocation data",
+                        "Text message information",
+                        "Changes made on the portal",
+                        "Device data",
+                        "Location data",
+                        "Personal information provided by users",
+                        "Information automatically collected (IP address, browser type, device characteristics, usage data)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions various types of data collected, including geolocation data, text message information, changes made on the portal, device data, location data, personal information provided by users, and information automatically collected like IP address, browser type, device characteristics, and usage data.",
+            "reference": "The app collects data such as geolocation data, text message information, changes made on the portal, device data, location data, personal information provided by users, and information automatically collected including IP address, browser type, device characteristics, and usage data. URL: https://actuvi.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "683226b5d13860d98be2677419d05534ed57a1eff35a5352594768efe4ae36ee",
+                "score": 0.16954333,
+                "excerpt": "much information we collect depends on the type and settings of the device you use to access the Sites. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Servi...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "2dbef191c824cf2492e50b64848c5f6eb2e3d242b5ba21b4d32e6b1bede03673",
+                "score": 0.13951357,
+                "excerpt": "servers automatically collect when you access or use our Sites and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Sites (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "1fae6458c960e8d3fdf0154c541bcc2b803bd2345af8db78f57105dc7fa04bad",
+                "score": 0.03963884,
+                "excerpt": "information.\nAll personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.\nInformation automatically collected\nIn Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Sites.\nWe automatically collect certain information when you visit, use or navigate the Sites. This information does not reveal your sp...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "970eba6d4b9b1bb4493bd71ba5e818de3d3956fb6ed9171d4b8775efa4eeaadf",
+                "score": 0.03044435,
+                "excerpt": "INFORMATION?\nHOW DO WE KEEP YOUR INFORMATION SAFE?\nDO WE COLLECT INFORMATION FROM MINORS?\nWHAT ARE YOUR PRIVACY RIGHTS?\nCONTROLS FOR DO-NOT-TRACK FEATURES\nDO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?\nDO WE MAKE UPDATES TO THIS NOTICE?\nHOW CAN YOU CONTACT US ABOUT THIS NOTICE?\nHOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?\nWHAT INFORMATION DO WE COLLECT?\nPersonal information you disclose to us\nIn Short: We collect personal information that you provide to us.\nWe collec...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "2687d6a261b0d252d052c9e4e13c23a382ccf40709a99aa5da8892ffd70cfea4",
+                "score": 0.013795364,
+                "excerpt": "records, we may obtain information about you from other sources, such as public databases, joint marketing partners, affiliate programs, data providers, as well as from other third parties. This information includes mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol (IP) addresses, social media profiles, social media URLs and custom profiles, for purposes of targeted advertising and event promotion.\nHOW DO WE USE YOUR INFORMATION...",
+                "url": "https://actuvi.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6483863173,
+            "url": "https://actuvi.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app processes information for various purposes based on legitimate business interests, compliance with legal obligations, contractual obligations, user consent, and for the fulfillment of services. These purposes include account creation, sending administrative information, providing customer support, marketing communications, security, and enforcement of terms and policies.",
+            "reference": "We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent. We use personal information collected via our Sites for a variety of business purposes described below. URL: https://actuvi.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "c400b1a69cd64211e1cfda2661d73cae2c6767aa630fd7e554844a25e16aa5fc",
+                "score": 0.031026179,
+                "excerpt": "and solve any potential issues you might have with the use of our Services.\nTo send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Sites, subscribing to marketing or otherwise contacting us, we will collect personal information from you. Yo...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "2687d6a261b0d252d052c9e4e13c23a382ccf40709a99aa5da8892ffd70cfea4",
+                "score": 0.016529556,
+                "excerpt": "records, we may obtain information about you from other sources, such as public databases, joint marketing partners, affiliate programs, data providers, as well as from other third parties. This information includes mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol (IP) addresses, social media profiles, social media URLs and custom profiles, for purposes of targeted advertising and event promotion.\nHOW DO WE USE YOUR INFORMATION...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "875d931203796ff0f1291b50f922b93a30260b59289d5e5b0760c1b1dd29dcd0",
+                "score": 0.010248601,
+                "excerpt": "send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.\nTo protect our Services. We may use your information as part of our efforts to keep our Sites safe and secure (for example, for fraud monitoring and prevention).\nTo enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connect...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "3c19090637d1cfb91ffff702482eb5ab38b719bea7c38a13f4715f15a3dae9d4",
+                "score": 0.005281334,
+                "excerpt": "may process your data if you have given us specific consent to use your personal information for a specific purpose.\nLegitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.\nPerformance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.\nLegal Obligations: We may disclose your information where we are legally required to do so in order to c...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "683226b5d13860d98be2677419d05534ed57a1eff35a5352594768efe4ae36ee",
+                "score": 0.0024630069,
+                "excerpt": "much information we collect depends on the type and settings of the device you use to access the Sites. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Servi...",
+                "url": "https://actuvi.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6483863173,
+            "url": "https://actuvi.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by refusing access to location information or disabling the Location setting on their device. However, this may limit certain aspects of the services.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can opt out of allowing the collection of location information by refusing access or disabling the Location setting on their device, though it may affect service usage.",
+            "reference": "You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Services. URL: https://actuvi.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "683226b5d13860d98be2677419d05534ed57a1eff35a5352594768efe4ae36ee",
+                "score": 0.6917057,
+                "excerpt": "much information we collect depends on the type and settings of the device you use to access the Sites. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Servi...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "c28d74ea4066824088202a27987f6626bd417c6c37339e44d125824065225668",
+                "score": 0.62738067,
+                "excerpt": "of personal data as the one in which you reside. However, we will handle your Personal Information in accordance with this Privacy Policy regardless of where your Personal Information is stored/accessed\nAccount Information\nIf you would at any time like to review or change the information in your account or terminate your account, you can:\nContact us by email at support@actuvi.com.\nUpon your request to terminate your account, we will deactivate or delete your account and information from our acti...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "762551c25118a632f7ca363afa864ccc899064fd2e14c47f64bb827277940347",
+                "score": 0.52800107,
+                "excerpt": "are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Sites. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at support@actuvi.com .\nWHAT ARE YOUR PRIVACY RIGHTS?\nIn Short: You may...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "bcbe8bb45caa945fe8be38aba33879aad3c6cb974ec7e0ed25370cfe8a597636",
+                "score": 0.3262714,
+                "excerpt": "time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list — however, we may still communicate with you, for example to send you service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may:\nContact us by email at support@actuvi.com.\nCONTROLS FOR DO-NOT-...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "2dbef191c824cf2492e50b64848c5f6eb2e3d242b5ba21b4d32e6b1bede03673",
+                "score": 0.124000706,
+                "excerpt": "servers automatically collect when you access or use our Sites and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Sites (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes...",
+                "url": "https://actuvi.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6483863173,
+            "url": "https://actuvi.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may share information with third parties based on consent, legal requirements, to provide services, protect rights, or fulfill business obligations.",
+            "reference": "We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations. URL: https://actuvi.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "c400b1a69cd64211e1cfda2661d73cae2c6767aa630fd7e554844a25e16aa5fc",
+                "score": 0.4272772,
+                "excerpt": "and solve any potential issues you might have with the use of our Services.\nTo send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Sites, subscribing to marketing or otherwise contacting us, we will collect personal information from you. Yo...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "683226b5d13860d98be2677419d05534ed57a1eff35a5352594768efe4ae36ee",
+                "score": 0.115560874,
+                "excerpt": "much information we collect depends on the type and settings of the device you use to access the Sites. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. Note however, if you choose to opt out, you may not be able to use certain aspects of the Servi...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "3e9681dbdff342e1cd66b7529b1a6873a373ed9d852c29cf403e0e711241dabf",
+                "score": 0.06255973,
+                "excerpt": "need to process your data or share your personal information in the following situations:\nBusiness Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.\nAffiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and a...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "875d931203796ff0f1291b50f922b93a30260b59289d5e5b0760c1b1dd29dcd0",
+                "score": 0.045522004,
+                "excerpt": "send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information about changes to our terms, conditions, and policies.\nTo protect our Services. We may use your information as part of our efforts to keep our Sites safe and secure (for example, for fraud monitoring and prevention).\nTo enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connect...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "3c19090637d1cfb91ffff702482eb5ab38b719bea7c38a13f4715f15a3dae9d4",
+                "score": 0.04451443,
+                "excerpt": "may process your data if you have given us specific consent to use your personal information for a specific purpose.\nLegitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.\nPerformance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.\nLegal Obligations: We may disclose your information where we are legally required to do so in order to c...",
+                "url": "https://actuvi.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6483863173,
+            "url": "https://actuvi.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app may share data with Business Transfers, Affiliates, and Business Partners.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Business Transfers",
+                        "Affiliates",
+                        "Business Partners"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with Business Transfers, Affiliates, and Business Partners, indicating the specific third parties with whom data may be shared.",
+            "reference": "Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us. Business Partners. We may share your information with our business partners to offer you certain products, services or promotions. URL: https://actuvi.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "3e9681dbdff342e1cd66b7529b1a6873a373ed9d852c29cf403e0e711241dabf",
+                "score": 0.6914973,
+                "excerpt": "need to process your data or share your personal information in the following situations:\nBusiness Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.\nAffiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and a...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "c400b1a69cd64211e1cfda2661d73cae2c6767aa630fd7e554844a25e16aa5fc",
+                "score": 0.48554632,
+                "excerpt": "and solve any potential issues you might have with the use of our Services.\nTo send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our Sites, subscribing to marketing or otherwise contacting us, we will collect personal information from you. Yo...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "3c19090637d1cfb91ffff702482eb5ab38b719bea7c38a13f4715f15a3dae9d4",
+                "score": 0.29685807,
+                "excerpt": "may process your data if you have given us specific consent to use your personal information for a specific purpose.\nLegitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.\nPerformance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.\nLegal Obligations: We may disclose your information where we are legally required to do so in order to c...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "55c0c07f1edcb6ac627bae57d87394993e81e544ae341fa07d0831522e07b10e",
+                "score": 0.14247034,
+                "excerpt": "follow in the future, we will inform you about that practice in a revised version of this privacy notice.\nDO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?\nIn Short: Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.\nCalifornia Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about c...",
+                "url": "https://actuvi.com/privacy-policy/"
+            },
+            {
+                "id": "2687d6a261b0d252d052c9e4e13c23a382ccf40709a99aa5da8892ffd70cfea4",
+                "score": 0.12765263,
+                "excerpt": "records, we may obtain information about you from other sources, such as public databases, joint marketing partners, affiliate programs, data providers, as well as from other third parties. This information includes mailing addresses, job titles, email addresses, phone numbers, intent data (or user behavior data), Internet Protocol (IP) addresses, social media profiles, social media URLs and custom profiles, for purposes of targeted advertising and event promotion.\nHOW DO WE USE YOUR INFORMATION...",
+                "url": "https://actuvi.com/privacy-policy/"
+            }
+        ]
+    }
+]

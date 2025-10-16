@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1547157572,
+      "url": "https://www.breathefocussleep.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that certain information, such as your Internet Protocol (IP) address and device characteristics, is collected automatically when you visit the app. This information is primarily needed to maintain the security and operation of the app, as well as for internal analytics and reporting purposes.",
+        "simple_answer": "Yes, the app collects data automatically.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly outlines the types of information collected automatically.",
+          "content": "The information collected includes log and usage data, device data, and other technical information that does not reveal your specific identity."
+        }
+      },
+      "analysis": "The privacy policy provides a clear declaration of data collection practices, ensuring users are informed about the types of data collected automatically.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547157572,
+      "url": "https://www.breathefocussleep.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including automatically collected information such as Internet Protocol (IP) address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, and usage information. This includes log and usage data, which consists of service-related, diagnostic, usage, and performance information, as well as device data that may include identification numbers, location, browser type, hardware model, Internet service provider, and operating system details.",
+        "simple_answer": "The app collects device and usage information, including IP address, browser type, and location.",
+        "extended_simple_answer": {
+          "comment": "The app collects both automatically generated data and specific device information.",
+          "content": "Automatically collected information includes IP address, browser and device characteristics, operating system, language preferences, and usage data. Device data may include identification numbers, location, and hardware model."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547157572,
+      "url": "https://www.breathefocussleep.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information collected via the app is used for various business purposes, including sending marketing and promotional communications, delivering targeted advertising, and fulfilling legal obligations. The processing of personal information is based on legitimate business interests, contract fulfillment, compliance with legal obligations, and user consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection and use.",
+          "content": "The app uses personal information for marketing communications, targeted advertising, and compliance with legal obligations."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purposes for which data is collected and how it is used, ensuring transparency for users.",
+      "reference": "Section 2: HOW DO WE USE YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547157572,
+      "url": "https://www.breathefocussleep.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of marketing emails at any time and have the right to review, update, or delete the data collected from them.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their personal information.",
+          "content": "Users can opt-out of marketing communications and have the right to review, update, or delete their data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the ability to opt out of marketing communications and also provides a mechanism for users to review, update, or delete their personal data.",
+      "reference": "Section 7: WHAT ARE YOUR PRIVACY RIGHTS? and Section 12: HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547157572,
+      "url": "https://www.breathefocussleep.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share information with third parties based on your consent, to comply with laws, to provide services, to protect rights, or to fulfill business obligations. This includes sharing data for marketing purposes, legal obligations, and business transfers.",
+        "simple_answer": "Yes, the app shares data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "The app shares data primarily based on consent and legal obligations.",
+          "content": "We may process or share your data that we hold based on the following legal basis: Consent, Legitimate Interests, Performance of a Contract, Legal Obligations, and Vital Interests. More specifically, we may need to process your data or share your personal information in situations such as business transfers."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: WILL YOUR INFORMATION BE SHARED WITH ANYONE?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1547157572,
+      "url": "https://www.breathefocussleep.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It states that data may be shared with third parties for marketing purposes, to comply with laws, to provide services, and to protect rights, but does not list specific entities.",
+        "simple_answer": "The app does not specify particular third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy mentions sharing data for various reasons but does not name specific third parties.",
+          "content": "We may process or share your data that we hold based on the following legal basis: Consent, Legitimate Interests, Performance of a Contract, Legal Obligations, Vital Interests. More specifically, we may need to process your data or share your personal information in the following situations: Business Transfers."
+        }
+      },
+      "analysis": "The privacy policy outlines the conditions under which data may be shared but lacks details on specific third-party entities.",
+      "reference": "Section 3: WILL YOUR INFORMATION BE SHARED WITH ANYONE?"
+    }
+  }
+]

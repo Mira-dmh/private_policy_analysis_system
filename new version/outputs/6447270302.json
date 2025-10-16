@@ -1,0 +1,339 @@
+[
+    {
+        "meta": {
+            "id": 6447270302,
+            "url": "https://manmadeapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is collected from various interactions with the app, such as account registration, purchases, and user communication.",
+            "reference": "We collect information when you register for an account, participate in interactive features, fill out a form or a survey, participate in a contest or promotion, make a purchase, communicate with us via social media sites, request customer support, or otherwise communicate with us. URL: https://manmadeapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "db8a2bf26a40a2002f89d9ce1357a574fe5b7ab072660fdb4ae9bbafddd58509",
+                "score": 0.09501305,
+                "excerpt": "with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.\nCollection of Information\nInformation You Provide to Us\nWe collect information when you register for an account, participate in interactive features (like by submitting a meditation rating or completin...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "f9c095a3e4faadfaa3f66ec4868ac84919740bec071318ccedd52aaba5ed83b2",
+                "score": 0.07696084,
+                "excerpt": "Privacy Policy\nRevised July 2023\nThis Privacy Policy explains how ManMade Applications Ltd (\"ManMade\", \"we\" or \"us\") collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the \"Services\"), and when you contact our customer service team, engage with us on social media, or otherwise interact with us. This policy does not apply to subscription eligibility information we receive from and proce...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "b8dafd038de18f6fb8076830cb17df73f3124256bf1a6e6d20f1d3600f1cf9c1",
+                "score": 0.009161027,
+                "excerpt": "limits and conditions provided under law, we honor the exercise of the right of access or deletion for all of our users, regardless of their location. Any ManMade user may exercise this right by contacting us at support@manmadeapp.com.\nInformation for Individuals in Switzerland, UK and the EEA\nThe sections below apply to you if you use our Services while in Switzerland, the United Kingdom or the European Economic Area (collectively, \"Europe\"). ManMade Applications Ltd. is the data controller for...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "35b8d3ee1fa64d44427fd747c4569ecd210e7e8e2aedfdd94038ba2131066804",
+                "score": 0.0063143647,
+                "excerpt": "your consent to do so.\nData Retention\nWe retain personal data for no longer than is necessary for the purposes for which it is processed, unless applicable law requires storage for a longer period of time.\nData Subject Requests\nSubject to certain limits and conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right ...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "737c2479d78286ee37cbadb8b6c4331985d0be95819b4b15fe8a7bb222106978",
+                "score": 0.0037654135,
+                "excerpt": "company assets, financing or acquisition of all or a portion of our business by another company;\nBetween and among ManMade and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;\nand\nWith your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via the integrated tools we provide via our Services.\nWe also share aggregated or other information not s...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6447270302,
+            "url": "https://manmadeapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects information such as name, email, password, street address, payment method information, feedback and survey responses, usage information, transactional information, log information, device information, and information from third-party sources.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Email",
+                        "Password",
+                        "Street address",
+                        "Payment method information",
+                        "Feedback and survey responses",
+                        "Usage information",
+                        "Transactional information",
+                        "Log information",
+                        "Device information",
+                        "Information from third-party sources"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the types of data collected ranging from personal information provided by the user to usage and device-related information, as well as information obtained from third-party sources.",
+            "reference": "The app collects information when you register for an account, participate in interactive features, fill out a form or a survey, make a purchase, communicate via social media, and more. The collected data includes name, email, password, address, payment method information, feedback, survey responses, usage information, transactional information, log information, device information, and information from third-party sources. URL: https://manmadeapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "db8a2bf26a40a2002f89d9ce1357a574fe5b7ab072660fdb4ae9bbafddd58509",
+                "score": 0.4685475,
+                "excerpt": "with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.\nCollection of Information\nInformation You Provide to Us\nWe collect information when you register for an account, participate in interactive features (like by submitting a meditation rating or completin...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "d333572a01a7fe3d49dafb9f7e02df34fd89a583b2df8b992488f6975532897b",
+                "score": 0.14378779,
+                "excerpt": "you access, and other similar types of usage information.\nTransactional Information: When you make a purchase or return, we collect information about the transaction, such as product description, price, subscription or free trial expiration date, and time and date of the transaction.\nLog Information: We collect standard log files when you use our Services, which include the type of web browser you use, app version, access times and dates, pages viewed, your IP address, and the page you visited b...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "f9c095a3e4faadfaa3f66ec4868ac84919740bec071318ccedd52aaba5ed83b2",
+                "score": 0.045777272,
+                "excerpt": "Privacy Policy\nRevised July 2023\nThis Privacy Policy explains how ManMade Applications Ltd (\"ManMade\", \"we\" or \"us\") collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the \"Services\"), and when you contact our customer service team, engage with us on social media, or otherwise interact with us. This policy does not apply to subscription eligibility information we receive from and proce...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "336fed9e829c8cef0d444e86e74ac53873fde49db9d3ea87e0cb7cdbd1612239",
+                "score": 0.04138472,
+                "excerpt": "social media service account, we will have access to certain information from that account, such as your name and other account information, in accordance with the authorization procedures set by that social media service. Finally, we may obtain information about you from publicly available sources, marketing and advertising partners, consumer research platforms, and/or business contact databases.\nWe use the information we collect to:\nProvide, maintain and improve our Services, including debuggi...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "737c2479d78286ee37cbadb8b6c4331985d0be95819b4b15fe8a7bb222106978",
+                "score": 0.03711691,
+                "excerpt": "company assets, financing or acquisition of all or a portion of our business by another company;\nBetween and among ManMade and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;\nand\nWith your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via the integrated tools we provide via our Services.\nWe also share aggregated or other information not s...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6447270302,
+            "url": "https://manmadeapp.com/privacy-policy"
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "{\n    \"meta\": {\n        \"id\": 6447270302,\n        \"url\": \"https://manmadeapp.com/privacy-policy\",\n        \"title\": \"\"\n    },\n    \"reply\": {\n        \"qid\": \"q3\",\n        \"question\": \"3. Does the app declare the purpose of data collection and use?\",\n        \"answer\": {\n            \"full_answer\": \"Yes, the app declares the purpose of data collection and use by stating that the information collected is used to provide, maintain, and improve services, process transactions, communicate with users, monitor activities, prevent fraud, comply with the law, personalize the user experience, and facilitate contests.\",\n            \"simple_answer\": \"Yes\",\n            \"extended_simple_answer\": {\n                \"comment\": \"\",\n                \"content\": \"\"\n            }\n        },\n        \"analysis\": \"The privacy policy clearly outlines the purposes for which data is collected and used by the app.\",\n        \"reference\": \"We use the information we collect to: Provide, maintain and improve our Services, including debugging to identify and repair errors, and developing new products and services; Process transactions and fulfill orders; Send you transactional or relationship messages, such as receipts, account notifications, customer service responses, and other administrative messages; Communicate with you about products, services, and events offered by ManMade and others, request feedback, and send news, gifts or other information we think will be of interest to you; Monitor and analyze trends, usage, and activities in connection with our Services; Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of ManMade and others, including to enforce our agreements and policies; Comply with the law, such as by processing transactional records for tax filings and other compliance activities; Personalize your online experience and the ad\"vertisements you see on other platforms based on your preferences, interests, and browsing behavior; and Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards. URL: https://manmadeapp.com/privacy-policy\"\n    }\n}",
+                "simple_answer": "",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "_parsing_note": "model_output_not_valid_json_fallback_used"
+        },
+        "source_documents": [
+            {
+                "id": "db8a2bf26a40a2002f89d9ce1357a574fe5b7ab072660fdb4ae9bbafddd58509",
+                "score": 0.020023441,
+                "excerpt": "with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.\nCollection of Information\nInformation You Provide to Us\nWe collect information when you register for an account, participate in interactive features (like by submitting a meditation rating or completin...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "f9c095a3e4faadfaa3f66ec4868ac84919740bec071318ccedd52aaba5ed83b2",
+                "score": 0.016029147,
+                "excerpt": "Privacy Policy\nRevised July 2023\nThis Privacy Policy explains how ManMade Applications Ltd (\"ManMade\", \"we\" or \"us\") collects, uses, and discloses information about you when you access or use our websites, mobile application, and other online products and services (collectively, the \"Services\"), and when you contact our customer service team, engage with us on social media, or otherwise interact with us. This policy does not apply to subscription eligibility information we receive from and proce...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "b8dafd038de18f6fb8076830cb17df73f3124256bf1a6e6d20f1d3600f1cf9c1",
+                "score": 0.01374232,
+                "excerpt": "limits and conditions provided under law, we honor the exercise of the right of access or deletion for all of our users, regardless of their location. Any ManMade user may exercise this right by contacting us at support@manmadeapp.com.\nInformation for Individuals in Switzerland, UK and the EEA\nThe sections below apply to you if you use our Services while in Switzerland, the United Kingdom or the European Economic Area (collectively, \"Europe\"). ManMade Applications Ltd. is the data controller for...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "35b8d3ee1fa64d44427fd747c4569ecd210e7e8e2aedfdd94038ba2131066804",
+                "score": 0.008219693,
+                "excerpt": "your consent to do so.\nData Retention\nWe retain personal data for no longer than is necessary for the purposes for which it is processed, unless applicable law requires storage for a longer period of time.\nData Subject Requests\nSubject to certain limits and conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right ...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "336fed9e829c8cef0d444e86e74ac53873fde49db9d3ea87e0cb7cdbd1612239",
+                "score": 0.005533388,
+                "excerpt": "social media service account, we will have access to certain information from that account, such as your name and other account information, in accordance with the authorization procedures set by that social media service. Finally, we may obtain information about you from publicly available sources, marketing and advertising partners, consumer research platforms, and/or business contact databases.\nWe use the information we collect to:\nProvide, maintain and improve our Services, including debuggi...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6447270302,
+            "url": "https://manmadeapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or request data deletion. Users can contact ManMade at support@manmadeapp.com to exercise their right to access, correct, delete, or obtain a portable form of their personal data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the right to access, correct, delete, or obtain a portable form of their personal data by contacting ManMade at the specified email address.",
+            "reference": "Subject to certain limits and conditions provided under law, we honor the exercise of the right of access or deletion for all of our users, regardless of their location. Any ManMade user may exercise this right by contacting us at support@manmadeapp.com. URL: https://manmadeapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a42e5703601383e92daef56413a80ba1e3c567bb2b7c35f2a7550f565cbc98fe",
+                "score": 0.93991333,
+                "excerpt": "data, determine the popularity of certain content, and better understand your application activity.\nYour Choices\nAccount Information\nYou may update certain account information you provide to us (such as your password, name and email address) by logging into your account or contacting us through our Help Center at support@manmadeapp.com. If you wish to disable your account, please contact us at support@manmadeapp.com, but note that we retain certain information when required or permitted by law. ...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "b8dafd038de18f6fb8076830cb17df73f3124256bf1a6e6d20f1d3600f1cf9c1",
+                "score": 0.54822004,
+                "excerpt": "limits and conditions provided under law, we honor the exercise of the right of access or deletion for all of our users, regardless of their location. Any ManMade user may exercise this right by contacting us at support@manmadeapp.com.\nInformation for Individuals in Switzerland, UK and the EEA\nThe sections below apply to you if you use our Services while in Switzerland, the United Kingdom or the European Economic Area (collectively, \"Europe\"). ManMade Applications Ltd. is the data controller for...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "35b8d3ee1fa64d44427fd747c4569ecd210e7e8e2aedfdd94038ba2131066804",
+                "score": 0.38404548,
+                "excerpt": "your consent to do so.\nData Retention\nWe retain personal data for no longer than is necessary for the purposes for which it is processed, unless applicable law requires storage for a longer period of time.\nData Subject Requests\nSubject to certain limits and conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right ...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "db8a2bf26a40a2002f89d9ce1357a574fe5b7ab072660fdb4ae9bbafddd58509",
+                "score": 0.027901376,
+                "excerpt": "with additional notice (such as adding a statement to our website homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the choices available to you.\nCollection of Information\nInformation You Provide to Us\nWe collect information when you register for an account, participate in interactive features (like by submitting a meditation rating or completin...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "450fca7c9f3b6597761f28418b3e67971e4578cf74e556461859d82c3976896c",
+                "score": 0.017712299,
+                "excerpt": "such as by processing transactional records for tax filings and other compliance activities;\nPersonalize your online experience and the advertisements you see on other platforms based on your preferences, interests, and browsing behavior;\nand\nFacilitate contests, sweepstakes, and promotions and process and deliver entries and rewards.\nSharing of Information\nWe share information about you as follows and as otherwise described in this Privacy Policy or at the time of collection:\nWith companies and...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6447270302,
+            "url": "https://manmadeapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as described in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that the app shares data with third parties under specific circumstances.",
+            "reference": "We share information about you as follows and as otherwise described in this Privacy Policy or at the time of collection:... Between and among ManMade and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;... With your consent or at your direction.... URL: https://manmadeapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "737c2479d78286ee37cbadb8b6c4331985d0be95819b4b15fe8a7bb222106978",
+                "score": 0.82290184,
+                "excerpt": "company assets, financing or acquisition of all or a portion of our business by another company;\nBetween and among ManMade and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;\nand\nWith your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via the integrated tools we provide via our Services.\nWe also share aggregated or other information not s...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "450fca7c9f3b6597761f28418b3e67971e4578cf74e556461859d82c3976896c",
+                "score": 0.38861805,
+                "excerpt": "such as by processing transactional records for tax filings and other compliance activities;\nPersonalize your online experience and the advertisements you see on other platforms based on your preferences, interests, and browsing behavior;\nand\nFacilitate contests, sweepstakes, and promotions and process and deliver entries and rewards.\nSharing of Information\nWe share information about you as follows and as otherwise described in this Privacy Policy or at the time of collection:\nWith companies and...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "336fed9e829c8cef0d444e86e74ac53873fde49db9d3ea87e0cb7cdbd1612239",
+                "score": 0.14330755,
+                "excerpt": "social media service account, we will have access to certain information from that account, such as your name and other account information, in accordance with the authorization procedures set by that social media service. Finally, we may obtain information about you from publicly available sources, marketing and advertising partners, consumer research platforms, and/or business contact databases.\nWe use the information we collect to:\nProvide, maintain and improve our Services, including debuggi...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "d333572a01a7fe3d49dafb9f7e02df34fd89a583b2df8b992488f6975532897b",
+                "score": 0.090092994,
+                "excerpt": "you access, and other similar types of usage information.\nTransactional Information: When you make a purchase or return, we collect information about the transaction, such as product description, price, subscription or free trial expiration date, and time and date of the transaction.\nLog Information: We collect standard log files when you use our Services, which include the type of web browser you use, app version, access times and dates, pages viewed, your IP address, and the page you visited b...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "35b8d3ee1fa64d44427fd747c4569ecd210e7e8e2aedfdd94038ba2131066804",
+                "score": 0.045183755,
+                "excerpt": "your consent to do so.\nData Retention\nWe retain personal data for no longer than is necessary for the purposes for which it is processed, unless applicable law requires storage for a longer period of time.\nData Subject Requests\nSubject to certain limits and conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right ...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6447270302,
+            "url": "https://manmadeapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with companies and contractors that perform services for them, email service providers, payment processors, fraud prevention vendors, other service providers, social media services via integrated tools provided by the app, current and future parents, affiliates, subsidiaries, and other companies under common control and ownership, and third-party analytics services.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "companies and contractors performing services",
+                        "email service providers",
+                        "payment processors",
+                        "fraud prevention vendors",
+                        "other service providers",
+                        "social media services",
+                        "current and future parents, affiliates, subsidiaries, and other companies under common control and ownership",
+                        "third-party analytics services"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the various third parties with which the app shares data.",
+            "reference": "With companies and contractors that perform services for us, including email service providers, payment processors, fraud prevention vendors and other service providers; In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; Between and among ManMade and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership; With your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via the integrated tools we provide via our Services; We also share aggregated or other information not subject to obligations under the data protection laws of your jurisdiction with third parties.; Analytics Services We allow others to provide analytics services on our behalf across the web and in mobile applications. URL: https://manmadeapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "450fca7c9f3b6597761f28418b3e67971e4578cf74e556461859d82c3976896c",
+                "score": 0.79438496,
+                "excerpt": "such as by processing transactional records for tax filings and other compliance activities;\nPersonalize your online experience and the advertisements you see on other platforms based on your preferences, interests, and browsing behavior;\nand\nFacilitate contests, sweepstakes, and promotions and process and deliver entries and rewards.\nSharing of Information\nWe share information about you as follows and as otherwise described in this Privacy Policy or at the time of collection:\nWith companies and...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "737c2479d78286ee37cbadb8b6c4331985d0be95819b4b15fe8a7bb222106978",
+                "score": 0.7601169,
+                "excerpt": "company assets, financing or acquisition of all or a portion of our business by another company;\nBetween and among ManMade and our current and future parents, affiliates, subsidiaries, and other companies under common control and ownership;\nand\nWith your consent or at your direction. For instance, you may choose to share actions you take on our Services with third-party social media services via the integrated tools we provide via our Services.\nWe also share aggregated or other information not s...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "336fed9e829c8cef0d444e86e74ac53873fde49db9d3ea87e0cb7cdbd1612239",
+                "score": 0.3474264,
+                "excerpt": "social media service account, we will have access to certain information from that account, such as your name and other account information, in accordance with the authorization procedures set by that social media service. Finally, we may obtain information about you from publicly available sources, marketing and advertising partners, consumer research platforms, and/or business contact databases.\nWe use the information we collect to:\nProvide, maintain and improve our Services, including debuggi...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "d333572a01a7fe3d49dafb9f7e02df34fd89a583b2df8b992488f6975532897b",
+                "score": 0.07043162,
+                "excerpt": "you access, and other similar types of usage information.\nTransactional Information: When you make a purchase or return, we collect information about the transaction, such as product description, price, subscription or free trial expiration date, and time and date of the transaction.\nLog Information: We collect standard log files when you use our Services, which include the type of web browser you use, app version, access times and dates, pages viewed, your IP address, and the page you visited b...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            },
+            {
+                "id": "35b8d3ee1fa64d44427fd747c4569ecd210e7e8e2aedfdd94038ba2131066804",
+                "score": 0.038466193,
+                "excerpt": "your consent to do so.\nData Retention\nWe retain personal data for no longer than is necessary for the purposes for which it is processed, unless applicable law requires storage for a longer period of time.\nData Subject Requests\nSubject to certain limits and conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right ...",
+                "url": "https://manmadeapp.com/privacy-policy"
+            }
+        ]
+    }
+]

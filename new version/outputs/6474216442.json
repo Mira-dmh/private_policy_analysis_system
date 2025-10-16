@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 6474216442,
+            "url": "https://www.jiminihealth.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that personal data is collected directly from users, automatically through tracking technologies, and from third parties. The app clearly declares the collection of data.",
+            "reference": "We collect personal data about you from the following sources: Directly from you. For example, we may collect personal data from you when you contact us through the Platform or communicate with us. Automatically and through tracking technologies. For example, we may automatically collect information or inferences about you, such as through cookies and other tracking technologies, when you interact with the Platform. From third parties. We may collect personal data from third parties, such as service and content providers, business partners, social media companies, or other parties who interact with us. URL: https://www.jiminihealth.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b1efe94aca2e63637c55ff7c56cf756761e53370567179596be956543baaa39e",
+                "score": 0.27757087,
+                "excerpt": "time. Any updated Privacy Notice will be effective when posted. Please check this Privacy Notice periodically for updates.\nContact Us\nIf you have any questions or concerns after reading this Privacy Policy, please do not hesitate to contact us at support@jiminihealth.com. We appreciate your feedback.\n1. Sources of Personal Data\nWe collect personal data about you from the following sources:\n- Directly from you. For example, we may collect personal data from you when you contact us through the Pla...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "1fd9812eb8c8bd8d4b86e18a8514d5292af50ee2884e78ef1bf1a42ea6361578",
+                "score": 0.10837754,
+                "excerpt": "We at Jimini Health, Inc. (“Jimini Health,” “we,” “us,” or “our”) are committed to protecting the privacy of your personal data. This Privacy Policy explains how we process personal data collected through the Jimini Health website and mobile application available in the app stores (together, the “Platform”) as well as all relevant content and functionality associated with the Platform.\nThis Privacy Policy does not apply to “protected health information” that is subject to the Health Insurance Po...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "e8131e68d883ad9bbac0697b51ea02c2c43987adf5488570b2a0111f83a7ce81",
+                "score": 0.06916356,
+                "excerpt": "in this Privacy Notice, including third party sources, and use and disclose the combined information for the purposes identified below.\n2. Personal Data We May Collect\nWe may collect the following types of personal data:\n- Identifiers, such as your name, email address, physical address, telephone number, other business contact information, and device identifiers (e.g., cookie IDs and IP address).\n- Demographic information, such as age (including birthdates) and gender.\n- Commercial information, ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "b2ec4c3c88bdc0134e5b986a2d0618b5941425b7712e51b4ea2ffa546e279143",
+                "score": 0.025858777,
+                "excerpt": "collect to create a profile about you reflecting your preferences or behavior, including to assess the level of interest in our products and services based on frequency of visits and contact and determine your preferred frequency for receiving offers.\n- Sensitive personal data, such as information about your health.\n3. How We Use Your Personal Data\nWe may use personal data for the following purposes:\n- To provide the Platform to you;\n- To fulfill our obligations to you under the Terms of Use;\n- ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "06e9e9cc6f1402b9585dac87eb6493b3ebd2b5ca58e7f3beda4cde21568ba03f",
+                "score": 0.0131212715,
+                "excerpt": "for the privacy practices or data collection policies of such third-party services. You should consult the privacy notices of those third-party services for details on their practices.\n10. California Shine the Light\nIf you are a California resident, you may opt out of sharing your personal data subject to California Civil Code §1798.83 (the “Shine the Light law”) with third parties for those third parties’ direct marketing purposes by emailing us at support@jiminihealth.com.",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474216442,
+            "url": "https://www.jiminihealth.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects identifiers, demographic information, commercial information, internet or other electronic network activity information, non-precise geolocation data, inferences, and sensitive personal data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Identifiers (e.g., name, email address)",
+                        "Demographic information (e.g., age, gender)",
+                        "Commercial information (e.g., transaction details)",
+                        "Internet or electronic network activity information (e.g., browsing history)",
+                        "Non-precise geolocation data",
+                        "Inferences drawn from collected information",
+                        "Sensitive personal data (e.g., health information)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document clearly states the various types of personal data collected by the app. These include identifiers, demographic information, commercial information, internet activity details, geolocation data, inferences, and sensitive personal data.",
+            "reference": "personal data we may collect - Identifiers, demographic information, commercial information, internet or other electronic network activity information, non-precise geolocation data, inferences, sensitive personal data. URL: https://www.jiminihealth.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "e8131e68d883ad9bbac0697b51ea02c2c43987adf5488570b2a0111f83a7ce81",
+                "score": 0.9430336,
+                "excerpt": "in this Privacy Notice, including third party sources, and use and disclose the combined information for the purposes identified below.\n2. Personal Data We May Collect\nWe may collect the following types of personal data:\n- Identifiers, such as your name, email address, physical address, telephone number, other business contact information, and device identifiers (e.g., cookie IDs and IP address).\n- Demographic information, such as age (including birthdates) and gender.\n- Commercial information, ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "b1efe94aca2e63637c55ff7c56cf756761e53370567179596be956543baaa39e",
+                "score": 0.9263037,
+                "excerpt": "time. Any updated Privacy Notice will be effective when posted. Please check this Privacy Notice periodically for updates.\nContact Us\nIf you have any questions or concerns after reading this Privacy Policy, please do not hesitate to contact us at support@jiminihealth.com. We appreciate your feedback.\n1. Sources of Personal Data\nWe collect personal data about you from the following sources:\n- Directly from you. For example, we may collect personal data from you when you contact us through the Pla...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "b2ec4c3c88bdc0134e5b986a2d0618b5941425b7712e51b4ea2ffa546e279143",
+                "score": 0.60194457,
+                "excerpt": "collect to create a profile about you reflecting your preferences or behavior, including to assess the level of interest in our products and services based on frequency of visits and contact and determine your preferred frequency for receiving offers.\n- Sensitive personal data, such as information about your health.\n3. How We Use Your Personal Data\nWe may use personal data for the following purposes:\n- To provide the Platform to you;\n- To fulfill our obligations to you under the Terms of Use;\n- ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "507a6cce9aec5524b77e2b6087d2911174b627d7561ce574c9bce8bfcd2254ad",
+                "score": 0.15443976,
+                "excerpt": "bring legal action against someone who may be violating the Terms of Use or who may be causing intentional or unintentional injury or interference to the rights or property of Jimini Health or any third party, including other users of our Services.\n5. Cookies and Other Tracking Technologies\nJimini Health and authorized third parties may collect personal data using the following tracking technologies:\n- Cookies are small files that a web server sends to your computer or device when you visit a we...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "1fd9812eb8c8bd8d4b86e18a8514d5292af50ee2884e78ef1bf1a42ea6361578",
+                "score": 0.034100424,
+                "excerpt": "We at Jimini Health, Inc. (“Jimini Health,” “we,” “us,” or “our”) are committed to protecting the privacy of your personal data. This Privacy Policy explains how we process personal data collected through the Jimini Health website and mobile application available in the app stores (together, the “Platform”) as well as all relevant content and functionality associated with the Platform.\nThis Privacy Policy does not apply to “protected health information” that is subject to the Health Insurance Po...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474216442,
+            "url": "https://www.jiminihealth.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the various purposes for which personal data is collected, used, and shared by the app.",
+            "reference": "We may use personal data for the following purposes: To provide the Platform to you; To manage and improve the Platform, including the development of additional functionality; To support machine learning model training and analytics; To analyze how the Platform is being used so we can improve the Platform and the user experience; To evaluate the success of our marketing campaigns; To manage payment processing; To evaluate and control quality of the Platform, identify usage trends, and improve your user experience; To find and prevent fraud, and keep the Platform safe and secure; To send you information about changes to our terms, conditions, and policies; To conduct research and analysis internally and with approved research partners, using your information; To report permissive reporting of expressed threats of violence towards an ascertainable victim; To allow us to pursue available remedies or limit the damages that we may sustain; and For other purposes for which we provide specific notice at the time the information is collected. URL: https://www.jiminihealth.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b2ec4c3c88bdc0134e5b986a2d0618b5941425b7712e51b4ea2ffa546e279143",
+                "score": 0.767167,
+                "excerpt": "collect to create a profile about you reflecting your preferences or behavior, including to assess the level of interest in our products and services based on frequency of visits and contact and determine your preferred frequency for receiving offers.\n- Sensitive personal data, such as information about your health.\n3. How We Use Your Personal Data\nWe may use personal data for the following purposes:\n- To provide the Platform to you;\n- To fulfill our obligations to you under the Terms of Use;\n- ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "e8131e68d883ad9bbac0697b51ea02c2c43987adf5488570b2a0111f83a7ce81",
+                "score": 0.29279748,
+                "excerpt": "in this Privacy Notice, including third party sources, and use and disclose the combined information for the purposes identified below.\n2. Personal Data We May Collect\nWe may collect the following types of personal data:\n- Identifiers, such as your name, email address, physical address, telephone number, other business contact information, and device identifiers (e.g., cookie IDs and IP address).\n- Demographic information, such as age (including birthdates) and gender.\n- Commercial information, ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "d7b2f8434b3501270615d64bb51d628f8334244f6624e42a144c72d3c223abbc",
+                "score": 0.07572137,
+                "excerpt": "you;\n- To address any complaints;\n- To enforce and ensure your compliance with our Terms of Use or the terms of any other applicable services agreement we have with you;\n- To manage and improve the Platform, including the development of additional functionality;\n- To support machine learning model training and analytics;\n- To analyze how the Platform is being used so we can improve the Platform and the user experience;\n- To evaluate the success of our marketing campaigns;\n- To manage payment pro...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "b1efe94aca2e63637c55ff7c56cf756761e53370567179596be956543baaa39e",
+                "score": 0.06500873,
+                "excerpt": "time. Any updated Privacy Notice will be effective when posted. Please check this Privacy Notice periodically for updates.\nContact Us\nIf you have any questions or concerns after reading this Privacy Policy, please do not hesitate to contact us at support@jiminihealth.com. We appreciate your feedback.\n1. Sources of Personal Data\nWe collect personal data about you from the following sources:\n- Directly from you. For example, we may collect personal data from you when you contact us through the Pla...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "0679d83c31c5241d72e6115ad50cbb9554a7628b8d5653d8ed3f31a0c753920d",
+                "score": 0.04903963,
+                "excerpt": "damages that we may sustain; and\n- For other purposes for which we provide specific notice at the time the information is collected.\n4. How We May Disclose Personal Data\nWe may share your personal information with the following categories of individuals/entities:\n- Providers: Jimini Health will make your personal data available to your Providers and their affiliated health care organizations to provide the Services and oversee and direct your mental health care.\n- Service Providers: We share per...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474216442,
+            "url": "https://www.jiminihealth.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by emailing support@jiminihealth.com. However, deleting data may be challenging or impossible due to the need to back up systems and legal retention requirements.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users can opt out of sharing personal data for marketing purposes by emailing support@jiminihealth.com. However, complete deletion of data may be hindered by system backups and legal obligations to retain data.",
+            "reference": "If you are a California resident, you may opt out of sharing your personal data subject to California Civil Code §1798.83 (the “Shine the Light law”) with third parties for those third parties’ direct marketing purposes by emailing us at support@jiminihealth.com. While we will use reasonable efforts to remove your personal data, the need to back up our systems to protect information from inadvertent loss means a copy of your personal data may exist in a non-erasable form that will be difficult or impossible for us to locate or remove. We may also need to retain personal data as required by law. URL: https://www.jiminihealth.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "06e9e9cc6f1402b9585dac87eb6493b3ebd2b5ca58e7f3beda4cde21568ba03f",
+                "score": 0.6948206,
+                "excerpt": "for the privacy practices or data collection policies of such third-party services. You should consult the privacy notices of those third-party services for details on their practices.\n10. California Shine the Light\nIf you are a California resident, you may opt out of sharing your personal data subject to California Civil Code §1798.83 (the “Shine the Light law”) with third parties for those third parties’ direct marketing purposes by emailing us at support@jiminihealth.com.",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "c12d531cc05724844e5fd959f18ae2a57863756d639270119b85f3f3de66b84b",
+                "score": 0.685002,
+                "excerpt": "efforts to remove your personal data, the need to back up our systems to protect information from inadvertent loss means a copy of your personal data may exist in a non-erasable form that will be difficult or impossible for us to locate or remove. We may also need to retain personal data as required by law.\n8. Children's Privacy\nThe Platform is intended for individuals 18 years of age and older. The Platform is not directed at, marketed to, nor intended for, children under 18 years of age. As a ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "b815c7162950a91e85f4af6f2f706868cd89c58083c3b9d9011af06cb80d7da2",
+                "score": 0.61878043,
+                "excerpt": "opt out of interest-based advertising performed by participating members at http://www.aboutads.info/choices/ and https://optout.networkadvertising.org/. We adhere to the DAA’s Self-Regulatory Principles for Online Behavioral Advertising. You may also click on the AboutAds icon on a Company advertisement and follow the instructions on how to opt out.\nDo Not Track Disclosure\nSome web browsers may transmit do not track (“DNT”) signals to websites with which the user communicates. At this time, Jim...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "1da504bb9e9aea0409fd679ff8351608df1f737cc2ad39abef4c5053363d2f3c",
+                "score": 0.30084828,
+                "excerpt": "Squarespace, and Meta. Google Analytics may use cookies and other tracking technologies to perform their services. To learn how Google Analytics collects and processes data, please visit www.google.com/policies/privacy/partners.\nYour Choices Regarding Cookies and Other Tracking Technologies\nIf you prefer, you can usually choose to set your browser to remove cookies and reject cookies. Please refer to your browser’s Help instructions to learn more about how to manage cookies and the use of other ...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "b87134daa0c3723be3adb9d5706d1cea765dcf72d35b45eba25f1f70e63f2ccc",
+                "score": 0.02931223,
+                "excerpt": "safety and security of our services and relationships; or otherwise in accordance with our internal retention procedures. Once you terminate your relationship with us, we may retain your personal data in our systems and records in order to ensure adequate fulfillment of surviving provisions in terminated contracts or for other legitimate business purposes, such as to enable easier future user onboarding, in order to demonstrate our business practices and contractual obligations, or to provide yo...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474216442,
+            "url": "https://www.jiminihealth.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties under specific circumstances.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions several situations in which the app shares data with third parties such as Advisors, government and law enforcement authorities, third parties upon user direction or consent, and in business transfers.",
+            "reference": "The app may share personal data with Advisors, third parties upon user direction or consent, and in business transfers. URL: https://www.jiminihealth.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6e902862c97281296a2dc26eaab2db9a389845af9bc2bbb3c79d9bdaaabdabfa",
+                "score": 0.9807288,
+                "excerpt": "and banks (collectively, “Advisors”). Personal data will only be shared with Advisors if Jimini Health has a legitimate business interest in the sharing of such data.\n- Third Parties Upon Your Direction or Consent: You may direct Jimini Health to share your personal data with third parties. Upon your request and consent, we may share such personal data with those third parties that you identify.\n- Third Parties Pursuant to Business Transfers: In the event of a reorganization, merger, sale, joint...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "507a6cce9aec5524b77e2b6087d2911174b627d7561ce574c9bce8bfcd2254ad",
+                "score": 0.82824534,
+                "excerpt": "bring legal action against someone who may be violating the Terms of Use or who may be causing intentional or unintentional injury or interference to the rights or property of Jimini Health or any third party, including other users of our Services.\n5. Cookies and Other Tracking Technologies\nJimini Health and authorized third parties may collect personal data using the following tracking technologies:\n- Cookies are small files that a web server sends to your computer or device when you visit a we...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "0679d83c31c5241d72e6115ad50cbb9554a7628b8d5653d8ed3f31a0c753920d",
+                "score": 0.60159355,
+                "excerpt": "damages that we may sustain; and\n- For other purposes for which we provide specific notice at the time the information is collected.\n4. How We May Disclose Personal Data\nWe may share your personal information with the following categories of individuals/entities:\n- Providers: Jimini Health will make your personal data available to your Providers and their affiliated health care organizations to provide the Services and oversee and direct your mental health care.\n- Service Providers: We share per...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "ac07cc784fd4688babcb8770675ec8297067fa3ab4daf49950f6081861c9862c",
+                "score": 0.54140884,
+                "excerpt": "of services such as data hosting, IT services, customer services, order fulfillment, and payment processing.\n- Business Partners: We share non “protected health information” personal data with business partners, including advertisers, ad platforms, and networks, social media platforms, third parties whose cookies and other tracking technologies we use (see the “Cookies and Other Tracking Technologies” section below for more details), and partners who work with us on promotional opportunities. Th...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "6587df54b86cbddd1f8aa4031b739ef0015d1f5ca315e73dd1d9ee13eb94a8d6",
+                "score": 0.53330636,
+                "excerpt": "a user's computer hard drive, pixels, web beacons, and tags are embedded invisibly on web pages or emails.\n- Session replay tools record your interactions with our Services, such as how you move throughout our Platform and engage with our webforms.\n- Embedded scripts and SDKs, which allow us to build and integrate custom apps and experiences on the Platform.\nWe use cookies and other technologies to, among other things, personalize your experience using our Services, better serve you with more ta...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6474216442,
+            "url": "https://www.jiminihealth.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Advisors, third parties upon user direction or consent, third parties pursuant to business transfers, and government and law enforcement authorities.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Advisors",
+                        "third parties upon user direction or consent",
+                        "third parties pursuant to business transfers",
+                        "government and law enforcement authorities"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document outlines the various categories of third parties with which the app shares data, including Advisors, third parties based on user direction or consent, third parties in the context of business transfers, and government and law enforcement authorities.",
+            "reference": "Advisors, third parties upon your direction or consent, third parties pursuant to business transfers, government and law enforcement authorities. URL: https://www.jiminihealth.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6e902862c97281296a2dc26eaab2db9a389845af9bc2bbb3c79d9bdaaabdabfa",
+                "score": 0.87705624,
+                "excerpt": "and banks (collectively, “Advisors”). Personal data will only be shared with Advisors if Jimini Health has a legitimate business interest in the sharing of such data.\n- Third Parties Upon Your Direction or Consent: You may direct Jimini Health to share your personal data with third parties. Upon your request and consent, we may share such personal data with those third parties that you identify.\n- Third Parties Pursuant to Business Transfers: In the event of a reorganization, merger, sale, joint...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "ac07cc784fd4688babcb8770675ec8297067fa3ab4daf49950f6081861c9862c",
+                "score": 0.83601975,
+                "excerpt": "of services such as data hosting, IT services, customer services, order fulfillment, and payment processing.\n- Business Partners: We share non “protected health information” personal data with business partners, including advertisers, ad platforms, and networks, social media platforms, third parties whose cookies and other tracking technologies we use (see the “Cookies and Other Tracking Technologies” section below for more details), and partners who work with us on promotional opportunities. Th...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "0679d83c31c5241d72e6115ad50cbb9554a7628b8d5653d8ed3f31a0c753920d",
+                "score": 0.66323286,
+                "excerpt": "damages that we may sustain; and\n- For other purposes for which we provide specific notice at the time the information is collected.\n4. How We May Disclose Personal Data\nWe may share your personal information with the following categories of individuals/entities:\n- Providers: Jimini Health will make your personal data available to your Providers and their affiliated health care organizations to provide the Services and oversee and direct your mental health care.\n- Service Providers: We share per...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "6587df54b86cbddd1f8aa4031b739ef0015d1f5ca315e73dd1d9ee13eb94a8d6",
+                "score": 0.53260744,
+                "excerpt": "a user's computer hard drive, pixels, web beacons, and tags are embedded invisibly on web pages or emails.\n- Session replay tools record your interactions with our Services, such as how you move throughout our Platform and engage with our webforms.\n- Embedded scripts and SDKs, which allow us to build and integrate custom apps and experiences on the Platform.\nWe use cookies and other technologies to, among other things, personalize your experience using our Services, better serve you with more ta...",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            },
+            {
+                "id": "06e9e9cc6f1402b9585dac87eb6493b3ebd2b5ca58e7f3beda4cde21568ba03f",
+                "score": 0.52278084,
+                "excerpt": "for the privacy practices or data collection policies of such third-party services. You should consult the privacy notices of those third-party services for details on their practices.\n10. California Shine the Light\nIf you are a California resident, you may opt out of sharing your personal data subject to California Civil Code §1798.83 (the “Shine the Light law”) with third parties for those third parties’ direct marketing purposes by emailing us at support@jiminihealth.com.",
+                "url": "https://www.jiminihealth.com/privacy-policy"
+            }
+        ]
+    }
+]

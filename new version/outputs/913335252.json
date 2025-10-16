@@ -1,0 +1,347 @@
+[
+    {
+        "meta": {
+            "id": 913335252,
+            "url": "https://brilliant.org/privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that Brilliant collects personally identifiable information (Personal Information) when users access/use the service, including information users voluntarily submit and anonymous information automatically received when interacting with the service.",
+            "reference": "This Privacy Statement covers Brilliant's treatment of personally identifiable information ('Personal Information') that Brilliant gathers when you access/use the Service. Brilliant collects information you voluntarily submit to the Service, such as your name, email address, school, date of birth, etc. In addition, Brilliant may automatically receive and store certain anonymous types of information whenever you interact with the Service. URL: https://brilliant.org/privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "6f5f719fafa503b89cd1e4f844b399813e8e833f59e9180dcfd45cb772572965",
+                "score": 0.1425897,
+                "excerpt": "1. Brilliant.org Privacy Statement\nBrilliant Worldwide, Inc. (\"Brilliant\") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features (collectively, the \"Service\") you acknowledge that you accept the pr...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "d248172b7d7ccfdc4b6c4015eca868d2848954fd0d35a6063866ce7bccdb82d5",
+                "score": 0.01450358,
+                "excerpt": "an account: your name, email address, school, date of birth, etc.\nInformation you elect to submit to the Service in a public or quasi-public manner may be disclosed to other users of the Application or the general public (\"User Submission(s)\"). For example–if you make a post to a message board or chat forum that includes any personal information – such information will be made publicly available. We endeavor to make sure the Service's functionality puts you on reasonable notice as to the scope o...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "f4bac6c9b391d4cf419b1f02ce76d4f5bd51d255575b9bad7db179f3ab31a9f4",
+                "score": 0.008881675,
+                "excerpt": "when you use our Sites: Some Personal Data is automatically collected when you use our Sites, such as the following:\n- IP address\n- Device identifiers\n- Web browser information\n- Page view statistics\n- Browsing history\n- Usage information\n- Transaction information (e.g. transaction amount, date and time such transaction occurred)\n- Cookies and other tracking technologies (e.g. web beacons, pixel tags, SDKs, etc.) — For more information, please review our Cookie Policy.\n- Location inferred from y...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "262481c58fb2375faa17105482258531d1fcad505abac82b0620f00834871b93",
+                "score": 0.008610767,
+                "excerpt": "Commerce regarding the collection and use of Personal Data transferred from the EU and Switzerland. For more information about the Privacy Shield Program, and to view Brilliant&abpos;s certification, please visit\nwww.privacyshield.gov. Brilliant is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "11dd518cde1d58c9814be25372d0efe57c9260d73066de659492d67fdfc82aed",
+                "score": 0.005685907,
+                "excerpt": "employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.\nIf there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such c...",
+                "url": "https://brilliant.org/privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 913335252,
+            "url": "https://brilliant.org/privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data such as first and last name, email address, birthdate, IP addresses, mailing address, telephone number, facts about education history and career, general location, device identifiers, web browser information, page view statistics, browsing history, usage information, transaction information, cookies, and other tracking technologies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "First and last name",
+                        "Email address",
+                        "Birthdate",
+                        "IP addresses",
+                        "Mailing address",
+                        "Telephone number",
+                        "Facts about education history and career",
+                        "General location",
+                        "Device identifiers",
+                        "Web browser information",
+                        "Page view statistics",
+                        "Browsing history",
+                        "Usage information",
+                        "Transaction information",
+                        "Cookies",
+                        "Other tracking technologies"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the sections of the privacy policy that detail the personal data collected by the app, including information provided directly by users, automatically collected data, and data received from third parties.",
+            "reference": "See 'Information you elect to submit to the Service' and 'Information we automatically collect when you use our Sites' sections in the privacy policy. URL: https://brilliant.org/privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "6f5f719fafa503b89cd1e4f844b399813e8e833f59e9180dcfd45cb772572965",
+                "score": 0.18937114,
+                "excerpt": "1. Brilliant.org Privacy Statement\nBrilliant Worldwide, Inc. (\"Brilliant\") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features (collectively, the \"Service\") you acknowledge that you accept the pr...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "f4bac6c9b391d4cf419b1f02ce76d4f5bd51d255575b9bad7db179f3ab31a9f4",
+                "score": 0.14730968,
+                "excerpt": "when you use our Sites: Some Personal Data is automatically collected when you use our Sites, such as the following:\n- IP address\n- Device identifiers\n- Web browser information\n- Page view statistics\n- Browsing history\n- Usage information\n- Transaction information (e.g. transaction amount, date and time such transaction occurred)\n- Cookies and other tracking technologies (e.g. web beacons, pixel tags, SDKs, etc.) — For more information, please review our Cookie Policy.\n- Location inferred from y...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "11dd518cde1d58c9814be25372d0efe57c9260d73066de659492d67fdfc82aed",
+                "score": 0.115960725,
+                "excerpt": "employees in connection with our provision of services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.\nIf there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such c...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "1a303b6cb8ca8ca8323b5706ebacd6ac51de7d4f1234fa772db0412456291318",
+                "score": 0.094176665,
+                "excerpt": "Data directly from you when you provide us with such Personal Data, including without limitation the following:\n- Required:\n- First and last name\n- Email address\n- Birthdate\n- IP address(es)\n- Optional:\n- Mailing address\n- Telephone number\n- Facts about education history and career\n- General location\nInformation we receive from third party sources: Some third parties such as our business partners and service providers provide us with Personal Data about you, such as the following:\n- Account info...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "d248172b7d7ccfdc4b6c4015eca868d2848954fd0d35a6063866ce7bccdb82d5",
+                "score": 0.08897849,
+                "excerpt": "an account: your name, email address, school, date of birth, etc.\nInformation you elect to submit to the Service in a public or quasi-public manner may be disclosed to other users of the Application or the general public (\"User Submission(s)\"). For example–if you make a post to a message board or chat forum that includes any personal information – such information will be made publicly available. We endeavor to make sure the Service's functionality puts you on reasonable notice as to the scope o...",
+                "url": "https://brilliant.org/privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 913335252,
+            "url": "https://brilliant.org/privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app processes Personal Data for various purposes like creating and managing user profiles, providing support, personalizing website content, responding to user inquiries, fulfilling requests, resolving disputes, protecting against fraudulent actions, and enforcing Terms and Conditions.",
+            "reference": "We process Persona Data to operate, improve, understand and personalize our Sites. For example, we use Personal Data to: - Create and manage user profiles - Communicate with you about the Sites - Process orders - Contact you about Site announcements, updates or offers - Provide support and assistance for the Sites - Personalize website content and communications based on your preferences - Meet contract or legal obligations - Respond to user inquiries - Fulfill user requests - Comply with our legal or contractual obligations - Resolve disputes - Protect against or deter fraudulent, illegal or harmful actions - Enforce our Terms and Conditions. URL: https://brilliant.org/privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "262481c58fb2375faa17105482258531d1fcad505abac82b0620f00834871b93",
+                "score": 0.070176296,
+                "excerpt": "Commerce regarding the collection and use of Personal Data transferred from the EU and Switzerland. For more information about the Privacy Shield Program, and to view Brilliant&abpos;s certification, please visit\nwww.privacyshield.gov. Brilliant is committed to the Privacy Shield Principles of (1) notice, (2) consent, (3) accountability for onward transfer, (4) security, (5) data integrity and purpose limitation, (6) access and (7) recourse, enforcement and liability with respect to all Personal...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "6f5f719fafa503b89cd1e4f844b399813e8e833f59e9180dcfd45cb772572965",
+                "score": 0.022977369,
+                "excerpt": "1. Brilliant.org Privacy Statement\nBrilliant Worldwide, Inc. (\"Brilliant\") knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Statement. By using the brilliant.org website, or any of our mobile applications (such as are available via the App Store and Google Play Store), and any related services and/or features (collectively, the \"Service\") you acknowledge that you accept the pr...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "a6ee05a91a29bb56d0884bbffc9e41ffd09b22c30f1545bc464349fbd731b1c9",
+                "score": 0.01778039,
+                "excerpt": "Examples of these legitimate interests include:\n- Operation and improvement of our business, products and services\n- Marketing of our products and services\n- Provision of customer support\n- Protection from fraud or security threats\n- Compliance with legal obligations\n- Completion of corporate transactions\n- Consent: In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will ...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "f4bac6c9b391d4cf419b1f02ce76d4f5bd51d255575b9bad7db179f3ab31a9f4",
+                "score": 0.0113756005,
+                "excerpt": "when you use our Sites: Some Personal Data is automatically collected when you use our Sites, such as the following:\n- IP address\n- Device identifiers\n- Web browser information\n- Page view statistics\n- Browsing history\n- Usage information\n- Transaction information (e.g. transaction amount, date and time such transaction occurred)\n- Cookies and other tracking technologies (e.g. web beacons, pixel tags, SDKs, etc.) — For more information, please review our Cookie Policy.\n- Location inferred from y...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "aec81518927a9dafa75a10736992795ec393fe2c1c28bc9fa1fd3987b359fdc0",
+                "score": 0.0067188703,
+                "excerpt": "other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a \"Do Not Track\" option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Services do not su...",
+                "url": "https://brilliant.org/privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 913335252,
+            "url": "https://brilliant.org/privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt-out of data collection or delete data. Users have the right to request the erasure of their Personal Data from Brilliant's systems or withdraw their consent for data processing.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users have the option to request the deletion of their personal data or withdraw consent for data processing, indicating that users can indeed opt-out of data collection or delete their data.",
+            "reference": "You can request that we erase some or all of your Personal Data from our systems. Withdrawal of Consent: If we are processing your Personal Data based on your consent - ... you have the right to withdraw your consent at any time. URL: https://brilliant.org/privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "7aaa05947ef260ea20bf1ae27cc4b80b6cfcb36c85d542004861d03b437d9308",
+                "score": 0.62159836,
+                "excerpt": "more information about the Personal Data we hold about you and request a copy of such Personal Data. You can also access your Personal Data by visiting Account settings.\n- Rectification: If you believe that any Personal Data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. In certain circumstances, you can correct some of this information directly by either updating directly in the relevant Account settings.\n- Erasure: You can request ...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "aec81518927a9dafa75a10736992795ec393fe2c1c28bc9fa1fd3987b359fdc0",
+                "score": 0.33917066,
+                "excerpt": "other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a \"Do Not Track\" option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites. Our Services do not su...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "c198e8508a209de4a9350dff16f285b3ff0faa5cafc23264033539182e07ce27",
+                "score": 0.2607658,
+                "excerpt": "us. If we learn that we have collected Personal Data from a child under age 16, we will delete that information as quickly as possible. If you believe that a child under 16 may have provided us Personal Data, please contact us at\nprivacy+gdpr@brilliant.org.\nWhat Rights Do You Have Regarding Your Personal Data? You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email\nprivacy+gdpr@bril...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "76c7fbe6dad7ab83aee2bc8bd0813227a6b179daaadc9faff7f666986eb9f3a4",
+                "score": 0.035012625,
+                "excerpt": "not meet the foregoing age requirements is a \"Minor\". Minors are prohibited from signing up or using the Service in any way. If you are a Minor, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a Minor, we will delete that information as quickly as possible. If you believe that a Minor may have provided us personal information, please contact us at\nprivacy@brilliant.org. We reser...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "7a44d9fdeb51d4de12b3a0d698fa56ff7c7765da356ae17bb715f43ae6a0164d",
+                "score": 0.03138043,
+                "excerpt": "to utilize some or all of our Sites.\n- Portability: You can ask for a copy of your Personal Data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.\n- Objection: You can contact us to let us know that you object to the further use or disclosure of your Personal Data for certain purposes.\n- Restriction of Processing: You can ask us to restrict further processing of your Personal Data.\nRight to File Complaint: You have the ...",
+                "url": "https://brilliant.org/privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 913335252,
+            "url": "https://brilliant.org/privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as described in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with various third parties for different purposes as outlined in the policy.",
+            "reference": "We share Personal Data with vendors, third party service providers and agents who work on our behalf and provide us with services related to the purposes described in this Privacy Policy or our Terms and Conditions. URL: https://brilliant.org/privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "77858ec415fc68ffe08bc0d62973d6440f8d72fc64da63c0cea11721a0527513",
+                "score": 0.69657785,
+                "excerpt": "described in this Privacy Policy or our Terms and Conditions. These parties include:\n- Payment processors\n- Ad networks\n- Analytics service providers\n- Services to provide customer support\n- Hosting service providers\nWe also share Personal Data when necessary to complete a transaction initiated or authorized by you or provide you with a product or service you have requested. In addition to those set forth above, these parties also include:\n- Other users (where you post information publicly or as...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "363618c6c9d848ff6533ecd033390b1305fb7066f41b2679e2631ceac2873773",
+                "score": 0.63000226,
+                "excerpt": "not have any right to use Personal Information we share with them beyond what is necessary to assist us.\nBusiness Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Brilliant, or substantially all of its assets were acquired, or in the unlikely event that Brilliant goes out of business or enters bankruptcy, customer information would be one of the assets tha...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "6499cbd0aace3cf5d097303458ad30d0f3d62b84e8134b33ef1dca82145197a7",
+                "score": 0.492089,
+                "excerpt": "Service and develop new products, services and features.\n- Other Uses: Your information may also be used by us as set forth in the next section.\n6. Will Brilliant Share Any of the Personal Information it Receives?\nTo the limited extent we collect Personal Information – we neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.\nRecipient of User Submissions: As mentioned above – your User Submissions may be shared in a public or quasi...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "a6ee05a91a29bb56d0884bbffc9e41ffd09b22c30f1545bc464349fbd731b1c9",
+                "score": 0.36897394,
+                "excerpt": "Examples of these legitimate interests include:\n- Operation and improvement of our business, products and services\n- Marketing of our products and services\n- Provision of customer support\n- Protection from fraud or security threats\n- Compliance with legal obligations\n- Completion of corporate transactions\n- Consent: In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will ...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "d248172b7d7ccfdc4b6c4015eca868d2848954fd0d35a6063866ce7bccdb82d5",
+                "score": 0.32146,
+                "excerpt": "an account: your name, email address, school, date of birth, etc.\nInformation you elect to submit to the Service in a public or quasi-public manner may be disclosed to other users of the Application or the general public (\"User Submission(s)\"). For example–if you make a post to a message board or chat forum that includes any personal information – such information will be made publicly available. We endeavor to make sure the Service's functionality puts you on reasonable notice as to the scope o...",
+                "url": "https://brilliant.org/privacy_policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 913335252,
+            "url": "https://brilliant.org/privacy_policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with payment processors, ad networks, analytics service providers, services to provide customer support, hosting service providers, other users (for public posts or transactions), social media services, other parties authorized by the user, and third parties with user consent.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Payment processors",
+                        "Ad networks",
+                        "Analytics service providers",
+                        "Services to provide customer support",
+                        "Hosting service providers",
+                        "Other users",
+                        "Social media services",
+                        "Other parties authorized by the user",
+                        "Third parties with user consent"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly lists the types of third parties with whom the app shares data, which provides a comprehensive overview of the entities involved.",
+            "reference": "The app shares data with third parties, including payment processors, ad networks, analytics service providers, services to provide customer support, hosting service providers, other users, social media services, other parties authorized by the user, and third parties with user consent. URL: https://brilliant.org/privacy_policy/"
+        },
+        "source_documents": [
+            {
+                "id": "77858ec415fc68ffe08bc0d62973d6440f8d72fc64da63c0cea11721a0527513",
+                "score": 0.9600627,
+                "excerpt": "described in this Privacy Policy or our Terms and Conditions. These parties include:\n- Payment processors\n- Ad networks\n- Analytics service providers\n- Services to provide customer support\n- Hosting service providers\nWe also share Personal Data when necessary to complete a transaction initiated or authorized by you or provide you with a product or service you have requested. In addition to those set forth above, these parties also include:\n- Other users (where you post information publicly or as...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "a6ee05a91a29bb56d0884bbffc9e41ffd09b22c30f1545bc464349fbd731b1c9",
+                "score": 0.913368,
+                "excerpt": "Examples of these legitimate interests include:\n- Operation and improvement of our business, products and services\n- Marketing of our products and services\n- Provision of customer support\n- Protection from fraud or security threats\n- Compliance with legal obligations\n- Completion of corporate transactions\n- Consent: In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will ...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "6499cbd0aace3cf5d097303458ad30d0f3d62b84e8134b33ef1dca82145197a7",
+                "score": 0.7058864,
+                "excerpt": "Service and develop new products, services and features.\n- Other Uses: Your information may also be used by us as set forth in the next section.\n6. Will Brilliant Share Any of the Personal Information it Receives?\nTo the limited extent we collect Personal Information – we neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.\nRecipient of User Submissions: As mentioned above – your User Submissions may be shared in a public or quasi...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "1a303b6cb8ca8ca8323b5706ebacd6ac51de7d4f1234fa772db0412456291318",
+                "score": 0.5665582,
+                "excerpt": "Data directly from you when you provide us with such Personal Data, including without limitation the following:\n- Required:\n- First and last name\n- Email address\n- Birthdate\n- IP address(es)\n- Optional:\n- Mailing address\n- Telephone number\n- Facts about education history and career\n- General location\nInformation we receive from third party sources: Some third parties such as our business partners and service providers provide us with Personal Data about you, such as the following:\n- Account info...",
+                "url": "https://brilliant.org/privacy_policy/"
+            },
+            {
+                "id": "363618c6c9d848ff6533ecd033390b1305fb7066f41b2679e2631ceac2873773",
+                "score": 0.47525522,
+                "excerpt": "not have any right to use Personal Information we share with them beyond what is necessary to assist us.\nBusiness Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Brilliant, or substantially all of its assets were acquired, or in the unlikely event that Brilliant goes out of business or enters bankruptcy, customer information would be one of the assets tha...",
+                "url": "https://brilliant.org/privacy_policy/"
+            }
+        ]
+    }
+]

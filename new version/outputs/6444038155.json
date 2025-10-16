@@ -1,0 +1,334 @@
+[
+    {
+        "meta": {
+            "id": 6444038155,
+            "url": "https://at-team.org/home/wellness-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects various types of data from users.",
+            "reference": "We may collect information about you in a variety of ways...URL: https://at-team.org/home/wellness-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9c306fb21c9aee5b7f587d9e5bb7e23f3f213fdbd7e9d49057fd2baf42ab3f25",
+                "score": 0.21866935,
+                "excerpt": "be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.\nWHAT INFORMATION DO WE COLLECT?\nWe may collect information about you in a variety of ways\nYou provide us information about yourself when you register for and/or use the Service (for example, your goal, experience in breathing meditation, your max inhale and breath hold, email address).\n2. Data provided by third...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "c5a68ceb51d50c411e0b98b07d7367ad178b8ebd01aaa975d861629f43e140ef",
+                "score": 0.07276838,
+                "excerpt": "PRIVACY POLICY\nBreeeze, Sleeep+, Sleeepy, StressBall+, Bear·Tots, Blipix, TinyPix, Water.Mate, LottieProfiler, MyBumpee mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by At team LLC (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "1a121c7f077d92578dd34ca2276c521dad23867d6068e56a33834e92f7f73573",
+                "score": 0.011508149,
+                "excerpt": "location, and any other data you choose to provide. We record how you interact with our Service (for example, we log your taps on certain areas of the interface and content you interact with, practices you do, the duration of your practices, your course progress, and your subscription orders).\nHOW DO WE USE YOUR INFORMATION?\nHaving accurate information about you allows us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "a9f643cbd614da5ff6ec26ef8d04d369b0825761fbeaa7e02c20ec84718c5732",
+                "score": 0.006903838,
+                "excerpt": "as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in w...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "b2b4751a1205a1ab1f0bc9bd1fdbdc1b68797b14df65d90c7552a912540a43eb",
+                "score": 0.0016809418,
+                "excerpt": "regarding your account or order.\nWHO WILL WE SHARE YOUR INFORMATION WITH?\nWe may share information we have collected about you with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service (for example, Firebase data analytics and cloud storage provider).\nIf we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, a...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444038155,
+            "url": "https://at-team.org/home/wellness-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data like the user's goal, experience in breathing meditation, max inhale and breath hold, email address, device information, mobile device ID number, model, manufacturer, operating system version, phone number, country, location, user interactions with the service, content interactions, practices, practice duration, course progress, and subscription orders.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "User's goal",
+                        "Experience in breathing meditation",
+                        "Max inhale and breath hold",
+                        "Email address",
+                        "Device information (e.g., mobile device ID, model, manufacturer)",
+                        "Operating system version",
+                        "Phone number",
+                        "Country",
+                        "Location",
+                        "User interactions with the service and content",
+                        "Practices and practice duration",
+                        "Course progress",
+                        "Subscription orders"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app collects various types of data from users in different ways, including user-provided information, data provided by third parties, and data collected automatically.",
+            "reference": "User's goal, experience in breathing meditation, max inhale and breath hold, email address, device information, mobile device ID, model, manufacturer, operating system version, phone number, country, location, user interactions with the service, content interactions, practices, practice duration, course progress, and subscription orders. URL: https://at-team.org/home/wellness-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9c306fb21c9aee5b7f587d9e5bb7e23f3f213fdbd7e9d49057fd2baf42ab3f25",
+                "score": 0.88059187,
+                "excerpt": "be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.\nWHAT INFORMATION DO WE COLLECT?\nWe may collect information about you in a variety of ways\nYou provide us information about yourself when you register for and/or use the Service (for example, your goal, experience in breathing meditation, your max inhale and breath hold, email address).\n2. Data provided by third...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "c5a68ceb51d50c411e0b98b07d7367ad178b8ebd01aaa975d861629f43e140ef",
+                "score": 0.21502088,
+                "excerpt": "PRIVACY POLICY\nBreeeze, Sleeep+, Sleeepy, StressBall+, Bear·Tots, Blipix, TinyPix, Water.Mate, LottieProfiler, MyBumpee mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by At team LLC (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "1a121c7f077d92578dd34ca2276c521dad23867d6068e56a33834e92f7f73573",
+                "score": 0.047074173,
+                "excerpt": "location, and any other data you choose to provide. We record how you interact with our Service (for example, we log your taps on certain areas of the interface and content you interact with, practices you do, the duration of your practices, your course progress, and your subscription orders).\nHOW DO WE USE YOUR INFORMATION?\nHaving accurate information about you allows us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "a9f643cbd614da5ff6ec26ef8d04d369b0825761fbeaa7e02c20ec84718c5732",
+                "score": 0.01433703,
+                "excerpt": "as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in w...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "bfd970b28c938e844ea4631eba6933cbeddde61b1d10b8d598e2eac25754c30d",
+                "score": 0.0010202174,
+                "excerpt": "Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.\nHOW CAN YOU ACCESS AND UPDATE YOUR INFORMATION?\nYou have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us using the contact information provided below.\nYou can request deletion of your personal data, as perm...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444038155,
+            "url": "https://at-team.org/home/wellness-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purposes of data collection and use, indicating that the app is transparent about this aspect.",
+            "reference": "We may collect information about you in a variety of ways... HOW DO WE USE YOUR INFORMATION?... URL: https://at-team.org/home/wellness-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "9c306fb21c9aee5b7f587d9e5bb7e23f3f213fdbd7e9d49057fd2baf42ab3f25",
+                "score": 0.049773447,
+                "excerpt": "be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.\nWHAT INFORMATION DO WE COLLECT?\nWe may collect information about you in a variety of ways\nYou provide us information about yourself when you register for and/or use the Service (for example, your goal, experience in breathing meditation, your max inhale and breath hold, email address).\n2. Data provided by third...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "1a121c7f077d92578dd34ca2276c521dad23867d6068e56a33834e92f7f73573",
+                "score": 0.019606182,
+                "excerpt": "location, and any other data you choose to provide. We record how you interact with our Service (for example, we log your taps on certain areas of the interface and content you interact with, practices you do, the duration of your practices, your course progress, and your subscription orders).\nHOW DO WE USE YOUR INFORMATION?\nHaving accurate information about you allows us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "c5a68ceb51d50c411e0b98b07d7367ad178b8ebd01aaa975d861629f43e140ef",
+                "score": 0.012100386,
+                "excerpt": "PRIVACY POLICY\nBreeeze, Sleeep+, Sleeepy, StressBall+, Bear·Tots, Blipix, TinyPix, Water.Mate, LottieProfiler, MyBumpee mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by At team LLC (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "a9f643cbd614da5ff6ec26ef8d04d369b0825761fbeaa7e02c20ec84718c5732",
+                "score": 0.0022694687,
+                "excerpt": "as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in w...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "b2b4751a1205a1ab1f0bc9bd1fdbdc1b68797b14df65d90c7552a912540a43eb",
+                "score": 0.00051728135,
+                "excerpt": "regarding your account or order.\nWHO WILL WE SHARE YOUR INFORMATION WITH?\nWe may share information we have collected about you with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service (for example, Firebase data analytics and cloud storage provider).\nIf we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, a...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444038155,
+            "url": "https://at-team.org/home/wellness-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can request deletion of personal data, as permitted by law. The app will make reasonable efforts to honor the request, with possible legal obligations to retain some data for a certain time.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to request deletion of personal data, and the app commits to honoring such requests within legal boundaries.",
+            "reference": "You can request deletion of your personal data, as permitted by law. We will use reasonable efforts to honor your request. In some cases, we may be legally required to keep some of the data for a certain time; in such event, we will fulfill your request after we have complied with our obligations. URL: https://at-team.org/home/wellness-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "bfd970b28c938e844ea4631eba6933cbeddde61b1d10b8d598e2eac25754c30d",
+                "score": 0.32562774,
+                "excerpt": "Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.\nHOW CAN YOU ACCESS AND UPDATE YOUR INFORMATION?\nYou have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us using the contact information provided below.\nYou can request deletion of your personal data, as perm...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "a9f643cbd614da5ff6ec26ef8d04d369b0825761fbeaa7e02c20ec84718c5732",
+                "score": 0.06916356,
+                "excerpt": "as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in w...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "9c306fb21c9aee5b7f587d9e5bb7e23f3f213fdbd7e9d49057fd2baf42ab3f25",
+                "score": 0.015784562,
+                "excerpt": "be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.\nWHAT INFORMATION DO WE COLLECT?\nWe may collect information about you in a variety of ways\nYou provide us information about yourself when you register for and/or use the Service (for example, your goal, experience in breathing meditation, your max inhale and breath hold, email address).\n2. Data provided by third...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "1a121c7f077d92578dd34ca2276c521dad23867d6068e56a33834e92f7f73573",
+                "score": 0.0042646346,
+                "excerpt": "location, and any other data you choose to provide. We record how you interact with our Service (for example, we log your taps on certain areas of the interface and content you interact with, practices you do, the duration of your practices, your course progress, and your subscription orders).\nHOW DO WE USE YOUR INFORMATION?\nHaving accurate information about you allows us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "b2b4751a1205a1ab1f0bc9bd1fdbdc1b68797b14df65d90c7552a912540a43eb",
+                "score": 0.0036642202,
+                "excerpt": "regarding your account or order.\nWHO WILL WE SHARE YOUR INFORMATION WITH?\nWe may share information we have collected about you with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service (for example, Firebase data analytics and cloud storage provider).\nIf we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, a...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444038155,
+            "url": "https://at-team.org/home/wellness-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share information collected about users with third parties for various purposes.",
+            "reference": "We may share information we have collected about you with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service. URL: https://at-team.org/home/wellness-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a121c7f077d92578dd34ca2276c521dad23867d6068e56a33834e92f7f73573",
+                "score": 0.9526623,
+                "excerpt": "location, and any other data you choose to provide. We record how you interact with our Service (for example, we log your taps on certain areas of the interface and content you interact with, practices you do, the duration of your practices, your course progress, and your subscription orders).\nHOW DO WE USE YOUR INFORMATION?\nHaving accurate information about you allows us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "b2b4751a1205a1ab1f0bc9bd1fdbdc1b68797b14df65d90c7552a912540a43eb",
+                "score": 0.89199936,
+                "excerpt": "regarding your account or order.\nWHO WILL WE SHARE YOUR INFORMATION WITH?\nWe may share information we have collected about you with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service (for example, Firebase data analytics and cloud storage provider).\nIf we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, a...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "9c306fb21c9aee5b7f587d9e5bb7e23f3f213fdbd7e9d49057fd2baf42ab3f25",
+                "score": 0.81888163,
+                "excerpt": "be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.\nWHAT INFORMATION DO WE COLLECT?\nWe may collect information about you in a variety of ways\nYou provide us information about yourself when you register for and/or use the Service (for example, your goal, experience in breathing meditation, your max inhale and breath hold, email address).\n2. Data provided by third...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "a9f643cbd614da5ff6ec26ef8d04d369b0825761fbeaa7e02c20ec84718c5732",
+                "score": 0.77390057,
+                "excerpt": "as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in w...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "bfd970b28c938e844ea4631eba6933cbeddde61b1d10b8d598e2eac25754c30d",
+                "score": 0.026607107,
+                "excerpt": "Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information.\nHOW CAN YOU ACCESS AND UPDATE YOUR INFORMATION?\nYou have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us using the contact information provided below.\nYou can request deletion of your personal data, as perm...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6444038155,
+            "url": "https://at-team.org/home/wellness-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Firebase data analytics and cloud storage provider.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Firebase data analytics, cloud storage provider"
+                }
+            },
+            "analysis": "The privacy policy mentions sharing information with third parties, specifically referencing one of them as Firebase data analytics and cloud storage provider.",
+            "reference": "Firebase data analytics and cloud storage provider. URL: https://at-team.org/home/wellness-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "1a121c7f077d92578dd34ca2276c521dad23867d6068e56a33834e92f7f73573",
+                "score": 0.9227612,
+                "excerpt": "location, and any other data you choose to provide. We record how you interact with our Service (for example, we log your taps on certain areas of the interface and content you interact with, practices you do, the duration of your practices, your course progress, and your subscription orders).\nHOW DO WE USE YOUR INFORMATION?\nHaving accurate information about you allows us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "b2b4751a1205a1ab1f0bc9bd1fdbdc1b68797b14df65d90c7552a912540a43eb",
+                "score": 0.90681833,
+                "excerpt": "regarding your account or order.\nWHO WILL WE SHARE YOUR INFORMATION WITH?\nWe may share information we have collected about you with third parties that help us operate, provide, improve, integrate, customize, support, and market our Service (for example, Firebase data analytics and cloud storage provider).\nIf we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, a...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "a9f643cbd614da5ff6ec26ef8d04d369b0825761fbeaa7e02c20ec84718c5732",
+                "score": 0.5841526,
+                "excerpt": "as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in w...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "9c306fb21c9aee5b7f587d9e5bb7e23f3f213fdbd7e9d49057fd2baf42ab3f25",
+                "score": 0.55826676,
+                "excerpt": "be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.\nWHAT INFORMATION DO WE COLLECT?\nWe may collect information about you in a variety of ways\nYou provide us information about yourself when you register for and/or use the Service (for example, your goal, experience in breathing meditation, your max inhale and breath hold, email address).\n2. Data provided by third...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            },
+            {
+                "id": "c5a68ceb51d50c411e0b98b07d7367ad178b8ebd01aaa975d861629f43e140ef",
+                "score": 0.04501553,
+                "excerpt": "PRIVACY POLICY\nBreeeze, Sleeep+, Sleeepy, StressBall+, Bear·Tots, Blipix, TinyPix, Water.Mate, LottieProfiler, MyBumpee mobile application (the “Application”) together with the content, tools, transactions and other services available by using the App (collectively, the “Service”) is owned and maintained by At team LLC (“we” or “us” or “our”). We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the ...",
+                "url": "https://at-team.org/home/wellness-policy/"
+            }
+        ]
+    }
+]

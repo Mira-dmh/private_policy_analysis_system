@@ -1,0 +1,348 @@
+[
+    {
+        "meta": {
+            "id": 6475366694,
+            "url": "https://www.getaware.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal information from users through various means, such as registration, placing orders, signing up for newsletters, contacting the app, or participating in surveys. It also mentions the types of data collected, such as name, gender, email address, and payment method.",
+            "reference": "We collect personal information from you when you submit it to us, including by: (1) registering on the Site or the App; (2) placing an order or purchasing a subscription; (3) signing up for our newsletter or marketing communications; (4) contacting us; or (5) participating in a promotion or survey. This information may include, for example, your name, gender, email address, mailing address, billing address, telephone number, date of birth, insurance information and payment method. URL: https://www.getaware.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c112d49650fe228fa5033ac3bdaad660f5e0c131ba5364f2b890777e8d0a462f",
+                "score": 0.045268092,
+                "excerpt": "Updated: 3rd day of March, 2024\nIntroduction\nAware.ai knows you care about the collection and use of your information, so we created this Privacy Policy to describe how we collect, use, share and protect information you provide to us via our platform (the “Platform”), which includes the Aware.ai application (the “App”) and the Aware.ai website located at [https://www.getaware.ai] (the “Site”), and any other information we collect when you call, email, or otherwise communicate with Aware.ai (“Awa...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "1feb6b7bcc91740e44444bc7d842caf32961d53a0dbb936c57c16b7bbeef7663",
+                "score": 0.026006786,
+                "excerpt": "information may be transferred to, stored and processed in the United States or other countries in accordance with this Privacy Policy. The data protection and other applicable laws of the United States or other countries may not be as comprehensive as those laws or regulations in your country or may differ from the data protection or consumer protection laws in your country. Your information may be available to government authorities under lawful orders and law applicable in such jurisdictions....",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "aa6193f816f3a116cdc9d5d47a416ad2a0855938a41f974567d7833873a1d0f2",
+                "score": 0.021125192,
+                "excerpt": "the messages you receive. Even if you opt-out of receiving these messages, we reserve the right to send you certain communications relating to the services we provide, and we may send you service announcements and administrative messages.\nDisclosure of Information\nWe may disclose information collected from and about you: (1) to our related companies and service providers, to perform a business, professional, technical support or other services for us; (2) to our marketing partners, business-to-b...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "c8a4427dd3964976b8aef16a9c9efb753f88e1d78527fb0dc337d68f5cfbb863",
+                "score": 0.01627746,
+                "excerpt": "view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the App or the Site. Web beacons help us analyze our visitors' behavior and measure the effectiveness of the Platform and our advertising. We may work with service providers that help us track, collect and analyze this information. We may combine the information we collect through cook...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "03a44e4f7f6c00e96f7c494bbe377afbac7534d3230ae2cd6a3e23f156935fe5",
+                "score": 0.011463797,
+                "excerpt": "gender, email address, mailing address, billing address, telephone number, date of birth, insurance information and payment method. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. We use a third party payment processor to store your credit card information. They conduct the entire credit card transaction using industry standard encryption. We may collect personal information from you when you write a re...",
+                "url": "https://www.getaware.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475366694,
+            "url": "https://www.getaware.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects gender, email address, mailing address, billing address, telephone number, date of birth, insurance information, payment method, IP address, browser type, operating system, device-identifying information, specific web pages visited, domain name from which accessed, browsing behavior, date and time of visit, areas/pages visited, duration of visit, frequency of return visits, and clickstream data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "gender",
+                        "email address",
+                        "mailing address",
+                        "billing address",
+                        "telephone number",
+                        "date of birth",
+                        "insurance information",
+                        "payment method",
+                        "IP address",
+                        "browser type",
+                        "operating system",
+                        "device-identifying information",
+                        "specific web pages visited",
+                        "domain name from which accessed",
+                        "browsing behavior",
+                        "date and time of visit",
+                        "areas/pages visited",
+                        "duration of visit",
+                        "frequency of return visits",
+                        "clickstream data"
+                    ]
+                }
+            },
+            "analysis": "The answer was derived from the specific list of data types mentioned in the privacy policy document under 'Information You Provide' and 'Information We Collect Automatically' sections.",
+            "reference": "gender, email address, mailing address, billing address, telephone number, date of birth, insurance information, payment method, IP address, browser type, operating system, device-identifying information, specific web pages visited, domain name from which accessed, browsing behavior, date and time you visit the Platform, areas or pages of the Platform that you visit, amount of time spent viewing the Platform, number of times returning, clickstream data. URL: https://www.getaware.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "03a44e4f7f6c00e96f7c494bbe377afbac7534d3230ae2cd6a3e23f156935fe5",
+                "score": 0.25645936,
+                "excerpt": "gender, email address, mailing address, billing address, telephone number, date of birth, insurance information and payment method. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. We use a third party payment processor to store your credit card information. They conduct the entire credit card transaction using industry standard encryption. We may collect personal information from you when you write a re...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "c8a4427dd3964976b8aef16a9c9efb753f88e1d78527fb0dc337d68f5cfbb863",
+                "score": 0.16145241,
+                "excerpt": "view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the App or the Site. Web beacons help us analyze our visitors' behavior and measure the effectiveness of the Platform and our advertising. We may work with service providers that help us track, collect and analyze this information. We may combine the information we collect through cook...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "c112d49650fe228fa5033ac3bdaad660f5e0c131ba5364f2b890777e8d0a462f",
+                "score": 0.120232075,
+                "excerpt": "Updated: 3rd day of March, 2024\nIntroduction\nAware.ai knows you care about the collection and use of your information, so we created this Privacy Policy to describe how we collect, use, share and protect information you provide to us via our platform (the “Platform”), which includes the Aware.ai application (the “App”) and the Aware.ai website located at [https://www.getaware.ai] (the “Site”), and any other information we collect when you call, email, or otherwise communicate with Aware.ai (“Awa...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "e2656aef2f7b686410653bdb559cbd3df88c648d3d37ed9bb9b3db2ab37df3e5",
+                "score": 0.07765744,
+                "excerpt": "to opt-in or withdraw consent for certain uses. If you reside in those jurisdictions, you may have additional rights, which are detailed in the Access, Correction, & Deletion section below.\nInformation We Collect Automatically\nWhen you visit the Platform, we may collect certain information from you, including your IP address, browser type, operating system, device-identifying information, specific web pages visited during your connection, and the domain name from which you accessed the Platform....",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "dd77a7cf4fd7c141c26b0fc7e23fc1fe28282896108cb84bd8b98072b8895e36",
+                "score": 0.026056303,
+                "excerpt": "or de-identified.\nSecurity and Safety\nWe use industry-standard security measures designed to protect the confidentiality of personally identifiable information under our control and appropriately limit access to it. We have taken certain physical, electronic, and administrative steps designed to safeguard and secure the information we collect from users of the Platform. Even though we follow procedures to try to protect the information in our possession, no security is 100% secure, and we cannot...",
+                "url": "https://www.getaware.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475366694,
+            "url": "https://www.getaware.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that the app informs users of the purpose of collecting and using data.",
+            "reference": "We may use the information we collect from and about you:... (3) to inform you of services and promotions we believe might interest you; (5) to send you a confirmation email or information about the Platform; (7) to conduct data analysis, identify usage trends and develop new and/or improved services; etc. URL: https://www.getaware.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c8a4427dd3964976b8aef16a9c9efb753f88e1d78527fb0dc337d68f5cfbb863",
+                "score": 0.03567855,
+                "excerpt": "view and the features you use, as well as information about whether you open and/or act upon one of our emails or advertisements. We may also collect the URL of the website you visited immediately before coming to the App or the Site. Web beacons help us analyze our visitors' behavior and measure the effectiveness of the Platform and our advertising. We may work with service providers that help us track, collect and analyze this information. We may combine the information we collect through cook...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "c112d49650fe228fa5033ac3bdaad660f5e0c131ba5364f2b890777e8d0a462f",
+                "score": 0.028274601,
+                "excerpt": "Updated: 3rd day of March, 2024\nIntroduction\nAware.ai knows you care about the collection and use of your information, so we created this Privacy Policy to describe how we collect, use, share and protect information you provide to us via our platform (the “Platform”), which includes the Aware.ai application (the “App”) and the Aware.ai website located at [https://www.getaware.ai] (the “Site”), and any other information we collect when you call, email, or otherwise communicate with Aware.ai (“Awa...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "03a44e4f7f6c00e96f7c494bbe377afbac7534d3230ae2cd6a3e23f156935fe5",
+                "score": 0.0153063545,
+                "excerpt": "gender, email address, mailing address, billing address, telephone number, date of birth, insurance information and payment method. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. We use a third party payment processor to store your credit card information. They conduct the entire credit card transaction using industry standard encryption. We may collect personal information from you when you write a re...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "dd77a7cf4fd7c141c26b0fc7e23fc1fe28282896108cb84bd8b98072b8895e36",
+                "score": 0.013532149,
+                "excerpt": "or de-identified.\nSecurity and Safety\nWe use industry-standard security measures designed to protect the confidentiality of personally identifiable information under our control and appropriately limit access to it. We have taken certain physical, electronic, and administrative steps designed to safeguard and secure the information we collect from users of the Platform. Even though we follow procedures to try to protect the information in our possession, no security is 100% secure, and we cannot...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "1feb6b7bcc91740e44444bc7d842caf32961d53a0dbb936c57c16b7bbeef7663",
+                "score": 0.012007351,
+                "excerpt": "information may be transferred to, stored and processed in the United States or other countries in accordance with this Privacy Policy. The data protection and other applicable laws of the United States or other countries may not be as comprehensive as those laws or regulations in your country or may differ from the data protection or consumer protection laws in your country. Your information may be available to government authorities under lawful orders and law applicable in such jurisdictions....",
+                "url": "https://www.getaware.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475366694,
+            "url": "https://www.getaware.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by accessing, correcting, modifying personal information, or requesting deletion or restriction of access to personal data as detailed under the 'Access, Correction, & Deletion' section of the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly states that users can opt out of data collection or request the deletion of data by following the procedures mentioned in the 'Access, Correction, & Deletion' section.",
+            "reference": "You may access, correct or modify your personal information by signing into your user account. You may also exercise your rights, subject to applicable laws, to request that we delete or restrict access to your personal data, except to the extent necessary for us to retain it for legally permitted purposes. If you need assistance correcting or updating your personal information, or would like to request that we delete your personal information, please contact us as detailed in the “Contact Us” section below. URL: https://www.getaware.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "8cb401b9b9492a209ccdadbb36816df9a43f4ffc538ee7ff493e026bc44b49c9",
+                "score": 0.6545636,
+                "excerpt": "and to know your choices concerning interest-based ads, visit:\nhttp://www.networkadvertising.org/choices/\nIn Canada, please visit: http://youradchoices.ca/choices/\nIn the EU, please visit: http://www.youronlinechoices.eu/\nAccess, Correction, & Deletion\nYou may access, correct or modify your personal information by signing into your user account. You may also exercise your rights, subject to applicable laws, to request that we delete or restrict access to your personal data, except to the extent ...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "e2656aef2f7b686410653bdb559cbd3df88c648d3d37ed9bb9b3db2ab37df3e5",
+                "score": 0.5842712,
+                "excerpt": "to opt-in or withdraw consent for certain uses. If you reside in those jurisdictions, you may have additional rights, which are detailed in the Access, Correction, & Deletion section below.\nInformation We Collect Automatically\nWhen you visit the Platform, we may collect certain information from you, including your IP address, browser type, operating system, device-identifying information, specific web pages visited during your connection, and the domain name from which you accessed the Platform....",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "e27d75d9508666df2e6bd8e960b9cb2be5c8ab3ac5f33e57347654cd9960b2d8",
+                "score": 0.5419846,
+                "excerpt": "another European Commission adequacy finding. Where Aware.ai has knowledge that an agent is using or disclosing personal information in a manner contrary to this Privacy Policy, Aware.ai will take reasonable steps to prevent or stop the use or disclosure. However, non-personally identifiable information, including aggregated or de-identified information, may be provided to other parties for marketing, advertising, or other uses.\nInterest-Based Advertising\nWe may use third-party advertising compa...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "aa6193f816f3a116cdc9d5d47a416ad2a0855938a41f974567d7833873a1d0f2",
+                "score": 0.38682136,
+                "excerpt": "the messages you receive. Even if you opt-out of receiving these messages, we reserve the right to send you certain communications relating to the services we provide, and we may send you service announcements and administrative messages.\nDisclosure of Information\nWe may disclose information collected from and about you: (1) to our related companies and service providers, to perform a business, professional, technical support or other services for us; (2) to our marketing partners, business-to-b...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "03a44e4f7f6c00e96f7c494bbe377afbac7534d3230ae2cd6a3e23f156935fe5",
+                "score": 0.22988081,
+                "excerpt": "gender, email address, mailing address, billing address, telephone number, date of birth, insurance information and payment method. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. We use a third party payment processor to store your credit card information. They conduct the entire credit card transaction using industry standard encryption. We may collect personal information from you when you write a re...",
+                "url": "https://www.getaware.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475366694,
+            "url": "https://www.getaware.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may disclose information collected to related companies, service providers, marketing partners, business-to-business partners, clients, advertisers, and other third parties.",
+            "reference": "We may disclose information collected from and about you: ...; (2) to our marketing partners, business-to-business partners and clients, advertisers or other third parties...; URL: https://www.getaware.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "aa6193f816f3a116cdc9d5d47a416ad2a0855938a41f974567d7833873a1d0f2",
+                "score": 0.89552265,
+                "excerpt": "the messages you receive. Even if you opt-out of receiving these messages, we reserve the right to send you certain communications relating to the services we provide, and we may send you service announcements and administrative messages.\nDisclosure of Information\nWe may disclose information collected from and about you: (1) to our related companies and service providers, to perform a business, professional, technical support or other services for us; (2) to our marketing partners, business-to-b...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "1c8f0071a0ec638a44adf9e7cf9db5a5e4d5e329fea3edac665bc462ee867421",
+                "score": 0.83828294,
+                "excerpt": "parental consent. If you believe that a child has provided personal information to us without verifiable parental consent, please contact us promptly as described below. We will then make reasonable efforts to delete the child's information from our database and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law).\nThird Party Sites\nThe Platform may contain links to third-party websites or applications suc...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "6fdb014f8cdb435b3f463b57e9bb1545ca31ecaea2c1bd69660571b283a57be9",
+                "score": 0.8337311,
+                "excerpt": "all of its assets are acquired (in which case, your personal information may be one of the transferred assets). We may also disclose your personal information with your express consent. We may share aggregate, anonymized information about Platform users with third parties.\nPlease note that if you voluntarily submit any personal information for posting on the Platform, such as a review or a post, the information becomes publicly available and can be collected and used by others. Additionally, whe...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "11b544ac0f3c2d21f6351ae1ca4f1e972410f5fbbd21b0756eb99fafde5f1543",
+                "score": 0.6191835,
+                "excerpt": "request certain information about our disclosure of personal information to third parties for their own direct marketing purposes during the preceding calendar year. This request is free, and may be made once a year. To make such a request, please write to us at the following address:\n222 Delaware Avenue, Suite 1040\nWilmington, DE, 19801\nATTN: Customer Service Department—California Privacy Info.\nRight to Removal of Posted Information—California Minors\nIf you are under 18 years of age, reside in ...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "c112d49650fe228fa5033ac3bdaad660f5e0c131ba5364f2b890777e8d0a462f",
+                "score": 0.3022881,
+                "excerpt": "Updated: 3rd day of March, 2024\nIntroduction\nAware.ai knows you care about the collection and use of your information, so we created this Privacy Policy to describe how we collect, use, share and protect information you provide to us via our platform (the “Platform”), which includes the Aware.ai application (the “App”) and the Aware.ai website located at [https://www.getaware.ai] (the “Site”), and any other information we collect when you call, email, or otherwise communicate with Aware.ai (“Awa...",
+                "url": "https://www.getaware.ai/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6475366694,
+            "url": "https://www.getaware.ai/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers, agents, marketing partners, business-to-business partners, clients, advertisers, and other third parties.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "service providers",
+                        "agents",
+                        "marketing partners",
+                        "business-to-business partners",
+                        "clients",
+                        "advertisers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions sharing data with various third parties such as service providers, agents, and marketing partners. These parties are involved in providing services, marketing, or business partnerships.",
+            "reference": "We will obtain assurances from our service providers and agents that they will safeguard personal information consistently with this Privacy Policy. Examples of appropriate assurances that may be provided by agents include a contract obligating the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles... We may disclose information collected from and about you: (1) to our related companies and service providers, to perform a business, professional, technical support or other services for us; (2) to our marketing partners, business-to-business partners and clients, advertisers or other third parties...URL: https://www.getaware.ai/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "6fdb014f8cdb435b3f463b57e9bb1545ca31ecaea2c1bd69660571b283a57be9",
+                "score": 0.7601169,
+                "excerpt": "all of its assets are acquired (in which case, your personal information may be one of the transferred assets). We may also disclose your personal information with your express consent. We may share aggregate, anonymized information about Platform users with third parties.\nPlease note that if you voluntarily submit any personal information for posting on the Platform, such as a review or a post, the information becomes publicly available and can be collected and used by others. Additionally, whe...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "1c8f0071a0ec638a44adf9e7cf9db5a5e4d5e329fea3edac665bc462ee867421",
+                "score": 0.746139,
+                "excerpt": "parental consent. If you believe that a child has provided personal information to us without verifiable parental consent, please contact us promptly as described below. We will then make reasonable efforts to delete the child's information from our database and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law).\nThird Party Sites\nThe Platform may contain links to third-party websites or applications suc...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "aa6193f816f3a116cdc9d5d47a416ad2a0855938a41f974567d7833873a1d0f2",
+                "score": 0.49553308,
+                "excerpt": "the messages you receive. Even if you opt-out of receiving these messages, we reserve the right to send you certain communications relating to the services we provide, and we may send you service announcements and administrative messages.\nDisclosure of Information\nWe may disclose information collected from and about you: (1) to our related companies and service providers, to perform a business, professional, technical support or other services for us; (2) to our marketing partners, business-to-b...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "03a44e4f7f6c00e96f7c494bbe377afbac7534d3230ae2cd6a3e23f156935fe5",
+                "score": 0.28140563,
+                "excerpt": "gender, email address, mailing address, billing address, telephone number, date of birth, insurance information and payment method. We may combine the information we collect from you with information we receive about you from other sources, such as address update services. We use a third party payment processor to store your credit card information. They conduct the entire credit card transaction using industry standard encryption. We may collect personal information from you when you write a re...",
+                "url": "https://www.getaware.ai/privacy"
+            },
+            {
+                "id": "260fdfdf77c65a13151ae78372a0d22722ae6b8d72f4950a21ba1686ac25008e",
+                "score": 0.25720495,
+                "excerpt": "(6) to review Platform usage and operations; (7) to conduct data analysis, identify usage trends and develop new and/or improved services; (8) to address problems with the Platform, our business or our services; (9) to protect the security or integrity of the Platform and our business; (10) to monitor the Platform for compliance with our Terms of Service and the law; (11) to contact you with updates, newsletters and other informational and promotional materials from us and third party marketing ...",
+                "url": "https://www.getaware.ai/privacy"
+            }
+        ]
+    }
+]

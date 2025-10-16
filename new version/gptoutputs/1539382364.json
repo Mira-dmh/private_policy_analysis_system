@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1539382364,
+      "url": "https://www.getmindset.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of personal information, including contact information, profile information, demographic information, device information, location information, transactional information, usage information, communications, marketing information, and user-generated content.",
+        "simple_answer": "Yes, the app collects personal information.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the types of personal information collected.",
+          "content": "The app collects personal information such as contact details, profile data, demographic info, device specifics, location data, transaction details, usage patterns, communications, marketing preferences, and user-generated content."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, indicating transparency in data collection practices.",
+      "reference": "Personal Information DIVE Studios Collects and Receives"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539382364,
+      "url": "https://www.getmindset.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal information, including: Contact Information (name and email address), Profile Information (profile name, profile picture, username, and password), Demographic Information (city, state, country, postal code, and birth date), Device Information (operating system, manufacturer, model, browser type, IP address, and unique device identifiers), Location Information (GPS data and mobile device location), Transactional Information (details of requests or transactions), Usage Information (usage times, preferences, and access information), Communications (support requests and feedback), Marketing Information (preferences for marketing communications), User-generated content (photos, videos, comments, etc.), and aggregated, anonymized, or pseudonymized information.",
+        "simple_answer": "The app collects contact, profile, demographic, device, location, transactional, usage, communication, marketing, and user-generated content information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of personal data to enhance user experience and functionality.",
+          "content": "Types of data collected include contact details, profile and demographic information, device specifics, location data, transaction details, usage patterns, communications, marketing preferences, and user-generated content."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Information DIVE Studios Collects and Receives"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539382364,
+      "url": "https://www.getmindset.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It describes how DIVE Studios collects personal information through the Platform, how that information is used, and its legal basis for doing so. The policy outlines various purposes for data collection, including improving the Platform, providing services, and ensuring security.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states the reasons for collecting personal information, which include enhancing user experience and ensuring security.",
+          "content": "The privacy policy details the information DIVE Studios collects and how it is used, including for security, performance, and analytics."
+        }
+      },
+      "analysis": "The privacy policy is clear in stating the purposes for which personal information is collected, ensuring transparency for users regarding their data.",
+      "reference": "The section titled 'Personal Information DIVE Studios Collects and Receives' and the section discussing 'Types of Cookies and other Tracking Technologies DIVE Studios Uses'."
+    }
+  },
+  {
+    "meta": {
+      "id": 1539382364,
+      "url": "https://www.getmindset.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users may decline to provide DIVE Studios with some or all of their information. However, this may limit or prevent their ability to use the Platform.",
+        "simple_answer": "Yes, users can opt out of data collection.",
+        "extended_simple_answer": {
+          "comment": "Opting out may affect the user's ability to use the Platform.",
+          "content": "Users can decline to provide some or all of their information, but this may limit their ability to use the Platform."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Information DIVE Studios Collects and Receives"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539382364,
+      "url": "https://www.getmindset.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share personal information with third parties, including payment processing partners like Stripe and Paypal for transactional information, and may also share aggregated, anonymized, or pseudonymized information to protect the safety and security of the Platform, improve the Platform, or comply with legal obligations.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data primarily for payment processing and may also share anonymized information for security and improvement purposes.",
+          "content": "The app shares personal information with payment processing partners and may share aggregated or anonymized data for various purposes."
+        }
+      },
+      "analysis": "The privacy policy indicates that while personal information is collected, it is also shared with third parties for specific functions such as payment processing and compliance with legal obligations.",
+      "reference": "Personal Information DIVE Studios Collects and Receives"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539382364,
+      "url": "https://www.getmindset.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with payment processing partners, specifically Stripe and Paypal, for the facilitation of transactions such as the purchase of Premium Episodes. The payment information you submit will be collected and used by these payment processors in accordance with their respective privacy policies.",
+        "simple_answer": "The app shares data with payment processing partners, Stripe and Paypal.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for payment processing, which involves sharing certain personal information.",
+          "content": "Payment processing partners include Stripe and Paypal."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Information DIVE Studios Collects and Receives"
+    }
+  }
+]

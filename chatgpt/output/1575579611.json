@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1575579611,
+      "url": "https://www.wellnesssolutions.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, specifically stating that it may collect personal information from users during the registration process and for the purpose of providing services.",
+        "simple_answer": "Yes, the app collects personal information.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy indicates that personal information is collected during registration and for service provision.",
+          "content": "The app collects personal information from users, particularly during the registration process, to provide services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the collection of personal data, which is a standard practice for apps that require user registration.",
+      "reference": "General Registration Requirements"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575579611,
+      "url": "https://www.wellnesssolutions.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information such as your name, email address, and payment information when you register and subscribe to the services. Additionally, it may collect usage data related to your interactions with the app.",
+        "simple_answer": "The app collects personal information like name, email, and payment details.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy indicates that personal information is necessary for registration and subscription.",
+          "content": "The app collects personal information such as your name, email address, and payment information when you register and subscribe to the services. Additionally, it may collect usage data related to your interactions with the app."
+        }
+      },
+      "analysis": "",
+      "reference": "General Registration Requirements, Subscription Fees and Payment"
+    }
+  },
+  {
+    "meta": {
+      "id": 1575579611,
+      "url": "https://www.wellnesssolutions.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly declare the specific purposes of data collection and use. However, it implies that personal information may be collected for the purpose of providing services, managing subscriptions, and ensuring the security of user accounts.",
+        "simple_answer": "No, the specific purposes of data collection and use are not explicitly stated.",
+        "extended_simple_answer": {
+          "comment": "While the policy mentions the collection of personal information, it does not detail the specific purposes for which this data is used.",
+          "content": "The policy implies that data may be used for service provision and account management, but lacks explicit declarations."
+        }
+      },
+      "analysis": "The absence of explicit declarations regarding the purposes of data collection may lead to ambiguity for users regarding how their data will be utilized.",
+      "reference": "General Registration Requirements and Subscription Fees and Payment sections."
+    }
+  },
+  {
+    "meta": {
+      "id": 1575579611,
+      "url": "https://www.wellnesssolutions.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention an option for users to opt out of data collection or delete their data. However, it does state that users are responsible for maintaining the confidentiality of their account information and can contact Wellness Solutions to inform them of any breaches of security. This implies that users may have some control over their data by managing their account settings or contacting the company directly.",
+        "simple_answer": "The policy does not explicitly provide an opt-out option for data collection or data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users may have some control over their data by managing their account settings or contacting Wellness Solutions.",
+          "content": "The privacy policy does not provide clear instructions on opting out of data collection or deleting data."
+        }
+      },
+      "analysis": "The absence of explicit instructions regarding opting out or deleting data suggests that users may need to reach out directly to Wellness Solutions for assistance.",
+      "reference": "The privacy policy does not contain specific sections addressing user opt-out or data deletion."
+    }
+  },
+  {
+    "meta": {
+      "id": 1575579611,
+      "url": "https://www.wellnesssolutions.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares personal data with third parties. However, it does mention that users may not collect personal information of Site members for marketing or telemarketing applications, which implies a restriction on sharing data with third parties for such purposes.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes the protection of user data and restricts the collection of personal information for marketing purposes.",
+          "content": "The privacy policy indicates that users are prohibited from collecting personal information of Site members for marketing or telemarketing applications."
+        }
+      },
+      "analysis": "The privacy policy suggests a commitment to user privacy by not allowing the collection of personal information for marketing purposes, which implies that data sharing with third parties is limited.",
+      "reference": "The section regarding the prohibition of collecting personal information for marketing or telemarketing applications."
+    }
+  },
+  {
+    "meta": {
+      "id": 1575579611,
+      "url": "https://www.wellnesssolutions.com.au/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify any third parties with whom the app shares data. It generally states that personal information may be shared with third parties only as necessary to provide services or as required by law.",
+        "simple_answer": "The app does not specify any third parties for data sharing.",
+        "extended_simple_answer": {
+          "comment": "The policy is vague regarding specific third parties.",
+          "content": "It mentions that personal information may be shared as necessary for service provision or legal requirements."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy suggests a general approach to data sharing, focusing on service provision and legal compliance rather than detailing specific entities.",
+      "reference": "The privacy policy does not provide specific details about third parties in the relevant sections."
+    }
+  }
+]

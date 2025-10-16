@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1584145241,
+      "url": "https://www.fkabrands.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that the Ellia App requires access to the camera and photos, and it captures an image to recognize the color from the surroundings and match it to the mood light on the Ellia Aroma Diffuser.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the type of data it collects and the purpose behind it.",
+          "content": "The Ellia App captures an image and deletes it shortly after for functionality purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the data collection practices of the app, ensuring transparency for users.",
+      "reference": "How we collect personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1584145241,
+      "url": "https://www.fkabrands.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of personal information: Name, Email Address, Phone Number, Postal Address, and it may also collect billing and shipping information for processing online purchases. Additionally, the Ellia App requires access to the camera and photos to capture an image for matching it to the mood light on the Ellia Aroma Diffuser.",
+        "simple_answer": "The app collects Name, Email Address, Phone Number, Postal Address, and camera access.",
+        "extended_simple_answer": {
+          "comment": "The app collects personal information to enhance user experience and provide services.",
+          "content": "The types of data collected include Name, Email Address, Phone Number, Postal Address, and billing/shipping information. The app also accesses the camera to capture images for functionality."
+        }
+      },
+      "analysis": "",
+      "reference": "Why we collect personal information; How we collect personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1584145241,
+      "url": "https://www.fkabrands.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. FKA Brands collects and uses personal information to provide superior customer service, convenient access to products and services, keep customers updated on product announcements and promotions, and to conduct market research surveys to gauge customer satisfaction.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that personal information is used for customer service and marketing purposes.",
+          "content": "FKA Brands collects and uses your personal information to give you superior customer service, to provide you with convenient access to our products and services, and to make a wider range available to you. In addition, we use your personal information to keep you up to date on the latest product announcements, promotions, special offers, and other information we think you'd like to hear about."
+        }
+      },
+      "analysis": "",
+      "reference": "Why we collect personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1584145241,
+      "url": "https://www.fkabrands.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can withdraw their consent for the continued collection, use, or disclosure of their information at any time by contacting FKA Brands. Additionally, users retain all rights to their personal information and can access, amend, and correct it anytime.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to manage their personal information.",
+          "content": "Users can withdraw consent for data collection and can access, amend, and correct their personal information at any time."
+        }
+      },
+      "analysis": "",
+      "reference": "How to withdraw your consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 1584145241,
+      "url": "https://www.fkabrands.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares personal information with third parties, including other FKA Brands business units and companies that help provide products and services. This includes sharing information with shipping companies for delivery purposes. FKA Brands requires that these companies safeguard personal information in accordance with their policies.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "FKA Brands will always ask for your consent before sharing your personal information with a third party for purposes other than those described.",
+          "content": "Personal data shared with third-parties includes Name, Email Address, Phone Number, Postal Address, and Payment Information."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal information may be shared with third parties for specific purposes, such as shipping and delivery, and that consent will be sought before sharing for other purposes.",
+      "reference": "How we disclose personal information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1584145241,
+      "url": "https://www.fkabrands.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "FKA Brands shares personal information with other FKA Brands business units and with companies that help provide products and services, such as shipping companies. The information shared includes name, email address, phone number, postal address, and payment information. FKA Brands requires that these companies safeguard personal information in accordance with their policies.",
+        "simple_answer": "FKA Brands shares data with other business units and shipping companies.",
+        "extended_simple_answer": {
+          "comment": "FKA Brands ensures that third parties protect your personal information.",
+          "content": "Personal data shared with third-parties includes: Name, Email Address, Phone Number, Postal Address, Payment Information."
+        }
+      },
+      "analysis": "",
+      "reference": "How we disclose personal information"
+    }
+  }
+]

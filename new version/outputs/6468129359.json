@@ -1,0 +1,289 @@
+[
+    {
+        "meta": {
+            "id": 6468129359,
+            "url": "https://onwellbeing.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data.",
+            "reference": "We obtain information about you when you register or take part in events we run, or when you sign up to receive our newsletter and/or updates. The personal information we collect includes your name, email address, workplace, and telephone number. URL: https://onwellbeing.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "2a5277808fc0f65a44e80afb8c1d87bffb51bb0539bff91adfda35a71b2982cd",
+                "score": 0.0060503976,
+                "excerpt": "On Wellbeing is a product delivered by Aspire Software Systems Limited. Aspire Software Systems is committed to complying with General Data Protection Regulation (GDPR), as interpreted by the Data Protection Act, which came into force on the 25th May 2018, and any other subsequent legislation related to this Act.\nAll personal information will be handled in accordance with the above to ensure that individuals are protected from misuse of personal details and that any information is handled approp...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "9e7fcf73bd21df91252c7d99ad8e94e858656e4534ca3d9f3810698134a55d3e",
+                "score": 0.00072365726,
+                "excerpt": "of functionality when using our website.\nOur website may contain links to other websites run by other organisations. This Privacy Policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.\nIn addition, if you linked to our website from a third-party site, we cannot be responsible for the privacy policies ...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "3bc079d0b3b396bc55e251c5897ff79aa62e9b8829654f119678e38a3a10e1dd",
+                "score": 0.00026947918,
+                "excerpt": "we hold about you is inaccurate or out of date, please email us at: [email protected]\nYou have the right to ask for a copy of the information Aspire Software Systems Limited holds about you, which we will respond to within 30 days of receiving the request.\nLike many other websites, our website uses ‘cookies’. Cookies are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit.\nWhen visiting our websi...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "a9e615e797d918cc86b0724add8740751bdee0bdf89df86412939ba998d8f336",
+                "score": 9.761566e-05,
+                "excerpt": "time. Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected]\nWe sometimes track how you or groups of individuals interact with our emails to understand what content interests you most. This means w...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6468129359,
+            "url": "https://onwellbeing.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as name, email address, workplace, and telephone number.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name",
+                        "Email address",
+                        "Workplace",
+                        "Telephone number"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section explaining the personal information collected when individuals register or take part in events, sign up for newsletters, or updates.",
+            "reference": "The personal information we collect includes your name, email address, workplace, and telephone number. URL: https://onwellbeing.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "2a5277808fc0f65a44e80afb8c1d87bffb51bb0539bff91adfda35a71b2982cd",
+                "score": 0.019456575,
+                "excerpt": "On Wellbeing is a product delivered by Aspire Software Systems Limited. Aspire Software Systems is committed to complying with General Data Protection Regulation (GDPR), as interpreted by the Data Protection Act, which came into force on the 25th May 2018, and any other subsequent legislation related to this Act.\nAll personal information will be handled in accordance with the above to ensure that individuals are protected from misuse of personal details and that any information is handled approp...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "3bc079d0b3b396bc55e251c5897ff79aa62e9b8829654f119678e38a3a10e1dd",
+                "score": 0.0023051251,
+                "excerpt": "we hold about you is inaccurate or out of date, please email us at: [email protected]\nYou have the right to ask for a copy of the information Aspire Software Systems Limited holds about you, which we will respond to within 30 days of receiving the request.\nLike many other websites, our website uses ‘cookies’. Cookies are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit.\nWhen visiting our websi...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "9e7fcf73bd21df91252c7d99ad8e94e858656e4534ca3d9f3810698134a55d3e",
+                "score": 0.0008693674,
+                "excerpt": "of functionality when using our website.\nOur website may contain links to other websites run by other organisations. This Privacy Policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.\nIn addition, if you linked to our website from a third-party site, we cannot be responsible for the privacy policies ...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "a9e615e797d918cc86b0724add8740751bdee0bdf89df86412939ba998d8f336",
+                "score": 0.00071802974,
+                "excerpt": "time. Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected]\nWe sometimes track how you or groups of individuals interact with our emails to understand what content interests you most. This means w...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6468129359,
+            "url": "https://onwellbeing.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the personal information collected is used for specific purposes such as registering for events, receiving newsletters, and improving services. The policy also details how users can opt-out of communication.",
+            "reference": "This policy explains when and why we gather personal information about people who visit our website and/or use our services and how we keep it secure. We obtain information about you when you register or take part in events we run, or when you sign up to receive our newsletter and/or updates. The personal information we collect includes your name, email address, workplace, and telephone number. Your information could be used to: ... If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent. URL: https://onwellbeing.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "2a5277808fc0f65a44e80afb8c1d87bffb51bb0539bff91adfda35a71b2982cd",
+                "score": 0.004166256,
+                "excerpt": "On Wellbeing is a product delivered by Aspire Software Systems Limited. Aspire Software Systems is committed to complying with General Data Protection Regulation (GDPR), as interpreted by the Data Protection Act, which came into force on the 25th May 2018, and any other subsequent legislation related to this Act.\nAll personal information will be handled in accordance with the above to ensure that individuals are protected from misuse of personal details and that any information is handled approp...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "9e7fcf73bd21df91252c7d99ad8e94e858656e4534ca3d9f3810698134a55d3e",
+                "score": 0.00036973887,
+                "excerpt": "of functionality when using our website.\nOur website may contain links to other websites run by other organisations. This Privacy Policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.\nIn addition, if you linked to our website from a third-party site, we cannot be responsible for the privacy policies ...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "3bc079d0b3b396bc55e251c5897ff79aa62e9b8829654f119678e38a3a10e1dd",
+                "score": 0.0002551414,
+                "excerpt": "we hold about you is inaccurate or out of date, please email us at: [email protected]\nYou have the right to ask for a copy of the information Aspire Software Systems Limited holds about you, which we will respond to within 30 days of receiving the request.\nLike many other websites, our website uses ‘cookies’. Cookies are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit.\nWhen visiting our websi...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "a9e615e797d918cc86b0724add8740751bdee0bdf89df86412939ba998d8f336",
+                "score": 2.195349e-05,
+                "excerpt": "time. Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected]\nWe sometimes track how you or groups of individuals interact with our emails to understand what content interests you most. This means w...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6468129359,
+            "url": "https://onwellbeing.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection by unsubscribing from emails and can update or delete their data by contacting the company via email.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can unsubscribe from email communications to opt out of data collection. Additionally, users can update or request deletion of their data by contacting the company via email.",
+            "reference": "Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected] You can update your information within any registered user account. You can also contact us if any information we hold about you is inaccurate or out of date, please email us at: [email protected] URL: https://onwellbeing.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a9e615e797d918cc86b0724add8740751bdee0bdf89df86412939ba998d8f336",
+                "score": 0.17175469,
+                "excerpt": "time. Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected]\nWe sometimes track how you or groups of individuals interact with our emails to understand what content interests you most. This means w...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "2a5277808fc0f65a44e80afb8c1d87bffb51bb0539bff91adfda35a71b2982cd",
+                "score": 0.09401018,
+                "excerpt": "On Wellbeing is a product delivered by Aspire Software Systems Limited. Aspire Software Systems is committed to complying with General Data Protection Regulation (GDPR), as interpreted by the Data Protection Act, which came into force on the 25th May 2018, and any other subsequent legislation related to this Act.\nAll personal information will be handled in accordance with the above to ensure that individuals are protected from misuse of personal details and that any information is handled approp...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "3bc079d0b3b396bc55e251c5897ff79aa62e9b8829654f119678e38a3a10e1dd",
+                "score": 0.02211659,
+                "excerpt": "we hold about you is inaccurate or out of date, please email us at: [email protected]\nYou have the right to ask for a copy of the information Aspire Software Systems Limited holds about you, which we will respond to within 30 days of receiving the request.\nLike many other websites, our website uses ‘cookies’. Cookies are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit.\nWhen visiting our websi...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "9e7fcf73bd21df91252c7d99ad8e94e858656e4534ca3d9f3810698134a55d3e",
+                "score": 0.008348054,
+                "excerpt": "of functionality when using our website.\nOur website may contain links to other websites run by other organisations. This Privacy Policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.\nIn addition, if you linked to our website from a third-party site, we cannot be responsible for the privacy policies ...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6468129359,
+            "url": "https://onwellbeing.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share data with third parties.",
+            "reference": "We recognise that your data is private and will not share your data with anyone else. URL: https://onwellbeing.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9e7fcf73bd21df91252c7d99ad8e94e858656e4534ca3d9f3810698134a55d3e",
+                "score": 0.016340127,
+                "excerpt": "of functionality when using our website.\nOur website may contain links to other websites run by other organisations. This Privacy Policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.\nIn addition, if you linked to our website from a third-party site, we cannot be responsible for the privacy policies ...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "2a5277808fc0f65a44e80afb8c1d87bffb51bb0539bff91adfda35a71b2982cd",
+                "score": 0.0056638652,
+                "excerpt": "On Wellbeing is a product delivered by Aspire Software Systems Limited. Aspire Software Systems is committed to complying with General Data Protection Regulation (GDPR), as interpreted by the Data Protection Act, which came into force on the 25th May 2018, and any other subsequent legislation related to this Act.\nAll personal information will be handled in accordance with the above to ensure that individuals are protected from misuse of personal details and that any information is handled approp...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "3bc079d0b3b396bc55e251c5897ff79aa62e9b8829654f119678e38a3a10e1dd",
+                "score": 0.003524341,
+                "excerpt": "we hold about you is inaccurate or out of date, please email us at: [email protected]\nYou have the right to ask for a copy of the information Aspire Software Systems Limited holds about you, which we will respond to within 30 days of receiving the request.\nLike many other websites, our website uses ‘cookies’. Cookies are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit.\nWhen visiting our websi...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "a9e615e797d918cc86b0724add8740751bdee0bdf89df86412939ba998d8f336",
+                "score": 0.0019418169,
+                "excerpt": "time. Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected]\nWe sometimes track how you or groups of individuals interact with our emails to understand what content interests you most. This means w...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6468129359,
+            "url": "https://onwellbeing.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "No specific third parties are mentioned in the privacy policy.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app does not share specific details about third parties for data sharing.",
+            "reference": "No specific third parties are mentioned in the privacy policy. URL: https://onwellbeing.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "9e7fcf73bd21df91252c7d99ad8e94e858656e4534ca3d9f3810698134a55d3e",
+                "score": 0.040464837,
+                "excerpt": "of functionality when using our website.\nOur website may contain links to other websites run by other organisations. This Privacy Policy applies only to our website‚ so we encourage you to read the privacy statements on the other websites you visit. We cannot be responsible for the privacy policies and practices of other sites even if you access them using links from our website.\nIn addition, if you linked to our website from a third-party site, we cannot be responsible for the privacy policies ...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "3bc079d0b3b396bc55e251c5897ff79aa62e9b8829654f119678e38a3a10e1dd",
+                "score": 0.0070390454,
+                "excerpt": "we hold about you is inaccurate or out of date, please email us at: [email protected]\nYou have the right to ask for a copy of the information Aspire Software Systems Limited holds about you, which we will respond to within 30 days of receiving the request.\nLike many other websites, our website uses ‘cookies’. Cookies are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that website to recognise you when you visit.\nWhen visiting our websi...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "2a5277808fc0f65a44e80afb8c1d87bffb51bb0539bff91adfda35a71b2982cd",
+                "score": 0.004886375,
+                "excerpt": "On Wellbeing is a product delivered by Aspire Software Systems Limited. Aspire Software Systems is committed to complying with General Data Protection Regulation (GDPR), as interpreted by the Data Protection Act, which came into force on the 25th May 2018, and any other subsequent legislation related to this Act.\nAll personal information will be handled in accordance with the above to ensure that individuals are protected from misuse of personal details and that any information is handled approp...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            },
+            {
+                "id": "a9e615e797d918cc86b0724add8740751bdee0bdf89df86412939ba998d8f336",
+                "score": 0.00268344,
+                "excerpt": "time. Each email campaign we send will offer you the opportunity to unsubscribe, you will find the unsubscribe link by scrolling to the bottom of the email and clicking ‘unsubscribe’. If you believe you are receiving unwanted, unsolicited emails from us, sent by us, or purporting to have been sent by us, please forward it with your comments to [email protected]\nWe sometimes track how you or groups of individuals interact with our emails to understand what content interests you most. This means w...",
+                "url": "https://onwellbeing.com/privacy-policy"
+            }
+        ]
+    }
+]

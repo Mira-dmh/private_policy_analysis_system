@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6469035694,
+      "url": "https://www.progressmagic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of various types of data, including personal identification details, sensitive health information, financial transactions, and digital footprints.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines the types of data collected to enhance user experience and service delivery.",
+          "content": "The app collects personal identification details, sensitive health information, financial transactions, and digital footprints as part of its services."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected, ensuring transparency about data practices.",
+      "reference": "Section 1: Understanding the Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6469035694,
+      "url": "https://www.progressmagic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data including personal identification details (name, contact information, professional details), sensitive health information, financial transaction data, and digital footprints (technical data like IP addresses and usage statistics).",
+        "simple_answer": "The app collects personal identification details, sensitive health information, financial transaction data, and digital footprints.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a range of data to enhance user experience and provide services.",
+          "content": "Types of data collected include personal identification details, sensitive health information, financial transactions, and digital footprints."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: Understanding the Data We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6469035694,
+      "url": "https://www.progressmagic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that personal information is utilized for several key purposes, including personal identification, processing orders and payments, delivering and enhancing services, sending service-related communications, and conducting internal analyses to improve user experience.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines various purposes for which personal information is processed.",
+          "content": "The purposes include personal identification, processing orders, sending communications, enhancing services, and conducting analyses."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4.1.3 Purposes for Using Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6469035694,
+      "url": "https://www.progressmagic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of certain data collection activities and have the right to request data deletion at any time. Clients have the right to request data deletion, reflecting Progress Magic's commitment to privacy and data autonomy.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "This reflects the company's commitment to user privacy.",
+          "content": "Clients have the right to request data deletion at any time, and there are options to opt out of specific data processing activities."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user rights regarding data collection and deletion, ensuring transparency and control over personal information.",
+      "reference": "Section 4.2.1 Ownership and Control of Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6469035694,
+      "url": "https://www.progressmagic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, Progress Magic limits data sharing to necessary parties under strict confidentiality agreements and complies with legal requirements for data disclosure only when absolutely necessary.",
+        "simple_answer": "Yes, but only with necessary parties under strict confidentiality.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and governed by confidentiality agreements.",
+          "content": "Progress Magic ensures that any sharing of personal information is done under strict confidentiality agreements and only when legally required."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Types of Personal Information Progress Magic Collects"
+    }
+  },
+  {
+    "meta": {
+      "id": 6469035694,
+      "url": "https://www.progressmagic.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list specific third parties with whom the app shares data. However, it mentions that data sharing is limited to necessary parties under strict confidentiality agreements and complies with legal requirements for data disclosure only when absolutely necessary.",
+        "simple_answer": "The app shares data with necessary parties under strict confidentiality agreements.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes limited data sharing and legal compliance.",
+          "content": "Data sharing is limited to necessary parties under strict confidentiality agreements and complies with legal requirements for data disclosure only when absolutely necessary."
+        }
+      },
+      "analysis": "The privacy policy indicates a cautious approach to data sharing, focusing on confidentiality and legal compliance, but does not provide specific names of third parties.",
+      "reference": "Section 4, Types of Personal Information Progress Magic Collects"
+    }
+  }
+]

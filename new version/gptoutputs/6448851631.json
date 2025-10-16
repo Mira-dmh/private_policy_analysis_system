@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6448851631,
+      "url": "https://www.genaufactory.com/genau-data-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that personal data is collected exclusively in accordance with data protection laws and outlines the types of data processed when using the app, including general app accesses, email addresses, user-generated content, and network access.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the types of data collected and the legal basis for processing this data.",
+          "content": "When you install our app, the data required for the start-up is collected and processed. This includes data that you agreed to the collection of, such as GPS data, and other information like IP address and user agent."
+        }
+      },
+      "analysis": "",
+      "reference": "The section titled 'What data is processed when using our app?'"
+    }
+  },
+  {
+    "meta": {
+      "id": 6448851631,
+      "url": "https://www.genaufactory.com/genau-data-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects the following types of data: General app accesses, e-mail address, user-generated content, push messages (Message_Usage), network access (full network access, obtain internet data, retrieve network connections, retrieve WLAN connections), and information such as IP address and user agent which is stored anonymously in server logs for 30 days.",
+        "simple_answer": "The app collects general app accesses, e-mail addresses, user-generated content, push messages, and network access data.",
+        "extended_simple_answer": {
+          "comment": "The data collected is necessary for the app's functionality and user interaction.",
+          "content": "The app collects data such as general app accesses, e-mail addresses, user-generated content, push messages, and network access data. This includes IP addresses and user agent information stored anonymously in server logs for 30 days."
+        }
+      },
+      "analysis": "",
+      "reference": "What data is processed when using our app?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6448851631,
+      "url": "https://www.genaufactory.com/genau-data-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that data is collected to enable the retrieval of the app from the user's device, to ensure a correct display of the app, to optimize the app, and to ensure the security of the systems. Additionally, it mentions that the processing of personal data is necessary for the legitimate interest of presenting an optimized app and enabling communication between the server and the user's device.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The data is collected to enable app retrieval, ensure correct display, optimize the app, and maintain system security."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: What data is processed when using our app?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6448851631,
+      "url": "https://www.genaufactory.com/genau-data-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the right to object to the processing of their personal data. They can prevent their data from being processed further by deactivating the push notifications. However, the provision of personal data is not legally or contractually required, and failure to provide the data could result in limited use of the app.",
+        "simple_answer": "Yes, users can opt out of data collection by deactivating push notifications.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data processing preferences.",
+          "content": "Users can deactivate push notifications to stop further processing of their personal data. However, not providing personal data may limit the app's functionality."
+        }
+      },
+      "analysis": "",
+      "reference": "What data is processed when using our app?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6448851631,
+      "url": "https://www.genaufactory.com/genau-data-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal data with third parties. However, it is noted that when installing the app via the Google Play Store or Apple App Store, the respective operators (Google and Apple) may collect and process personal data independently, and the app cannot influence this data processing.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "While the app itself does not share data, third-party app store operators may collect data.",
+          "content": "The app does not share personal data with third parties. However, it is noted that when installing the app via the Google Play Store or Apple App Store, the respective operators (Google and Apple) may collect and process personal data independently, and the app cannot influence this data processing."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Installation of our app"
+    }
+  },
+  {
+    "meta": {
+      "id": 6448851631,
+      "url": "https://www.genaufactory.com/genau-data-privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not explicitly state that it shares data with third parties. However, it mentions that when installing the app via the Google Play Store or Apple App Store, data may be collected and processed by Google and Apple, respectively. The responsible parties for this data processing are solely Google and Apple as operators of their respective app stores.",
+        "simple_answer": "The app does not share data with third parties; however, Google and Apple may collect data during app installation.",
+        "extended_simple_answer": {
+          "comment": "While the app itself does not share data, the app stores may collect user data.",
+          "content": "Google collects data such as license checks and network access, while Apple collects device identifiers and IP addresses during the app installation process."
+        }
+      },
+      "analysis": "The privacy policy indicates that the app does not directly share data with third parties but acknowledges that third-party app stores (Google and Apple) may collect user data during the installation process.",
+      "reference": "Section: Installation of our app"
+    }
+  }
+]

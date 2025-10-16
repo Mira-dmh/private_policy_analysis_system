@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6465690765,
+      "url": "https://dreamdrift.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects information about users if there is a reason to do so, such as to provide services, communicate with users, or improve services. The policy details the types of information collected, including user-provided information, automatically collected information, and information from other sources.",
+        "simple_answer": "Yes, the app declares that it collects data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes transparency regarding data collection.",
+          "content": "The app collects information from users directly, automatically through its services, and from external sources. It specifies the types of data collected, including journal entries, account information, transactional information, log information, device and usage information, location information, and data from third-party accounts."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the app's practices regarding data collection, ensuring users are informed about what data is collected and how it is used.",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6465690765,
+      "url": "https://dreamdrift.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including: 1. Information You Provide Us: This includes your thought and dream entries, account information (like email and password), transactional information (such as name and credit card details), and communications with the app's support team. 2. Information We Collect Automatically: This includes log information (browser type, IP address, etc.), device and usage information (device type, usage patterns), location information (approximate location from IP address), and information from cookies and other technologies (like Google Analytics). 3. Information We Collect from Other Sources: This includes third-party account information (when connecting to services like Apple or Google) and motion, activity, and fitness data (used to enhance journal entries).",
+        "simple_answer": "The app collects personal entries, account information, transactional data, log information, device usage data, location data, and information from third-party sources.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the types of data it collects to enhance user experience and provide services.",
+          "content": "The types of data collected include personal entries, account details, transaction records, automatic log data, device information, location data, and third-party account information."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6465690765,
+      "url": "https://dreamdrift.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is used to provide services, customer support, market services, respond to requests, resolve disputes, and improve the services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about how it uses personal information.",
+          "content": "The app uses personal information to provide services, customer support, market services, respond to requests, resolve disputes, and improve the services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purposes for which personal information is collected and used, ensuring transparency for users.",
+      "reference": "How We Use the Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6465690765,
+      "url": "https://dreamdrift.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of certain data collection practices and have the ability to delete their data. The privacy policy states that users can choose not to provide certain information, which may limit the features of the Services they are able to use. Additionally, users can control what information in their journal is shared publicly or kept private, and they can request permanent deletion of their entries.",
+        "simple_answer": "Yes, users can opt out of data collection and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their privacy settings.",
+          "content": "Users can choose not to provide certain information, which may limit their use of the Services. They can also control the visibility of their journal entries and request permanent deletion of their data."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal information, allowing users to manage their data preferences effectively.",
+      "reference": "Information We Collect; How We Use the Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6465690765,
+      "url": "https://dreamdrift.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share your personal information with third parties for their own use or sell it to advertising platforms, data brokers, or information resellers. However, it may collect information from third-party accounts if you connect them, but this is for the purpose of providing services and not for sharing your data with third parties.",
+        "simple_answer": "No, the app does not share your personal information with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app is committed to protecting your personal information and does not sell or share it with third parties for advertising or similar purposes.",
+          "content": "The app does not disclose motion, activity, or fitness data to third parties for their own use or sell it to advertising platforms, data brokers, or information resellers."
+        }
+      },
+      "analysis": "The privacy policy emphasizes the app's commitment to user privacy and the protection of personal information, ensuring that data is not shared with third parties for commercial purposes.",
+      "reference": "Information We Collect from Other Sources"
+    }
+  },
+  {
+    "meta": {
+      "id": 6465690765,
+      "url": "https://dreamdrift.app/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not disclose personal information to third parties for their own use or sell it to advertising platforms, data brokers, or information resellers. However, it may collect information from third-party accounts when users connect their accounts from services like Apple or Google, which may include basic information such as name, user ID, and email.",
+        "simple_answer": "The app does not share personal information with third parties for their own use.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes user privacy and does not sell or disclose personal data to third parties.",
+          "content": "When users connect their accounts from services like Apple or Google, the app may access basic information such as name, user ID, and email."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app prioritizes user privacy and does not share personal information with third parties for their own use, which is a strong commitment to protecting user data.",
+      "reference": "Information We Collect from Other Sources"
+    }
+  }
+]

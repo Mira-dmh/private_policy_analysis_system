@@ -1,0 +1,337 @@
+[
+    {
+        "meta": {
+            "id": 1332580637,
+            "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app explicitly mentions in its privacy policy that it collects personal data for specific purposes.",
+            "reference": "NiceDay will only process your personal data in accordance with the GDPR. NiceDay processes your personal data for the following purposes: Application...We do this to be able to approach you to make an appointment for an intake and to ensure that the invoicing of your employer runs. URL: https://legal.nicedaynederland.nl/privacy-policy/app"
+        },
+        "source_documents": [
+            {
+                "id": "7965e9c22750ae349cc57505e47c6d020347e1339f3f0110c1f6e51f8df97b34",
+                "score": 0.3409239,
+                "excerpt": "Privacy Policy - Mobile App\nVersion 01 September 2023 (Latest)\nTable of contents\n- Processing of personal data\n- What personal data does NiceDay collect from you and for what purposes?\n- Anonymise\n- Contact\n- Are there situations where third parties have access to my personal data?\n- Is your personal data secured?\n- What about children?\n- What privacy rights do you have?\n- Is this policy subject to change?\n- Filing a complaint\n- Contact details\nYour privacy is extremely important to NiceDay Heal...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "b0b5cf7015500688a09fd28d5e5d75565f95afd9b26520398e2d3a0b2b400d98",
+                "score": 0.26114246,
+                "excerpt": "continue processing your personal data.\nProcessing of personal data\nIn this privacy statement, we explain what we do at NiceDay with information we learn about you when you use our application. Below is indicated per subject which data we obtain from you and how long we keep this data, for what purpose this is done and on what basis. For a more detailed explanation of what we at NiceDay do with your personal data and what data we collect from you, when you visit our website, please refer to the ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "f23c6697f653d1f94771994fdc900ace4a16b800d0135aedef7d0eb7dd9df7d4",
+                "score": 0.09252366,
+                "excerpt": "us;\n- Respect your rights, such as the right to view, correct or delete your personal data processed by us.\nThis privacy statement applies to the processing of data for which NiceDay is responsible. This is the case for the data that we collect from you, when you use the application without a referral letter and possibly the services of our own professionals. For the processing of the personal data that we obtain from you in this way, we determine the purpose and the means. This means that we ar...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "16185469d1e0215698b3a73fb6cde8e6cacad532251e1f7f2c2d8f60da07354b",
+                "score": 0.029035643,
+                "excerpt": "data is no longer personal data and therefore no privacy risks are associated with its use.\nWe have a legitimate interest in anonymising data. We need the anonymised data to perform statistical analyses and to improve our services. Because we carefully carry out the anonymisation and the data cannot be traced back to you afterwards, your privacy is guaranteed.\nContact\nVia the contact form on our website you can ask questions or request information about NiceDay from former clients or professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "b1a85d259d21b6377153f505b72248d9dbb8c2e662bde685e537b4bd2b194262",
+                "score": 0.009783876,
+                "excerpt": "this institution may make additional agreements with you regarding access and sharing of your data. For more information about this, please contact the institution where you are registered.\nAll information shared between you and your chosen practitioner is strictly confidential and will never be transferred to a third party. Practitioners can broadly collect usage information and report it to stakeholders within the organisation for the purpose of determining the effectiveness and effectiveness ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1332580637,
+            "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects recorded feelings and thoughts, self-entered activities, diary content, G schedule content, daily planner activities, interview notes, IP address, 4G/Wifi usage, internet speed, time zone, steps from Google Fit or Apple Health, usage data, and IP address for research purposes.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "recorded feelings and thoughts",
+                        "self-entered activities",
+                        "diary content",
+                        "G schedule content",
+                        "daily planner activities",
+                        "interview notes",
+                        "IP address",
+                        "4G/Wifi usage",
+                        "internet speed",
+                        "time zone",
+                        "steps from Google Fit or Apple Health",
+                        "usage data"
+                    ]
+                }
+            },
+            "analysis": "The app collects various types of data related to user activities, feelings, and interactions within the app. These data categories provide insights for personalized services and analysis.",
+            "reference": "URL: https://legal.nicedaynederland.nl/privacy-policy/app"
+        },
+        "source_documents": [
+            {
+                "id": "b0b5cf7015500688a09fd28d5e5d75565f95afd9b26520398e2d3a0b2b400d98",
+                "score": 0.5429844,
+                "excerpt": "continue processing your personal data.\nProcessing of personal data\nIn this privacy statement, we explain what we do at NiceDay with information we learn about you when you use our application. Below is indicated per subject which data we obtain from you and how long we keep this data, for what purpose this is done and on what basis. For a more detailed explanation of what we at NiceDay do with your personal data and what data we collect from you, when you visit our website, please refer to the ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "7965e9c22750ae349cc57505e47c6d020347e1339f3f0110c1f6e51f8df97b34",
+                "score": 0.23440666,
+                "excerpt": "Privacy Policy - Mobile App\nVersion 01 September 2023 (Latest)\nTable of contents\n- Processing of personal data\n- What personal data does NiceDay collect from you and for what purposes?\n- Anonymise\n- Contact\n- Are there situations where third parties have access to my personal data?\n- Is your personal data secured?\n- What about children?\n- What privacy rights do you have?\n- Is this policy subject to change?\n- Filing a complaint\n- Contact details\nYour privacy is extremely important to NiceDay Heal...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "f23c6697f653d1f94771994fdc900ace4a16b800d0135aedef7d0eb7dd9df7d4",
+                "score": 0.09947021,
+                "excerpt": "us;\n- Respect your rights, such as the right to view, correct or delete your personal data processed by us.\nThis privacy statement applies to the processing of data for which NiceDay is responsible. This is the case for the data that we collect from you, when you use the application without a referral letter and possibly the services of our own professionals. For the processing of the personal data that we obtain from you in this way, we determine the purpose and the means. This means that we ar...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "73833211b0e846b401b93f6b31ffca0e7a46e51b1a5091a00369536f891916d4",
+                "score": 0.075858176,
+                "excerpt": "that our application has to offer. For example, you can keep track of your feelings, a diary or a G schedule. You can also use our daily planner.\nWhen you use our application, we process the following data from you:\n- any recorded feelings and thoughts\n- any activities you have entered yourself\n- any information that you enter yourself as the content of your diary\n- any information that you enter as the content of your G schedule\n- activities included in your daily planner\n- any interview notes ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "16185469d1e0215698b3a73fb6cde8e6cacad532251e1f7f2c2d8f60da07354b",
+                "score": 0.032589745,
+                "excerpt": "data is no longer personal data and therefore no privacy risks are associated with its use.\nWe have a legitimate interest in anonymising data. We need the anonymised data to perform statistical analyses and to improve our services. Because we carefully carry out the anonymisation and the data cannot be traced back to you afterwards, your privacy is guaranteed.\nContact\nVia the contact form on our website you can ask questions or request information about NiceDay from former clients or professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1332580637,
+            "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by processing personal data for specific purposes outlined in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that NiceDay processes personal data for specific purposes and explains the details of data collection and use.",
+            "reference": "NiceDay processes your personal data for the following purposes: Application. We do this to be able to approach you to make an appointment for an intake and to ensure that the invoicing of your employer runs. URL: https://legal.nicedaynederland.nl/privacy-policy/app"
+        },
+        "source_documents": [
+            {
+                "id": "b0b5cf7015500688a09fd28d5e5d75565f95afd9b26520398e2d3a0b2b400d98",
+                "score": 0.24926445,
+                "excerpt": "continue processing your personal data.\nProcessing of personal data\nIn this privacy statement, we explain what we do at NiceDay with information we learn about you when you use our application. Below is indicated per subject which data we obtain from you and how long we keep this data, for what purpose this is done and on what basis. For a more detailed explanation of what we at NiceDay do with your personal data and what data we collect from you, when you visit our website, please refer to the ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "7965e9c22750ae349cc57505e47c6d020347e1339f3f0110c1f6e51f8df97b34",
+                "score": 0.24816957,
+                "excerpt": "Privacy Policy - Mobile App\nVersion 01 September 2023 (Latest)\nTable of contents\n- Processing of personal data\n- What personal data does NiceDay collect from you and for what purposes?\n- Anonymise\n- Contact\n- Are there situations where third parties have access to my personal data?\n- Is your personal data secured?\n- What about children?\n- What privacy rights do you have?\n- Is this policy subject to change?\n- Filing a complaint\n- Contact details\nYour privacy is extremely important to NiceDay Heal...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "f23c6697f653d1f94771994fdc900ace4a16b800d0135aedef7d0eb7dd9df7d4",
+                "score": 0.1317307,
+                "excerpt": "us;\n- Respect your rights, such as the right to view, correct or delete your personal data processed by us.\nThis privacy statement applies to the processing of data for which NiceDay is responsible. This is the case for the data that we collect from you, when you use the application without a referral letter and possibly the services of our own professionals. For the processing of the personal data that we obtain from you in this way, we determine the purpose and the means. This means that we ar...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "16185469d1e0215698b3a73fb6cde8e6cacad532251e1f7f2c2d8f60da07354b",
+                "score": 0.028870907,
+                "excerpt": "data is no longer personal data and therefore no privacy risks are associated with its use.\nWe have a legitimate interest in anonymising data. We need the anonymised data to perform statistical analyses and to improve our services. Because we carefully carry out the anonymisation and the data cannot be traced back to you afterwards, your privacy is guaranteed.\nContact\nVia the contact form on our website you can ask questions or request information about NiceDay from former clients or professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "b1a85d259d21b6377153f505b72248d9dbb8c2e662bde685e537b4bd2b194262",
+                "score": 0.01840489,
+                "excerpt": "this institution may make additional agreements with you regarding access and sharing of your data. For more information about this, please contact the institution where you are registered.\nAll information shared between you and your chosen practitioner is strictly confidential and will never be transferred to a third party. Practitioners can broadly collect usage information and report it to stakeholders within the organisation for the purpose of determining the effectiveness and effectiveness ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1332580637,
+            "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. The user has the right to withdraw consent, object to processing of personal data, request removal of personal data, and request data transfer.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have various privacy rights including the right to withdraw consent, object to processing of personal data, request removal of personal data, and request data transfer. These rights enable users to opt out of data collection or delete data.",
+            "reference": "You can easily withdraw your consent at any time. Right to object: you can object to the processing of your personal data. Right to removal: you can request us to erase your personal data. Right to data transfer: you have the right to receive your personal data, which you have provided to us, URL: https://legal.nicedaynederland.nl/privacy-policy/app"
+        },
+        "source_documents": [
+            {
+                "id": "0c643a0cb1cc53ff513f309ee83bf93400be7697714f99c90530bcb439341e52",
+                "score": 0.75437254,
+                "excerpt": "they have permission from their parents or guardian. However, we cannot check whether a visitor is older than 16. We therefore advise parents to be involved in the online activities of their children, in order to prevent data about children from being collected without parental consent. If we become aware that a child under the age of 16 has provided us with personally identifiable information, we will take steps to delete this information as soon as possible.\nWhat privacy rights do you have?\nIf...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "68e929d09cbe94ddc265a82b56782c7a6f3af5fa381df64d53905604bcf87c2a",
+                "score": 0.72026986,
+                "excerpt": "you can object to the processing of your personal data.\n- Right to removal: you can request us to erase your personal data.\n- Right to data transfer: you have the right to receive your personal data, which you have provided to us, in a structured, commonly used and machine-readable format, and you have the right to transfer that data to another controller without being hindered by us as controller to whom you have previously provided your personal data.\n- Right to restriction of processing: in s...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "f23c6697f653d1f94771994fdc900ace4a16b800d0135aedef7d0eb7dd9df7d4",
+                "score": 0.15726623,
+                "excerpt": "us;\n- Respect your rights, such as the right to view, correct or delete your personal data processed by us.\nThis privacy statement applies to the processing of data for which NiceDay is responsible. This is the case for the data that we collect from you, when you use the application without a referral letter and possibly the services of our own professionals. For the processing of the personal data that we obtain from you in this way, we determine the purpose and the means. This means that we ar...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "7489ae8180b3b69ede97425df2f386d958203d9317c892f7992e72962b2e46a9",
+                "score": 0.12819736,
+                "excerpt": "consent. We will retain this information until you terminate your account. You can withdraw your consent at any time by sending an email to gdpr@nicedaynederland.nl.\nParticipate in research\nTo improve our services, we use general research into the use of our application.\nFor this we use your:\n- usage data\n- ip address\n- use of 4G/Wifi\n- internet speed when calling via NiceDay\nWe do this on the basis of your consent. We will retain this information until you terminate your account. You can withdr...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "1ea8d34116113cf5bace27db3c94194cfb168adcdd3d2ffb33e6227ec865ea11",
+                "score": 0.056236345,
+                "excerpt": "we extend this period, we will notify you in a timely manner.\nIf you wish to exercise one of your rights, you can make this known via gdpr@nicedaynederland.nl. You can read our GDPR statement on our website.\nIs this policy subject to change?\nWe may periodically adjust this policy. The date of the most recent change appears at the top of this privacy statement. Changes take effect immediately after they are made public. If changes have been made, we will notify you.\nFiling a complaint\nIf you feel...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1332580637,
+            "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties in specific situations such as for the execution of the agreement, with permission from the user, or when legally required to do so.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app shares data with third parties if it is necessary for the execution of the agreement, with user permission, or when legally obliged to do so.",
+            "reference": "NiceDay will only share your data with other companies or institutions if this is necessary for the execution of the agreement, if we have received permission from you or if we are legally obliged to do so (for example, if the police require this when a crime is suspected). URL: https://legal.nicedaynederland.nl/privacy-policy/app"
+        },
+        "source_documents": [
+            {
+                "id": "16185469d1e0215698b3a73fb6cde8e6cacad532251e1f7f2c2d8f60da07354b",
+                "score": 0.9698426,
+                "excerpt": "data is no longer personal data and therefore no privacy risks are associated with its use.\nWe have a legitimate interest in anonymising data. We need the anonymised data to perform statistical analyses and to improve our services. Because we carefully carry out the anonymisation and the data cannot be traced back to you afterwards, your privacy is guaranteed.\nContact\nVia the contact form on our website you can ask questions or request information about NiceDay from former clients or professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "9d51bc7dd3c9b23f2f11b98d8ed6a33810bcf31164c3375a1c2e2b543897d46e",
+                "score": 0.24238491,
+                "excerpt": "enter into with you. We keep this information until you cancel the account.\nYou are responsible for the security of your login name and password. If you believe that your login details have become known to a third party, you should change your password immediately. We are not responsible if someone else gains access to your account with your login details or through a violation of the terms and conditions or this privacy policy.\nYour account\nBy logging into your account you will have professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "b1a85d259d21b6377153f505b72248d9dbb8c2e662bde685e537b4bd2b194262",
+                "score": 0.23178805,
+                "excerpt": "this institution may make additional agreements with you regarding access and sharing of your data. For more information about this, please contact the institution where you are registered.\nAll information shared between you and your chosen practitioner is strictly confidential and will never be transferred to a third party. Practitioners can broadly collect usage information and report it to stakeholders within the organisation for the purpose of determining the effectiveness and effectiveness ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "fcebfb956d6d260517169eb4652853af7636e133a7cda8bfcad978a1989f411e",
+                "score": 0.13811268,
+                "excerpt": "received permission from you or if we are legally obliged to do so (for example, if the police require this when a crime is suspected).\nThe parties that process personal data on our or your assignment are:\n- IT suppliers and service providers\n- our hosting provider\nWe have concluded a processing agreement with these companies to ensure that they handle your data with care.\nIn order to provide our services, NiceDay may provide your personal data to parties located outside the European Economic Ar...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "7965e9c22750ae349cc57505e47c6d020347e1339f3f0110c1f6e51f8df97b34",
+                "score": 0.086169556,
+                "excerpt": "Privacy Policy - Mobile App\nVersion 01 September 2023 (Latest)\nTable of contents\n- Processing of personal data\n- What personal data does NiceDay collect from you and for what purposes?\n- Anonymise\n- Contact\n- Are there situations where third parties have access to my personal data?\n- Is your personal data secured?\n- What about children?\n- What privacy rights do you have?\n- Is this policy subject to change?\n- Filing a complaint\n- Contact details\nYour privacy is extremely important to NiceDay Heal...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1332580637,
+            "url": "https://legal.nicedaynederland.nl/privacy-policy/app",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with IT suppliers, service providers, and the hosting provider.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "IT suppliers",
+                        "service providers",
+                        "hosting provider"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy specifies that personal data may be shared with specific categories of third parties for the execution of agreements or legal obligations. The data shared includes information necessary for the proper handling of requests and services provided by the app.",
+            "reference": "The parties that process personal data on our or your assignment are: - IT suppliers and service providers - our hosting provider. URL: https://legal.nicedaynederland.nl/privacy-policy/app"
+        },
+        "source_documents": [
+            {
+                "id": "16185469d1e0215698b3a73fb6cde8e6cacad532251e1f7f2c2d8f60da07354b",
+                "score": 0.93071055,
+                "excerpt": "data is no longer personal data and therefore no privacy risks are associated with its use.\nWe have a legitimate interest in anonymising data. We need the anonymised data to perform statistical analyses and to improve our services. Because we carefully carry out the anonymisation and the data cannot be traced back to you afterwards, your privacy is guaranteed.\nContact\nVia the contact form on our website you can ask questions or request information about NiceDay from former clients or professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "fcebfb956d6d260517169eb4652853af7636e133a7cda8bfcad978a1989f411e",
+                "score": 0.4297883,
+                "excerpt": "received permission from you or if we are legally obliged to do so (for example, if the police require this when a crime is suspected).\nThe parties that process personal data on our or your assignment are:\n- IT suppliers and service providers\n- our hosting provider\nWe have concluded a processing agreement with these companies to ensure that they handle your data with care.\nIn order to provide our services, NiceDay may provide your personal data to parties located outside the European Economic Ar...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "b1a85d259d21b6377153f505b72248d9dbb8c2e662bde685e537b4bd2b194262",
+                "score": 0.087096825,
+                "excerpt": "this institution may make additional agreements with you regarding access and sharing of your data. For more information about this, please contact the institution where you are registered.\nAll information shared between you and your chosen practitioner is strictly confidential and will never be transferred to a third party. Practitioners can broadly collect usage information and report it to stakeholders within the organisation for the purpose of determining the effectiveness and effectiveness ...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "9d51bc7dd3c9b23f2f11b98d8ed6a33810bcf31164c3375a1c2e2b543897d46e",
+                "score": 0.046033904,
+                "excerpt": "enter into with you. We keep this information until you cancel the account.\nYou are responsible for the security of your login name and password. If you believe that your login details have become known to a third party, you should change your password immediately. We are not responsible if someone else gains access to your account with your login details or through a violation of the terms and conditions or this privacy policy.\nYour account\nBy logging into your account you will have professiona...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            },
+            {
+                "id": "7965e9c22750ae349cc57505e47c6d020347e1339f3f0110c1f6e51f8df97b34",
+                "score": 0.02237146,
+                "excerpt": "Privacy Policy - Mobile App\nVersion 01 September 2023 (Latest)\nTable of contents\n- Processing of personal data\n- What personal data does NiceDay collect from you and for what purposes?\n- Anonymise\n- Contact\n- Are there situations where third parties have access to my personal data?\n- Is your personal data secured?\n- What about children?\n- What privacy rights do you have?\n- Is this policy subject to change?\n- Filing a complaint\n- Contact details\nYour privacy is extremely important to NiceDay Heal...",
+                "url": "https://legal.nicedaynederland.nl/privacy-policy/app"
+            }
+        ]
+    }
+]

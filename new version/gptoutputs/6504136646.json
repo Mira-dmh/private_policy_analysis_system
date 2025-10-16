@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6504136646,
+      "url": "https://sites.google.com/view/numbernauts/home",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal information that users voluntarily provide when they express interest in the services, participate in activities, or contact the app developers.",
+        "simple_answer": "Yes, the app collects personal information.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that it collects personal information provided by users and does not process sensitive information.",
+          "content": "We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us."
+        }
+      },
+      "analysis": "",
+      "reference": "1. WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504136646,
+      "url": "https://sites.google.com/view/numbernauts/home",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us. This may include payment data necessary to process your purchases, such as your payment instrument number and security code, which is handled and stored by Apple.",
+        "simple_answer": "The app collects personal information you provide voluntarily and payment data for purchases.",
+        "extended_simple_answer": {
+          "comment": "The app does not process sensitive personal information or collect information from third parties.",
+          "content": "We collect personal information that you provide to us, including payment data necessary for processing purchases."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app collects personal information that users voluntarily provide, along with payment data for transactions.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504136646,
+      "url": "https://sites.google.com/view/numbernauts/home",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information is processed to provide, improve, and administer the services, communicate with users, for security and fraud prevention, and to comply with the law. Additionally, it may process information for other purposes with user consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various reasons for processing personal information.",
+          "content": "The app processes information to provide, improve, and administer services, communicate with users, ensure security, prevent fraud, and comply with legal obligations."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: HOW DO WE PROCESS YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504136646,
+      "url": "https://sites.google.com/view/numbernauts/home",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not using the services. Additionally, users can exercise their rights to review, update, or delete the data collected from them by submitting a data subject access request or by contacting the company directly.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to manage their data.",
+          "content": "Users can opt out of data collection by not using the services and can request to review, update, or delete their data by submitting a data subject access request or contacting the company."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 12: HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6504136646,
+      "url": "https://sites.google.com/view/numbernauts/home",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share data with third parties as it does not collect any information from them.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app maintains user privacy by not sharing data with external parties.",
+          "content": "We do not collect any information from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app does not collect information from third parties, which implies that it does not share data with them either.",
+      "reference": "We do not collect any information from third parties."
+    }
+  },
+  {
+    "meta": {
+      "id": 6504136646,
+      "url": "https://sites.google.com/view/numbernauts/home",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with third parties as it does not collect any information from third parties.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that no information is collected from third parties, implying no sharing occurs.",
+          "content": "We do not collect any information from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that the app does not engage in data sharing with third parties, which is a significant aspect of its data handling practices.",
+      "reference": "We do not collect any information from third parties."
+    }
+  }
+]

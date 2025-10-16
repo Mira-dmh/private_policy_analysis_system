@@ -1,0 +1,21 @@
+Question,App,Ground Truth,Our RAG System
+Q1,balanceapp.com,Yes,Yes
+Q1,wevibin.co,Yes,Yes
+Q1,projectcamus.com,Yes,Yes
+Q1,reachwell.info,Yes,Yes
+Q1,mcmillenhealth.org,Yes,Yes
+Q3,balanceapp.com,Yes,Yes
+Q3,wevibin.co,Yes,Yes
+Q3,projectcamus.com,No,Yes
+Q3,reachwell.info,Yes,Yes
+Q3,mcmillenhealth.org,No,No
+Q4,balanceapp.com,Yes,Yes
+Q4,wevibin.co,Yes,Yes
+Q4,projectcamus.com,Yes,No
+Q4,reachwell.info,Yes,Yes
+Q4,mcmillenhealth.org,Yes,Yes
+Q5,balanceapp.com,Yes,Yes
+Q5,wevibin.co,No,No
+Q5,projectcamus.com,No,No
+Q5,reachwell.info,No,No
+Q5,mcmillenhealth.org,No,No

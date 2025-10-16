@@ -1,0 +1,335 @@
+[
+    {
+        "meta": {
+            "id": 6463510886,
+            "url": "https://www.caringwire.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects various types of data, including personal information for providing services.",
+            "reference": "Information Collected Directly from You. In general, you can visit our services without disclosing any personal information... CaringWire may ask you to provide personal information such as your name, email address, phone number... CaringWire does not collect biometrics or sensitive information unless necessary... CaringWire may periodically supplement the Personal Information we collect... URL: https://www.caringwire.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "fec8e88c25cc3b0de93f6f502bc4e1a096c4a338e2a5ecf5f05df4ad510140fe",
+                "score": 0.009161027,
+                "excerpt": "system and server integrity).\nOnline Analytics. We may use third-party web analytics services on our Site, such as those of Google Analytics. These service providers use the sort of technology described in this “Information that is Automatically Collected” section to help us analyze how Users use the Site, including by noting the third-party Web site from which Users arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by thes...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "3348ac0c85e680c3bd8cf0a034105214852da0faeb6b370a89b7978def69c53b",
+                "score": 0.0058199596,
+                "excerpt": "the gathering of data through cookies, Web servers may log records such as your device type, operating system type, device advertising identifier, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record the address of the Web page that referred you to our Site, the IP address (and associated city and state or province for the IP address) of the device you use to conne...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "48a4f1e2fa79a0157307644f6498a7272dfc21b0646058248572db91d146bd8e",
+                "score": 0.005220126,
+                "excerpt": "may collect from third parties.\nCOLLECTION & USE OF YOUR PERSONAL INFORMATION\nInformation Collected Directly from You. In general, you can visit our services without disclosing any personal information. Any information you provide to us is voluntary, but please note that some information may be necessary for us to provide you with certain information and referral services, offers and content on our Services. CaringWire may ask you to provide personal information such as your name, email address,...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "09c945f8598f65c367265ab0831620ab80c6554b6f9f1265a32e4e843257c69d",
+                "score": 0.0034429806,
+                "excerpt": "at all, like searching on CaringWire. Across our services, you can adjust your privacy settings to control what we collect and how your information is used.\nIf you have any questions about this Privacy Policy, you can contact us at support@caringwire.com.\nBY USING OUR SERVICES, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS NOTICE AND TO OUR COLLECTION, USE, AND DISCLOSURE OF PERSONAL INFORMATION, INCLUDING PERSONALLY IDENTIFIABLE HEALTH INFORMATION (PHI). IF YOU DO NOT AGREE TO ANY T...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "a84269e2f3513bff19ef96e1a2bd3d6658197a997f85bc141b07ab04fcd9befe",
+                "score": 0.0032476764,
+                "excerpt": "we collect—for instance, log-in credentials, IP addresses, hashed email addresses, and unique mobile device identifiers—to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or computers), or work with providers that do this, in order to better tailor content, features, and advertising (for CaringWire on other sites), and provide you with a seamless experience across the devices you use to access our services.\nInformation Obtained by ...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6463510886,
+            "url": "https://www.caringwire.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects unique device identifiers, precise geolocation information, motion coprocessor data, accelerometer data, gyroscope data, log-in credentials, IP addresses, hashed email addresses, and data across multiple browsers or devices.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Unique device identifiers",
+                        "Precise geolocation information",
+                        "Motion coprocessor data",
+                        "Accelerometer data",
+                        "Gyroscope data",
+                        "Log-in credentials",
+                        "IP addresses",
+                        "Hashed email addresses",
+                        "Data across multiple browsers or devices"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions collecting various types of data such as unique device identifiers, geolocation information, and login credentials.",
+            "reference": "The app collects information specific to the use of mobile devices like unique device identifiers, with your consent, precise geolocation information, motion coprocessor data, accelerometer data, gyroscope data and log-in credentials. URL: https://www.caringwire.com/privacy-policy",
+            "data across multiple browsers": "Sometimes, the app may use the information collected to locate or try to locate the same unique users across multiple browsers or devices to better tailor content and advertising. URL: https://www.caringwire.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "fec8e88c25cc3b0de93f6f502bc4e1a096c4a338e2a5ecf5f05df4ad510140fe",
+                "score": 0.15316878,
+                "excerpt": "system and server integrity).\nOnline Analytics. We may use third-party web analytics services on our Site, such as those of Google Analytics. These service providers use the sort of technology described in this “Information that is Automatically Collected” section to help us analyze how Users use the Site, including by noting the third-party Web site from which Users arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by thes...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "3348ac0c85e680c3bd8cf0a034105214852da0faeb6b370a89b7978def69c53b",
+                "score": 0.12474516,
+                "excerpt": "the gathering of data through cookies, Web servers may log records such as your device type, operating system type, device advertising identifier, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record the address of the Web page that referred you to our Site, the IP address (and associated city and state or province for the IP address) of the device you use to conne...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "a84269e2f3513bff19ef96e1a2bd3d6658197a997f85bc141b07ab04fcd9befe",
+                "score": 0.05155819,
+                "excerpt": "we collect—for instance, log-in credentials, IP addresses, hashed email addresses, and unique mobile device identifiers—to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or computers), or work with providers that do this, in order to better tailor content, features, and advertising (for CaringWire on other sites), and provide you with a seamless experience across the devices you use to access our services.\nInformation Obtained by ...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "48a4f1e2fa79a0157307644f6498a7272dfc21b0646058248572db91d146bd8e",
+                "score": 0.034684174,
+                "excerpt": "may collect from third parties.\nCOLLECTION & USE OF YOUR PERSONAL INFORMATION\nInformation Collected Directly from You. In general, you can visit our services without disclosing any personal information. Any information you provide to us is voluntary, but please note that some information may be necessary for us to provide you with certain information and referral services, offers and content on our Services. CaringWire may ask you to provide personal information such as your name, email address,...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "3e3ec3ce0f0cdbe68b1d768d895b95a09e165c452255936831f599b4b9d13c3d",
+                "score": 0.013795364,
+                "excerpt": "CaringWire may periodically supplement the Personal Information we collect from you by obtaining personal or nonpersonal information about you or another person from other businesses, business partners, contractors, and other third parties.\nCaringWire uses this Personal Information to provide you with the services you have requested from us and to provide services to Participating Providers. In addition, CaringWire uses Personal Information to send you periodic email and newsletter communication...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6463510886,
+            "url": "https://www.caringwire.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use by stating that the collected personal information is used to provide users with the services they have requested.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app uses personal information collected to provide users with the services requested, indicating a declaration of the purpose of data collection and use.",
+            "reference": "CaringWire uses this Personal Information to provide you with the services you have requested from us and to provide. URL: https://www.caringwire.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "48a4f1e2fa79a0157307644f6498a7272dfc21b0646058248572db91d146bd8e",
+                "score": 0.026607107,
+                "excerpt": "may collect from third parties.\nCOLLECTION & USE OF YOUR PERSONAL INFORMATION\nInformation Collected Directly from You. In general, you can visit our services without disclosing any personal information. Any information you provide to us is voluntary, but please note that some information may be necessary for us to provide you with certain information and referral services, offers and content on our Services. CaringWire may ask you to provide personal information such as your name, email address,...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "1bc1f334930f9a018fd9c23efcee33bc6022730dd344055a1e5f34a3faf0d0cd",
+                "score": 0.0128707485,
+                "excerpt": "100% secure. All Internet users should take care with how they handle and disclose their personal information.\nTHIRD-PARTY ADVERTISING\nThird-party advertisers or ad networks may use cookies or other technologies on our Services for various purposes, including measuring the effectiveness of their ads and analyzing and personalizing ads or other content delivered to you. CaringWire does not control the privacy, data collection, use, and disclosure practices of such Services, and the privacy polici...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "bc0f15d4c12d2fa200c40c979a764f5d5383db2736d0d417261de912ea697528",
+                "score": 0.011508149,
+                "excerpt": "by you.\nLINKS TO THIRD PARTIES\nThis privacy statement applies only to information collected by this Services. CaringWire may provide links to third-party Services from our Services as a service to our users, but we do not control nor are we responsible for the privacy and data collection, use, and disclosure practices of third party Services. When you click on links that take you to external Services, you will be subject to their privacy policies and practices and not ours. CaringWire encourages...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "fec8e88c25cc3b0de93f6f502bc4e1a096c4a338e2a5ecf5f05df4ad510140fe",
+                "score": 0.007665875,
+                "excerpt": "system and server integrity).\nOnline Analytics. We may use third-party web analytics services on our Site, such as those of Google Analytics. These service providers use the sort of technology described in this “Information that is Automatically Collected” section to help us analyze how Users use the Site, including by noting the third-party Web site from which Users arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by thes...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "7bbe671533cd72adcc29fb6ee313aaf345718a6e63e60f5af19df3afba66d61d",
+                "score": 0.004314688,
+                "excerpt": "Personal Data. Personal data will be retained only for so long as reasonably necessary for the purposes set out in this Privacy Policy, considering criteria such as applicable rules on statute of limitations and at least the duration of your use of our Site and Services. Information may persist in copies made for backup and business continuity purposes for additional time.\nYou have the right to submit a complaint or to object to the collection and use of your information by CaringWire at any tim...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6463510886,
+            "url": "https://www.caringwire.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or request the deletion of their data by contacting CaringWire directly.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to object to the collection and use of their information by CaringWire at any time. Users can request CaringWire to review, transmit, change, or delete their information by contacting the provided support address.",
+            "reference": "You have the right to submit a complaint or to object to the collection and use of your information by CaringWire at any time or to require CaringWire to review, transmit, change, or delete your information that we have collected and retained. CaringWire will fulfill your request to exercise any of these rights within 30 days of receiving a complete request... You can exercise these rights by contacting CaringWire at: Attn: CaringWire Support 8065 Crossgate Ct Dublin, OH 43017. URL: https://www.caringwire.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "1bc1f334930f9a018fd9c23efcee33bc6022730dd344055a1e5f34a3faf0d0cd",
+                "score": 0.42679936,
+                "excerpt": "100% secure. All Internet users should take care with how they handle and disclose their personal information.\nTHIRD-PARTY ADVERTISING\nThird-party advertisers or ad networks may use cookies or other technologies on our Services for various purposes, including measuring the effectiveness of their ads and analyzing and personalizing ads or other content delivered to you. CaringWire does not control the privacy, data collection, use, and disclosure practices of such Services, and the privacy polici...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "7bbe671533cd72adcc29fb6ee313aaf345718a6e63e60f5af19df3afba66d61d",
+                "score": 0.39869905,
+                "excerpt": "Personal Data. Personal data will be retained only for so long as reasonably necessary for the purposes set out in this Privacy Policy, considering criteria such as applicable rules on statute of limitations and at least the duration of your use of our Site and Services. Information may persist in copies made for backup and business continuity purposes for additional time.\nYou have the right to submit a complaint or to object to the collection and use of your information by CaringWire at any tim...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "f1859f4dca668df102a719aec6167f0c57547fe4dccaeb664dc7e828e5e60e9d",
+                "score": 0.091058284,
+                "excerpt": "by alternative means or at an alternative location.\n- You have the right to obtain a paper copy of this Notice from us, upon request, even if you have agreed to accept this Notice alternatively (i.e. electronically).\n- You may have the right to have your provider amend your PHI. If your provider denies your request for amendment, you have the right to file a statement of disagreement and the provider may prepare a rebuttal to your statement and will provide you with a copy of any such rebuttal.\n...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "ba967df8b9e0d1c561912cfa7dde26baf33d3bbbe6edc2ba26e638f283396b9f",
+                "score": 0.08064661,
+                "excerpt": "and share for any purpose de-identified data and aggregated or combined data developed using your Information that has been de-identified and 2) CaringWire may continue to use Information in your deactivated account for compliance with applicable regulations. Also, please note that even though you may deactivate your account or request the deletion of your Information, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, or troubleshoot problems) to retain this in...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "14c2454312123e43fd01d783af0f361446c91a3d60379f7a9c8f0ff05556e0e8",
+                "score": 0.07654563,
+                "excerpt": "deletion or modification of any such Information by the parties to whom we have made those disclosures. Additionally, if you modify certain Information on our Site that we received from a third party, we reserve the right, but are not obligated, to share the updated information back to that third party. As a result, you will need to provide updated information to those third parties if you want to be sure they have your updates.\nCertain Information is necessary in order for us to provide the Sit...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6463510886,
+            "url": "https://www.caringwire.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share or sell aggregated, anonymous information with advertisers, business partners, and other third parties. It also discloses that Personal Information may be shared with Participating Providers, other third party providers, affiliates, and for internal analyses and operations.",
+            "reference": "As Aggregated Information. CaringWire may share or sell aggregated, anonymous information to our advertisers, business partners, and other third parties...URL: https://www.caringwire.com/privacy-policy. To Other Third Party Providers. CaringWire may disclose, sell or share Personal Information to one or more third parties with which we have contracted to provide services to CaringWire or to offer the services you have requested from CaringWire...URL: https://www.caringwire.com/privacy-policy. To Affiliates. CaringWire may disclose some or all of your Personal Information to subsidiaries, joint ventures, or other companies under common control with us...URL: https://www.caringwire.com/privacy-policy. For Our Internal Analyses and Operations. CaringWire may disclose Personal Information to third party vendors for our own internal statistical, design or operational purposes...URL: https://www.caringwire.com/privacy-policy."
+        },
+        "source_documents": [
+            {
+                "id": "3747aef59216a4eedc2c82ef3e7d97d020f957bcba23dcb352c16531ae2ea033",
+                "score": 0.5465869,
+                "excerpt": "parties is restricted to the performance of such tasks and is subject to confidentiality.\nFor Legal and Other Compliance. CaringWire may disclose Personal Information when we believe it is appropriate to: (a) comply with the law; (b) enforce or apply this Notice or our other policies or agreements; (c) protect our or CaringWire’s users’ rights, property, or safety; (d) protect CaringWire’s users from fraudulent, abusive, or unlawful use of our Services; or (e) if we reasonably believe that an em...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "31efcb4ada89c26b4afd457f92e8852b39966c4b1264ba1e346acd8ea6fee8b7",
+                "score": 0.51359224,
+                "excerpt": "control how these Participating Providers use or disclose your Personal Information.\nTo Other Third Party Providers. CaringWire may disclose, sell or share Personal Information to one or more third parties with which we have contracted to provide services to CaringWire or to offer the services you have requested from CaringWire. CaringWire may also disclose Personal Information to one or more third parties who are interested in providing services or products to you. CaringWire does not control h...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "a84269e2f3513bff19ef96e1a2bd3d6658197a997f85bc141b07ab04fcd9befe",
+                "score": 0.36432514,
+                "excerpt": "we collect—for instance, log-in credentials, IP addresses, hashed email addresses, and unique mobile device identifiers—to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or computers), or work with providers that do this, in order to better tailor content, features, and advertising (for CaringWire on other sites), and provide you with a seamless experience across the devices you use to access our services.\nInformation Obtained by ...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "48a4f1e2fa79a0157307644f6498a7272dfc21b0646058248572db91d146bd8e",
+                "score": 0.27963173,
+                "excerpt": "may collect from third parties.\nCOLLECTION & USE OF YOUR PERSONAL INFORMATION\nInformation Collected Directly from You. In general, you can visit our services without disclosing any personal information. Any information you provide to us is voluntary, but please note that some information may be necessary for us to provide you with certain information and referral services, offers and content on our Services. CaringWire may ask you to provide personal information such as your name, email address,...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "5e1d7774251dccbb612eef80f517c988c12043f9446ed15fb30ac3ee4d0229d5",
+                "score": 0.2509128,
+                "excerpt": "other users’ information, so that it does not directly identify you. This information may be used by third parties for marketing, promotional, or statistical purposes. CaringWire does not limit the third parties’ use of the aggregated information.\nDISCLOSURES OF PROTECTED HEALTH INFORMATION.\nThe Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) requires that all protected health information and other individually identifiable health information used or disclosed by us in any ...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6463510886,
+            "url": "https://www.caringwire.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Participating Providers, third parties, and affiliates.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Participating Providers",
+                        "third parties",
+                        "Affiliates"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app shares data with participating providers, third parties, and affiliates, each having specific relationships and purposes.",
+            "reference": "To Participating Providers. CaringWire may disclose, sell, or share Personal Information to one or more Participating Providers in order to provide you with the services you’ve requested. The Participating Providers may contact you directly by email, telephone, regular mail, in-person visits, or other means. CaringWire does not control how these Participating Providers use or disclose your Personal Information. To Other Third Party Providers. CaringWire...with https://www.caringwire.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "31efcb4ada89c26b4afd457f92e8852b39966c4b1264ba1e346acd8ea6fee8b7",
+                "score": 0.6686639,
+                "excerpt": "control how these Participating Providers use or disclose your Personal Information.\nTo Other Third Party Providers. CaringWire may disclose, sell or share Personal Information to one or more third parties with which we have contracted to provide services to CaringWire or to offer the services you have requested from CaringWire. CaringWire may also disclose Personal Information to one or more third parties who are interested in providing services or products to you. CaringWire does not control h...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "3747aef59216a4eedc2c82ef3e7d97d020f957bcba23dcb352c16531ae2ea033",
+                "score": 0.5835,
+                "excerpt": "parties is restricted to the performance of such tasks and is subject to confidentiality.\nFor Legal and Other Compliance. CaringWire may disclose Personal Information when we believe it is appropriate to: (a) comply with the law; (b) enforce or apply this Notice or our other policies or agreements; (c) protect our or CaringWire’s users’ rights, property, or safety; (d) protect CaringWire’s users from fraudulent, abusive, or unlawful use of our Services; or (e) if we reasonably believe that an em...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "a84269e2f3513bff19ef96e1a2bd3d6658197a997f85bc141b07ab04fcd9befe",
+                "score": 0.38560596,
+                "excerpt": "we collect—for instance, log-in credentials, IP addresses, hashed email addresses, and unique mobile device identifiers—to locate or try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or computers), or work with providers that do this, in order to better tailor content, features, and advertising (for CaringWire on other sites), and provide you with a seamless experience across the devices you use to access our services.\nInformation Obtained by ...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "fec8e88c25cc3b0de93f6f502bc4e1a096c4a338e2a5ecf5f05df4ad510140fe",
+                "score": 0.21833587,
+                "excerpt": "system and server integrity).\nOnline Analytics. We may use third-party web analytics services on our Site, such as those of Google Analytics. These service providers use the sort of technology described in this “Information that is Automatically Collected” section to help us analyze how Users use the Site, including by noting the third-party Web site from which Users arrive. The information (including your IP address) collected by the technology will be disclosed to or collected directly by thes...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            },
+            {
+                "id": "bc0f15d4c12d2fa200c40c979a764f5d5383db2736d0d417261de912ea697528",
+                "score": 0.20785716,
+                "excerpt": "by you.\nLINKS TO THIRD PARTIES\nThis privacy statement applies only to information collected by this Services. CaringWire may provide links to third-party Services from our Services as a service to our users, but we do not control nor are we responsible for the privacy and data collection, use, and disclosure practices of third party Services. When you click on links that take you to external Services, you will be subject to their privacy policies and practices and not ours. CaringWire encourages...",
+                "url": "https://www.caringwire.com/privacy-policy"
+            }
+        ]
+    }
+]

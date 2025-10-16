@@ -1,0 +1,247 @@
+[
+    {
+        "meta": {
+            "id": 1157882317,
+            "url": "http://www.hamsterforce.com/PrivacyPolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "NOTUSED",
+                "simple_answer": "Yes",
+                "extended_simple_answer": ""
+            },
+            "analysis": "The privacy policy explicitly states that information is collected in the apps, albeit not sensitive personal information.",
+            "reference": "Information collected in our Apps - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. URL: http://www.hamsterforce.com/PrivacyPolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9bdb8b5dc573bee89d3806e071d13e4f6b71dc041a643d2915123b5e5691b02b",
+                "score": 0.13050689,
+                "excerpt": "| Hamster Force is committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy policy is to inform you about information we collect and how that information is used. |\n| Information collected in our Apps |\n| - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. |\n| - Name and email address will be required for technical support follow-up. |\n|\n| Usage of the information collected |\n| - Informati...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "d06cc662b1f4ff1c51881801458da576228385fbdcba9035adc53ce68a525b3d",
+                "score": 0.042245492,
+                "excerpt": "helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. |\n|\n| Personal information security |\n| The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we c...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "7f6e5638ab3f964f73622e89c05ed3d8fcf7de2bac3a2a15349cafd0302c00bd",
+                "score": 0.00022693386,
+                "excerpt": "cookies are to save your time and your identity. |\n| - You can set your browser to reject or delete the cookies in any time. |\n|\n| Links to other sites |\n| - We can make contents and services from other sites available to you from links to our sites. |\n| - Those other sites are not subjected to this Privacy Policy. We recommend you to read the privacy policy of every site to learn how they protect your privacy. |\n| - We may contain links to other websites, including links that are placed there b...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1157882317,
+            "url": "http://www.hamsterforce.com/PrivacyPolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Name and email address for technical support follow-up",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name and email address for technical support follow-up"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that only name and email address may be collected for technical support follow-up, indicating the data type collected by the app in this scenario.",
+            "reference": "Name and email address will be required for technical support follow-up. URL: http://www.hamsterforce.com/PrivacyPolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9bdb8b5dc573bee89d3806e071d13e4f6b71dc041a643d2915123b5e5691b02b",
+                "score": 0.12189466,
+                "excerpt": "| Hamster Force is committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy policy is to inform you about information we collect and how that information is used. |\n| Information collected in our Apps |\n| - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. |\n| - Name and email address will be required for technical support follow-up. |\n|\n| Usage of the information collected |\n| - Informati...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "d06cc662b1f4ff1c51881801458da576228385fbdcba9035adc53ce68a525b3d",
+                "score": 0.017045317,
+                "excerpt": "helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. |\n|\n| Personal information security |\n| The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we c...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "7f6e5638ab3f964f73622e89c05ed3d8fcf7de2bac3a2a15349cafd0302c00bd",
+                "score": 0.0011380006,
+                "excerpt": "cookies are to save your time and your identity. |\n| - You can set your browser to reject or delete the cookies in any time. |\n|\n| Links to other sites |\n| - We can make contents and services from other sites available to you from links to our sites. |\n| - Those other sites are not subjected to this Privacy Policy. We recommend you to read the privacy policy of every site to learn how they protect your privacy. |\n| - We may contain links to other websites, including links that are placed there b...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1157882317,
+            "url": "http://www.hamsterforce.com/PrivacyPolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the information collected is used to improve the performance and reliability of the apps, with a specific mention that information obtained via technical support will only be used for reply follow-up.",
+            "reference": "Information is used to improve performance and reliability of our Apps. We DO NOT share, sell or give the information to other persons or companies. We DO NOT share your personal information to any third parties. Information collected via Technical support will only be used for reply follow-up. URL: http://www.hamsterforce.com/PrivacyPolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9bdb8b5dc573bee89d3806e071d13e4f6b71dc041a643d2915123b5e5691b02b",
+                "score": 0.265309,
+                "excerpt": "| Hamster Force is committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy policy is to inform you about information we collect and how that information is used. |\n| Information collected in our Apps |\n| - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. |\n| - Name and email address will be required for technical support follow-up. |\n|\n| Usage of the information collected |\n| - Informati...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "d06cc662b1f4ff1c51881801458da576228385fbdcba9035adc53ce68a525b3d",
+                "score": 0.0065897717,
+                "excerpt": "helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. |\n|\n| Personal information security |\n| The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we c...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "7f6e5638ab3f964f73622e89c05ed3d8fcf7de2bac3a2a15349cafd0302c00bd",
+                "score": 0.0002846224,
+                "excerpt": "cookies are to save your time and your identity. |\n| - You can set your browser to reject or delete the cookies in any time. |\n|\n| Links to other sites |\n| - We can make contents and services from other sites available to you from links to our sites. |\n| - Those other sites are not subjected to this Privacy Policy. We recommend you to read the privacy policy of every site to learn how they protect your privacy. |\n| - We may contain links to other websites, including links that are placed there b...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1157882317,
+            "url": "http://www.hamsterforce.com/PrivacyPolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the user can set their browser to reject or delete cookies at any time, providing a means to opt out of data collection.",
+            "reference": "You can set your browser to reject or delete the cookies in any time. URL: http://www.hamsterforce.com/PrivacyPolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "7f6e5638ab3f964f73622e89c05ed3d8fcf7de2bac3a2a15349cafd0302c00bd",
+                "score": 0.09318171,
+                "excerpt": "cookies are to save your time and your identity. |\n| - You can set your browser to reject or delete the cookies in any time. |\n|\n| Links to other sites |\n| - We can make contents and services from other sites available to you from links to our sites. |\n| - Those other sites are not subjected to this Privacy Policy. We recommend you to read the privacy policy of every site to learn how they protect your privacy. |\n| - We may contain links to other websites, including links that are placed there b...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "d06cc662b1f4ff1c51881801458da576228385fbdcba9035adc53ce68a525b3d",
+                "score": 0.028114058,
+                "excerpt": "helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. |\n|\n| Personal information security |\n| The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we c...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "9bdb8b5dc573bee89d3806e071d13e4f6b71dc041a643d2915123b5e5691b02b",
+                "score": 0.0140636265,
+                "excerpt": "| Hamster Force is committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy policy is to inform you about information we collect and how that information is used. |\n| Information collected in our Apps |\n| - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. |\n| - Name and email address will be required for technical support follow-up. |\n|\n| Usage of the information collected |\n| - Informati...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1157882317,
+            "url": "http://www.hamsterforce.com/PrivacyPolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they do not share, sell, or give the information to other persons or companies and they do not share personal information with any third parties. Hence, the app does not share data with third parties.",
+            "reference": "We DO NOT share, sell or give the information to other persons or companies. We DO NOT share your personal information to any third parties. URL: http://www.hamsterforce.com/PrivacyPolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9bdb8b5dc573bee89d3806e071d13e4f6b71dc041a643d2915123b5e5691b02b",
+                "score": 0.6423203,
+                "excerpt": "| Hamster Force is committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy policy is to inform you about information we collect and how that information is used. |\n| Information collected in our Apps |\n| - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. |\n| - Name and email address will be required for technical support follow-up. |\n|\n| Usage of the information collected |\n| - Informati...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "d06cc662b1f4ff1c51881801458da576228385fbdcba9035adc53ce68a525b3d",
+                "score": 0.022672437,
+                "excerpt": "helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. |\n|\n| Personal information security |\n| The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we c...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "7f6e5638ab3f964f73622e89c05ed3d8fcf7de2bac3a2a15349cafd0302c00bd",
+                "score": 0.004054334,
+                "excerpt": "cookies are to save your time and your identity. |\n| - You can set your browser to reject or delete the cookies in any time. |\n|\n| Links to other sites |\n| - We can make contents and services from other sites available to you from links to our sites. |\n| - Those other sites are not subjected to this Privacy Policy. We recommend you to read the privacy policy of every site to learn how they protect your privacy. |\n| - We may contain links to other websites, including links that are placed there b...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1157882317,
+            "url": "http://www.hamsterforce.com/PrivacyPolicy.html",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with any third parties.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share personal information with any third parties.",
+            "reference": "We DO NOT share your personal information to any third parties. URL: http://www.hamsterforce.com/PrivacyPolicy.html"
+        },
+        "source_documents": [
+            {
+                "id": "9bdb8b5dc573bee89d3806e071d13e4f6b71dc041a643d2915123b5e5691b02b",
+                "score": 0.33198547,
+                "excerpt": "| Hamster Force is committed to protecting your privacy and safeguarding your personal information. The purpose of this privacy policy is to inform you about information we collect and how that information is used. |\n| Information collected in our Apps |\n| - We DO NOT collect any other sensitive personal information such as e-mail address, user name or password. |\n| - Name and email address will be required for technical support follow-up. |\n|\n| Usage of the information collected |\n| - Informati...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "7f6e5638ab3f964f73622e89c05ed3d8fcf7de2bac3a2a15349cafd0302c00bd",
+                "score": 0.039416388,
+                "excerpt": "cookies are to save your time and your identity. |\n| - You can set your browser to reject or delete the cookies in any time. |\n|\n| Links to other sites |\n| - We can make contents and services from other sites available to you from links to our sites. |\n| - Those other sites are not subjected to this Privacy Policy. We recommend you to read the privacy policy of every site to learn how they protect your privacy. |\n| - We may contain links to other websites, including links that are placed there b...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            },
+            {
+                "id": "d06cc662b1f4ff1c51881801458da576228385fbdcba9035adc53ce68a525b3d",
+                "score": 0.019345105,
+                "excerpt": "helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. |\n|\n| Personal information security |\n| The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we c...",
+                "url": "http://www.hamsterforce.com/PrivacyPolicy.html"
+            }
+        ]
+    }
+]

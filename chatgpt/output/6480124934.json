@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6480124934,
+      "url": "https://www.brella.io/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal data from various sources, including business partners, public sources, and directly from data subjects themselves.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy specifies the sources from which personal data is collected.",
+          "content": "We collect your personal data from different sources, depending on our purposes for processing personal data. In our business relationships we collect personal data from the contact person of our business partner, our other business partners and public sources (such as the internet and trade register). In other matters we collect personal data from the data subject themselves as well as the means by which they disclose data to us (e.g. LinkedIn or cookies)."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: FROM WHERE DO WE COLLECT YOUR PERSONAL DATA?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480124934,
+      "url": "https://www.brella.io/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects contact details, IP addresses, and other data disclosed to us by the data subjects.",
+        "simple_answer": "Contact details, IP addresses, and other disclosed data.",
+        "extended_simple_answer": {
+          "comment": "The data collected varies based on the purpose of processing.",
+          "content": "We collect personal data from different sources, including contact persons of business partners, other business partners, public sources, and directly from the data subjects themselves."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 3: WHY DO WE PROCESS YOUR PERSONAL DATA?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480124934,
+      "url": "https://www.brella.io/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It processes personal data in its general business operations to carry out business relationships, recruiting, communications, and website control. The legal basis for processing personal data depends on the purpose, including performance of a contract, legitimate interests, and consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies various purposes for processing personal data.",
+          "content": "The purposes include carrying out business relationships, recruiting, communications, and website control."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the reasons for processing personal data, ensuring transparency for users regarding how their data will be used.",
+      "reference": "Section 3: WHY DO WE PROCESS YOUR PERSONAL DATA?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480124934,
+      "url": "https://www.brella.io/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can request for their personal data to be deleted from Brella by contacting the DPO at dpo@brella.io or Brella support at support@brella.io. Additionally, users have the right to exercise various data protection rights under the GDPR, which may include opting out of certain data processing activities.",
+        "simple_answer": "Yes, users can delete their data and opt out of certain data processing.",
+        "extended_simple_answer": {
+          "comment": "Users have specific rights under GDPR that allow them to manage their personal data.",
+          "content": "Users can request deletion of their personal data by contacting Brella's DPO or support. They also have rights to inspect, rectify, and restrict processing of their data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the rights of users regarding their personal data, including the ability to request deletion and opt out of data processing.",
+      "reference": "Section 8: HOW CAN YOU DELETE YOUR DATA FROM BRELLA? and Section 7: WHAT DATA PROTECTION RIGHTS DO YOU HAVE?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480124934,
+      "url": "https://www.brella.io/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may transfer your personal data to third party service providers as part of normal business operations. This includes data storage service providers and communications services providers. Adequate personal data processing agreements and safeguards are ensured when transferring personal data to third parties.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app ensures safeguards when sharing data.",
+          "content": "When personal data is transferred to third parties, we ensure that we conclude adequate personal data processing agreements and safeguards in relation to the data transfers."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 5: DO WE TRANSFER YOUR PERSONAL DATA?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6480124934,
+      "url": "https://www.brella.io/privacy-notice",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may transfer your personal data to third party service providers, such as data storage service providers and communications services providers. When personal data is transferred to third parties, Brella ensures that adequate personal data processing agreements and safeguards are in place regarding the data transfers.",
+        "simple_answer": "The app shares data with third party service providers.",
+        "extended_simple_answer": {
+          "comment": "Brella takes precautions when sharing data with third parties.",
+          "content": "The app may transfer your personal data to third party service providers, such as data storage service providers and communications services providers. When personal data is transferred to third parties, Brella ensures that adequate personal data processing agreements and safeguards are in place regarding the data transfers."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 5: DO WE TRANSFER YOUR PERSONAL DATA?"
+    }
+  }
+]

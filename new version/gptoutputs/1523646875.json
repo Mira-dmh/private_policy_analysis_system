@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1523646875,
+      "url": "http://www.gambless.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal information is collected when users register on the app, specifically their Name and Email address, which are essential for providing private access to the app content. Additionally, users may share General Wellness Data, which is not mandatory but allows for full use of the app features.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about the data it collects and the reasons for collection.",
+          "content": "Upon registration, users are asked to submit their Name and Email address, and they may also share General Wellness Data to utilize app features."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and the purpose behind the collection, ensuring users are informed about their data.",
+      "reference": "The section discussing data collection upon registration and the types of data collected."
+    }
+  },
+  {
+    "meta": {
+      "id": 1523646875,
+      "url": "http://www.gambless.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information such as your Name and Email address upon registration, which are essential for providing private access to the app content. Additionally, users may share General Wellness Data while using the app's features, although this data is not mandatory.",
+        "simple_answer": "The app collects your Name, Email address, and optional General Wellness Data.",
+        "extended_simple_answer": {
+          "comment": "The collection of data is aimed at enhancing user experience and providing necessary services.",
+          "content": "Upon registration, users must provide their Name and Email address. They may also share General Wellness Data, which is optional."
+        }
+      },
+      "analysis": "",
+      "reference": "Upon registration on our apps, you are requested to submit your Name and Email address: these are essential to provide you a private access to the app content. Furthermore, using the apps features you might share with us also General Wellness Data: these are not mandatory, but allow you to make full use of the app features (diary, trackers, etc.)"
+    }
+  },
+  {
+    "meta": {
+      "id": 1523646875,
+      "url": "http://www.gambless.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that personal information is collected to provide services to users, and users are informed about why their information is being collected and how it will be used.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes transparency in its data collection practices.",
+          "content": "The privacy policy mentions that personal information is collected only when necessary to provide a service, and users are informed about the reasons for data collection and its intended use."
+        }
+      },
+      "analysis": "",
+      "reference": "This information is found in the introductory section of the privacy policy, where it discusses the collection and use of personal information."
+    }
+  },
+  {
+    "meta": {
+      "id": 1523646875,
+      "url": "http://www.gambless.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users are free to refuse the request for personal information, understanding that this may limit the services they can receive. Additionally, if a parent or guardian discovers that their child is using the app without consent, they can contact Gambless to request the deletion of the account.",
+        "simple_answer": "Yes, users can opt out of data collection and request account deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to refuse personal information requests, and parents can request account deletion for minors.",
+          "content": "Users can refuse to provide personal information, which may limit service access. Parents can contact Gambless to delete accounts of minors using the app without consent."
+        }
+      },
+      "analysis": "The policy allows users to opt out of data collection by not providing personal information, and it provides a mechanism for parents to delete accounts of minors.",
+      "reference": "Upon registration on our apps, you are requested to submit your Name and Email address... You are free to refuse our request for your personal information... If a parent or guardian finds out that their child is using the app without their consent... we will review the request and delete the account if appropriate."
+    }
+  },
+  {
+    "meta": {
+      "id": 1523646875,
+      "url": "http://www.gambless.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share any personally identifying information publicly or with third parties, except when required to by law.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares information when legally obligated.",
+          "content": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law."
+        }
+      },
+      "analysis": "",
+      "reference": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law."
+    }
+  },
+  {
+    "meta": {
+      "id": 1523646875,
+      "url": "http://www.gambless.org/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share any personally identifying information publicly or with third parties, except when required to by law.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app prioritizes user privacy and only shares information when legally obligated.",
+          "content": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app does not share personal information with third parties, emphasizing user privacy.",
+      "reference": "We don’t share any personally identifying information publicly or with third-parties, except when required to by law."
+    }
+  }
+]

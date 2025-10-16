@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6503365371,
+      "url": "https://www.clearly.help/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies the types of data collected, the purposes for which the data is processed, and the legal basis for processing.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various categories of data collected, such as client account information, therapist onboarding details, and platform logs.",
+          "content": "The policy states that data is collected for purposes like registering profiles, matching with therapists, scheduling sessions, and billing."
+        }
+      },
+      "analysis": "The privacy policy is transparent about the data collection practices, detailing what data is collected and why.",
+      "reference": "Section 2: What data we process, why, and on what legal basis"
+    }
+  },
+  {
+    "meta": {
+      "id": 6503365371,
+      "url": "https://www.clearly.help/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data including: for client accounts, it collects name, email, telephone, and in-app ID; for therapist onboarding, it collects name, contact, licenses, CV, and profile photo; it also collects platform logs and security data such as IP, device, browser, and cookie ID; and for marketing (optional), it collects email and device ID. Additionally, it may collect AI Session Notes which include transcripts and AI-generated summaries if the user opts in.",
+        "simple_answer": "The app collects client account data, therapist onboarding data, platform logs, and optional marketing data.",
+        "extended_simple_answer": {
+          "comment": "The data collected is used for various purposes including registration, session scheduling, and marketing.",
+          "content": "Client account data includes name, email, telephone, and in-app ID. Therapist onboarding data includes name, contact, licenses, CV, and profile photo. Platform logs include IP, device, browser, and cookie ID. Marketing data includes email and device ID."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: What data we process, why, and on what legal basis"
+    }
+  },
+  {
+    "meta": {
+      "id": 6503365371,
+      "url": "https://www.clearly.help/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use in a detailed manner. It specifies various contexts such as client account registration, therapist onboarding, tele-therapy sessions, AI session notes, platform logs, and marketing. Each context includes the categories of data processed, the purpose for which the data is collected, and the retention period for that data.",
+        "simple_answer": "Yes, the app clearly states the purposes for data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy provides a comprehensive overview of data processing activities.",
+          "content": "The purposes include registering profiles, matching clients with therapists, scheduling sessions, billing, verifying therapist credentials, providing tele-therapy, producing session notes, detecting fraud, and sending marketing communications."
+        }
+      },
+      "analysis": "The privacy policy is transparent about the data collection purposes, which is essential for user trust and compliance with data protection regulations.",
+      "reference": "Section 2: What data we process, why, and on what legal basis"
+    }
+  },
+  {
+    "meta": {
+      "id": 6503365371,
+      "url": "https://www.clearly.help/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by disabling the AI Session Notes feature at any time under Profile privacy settings. Additionally, users can delete existing transcripts and notes. They also have the right to access, correct, erase, restrict, object, withdraw consent, or export their personal data at any time.",
+        "simple_answer": "Yes, users can opt out and delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have multiple options to manage their data.",
+          "content": "Users can disable the AI Session Notes feature and delete existing transcripts and notes. They also have rights to access, correct, erase, restrict, object, withdraw consent, or export their personal data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4 (Opt-out) and Section 8 (Your rights)"
+    }
+  },
+  {
+    "meta": {
+      "id": 6503365371,
+      "url": "https://www.clearly.help/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, specifically therapists on Clearly who act as processors under a Data-Processing Addendum, and sub-processors such as Azure Whisper & GPT for transcription and summarization, as well as a cloud hosting provider and a payment processor (Stripe Payments Europe Ltd.). Access to data is limited to sessions booked by users.",
+        "simple_answer": "Yes, the app shares data with therapists and certain sub-processors.",
+        "extended_simple_answer": {
+          "comment": "Data is shared with specific third parties for processing and service provision.",
+          "content": "Therapists on Clearly – Processors acting under our Data-Processing Addendum; access limited to sessions you book. Azure Whisper & GPT (EU) – Sub-processors for transcription & summarisation; SCCs applied. Cloud hosting (EU) – Infrastructure provider; ISO 27001, encryption at rest. Payment processor (Stripe Payments Europe Ltd.) – Handles card data; PCI-DSS Level 1."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 7: Who receives your data"
+    }
+  },
+  {
+    "meta": {
+      "id": 6503365371,
+      "url": "https://www.clearly.help/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with the following third parties: Therapists on Clearly, who act as processors under the Data-Processing Addendum; Azure Whisper & GPT (EU), which are sub-processors for transcription and summarization; a cloud hosting provider in the EU that is ISO 27001 certified and provides encryption at rest; and Stripe Payments Europe Ltd., which handles card data and is PCI-DSS Level 1 compliant.",
+        "simple_answer": "The app shares data with therapists, Azure Whisper & GPT, a cloud hosting provider, and Stripe Payments.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "Data is shared with therapists for session management, Azure for transcription services, a cloud provider for hosting, and Stripe for payment processing."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 7: Who receives your data"
+    }
+  }
+]

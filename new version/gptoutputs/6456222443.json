@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6456222443,
+      "url": "https://bkinwrld.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of personal information that users voluntarily provide when they express interest in obtaining information about the company or its products and services, participate in activities on the services, or contact the company.",
+        "simple_answer": "Yes, the app collects personal information.",
+        "extended_simple_answer": {
+          "comment": "The app collects personal information based on user interactions.",
+          "content": "The personal information collected may include details such as internet protocol address and payment data if purchases are made."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6456222443,
+      "url": "https://bkinwrld.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that you voluntarily provide when you express interest in obtaining information about the company or its products and services, participate in activities on the services, or contact the company. This may include your internet protocol address and payment data necessary for processing purchases, such as credit card numbers and security codes.",
+        "simple_answer": "The app collects personal information you provide, including your internet protocol address and payment data.",
+        "extended_simple_answer": {
+          "comment": "The app does not process sensitive personal information.",
+          "content": "The personal information collected depends on your interactions with the app and may include your internet protocol address and payment data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6456222443,
+      "url": "https://bkinwrld.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it processes your information to provide, improve, and administer its Services, communicate with you, for security and fraud prevention, and to comply with law. It may also process your information for other purposes with your consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various purposes for processing personal information.",
+          "content": "The purposes include providing, improving, and administering Services, communication, security, fraud prevention, and legal compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "How do we process your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6456222443,
+      "url": "https://bkinwrld.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can exercise their rights regarding their personal information, which includes the ability to review, update, or delete the data collected from them. The easiest way to do this is by filling out the data subject request form or by contacting the company directly.",
+        "simple_answer": "Yes, users can delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have rights regarding their personal information, including deletion.",
+          "content": "Users can fill out a data subject request form or contact the company to exercise their rights."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have rights concerning their personal information, including the ability to delete it. This is an important aspect of user privacy and data protection.",
+      "reference": "Section 13: HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6456222443,
+      "url": "https://bkinwrld.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share information in specific situations and with specific third parties.",
+        "simple_answer": "Yes, it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has specific situations where it shares data.",
+          "content": "The privacy policy states that information may be shared in specific situations and with specific third parties."
+        }
+      },
+      "analysis": "The app does share data, but only in certain situations as outlined in the privacy policy.",
+      "reference": "In what situations and with which parties do we share personal information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6456222443,
+      "url": "https://bkinwrld.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with any third parties.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that the app does not receive any information from third parties and does not share personal information with them.",
+          "content": "We do not receive any information from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that there is no sharing of personal information with third parties, which is a significant aspect of their data handling practices.",
+      "reference": "We do not receive any information from third parties."
+    }
+  }
+]

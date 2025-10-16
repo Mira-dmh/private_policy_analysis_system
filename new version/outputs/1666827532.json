@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1666827532,
+            "url": "https://retailweb.com.au/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that Retailweb will process personal information for business purposes, and users provide personal information actively during account creation or in response to various inquiries.",
+            "reference": "Retailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes... Retailweb may process personal information that: a user actively provides during account creation... URL: https://retailweb.com.au/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "28511ae1f31d2cb0e5e52a1de3b094a7c187a08fa2945cbae865864687e99f12",
+                "score": 0.00052133633,
+                "excerpt": "the company or in relation to which the name of the company has been provided by the user.\nGiven the global nature of Retailweb's business, processing information for the above purposes may involve a cross-border transfer of the information provided to Retailweb. Any cross-border transfer of the information including any transfers outside the EU/EEA will be carried out in strict compliance with the applicable law to ensure protection of your privacy. Any such transfer may be carried out on the b...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "72e0d060da6dcd5de679715f5cc8b11177a371f2ae6a93394c96c34c75e8b7fd",
+                "score": 0.00039666123,
+                "excerpt": "such news and information at any time.\nRetailweb will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. Retailweb will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or simi...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "b945ea51e55ac05e625d62621bf74d6170b5e935d76c1f3234ce38ac43ff196f",
+                "score": 0.0002082501,
+                "excerpt": "version 1.0\nRetailweb Pty Ltd (\"Retailweb\") is committed to protecting the privacy of its users and the persons visiting Retailweb web pages. Any personal data provided to Retailweb through these web pages or related to the downloading or use of the products or services of Retailweb is processed pursuant to the following guidelines:\nRetailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes re...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "c59f2c725e3a5d7f40968e97dff4a49ab2a7db02c184b7488d17ffbcae1fc630",
+                "score": 0.00020184422,
+                "excerpt": "or other beliefs, health, criminal background or trade union membership).\nPlease note that by sending your personal information to Retailweb or by downloading any available on web-site of Retailweb you are explicitly acknowledging the processing and transfer of such information in the way and for the purpose mentioned above.\nRetailweb would like to keep you updated and send you news and information by email or other electronic means. For this purpose Retailweb may ask for your consent in the for...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28ee6d64a9af7662b7356657695d818f47d7e4177fbbd671e5ac925aff0eabf1",
+                "score": 0.0001313518,
+                "excerpt": "or\nis related to the use of the web-site, products or services of Retailweb such as download history, IP address.\nYour data are stored for the duration of your use of the services provided by Retailweb and as long as your account is valid, and thereafter the applicable period for limitation of legal claims, and any additional periods required or permitted under applicable law, such as license management purposes. We take every reasonable step to ensure that your personal data are only processed ...",
+                "url": "https://retailweb.com.au/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1666827532,
+            "url": "https://retailweb.com.au/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal information such as name, physical address, email addresses, telephone numbers, employer, download history, and IP address.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "name",
+                        "physical address",
+                        "email addresses",
+                        "telephone numbers",
+                        "employer",
+                        "download history",
+                        "IP address"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of personal information mentioned in the privacy policy document regarding data collection by the app.",
+            "reference": "a user actively provides during account creation or otherwise in response to forms or questionnaires, or sales inquiries and transactions such as the name and physical address, email addresses, telephone numbers, and employer or a user; ... is related to the use of the web-site, products or services of Retailweb such as download history, IP address. URL: https://retailweb.com.au/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "b945ea51e55ac05e625d62621bf74d6170b5e935d76c1f3234ce38ac43ff196f",
+                "score": 0.0021912407,
+                "excerpt": "version 1.0\nRetailweb Pty Ltd (\"Retailweb\") is committed to protecting the privacy of its users and the persons visiting Retailweb web pages. Any personal data provided to Retailweb through these web pages or related to the downloading or use of the products or services of Retailweb is processed pursuant to the following guidelines:\nRetailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes re...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28511ae1f31d2cb0e5e52a1de3b094a7c187a08fa2945cbae865864687e99f12",
+                "score": 0.0017477857,
+                "excerpt": "the company or in relation to which the name of the company has been provided by the user.\nGiven the global nature of Retailweb's business, processing information for the above purposes may involve a cross-border transfer of the information provided to Retailweb. Any cross-border transfer of the information including any transfers outside the EU/EEA will be carried out in strict compliance with the applicable law to ensure protection of your privacy. Any such transfer may be carried out on the b...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28ee6d64a9af7662b7356657695d818f47d7e4177fbbd671e5ac925aff0eabf1",
+                "score": 0.0017409837,
+                "excerpt": "or\nis related to the use of the web-site, products or services of Retailweb such as download history, IP address.\nYour data are stored for the duration of your use of the services provided by Retailweb and as long as your account is valid, and thereafter the applicable period for limitation of legal claims, and any additional periods required or permitted under applicable law, such as license management purposes. We take every reasonable step to ensure that your personal data are only processed ...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "c59f2c725e3a5d7f40968e97dff4a49ab2a7db02c184b7488d17ffbcae1fc630",
+                "score": 0.0009362828,
+                "excerpt": "or other beliefs, health, criminal background or trade union membership).\nPlease note that by sending your personal information to Retailweb or by downloading any available on web-site of Retailweb you are explicitly acknowledging the processing and transfer of such information in the way and for the purpose mentioned above.\nRetailweb would like to keep you updated and send you news and information by email or other electronic means. For this purpose Retailweb may ask for your consent in the for...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "72e0d060da6dcd5de679715f5cc8b11177a371f2ae6a93394c96c34c75e8b7fd",
+                "score": 0.00057929166,
+                "excerpt": "such news and information at any time.\nRetailweb will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. Retailweb will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or simi...",
+                "url": "https://retailweb.com.au/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1666827532,
+            "url": "https://retailweb.com.au/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information is processed for Retailweb business purposes, including purposes related to recruitment, marketing, and license management. It also mentions the purposes for collecting information related to web visits to improve services.",
+            "reference": "Retailweb will process any personal information of the users of its products, services or website only for Retailweb business purposes, including lawful purposes relating to recruitment, marketing and license management. Retailweb has legitimate interests to process the personal information of the users for such purpose. URL: https://retailweb.com.au/privacy",
+            "source": "https://retailweb.com.au/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "28511ae1f31d2cb0e5e52a1de3b094a7c187a08fa2945cbae865864687e99f12",
+                "score": 0.0025409926,
+                "excerpt": "the company or in relation to which the name of the company has been provided by the user.\nGiven the global nature of Retailweb's business, processing information for the above purposes may involve a cross-border transfer of the information provided to Retailweb. Any cross-border transfer of the information including any transfers outside the EU/EEA will be carried out in strict compliance with the applicable law to ensure protection of your privacy. Any such transfer may be carried out on the b...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "b945ea51e55ac05e625d62621bf74d6170b5e935d76c1f3234ce38ac43ff196f",
+                "score": 0.0015854306,
+                "excerpt": "version 1.0\nRetailweb Pty Ltd (\"Retailweb\") is committed to protecting the privacy of its users and the persons visiting Retailweb web pages. Any personal data provided to Retailweb through these web pages or related to the downloading or use of the products or services of Retailweb is processed pursuant to the following guidelines:\nRetailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes re...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "c59f2c725e3a5d7f40968e97dff4a49ab2a7db02c184b7488d17ffbcae1fc630",
+                "score": 0.0015608892,
+                "excerpt": "or other beliefs, health, criminal background or trade union membership).\nPlease note that by sending your personal information to Retailweb or by downloading any available on web-site of Retailweb you are explicitly acknowledging the processing and transfer of such information in the way and for the purpose mentioned above.\nRetailweb would like to keep you updated and send you news and information by email or other electronic means. For this purpose Retailweb may ask for your consent in the for...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28ee6d64a9af7662b7356657695d818f47d7e4177fbbd671e5ac925aff0eabf1",
+                "score": 0.0009927262,
+                "excerpt": "or\nis related to the use of the web-site, products or services of Retailweb such as download history, IP address.\nYour data are stored for the duration of your use of the services provided by Retailweb and as long as your account is valid, and thereafter the applicable period for limitation of legal claims, and any additional periods required or permitted under applicable law, such as license management purposes. We take every reasonable step to ensure that your personal data are only processed ...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "72e0d060da6dcd5de679715f5cc8b11177a371f2ae6a93394c96c34c75e8b7fd",
+                "score": 0.00027159214,
+                "excerpt": "such news and information at any time.\nRetailweb will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. Retailweb will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or simi...",
+                "url": "https://retailweb.com.au/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1666827532,
+            "url": "https://retailweb.com.au/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of receiving news and information from Retailweb at any time.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that users can opt-out of receiving news and information from Retailweb at any time.",
+            "reference": "You may opt-out of receiving such news and information at any time. URL: https://retailweb.com.au/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "c59f2c725e3a5d7f40968e97dff4a49ab2a7db02c184b7488d17ffbcae1fc630",
+                "score": 0.034229323,
+                "excerpt": "or other beliefs, health, criminal background or trade union membership).\nPlease note that by sending your personal information to Retailweb or by downloading any available on web-site of Retailweb you are explicitly acknowledging the processing and transfer of such information in the way and for the purpose mentioned above.\nRetailweb would like to keep you updated and send you news and information by email or other electronic means. For this purpose Retailweb may ask for your consent in the for...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "72e0d060da6dcd5de679715f5cc8b11177a371f2ae6a93394c96c34c75e8b7fd",
+                "score": 0.007665875,
+                "excerpt": "such news and information at any time.\nRetailweb will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. Retailweb will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or simi...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "b945ea51e55ac05e625d62621bf74d6170b5e935d76c1f3234ce38ac43ff196f",
+                "score": 0.0056200367,
+                "excerpt": "version 1.0\nRetailweb Pty Ltd (\"Retailweb\") is committed to protecting the privacy of its users and the persons visiting Retailweb web pages. Any personal data provided to Retailweb through these web pages or related to the downloading or use of the products or services of Retailweb is processed pursuant to the following guidelines:\nRetailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes re...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28ee6d64a9af7662b7356657695d818f47d7e4177fbbd671e5ac925aff0eabf1",
+                "score": 0.003945407,
+                "excerpt": "or\nis related to the use of the web-site, products or services of Retailweb such as download history, IP address.\nYour data are stored for the duration of your use of the services provided by Retailweb and as long as your account is valid, and thereafter the applicable period for limitation of legal claims, and any additional periods required or permitted under applicable law, such as license management purposes. We take every reasonable step to ensure that your personal data are only processed ...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28511ae1f31d2cb0e5e52a1de3b094a7c187a08fa2945cbae865864687e99f12",
+                "score": 0.0038844766,
+                "excerpt": "the company or in relation to which the name of the company has been provided by the user.\nGiven the global nature of Retailweb's business, processing information for the above purposes may involve a cross-border transfer of the information provided to Retailweb. Any cross-border transfer of the information including any transfers outside the EU/EEA will be carried out in strict compliance with the applicable law to ensure protection of your privacy. Any such transfer may be carried out on the b...",
+                "url": "https://retailweb.com.au/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1666827532,
+            "url": "https://retailweb.com.au/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for business purposes and subject to the limitations of applicable law.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy indicates that Retailweb may transfer personal data to third parties for business purposes as long as it is reasonably necessary for those purposes and complies with applicable law.",
+            "reference": "Retailweb may for its business purposes and subject to the limitations of the applicable law, transfer such personal data to third parties to the extent such transfers are reasonably necessary for the business purposes of Retailweb. Retailweb may among other things provide to a company list of downloads of Retailweb products using an IP-address linked to the company or in relation to which the name of the company has been provided by the user. URL: https://retailweb.com.au/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "28ee6d64a9af7662b7356657695d818f47d7e4177fbbd671e5ac925aff0eabf1",
+                "score": 0.030792167,
+                "excerpt": "or\nis related to the use of the web-site, products or services of Retailweb such as download history, IP address.\nYour data are stored for the duration of your use of the services provided by Retailweb and as long as your account is valid, and thereafter the applicable period for limitation of legal claims, and any additional periods required or permitted under applicable law, such as license management purposes. We take every reasonable step to ensure that your personal data are only processed ...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "72e0d060da6dcd5de679715f5cc8b11177a371f2ae6a93394c96c34c75e8b7fd",
+                "score": 0.02145073,
+                "excerpt": "such news and information at any time.\nRetailweb will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. Retailweb will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or simi...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28511ae1f31d2cb0e5e52a1de3b094a7c187a08fa2945cbae865864687e99f12",
+                "score": 0.004792317,
+                "excerpt": "the company or in relation to which the name of the company has been provided by the user.\nGiven the global nature of Retailweb's business, processing information for the above purposes may involve a cross-border transfer of the information provided to Retailweb. Any cross-border transfer of the information including any transfers outside the EU/EEA will be carried out in strict compliance with the applicable law to ensure protection of your privacy. Any such transfer may be carried out on the b...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "b945ea51e55ac05e625d62621bf74d6170b5e935d76c1f3234ce38ac43ff196f",
+                "score": 0.002570868,
+                "excerpt": "version 1.0\nRetailweb Pty Ltd (\"Retailweb\") is committed to protecting the privacy of its users and the persons visiting Retailweb web pages. Any personal data provided to Retailweb through these web pages or related to the downloading or use of the products or services of Retailweb is processed pursuant to the following guidelines:\nRetailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes re...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "c59f2c725e3a5d7f40968e97dff4a49ab2a7db02c184b7488d17ffbcae1fc630",
+                "score": 0.0011513996,
+                "excerpt": "or other beliefs, health, criminal background or trade union membership).\nPlease note that by sending your personal information to Retailweb or by downloading any available on web-site of Retailweb you are explicitly acknowledging the processing and transfer of such information in the way and for the purpose mentioned above.\nRetailweb would like to keep you updated and send you news and information by email or other electronic means. For this purpose Retailweb may ask for your consent in the for...",
+                "url": "https://retailweb.com.au/privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1666827532,
+            "url": "https://retailweb.com.au/privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Retailweb may provide a list of downloads of Retailweb products using an IP-address linked to the company or in relation to which the name of the company has been provided by the user.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "List of downloads of Retailweb products using an IP-address linked to the company"
+                }
+            },
+            "analysis": "The privacy policy specifies that Retailweb may provide a list of downloads of their products using an IP-address linked to a company or a name provided by the user, indicating third-party data sharing.",
+            "reference": "Retailweb may among other things provide to a company list of downloads of Retailweb products using an IP-address linked to the company or in relation to which the name of the company has been provided by the user. URL: https://retailweb.com.au/privacy"
+        },
+        "source_documents": [
+            {
+                "id": "28ee6d64a9af7662b7356657695d818f47d7e4177fbbd671e5ac925aff0eabf1",
+                "score": 0.09384396,
+                "excerpt": "or\nis related to the use of the web-site, products or services of Retailweb such as download history, IP address.\nYour data are stored for the duration of your use of the services provided by Retailweb and as long as your account is valid, and thereafter the applicable period for limitation of legal claims, and any additional periods required or permitted under applicable law, such as license management purposes. We take every reasonable step to ensure that your personal data are only processed ...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "28511ae1f31d2cb0e5e52a1de3b094a7c187a08fa2945cbae865864687e99f12",
+                "score": 0.024053553,
+                "excerpt": "the company or in relation to which the name of the company has been provided by the user.\nGiven the global nature of Retailweb's business, processing information for the above purposes may involve a cross-border transfer of the information provided to Retailweb. Any cross-border transfer of the information including any transfers outside the EU/EEA will be carried out in strict compliance with the applicable law to ensure protection of your privacy. Any such transfer may be carried out on the b...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "72e0d060da6dcd5de679715f5cc8b11177a371f2ae6a93394c96c34c75e8b7fd",
+                "score": 0.012970387,
+                "excerpt": "such news and information at any time.\nRetailweb will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. Retailweb will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website, applications or services or to other website, applications and services via an internet or simi...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "b945ea51e55ac05e625d62621bf74d6170b5e935d76c1f3234ce38ac43ff196f",
+                "score": 0.010860331,
+                "excerpt": "version 1.0\nRetailweb Pty Ltd (\"Retailweb\") is committed to protecting the privacy of its users and the persons visiting Retailweb web pages. Any personal data provided to Retailweb through these web pages or related to the downloading or use of the products or services of Retailweb is processed pursuant to the following guidelines:\nRetailweb will process any personal information of the users of its products, services or web-site only for Retailweb business purposes, including lawful purposes re...",
+                "url": "https://retailweb.com.au/privacy"
+            },
+            {
+                "id": "c59f2c725e3a5d7f40968e97dff4a49ab2a7db02c184b7488d17ffbcae1fc630",
+                "score": 0.004468384,
+                "excerpt": "or other beliefs, health, criminal background or trade union membership).\nPlease note that by sending your personal information to Retailweb or by downloading any available on web-site of Retailweb you are explicitly acknowledging the processing and transfer of such information in the way and for the purpose mentioned above.\nRetailweb would like to keep you updated and send you news and information by email or other electronic means. For this purpose Retailweb may ask for your consent in the for...",
+                "url": "https://retailweb.com.au/privacy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6447466531,
+      "url": "https://mentalmedit.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that personal information is collected when users voluntarily provide it during registration, inquiries, or participation in activities on the Services.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app collects personal information that users provide voluntarily.",
+          "content": "The personal information collected may include names, email addresses, and passwords, depending on user interactions with the Services."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines that the app collects personal information provided by users, indicating transparency in data collection practices.",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447466531,
+      "url": "https://mentalmedit.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal information that you voluntarily provide, which may include names, email addresses, and passwords. Additionally, if you use the application, it may collect information related to push notifications if you choose to provide access or permission.",
+        "simple_answer": "The app collects names, email addresses, passwords, and may collect push notification data.",
+        "extended_simple_answer": {
+          "comment": "The app does not process sensitive personal information and does not receive information from third parties.",
+          "content": "The personal information collected depends on the context of your interactions with the app and may include names, email addresses, passwords, and push notification permissions."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 1: WHAT INFORMATION DO WE COLLECT?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447466531,
+      "url": "https://mentalmedit.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information is processed to provide, improve, and administer the Services, communicate with users, for security and fraud prevention, and to comply with law. Additionally, it may process information for other purposes with user consent.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various reasons for processing personal information.",
+          "content": "The purposes include providing and improving services, communication, security, fraud prevention, and legal compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: HOW DO WE PROCESS YOUR INFORMATION?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447466531,
+      "url": "https://mentalmedit.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not providing personal information when registering or using the services. Additionally, users can review, update, or delete the data collected from them by contacting the company directly.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to opt out of data collection by not providing personal information and can request to delete their data.",
+          "content": "The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws."
+        }
+      },
+      "analysis": "The privacy policy indicates that users have control over their personal information and can request deletion or opt out of data collection.",
+      "reference": "Section 13: HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447466531,
+      "url": "https://mentalmedit.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share personal information with third parties, as stated in the privacy policy.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions that the company does not receive any information from third parties and does not share personal information.",
+          "content": "We do not receive any information from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that there is no sharing of personal information with third parties, ensuring user data remains private.",
+      "reference": "We do not receive any information from third parties."
+    }
+  },
+  {
+    "meta": {
+      "id": 6447466531,
+      "url": "https://mentalmedit.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share data with any third parties.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that the app does not share personal information with third parties.",
+          "content": "We do not receive any information from third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that there is no sharing of personal information with third parties, ensuring user data remains private.",
+      "reference": "We do not receive any information from third parties."
+    }
+  }
+]

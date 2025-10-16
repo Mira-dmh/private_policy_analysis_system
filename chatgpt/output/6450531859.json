@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6450531859,
+      "url": "https://genuisbraintraining.itify.net/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data through a data access, collection, use, and sharing disclosure within the app. This disclosure is provided not only in the app's description or on the website but also within the app itself, ensuring users are informed when their data is being accessed or gathered.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app provides clear disclosures about data collection to ensure user awareness.",
+          "content": "The disclosure is displayed during normal app usage and describes the intended use and dissemination of the data."
+        }
+      },
+      "analysis": "",
+      "reference": "Prominent Disclosure & Consent Requirement"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450531859,
+      "url": "https://genuisbraintraining.itify.net/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal identification information, which may include name and email address, as well as non-personal identification information such as the device’s name used to connect to the app. It also collects data for improving customer service and personalizing user experience.",
+        "simple_answer": "The app collects personal identification information (like name and email) and non-personal identification information (like device name).",
+        "extended_simple_answer": {
+          "comment": "The app collects various types of data to enhance user experience and service.",
+          "content": "Personal identification information includes name and email address. Non-personal identification information may include the device’s name."
+        }
+      },
+      "analysis": "",
+      "reference": "Personal Identification Information, Non-personal Identification Information, How We Use Collected Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450531859,
+      "url": "https://genuisbraintraining.itify.net/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It provides a data access, collection, use, and sharing disclosure within the app, which describes the data's intended use and/or dissemination.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app includes disclosures about data collection and its intended use directly within the app.",
+          "content": "The purpose of data collection is clearly stated in the app, ensuring users are informed about how their data will be used."
+        }
+      },
+      "analysis": "",
+      "reference": "Prominent Disclosure & Consent Requirement"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450531859,
+      "url": "https://genuisbraintraining.itify.net/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by refusing to provide personal identification information. Additionally, users can delete their account and all related data stored on the server by going to the app, logging in, and selecting 'Delete Account' in the Settings/Account section.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to refuse personal data submission and can delete their account and data.",
+          "content": "Users can delete their account and all related data by logging into the app and selecting 'Delete Account' in the Settings/Account section."
+        }
+      },
+      "analysis": "",
+      "reference": "How to Delete Data & Account?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450531859,
+      "url": "https://genuisbraintraining.itify.net/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not sell, trade, or rent Users' personal identification information to others. However, it may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers. Additionally, the app may use third-party service providers to help operate the business and the app, and may share information with these third parties for limited purposes, provided that Users have given permission.",
+        "simple_answer": "Yes, the app may share aggregated demographic information and use third-party service providers with user permission.",
+        "extended_simple_answer": {
+          "comment": "The app is careful about sharing data and does not sell personal information.",
+          "content": "The app does not sell, trade, or rent Users' personal identification information. It may share aggregated demographic information and use third-party service providers with user permission."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing Your Personal Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6450531859,
+      "url": "https://genuisbraintraining.itify.net/policy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share information with third-party service providers to help operate the business and the app or administer activities on its behalf, such as sending out newsletters or surveys. However, this sharing is limited to those purposes provided that the user has given permission.",
+        "simple_answer": "The app shares data with third-party service providers for specific purposes, with user permission.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell or trade personal information but may share it with trusted affiliates for specific activities.",
+          "content": "The app may share information with third-party service providers to help operate the business and the app or administer activities on its behalf, such as sending out newsletters or surveys."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing Your Personal Information"
+    }
+  }
+]

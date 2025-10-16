@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6468129359,
+      "url": "https://onwellbeing.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that information is obtained when users register, participate in events, or sign up for newsletters and updates. The personal information collected includes name, email address, workplace, and telephone number.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The policy clearly outlines how and when data is collected from users.",
+          "content": "We obtain information about you when you register or take part in events we run, or when you sign up to receive our newsletter and/or updates. The personal information we collect includes your name, email address, workplace, and telephone number."
+        }
+      },
+      "analysis": "",
+      "reference": "How do we collect information from you?; What type of information is collected from you?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6468129359,
+      "url": "https://onwellbeing.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The personal information collected includes your name, email address, workplace, and telephone number.",
+        "simple_answer": "Name, email address, workplace, and telephone number.",
+        "extended_simple_answer": {
+          "comment": "The app collects basic personal information to manage user accounts and communicate with users.",
+          "content": "The personal information we collect includes your name, email address, workplace, and telephone number."
+        }
+      },
+      "analysis": "",
+      "reference": "What type of information is collected from you?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6468129359,
+      "url": "https://onwellbeing.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The information collected is used to send users information about events, products, or services that may be of interest, notify users of any changes to events, products, or services, and manage user accounts for registered users.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The policy clearly outlines how the collected information will be utilized.",
+          "content": "Your information could be used to: Send you information and about events, products or services which may be of interest to you. Notify you of any changes to events, products, or services. If you are a registered account user, the information will be used to manage your user account."
+        }
+      },
+      "analysis": "",
+      "reference": "How is the information used?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6468129359,
+      "url": "https://onwellbeing.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by unsubscribing from communications at any time. Each email campaign includes an unsubscribe link. Additionally, users can update their information or request deletion by contacting the company directly.",
+        "simple_answer": "Yes, users can unsubscribe and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can manage their preferences.",
+          "content": "Users can unsubscribe from communications via an unsubscribe link in emails. They can also contact the company to update or delete their information."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the right to unsubscribe from communications and can request to update or delete their personal information.",
+      "reference": "How is the information used?; What is your email policy?; How can you access and update your information?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6468129359,
+      "url": "https://onwellbeing.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "No, the app does not share your data with anyone else.",
+        "simple_answer": "No.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that your data is private and will not be shared.",
+          "content": "We recognise that your data is private and will not share your data with anyone else."
+        }
+      },
+      "analysis": "",
+      "reference": "Who might we share your information with?"
+    }
+  },
+  {
+    "meta": {
+      "id": 6468129359,
+      "url": "https://onwellbeing.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app does not share your data with anyone else.",
+        "simple_answer": "The app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "Your data is recognized as private.",
+          "content": "We recognize that your data is private and will not share your data with anyone else."
+        }
+      },
+      "analysis": "The privacy policy explicitly states that the app does not share user data with third parties, ensuring user privacy.",
+      "reference": "Who might we share your information with?"
+    }
+  }
+]

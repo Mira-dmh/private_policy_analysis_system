@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 1600102496,
+            "url": "https://www.behavidence.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app collects and processes personal data in various contexts.",
+            "reference": "We collect and process your contact information when you send us an inquiry or when you subscribe to our mailing list. URL: https://www.behavidence.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c04362a8473356eacf082f2c7d98500eebd929dad7d4222a23889d4b8c96cd68",
+                "score": 0.0016743992,
+                "excerpt": "we change this Privacy Policy, we will make efforts to proactively notify you of such changes.\nFrom time to time, we may change this Privacy Policy. If we do so, we will make efforts to proactively notify you of such changes. In any event, the latest version of the Privacy Policy will always be accessible at https://www.behavidence.com/privacy-policy.\nLast Update: 4 August, 2021\nTERMS OF USE\nWelcome to the website (the “Website”) owned and operated by Behavidence, Inc. (“we”, “us”, “our”). Behav...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "74731a8dfca30753737460c6438f096336ada57e7190b6fd287c8af9968f918d",
+                "score": 0.0011740822,
+                "excerpt": "necessary to comply with a legal obligation we are subject to under laws in EU Member States or for the establishment, exercise or defense of legal claims.\nIf you wish to exercise any of your EU/EEA rights, please contact us at: health@behavidence.com.\nWe reserve the right to ask for reasonable evidence to verify your identity before we provide you with information. Where we are not able to provide you the information that you have asked for, we will explain the reason for this.\nYou have a right...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "d4f573a5a7331ffb56068b35ccacc126576efe20f41944ddb8dfcb1d09e29754",
+                "score": 0.0008263576,
+                "excerpt": "PRIVACY POLICY\nThis Privacy Policy (“Privacy Policy”) explains how information is collected and used by Behavidence, Inc. (“Behavidence” or “we”, “us”, “our”).\nThis Privacy Policy applies to the Behavidence website at behavidence.com (the “Website”).\nWe are committed to protecting and respecting data privacy. Please read this Privacy Policy carefully.\nPERSONAL DATA PROCESSED\nWe collect and process your contact information when you send us an inquiry or when you subscribe to our mailing list\nYou ...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "d2d953611f053c2d7a44854a609f8ea40c86178507b92c1d754908ca5d69c976",
+                "score": 0.0004322415,
+                "excerpt": "time by clicking the unsubscribe button in the mail.\nWe collect and process your personal information when you join a research\nWhenever we conduct a public-wide research, you may join the research through the designated form. If you register to a research, we collect your contact information, age, existence of diagnosis of mental health condition (in a yes/no question), your mobile device type, and whether you live in the United States. We refer to this as “Research Registration Information”.\nYo...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "a2e09721bd3e4ebf8c92dd46f3b601c07384fef58e653c0082af40b7edeee801",
+                "score": 0.0003327413,
+                "excerpt": "your computer browser or device.\nSECURITY\nWe implement measures to secure your information\nWe implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information. However, these measures do not provide absolute information security. Therefore, although efforts are made to secure personal information, it is not guaranteed, and you cannot expect that the Website will be immune from information security risks.\nINTERNATIONAL DATA TRANSFERS\nWe will inte...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1600102496,
+            "url": "https://www.behavidence.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Contact Information, age, existence of diagnosis of mental health condition, mobile device type, whether you live in the United States, Website Analytics Information",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Contact Information",
+                        "age",
+                        "existence of diagnosis of mental health condition",
+                        "mobile device type",
+                        "whether you live in the United States",
+                        "Website Analytics Information"
+                    ]
+                }
+            },
+            "analysis": "The app collects Contact Information, age, existence of diagnosis of mental health condition, mobile device type, whether you live in the United States, and Website Analytics Information.",
+            "reference": "Contact Information, age, existence of diagnosis of mental health condition, mobile device type, whether you live in the United States, Website Analytics Information. URL: https://www.behavidence.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "d2d953611f053c2d7a44854a609f8ea40c86178507b92c1d754908ca5d69c976",
+                "score": 0.0140636265,
+                "excerpt": "time by clicking the unsubscribe button in the mail.\nWe collect and process your personal information when you join a research\nWhenever we conduct a public-wide research, you may join the research through the designated form. If you register to a research, we collect your contact information, age, existence of diagnosis of mental health condition (in a yes/no question), your mobile device type, and whether you live in the United States. We refer to this as “Research Registration Information”.\nYo...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "d4f573a5a7331ffb56068b35ccacc126576efe20f41944ddb8dfcb1d09e29754",
+                "score": 0.003960788,
+                "excerpt": "PRIVACY POLICY\nThis Privacy Policy (“Privacy Policy”) explains how information is collected and used by Behavidence, Inc. (“Behavidence” or “we”, “us”, “our”).\nThis Privacy Policy applies to the Behavidence website at behavidence.com (the “Website”).\nWe are committed to protecting and respecting data privacy. Please read this Privacy Policy carefully.\nPERSONAL DATA PROCESSED\nWe collect and process your contact information when you send us an inquiry or when you subscribe to our mailing list\nYou ...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "74731a8dfca30753737460c6438f096336ada57e7190b6fd287c8af9968f918d",
+                "score": 0.0034564096,
+                "excerpt": "necessary to comply with a legal obligation we are subject to under laws in EU Member States or for the establishment, exercise or defense of legal claims.\nIf you wish to exercise any of your EU/EEA rights, please contact us at: health@behavidence.com.\nWe reserve the right to ask for reasonable evidence to verify your identity before we provide you with information. Where we are not able to provide you the information that you have asked for, we will explain the reason for this.\nYou have a right...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "24ffac3c28185b373c416501b821da19feb59acf2cc03d7063bbdc5d5222bc92",
+                "score": 0.0025212683,
+                "excerpt": "access, type of browser used, language used, links clicked, and actions taken while using the Website. We refer to this data as \"Website Analytics Information\".\nDATA CONTROLLER\nBehavidence is the data controller of the information described in this Privacy Policy\nBehavidence is the data controller of the information described in this Privacy Policy. We determine the purposes and means of processing that data as part of our Website.\nBehavidence’s contact information\nOur contact information is:\nBe...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "c04362a8473356eacf082f2c7d98500eebd929dad7d4222a23889d4b8c96cd68",
+                "score": 0.001882186,
+                "excerpt": "we change this Privacy Policy, we will make efforts to proactively notify you of such changes.\nFrom time to time, we may change this Privacy Policy. If we do so, we will make efforts to proactively notify you of such changes. In any event, the latest version of the Privacy Policy will always be accessible at https://www.behavidence.com/privacy-policy.\nLast Update: 4 August, 2021\nTERMS OF USE\nWelcome to the website (the “Website”) owned and operated by Behavidence, Inc. (“we”, “us”, “our”). Behav...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1600102496,
+            "url": "https://www.behavidence.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use as detailed in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The Privacy Policy clearly mentions that the app declares the purpose of data collection and use in various scenarios such as responding to inquiries, conducting research, website analytics, and legal obligations.",
+            "reference": "This Privacy Policy (“Privacy Policy”) explains how information is collected and used by Behavidence, Inc. (“Behavidence” or “we”, “us”, “our”). URL: https://www.behavidence.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c04362a8473356eacf082f2c7d98500eebd929dad7d4222a23889d4b8c96cd68",
+                "score": 0.0022872277,
+                "excerpt": "we change this Privacy Policy, we will make efforts to proactively notify you of such changes.\nFrom time to time, we may change this Privacy Policy. If we do so, we will make efforts to proactively notify you of such changes. In any event, the latest version of the Privacy Policy will always be accessible at https://www.behavidence.com/privacy-policy.\nLast Update: 4 August, 2021\nTERMS OF USE\nWelcome to the website (the “Website”) owned and operated by Behavidence, Inc. (“we”, “us”, “our”). Behav...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "c05827653c55a9a2cc3f21444518cee27bc13e7c40ff21c289f8fa54a2db872d",
+                "score": 0.0018386652,
+                "excerpt": "law for processing your Contact Information for the purpose of responding to and handling your inquiry, is our legitimate interests in responding to your inquiry.\nThe legal basis under EU/EEA law for processing your Research Registration Information for the purpose of including you in our research, is your consent to participate in our research.\nThe legal basis under EU/EEA law for processing Website Analytics Information is our legitimate interest in maintaining, developing and enhancing the We...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "e98cc19f752b3b7295a7e3ba103ca5d663b9874a45938d2eccfde31206eb3c8f",
+                "score": 0.0018243829,
+                "excerpt": "of legal claims. You may also object at any time to the use of your personal data for direct marketing purposes.\nRight to Restrict the processing your personal data (except for storing it) if you contest the accuracy of your personal data, for a period enabling us to verify its accuracy; if you believe that the processing is unlawful and you oppose the erasure of the personal data and request instead to restrict its use; if we no longer need the personal data for the purposes outlined in this Pr...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "d4f573a5a7331ffb56068b35ccacc126576efe20f41944ddb8dfcb1d09e29754",
+                "score": 0.0016166499,
+                "excerpt": "PRIVACY POLICY\nThis Privacy Policy (“Privacy Policy”) explains how information is collected and used by Behavidence, Inc. (“Behavidence” or “we”, “us”, “our”).\nThis Privacy Policy applies to the Behavidence website at behavidence.com (the “Website”).\nWe are committed to protecting and respecting data privacy. Please read this Privacy Policy carefully.\nPERSONAL DATA PROCESSED\nWe collect and process your contact information when you send us an inquiry or when you subscribe to our mailing list\nYou ...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "a2e09721bd3e4ebf8c92dd46f3b601c07384fef58e653c0082af40b7edeee801",
+                "score": 0.0015978456,
+                "excerpt": "your computer browser or device.\nSECURITY\nWe implement measures to secure your information\nWe implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information. However, these measures do not provide absolute information security. Therefore, although efforts are made to secure personal information, it is not guaranteed, and you cannot expect that the Website will be immune from information security risks.\nINTERNATIONAL DATA TRANSFERS\nWe will inte...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1600102496,
+            "url": "https://www.behavidence.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or request the deletion of their personal data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to opt out of data collection or request the deletion of their personal data.",
+            "reference": "You have certain rights to access, update or delete information, obtain a copy of your information, and object or restrict certain data processing activities. If you are in the EU EU/EEA you have the following rights under the GDPR: Right to Access your personal data that we process and receive a copy of it. Right to Rectify inaccurate personal data we have concerning you and to have incomplete personal data completed. Right to Data Portability, that is, to receive the personal data that you provided to us, in a structured, commonly used and machine-readable format. You have the right to transmit this data to another service provider. Where technically feasible, you have the right that your personal data be transmitted directly from us to the service provider you designate. Right to Object, based on your particular situation, to using your personal data on the basis of our legitimate interest. However, we may override the objection if we demonstrate compelling legitimate grounds, or for the establishment, exercise of defense of legal claims. You may also object at any time to the use of your personal data for direct marketing purposes. Right to Restrict the processing your personal data (except for storing it) if you contest the accuracy of your personal data, for a period enabling us to verify its accuracy; URL: https://www.behavidence.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "e98cc19f752b3b7295a7e3ba103ca5d663b9874a45938d2eccfde31206eb3c8f",
+                "score": 0.52127314,
+                "excerpt": "of legal claims. You may also object at any time to the use of your personal data for direct marketing purposes.\nRight to Restrict the processing your personal data (except for storing it) if you contest the accuracy of your personal data, for a period enabling us to verify its accuracy; if you believe that the processing is unlawful and you oppose the erasure of the personal data and request instead to restrict its use; if we no longer need the personal data for the purposes outlined in this Pr...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "59bbb5001ea6b00bc2177f26d2ae5b707ce0200de893a81c6fc3ab23f9404eec",
+                "score": 0.31478733,
+                "excerpt": "is our legitimate interests in our business continuity.\nYou have certain rights to access, update or delete information, obtain a copy of your information, and object or restrict certain data processing activities.\nIf you are in the EU EU/EEA you have the following rights under the GDPR:\nRight to Access your personal data that we process and receive a copy of it.\nRight to Rectify inaccurate personal data we have concerning you and to have incomplete personal data completed.\nRight to Data Portabi...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "a2e09721bd3e4ebf8c92dd46f3b601c07384fef58e653c0082af40b7edeee801",
+                "score": 0.12896329,
+                "excerpt": "your computer browser or device.\nSECURITY\nWe implement measures to secure your information\nWe implement measures to reduce the risks of damage, loss of information and unauthorized access or use of information. However, these measures do not provide absolute information security. Therefore, although efforts are made to secure personal information, it is not guaranteed, and you cannot expect that the Website will be immune from information security risks.\nINTERNATIONAL DATA TRANSFERS\nWe will inte...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "ba6a540acde6629a3386646fb476c8a69fcd0c7b6459137cd5be5496102a4ae1",
+                "score": 0.047249712,
+                "excerpt": "the website (these are called ‘session’ cookies), and when you return to visit it again (these are called ‘persistent’ cookies).\nWe use cookies necessary to operate the Website and for website statistics.\nWe use cookies for a number of purposes, as briefly explained below:\nNecessary. Cookies that are strictly necessary for the functioning of the Website. The Website cannot operate properly without these cookies. You can set your browser to block or alert you about these cookies, but some parts o...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "d2d953611f053c2d7a44854a609f8ea40c86178507b92c1d754908ca5d69c976",
+                "score": 0.04304285,
+                "excerpt": "time by clicking the unsubscribe button in the mail.\nWe collect and process your personal information when you join a research\nWhenever we conduct a public-wide research, you may join the research through the designated form. If you register to a research, we collect your contact information, age, existence of diagnosis of mental health condition (in a yes/no question), your mobile device type, and whether you live in the United States. We refer to this as “Research Registration Information”.\nYo...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1600102496,
+            "url": "https://www.behavidence.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties in certain circumstances.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may share data with third parties in specific situations such as sharing information with competent authorities, service providers assisting in operation, or when legally required.",
+            "reference": "We will not share your information with third parties, except in the events listed below or when you provide us your explicit and informed consent. We will process information with our service providers helping us to operate the Website. We will share information with competent authorities if you abuse your right to use the Website, or violate any applicable law. If we are legally required, we will share your information. URL: https://www.behavidence.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "56d300dedfead18517b8fc57a361a4fe9350948833d02bdcc7fd4ba2b3de49d3",
+                "score": 0.38300648,
+                "excerpt": "assurance and for development and enhancement of the Website.\nWe will use the Website Analytics Information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms of use for the Website and take other actions otherwise permitted by law.\nWHO PROCESSES YOUR DATA\nWe will not share your information with third parties, except in the events listed below or when you provide us your explicit and informed consent.\nWe will process information with our ...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "08f212b00d45473601a74c5fac430ef630811400679710711b5545857bdfb691",
+                "score": 0.24006125,
+                "excerpt": "Website, or violated any applicable law, we will share information with competent authorities and with third parties (such as legal counsels and advisors), for the purpose of handling of the violation or breach.\nWe will share your information if we are legally required.\nWe will share your information if we are required to do so by a judicial, governmental or regulatory authority.\nWe will share your Information with third-parties in any event of change in our structure.\nIf the operation of our bu...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "6c6ed021ea20c0bed9d32a0eefe8183f3982f9cafbb7f7d96585a3f4b9aa08e4",
+                "score": 0.01812472,
+                "excerpt": "by our authorized representative.\nFailure on our part to demand performance of any provision in the Terms shall not constitute a waiver of any of our rights under the Terms.\nPlease note that the use of the Behavidence App is subject to different terms of use and privacy policy. When using the App, you are solely responsible for reading, understanding and adhering to the App’s terms of use and privacy policy.\nYou may not assign or transfer your rights and obligations under the Terms without our p...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "c04362a8473356eacf082f2c7d98500eebd929dad7d4222a23889d4b8c96cd68",
+                "score": 0.01302049,
+                "excerpt": "we change this Privacy Policy, we will make efforts to proactively notify you of such changes.\nFrom time to time, we may change this Privacy Policy. If we do so, we will make efforts to proactively notify you of such changes. In any event, the latest version of the Privacy Policy will always be accessible at https://www.behavidence.com/privacy-policy.\nLast Update: 4 August, 2021\nTERMS OF USE\nWelcome to the website (the “Website”) owned and operated by Behavidence, Inc. (“we”, “us”, “our”). Behav...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "74731a8dfca30753737460c6438f096336ada57e7190b6fd287c8af9968f918d",
+                "score": 0.008251599,
+                "excerpt": "necessary to comply with a legal obligation we are subject to under laws in EU Member States or for the establishment, exercise or defense of legal claims.\nIf you wish to exercise any of your EU/EEA rights, please contact us at: health@behavidence.com.\nWe reserve the right to ask for reasonable evidence to verify your identity before we provide you with information. Where we are not able to provide you the information that you have asked for, we will explain the reason for this.\nYou have a right...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1600102496,
+            "url": "https://www.behavidence.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Service providers, competent authorities, legal counsels and advisors, judicial, governmental or regulatory authorities, and third parties in the event of a change in the company's structure.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Service providers, competent authorities, legal counsels and advisors, judicial, governmental or regulatory authorities, third parties in the event of a change in company's structure"
+                }
+            },
+            "analysis": "The privacy policy specifies various third parties with whom data is shared under different circumstances.",
+            "reference": "We will process information with our service providers helping us to operate the Website. ... We will share information with competent authorities, if you abuse your right to use the Website, or violate any applicable law. ... If you have abused your rights to use the Website, or violated any applicable law, we will share information with competent authorities and with third parties (such as legal counsels and advisors), for the purpose of handling of the violation or breach. ... We will share your information if we are legally required. ... We will share your Information with third-parties in any event of change in our structure. URL: https://www.behavidence.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "56d300dedfead18517b8fc57a361a4fe9350948833d02bdcc7fd4ba2b3de49d3",
+                "score": 0.5952573,
+                "excerpt": "assurance and for development and enhancement of the Website.\nWe will use the Website Analytics Information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms of use for the Website and take other actions otherwise permitted by law.\nWHO PROCESSES YOUR DATA\nWe will not share your information with third parties, except in the events listed below or when you provide us your explicit and informed consent.\nWe will process information with our ...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "08f212b00d45473601a74c5fac430ef630811400679710711b5545857bdfb691",
+                "score": 0.55935025,
+                "excerpt": "Website, or violated any applicable law, we will share information with competent authorities and with third parties (such as legal counsels and advisors), for the purpose of handling of the violation or breach.\nWe will share your information if we are legally required.\nWe will share your information if we are required to do so by a judicial, governmental or regulatory authority.\nWe will share your Information with third-parties in any event of change in our structure.\nIf the operation of our bu...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "74731a8dfca30753737460c6438f096336ada57e7190b6fd287c8af9968f918d",
+                "score": 0.029145971,
+                "excerpt": "necessary to comply with a legal obligation we are subject to under laws in EU Member States or for the establishment, exercise or defense of legal claims.\nIf you wish to exercise any of your EU/EEA rights, please contact us at: health@behavidence.com.\nWe reserve the right to ask for reasonable evidence to verify your identity before we provide you with information. Where we are not able to provide you the information that you have asked for, we will explain the reason for this.\nYou have a right...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "59bbb5001ea6b00bc2177f26d2ae5b707ce0200de893a81c6fc3ab23f9404eec",
+                "score": 0.02806074,
+                "excerpt": "is our legitimate interests in our business continuity.\nYou have certain rights to access, update or delete information, obtain a copy of your information, and object or restrict certain data processing activities.\nIf you are in the EU EU/EEA you have the following rights under the GDPR:\nRight to Access your personal data that we process and receive a copy of it.\nRight to Rectify inaccurate personal data we have concerning you and to have incomplete personal data completed.\nRight to Data Portabi...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            },
+            {
+                "id": "6c6ed021ea20c0bed9d32a0eefe8183f3982f9cafbb7f7d96585a3f4b9aa08e4",
+                "score": 0.023021257,
+                "excerpt": "by our authorized representative.\nFailure on our part to demand performance of any provision in the Terms shall not constitute a waiver of any of our rights under the Terms.\nPlease note that the use of the Behavidence App is subject to different terms of use and privacy policy. When using the App, you are solely responsible for reading, understanding and adhering to the App’s terms of use and privacy policy.\nYou may not assign or transfer your rights and obligations under the Terms without our p...",
+                "url": "https://www.behavidence.com/privacy-policy"
+            }
+        ]
+    }
+]

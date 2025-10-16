@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6470471214,
+      "url": "https://www.dianabigham.com/pages/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that while no personally identifiable information is automatically collected, certain non-personal information such as the type of browser, operating system, and IP address is recorded. Additionally, the app may request contact information and demographic information through various forms on the site.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app specifies the types of data collected and the purposes for which it is used.",
+          "content": "The Company collects non-personal information automatically and may request personal information through forms for legitimate business interests."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and the circumstances under which it is gathered, ensuring transparency with users.",
+      "reference": "Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6470471214,
+      "url": "https://www.dianabigham.com/pages/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects certain non-personal information such as the type of browser being used, its operating system, and the user's IP address. Additionally, it may request personally identifiable information such as name, mailing and/or e-mail address, demographic information (age and gender), and personal preference information (preferred software and interests) through various forms on the site.",
+        "simple_answer": "The app collects non-personal information (like browser type and IP address) and may request personal information (like name and email).",
+        "extended_simple_answer": {
+          "comment": "The app gathers both non-personal and personal data to enhance user experience and for legitimate business interests.",
+          "content": "Non-personal information includes browser type, operating system, and IP address. Personal information may include name, email, age, gender, and preferences."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6470471214,
+      "url": "https://www.dianabigham.com/pages/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The information collected is used for legitimate business interests, including the improvement of products, services, and the contents of the Site. Additionally, the Company may share such information with business and promotional partners to further those interests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that the collected information is used to enhance user experience and improve services.",
+          "content": "The Company may use the information for legitimate business interests, including improving products and services, and may share it with partners."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purposes for which data is collected, ensuring transparency for users regarding how their information will be utilized.",
+      "reference": "Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6470471214,
+      "url": "https://www.dianabigham.com/pages/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of receiving future mailings and have the option to remove their name from any email list. Additionally, if the Company discovers that a child age 16 or younger has provided personally identifiable information, they will delete that child's identifiable information from their records.",
+        "simple_answer": "Yes, users can opt out of communications and have data deleted.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can choose to opt out of communications.",
+          "content": "Users can opt out of receiving future mailings as provided in the privacy policy. If a child age 16 or younger submits personal information, the Company will delete that information from their records."
+        }
+      },
+      "analysis": "The privacy policy clearly states the options available to users regarding opting out of communications and the deletion of data, particularly for children under 16.",
+      "reference": "Choice/Opt-Out section"
+    }
+  },
+  {
+    "meta": {
+      "id": 6470471214,
+      "url": "https://www.dianabigham.com/pages/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share certain non-personal information with business and promotional partners to further the Company's legitimate business interests. However, personally identifiable information is never sold or leased to any third parties.",
+        "simple_answer": "Yes, it shares non-personal information but not personally identifiable information.",
+        "extended_simple_answer": {
+          "comment": "The app shares non-personal information with partners but protects personally identifiable information.",
+          "content": "The Company may share non-personal information with business and promotional partners to further its interests, but it does not sell or lease personally identifiable information to third parties."
+        }
+      },
+      "analysis": "The privacy policy clearly states that while non-personal information may be shared with partners, personally identifiable information is protected and not shared with third parties.",
+      "reference": "Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6470471214,
+      "url": "https://www.dianabigham.com/pages/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share information with business and promotional partners to further its legitimate business interests. However, personally identifiable information is never sold or leased to any third parties.",
+        "simple_answer": "The app shares data with business and promotional partners.",
+        "extended_simple_answer": {
+          "comment": "The app does not sell or lease personally identifiable information.",
+          "content": "The Company may share such information with our business and promotional partners to further those interests. Personally identifiable information is never sold or leased to any third parties."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Information"
+    }
+  }
+]

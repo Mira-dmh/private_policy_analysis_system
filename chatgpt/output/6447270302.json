@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6447270302,
+      "url": "https://manmadeapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that information is collected when users register for an account, participate in interactive features, fill out forms, make purchases, and communicate with the company. The types of information collected include personal information, usage information, transactional information, log information, and device information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various ways in which data is collected from users.",
+          "content": "The app collects information when users register, participate in features, fill out forms, make purchases, and communicate with the company. This includes personal, usage, transactional, log, and device information."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the methods of collection, ensuring transparency about data practices.",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447270302,
+      "url": "https://manmadeapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: 1. Information You Provide: This includes your name, email, password, street address, payment method information, feedback, and survey responses. 2. Usage Information: Data about how you use the Services, such as sessions used, videos viewed, and features accessed. 3. Transactional Information: Details about transactions, including product descriptions, prices, and transaction dates. 4. Log Information: Standard log files that include browser type, app version, access times, pages viewed, IP address, and the previous page visited. 5. Device Information: Information about the device used to access the Services, including hardware model, operating system, device identifiers, and mobile network information. 6. Information from Other Sources: Data obtained from third-party app stores, social media accounts, and publicly available sources.",
+        "simple_answer": "The app collects personal information, usage data, transactional data, log data, device information, and data from other sources.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of data to enhance user experience and service functionality.",
+          "content": "Types of data collected include personal information (name, email, etc.), usage data (how the app is used), transactional data (purchase details), log data (browser and device info), and data from third-party sources."
+        }
+      },
+      "analysis": "",
+      "reference": "Collection of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447270302,
+      "url": "https://manmadeapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide, maintain, and improve the Services, process transactions, send transactional messages, communicate about products and services, monitor trends, detect fraud, comply with the law, personalize user experience, and facilitate contests and promotions.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for data collection, ensuring transparency about how user data is utilized.",
+          "content": "The purposes include improving services, processing transactions, sending notifications, communicating with users, monitoring usage trends, preventing fraud, complying with legal requirements, personalizing experiences, and facilitating promotions."
+        }
+      },
+      "analysis": "",
+      "reference": "We use the information we collect to: Provide, maintain and improve our Services, including debugging to identify and repair errors, and developing new products and services; Process transactions and fulfill orders; Send you transactional or relationship messages, such as receipts, account notifications, customer service responses, and other administrative messages; Communicate with you about products, services, and events offered by ManMade and others, request feedback, and send news, gifts or other information we think will be of interest to you; Monitor and analyze trends, usage, and activities in connection with our Services; Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of ManMade and others, including to enforce our agreements and policies; Comply with the law, such as by processing transactional records for tax filings and other compliance activities; Personalize your online experience and the advertisements you see on other platforms based on your preferences, interests, and browsing behavior; and Facilitate contests, sweepstakes, and promotions and process and deliver entries and rewards."
+    }
+  },
+  {
+    "meta": {
+      "id": 6447270302,
+      "url": "https://manmadeapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users can review the Privacy Policy to stay informed about their information practices and choices available to them. It is implied that users may have options regarding their data, but specific opt-out or deletion processes are not detailed in the document.",
+        "simple_answer": "The policy does not explicitly mention opt-out or deletion options.",
+        "extended_simple_answer": {
+          "comment": "While the policy encourages users to review their information practices, it lacks specific instructions for opting out or deleting data.",
+          "content": "Users are encouraged to review the Privacy Policy for information about their choices, but specific opt-out or deletion processes are not provided."
+        }
+      },
+      "analysis": "The absence of explicit opt-out or deletion options in the privacy policy suggests that users may need to contact customer support for assistance regarding their data.",
+      "reference": "This information is derived from the section discussing the collection and use of information, as well as the encouragement to review the Privacy Policy for choices available to users."
+    }
+  },
+  {
+    "meta": {
+      "id": 6447270302,
+      "url": "https://manmadeapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares information about you with third parties as described in the Privacy Policy. This includes sharing with companies and contractors that perform services for ManMade, in response to legal requests, if actions are inconsistent with user agreements, during business negotiations, between affiliates, and with your consent. Additionally, aggregated or non-personally identifiable information may also be shared with third parties.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has multiple scenarios where it shares data with third parties.",
+          "content": "Information is shared with service providers, in response to legal requests, during business negotiations, between affiliates, and with user consent. Aggregated data may also be shared."
+        }
+      },
+      "analysis": "The app's data sharing practices are comprehensive and include various scenarios where user data may be disclosed to third parties, ensuring compliance with legal obligations and operational needs.",
+      "reference": "Sharing of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6447270302,
+      "url": "https://manmadeapp.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with companies and contractors that perform services for ManMade, including email service providers, payment processors, fraud prevention vendors, and other service providers. It may also share information in response to legal requests, if it believes actions are inconsistent with user agreements, during business negotiations such as mergers or acquisitions, between affiliates and subsidiaries, and with your consent or direction.",
+        "simple_answer": "The app shares data with service providers, legal authorities, affiliates, and with your consent.",
+        "extended_simple_answer": {
+          "comment": "The app has various scenarios in which it shares data with third parties.",
+          "content": "1. Companies and contractors providing services (e.g., email service providers, payment processors). 2. Legal authorities in response to lawful requests. 3. Affiliates and subsidiaries. 4. With your consent."
+        }
+      },
+      "analysis": "",
+      "reference": "Sharing of Information"
+    }
+  }
+]

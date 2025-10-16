@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 1518619206,
+            "url": "https://www.lifeintelligence.io/terms-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the collection of various types of information from users, indicating that the app declares the collection of data.",
+            "reference": "We collect information when you register for an account, participate in interactive features...request customer support, or otherwise communicate with us. The information you may provide includes your name, email, password...URL: https://www.lifeintelligence.io/terms-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "b66f28cd0fd89695d585c5aa1bf7de85fb6eed5e8392d68c6eb71a03dad89c0e",
+                "score": 0.05470151,
+                "excerpt": "conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right to object to certain processing (like receiving direct marketing), or request that we restrict processing in certain circumstances (like to retain but not further process pending resolution of a claim).\nWhen we ask for your consent, you may withdraw that con...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "ba172e81cc7239ae481cfa738c50108c8ab219e2d2bf531ca91c433cafa28139",
+                "score": 0.046291903,
+                "excerpt": "about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nWe may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "43e220eb06cdfccb6424899c8be53725fa127b3ce8f7bfb90d13971936a72e88",
+                "score": 0.024376597,
+                "excerpt": "the case!).\nInformation Collected by Cookies and Similar Tracking Technologies: We use different technologies to collect information, including cookies and web beacons. Please see our Cookie Policy for more details.\nInformation We Collect from Other Sources\nWe also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "3607c08c2527f1eb5ab76fd790528555fc97d1daaf17cfb4866ddff3141028af",
+                "score": 0.012673736,
+                "excerpt": "comply with all applicable third-party terms of service when using the App.\nYou agree to comply with all U.S. and foreign export laws and regulations to ensure that neither the App nor any technical data related thereto nor any direct product thereof is exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. By using the App you represent and warrant that: (i) you are not located in a country that is subject to a U.S. Gov...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "5a3c2cedc386173a9c5dea3f1156366693a56e49d838e03b07e56dad2ea5c24f",
+                "score": 0.007907292,
+                "excerpt": "across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by LIFE and others to, among other things, analyze and track data, determi...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1518619206,
+            "url": "https://www.lifeintelligence.io/terms-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects identifiers, internet or other electronic network activity information, approximate geolocation data, inferences, and other personal information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "identifiers (such as name, contact information and device identifiers)",
+                        "internet or other electronic network activity information",
+                        "approximate geolocation data",
+                        "inferences (such as approximate location or product interests)",
+                        "other personal information (such as payment method information, user credentials or health-related information)"
+                    ]
+                }
+            },
+            "analysis": "The answer is based on the specific data types mentioned in the privacy policy under the 'Collection of Information' and 'Information Collected by Cookies and Similar Tracking Technologies' sections.",
+            "reference": "The app collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials or health-related information). URL: https://www.lifeintelligence.io/terms-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "43e220eb06cdfccb6424899c8be53725fa127b3ce8f7bfb90d13971936a72e88",
+                "score": 0.3926279,
+                "excerpt": "the case!).\nInformation Collected by Cookies and Similar Tracking Technologies: We use different technologies to collect information, including cookies and web beacons. Please see our Cookie Policy for more details.\nInformation We Collect from Other Sources\nWe also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "d7305dce637b743114c7a0d027e63a29679326849afac47f60c1db70e82dc312",
+                "score": 0.36670312,
+                "excerpt": "collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials or health-related information). For more details about the personal information we collect, including t...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "d072e312b3c905a876d9fa7b5fda2869b3c219ee2fed4489fff0a9a6d3508eeb",
+                "score": 0.17525558,
+                "excerpt": "or free trial expiration date, and time and date of the transaction.\nLog Information: We collect standard log files when you use our Services, which include the type of web browser you use, app version, access times and dates, pages viewed, your IP address, and the page you visited before navigating to our websites.\nDevice Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, device iden...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "ba172e81cc7239ae481cfa738c50108c8ab219e2d2bf531ca91c433cafa28139",
+                "score": 0.12560065,
+                "excerpt": "about you when you access or use our websites, mobile application, and other online products and services (collectively, the “Services”), and when you contact our customer service team, engage with us on social media, or otherwise interact with us.\nWe may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our website homepage...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "5a3c2cedc386173a9c5dea3f1156366693a56e49d838e03b07e56dad2ea5c24f",
+                "score": 0.09859886,
+                "excerpt": "across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by LIFE and others to, among other things, analyze and track data, determi...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1518619206,
+            "url": "https://www.lifeintelligence.io/terms-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states in its privacy policy that the information collected is used for various purposes such as providing, maintaining and improving services, processing transactions, communicating with users, monitoring activities, and preventing fraudulent transactions.",
+            "reference": "We use the information we collect to: Provide, maintain and improve our Services, and develop new products and service; Process transactions and fulfill orders; Send you transactional or relationship messages, such as receipts, account notifications, customer service responses, and other administrative messages; Communicate with you about products, services, and events offered by LIFE and others, request feedback, and send news, gifts or other information we think will be of interest to you; Monitor and analyze trends, usage, and activities in connection with our Services; Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of LIFE and others. URL: https://www.lifeintelligence.io/terms-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "43e220eb06cdfccb6424899c8be53725fa127b3ce8f7bfb90d13971936a72e88",
+                "score": 0.08993301,
+                "excerpt": "the case!).\nInformation Collected by Cookies and Similar Tracking Technologies: We use different technologies to collect information, including cookies and web beacons. Please see our Cookie Policy for more details.\nInformation We Collect from Other Sources\nWe also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "3607c08c2527f1eb5ab76fd790528555fc97d1daaf17cfb4866ddff3141028af",
+                "score": 0.05127242,
+                "excerpt": "comply with all applicable third-party terms of service when using the App.\nYou agree to comply with all U.S. and foreign export laws and regulations to ensure that neither the App nor any technical data related thereto nor any direct product thereof is exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. By using the App you represent and warrant that: (i) you are not located in a country that is subject to a U.S. Gov...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "4debda60db9ad284a9e9df8f5896ca8cea85a7a248f39feb83711456e7dbe166",
+                "score": 0.047691282,
+                "excerpt": "to provide the Services;\nInterfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;\nCollect or store any personally identifiable information from the Services from other users of the Services without their express permission;\nImpersonate or misrepresent your affiliation with any person or entity;\nViolate any applicable law or regulation; or\nEncourage or enabl...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "5a3c2cedc386173a9c5dea3f1156366693a56e49d838e03b07e56dad2ea5c24f",
+                "score": 0.019271137,
+                "excerpt": "across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by LIFE and others to, among other things, analyze and track data, determi...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "d7305dce637b743114c7a0d027e63a29679326849afac47f60c1db70e82dc312",
+                "score": 0.019160708,
+                "excerpt": "collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials or health-related information). For more details about the personal information we collect, including t...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1518619206,
+            "url": "https://www.lifeintelligence.io/terms-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the users have rights to access, correct, erase, or obtain their personal data in a portable form. They can object to certain processing, request processing restrictions, withdraw consent, and file complaints. These actions allow users to opt out of data collection or delete data.",
+            "reference": "You have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form. When we ask for your consent, you may withdraw that consent at any time. Please see this directory for contact details: https://edpb.europa.eu/about-edpb/board/members_en. If you are in Switzerland, please visit this FDPIC site for contact details: https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html. If you would like to exercise any of these rights and can’t do so directly via the Services or your device, you may contact us as indicated below. URL: https://www.lifeintelligence.io/terms-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "b66f28cd0fd89695d585c5aa1bf7de85fb6eed5e8392d68c6eb71a03dad89c0e",
+                "score": 0.8047131,
+                "excerpt": "conditions provided under law, you have the following rights:\nYou have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or made available in a portable form.\nYou also have the right to object to certain processing (like receiving direct marketing), or request that we restrict processing in certain circumstances (like to retain but not further process pending resolution of a claim).\nWhen we ask for your consent, you may withdraw that con...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "98e6af19b598106af9a3caae8aa8c43044d2b4456371e7cec05282646c09a4c3",
+                "score": 0.4027444,
+                "excerpt": "(and will not sell it in the future without providing a right to opt out).\nCalifornia consumers may make a rights request by emailing us at team@lifeintelligence.io. We will verify your request by asking you to provide information that matches information we have on file about you. Consumers can also designate an authorized agent to exercise these rights on their behalf, but we will require proof that the person is authorized to act on your behalf and may also still ask you to verify your identi...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "d7305dce637b743114c7a0d027e63a29679326849afac47f60c1db70e82dc312",
+                "score": 0.35835305,
+                "excerpt": "collected the following categories of personal information: identifiers (such as name, contact information and device identifiers), internet or other electronic network activity information (such as browsing behavior), approximate geolocation data, inferences (such as approximate location or product interests) and other personal information (such as payment method information, user credentials or health-related information). For more details about the personal information we collect, including t...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "258d34e2275429801ab7a79d39ce369afd517e3abd9d1b351ee80a75957fe446",
+                "score": 0.2338813,
+                "excerpt": "having certain information collected through apps used for behavioral advertising purposes.\nData Transfer\nLIFE is based in the United States and processes information in the United States, which may not provide equivalent levels of data protection as your home jurisdiction.\nYour Choices\nAccount Information\nYou may update certain account information you provide to us (such as your password, name and email address) by logging into your account or contacting us through our Help Center at team@lifei...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "5a3c2cedc386173a9c5dea3f1156366693a56e49d838e03b07e56dad2ea5c24f",
+                "score": 0.18155324,
+                "excerpt": "across the web and in mobile applications. These entities use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and online services, including your IP address, device identifiers, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and conversion information. This information may be used by LIFE and others to, among other things, analyze and track data, determi...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1518619206,
+            "url": "https://www.lifeintelligence.io/terms-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares aggregated or other information not subject to obligations under the data protection laws with third parties, such as research organizations. Additionally, analytics services and advertisements are provided by others on behalf of the app.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app shares aggregated information with research organizations and allows others to provide analytics services and serve advertisements on its behalf, indicating data sharing with third parties.",
+            "reference": "We also share aggregated or other information not subject to obligations under the data protection laws of your jurisdiction with third parties. For example, we sometimes share aggregate information with research organizations to help facilitate their research. Advertising and Analytics Services Provided by Others. URL: https://www.lifeintelligence.io/terms-privacy"
+        },
+        "source_documents": [
+            {
+                "id": "3607c08c2527f1eb5ab76fd790528555fc97d1daaf17cfb4866ddff3141028af",
+                "score": 0.8533026,
+                "excerpt": "comply with all applicable third-party terms of service when using the App.\nYou agree to comply with all U.S. and foreign export laws and regulations to ensure that neither the App nor any technical data related thereto nor any direct product thereof is exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. By using the App you represent and warrant that: (i) you are not located in a country that is subject to a U.S. Gov...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "bef65a38ce609c29e338c527bdf42748fa7fdb3eba75ab1ce4a9c97a2d530655",
+                "score": 0.72661966,
+                "excerpt": "claims of any third party relating to the App or your possession and use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.\nIn the event of any third-party claim that the App or your possession and use of the App infringes that third party’s intellectual property rights, LIFE will be solely responsible for...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "43e220eb06cdfccb6424899c8be53725fa127b3ce8f7bfb90d13971936a72e88",
+                "score": 0.573559,
+                "excerpt": "the case!).\nInformation Collected by Cookies and Similar Tracking Technologies: We use different technologies to collect information, including cookies and web beacons. Please see our Cookie Policy for more details.\nInformation We Collect from Other Sources\nWe also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "bf725b7e96ab123efaba8a7ac6d7716230016935c50f1d42f560a7f20634fc89",
+                "score": 0.55886877,
+                "excerpt": "security or law enforcement requirements;\nIf we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of LIFE or others;\nIn connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;\nBetween and among LIFE and our current and future parents, affiliates, subsidiaries, and other companies ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "4debda60db9ad284a9e9df8f5896ca8cea85a7a248f39feb83711456e7dbe166",
+                "score": 0.30197924,
+                "excerpt": "to provide the Services;\nInterfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;\nCollect or store any personally identifiable information from the Services from other users of the Services without their express permission;\nImpersonate or misrepresent your affiliation with any person or entity;\nViolate any applicable law or regulation; or\nEncourage or enabl...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1518619206,
+            "url": "https://www.lifeintelligence.io/terms-privacy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with companies and contractors that perform services for them, including email service providers, payment processors, fraud prevention vendors, and other service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "companies and contractors that perform services for them, including email service providers, payment processors, fraud prevention vendors, and other service providers"
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with various companies and contractors for different services.",
+            "reference": "We share information about you as follows and as otherwise described in this Privacy Policy: With companies and contractors that perform services for us, including email service providers, payment processors, fraud prevention vendors and other service providers; URL: https://www.lifeintelligence.io/terms-privacy."
+        },
+        "source_documents": [
+            {
+                "id": "bef65a38ce609c29e338c527bdf42748fa7fdb3eba75ab1ce4a9c97a2d530655",
+                "score": 0.8494724,
+                "excerpt": "claims of any third party relating to the App or your possession and use of the App, including, but not limited to: (i) product liability claims; (ii) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation.\nIn the event of any third-party claim that the App or your possession and use of the App infringes that third party’s intellectual property rights, LIFE will be solely responsible for...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "3607c08c2527f1eb5ab76fd790528555fc97d1daaf17cfb4866ddff3141028af",
+                "score": 0.76454014,
+                "excerpt": "comply with all applicable third-party terms of service when using the App.\nYou agree to comply with all U.S. and foreign export laws and regulations to ensure that neither the App nor any technical data related thereto nor any direct product thereof is exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations. By using the App you represent and warrant that: (i) you are not located in a country that is subject to a U.S. Gov...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "bf725b7e96ab123efaba8a7ac6d7716230016935c50f1d42f560a7f20634fc89",
+                "score": 0.6494675,
+                "excerpt": "security or law enforcement requirements;\nIf we believe your actions are inconsistent with our user agreements or policies, if we believe you have violated the law, or to protect the rights, property, and safety of LIFE or others;\nIn connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;\nBetween and among LIFE and our current and future parents, affiliates, subsidiaries, and other companies ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "3449816728287cb564de749abd278119cd3905f3214bda0dc11b93c15be1ab0b",
+                "score": 0.6173396,
+                "excerpt": "gifts or other information we think will be of interest to you;\nMonitor and analyze trends, usage, and activities in connection with our Services;\nDetect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of LIFE and others. If you feel your transaction was declined in error, please contact us for assistance at team@lifeintelligence.io.\nComply with the law, such as by processing transactional records for tax filings;\nPersonalize your...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            },
+            {
+                "id": "43e220eb06cdfccb6424899c8be53725fa127b3ce8f7bfb90d13971936a72e88",
+                "score": 0.4422149,
+                "excerpt": "the case!).\nInformation Collected by Cookies and Similar Tracking Technologies: We use different technologies to collect information, including cookies and web beacons. Please see our Cookie Policy for more details.\nInformation We Collect from Other Sources\nWe also obtain information about you from other sources, including transaction information from third-party app stores you use to install our app or purchase a subscription and name and contact information from third-party calendar services. ...",
+                "url": "https://www.lifeintelligence.io/terms-privacy"
+            }
+        ]
+    }
+]

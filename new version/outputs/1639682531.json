@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 1639682531,
+            "url": "https://www.mindswitch.ch/eng/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app collects data of the users to provide the application's functionalities, monitor security, and for further development. It also states that communication may be necessary for administration or use of the application.",
+            "reference": "The processing of data necessary for the provision of the functionalities of the application serves to fulfil contractual obligations. This also applies if the provision of the functions requires user authorisation. If the processing of data is not necessary for the provision of the functionalities of the application, but serves the security of the application or business interests, it is carried out on the basis of legitimate interests. URL: https://www.mindswitch.ch/eng/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f2fe977d533685c7df9702f0c418b02e39b659d077c9c40ac878e9844ac4dc42",
+                "score": 0.12940273,
+                "excerpt": "data of the users of our application to the extent necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. Furthermore, we may contact users in compliance with the statutory provisions if communication is necessary for the purposes of administration or use of the application. In addition, we refer to the data protection information in this privacy policy with regard to the processing of user data.\nLegal basis: The processing...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "24641b29cee1611e8f306ef439b15d58aa14b5aae5b9dc1edb12f9e87c98e13b",
+                "score": 0.015365342,
+                "excerpt": "Privacy Policy\nPreamble\nWith the following privacy policy we would like to inform you which types of your personal data (hereinafter also abbreviated as \"data\") we process for which purposes and in which scope. The privacy statement applies to all processing of personal data carried out by us, both in the context of providing our services and in particular on our websites, in mobile applications and within external online presences, such as our social media profiles (hereinafter collectively ref...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "d902ec4ed1ee942be416798573cce097e99059f1167e3ccbfcd4ca56d37a4f95",
+                "score": 0.013636836,
+                "excerpt": "Facebook Data Policy: https://www.facebook.com/policy). As explained in the Facebook Data Policy under \"How we use this information?\" Facebook also collects and uses information to provide analytics services, known as \"page insights,\" to site operators to help them understand how people interact with their pages and with content associated with them. We have concluded a special agreement with Facebook (\"Information about Page-Insights\", https://www.facebook.com/legal/terms/page_controller_addend...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "73c5e68970744d301dce4039ce0698495d922ad761eee5f557bed98a99ed616c",
+                "score": 0.012722708,
+                "excerpt": "requested to give their consent to the processing of their data, the data covered by the consent is processed on the basis of the consent.\n- Processed data types: Inventory data (e.g. names, addresses); Meta/communication data (e.g. device information, IP addresses); Payment Data (e.g. bank details, invoices, payment history); Contract data (e.g. contract object, duration, customer category).\n- Data subjects: Users (e.g. website visitors, users of online services).\n- Purposes of Processing: Prov...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "9205490b5934f22d55a90a36bbe2bca9ff7e0695f5368a486bb82e99cce2f405",
+                "score": 0.012576348,
+                "excerpt": "visited, interest in content, access times); Meta/communication data (e.g. device information, IP addresses).\n- Data subjects: Users (e.g. website visitors, users of online services).\n- Purposes of Processing: Contact requests and communication; Feedback (e.g. collecting feedback via online form); Marketing.\n- Legal Basis: Legitimate Interests (Article 6 (1) (f) GDPR).\nFurther information on processing methods, procedures and services used:\n- Instagram: Social network; Service provider: Instagra...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1639682531,
+            "url": "https://www.mindswitch.ch/eng/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Inventory data (e.g. names, addresses), Meta/communication data (e.g. device information, IP addresses), Payment Data (e.g. bank details, invoices, payment history), and Contract data (e.g. contract object, duration, customer category).",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Inventory data (e.g. names, addresses)",
+                        "Meta/communication data (e.g. device information, IP addresses)",
+                        "Payment Data (e.g. bank details, invoices, payment history)",
+                        "Contract data (e.g. contract object, duration, customer category)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document outlines the types of data collected by the app, including Inventory data, Meta/communication data, Payment Data, and Contract data.",
+            "reference": "Processed data types: Inventory data (e.g. names, addresses); Meta/communication data (e.g. device information, IP addresses); Payment Data (e.g. bank details, invoices, payment history); Contract data (e.g. contract object, duration, customer category). URL: https://www.mindswitch.ch/eng/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f2fe977d533685c7df9702f0c418b02e39b659d077c9c40ac878e9844ac4dc42",
+                "score": 0.5542895,
+                "excerpt": "data of the users of our application to the extent necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. Furthermore, we may contact users in compliance with the statutory provisions if communication is necessary for the purposes of administration or use of the application. In addition, we refer to the data protection information in this privacy policy with regard to the processing of user data.\nLegal basis: The processing...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "73c5e68970744d301dce4039ce0698495d922ad761eee5f557bed98a99ed616c",
+                "score": 0.547706,
+                "excerpt": "requested to give their consent to the processing of their data, the data covered by the consent is processed on the basis of the consent.\n- Processed data types: Inventory data (e.g. names, addresses); Meta/communication data (e.g. device information, IP addresses); Payment Data (e.g. bank details, invoices, payment history); Contract data (e.g. contract object, duration, customer category).\n- Data subjects: Users (e.g. website visitors, users of online services).\n- Purposes of Processing: Prov...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "741ca94824ab730048b2cbc8e327df525bdcac995c46dc9827703aff2e442a42",
+                "score": 0.44299787,
+                "excerpt": "a contract and prior requests (Article 6 (1) (b) GDPR); Legitimate Interests (Article 6 (1) (f) GDPR).\nFurther information on processing methods, procedures and services used:\n- Apple Single-Sign-On: Authentication service; Service provider: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; Website: https://www.apple.com; Privacy Policy: https://www.apple.com/legal/privacy/en-ww/.\n- Google Single-Sign-On: Authentication service; Service provider: Google Ireland Limited, Gordon House, Barrow S...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "24641b29cee1611e8f306ef439b15d58aa14b5aae5b9dc1edb12f9e87c98e13b",
+                "score": 0.2985936,
+                "excerpt": "Privacy Policy\nPreamble\nWith the following privacy policy we would like to inform you which types of your personal data (hereinafter also abbreviated as \"data\") we process for which purposes and in which scope. The privacy statement applies to all processing of personal data carried out by us, both in the context of providing our services and in particular on our websites, in mobile applications and within external online presences, such as our social media profiles (hereinafter collectively ref...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "2180a5c5ab2cbfdc869ed4cea23499cc2c65aafb3476299eb0696f82912ec96d",
+                "score": 0.2782568,
+                "excerpt": "Media)\n- Changes and Updates to the Privacy Policy\n- Rights of Data Subjects\n- Terminology and Definitions\nController\nAndre Schenker\nMind Switch AG\nGruenaustrasse 6\n8953 Dietikon\nSchweiz\nContact: Contact Form\nOverview of processing operations\nThe following table summarises the types of data processed, the purposes for which they are processed and the concerned data subjects.\nCategories of Processed Data\n- Inventory data.\n- Payment Data.\n- Contact data.\n- Content data.\n- Contract data.\n- Usage da...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1639682531,
+            "url": "https://www.mindswitch.ch/eng/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that data of the users is collected to provide the application and its functionalities, monitor security, and for further development. It also states that users may be contacted for administration or use purposes.",
+            "reference": "The app declares the purpose of data collection and use to the extent necessary to provide the users with the application and its functionalities, monitor its security, and develop it further. Furthermore, users may be contacted in compliance with statutory provisions if communication is necessary for administration or use purposes. URL: https://www.mindswitch.ch/eng/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "f2fe977d533685c7df9702f0c418b02e39b659d077c9c40ac878e9844ac4dc42",
+                "score": 0.31289464,
+                "excerpt": "data of the users of our application to the extent necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. Furthermore, we may contact users in compliance with the statutory provisions if communication is necessary for the purposes of administration or use of the application. In addition, we refer to the data protection information in this privacy policy with regard to the processing of user data.\nLegal basis: The processing...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "9205490b5934f22d55a90a36bbe2bca9ff7e0695f5368a486bb82e99cce2f405",
+                "score": 0.2683658,
+                "excerpt": "visited, interest in content, access times); Meta/communication data (e.g. device information, IP addresses).\n- Data subjects: Users (e.g. website visitors, users of online services).\n- Purposes of Processing: Contact requests and communication; Feedback (e.g. collecting feedback via online form); Marketing.\n- Legal Basis: Legitimate Interests (Article 6 (1) (f) GDPR).\nFurther information on processing methods, procedures and services used:\n- Instagram: Social network; Service provider: Instagra...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "2fdb76708da12340eb0f83f51eccc2444d747b7978abe5c122dfaca3d3eb90f7",
+                "score": 0.13741668,
+                "excerpt": "to the interests of the users. For these purposes, cookies are usually stored on the user's computer, in which the user's usage behaviour and interests are stored. Furthermore, data can be stored in the user profiles independently of the devices used by the users (especially if the users are members of the respective networks or will become members later on).\nFor a detailed description of the respective processing operations and the opt-out options, please refer to the respective data protection...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "b693e78c7541577e6b8392cbedd9d762d7548684767ec11727133ee6d2adb9bc",
+                "score": 0.11357959,
+                "excerpt": "at any time using the notification settings of their respective browsers or end devices.\n- Purposes of Processing: Provision of contractual services and customer support.\n- Legal Basis: Consent (Article 6 (1) (a) GDPR); Performance of a contract and prior requests (Article 6 (1) (b) GDPR).\nFurther information on processing methods, procedures and services used:\n- Firebase: Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, parent company: Google LLC, 1600 A...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "73c5e68970744d301dce4039ce0698495d922ad761eee5f557bed98a99ed616c",
+                "score": 0.10230471,
+                "excerpt": "requested to give their consent to the processing of their data, the data covered by the consent is processed on the basis of the consent.\n- Processed data types: Inventory data (e.g. names, addresses); Meta/communication data (e.g. device information, IP addresses); Payment Data (e.g. bank details, invoices, payment history); Contract data (e.g. contract object, duration, customer category).\n- Data subjects: Users (e.g. website visitors, users of online services).\n- Purposes of Processing: Prov...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1639682531,
+            "url": "https://www.mindswitch.ch/eng/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions the user's right to object to the processing of personal data and the right to revoke consents at any time, indicating that users can opt out of data collection or delete data.",
+            "reference": "You have the right to revoke consents at any time. URL: https://www.mindswitch.ch/eng/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "8b7868584a5f73600e0db583dc01ebb9574d56ac0546f50ae9a170d24e133591",
+                "score": 0.5043639,
+                "excerpt": "have the right, on grounds arising from your particular situation, to object at any time to the processing of your personal data which is based on letter (e) or (f) of Article 6(1) GDPR, including profiling based on those provisions. Where personal data are processed for direct marketing purposes, you have the right to object at any time to the processing of the personal data concerning you for the purpose of such marketing, which includes profiling to the extent that it is related to such direc...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "b693e78c7541577e6b8392cbedd9d762d7548684767ec11727133ee6d2adb9bc",
+                "score": 0.46800032,
+                "excerpt": "at any time using the notification settings of their respective browsers or end devices.\n- Purposes of Processing: Provision of contractual services and customer support.\n- Legal Basis: Consent (Article 6 (1) (a) GDPR); Performance of a contract and prior requests (Article 6 (1) (b) GDPR).\nFurther information on processing methods, procedures and services used:\n- Firebase: Service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, parent company: Google LLC, 1600 A...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "e89105b0703095551616738a28fe9b9571841ca6f4de87bbdd605b94b2802586",
+                "score": 0.35197902,
+                "excerpt": "between the following types of cookies:\n- Temporary cookies (also known as \"session cookies\"): Temporary cookies are deleted at the latest after a user has left an online service and closed his or her end device (i.e. browser or mobile application).\n- Permanent cookies: Permanent cookies remain stored even after the terminal device is closed. For example, the login status can be saved, or preferred content can be displayed directly when the user visits a website again. Likewise, user data collec...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "d2c6b909e5b3622daf4d4407e54f96a2391f159cf7b2c68ede52988c58c0e3f9",
+                "score": 0.2507293,
+                "excerpt": "up to three years on the basis of our legitimate interests before we delete them. The processing of these data is limited to the purpose of a possible defense against claims. An individual deletion request is possible at any time, provided that the former existence of a consent is affirmed.\n- Processed data types: Inventory data (e.g. names, addresses); Contact data (e.g. e-mail, telephone numbers).\n- Data subjects: Communication partner (Recipients of e-mails, letters, etc.).\n- Purposes of Proc...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "2fdb76708da12340eb0f83f51eccc2444d747b7978abe5c122dfaca3d3eb90f7",
+                "score": 0.22135067,
+                "excerpt": "to the interests of the users. For these purposes, cookies are usually stored on the user's computer, in which the user's usage behaviour and interests are stored. Furthermore, data can be stored in the user profiles independently of the devices used by the users (especially if the users are members of the respective networks or will become members later on).\nFor a detailed description of the respective processing operations and the opt-out options, please refer to the respective data protection...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1639682531,
+            "url": "https://www.mindswitch.ch/eng/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No data is shared with third parties except when necessary to pursue claims or due to legal obligations.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that data is not shared with third parties unless required for legal obligations or specific purposes such as pursuing claims.",
+            "reference": "This data will not be passed on to third parties unless it is necessary to pursue our claims or there is a legal obligation to do so. URL: https://www.mindswitch.ch/eng/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "2fbf0e2c5ab691abdd5e9bc3260ee7fd910fbf110370ec8f68a7d93fce82ec81",
+                "score": 0.3226327,
+                "excerpt": "login functions as well as the use of the user account, we store the IP address and the time of the respective user action. The storage is based on our legitimate interests, as well as the user's protection against misuse and other unauthorized use. This data will not be passed on to third parties unless it is necessary to pursue our claims or there is a legal obligation to do so.\nUsers may be informed by e-mail of information relevant to their user account, such as technical changes.\n- Processe...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "d94784fef3ec3f1932bf09df445403e86009de3417a3c1b86cbbf0c775e2c588",
+                "score": 0.19528697,
+                "excerpt": "component of our (pre)contractual services, provided that the use of the third party was agreed within this context. Otherwise, user data will be processed on the basis of our legitimate interests (i.e. interest in efficient, economic and recipient friendly services). In this context, we would also like to refer you to the information on the use of cookies in this privacy policy.\n- Processed data types: Usage data (e.g. websites visited, interest in content, access times); Meta/communication dat...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "aeab6dcc0f7f673c2e9c33f32cbe2d727934743f74c9ba2ad461676079355ff5",
+                "score": 0.10447732,
+                "excerpt": "be granted by the user and can be revoked at any time in the settings of the respective devices. The exact procedure for controlling app permissions may depend on the user's device and software. Users can contact us if they require further explanation. We would like to point out that the refusal or revocation of the respective authorizations can affect the functionality of our application.\nPurchase of applications via Appstores\nThe purchase of our apps is done via special online platforms operat...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "ad0532db6d2b0bb4acfc735335b33396b0b0f43370e4ddc12667abed326bb949",
+                "score": 0.083740406,
+                "excerpt": "data in third countries): https://www.facebook.com/legal/EU_data_transfer_addendum; Further Information: Joint Controllership Agreement: https://www.facebook.com/legal/terms/information_about_page_insights_data.\n- LinkedIn: Social network; Service provider: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland; Website: https://www.linkedin.com; Privacy Policy: https://www.linkedin.com/legal/privacy-policy; Data Processing Agreement: https://legal.linkedin.com/dpa; Standard Contrac...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "f2fe977d533685c7df9702f0c418b02e39b659d077c9c40ac878e9844ac4dc42",
+                "score": 0.07544843,
+                "excerpt": "data of the users of our application to the extent necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. Furthermore, we may contact users in compliance with the statutory provisions if communication is necessary for the purposes of administration or use of the application. In addition, we refer to the data protection information in this privacy policy with regard to the processing of user data.\nLegal basis: The processing...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1639682531,
+            "url": "https://www.mindswitch.ch/eng/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app may share data with service providers commissioned with IT tasks or providers of services and content embedded in a website",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "service providers commissioned with IT tasks",
+                        "providers of services and content embedded in a website"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions that data may be transferred to service providers commissioned with IT tasks or providers of services and content embedded in a website, with legal requirements and contracts in place to protect the data.",
+            "reference": "Recipients of this data may include...legal requirements will be respected...with the recipients of your data. URL: https://www.mindswitch.ch/eng/privacy-policy",
+            "URL": "https://www.mindswitch.ch/eng/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "2fbf0e2c5ab691abdd5e9bc3260ee7fd910fbf110370ec8f68a7d93fce82ec81",
+                "score": 0.4461327,
+                "excerpt": "login functions as well as the use of the user account, we store the IP address and the time of the respective user action. The storage is based on our legitimate interests, as well as the user's protection against misuse and other unauthorized use. This data will not be passed on to third parties unless it is necessary to pursue our claims or there is a legal obligation to do so.\nUsers may be informed by e-mail of information relevant to their user account, such as technical changes.\n- Processe...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "a50c57357c07e64679323b265a8ab6989f2b522405f97c31e9c40f4746523e7e",
+                "score": 0.37364724,
+                "excerpt": "of Personal Data\nIn the context of our processing of personal data, it may happen that the data is transferred to other places, companies or persons or that it is disclosed to them. Recipients of this data may include, for example, service providers commissioned with IT tasks or providers of services and content that are embedded in a website. In such a case, the legal requirements will be respected and in particular corresponding contracts or agreements, which serve the protection of your data,...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "ad0532db6d2b0bb4acfc735335b33396b0b0f43370e4ddc12667abed326bb949",
+                "score": 0.2961451,
+                "excerpt": "data in third countries): https://www.facebook.com/legal/EU_data_transfer_addendum; Further Information: Joint Controllership Agreement: https://www.facebook.com/legal/terms/information_about_page_insights_data.\n- LinkedIn: Social network; Service provider: LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland; Website: https://www.linkedin.com; Privacy Policy: https://www.linkedin.com/legal/privacy-policy; Data Processing Agreement: https://legal.linkedin.com/dpa; Standard Contrac...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "741ca94824ab730048b2cbc8e327df525bdcac995c46dc9827703aff2e442a42",
+                "score": 0.26038948,
+                "excerpt": "a contract and prior requests (Article 6 (1) (b) GDPR); Legitimate Interests (Article 6 (1) (f) GDPR).\nFurther information on processing methods, procedures and services used:\n- Apple Single-Sign-On: Authentication service; Service provider: Apple Inc., Infinite Loop, Cupertino, CA 95014, USA; Website: https://www.apple.com; Privacy Policy: https://www.apple.com/legal/privacy/en-ww/.\n- Google Single-Sign-On: Authentication service; Service provider: Google Ireland Limited, Gordon House, Barrow S...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            },
+            {
+                "id": "aeab6dcc0f7f673c2e9c33f32cbe2d727934743f74c9ba2ad461676079355ff5",
+                "score": 0.14414886,
+                "excerpt": "be granted by the user and can be revoked at any time in the settings of the respective devices. The exact procedure for controlling app permissions may depend on the user's device and software. Users can contact us if they require further explanation. We would like to point out that the refusal or revocation of the respective authorizations can affect the functionality of our application.\nPurchase of applications via Appstores\nThe purchase of our apps is done via special online platforms operat...",
+                "url": "https://www.mindswitch.ch/eng/privacy-policy"
+            }
+        ]
+    }
+]

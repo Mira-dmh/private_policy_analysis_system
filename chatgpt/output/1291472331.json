@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1291472331,
+      "url": "https://kognito.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It explains that information is collected in three main ways: information provided directly by users, information collected automatically through technology, and information collected from other sources.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The policy outlines various categories of information collected, including contact information, financial information, sensory information, demographic information, geolocation information, professional information, educational information, and sensitive information.",
+          "content": "The information we collect about you depends on the Services you use, how you use them, and the information you provide to us. We collect information in three main ways: (1) information you provide directly to us; (2) information we collect automatically through technology when you use the Services; and (3) information we collect from other sources."
+        }
+      },
+      "analysis": "",
+      "reference": "The Information We Collect and Its Sources"
+    }
+  },
+  {
+    "meta": {
+      "id": 1291472331,
+      "url": "https://kognito.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including: contact and account identifiers (name, address, telephone number, email address, and login credentials), commercial and financial information (financial account information and purchase history), sensory information (video and voice recordings), demographic information (interests, preferences, age, and gender), geolocation information (general location from IP address or precise GPS location with consent), professional or employment-related information (educational background, résumé, work hours), educational information (test results, grades, clinical activities), protected classification information (race or ethnicity), and inference information (derived interests and behaviors).",
+        "simple_answer": "The app collects contact information, financial data, sensory data, demographic data, geolocation data, professional information, educational information, protected classification information, and inference information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of personal and sensitive information.",
+          "content": "Types of data collected include identifiers, financial information, sensory data, demographics, geolocation, professional details, educational records, and sensitive classifications."
+        }
+      },
+      "analysis": "",
+      "reference": "The Information We Collect and Its Sources"
+    }
+  },
+  {
+    "meta": {
+      "id": 1291472331,
+      "url": "https://kognito.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It explains that the information collected is used to provide services, improve user experience, and for other business purposes as outlined in the privacy policy.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy specifies how the collected information is utilized.",
+          "content": "The policy states that the information collected is used to provide the Services, improve user experience, and for other business purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the purposes for which data is collected and used, ensuring transparency for users.",
+      "reference": "How We Use Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1291472331,
+      "url": "https://kognito.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the option to opt out of certain data collection practices and can request deletion of their data. The policy mentions that users can exercise their rights regarding their information, including opting out of data collection and requesting deletion, as outlined in the 'Your Rights' section.",
+        "simple_answer": "Yes, users can opt out and request data deletion.",
+        "extended_simple_answer": {
+          "comment": "Users have rights regarding their personal information, including opting out of data collection and requesting deletion.",
+          "content": "The policy provides users with the ability to exercise their rights concerning their information, which includes opting out of certain data collection practices and requesting the deletion of their data."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have rights regarding their personal information, which includes the ability to opt out of data collection and request deletion of their data.",
+      "reference": "Your Rights"
+    }
+  },
+  {
+    "meta": {
+      "id": 1291472331,
+      "url": "https://kognito.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with third parties as described in the privacy policy. This includes sharing information with service providers, business partners, and other third parties for various purposes, including analytics and advertising.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is done in accordance with the privacy policy and applicable laws.",
+          "content": "The privacy policy outlines how information may be disclosed to third parties, including for analytics and advertising purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly states that data may be shared with third parties, which is a common practice for many apps and services to enhance functionality and provide targeted advertising.",
+      "reference": "How We Disclose Your Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1291472331,
+      "url": "https://kognito.com/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify the exact third parties with whom the app shares data. However, it mentions that information may be shared with third-party service providers, such as payment processors, who assist in processing transactions and providing services. Additionally, it states that Ascend may disclose information to comply with legal obligations, protect rights, and for other business purposes.",
+        "simple_answer": "The app shares data with third-party service providers, such as payment processors.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that while specific third parties are not listed, data may be shared with those who assist in service delivery.",
+          "content": "Information may be shared with third-party service providers for transaction processing and other services, as well as for legal compliance and business purposes."
+        }
+      },
+      "analysis": "The privacy policy provides a general overview of data sharing practices but lacks specific details on third-party entities.",
+      "reference": "How We Disclose Your Information"
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+    {
+        "meta": {
+            "id": 6473851170,
+            "url": "https://app.violenceinterventionprogram.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that personal information and personal health information is collected, which indicates that data collection is declared.",
+            "reference": "This means personal information and personal health information is collected by OnCall Health. This information is highly sensitive and protected by the Health Insurance Portability and Accountability Act (HIPAA) and all equivalent personal health information protection legislation throughout the United States. OnCall Health is committed to safeguard it at the corresponding level.URL: https://app.violenceinterventionprogram.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "f122c706d36d530353279a5e08a5b9704233a344542ece686835bef0379cb4bb",
+                "score": 0.0140636265,
+                "excerpt": "Violence Intervention Program Community Mental Health Center Privacy Policy\nViolence Intervention Program Community Mental Health Center Privacy Policy\nOnCall Health built the Violence Intervention Program Community Mental Health Center app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. T...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "b210479d7b7795e2e9b4ec474ea226d9fcdf3b29f68ae5a36ffdc14a8ba3483f",
+                "score": 0.003991728,
+                "excerpt": "information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or servi...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "ea125ff01db89435399047de044e8030e83a3f9f78c563131ca0c5360b3fcbda",
+                "score": 0.00072932884,
+                "excerpt": "to an identifiable individual, to the exclusion of business contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "0ca79747374b6c9b1be3cb4e0b8f015328eaa9ffb8298b3908e8710a84813969",
+                "score": 0.0005442133,
+                "excerpt": "information.\nOnCall Health completes background checks on all employees before starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "3abb47926e44e62da5a096c25eedd7760a66259da366166d3a471390895abf1c",
+                "score": 0.0003125878,
+                "excerpt": "number (if applicable).\nFrom patients: When consulting their own health care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473851170,
+            "url": "https://app.violenceinterventionprogram.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects name (or initials), email, date and time of appointment, written instructions, files attached during or after the appointment, results of interactive forms and assessments.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name (or initials) and email of the patient",
+                        "Date and time of the appointment",
+                        "Written instructions by the provider",
+                        "Files attached by the provider or patient during or after the appointment",
+                        "Results of interactive forms and assessments"
+                    ]
+                }
+            },
+            "analysis": "The answer is generated by extracting the specific types of data mentioned in the 'What we collect' section of the privacy policy document.",
+            "reference": "From patients: When consulting their own health care provider registered with OnCall Health, we collect: • Name (or initials) and email of the patient • Date and time of the appointment • Any written instructions by the provider added to the 'notes for patient' after the appointment • Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents. • In some cases, results of interactive forms and assessments that are assigned and completed through the system. URL: https://app.violenceinterventionprogram.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "f122c706d36d530353279a5e08a5b9704233a344542ece686835bef0379cb4bb",
+                "score": 0.100524865,
+                "excerpt": "Violence Intervention Program Community Mental Health Center Privacy Policy\nViolence Intervention Program Community Mental Health Center Privacy Policy\nOnCall Health built the Violence Intervention Program Community Mental Health Center app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. T...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "b210479d7b7795e2e9b4ec474ea226d9fcdf3b29f68ae5a36ffdc14a8ba3483f",
+                "score": 0.07640768,
+                "excerpt": "information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or servi...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "ea125ff01db89435399047de044e8030e83a3f9f78c563131ca0c5360b3fcbda",
+                "score": 0.028328313,
+                "excerpt": "to an identifiable individual, to the exclusion of business contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "3abb47926e44e62da5a096c25eedd7760a66259da366166d3a471390895abf1c",
+                "score": 0.018978037,
+                "excerpt": "number (if applicable).\nFrom patients: When consulting their own health care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "0ca79747374b6c9b1be3cb4e0b8f015328eaa9ffb8298b3908e8710a84813969",
+                "score": 0.002472623,
+                "excerpt": "information.\nOnCall Health completes background checks on all employees before starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473851170,
+            "url": "https://app.violenceinterventionprogram.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the purpose of data collection and use ensuring transparency about how personal and personal health information is handled.",
+            "reference": "This Policy describes the physical, technological and administrative measures we implement to safeguard personal and personal health information. We comply with privacy law and we honor the trust of our users by taking every necessary measure to protect personal and personal health information. By law, personal information is information that relates to an identifiable individual, to the exclusion of business contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. URL: https://app.violenceinterventionprogram.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "f122c706d36d530353279a5e08a5b9704233a344542ece686835bef0379cb4bb",
+                "score": 0.0046455576,
+                "excerpt": "Violence Intervention Program Community Mental Health Center Privacy Policy\nViolence Intervention Program Community Mental Health Center Privacy Policy\nOnCall Health built the Violence Intervention Program Community Mental Health Center app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. T...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "b210479d7b7795e2e9b4ec474ea226d9fcdf3b29f68ae5a36ffdc14a8ba3483f",
+                "score": 0.002631674,
+                "excerpt": "information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or servi...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "0ca79747374b6c9b1be3cb4e0b8f015328eaa9ffb8298b3908e8710a84813969",
+                "score": 0.0025212683,
+                "excerpt": "information.\nOnCall Health completes background checks on all employees before starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "ea125ff01db89435399047de044e8030e83a3f9f78c563131ca0c5360b3fcbda",
+                "score": 0.00080095365,
+                "excerpt": "to an identifiable individual, to the exclusion of business contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "8c7bfacd0ebb47eca450664b1b3fe969fa532b61ab438d07aa54bc9fb0a0ca84",
+                "score": 0.00033015275,
+                "excerpt": "well as through the availability of our Designated Privacy Contact, [email protected] and subjects use of OnCall Health secure video consultation to the following patient consent form.\nTo proceed with registration for OnCall Health secure video consultations, a patient must complete this consent form. OnCall Health Secure Consultation Patient Consent Form I agree to OnCall Health secure video or text consultation with a health care provider on the basis of the following information: OnCall Healt...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473851170,
+            "url": "https://app.violenceinterventionprogram.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that users have the option to close their account immediately upon request and have all personal information destroyed or anonymized. This indicates that users can opt out of data collection or delete their data.",
+            "reference": "OnCall Health closes accounts immediately upon request and destroys or anonymizes all personal information. URL: https://app.violenceinterventionprogram.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "b210479d7b7795e2e9b4ec474ea226d9fcdf3b29f68ae5a36ffdc14a8ba3483f",
+                "score": 0.014227047,
+                "excerpt": "information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or servi...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "8c7bfacd0ebb47eca450664b1b3fe969fa532b61ab438d07aa54bc9fb0a0ca84",
+                "score": 0.007785655,
+                "excerpt": "well as through the availability of our Designated Privacy Contact, [email protected] and subjects use of OnCall Health secure video consultation to the following patient consent form.\nTo proceed with registration for OnCall Health secure video consultations, a patient must complete this consent form. OnCall Health Secure Consultation Patient Consent Form I agree to OnCall Health secure video or text consultation with a health care provider on the basis of the following information: OnCall Healt...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "ff7cb3b22e5fcb19f6d6bf79681fb45601f1f95775d9758fc58c19a7c6ce2bf8",
+                "score": 0.0068239546,
+                "excerpt": "is no longer necessary to deliver service. OnCall Health employees can only gain technological access to personal information or personal health information collected by OnCall Health:\n• With a robust password, based on required elements.\n• Upon authorization, granted strictly on a need-to-know basis, defined according to job requirements.\nAccess is monitored through technological audit trails. Audit trails are regularly reviewed to ensure compliance.\nAdministrative measures\nOnCall Health has ap...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "ea125ff01db89435399047de044e8030e83a3f9f78c563131ca0c5360b3fcbda",
+                "score": 0.0060739345,
+                "excerpt": "to an identifiable individual, to the exclusion of business contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "f122c706d36d530353279a5e08a5b9704233a344542ece686835bef0379cb4bb",
+                "score": 0.0041179177,
+                "excerpt": "Violence Intervention Program Community Mental Health Center Privacy Policy\nViolence Intervention Program Community Mental Health Center Privacy Policy\nOnCall Health built the Violence Intervention Program Community Mental Health Center app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. T...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473851170,
+            "url": "https://app.violenceinterventionprogram.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "No, the app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. It also mentions that the app will not rent or sell the collected information.",
+            "reference": "OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. OnCall Health will never rent or sell the personal information or personal health information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. URL: https://app.violenceinterventionprogram.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "0ca79747374b6c9b1be3cb4e0b8f015328eaa9ffb8298b3908e8710a84813969",
+                "score": 0.0077555366,
+                "excerpt": "information.\nOnCall Health completes background checks on all employees before starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "f122c706d36d530353279a5e08a5b9704233a344542ece686835bef0379cb4bb",
+                "score": 0.007665875,
+                "excerpt": "Violence Intervention Program Community Mental Health Center Privacy Policy\nViolence Intervention Program Community Mental Health Center Privacy Policy\nOnCall Health built the Violence Intervention Program Community Mental Health Center app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. T...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "b210479d7b7795e2e9b4ec474ea226d9fcdf3b29f68ae5a36ffdc14a8ba3483f",
+                "score": 0.0059803296,
+                "excerpt": "information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or servi...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "8c7bfacd0ebb47eca450664b1b3fe969fa532b61ab438d07aa54bc9fb0a0ca84",
+                "score": 0.0033634924,
+                "excerpt": "well as through the availability of our Designated Privacy Contact, [email protected] and subjects use of OnCall Health secure video consultation to the following patient consent form.\nTo proceed with registration for OnCall Health secure video consultations, a patient must complete this consent form. OnCall Health Secure Consultation Patient Consent Form I agree to OnCall Health secure video or text consultation with a health care provider on the basis of the following information: OnCall Healt...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "3abb47926e44e62da5a096c25eedd7760a66259da366166d3a471390895abf1c",
+                "score": 0.0028118587,
+                "excerpt": "number (if applicable).\nFrom patients: When consulting their own health care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473851170,
+            "url": "https://app.violenceinterventionprogram.org/privacy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app does not share data with third parties.",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": []
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not share data with third parties, ensuring user data privacy.",
+            "reference": "OnCall Health will never rent or sell the personal information or personal health information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. URL: https://app.violenceinterventionprogram.org/privacy/"
+        },
+        "source_documents": [
+            {
+                "id": "0ca79747374b6c9b1be3cb4e0b8f015328eaa9ffb8298b3908e8710a84813969",
+                "score": 0.0140636265,
+                "excerpt": "information.\nOnCall Health completes background checks on all employees before starting employment.\nAs soon as employment starts, OnCall Health trains, supports and supervises all employees on its Privacy Policy and procedures. Contractors are held to the same high level of protection of personal and personal health information as OnCall Health through contractual agreements, including audits, based on OnCall Health Privacy Policy and procedures.\nOnCall Health senior management receives regular ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "f122c706d36d530353279a5e08a5b9704233a344542ece686835bef0379cb4bb",
+                "score": 0.012970387,
+                "excerpt": "Violence Intervention Program Community Mental Health Center Privacy Policy\nViolence Intervention Program Community Mental Health Center Privacy Policy\nOnCall Health built the Violence Intervention Program Community Mental Health Center app and it is intended for use as is.\nPrivacy Policy\nOnCall Health allows health care providers to enhance their service with secure video consultations, and patients to consult health care providers from the privacy and convenience of the location they choose. T...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "b210479d7b7795e2e9b4ec474ea226d9fcdf3b29f68ae5a36ffdc14a8ba3483f",
+                "score": 0.008030813,
+                "excerpt": "information it collects. OnCall Health will never disclose personal or personal health information, except as required by law and upon demonstrated lawful authority. Should OnCall Health conduct market or product research, it would never use personal nor personal health information; rather, it would fully anonymize information which means to render it unlikely to be traced back to an individual. Should OnCall Health offer users the opportunity to receive relevant information on products or servi...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "ea125ff01db89435399047de044e8030e83a3f9f78c563131ca0c5360b3fcbda",
+                "score": 0.005060332,
+                "excerpt": "to an identifiable individual, to the exclusion of business contact information (name, title, work address, work phone number or work email address). Personal health information includes information that relates to an identifiable individual’s health, physical or mental, health history including family, or medical treatment. If we update this Privacy Policy, we will notify you. Read on to learn more, and if you have questions, feel free to reach our Designated Privacy Contact, Chief Privacy and ...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            },
+            {
+                "id": "3abb47926e44e62da5a096c25eedd7760a66259da366166d3a471390895abf1c",
+                "score": 0.0043483814,
+                "excerpt": "number (if applicable).\nFrom patients: When consulting their own health care provider registered with OnCall Health, we collect:\n• Name (or initials) and email of the patient\n• Date and time of the appointment\n• Any written instructions by the provider added to the “notes for patient” after the appointment\n• Files attached by the provider or patient during or after the appointment inside the platform, usually as PDF or word documents.\n• In some cases, results of interactive forms and assessments...",
+                "url": "https://app.violenceinterventionprogram.org/privacy/"
+            }
+        ]
+    }
+]

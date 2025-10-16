@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1063248233,
+      "url": "https://aexol.com/docs/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that Aexol Sp. z o.o. collects Personal Data for various purposes, including correspondence regarding business relations, providing services, internal administrative purposes, handling complaints, and direct marketing, among others.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of data collected and the purposes for which it is used.",
+          "content": "The Controller uses the Personal Data collected from you for purposes such as business correspondence, providing services, internal reporting, handling complaints, and direct marketing."
+        }
+      },
+      "analysis": "The privacy policy clearly states the collection of Personal Data and outlines the various purposes for which this data is used, ensuring transparency in data handling practices.",
+      "reference": "How we use the information collected from you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1063248233,
+      "url": "https://aexol.com/docs/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of Personal Data, which may include full name, position, company name, e-mail address, phone number, login, IP number, and information collected via cookies or other similar technologies, as well as other data necessary for the verification of a person.",
+        "simple_answer": "The app collects Personal Data such as name, email, phone number, and IP address.",
+        "extended_simple_answer": {
+          "comment": "The data collected is used for various purposes including service provision and marketing.",
+          "content": "The types of data collected include full name, position, company name, e-mail address, phone number, login, IP number, and information collected via cookies or other similar technologies."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use the information collected from you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1063248233,
+      "url": "https://aexol.com/docs/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The Controller uses the Personal Data collected for various purposes including correspondence regarding business relations, providing services, internal administrative purposes, handling complaints, direct marketing, and processing data from social media profiles.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The purposes include business correspondence, service provision, internal analytics, complaint handling, marketing, and social media engagement.",
+          "content": "The Controller uses the Personal Data collected from you for the following purposes: exchange of correspondence regarding business relations, providing Services, internal administrative purposes, handling complaints, direct marketing, and processing data from social media profiles."
+        }
+      },
+      "analysis": "",
+      "reference": "How we use the information collected from you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1063248233,
+      "url": "https://aexol.com/docs/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of receiving marketing communications at any time by following the unsubscribe instructions included in the marketing communications. Additionally, the user's consent to marketing activities is voluntary and may be withdrawn at any time.",
+        "simple_answer": "Yes, users can opt out of marketing communications.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their consent regarding marketing communications.",
+          "content": "Users can opt out of receiving marketing communications from Aexol at any time by following the unsubscribe instructions provided."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the right to withdraw their consent for marketing communications, indicating a level of control over their data.",
+      "reference": "How we use the information collected from you"
+    }
+  },
+  {
+    "meta": {
+      "id": 1063248233,
+      "url": "https://aexol.com/docs/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app may share data with Other Organisations, which are entities to whom Aexol may transfer a part of your personal data in connection with the performance of certain activities or Services on their behalf. These organisations will securely store your personal data and only for as long as indicated or as required by applicable law.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is done in connection with services provided by other organisations.",
+          "content": "Aexol may transfer a part of your personal data to Other Organisations for specific activities or services, ensuring secure storage and compliance with applicable laws."
+        }
+      },
+      "analysis": "",
+      "reference": "Definitions section, Other Organisations"
+    }
+  },
+  {
+    "meta": {
+      "id": 1063248233,
+      "url": "https://aexol.com/docs/privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share data with Other Organisations, which are entities to whom Aexol may transfer a part of your personal data in connection with the performance of certain activities or Services on their behalf. These organisations will securely store your personal data and only for as long as indicated or as required by applicable law.",
+        "simple_answer": "The app shares data with Other Organisations.",
+        "extended_simple_answer": {
+          "comment": "Other Organisations are entities that assist Aexol in providing services.",
+          "content": "They will securely store your personal data and only for as long as indicated or as required by applicable law."
+        }
+      },
+      "analysis": "",
+      "reference": "Definitions section"
+    }
+  }
+]

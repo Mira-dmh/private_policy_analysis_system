@@ -1,0 +1,339 @@
+[
+    {
+        "meta": {
+            "id": 1492803107,
+            "url": "https://www.betterspace.uk/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that they process personal data, which indicates that data collection is declared.",
+            "reference": "In this policy, “we”, “us” and “our” refer to WellbeingX Limited, the legal name of BetterSpace. For more information about us, see below. The personal data that we collect.",
+            "URL": "https://www.betterspace.uk/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ce26de871f7ad72653551f5671af693d38fda73290f9dfc88dddceb7ad454e2a",
+                "score": 0.02508314,
+                "excerpt": "exercise, social connections and goals. You may also be asked to provide information about impairments, health conditions and learning difficulties that have an impact upon your life (“health data“) and about your ethnicity (“ethnicity data“). Any use of health data and ethnicity data is subject to special restrictions set out in this policy.\nIf you order goods, services or digital products through the BetterSpace application, we will process information relating to the relevant transaction(s) (...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "4a938bbfa10b403c084d26177c982ba1436ba2db011855c3ab02c89e1f1b0ebc",
+                "score": 0.021409769,
+                "excerpt": "to which we are subject or to protect your vital interests or the vital interests of another natural person.\nProcessing of health data – When processing “special categories” of personal data such as health data and ethnicity data, a data controller is obliged to satisfy an additional condition: accordingly, we will only process your health data and ethnicity data with your explicit consent.\nProviding your personal data to others\nIf you are a BetterSpace application user, we may disclose aggregat...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "d78f11a38215a10c7627ab275f08812f24c87cc003cb298d741e8466733def77",
+                "score": 0.0131212715,
+                "excerpt": "Introduction\nTrust, transparency and data privacy are core values at BetterSpace. We are committed to safeguarding the privacy of all the individuals we deal with, including:\n- visitors to the BetterSpace website;\n- users of the BetterSpace mobile and web application;\n- the personnel of our customers and prospective customers; and\n- the personnel of our marketplace suppliers, general suppliers and other business partners.\nThis policy applies where we are acting as a data controller with respect ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "07cfe5207de150e159b4c82621e773b8bd750258f45b894d507b430f4d8ca7ea",
+                "score": 0.0128707485,
+                "excerpt": "BetterSpace application user and you order goods, services and/or digital products from a BetterSpace marketplace supplier, then we will provide information relating to that order, including relevant transaction data and account data (excluding health data and ethnicity data), to the relevant marketplace supplier. Each marketplace supplier acts as an independent controller with respect to such personal data and, accordingly, the supplier’s use of your personal data will be subject to the supplie...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "d426c413d6012bb6f9304fe12aedbc00069da3379d27e83aa22ba7479bb18f99",
+                "score": 0.010169658,
+                "excerpt": "policy, we have set out the purposes for which we may process personal data and the legal bases of the processing.\nOperations – We may process your personal data for the purposes of operating our website and the BetterSpace application, transacting with our customers, enabling our marketplace suppliers to supply their goods, services and digital products, generating invoices, bills and other payment-related documentation, and credit control. The legal basis for this processing is our legitimate ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1492803107,
+            "url": "https://www.betterspace.uk/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects usage data such as IP address, geographical location, browser type, operating system, referral source, length of visit, page views, website navigation paths, information about service exercise, social connections, and goals, health data related to impairments, health conditions, and learning difficulties affecting life, and ethnicity data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "IP address",
+                        "geographical location",
+                        "browser type",
+                        "operating system",
+                        "referral source",
+                        "length of visit",
+                        "page views",
+                        "website navigation paths",
+                        "information about service exercise, social connections, and goals",
+                        "health data related to impairments, health conditions, and learning difficulties affecting life",
+                        "ethnicity data"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the section of the privacy policy that outlines the different types of data collected by the app, including usage data, health data, and ethnicity data.",
+            "reference": "The app collects usage data such as IP address, geographical location, browser type, operating system, referral source, length of visit, page views, website navigation paths, information about service exercise, social connections, and goals, health data related to impairments, health conditions, and learning difficulties affecting life, and ethnicity data. URL: https://www.betterspace.uk/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "d78f11a38215a10c7627ab275f08812f24c87cc003cb298d741e8466733def77",
+                "score": 0.12517227,
+                "excerpt": "Introduction\nTrust, transparency and data privacy are core values at BetterSpace. We are committed to safeguarding the privacy of all the individuals we deal with, including:\n- visitors to the BetterSpace website;\n- users of the BetterSpace mobile and web application;\n- the personnel of our customers and prospective customers; and\n- the personnel of our marketplace suppliers, general suppliers and other business partners.\nThis policy applies where we are acting as a data controller with respect ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "ce26de871f7ad72653551f5671af693d38fda73290f9dfc88dddceb7ad454e2a",
+                "score": 0.117572136,
+                "excerpt": "exercise, social connections and goals. You may also be asked to provide information about impairments, health conditions and learning difficulties that have an impact upon your life (“health data“) and about your ethnicity (“ethnicity data“). Any use of health data and ethnicity data is subject to special restrictions set out in this policy.\nIf you order goods, services or digital products through the BetterSpace application, we will process information relating to the relevant transaction(s) (...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "d426c413d6012bb6f9304fe12aedbc00069da3379d27e83aa22ba7479bb18f99",
+                "score": 0.067546695,
+                "excerpt": "policy, we have set out the purposes for which we may process personal data and the legal bases of the processing.\nOperations – We may process your personal data for the purposes of operating our website and the BetterSpace application, transacting with our customers, enabling our marketplace suppliers to supply their goods, services and digital products, generating invoices, bills and other payment-related documentation, and credit control. The legal basis for this processing is our legitimate ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "4a938bbfa10b403c084d26177c982ba1436ba2db011855c3ab02c89e1f1b0ebc",
+                "score": 0.039342504,
+                "excerpt": "to which we are subject or to protect your vital interests or the vital interests of another natural person.\nProcessing of health data – When processing “special categories” of personal data such as health data and ethnicity data, a data controller is obliged to satisfy an additional condition: accordingly, we will only process your health data and ethnicity data with your explicit consent.\nProviding your personal data to others\nIf you are a BetterSpace application user, we may disclose aggregat...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "9d3648860418db75be82e3c7c7dc836c0c9d236e45523512541a32c20c963069",
+                "score": 0.03897507,
+                "excerpt": "communicating with you and with our customers, suppliers and business partners (excluding communicating for the purposes of direct marketing) by email, SMS, post and/or telephone, providing support services and complaint handling. The legal basis for this processing is our legitimate interests, namely the maintenance of our relationships, and the proper administration of our website, application and business generally.\nPersonalisation – We may process account data (including health data but excl...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1492803107,
+            "url": "https://www.betterspace.uk/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use in the privacy policy document.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy document explicitly outlines the purposes of processing personal data, such as operations, publications, relationships, communications, research, analysis, record-keeping, security, insurance, risk management, personalization, and direct marketing.",
+            "reference": "In this section of the policy, we have set out the purposes for which we may process personal data and the legal bases of the processing. URL: https://www.betterspace.uk/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "ce26de871f7ad72653551f5671af693d38fda73290f9dfc88dddceb7ad454e2a",
+                "score": 0.26322043,
+                "excerpt": "exercise, social connections and goals. You may also be asked to provide information about impairments, health conditions and learning difficulties that have an impact upon your life (“health data“) and about your ethnicity (“ethnicity data“). Any use of health data and ethnicity data is subject to special restrictions set out in this policy.\nIf you order goods, services or digital products through the BetterSpace application, we will process information relating to the relevant transaction(s) (...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "d426c413d6012bb6f9304fe12aedbc00069da3379d27e83aa22ba7479bb18f99",
+                "score": 0.11576065,
+                "excerpt": "policy, we have set out the purposes for which we may process personal data and the legal bases of the processing.\nOperations – We may process your personal data for the purposes of operating our website and the BetterSpace application, transacting with our customers, enabling our marketplace suppliers to supply their goods, services and digital products, generating invoices, bills and other payment-related documentation, and credit control. The legal basis for this processing is our legitimate ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "ca3dac071a4ab7c0f5e6fe35a8edcdd398998431ff2318d2b7d3c34077c82ded",
+                "score": 0.09653532,
+                "excerpt": "telephone for marketing-related purposes. The legal basis for this processing is consent or (in those cases where we have not asked for your consent) our legitimate interests, namely promoting our business and communicating marketing messages and offers to our application users, customers and prospective customers.\nResearch and analysis – We may anonymise your personal data and use that anonymised data for the purposes of researching and analysing the use of our website and application, as well ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "9d3648860418db75be82e3c7c7dc836c0c9d236e45523512541a32c20c963069",
+                "score": 0.029090757,
+                "excerpt": "communicating with you and with our customers, suppliers and business partners (excluding communicating for the purposes of direct marketing) by email, SMS, post and/or telephone, providing support services and complaint handling. The legal basis for this processing is our legitimate interests, namely the maintenance of our relationships, and the proper administration of our website, application and business generally.\nPersonalisation – We may process account data (including health data but excl...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "d78f11a38215a10c7627ab275f08812f24c87cc003cb298d741e8466733def77",
+                "score": 0.0262553,
+                "excerpt": "Introduction\nTrust, transparency and data privacy are core values at BetterSpace. We are committed to safeguarding the privacy of all the individuals we deal with, including:\n- visitors to the BetterSpace website;\n- users of the BetterSpace mobile and web application;\n- the personnel of our customers and prospective customers; and\n- the personnel of our marketplace suppliers, general suppliers and other business partners.\nThis policy applies where we are acting as a data controller with respect ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1492803107,
+            "url": "https://www.betterspace.uk/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions the user's rights, including the right to erasure, which allows the user to request the deletion of their personal data. Additionally, the user can withdraw consent if the legal basis for processing is consent.",
+            "reference": "the right to erasure – you can ask us to erase your personal data; ...; the right to withdraw consent – to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent. URL: https://www.betterspace.uk/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "8421e4fdcf9275d593766697871db7d002b61f976a8c70d716bc79fad0d6e0c0",
+                "score": 0.34103364,
+                "excerpt": "responsible for keeping the password you use for accessing our website confidential and we will not ask you for your password (except when you log in to our website).\nYour rights\nIn this section of the policy, we have listed the rights that you have under data protection law.\nYour principal rights under data protection law are:\n- the right to access – you can ask for copies of your personal data;\n- the right to rectification – you can ask us to rectify inaccurate personal data and to complete in...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "592a0babfeb313b153c7fd047e13d536fcd74db840291fc31b2a85c90e31967d",
+                "score": 0.3125798,
+                "excerpt": "about our processing of your personal data; and\n- the right to withdraw consent – to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent.\nThese rights are subject to certain limitations and exceptions. You can learn more about the rights of data subjects by visiting: https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en\nYou may exercise any of your rights in relation to your personal ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "ce26de871f7ad72653551f5671af693d38fda73290f9dfc88dddceb7ad454e2a",
+                "score": 0.038683496,
+                "excerpt": "exercise, social connections and goals. You may also be asked to provide information about impairments, health conditions and learning difficulties that have an impact upon your life (“health data“) and about your ethnicity (“ethnicity data“). Any use of health data and ethnicity data is subject to special restrictions set out in this policy.\nIf you order goods, services or digital products through the BetterSpace application, we will process information relating to the relevant transaction(s) (...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "5c0f79f869467b10a7f852512607cb1df392adab1e929be673b6fd8496f66ee3",
+                "score": 0.026056303,
+                "excerpt": "website. For more information, see: https://twitter.com/en/privacy.\nWe have integrated certain LinkedIn services into our website, and we use LinkedIn to help us understand the use of our website. LinkedIn also uses both persistent and session cookies to gather information about visitors to our website. For more information, see: https://www.linkedin.com/legal/cookie-policy.\nWe use Vimeo for embedding videos in our website, and Vimeo uses session cookies to enable the embedded video player funct...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "ca3dac071a4ab7c0f5e6fe35a8edcdd398998431ff2318d2b7d3c34077c82ded",
+                "score": 0.022457052,
+                "excerpt": "telephone for marketing-related purposes. The legal basis for this processing is consent or (in those cases where we have not asked for your consent) our legitimate interests, namely promoting our business and communicating marketing messages and offers to our application users, customers and prospective customers.\nResearch and analysis – We may anonymise your personal data and use that anonymised data for the purposes of researching and analysing the use of our website and application, as well ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1492803107,
+            "url": "https://www.betterspace.uk/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app may disclose personal data to various entities, including marketplace suppliers, insurers, professional advisers, suppliers, subcontractors, and other third parties. This sharing of data with third parties is for specific purposes listed in the privacy policy.",
+            "reference": "The app may disclose personal data to marketplace suppliers, insurers, professional advisers, suppliers, subcontractors, and for compliance with legal obligations. URL: https://www.betterspace.uk/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "07cfe5207de150e159b4c82621e773b8bd750258f45b894d507b430f4d8ca7ea",
+                "score": 0.27904198,
+                "excerpt": "BetterSpace application user and you order goods, services and/or digital products from a BetterSpace marketplace supplier, then we will provide information relating to that order, including relevant transaction data and account data (excluding health data and ethnicity data), to the relevant marketplace supplier. Each marketplace supplier acts as an independent controller with respect to such personal data and, accordingly, the supplier’s use of your personal data will be subject to the supplie...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "4a938bbfa10b403c084d26177c982ba1436ba2db011855c3ab02c89e1f1b0ebc",
+                "score": 0.19238758,
+                "excerpt": "to which we are subject or to protect your vital interests or the vital interests of another natural person.\nProcessing of health data – When processing “special categories” of personal data such as health data and ethnicity data, a data controller is obliged to satisfy an additional condition: accordingly, we will only process your health data and ethnicity data with your explicit consent.\nProviding your personal data to others\nIf you are a BetterSpace application user, we may disclose aggregat...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "592a0babfeb313b153c7fd047e13d536fcd74db840291fc31b2a85c90e31967d",
+                "score": 0.1187934,
+                "excerpt": "about our processing of your personal data; and\n- the right to withdraw consent – to the extent that the legal basis of our processing of your personal data is consent, you can withdraw that consent.\nThese rights are subject to certain limitations and exceptions. You can learn more about the rights of data subjects by visiting: https://edpb.europa.eu/our-work-tools/general-guidance/gdpr-guidelines-recommendations-best-practices_en\nYou may exercise any of your rights in relation to your personal ...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "9d3648860418db75be82e3c7c7dc836c0c9d236e45523512541a32c20c963069",
+                "score": 0.08269734,
+                "excerpt": "communicating with you and with our customers, suppliers and business partners (excluding communicating for the purposes of direct marketing) by email, SMS, post and/or telephone, providing support services and complaint handling. The legal basis for this processing is our legitimate interests, namely the maintenance of our relationships, and the proper administration of our website, application and business generally.\nPersonalisation – We may process account data (including health data but excl...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "a160c756a6385475cd8a4161012611f42db264d2db82749801620844c824bf65",
+                "score": 0.06644793,
+                "excerpt": "UK and process that personal data in the UK for the purposes set out in this policy, and may permit our suppliers and subcontractors to do so, during any period with respect to which the UK is not treated as a third country under EU data protection law or benefits from an adequacy decision under EU data protection law; and we may transfer your personal data from the UK to the EEA and process that personal data in the EEA for the purposes set out in this policy, and may permit our suppliers and s...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1492803107,
+            "url": "https://www.betterspace.uk/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Marketplace suppliers, insurers, professional advisers, suppliers or subcontractors, purchasers of the business.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Marketplace suppliers",
+                        "Insurers",
+                        "Professional advisers",
+                        "Suppliers or subcontractors",
+                        "Purchasers of the business"
+                    ]
+                }
+            },
+            "analysis": "The app shares data with various third parties including marketplace suppliers, insurers, professional advisers, suppliers or subcontractors, and purchasers of the business, as outlined in the privacy policy document.",
+            "reference": "Marketplace suppliers, insurers, professional advisers, suppliers or subcontractors, purchasers of the business. URL: https://www.betterspace.uk/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "07cfe5207de150e159b4c82621e773b8bd750258f45b894d507b430f4d8ca7ea",
+                "score": 0.5117471,
+                "excerpt": "BetterSpace application user and you order goods, services and/or digital products from a BetterSpace marketplace supplier, then we will provide information relating to that order, including relevant transaction data and account data (excluding health data and ethnicity data), to the relevant marketplace supplier. Each marketplace supplier acts as an independent controller with respect to such personal data and, accordingly, the supplier’s use of your personal data will be subject to the supplie...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "4a938bbfa10b403c084d26177c982ba1436ba2db011855c3ab02c89e1f1b0ebc",
+                "score": 0.43842453,
+                "excerpt": "to which we are subject or to protect your vital interests or the vital interests of another natural person.\nProcessing of health data – When processing “special categories” of personal data such as health data and ethnicity data, a data controller is obliged to satisfy an additional condition: accordingly, we will only process your health data and ethnicity data with your explicit consent.\nProviding your personal data to others\nIf you are a BetterSpace application user, we may disclose aggregat...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "3c677e6f88a5fd8c08acc3b52b40f1410070336675b3e5347ebf536be073ca49",
+                "score": 0.34764785,
+                "excerpt": "the specific disclosures of personal data set out in this section of the policy, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or to protect your vital interests or the vital interests of another natural person.\nWe may also disclose your personal data where such disclosure is necessary for the establishment, exercise, or defence of legal claims, whether in court proceedings or in an administrative or out-of-c...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "a160c756a6385475cd8a4161012611f42db264d2db82749801620844c824bf65",
+                "score": 0.23423143,
+                "excerpt": "UK and process that personal data in the UK for the purposes set out in this policy, and may permit our suppliers and subcontractors to do so, during any period with respect to which the UK is not treated as a third country under EU data protection law or benefits from an adequacy decision under EU data protection law; and we may transfer your personal data from the UK to the EEA and process that personal data in the EEA for the purposes set out in this policy, and may permit our suppliers and s...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            },
+            {
+                "id": "9d3648860418db75be82e3c7c7dc836c0c9d236e45523512541a32c20c963069",
+                "score": 0.15405756,
+                "excerpt": "communicating with you and with our customers, suppliers and business partners (excluding communicating for the purposes of direct marketing) by email, SMS, post and/or telephone, providing support services and complaint handling. The legal basis for this processing is our legitimate interests, namely the maintenance of our relationships, and the proper administration of our website, application and business generally.\nPersonalisation – We may process account data (including health data but excl...",
+                "url": "https://www.betterspace.uk/privacy-policy/"
+            }
+        ]
+    }
+]

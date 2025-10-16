@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1606688885,
+      "url": "https://bit.ly/3HFZS2d",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personal data, and outlines the types of data collected such as contact data, correspondence data, session data, cookie data, preference data, and payment data.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that data is collected when users interact with the app.",
+          "content": "The app collects various types of data including contact data, correspondence data, session data, cookie data, preference data, and payment data as outlined in the privacy policy."
+        }
+      },
+      "analysis": "",
+      "reference": "I. WHAT DATA DO WE COLLECT AND PROCESS?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1606688885,
+      "url": "https://bit.ly/3HFZS2d",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data including: Contact Data (name and email address), Correspondence Data (information provided during support requests), Session Data (IP address, device identifiers, browser details, geo-location, etc.), Cookie Data (small files downloaded to your device), Preference Data (user preferences), and Payment Data (managed by AppStore without collecting payment instrument details).",
+        "simple_answer": "The app collects Contact Data, Correspondence Data, Session Data, Cookie Data, Preference Data, and Payment Data.",
+        "extended_simple_answer": {
+          "comment": "The app collects a range of data to improve user experience and services.",
+          "content": "Contact Data, Correspondence Data, Session Data, Cookie Data, Preference Data, and Payment Data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section I. WHAT DATA DO WE COLLECT AND PROCESS?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1606688885,
+      "url": "https://bit.ly/3HFZS2d",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that data may be collected for various reasons, including responding to communications, addressing issues, administering and improving the Platforms, inferring user interests, and processing payments.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines specific purposes for data collection.",
+          "content": "The app collects data to respond to communications, improve services, administer the Platforms, infer user interests, and process payments."
+        }
+      },
+      "analysis": "The privacy policy clearly states the reasons for data collection, ensuring transparency about how user data will be used.",
+      "reference": "Section I. WHAT DATA DO WE COLLECT AND PROCESS?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1606688885,
+      "url": "https://bit.ly/3HFZS2d",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by not using the Platforms. If they do not agree with the Privacy Policy, they must delete the App from their devices and cancel any subscriptions. Additionally, users can block cookies by updating the relevant settings on their device or browser.",
+        "simple_answer": "Yes, users can opt out by deleting the app and blocking cookies.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to stop data collection by not using the app and can manage cookie settings.",
+          "content": "If you do not agree with the Privacy Policy, you must delete the App from your devices and cancel any subscriptions. You may also block cookies by updating the relevant settings on your device or browser."
+        }
+      },
+      "analysis": "The policy provides clear instructions for users who wish to opt out of data collection and manage their data preferences.",
+      "reference": "Section I and Section IV"
+    }
+  },
+  {
+    "meta": {
+      "id": 1606688885,
+      "url": "https://bit.ly/3HFZS2d",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not share your personal data except as consented by you or as described in the privacy policy. It may share personal data with selected third parties in certain circumstances, such as with third party service providers for hosting, administration, and maintenance of the platforms, for marketing purposes if you explicitly consent, or to comply with legal or regulatory requests.",
+        "simple_answer": "Yes, the app may share data with third parties under certain conditions.",
+        "extended_simple_answer": {
+          "comment": "Data sharing is limited and requires user consent or is necessary for compliance.",
+          "content": "The app may share personal data with third party service providers for hosting, administration, and maintenance, for marketing purposes if consented, or to comply with legal obligations."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing user consent and legal compliance.",
+      "reference": "Section V. WHO DO WE SHARE YOUR DATA WITH?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1606688885,
+      "url": "https://bit.ly/3HFZS2d",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app may share your personal data with selected third parties in the following circumstances: 1. Third party service providers, which may include providers of systems and services used to host, administer, and maintain the Platforms, such as servers, email service providers, payment processors, fraud prevention vendors, analytics, and customer service providers. 2. Third party service providers for marketing purposes, if you explicitly consent to any marketing from the app. 3. To comply with legal or regulatory requests, where the app may need to share your personal data with a regulator or law enforcement agency.",
+        "simple_answer": "The app shares data with third party service providers, marketing service providers (with consent), and to comply with legal obligations.",
+        "extended_simple_answer": {
+          "comment": "The app has specific circumstances under which it shares data with third parties.",
+          "content": "1. Third party service providers for hosting and maintenance. 2. Marketing service providers (with your consent). 3. Legal or regulatory compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "Section V. WHO DO WE SHARE YOUR DATA WITH?"
+    }
+  }
+]

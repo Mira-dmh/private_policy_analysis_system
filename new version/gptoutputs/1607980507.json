@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1607980507,
+      "url": "https://neuraform.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects several different types of information for various purposes to provide and improve the Service.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions the types of data collected, including Personal Data, Usage Data, Location Data, and Tracking Cookies Data.",
+          "content": "The privacy policy outlines that the app collects Personal Data, Usage Data, Location Data, and uses cookies and similar tracking technologies."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1607980507,
+      "url": "https://neuraform.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including Personal Data (such as email address, first name, last name, phone number, address, etc.), Usage Data (automatically collected data such as IP address, browser type, pages visited, etc.), Location Data (if permission is granted), and Tracking Cookies Data (cookies and similar tracking technologies). Additionally, it may collect other data such as sex, age, date of birth, passport details, and more.",
+        "simple_answer": "The app collects Personal Data, Usage Data, Location Data, Tracking Cookies Data, and other personal information.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of data to enhance user experience and service functionality.",
+          "content": "Types of data collected include Personal Data (like email, name, phone number), Usage Data (like IP address, browser type), Location Data (if permitted), and Tracking Cookies Data (cookies and tracking technologies)."
+        }
+      },
+      "analysis": "",
+      "reference": "Information Collection and Use, Types of Data Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1607980507,
+      "url": "https://neuraform.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the collected data is used for various purposes including providing and maintaining the Service, notifying users about changes, allowing participation in interactive features, providing customer support, gathering analysis to improve the Service, monitoring usage, detecting and addressing technical issues, fulfilling contractual obligations, and providing notices about accounts and subscriptions.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines multiple purposes for data collection, ensuring transparency.",
+          "content": "The purposes include providing and maintaining the Service, notifying users about changes, allowing participation in interactive features, providing customer support, gathering analysis to improve the Service, monitoring usage, detecting and addressing technical issues, fulfilling contractual obligations, and providing notices about accounts and subscriptions."
+        }
+      },
+      "analysis": "",
+      "reference": "Use of Data"
+    }
+  },
+  {
+    "meta": {
+      "id": 1607980507,
+      "url": "https://neuraform.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can opt out of receiving newsletters, marketing, or promotional materials by following the unsubscribe link provided in those communications. However, the privacy policy does not explicitly mention a process for opting out of data collection or deleting data.",
+        "simple_answer": "Yes, users can opt out of marketing communications.",
+        "extended_simple_answer": {
+          "comment": "The policy allows users to unsubscribe from marketing communications but does not detail how to opt out of data collection or delete data.",
+          "content": "Users may opt out of receiving newsletters and marketing materials by following the unsubscribe link, but the policy does not specify how to opt out of data collection or delete their data."
+        }
+      },
+      "analysis": "The privacy policy provides an option for users to unsubscribe from marketing communications, indicating some level of control over their personal data. However, it lacks clarity on how users can opt out of data collection or request deletion of their data.",
+      "reference": "Information Collection and Use, Types of Data Collected"
+    }
+  },
+  {
+    "meta": {
+      "id": 1607980507,
+      "url": "https://neuraform.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. However, it mentions that the company may use the services of various Service Providers to process data more effectively, which implies that some data may be shared with these Service Providers.",
+        "simple_answer": "Yes, data may be shared with Service Providers.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates the use of Service Providers for data processing, which suggests potential data sharing.",
+          "content": "We may use the services of various Service Providers in order to process your data more effectively."
+        }
+      },
+      "analysis": "The mention of Service Providers indicates that while the app may not directly share data with third parties for their own use, it does utilize third-party services for data processing.",
+      "reference": "Information Collection and Use"
+    }
+  },
+  {
+    "meta": {
+      "id": 1607980507,
+      "url": "https://neuraform.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly list specific third parties with whom the app shares data. It mentions that the app may use the services of various Service Providers to process data more effectively, but does not provide names or details of these third parties.",
+        "simple_answer": "The app may share data with various Service Providers, but does not specify which ones.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates the use of Service Providers for data processing but lacks specific names.",
+          "content": "We may use the services of various Service Providers in order to process your data more effectively."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy may raise concerns for users about who exactly has access to their data.",
+      "reference": "Information Collection and Use, Types of Data Collected"
+    }
+  }
+]

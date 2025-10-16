@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1490544446,
+      "url": "https://www.theaqapp.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data, including personally identifiable information such as email address, name, gender, date of birth, and health-related data. It also mentions the automatic collection of information from devices used to access the services.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly states the types of data collected from users.",
+          "content": "The app collects personal information such as email, name, and health data, and also automatically collects device-related information."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected from users, both voluntarily and automatically, ensuring transparency in data collection practices.",
+      "reference": "INFORMATION WE REQUEST FROM MINDWELL USERS, INFORMATION THAT IS AUTOMATICALLY COLLECTED BY MINDWELL"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490544446,
+      "url": "https://www.theaqapp.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including personally identifiable information such as email address, password, first and last name, gender, date of birth, height, weight, mental fitness and mindfulness goals. Additionally, it collects information related to user activities such as focus, breathing, heart rate, sleep, health and fitness activities, health conditions, and nutritional info. The app also collects data automatically from mobile or wearable devices, including ECG, heart rate, heart rate variability, accelerometer data, device identifiers, location information, log data, and various analytics data.",
+        "simple_answer": "The app collects personal information, health and fitness data, and device-related data.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to enhance user experience and provide services.",
+          "content": "This includes personal details (like name and email), health metrics (like heart rate and sleep data), and device information (like IP address and browser type)."
+        }
+      },
+      "analysis": "",
+      "reference": "INFORMATION WE REQUEST FROM MINDWELL USERS; INFORMATION THAT IS AUTOMATICALLY COLLECTED BY MINDWELL; HOW MINDWELL USES YOUR PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490544446,
+      "url": "https://www.theaqapp.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The primary purpose for collecting personal information is to provide users with a secure, smooth, efficient, and effectively personalized service and user experience. The personal information is collected to comply with applicable laws, provide services and customer support, process transactions, resolve disputes, prevent illegal activities, customize and improve services, deliver targeted marketing, and for scientific and academic research purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various reasons for collecting personal information, emphasizing user experience and legal compliance.",
+          "content": "The app collects personal information to provide services, comply with laws, improve user experience, and for research purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "HOW MINDWELL USES YOUR PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490544446,
+      "url": "https://www.theaqapp.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that users can opt out of data collection or delete their data. However, it mentions that users have the option to choose whether to provide optional personal information, which implies some level of control over what data is shared. For specific details on opting out or deleting data, users may need to refer to their device settings or contact Mindwell directly.",
+        "simple_answer": "The policy does not clearly state an option to opt out of data collection or delete data.",
+        "extended_simple_answer": {
+          "comment": "While users can choose not to provide optional personal information, the policy does not provide a clear mechanism for opting out of data collection or deleting data.",
+          "content": "Users may have control over optional data but the policy lacks explicit instructions for opting out or deleting collected data."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user consent and the importance of personal information for providing services, but it lacks specific provisions for opting out or deleting data.",
+      "reference": "INFORMATION WE REQUEST FROM MINDWELL USERS, HOW MINDWELL USES YOUR PERSONAL INFORMATION"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490544446,
+      "url": "https://www.theaqapp.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares Personal Information with third-party services such as Apple and Amazon, as well as with Mixpanel for analytics purposes. Users acknowledge that Mindwell is not responsible for the privacy policies and use of information by these third parties.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app shares data with third parties for various purposes, including analytics.",
+          "content": "Personal Information may be shared with third-party services like Apple, Amazon, and Mixpanel."
+        }
+      },
+      "analysis": "The privacy policy clearly states that Mindwell shares user data with third parties, which is a common practice in app services for analytics and functionality.",
+      "reference": "THIRD PARTY PRIVACY POLICIES"
+    }
+  },
+  {
+    "meta": {
+      "id": 1490544446,
+      "url": "https://www.theaqapp.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares your Personal Information with third-party services such as Apple and Amazon. Additionally, it shares your Personal Information with Mixpanel for analytics purposes.",
+        "simple_answer": "The app shares data with Apple, Amazon, and Mixpanel.",
+        "extended_simple_answer": {
+          "comment": "These third parties may have their own privacy policies that govern their use of your data.",
+          "content": "The app shares your Personal Information with third-party services such as Apple and Amazon, and with Mixpanel for analytics purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "THIRD PARTY PRIVACY POLICIES"
+    }
+  }
+]

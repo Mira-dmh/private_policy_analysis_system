@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1539285742,
+      "url": "https://linesofzen.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that it collects information about users if there is a reason to do so, such as to provide services, communicate with users, or improve services. The information is collected from various sources, including user-provided information, automatic collection through services, and outside sources.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about its data collection practices.",
+          "content": "The privacy policy specifies that data is collected automatically, including log information, usage information, location information, stored information, and information from cookies and other technologies."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the types of data collected and the reasons for collection, ensuring users are informed about their data practices.",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539285742,
+      "url": "https://linesofzen.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects several types of data, including: log information (such as browser type, IP address, unique device identifiers, language preference, referring site, date and time of access, operating system, and mobile network information), usage information (about features accessed and device information), location information (approximate location from IP address), stored information (accessing information stored on the mobile device), and information from cookies and other technologies.",
+        "simple_answer": "The app collects log information, usage information, location information, stored information, and data from cookies.",
+        "extended_simple_answer": {
+          "comment": "The app gathers various types of data to enhance user experience and improve services.",
+          "content": "Log information includes details like browser type and IP address. Usage information pertains to how users interact with the app. Location information is derived from the user's IP address. Stored information is accessed from the user's device, and cookies help track user interactions."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539285742,
+      "url": "https://linesofzen.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that information is collected to provide services, ensure quality and safety, market services, protect users and the public, fix problems, customize user experience, and communicate with users.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines various purposes for collecting user information.",
+          "content": "The purposes include providing services, ensuring quality and safety, marketing services, protecting users and the public, fixing problems, customizing user experience, and communicating with users."
+        }
+      },
+      "analysis": "",
+      "reference": "How and Why We Use Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539285742,
+      "url": "https://linesofzen.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of marketing communications at any time. Additionally, the policy aims to make it simple for users to control what information is shared publicly or kept private, and to permanently delete information if desired.",
+        "simple_answer": "Yes, users can opt out of marketing communications and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data and can choose to opt out of certain communications.",
+          "content": "The policy states that users can opt out of marketing communications and that the app aims to make it easy for users to manage their information, including deletion."
+        }
+      },
+      "analysis": "The privacy policy emphasizes user control over personal information, allowing for opt-out options and data deletion.",
+      "reference": "We aim to make it as simple as possible for you to control what information on your website is shared publicly (or kept private), indexed by search engines, and permanently deleted."
+    }
+  },
+  {
+    "meta": {
+      "id": 1539285742,
+      "url": "https://linesofzen.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares information about you in limited circumstances, and with appropriate safeguards on your privacy.",
+        "simple_answer": "Yes, it shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The sharing of information is done with appropriate safeguards.",
+          "content": "The app shares information about you in limited circumstances, and with appropriate safeguards on your privacy."
+        }
+      },
+      "analysis": "The privacy policy indicates that while the app does share data, it emphasizes that this is done in limited circumstances and with safeguards to protect user privacy.",
+      "reference": "Sharing Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1539285742,
+      "url": "https://linesofzen.com/privacy.html",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify the exact third parties with whom the app shares data. It mentions that information is shared in limited circumstances and with appropriate safeguards on privacy, but does not provide a detailed list of third parties.",
+        "simple_answer": "The app does not specify which third parties it shares data with.",
+        "extended_simple_answer": {
+          "comment": "The policy indicates that data sharing occurs under limited circumstances but lacks specific details on third parties.",
+          "content": "The privacy policy states that information is shared in limited circumstances and with appropriate safeguards, but does not provide specific names or types of third parties."
+        }
+      },
+      "analysis": "The lack of specific third-party names in the privacy policy may raise concerns for users about who their data is being shared with and under what conditions.",
+      "reference": "Sharing Information"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6446163219,
+      "url": "https://iti.iasistech.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It specifies that information is collected directly from users when they provide it, automatically when they use the app, and through other collection methods. The policy outlines the types of information collected, including personal information and usage details.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the various ways in which data is collected from users.",
+          "content": "The app collects information directly from users, automatically during usage, and through other methods, including personal information and usage details."
+        }
+      },
+      "analysis": "The privacy policy provides a comprehensive overview of the data collection practices of the app, ensuring users are informed about what information is collected and how.",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446163219,
+      "url": "https://iti.iasistech.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of information, including: 1. Personal Information: This includes information that can identify you personally, such as your name, postal address, email address, telephone number, social security number, and State Driver’s License Number. 2. Non-Personal Information: This includes information that is about you but does not individually identify you, such as dates of treatment and location of treatment. 3. User Contributions: Information you provide for publication or display on public areas of the app. 4. Automatic Information: This includes usage details, device information, stored information and files, and location information. 5. Cookies: Small files placed on your smartphone to collect data automatically.",
+        "simple_answer": "The app collects personal information, non-personal information, user contributions, automatic information, and cookies.",
+        "extended_simple_answer": {
+          "comment": "The app collects a wide range of data to enhance user experience and functionality.",
+          "content": "Types of data collected include personal identifiers, treatment details, user-generated content, device and usage data, and location information."
+        }
+      },
+      "analysis": "",
+      "reference": "Information We Collect and How We Collect It"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446163219,
+      "url": "https://iti.iasistech.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used for practices related to collecting, using, maintaining, protecting, and disclosing user information. The policy emphasizes that the information may be used to provide services, fulfill orders, and improve user experience, among other purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the various ways in which user information is collected and the intended uses of that information.",
+          "content": "The policy describes that the information collected may be used for providing services, fulfilling orders, and improving user experience."
+        }
+      },
+      "analysis": "The privacy policy clearly states the purposes for which user data is collected, ensuring transparency in data handling practices.",
+      "reference": "Introduction section and Information We Collect and How We Collect It section."
+    }
+  },
+  {
+    "meta": {
+      "id": 6446163219,
+      "url": "https://iti.iasistech.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by deleting the app from their device or by selecting the opt-out method provided in the app. Additionally, users can choose to delete their data by contacting the company if they believe their information has been collected without consent.",
+        "simple_answer": "Yes, users can opt out of data collection and delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have options to manage their data collection preferences.",
+          "content": "Users can opt out of the app's collection of location information, which will disable its location-based features. They can also delete the app to stop data collection."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the ability to opt out of data collection and provides methods for doing so, ensuring compliance with privacy standards.",
+      "reference": "Section: Automatic Information Collection and Tracking"
+    }
+  },
+  {
+    "meta": {
+      "id": 6446163219,
+      "url": "https://iti.iasistech.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares data with third parties. However, it mentions that the policy does not apply to information collected by third parties, and encourages users to read the privacy policies of those third parties. This implies that while the app may not directly share data, users should be aware of third-party interactions.",
+        "simple_answer": "The app does not explicitly share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "While the app itself may not share data, users should be cautious about third-party interactions.",
+          "content": "The policy states that it does not apply to information collected by third parties and encourages users to read their privacy policies."
+        }
+      },
+      "analysis": "The privacy policy indicates a focus on user data protection but does not provide clear information on third-party data sharing.",
+      "reference": "Introduction section and the note about third parties."
+    }
+  },
+  {
+    "meta": {
+      "id": 6446163219,
+      "url": "https://iti.iasistech.com/privacy-policy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify particular third parties with whom the app shares data. It states that the policy does not apply to information collected by third parties and encourages users to read the privacy policies of those third parties.",
+        "simple_answer": "The app does not specify third parties with whom it shares data.",
+        "extended_simple_answer": {
+          "comment": "The policy emphasizes that it does not cover third-party data collection.",
+          "content": "The policy states that it does not apply to information collected by third parties and encourages users to review the privacy policies of those third parties."
+        }
+      },
+      "analysis": "The privacy policy lacks specific details about third-party data sharing, indicating a general caution regarding third-party interactions.",
+      "reference": "Introduction section and the note about third parties."
+    }
+  }
+]

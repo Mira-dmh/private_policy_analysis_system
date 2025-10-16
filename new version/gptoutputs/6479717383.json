@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6479717383,
+      "url": "https://www.yojo.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It explains that it collects a variety of information from users, including personal information provided directly by users, information collected when users use the services, and information received from third parties.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy clearly states the types of information collected and the sources of that information.",
+          "content": "The policy outlines that personal information is collected from users when they register, communicate with the app, and use its services, as well as from third-party services."
+        }
+      },
+      "analysis": "The privacy policy is transparent about the data collection practices, ensuring users are informed about what information is collected and how it is used.",
+      "reference": "Section I. Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6479717383,
+      "url": "https://www.yojo.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of Personal Information, including: 1. Information You Provide to Us: This includes registration and profile information (such as phone number, email address, first name, last name, profile photo, and credit card details), communications with us (name, email address, message contents), and payment information (processed by a third-party payment processor). 2. Information We Collect When You Use Our Services: This may include data collected through cookies and similar technologies. 3. Information We Receive from Third Parties: This includes information from third-party services if you link your account, which may include profile information and photos.",
+        "simple_answer": "The app collects registration information, communication details, payment information, usage data, and information from third-party services.",
+        "extended_simple_answer": {
+          "comment": "The app gathers a wide range of data to enhance user experience and service delivery.",
+          "content": "The types of data collected include personal information provided by users, data collected through usage of the app, and information from third-party accounts."
+        }
+      },
+      "analysis": "",
+      "reference": "Section I. Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6479717383,
+      "url": "https://www.yojo.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It specifies that Personal Information is used for various purposes including communicating with users, providing and personalizing services, understanding usage to improve services, marketing, legal obligations, and other specified purposes.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines multiple purposes for data collection.",
+          "content": "The purposes include communicating with users, providing services, personalizing experiences, improving services, marketing, and legal compliance."
+        }
+      },
+      "analysis": "The privacy policy clearly states the various ways in which the collected data will be utilized, ensuring transparency for users regarding their personal information.",
+      "reference": "II. How We Use the Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6479717383,
+      "url": "https://www.yojo.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users have the ability to opt out of receiving promotional communications and can manage their cookie settings. However, the policy does not explicitly state a method for users to delete their data.",
+        "simple_answer": "Yes, users can opt out of promotional communications.",
+        "extended_simple_answer": {
+          "comment": "While users can opt out of marketing communications, the policy does not provide clear instructions on how to delete personal data.",
+          "content": "Users can opt out of receiving promotional communications as described under 'Your Rights and Choices.' They can also modify their cookie settings through their web browser, but the policy does not specify a process for deleting personal data."
+        }
+      },
+      "analysis": "The privacy policy allows users to opt out of marketing communications but lacks detailed instructions on how to delete personal data.",
+      "reference": "II. How We Use the Information We Collect"
+    }
+  },
+  {
+    "meta": {
+      "id": 6479717383,
+      "url": "https://www.yojo.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties. Specifically, if you choose to link the Services to a third-party account, the app may receive Personal Information about you from those third-party services. Additionally, when you make a purchase through the Services, your payment information is processed by a third-party payment processor, which may collect Personal Information from you.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app may receive information from third-party services and uses a third-party payment processor for transactions.",
+          "content": "If you link our Services to a third-party account, we may receive Personal Information about you. Also, payment processing is handled by a third-party, which may collect your Personal Information."
+        }
+      },
+      "analysis": "The privacy policy clearly states that the app interacts with third-party services, which involves sharing and receiving Personal Information.",
+      "reference": "Section I. Information We Collect, Information from Third-Party Services and Payment Processing"
+    }
+  },
+  {
+    "meta": {
+      "id": 6479717383,
+      "url": "https://www.yojo.co/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third-party services, specifically mentioning a third-party payment processor, such as Stripe, which may collect Personal Information from users in connection with purchases made through the Services.",
+        "simple_answer": "The app shares data with third-party payment processors like Stripe.",
+        "extended_simple_answer": {
+          "comment": "The app uses third-party services for payment processing, which involves sharing certain Personal Information.",
+          "content": "When you make a purchase through our Services, your payment is processed by a third-party payment processor such as Stripe. This Payment Processor may collect Personal Information from you, including your name, email address, billing address, and Payment Information in connection with your purchase."
+        }
+      },
+      "analysis": "",
+      "reference": "Section I. Information We Collect, Information We Receive from Third Parties."
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 806223188,
+      "url": "https://www.synapticlabs.uk/privacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It explains that it collects personal information when users use its services, mobile games, or applications, and provides details on the types of data processed.",
+        "simple_answer": "Yes, the app declares data collection.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the types of personal data collected and the purposes for which it is processed.",
+          "content": "The privacy policy states that Synaptic Labs collects personal information when users interact with their services, mobile games, or applications."
+        }
+      },
+      "analysis": "The privacy policy clearly states that personal information is collected as part of the services provided by the app, ensuring transparency about data processing.",
+      "reference": "Section: General Principles of Data Processing"
+    }
+  },
+  {
+    "meta": {
+      "id": 806223188,
+      "url": "https://www.synapticlabs.uk/privacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of personal data, including: account name, email address, internal ID (unique user ID), number and content of in-app purchases, country where the game was downloaded, type of terminal used, model number, operating system of the terminal, language settings of the terminal, date of the download, app version, days since the download (age of the account), duration of use of the game, and number of times the game has been accessed.",
+        "simple_answer": "The app collects account information, in-app purchase details, device information, and usage statistics.",
+        "extended_simple_answer": {
+          "comment": "This data is necessary for the app to function and provide services.",
+          "content": "The types of personal data collected include: account name, email address, internal ID, in-app purchase details, device type and model, operating system, language settings, download date, app version, account age, usage duration, and access frequency."
+        }
+      },
+      "analysis": "",
+      "reference": "SPECIFIC INSTANCES OF DATA PROCESSING, section d. Running the Game"
+    }
+  },
+  {
+    "meta": {
+      "id": 806223188,
+      "url": "https://www.synapticlabs.uk/privacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that it processes personal data to the extent necessary for making its games available, along with their content and services, and for using them. This includes data processing necessary for fulfilling contracts, legal obligations, and preserving legitimate interests.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy outlines the general principles of data processing, indicating that personal data is processed primarily to provide and improve the services offered by the app.",
+          "content": "The app processes personal data to make its games available and for related services, as well as for fulfilling contracts and legal obligations."
+        }
+      },
+      "analysis": "",
+      "reference": "GENERAL PRINCIPLES OF DATA PROCESSING, Scope of the Data Processing"
+    }
+  },
+  {
+    "meta": {
+      "id": 806223188,
+      "url": "https://www.synapticlabs.uk/privacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection and request deletion of their personal data. The privacy policy states that personal data will be erased or blocked once the purpose of the storage has lapsed, and users have rights under data protection laws to request deletion of their data.",
+        "simple_answer": "Yes, users can opt out and delete their data.",
+        "extended_simple_answer": {
+          "comment": "Users have the right to request deletion of their personal data.",
+          "content": "Your personal data will be erased or blocked once the purpose of the storage has lapsed. Additionally, users can exercise their rights under data protection laws to request deletion."
+        }
+      },
+      "analysis": "",
+      "reference": "Section: Storage period and erasure of personal data"
+    }
+  },
+  {
+    "meta": {
+      "id": 806223188,
+      "url": "https://www.synapticlabs.uk/privacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly state that the app shares personal data with third parties. However, it mentions that data processing may occur through external platforms like Google and Apple, where the respective platform operators are considered the Controllers under data privacy law. Therefore, while the app itself may not share data directly, the use of third-party platforms for downloading and in-app purchases may involve data processing by those third parties.",
+        "simple_answer": "The app may not share data directly, but third-party platforms may process data.",
+        "extended_simple_answer": {
+          "comment": "The app's data processing is influenced by third-party platforms, but direct sharing is not specified.",
+          "content": "The app uses platforms like Google and Apple for downloads and in-app purchases, which may involve data processing by those platforms."
+        }
+      },
+      "analysis": "The privacy policy indicates that while the app itself does not share data with third parties, the use of external platforms for app distribution and services may involve data processing by those platforms, which are separate entities.",
+      "reference": "Specific Instances of Data Processing, section a (Downloading of the Games)"
+    }
+  },
+  {
+    "meta": {
+      "id": 806223188,
+      "url": "https://www.synapticlabs.uk/privacypolicy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties such as Google and Apple, as the games are provided via their platforms. The respective platform operator is the Controller under data privacy law, and their terms and conditions of use and privacy policies apply. Additionally, data may be processed by Amazon Web Services (AWS) for hosting purposes.",
+        "simple_answer": "The app shares data with Google, Apple, and Amazon Web Services (AWS).",
+        "extended_simple_answer": {
+          "comment": "The app does not have control over the data processing by Google and Apple, and users should refer to their privacy policies for more information.",
+          "content": "Data is shared with Google and Apple as the games are provided through their platforms, and with AWS for hosting services."
+        }
+      },
+      "analysis": "",
+      "reference": "Specific Instances of Data Processing, section a and b"
+    }
+  }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "meta": {
+            "id": 6502851494,
+            "url": "https://www.thehappyhournash.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data as mentioned in the 'Information We Collect' section of the privacy policy.",
+            "reference": "When you use the Site, we process certain types of Information, as described below. URL: https://www.thehappyhournash.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a5596ac1111c73e11dab8ddca1c8e9f343d40ee20a53881285e8cc14b70c88d8",
+                "score": 0.38803813,
+                "excerpt": "What personal data we collect and why we collect it:\nThe Happy Hour (“THH,” “we,” “us,” or “our”) oversees this website, thehappyhournash.com (“Site”), the mobile application (“App”), and all related services (collectively, our “Services”). We have developed this Privacy Policy to inform all users (“user(s),” “you,” or “your”) about how we collect information in the course of conducting our business, including on the Site, how we use the collected information, and a user’s rights with respect to...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "2ea18d8d84c2715964d843c6481c20054500afac8dfa105e9516a02a197844b4",
+                "score": 0.0030753696,
+                "excerpt": "identify you, but provides insights regarding your use of the Site. For example, we collect information about your use of the Site, including but not limited to Internet connections, computer equipment, browser information, websites visited before entering and after leaving the Site, IP addresses, and other information about your use of the Site that does not identify you as a user.\nYou may be given the option to receive push notifications while using our Services. In order to serve push notific...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "c81c80814c25227b9801a396b567342e5f6f9824ee7e2f82f2a64a149a60ba54",
+                "score": 0.002631674,
+                "excerpt": "applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy;\n- Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the re...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "63e75831a78fd0411a09d9292b2ca3a9427044ce6d4eb6392a3ab9f092e56ef5",
+                "score": 0.0023688741,
+                "excerpt": "USE OUR SERVICES. If you are under eighteen (18) years old, you are not permitted to use any part of the Services for any reason.\nIf you have any questions about this Privacy Policy, please contact us at info@thehappyhournash.com or at the contact information here.\n1. Information We Collect\nWhen you use the Site, we process certain types of Information, as described below.\nPersonal Information\n“Personal Information” means any information that identifies, relates to, describes, or is capable of b...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "1fc7aa37b435e75111b64e83c8e28e829b6aa4ca6aecdd39cc9af9d50dd8619d",
+                "score": 0.0016941031,
+                "excerpt": "a social networking service in connection with our Site is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available by reviewing privacy policies of those providers and/or modifying your privacy settings directly with those networking sites/services.\n2. Use of Information\nWe use Non-Personal Information collected by cookies, web beacons, and other Internet tracking technology to store your preferences, improv...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502851494,
+            "url": "https://www.thehappyhournash.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Personal Information such as first and last names, phone numbers, residential addresses, email addresses, and payment information. Additionally, it collects Non-Personal Information related to user activity on the site, such as Internet connections, computer equipment, browser information, IP addresses, and other usage details.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Personal Information (names, phone numbers, addresses, email addresses, payment information)",
+                        "Non-Personal Information (Internet connections, computer equipment, browser information, IP addresses, usage details)"
+                    ]
+                }
+            },
+            "analysis": "The answer is derived from the specific types of data mentioned in the privacy policy related to Personal Information and Non-Personal Information collected by the app.",
+            "reference": "Personal Information that we collect on the Site includes, but is not limited to, first and last names, phone number, residential address, email address, and payment information. Non-Personal Information means information that does not identify you, but provides insights regarding your use of the Site, including but not limited to Internet connections, computer equipment, browser information, websites visited before entering and after leaving the Site, IP addresses, and other information about your use. URL: https://www.thehappyhournash.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a5596ac1111c73e11dab8ddca1c8e9f343d40ee20a53881285e8cc14b70c88d8",
+                "score": 0.21783626,
+                "excerpt": "What personal data we collect and why we collect it:\nThe Happy Hour (“THH,” “we,” “us,” or “our”) oversees this website, thehappyhournash.com (“Site”), the mobile application (“App”), and all related services (collectively, our “Services”). We have developed this Privacy Policy to inform all users (“user(s),” “you,” or “your”) about how we collect information in the course of conducting our business, including on the Site, how we use the collected information, and a user’s rights with respect to...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "1fc7aa37b435e75111b64e83c8e28e829b6aa4ca6aecdd39cc9af9d50dd8619d",
+                "score": 0.036356665,
+                "excerpt": "a social networking service in connection with our Site is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available by reviewing privacy policies of those providers and/or modifying your privacy settings directly with those networking sites/services.\n2. Use of Information\nWe use Non-Personal Information collected by cookies, web beacons, and other Internet tracking technology to store your preferences, improv...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "2ea18d8d84c2715964d843c6481c20054500afac8dfa105e9516a02a197844b4",
+                "score": 0.030559862,
+                "excerpt": "identify you, but provides insights regarding your use of the Site. For example, we collect information about your use of the Site, including but not limited to Internet connections, computer equipment, browser information, websites visited before entering and after leaving the Site, IP addresses, and other information about your use of the Site that does not identify you as a user.\nYou may be given the option to receive push notifications while using our Services. In order to serve push notific...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "63e75831a78fd0411a09d9292b2ca3a9427044ce6d4eb6392a3ab9f092e56ef5",
+                "score": 0.025957357,
+                "excerpt": "USE OUR SERVICES. If you are under eighteen (18) years old, you are not permitted to use any part of the Services for any reason.\nIf you have any questions about this Privacy Policy, please contact us at info@thehappyhournash.com or at the contact information here.\n1. Information We Collect\nWhen you use the Site, we process certain types of Information, as described below.\nPersonal Information\n“Personal Information” means any information that identifies, relates to, describes, or is capable of b...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "c81c80814c25227b9801a396b567342e5f6f9824ee7e2f82f2a64a149a60ba54",
+                "score": 0.0045384318,
+                "excerpt": "applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy;\n- Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the re...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502851494,
+            "url": "https://www.thehappyhournash.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app informs users about how information is collected, used, and the users' rights concerning the data.",
+            "reference": "We have developed this Privacy Policy to inform all users...how we use the collected information, and a user’s rights with respect to the collected information. URL: https://www.thehappyhournash.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "a5596ac1111c73e11dab8ddca1c8e9f343d40ee20a53881285e8cc14b70c88d8",
+                "score": 0.018797074,
+                "excerpt": "What personal data we collect and why we collect it:\nThe Happy Hour (“THH,” “we,” “us,” or “our”) oversees this website, thehappyhournash.com (“Site”), the mobile application (“App”), and all related services (collectively, our “Services”). We have developed this Privacy Policy to inform all users (“user(s),” “you,” or “your”) about how we collect information in the course of conducting our business, including on the Site, how we use the collected information, and a user’s rights with respect to...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "1fc7aa37b435e75111b64e83c8e28e829b6aa4ca6aecdd39cc9af9d50dd8619d",
+                "score": 0.016914913,
+                "excerpt": "a social networking service in connection with our Site is voluntary. However, you should make sure you are comfortable with the information your third-party social networking services may make available by reviewing privacy policies of those providers and/or modifying your privacy settings directly with those networking sites/services.\n2. Use of Information\nWe use Non-Personal Information collected by cookies, web beacons, and other Internet tracking technology to store your preferences, improv...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "f8be8eff130e62bcd0da79596334105fef545cc93be2c3928effbea6c572e3f8",
+                "score": 0.010288301,
+                "excerpt": "not limited to:\n- To fulfill or meet the reason you provided the Personal Information. For example, if you share your name and contact information to ask a question about our Services, we will use that Personal Information to respond to your inquiry.\n- To establish and secure accounts to use the Services, whether through our Site, our App, or another online booking platform connected to our Site, check on your account status, and to validate your username, e-mail, password, and/or other login cr...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "c81c80814c25227b9801a396b567342e5f6f9824ee7e2f82f2a64a149a60ba54",
+                "score": 0.007665875,
+                "excerpt": "applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy;\n- Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the re...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "894e9691967697b99509abb151bf8742e009ec2d02d224897cd7982a61318e86",
+                "score": 0.0055119344,
+                "excerpt": "no longer want to receive these e-mail communications, you may opt-out of receiving e-mail communications through the “unsubscribe” link or by contacting us at info@thehappyhournash.com.\nWe may, from time to time, invite you to participate in online surveys. The information requested in these surveys may include, but is not limited to, your opinions, beliefs, insights, ideas, activities, experience, purchase history, and purchase intent regarding products, events, and Services. The information c...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502851494,
+            "url": "https://www.thehappyhournash.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt-out of data collection by unsubscribing from email communications through the 'unsubscribe' link or by contacting the app at info@thehappyhournash.com.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt-out of receiving email communications by using the 'unsubscribe' link or contacting the app directly.",
+            "reference": "If you no longer want to receive these e-mail communications, you may opt-out of receiving e-mail communications through the 'unsubscribe' link or by contacting us at info@thehappyhournash.com. URL: https://www.thehappyhournash.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "894e9691967697b99509abb151bf8742e009ec2d02d224897cd7982a61318e86",
+                "score": 0.11357959,
+                "excerpt": "no longer want to receive these e-mail communications, you may opt-out of receiving e-mail communications through the “unsubscribe” link or by contacting us at info@thehappyhournash.com.\nWe may, from time to time, invite you to participate in online surveys. The information requested in these surveys may include, but is not limited to, your opinions, beliefs, insights, ideas, activities, experience, purchase history, and purchase intent regarding products, events, and Services. The information c...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "0b0fbce608da8c04f68310e2c07cc0373973e4616fe7184d2b5b574179663a6f",
+                "score": 0.0849471,
+                "excerpt": "services. We encourage you to review the privacy policies and terms of all third-party websites or services that you may visit.\n7. Children’s Privacy\nWe do not sell products or services for purchase by anyone under the age of thirteen (13). In accordance with the Children’s Online Privacy Protection Act (“COPPA”), we will never knowingly request or solicit Personal Information from anyone under the age of thirteen (13) without verifiable parental consent. In the event that we receive actual know...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "9b27cfd295d437721829bf5492a051c55b6fd2c629db5bbf5d0256b554c3fa18",
+                "score": 0.026455775,
+                "excerpt": "law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence; and\n- Pursuant to your express consent.\n4. Information Security\nWe take reasonable steps online and offline to safeguard the Personal Information that you provide to us.\nIt is common knowledge that transmission of information via the Internet is not wholly secure, and we cannot guarantee or warrant the security of your Personal Information, ...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "c81c80814c25227b9801a396b567342e5f6f9824ee7e2f82f2a64a149a60ba54",
+                "score": 0.023779983,
+                "excerpt": "applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy;\n- Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the re...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "a4b1fc54bdfe0bb022c195537b4a1fe36d8d33bd4b172847e87e312adc1a435e",
+                "score": 0.017309096,
+                "excerpt": "updates about the Services.\n- To notify you of any changes to relevant agreements, policies, or other terms, and to enforce such terms.\n- To work with our service providers, who perform certain business functions or services on our behalf.\n- To prevent or investigate fraud, or for risk management purposes, and to help maintain the safety, security, and integrity of our Services, databases and other technology assets, and business.\n- To comply with legal obligations, court orders, or in order to ...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502851494,
+            "url": "https://www.thehappyhournash.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties as stated in the privacy policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions sharing Personal Information with service providers and authorized third parties, subject to their privacy policy.",
+            "reference": "We may share Personal Information with the following parties: Service providers that help us administer and provide the Services... Authorized third parties, who are parties directly authorized by you to receive the applicable Information... URL: https://www.thehappyhournash.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "c81c80814c25227b9801a396b567342e5f6f9824ee7e2f82f2a64a149a60ba54",
+                "score": 0.47155783,
+                "excerpt": "applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy;\n- Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the re...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "894e9691967697b99509abb151bf8742e009ec2d02d224897cd7982a61318e86",
+                "score": 0.31289464,
+                "excerpt": "no longer want to receive these e-mail communications, you may opt-out of receiving e-mail communications through the “unsubscribe” link or by contacting us at info@thehappyhournash.com.\nWe may, from time to time, invite you to participate in online surveys. The information requested in these surveys may include, but is not limited to, your opinions, beliefs, insights, ideas, activities, experience, purchase history, and purchase intent regarding products, events, and Services. The information c...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "e7295df83860c022ab8375c8f350cb618b572202fb8ef80d74362e0f36a99aa9",
+                "score": 0.046205748,
+                "excerpt": "If our security system is breached, we will notify you of the breach to the extent required under applicable law.\n5. Information Retention\nWe retain the Personal Information we receive as described in this Privacy Policy for as long as you use our Site or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with appli...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "2ea18d8d84c2715964d843c6481c20054500afac8dfa105e9516a02a197844b4",
+                "score": 0.018653521,
+                "excerpt": "identify you, but provides insights regarding your use of the Site. For example, we collect information about your use of the Site, including but not limited to Internet connections, computer equipment, browser information, websites visited before entering and after leaving the Site, IP addresses, and other information about your use of the Site that does not identify you as a user.\nYou may be given the option to receive push notifications while using our Services. In order to serve push notific...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "0b0fbce608da8c04f68310e2c07cc0373973e4616fe7184d2b5b574179663a6f",
+                "score": 0.017644463,
+                "excerpt": "services. We encourage you to review the privacy policies and terms of all third-party websites or services that you may visit.\n7. Children’s Privacy\nWe do not sell products or services for purchase by anyone under the age of thirteen (13). In accordance with the Children’s Online Privacy Protection Act (“COPPA”), we will never knowingly request or solicit Personal Information from anyone under the age of thirteen (13) without verifiable parental consent. In the event that we receive actual know...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6502851494,
+            "url": "https://www.thehappyhournash.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with service providers, authorized third parties, third parties in the event of reorganization, merger, sale, joint venture, assignment, transfer, or other disposition, and as deemed necessary under applicable law or with express consent. The app may also use third-party e-mail providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Service providers",
+                        "Authorized third parties",
+                        "Third parties in corporate events",
+                        "Necessary third parties under applicable law",
+                        "Third-party e-mail providers"
+                    ]
+                }
+            },
+            "analysis": "The app shares data with various types of third parties as outlined in its privacy policy to provide services, ensure security, and comply with legal obligations.",
+            "reference": "Service providers that help us administer and provide the Services (for example, a web hosting company whose services we use to host our platform). These third-party services providers have access to your Personal Information only for the purpose of performing services on our behalf. URL: https://www.thehappyhournash.com/privacy-policy, Authorized third parties, who are parties directly authorized by you to receive the applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy, Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the recipient to use such information in accordance with this Privacy Policy, As we believe necessary: (i) under applicable law; (ii) to enforce applicable terms and conditions; (iii) to protect our rights, privacy, safety or property, and/or that of our affiliates, you, or others; (iv) to detect, prevent, or otherwise address fraud, security or technical issues; (v) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment and (vi) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence; and, Pursuant to your express consent, In addition, we may use third‐party e‐mail providers to deliver communications to you. This is an opt-in e-mail program. If you no longer want to receive these e-mail communications, you may opt-out of receiving e-mail communications through the 'unsubscribe' link or by contacting us at info@thehappyhournash.com. URL: https://www.thehappyhournash.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "894e9691967697b99509abb151bf8742e009ec2d02d224897cd7982a61318e86",
+                "score": 0.70639306,
+                "excerpt": "no longer want to receive these e-mail communications, you may opt-out of receiving e-mail communications through the “unsubscribe” link or by contacting us at info@thehappyhournash.com.\nWe may, from time to time, invite you to participate in online surveys. The information requested in these surveys may include, but is not limited to, your opinions, beliefs, insights, ideas, activities, experience, purchase history, and purchase intent regarding products, events, and Services. The information c...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "e7295df83860c022ab8375c8f350cb618b572202fb8ef80d74362e0f36a99aa9",
+                "score": 0.35801628,
+                "excerpt": "If our security system is breached, we will notify you of the breach to the extent required under applicable law.\n5. Information Retention\nWe retain the Personal Information we receive as described in this Privacy Policy for as long as you use our Site or as necessary to fulfill the purpose(s) for which it was collected, provide our products and services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with appli...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "c81c80814c25227b9801a396b567342e5f6f9824ee7e2f82f2a64a149a60ba54",
+                "score": 0.254787,
+                "excerpt": "applicable Information, such as when you authorize a third-party application provider to access your account. The use of your Information by an authorized third party is subject to the third party’s privacy policy;\n- Third parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), in which case we will require the re...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "0b0fbce608da8c04f68310e2c07cc0373973e4616fe7184d2b5b574179663a6f",
+                "score": 0.12874405,
+                "excerpt": "services. We encourage you to review the privacy policies and terms of all third-party websites or services that you may visit.\n7. Children’s Privacy\nWe do not sell products or services for purchase by anyone under the age of thirteen (13). In accordance with the Children’s Online Privacy Protection Act (“COPPA”), we will never knowingly request or solicit Personal Information from anyone under the age of thirteen (13) without verifiable parental consent. In the event that we receive actual know...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            },
+            {
+                "id": "a4b1fc54bdfe0bb022c195537b4a1fe36d8d33bd4b172847e87e312adc1a435e",
+                "score": 0.045862664,
+                "excerpt": "updates about the Services.\n- To notify you of any changes to relevant agreements, policies, or other terms, and to enforce such terms.\n- To work with our service providers, who perform certain business functions or services on our behalf.\n- To prevent or investigate fraud, or for risk management purposes, and to help maintain the safety, security, and integrity of our Services, databases and other technology assets, and business.\n- To comply with legal obligations, court orders, or in order to ...",
+                "url": "https://www.thehappyhournash.com/privacy-policy"
+            }
+        ]
+    }
+]

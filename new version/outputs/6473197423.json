@@ -1,0 +1,333 @@
+[
+    {
+        "meta": {
+            "id": 6473197423,
+            "url": "https://www.mysphereapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal information is collected through the app for various purposes, indicating that the app declares the collection of data.",
+            "reference": "We process the following information: | For the following purposes: | On the following bases: | Information you provide to us via the App | |. URL: https://www.mysphereapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "14e71fd0a603a16f85f8168536b8f86551ea39aa8278dc3623d38f0c3f7eee56",
+                "score": 0.12678517,
+                "excerpt": "business. |\nAuthorities | We may disclose your personal information to the court service or regulators or law enforcement agencies in connection with proceedings or investigations where compelled to do so. | To comply with a legal obligation (Article 6(1)(f) GDPR) or in pursuit of our legitimate interests (Article 6(1)(f) GDPR), namely the protection of our business. |\nInternational Transfers\nAll information submitted to us via the App is stored on Google Firebase servers located inside the Euro...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "5cf93d7c16746a155c7697617e0353a1da8b540ed0fff23c1b34a2fb18b5dcbc",
+                "score": 0.053107902,
+                "excerpt": "amount, nature, and sensitivity of the personal data, the personal risk or harm from unauthorised use or disclosure, the purpose for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.\nPlease note the foregoing does not apply to any personal data that has been irreversibly anonymised, meaning data rendered anonymous in such a manner that you are no longer identifiable from such data. Under the applicable law, s...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "24c241e96ac56a101f1e415ec04cea2d4aba352b5baaca6b95298b13c44e55bb",
+                "score": 0.05127242,
+                "excerpt": "managed in accordance with this Policy.\nAcknowledgement\nProcessing Activities\nWe process the following information: | For the following purposes: | On the following bases: |\n|---|---|---|\nInformation you provide to us via the App | ||\nName and email address. | We need these if you want a more personalised in-App experience and also to able to contact you outside of the App. | To the extent you wish to receive this part of the Service, this information is necessary for the performance of the cont...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "0fd5950d26fc4af297738f742233d95b995247cfd043fa0b680301a7dce3e002",
+                "score": 0.031084951,
+                "excerpt": "Service. (Article 9(2)(a) GDPR). Please note that if this or any other information you submit to us is irreversibly anonymised, it shall be longer treated as personal data and this Policy shall not apply to it. |\nWe also need these in order to assess whether the Service is suitable for you to use. | It may be necessary to protect your vital interests (Article 9(2)(c) GDPR). Please contact us if you need additional information about this type of information processing. | |\nInformation generated w...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "a80ff40f5c1095c0965d551ea11fed66e8136c9d3d4e96dfded8a9533fc2a084",
+                "score": 0.023286305,
+                "excerpt": "Privacy Policy\nWho We Are\nWhilst your legal agreement may be with a different legal entity, depending on your residence, unless notified otherwise, Sphere Health Innovations Limited (‘we‘, ‘us‘ or ‘our‘) is the controller responsible for processing any personal data you submit to us via our website or mobile application. We are a private company limited by shares, registered in England and Wales (Registration No 12107479) with its registered office at c/o Work.Life, 13 Hawley Crescent, London, N...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473197423,
+            "url": "https://www.mysphereapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "Name, email address, date of birth, gender, answers to pre-formulated questions about health, device-specific information, screen resolution, device memory, OS type and version, IP address, IDFA or AAID, type of internet connection, approximate location, details of App use, App interaction information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Name and email address",
+                        "Date of birth and gender",
+                        "Answers to pre-formulated questions about health",
+                        "Device-specific information (such as model, screen resolution, memory, OS type, IP address)",
+                        "IDFA or AAID information",
+                        "Type of internet connection",
+                        "Approximate location, App use details, App interaction information"
+                    ]
+                }
+            },
+            "analysis": "The app collects a variety of data types including personal information like name, email, date of birth, gender, answers about health, and device-specific information.",
+            "reference": "Name and email address, Date of birth, gender, Answers to pre-formulated questions about your health, Device-specific information such as device model, screen resolution, device memory, OS type and version, IP address, IDFA or AAID, type of internet connection, approximate location, details of your use of the App and App interaction information. URL: https://www.mysphereapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "24c241e96ac56a101f1e415ec04cea2d4aba352b5baaca6b95298b13c44e55bb",
+                "score": 0.14669742,
+                "excerpt": "managed in accordance with this Policy.\nAcknowledgement\nProcessing Activities\nWe process the following information: | For the following purposes: | On the following bases: |\n|---|---|---|\nInformation you provide to us via the App | ||\nName and email address. | We need these if you want a more personalised in-App experience and also to able to contact you outside of the App. | To the extent you wish to receive this part of the Service, this information is necessary for the performance of the cont...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "0fd5950d26fc4af297738f742233d95b995247cfd043fa0b680301a7dce3e002",
+                "score": 0.063366346,
+                "excerpt": "Service. (Article 9(2)(a) GDPR). Please note that if this or any other information you submit to us is irreversibly anonymised, it shall be longer treated as personal data and this Policy shall not apply to it. |\nWe also need these in order to assess whether the Service is suitable for you to use. | It may be necessary to protect your vital interests (Article 9(2)(c) GDPR). Please contact us if you need additional information about this type of information processing. | |\nInformation generated w...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "5cf93d7c16746a155c7697617e0353a1da8b540ed0fff23c1b34a2fb18b5dcbc",
+                "score": 0.031084951,
+                "excerpt": "amount, nature, and sensitivity of the personal data, the personal risk or harm from unauthorised use or disclosure, the purpose for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.\nPlease note the foregoing does not apply to any personal data that has been irreversibly anonymised, meaning data rendered anonymous in such a manner that you are no longer identifiable from such data. Under the applicable law, s...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "a80ff40f5c1095c0965d551ea11fed66e8136c9d3d4e96dfded8a9533fc2a084",
+                "score": 0.02854415,
+                "excerpt": "Privacy Policy\nWho We Are\nWhilst your legal agreement may be with a different legal entity, depending on your residence, unless notified otherwise, Sphere Health Innovations Limited (‘we‘, ‘us‘ or ‘our‘) is the controller responsible for processing any personal data you submit to us via our website or mobile application. We are a private company limited by shares, registered in England and Wales (Registration No 12107479) with its registered office at c/o Work.Life, 13 Hawley Crescent, London, N...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "14e71fd0a603a16f85f8168536b8f86551ea39aa8278dc3623d38f0c3f7eee56",
+                "score": 0.015189049,
+                "excerpt": "business. |\nAuthorities | We may disclose your personal information to the court service or regulators or law enforcement agencies in connection with proceedings or investigations where compelled to do so. | To comply with a legal obligation (Article 6(1)(f) GDPR) or in pursuit of our legitimate interests (Article 6(1)(f) GDPR), namely the protection of our business. |\nInternational Transfers\nAll information submitted to us via the App is stored on Google Firebase servers located inside the Euro...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473197423,
+            "url": "https://www.mysphereapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the purpose of data collection and use, indicating transparency in the app's data practices.",
+            "reference": "We need these in order to assess whether the Service is suitable for you to use. | It may be necessary to protect your vital interests (Article 9(2)(c) GDPR). Please contact us if you need additional information about this type of information processing. | | Information generated when you use the App. URL: https://www.mysphereapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "5cf93d7c16746a155c7697617e0353a1da8b540ed0fff23c1b34a2fb18b5dcbc",
+                "score": 0.29229218,
+                "excerpt": "amount, nature, and sensitivity of the personal data, the personal risk or harm from unauthorised use or disclosure, the purpose for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.\nPlease note the foregoing does not apply to any personal data that has been irreversibly anonymised, meaning data rendered anonymous in such a manner that you are no longer identifiable from such data. Under the applicable law, s...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "24c241e96ac56a101f1e415ec04cea2d4aba352b5baaca6b95298b13c44e55bb",
+                "score": 0.12527926,
+                "excerpt": "managed in accordance with this Policy.\nAcknowledgement\nProcessing Activities\nWe process the following information: | For the following purposes: | On the following bases: |\n|---|---|---|\nInformation you provide to us via the App | ||\nName and email address. | We need these if you want a more personalised in-App experience and also to able to contact you outside of the App. | To the extent you wish to receive this part of the Service, this information is necessary for the performance of the cont...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "0fd5950d26fc4af297738f742233d95b995247cfd043fa0b680301a7dce3e002",
+                "score": 0.045948204,
+                "excerpt": "Service. (Article 9(2)(a) GDPR). Please note that if this or any other information you submit to us is irreversibly anonymised, it shall be longer treated as personal data and this Policy shall not apply to it. |\nWe also need these in order to assess whether the Service is suitable for you to use. | It may be necessary to protect your vital interests (Article 9(2)(c) GDPR). Please contact us if you need additional information about this type of information processing. | |\nInformation generated w...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "08ed6fea8a8ea618c2e47716ffea097e8c125a06c11984d74fd28d72745973c6",
+                "score": 0.025613915,
+                "excerpt": "grounds: |\n|---|---|---|\nSuppliers | Including but not limited to:\nGoogle Firebase Cloud Storage: to store data and facilitate the provision of the Service. | This is necessary for the performance of the contract between us (ie the App’s T&Cs) (Article 6(1)(b) GDPR). |\nGoogle Analytics for Mobile Apps: to facilitate the promotion and improvement of the Service.\n| This is necessary for the purposes of the legitimate interests pursued by us (Article 6(1)(f) GDPR), namely running analytics in the i...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "a80ff40f5c1095c0965d551ea11fed66e8136c9d3d4e96dfded8a9533fc2a084",
+                "score": 0.017442485,
+                "excerpt": "Privacy Policy\nWho We Are\nWhilst your legal agreement may be with a different legal entity, depending on your residence, unless notified otherwise, Sphere Health Innovations Limited (‘we‘, ‘us‘ or ‘our‘) is the controller responsible for processing any personal data you submit to us via our website or mobile application. We are a private company limited by shares, registered in England and Wales (Registration No 12107479) with its registered office at c/o Work.Life, 13 Hawley Crescent, London, N...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473197423,
+            "url": "https://www.mysphereapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users have the right to request the deletion of their personal data or to opt out of data collection, providing a way for users to exercise control over their data.",
+            "reference": "You have the right to request the deletion of your personal data or to object to the processing of your personal data. URL: https://www.mysphereapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "39df109a801433646fc70ebe77576e045a3be0832fda20d76dca069c74700295",
+                "score": 0.20657375,
+                "excerpt": "the third parties we deal with maintain physical, electronic and procedural safeguards to protect your personal information in accordance with data protection legislation requirements. As a data controller, we are under an obligation to implement appropriate and commercially reasonable technical and organisational measures to ensure a level of security appropriate to the risk for your fights and freedoms.\nAll information you provide to us is stored on our suppliers’ secure servers and is encrypt...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "5facb28a070a6ee35983c99b009ec05b96fe96567b6d7e917307a030ce61a45a",
+                "score": 0.08555635,
+                "excerpt": "use hello@mysphereapp.com for the exercise of any of your rights:\nThe right to be informed; | The right to access; | The right to rectification;\n|\nThe right to erasure; | The right to restrict processing; | The right to object to profiling; |\nThe right to data portability; | The right to complain to the Information Commissioner’s Office; and | The right to withdraw consent. |\nDetailed information on the full content of your rights is provided by the United Kingdom’s Information Commissioner’s Of...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "5cf93d7c16746a155c7697617e0353a1da8b540ed0fff23c1b34a2fb18b5dcbc",
+                "score": 0.02665774,
+                "excerpt": "amount, nature, and sensitivity of the personal data, the personal risk or harm from unauthorised use or disclosure, the purpose for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.\nPlease note the foregoing does not apply to any personal data that has been irreversibly anonymised, meaning data rendered anonymous in such a manner that you are no longer identifiable from such data. Under the applicable law, s...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "e656870fad29fe39153aadcbbb1609c1d4ece0c102d0970e91566955bd8f2fa1",
+                "score": 0.01450358,
+                "excerpt": "outside the EEA (e.g. the United Arab Emirates). Our employees’ access to your personal data from overseas is not considered a ‘restricted transfer’ under data protection law as your information stays in our control. Nevertheless, regardless of location or whether the person is an employee, contractor or a third party, we will impose the same data protection safeguards that we employ inside the EEA. Whenever required by law, we will also implement ‘appropriate safeguards’ as defined in applicabl...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "14e71fd0a603a16f85f8168536b8f86551ea39aa8278dc3623d38f0c3f7eee56",
+                "score": 0.011419615,
+                "excerpt": "business. |\nAuthorities | We may disclose your personal information to the court service or regulators or law enforcement agencies in connection with proceedings or investigations where compelled to do so. | To comply with a legal obligation (Article 6(1)(f) GDPR) or in pursuit of our legitimate interests (Article 6(1)(f) GDPR), namely the protection of our business. |\nInternational Transfers\nAll information submitted to us via the App is stored on Google Firebase servers located inside the Euro...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473197423,
+            "url": "https://www.mysphereapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app shares data with third parties such as Google Firebase Cloud Storage and Google Analytics for Mobile Apps.",
+            "reference": "Third party Disclosure: Suppliers including but not limited to: Google Firebase Cloud Storage to store data and facilitate the provision of the Service. Google Analytics for Mobile Apps to facilitate the promotion and improvement of the Service. This is necessary for the performance of the contract between us (ie the App’s T&Cs) (Article 6(1)(b) GDPR). URL: https://www.mysphereapp.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "14e71fd0a603a16f85f8168536b8f86551ea39aa8278dc3623d38f0c3f7eee56",
+                "score": 0.7880943,
+                "excerpt": "business. |\nAuthorities | We may disclose your personal information to the court service or regulators or law enforcement agencies in connection with proceedings or investigations where compelled to do so. | To comply with a legal obligation (Article 6(1)(f) GDPR) or in pursuit of our legitimate interests (Article 6(1)(f) GDPR), namely the protection of our business. |\nInternational Transfers\nAll information submitted to us via the App is stored on Google Firebase servers located inside the Euro...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "b416ff3251fd14f397b129e21008b1d0651cae57c93cb07728a8cfe473b3c6e2",
+                "score": 0.69461346,
+                "excerpt": "analyse the App’s performance and to continue to improve it. Part of it is necessary for us to advertise the App. | This is necessary for the performance of the contract between us (i.e. the App’s T&Cs) (Article 6(1)(b) GDPR).\nThis is necessary for the purposes of the legitimate interests pursued by us (Article 6(1)(f) GDPR). We need to run analytics (without disclosing your information to any third parties) in the interest of providing a safe and effective Service which we can improve over time...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "e656870fad29fe39153aadcbbb1609c1d4ece0c102d0970e91566955bd8f2fa1",
+                "score": 0.3209277,
+                "excerpt": "outside the EEA (e.g. the United Arab Emirates). Our employees’ access to your personal data from overseas is not considered a ‘restricted transfer’ under data protection law as your information stays in our control. Nevertheless, regardless of location or whether the person is an employee, contractor or a third party, we will impose the same data protection safeguards that we employ inside the EEA. Whenever required by law, we will also implement ‘appropriate safeguards’ as defined in applicabl...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "08ed6fea8a8ea618c2e47716ffea097e8c125a06c11984d74fd28d72745973c6",
+                "score": 0.15546273,
+                "excerpt": "grounds: |\n|---|---|---|\nSuppliers | Including but not limited to:\nGoogle Firebase Cloud Storage: to store data and facilitate the provision of the Service. | This is necessary for the performance of the contract between us (ie the App’s T&Cs) (Article 6(1)(b) GDPR). |\nGoogle Analytics for Mobile Apps: to facilitate the promotion and improvement of the Service.\n| This is necessary for the purposes of the legitimate interests pursued by us (Article 6(1)(f) GDPR), namely running analytics in the i...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "5cf93d7c16746a155c7697617e0353a1da8b540ed0fff23c1b34a2fb18b5dcbc",
+                "score": 0.14547919,
+                "excerpt": "amount, nature, and sensitivity of the personal data, the personal risk or harm from unauthorised use or disclosure, the purpose for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.\nPlease note the foregoing does not apply to any personal data that has been irreversibly anonymised, meaning data rendered anonymous in such a manner that you are no longer identifiable from such data. Under the applicable law, s...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6473197423,
+            "url": "https://www.mysphereapp.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Suppliers such as Google Firebase Cloud Storage and Google Analytics for Mobile Apps, as well as Advisors including professional advisors like solicitors and accountants, and Authorities like court services or law enforcement agencies.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Google Firebase Cloud Storage",
+                        "Google Analytics for Mobile Apps",
+                        "Advisors (solicitors, accountants, etc.)",
+                        "Authorities (court services, regulators, law enforcement agencies)"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions the types of third parties the app shares data with, including Suppliers, Advisors, and Authorities.",
+            "reference": "Suppliers | Including but not limited to: Google Firebase Cloud Storage: to store data and facilitate the provision of the Service. Google Analytics for Mobile Apps: to facilitate the promotion and improvement of the Service. URL: https://www.mysphereapp.com/privacy-policy; Advisors | We may disclose your personal information to our professional advisors that are usually regulated by a competent authority (solicitors, accountants, etc.) where that proves necessary. URL: https://www.mysphereapp.com/privacy-policy; Authorities | We may disclose your personal information to the court service or regulators or law enforcement agencies in connection with proceedings or investigations where compelled to do so. URL: https://www.mysphereapp.com/privacy-policy."
+        },
+        "source_documents": [
+            {
+                "id": "14e71fd0a603a16f85f8168536b8f86551ea39aa8278dc3623d38f0c3f7eee56",
+                "score": 0.8292156,
+                "excerpt": "business. |\nAuthorities | We may disclose your personal information to the court service or regulators or law enforcement agencies in connection with proceedings or investigations where compelled to do so. | To comply with a legal obligation (Article 6(1)(f) GDPR) or in pursuit of our legitimate interests (Article 6(1)(f) GDPR), namely the protection of our business. |\nInternational Transfers\nAll information submitted to us via the App is stored on Google Firebase servers located inside the Euro...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "b416ff3251fd14f397b129e21008b1d0651cae57c93cb07728a8cfe473b3c6e2",
+                "score": 0.72311395,
+                "excerpt": "analyse the App’s performance and to continue to improve it. Part of it is necessary for us to advertise the App. | This is necessary for the performance of the contract between us (i.e. the App’s T&Cs) (Article 6(1)(b) GDPR).\nThis is necessary for the purposes of the legitimate interests pursued by us (Article 6(1)(f) GDPR). We need to run analytics (without disclosing your information to any third parties) in the interest of providing a safe and effective Service which we can improve over time...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "08ed6fea8a8ea618c2e47716ffea097e8c125a06c11984d74fd28d72745973c6",
+                "score": 0.5574839,
+                "excerpt": "grounds: |\n|---|---|---|\nSuppliers | Including but not limited to:\nGoogle Firebase Cloud Storage: to store data and facilitate the provision of the Service. | This is necessary for the performance of the contract between us (ie the App’s T&Cs) (Article 6(1)(b) GDPR). |\nGoogle Analytics for Mobile Apps: to facilitate the promotion and improvement of the Service.\n| This is necessary for the purposes of the legitimate interests pursued by us (Article 6(1)(f) GDPR), namely running analytics in the i...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "39df109a801433646fc70ebe77576e045a3be0832fda20d76dca069c74700295",
+                "score": 0.3823144,
+                "excerpt": "the third parties we deal with maintain physical, electronic and procedural safeguards to protect your personal information in accordance with data protection legislation requirements. As a data controller, we are under an obligation to implement appropriate and commercially reasonable technical and organisational measures to ensure a level of security appropriate to the risk for your fights and freedoms.\nAll information you provide to us is stored on our suppliers’ secure servers and is encrypt...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            },
+            {
+                "id": "e656870fad29fe39153aadcbbb1609c1d4ece0c102d0970e91566955bd8f2fa1",
+                "score": 0.15482272,
+                "excerpt": "outside the EEA (e.g. the United Arab Emirates). Our employees’ access to your personal data from overseas is not considered a ‘restricted transfer’ under data protection law as your information stays in our control. Nevertheless, regardless of location or whether the person is an employee, contractor or a third party, we will impose the same data protection safeguards that we employ inside the EEA. Whenever required by law, we will also implement ‘appropriate safeguards’ as defined in applicabl...",
+                "url": "https://www.mysphereapp.com/privacy-policy"
+            }
+        ]
+    }
+]

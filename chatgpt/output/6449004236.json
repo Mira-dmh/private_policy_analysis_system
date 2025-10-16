@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 6449004236,
+      "url": "https://mindbodytrivia.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that by using the Application, users consent to the collection of information by the app and third parties that may collect information used to identify them. The policy details the types of information collected, including user-provided information and automatically collected information.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly mentions the types of data collected and the consent required from users.",
+          "content": "The Application obtains information when users download and register, including personal details and usage data."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the data collection practices, ensuring users are informed about what information is collected and how it is used.",
+      "reference": "Information You Provide, Automatically Collected Information, Your Consent"
+    }
+  },
+  {
+    "meta": {
+      "id": 6449004236,
+      "url": "https://mindbodytrivia.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects various types of data, including information you provide when registering, such as your name/nickname, email address, phone number, address, profile photo, age range, gender, interests, and purchase or payment information. It also collects automatically generated information like the type of mobile device you use, IP address, unique device identifiers, advertising identifiers, mobile operating system, mobile carrier, browser type, approximate location, and usage information about the app.",
+        "simple_answer": "The app collects personal information, device information, and usage data.",
+        "extended_simple_answer": {
+          "comment": "The data collected helps improve user experience and app functionality.",
+          "content": "The app collects personal information (like name, email, and phone number), device information (like IP address and device type), and usage data (like how you interact with the app)."
+        }
+      },
+      "analysis": "",
+      "reference": "Information You Provide; Automatically Collected Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6449004236,
+      "url": "https://mindbodytrivia.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information collected is used to provide, maintain, secure, customize, and improve the Application. Specific purposes include performing internal operations, understanding user interactions, maintaining security, sending marketing communications, facilitating communication with friends, complying with legal requirements, and managing virtual currency.",
+        "simple_answer": "Yes, the app declares the purpose of data collection and use.",
+        "extended_simple_answer": {
+          "comment": "The app outlines various business and commercial purposes for data collection.",
+          "content": "The information is used for internal operations, user interaction analysis, security maintenance, marketing communications, and legal compliance."
+        }
+      },
+      "analysis": "",
+      "reference": "How We Use Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 6449004236,
+      "url": "https://mindbodytrivia.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, the user can stop all collection of information by uninstalling the Application. Additionally, if a parent or guardian becomes aware that their child has provided information without consent, they can email the company to have that information deleted from their files.",
+        "simple_answer": "Yes, users can opt out by uninstalling the app or request deletion of data.",
+        "extended_simple_answer": {
+          "comment": "Users have the option to stop data collection and can also request deletion of data for children under 13.",
+          "content": "You can stop all collection of information by the Application easily by uninstalling the Application. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, please email us and we will delete such information from our files within a reasonable time."
+        }
+      },
+      "analysis": "",
+      "reference": "Opt-out Rights"
+    }
+  },
+  {
+    "meta": {
+      "id": 6449004236,
+      "url": "https://mindbodytrivia.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares user-provided and automatically collected information with third parties in specific circumstances, such as when required by law, to protect rights and safety, or with trusted service providers who work on behalf of the app and adhere to the privacy rules.",
+        "simple_answer": "Yes, the app shares data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The app has specific conditions under which it shares data with third parties.",
+          "content": "The app may disclose information as required by law, to protect rights and safety, or with trusted service providers."
+        }
+      },
+      "analysis": "",
+      "reference": "Third Parties"
+    }
+  },
+  {
+    "meta": {
+      "id": 6449004236,
+      "url": "https://mindbodytrivia.com/privacy",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with third parties only in the ways described in the privacy statement, which includes sharing information as required by law, with trusted service providers who work on behalf of the app and have agreed to adhere to the privacy rules, and when necessary to protect rights or safety.",
+        "simple_answer": "The app shares data with trusted service providers and as required by law.",
+        "extended_simple_answer": {
+          "comment": "The app does not have control over third-party sites and services.",
+          "content": "The app may disclose User Provided and Automatically Collected Information as required by law, when necessary to protect rights or safety, and with trusted service providers who work on behalf of the app."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the conditions under which data may be shared with third parties, emphasizing legal compliance and partnerships with trusted service providers.",
+      "reference": "Third Parties section"
+    }
+  }
+]

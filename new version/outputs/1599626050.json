@@ -1,0 +1,327 @@
+[
+    {
+        "meta": {
+            "id": 1599626050,
+            "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app collects personal data for various purposes, indicating that data collection is disclosed.",
+            "reference": "We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. URL: https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+        },
+        "source_documents": [
+            {
+                "id": "7215ce9da129d3e0413d48c9c298525e186d1182cf1b011bc83b4d8e44594043",
+                "score": 0.010169658,
+                "excerpt": "Privacy Policy for Fraction Tap\nLast updated: November 24, 2021\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "9f9692ebc62a5b50fcf57f4abb7bfeb7f2501b37f076af35fa03589abeecb20d",
+                "score": 0.0047552,
+                "excerpt": "Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You acces...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "0d24cdb725bd4ccd7486a50b6184f30c12eff3b593703ff4e2965b498f610b26",
+                "score": 0.0020667946,
+                "excerpt": "but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b56043b9034699843d3b964df914e340c6d18bc29451a91d9d76748013297e6c",
+                "score": 0.0020269002,
+                "excerpt": "as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to stren...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b47781c58893cfe521ef1f2df89f2ffe2ecc96cd1ade984430db512c964eb5ea",
+                "score": 0.0012743262,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication means the software program provided by the Company downloaded by You on any electronic device, named Fraction Tap\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Fraction Tap.\nCountry refers to: California, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any in...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1599626050,
+            "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects Usage Data such as Internet Protocol address, browser type, pages visited, time spent on pages, unique device identifiers, and other diagnostic data.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol address (e.g. IP address)",
+                        "Browser type",
+                        "Pages visited",
+                        "Time spent on pages",
+                        "Unique device identifiers",
+                        "Other diagnostic data"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the collection of Usage Data automatically while using the app, including specific details such as IP addresses, browser types, and unique device identifiers.",
+            "reference": "Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data. URL: https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+        },
+        "source_documents": [
+            {
+                "id": "9f9692ebc62a5b50fcf57f4abb7bfeb7f2501b37f076af35fa03589abeecb20d",
+                "score": 0.053700306,
+                "excerpt": "Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You acces...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "ca932ef25d3f3ededb81eca0e4f897c451cc7f892d81f2f73b43d0eeebab5c8f",
+                "score": 0.039268754,
+                "excerpt": "duration of a page visit).\nYou means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage Data ...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b47781c58893cfe521ef1f2df89f2ffe2ecc96cd1ade984430db512c964eb5ea",
+                "score": 0.033652965,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication means the software program provided by the Company downloaded by You on any electronic device, named Fraction Tap\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Fraction Tap.\nCountry refers to: California, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any in...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "7215ce9da129d3e0413d48c9c298525e186d1182cf1b011bc83b4d8e44594043",
+                "score": 0.009596455,
+                "excerpt": "Privacy Policy for Fraction Tap\nLast updated: November 24, 2021\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "803ea58b6a2e0094f1a38794527cf962d1134b4010361f8bb3cfbff6a776d652",
+                "score": 0.005448068,
+                "excerpt": "necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, diss...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1599626050,
+            "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app clearly states in its Privacy Policy that it uses Personal Data for various purposes such as providing and maintaining the service, managing user accounts, contacting users for updates, providing news and offers, managing user requests, and other business purposes.",
+            "reference": "The Company may use Personal Data for the following purposes: To provide and maintain our Service, To manage Your Account, To contact You, To provide You with news, special offers, and general information about other goods, services, and events, To manage Your requests, For business transfers, For other purposes. URL: https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+        },
+        "source_documents": [
+            {
+                "id": "7215ce9da129d3e0413d48c9c298525e186d1182cf1b011bc83b4d8e44594043",
+                "score": 0.054600604,
+                "excerpt": "Privacy Policy for Fraction Tap\nLast updated: November 24, 2021\nThis Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.\nWe use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "9f9692ebc62a5b50fcf57f4abb7bfeb7f2501b37f076af35fa03589abeecb20d",
+                "score": 0.02854415,
+                "excerpt": "Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You acces...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b56043b9034699843d3b964df914e340c6d18bc29451a91d9d76748013297e6c",
+                "score": 0.015543648,
+                "excerpt": "as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to stren...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "803ea58b6a2e0094f1a38794527cf962d1134b4010361f8bb3cfbff6a776d652",
+                "score": 0.012288597,
+                "excerpt": "necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, diss...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "ca932ef25d3f3ededb81eca0e4f897c451cc7f892d81f2f73b43d0eeebab5c8f",
+                "score": 0.004433765,
+                "excerpt": "duration of a page visit).\nYou means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.\nWhile using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:\nUsage Data is collected automatically when using the Service.\nUsage Data ...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1599626050,
+            "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that users can opt out of data collection or delete data if they wish to do so.",
+            "reference": "If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information. URL: https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+        },
+        "source_documents": [
+            {
+                "id": "0d24cdb725bd4ccd7486a50b6184f30c12eff3b593703ff4e2965b498f610b26",
+                "score": 0.046464667,
+                "excerpt": "but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b56043b9034699843d3b964df914e340c6d18bc29451a91d9d76748013297e6c",
+                "score": 0.020488555,
+                "excerpt": "as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to stren...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "803ea58b6a2e0094f1a38794527cf962d1134b4010361f8bb3cfbff6a776d652",
+                "score": 0.017375665,
+                "excerpt": "necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, diss...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "a8387f01b04384a49e33f2dc00a118824e511b5af8926b1a32d3537572786a19",
+                "score": 0.014117893,
+                "excerpt": "jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.\nIf the Company is i...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "9f9692ebc62a5b50fcf57f4abb7bfeb7f2501b37f076af35fa03589abeecb20d",
+                "score": 0.0119150225,
+                "excerpt": "Internet browser You use, unique device identifiers and other diagnostic data.\nWe may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.\nThe Company may use Personal Data for the following purposes:\nTo provide and maintain our Service, including to monitor the usage of our Service.\nTo manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You acces...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1599626050,
+            "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app may share personal information in certain situations, indicating data sharing with third parties.",
+            "reference": "We may share Your personal information in the following situations: The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes. URL: https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+        },
+        "source_documents": [
+            {
+                "id": "803ea58b6a2e0094f1a38794527cf962d1134b4010361f8bb3cfbff6a776d652",
+                "score": 0.043204036,
+                "excerpt": "necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, diss...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "0d24cdb725bd4ccd7486a50b6184f30c12eff3b593703ff4e2965b498f610b26",
+                "score": 0.024845436,
+                "excerpt": "but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b56043b9034699843d3b964df914e340c6d18bc29451a91d9d76748013297e6c",
+                "score": 0.022074386,
+                "excerpt": "as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to stren...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "a8387f01b04384a49e33f2dc00a118824e511b5af8926b1a32d3537572786a19",
+                "score": 0.015967654,
+                "excerpt": "jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.\nIf the Company is i...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b47781c58893cfe521ef1f2df89f2ffe2ecc96cd1ade984430db512c964eb5ea",
+                "score": 0.012576348,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication means the software program provided by the Company downloaded by You on any electronic device, named Fraction Tap\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Fraction Tap.\nCountry refers to: California, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any in...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1599626050,
+            "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Personal Data may be shared with third parties involved in the processing, service providers, or other parties providing support for the service.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "third parties involved in the processing, service providers, parties providing support for the service"
+                }
+            },
+            "analysis": "The privacy policy mentions the various circumstances under which personal data may be shared with third parties and the need to disclose data in certain situations. These third parties could include service providers or parties assisting in the service.",
+            "reference": "Personal Data may be shared with third parties involved in the processing, service providers, or other parties providing support for the service. URL: https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+        },
+        "source_documents": [
+            {
+                "id": "803ea58b6a2e0094f1a38794527cf962d1134b4010361f8bb3cfbff6a776d652",
+                "score": 0.17610413,
+                "excerpt": "necessary or reasonable for their implementation.\nTo provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.\nTo manage Your requests: To attend and manage Your requests to Us.\nFor business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, diss...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "a8387f01b04384a49e33f2dc00a118824e511b5af8926b1a32d3537572786a19",
+                "score": 0.069541745,
+                "excerpt": "jurisdiction.\nYour consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.\nThe Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.\nIf the Company is i...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "0d24cdb725bd4ccd7486a50b6184f30c12eff3b593703ff4e2965b498f610b26",
+                "score": 0.062445287,
+                "excerpt": "but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.\nOur Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b56043b9034699843d3b964df914e340c6d18bc29451a91d9d76748013297e6c",
+                "score": 0.047869004,
+                "excerpt": "as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.\nThe Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to stren...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            },
+            {
+                "id": "b47781c58893cfe521ef1f2df89f2ffe2ecc96cd1ade984430db512c964eb5ea",
+                "score": 0.045437217,
+                "excerpt": "or other securities entitled to vote for election of directors or other managing authority.\nApplication means the software program provided by the Company downloaded by You on any electronic device, named Fraction Tap\nCompany (referred to as either \"the Company\", \"We\", \"Us\" or \"Our\" in this Agreement) refers to Fraction Tap.\nCountry refers to: California, United States\nDevice means any device that can access the Service such as a computer, a cellphone or a digital tablet.\nPersonal Data is any in...",
+                "url": "https://www.freeprivacypolicy.com/live/fb06c4e1-7922-40b6-b530-67961abff993"
+            }
+        ]
+    }
+]

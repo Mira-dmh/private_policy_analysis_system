@@ -1,0 +1,253 @@
+[
+    {
+        "meta": {
+            "id": 6450597254,
+            "url": "https://reliefmind.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The app declares the collection of data from users through various activities mentioned in the privacy policy.",
+            "reference": "We may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features, or resources we make available on our Website. URL: https://reliefmind.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6f8d5db94fcbabf803795ce35ab6b2cd0e0c118eb0825305654d41825740dde8",
+                "score": 0.0006386796,
+                "excerpt": "This Privacy Policy governs the manner in which ReliefMind (\"we\" or \"our\") collects, uses, maintains, and discloses information collected from users (\"you\" or \"users\") of the ReliefMind website (\"reliefmind.ca\"). This policy applies to the Website and all products and services offered by ReliefMind.\nWe may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "3d42f5b40445a8dffba555abc5841b74e98c2428615741e7754583dc0b7836c3",
+                "score": 0.00054634205,
+                "excerpt": "protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website.\nWe do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined abo...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6a592f06fdf7a98f3a93011f03c4d6fdb82f953de18a9de1b667f62e321238f0",
+                "score": 0.0005132579,
+                "excerpt": "the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.\nIf you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us.\nCopyright © 2023 ReliefMind - All Rights Reserved.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+                "url": "https://reliefmind.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450597254,
+            "url": "https://reliefmind.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal identification information such as name, email address, mailing address, and phone number.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "name",
+                        "email address",
+                        "mailing address",
+                        "phone number"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly states that the app collects personal identification information from users.",
+            "reference": "Users may be asked for their name, email address, mailing address, and phone number. URL: https://reliefmind.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6a592f06fdf7a98f3a93011f03c4d6fdb82f953de18a9de1b667f62e321238f0",
+                "score": 0.0022343625,
+                "excerpt": "the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.\nIf you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us.\nCopyright © 2023 ReliefMind - All Rights Reserved.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "3d42f5b40445a8dffba555abc5841b74e98c2428615741e7754583dc0b7836c3",
+                "score": 0.0018031665,
+                "excerpt": "protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website.\nWe do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined abo...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6f8d5db94fcbabf803795ce35ab6b2cd0e0c118eb0825305654d41825740dde8",
+                "score": 0.0015307452,
+                "excerpt": "This Privacy Policy governs the manner in which ReliefMind (\"we\" or \"our\") collects, uses, maintains, and discloses information collected from users (\"you\" or \"users\") of the ReliefMind website (\"reliefmind.ca\"). This policy applies to the Website and all products and services offered by ReliefMind.\nWe may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450597254,
+            "url": "https://reliefmind.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy specifically mentions that they collect and use users' personal information for certain purposes, indicating that the app declares the purpose of data collection and use.",
+            "reference": "We may collect and use users' personal information for the following purposes: URL: https://reliefmind.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6f8d5db94fcbabf803795ce35ab6b2cd0e0c118eb0825305654d41825740dde8",
+                "score": 0.016914913,
+                "excerpt": "This Privacy Policy governs the manner in which ReliefMind (\"we\" or \"our\") collects, uses, maintains, and discloses information collected from users (\"you\" or \"users\") of the ReliefMind website (\"reliefmind.ca\"). This policy applies to the Website and all products and services offered by ReliefMind.\nWe may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "3d42f5b40445a8dffba555abc5841b74e98c2428615741e7754583dc0b7836c3",
+                "score": 0.0015427324,
+                "excerpt": "protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website.\nWe do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined abo...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6a592f06fdf7a98f3a93011f03c4d6fdb82f953de18a9de1b667f62e321238f0",
+                "score": 0.0006070756,
+                "excerpt": "the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.\nIf you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us.\nCopyright © 2023 ReliefMind - All Rights Reserved.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+                "url": "https://reliefmind.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450597254,
+            "url": "https://reliefmind.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, users can opt out of data collection by refusing to supply personal identification information.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users can refuse to supply personal identification information, which in turn would prevent the collection of data.",
+            "reference": "Users can always refuse to supply personal identification information, except that it may prevent them from engaging in certain Website-related activities. URL: https://reliefmind.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "6f8d5db94fcbabf803795ce35ab6b2cd0e0c118eb0825305654d41825740dde8",
+                "score": 0.057599206,
+                "excerpt": "This Privacy Policy governs the manner in which ReliefMind (\"we\" or \"our\") collects, uses, maintains, and discloses information collected from users (\"you\" or \"users\") of the ReliefMind website (\"reliefmind.ca\"). This policy applies to the Website and all products and services offered by ReliefMind.\nWe may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "3d42f5b40445a8dffba555abc5841b74e98c2428615741e7754583dc0b7836c3",
+                "score": 0.023509452,
+                "excerpt": "protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website.\nWe do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined abo...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6a592f06fdf7a98f3a93011f03c4d6fdb82f953de18a9de1b667f62e321238f0",
+                "score": 0.01685008,
+                "excerpt": "the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.\nIf you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us.\nCopyright © 2023 ReliefMind - All Rights Reserved.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+                "url": "https://reliefmind.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450597254,
+            "url": "https://reliefmind.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share generic aggregated demographic information not linked to any personal identification information with business partners, trusted affiliates, and advertisers.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that the app may share generic aggregated demographic information with specific entities for the purposes outlined in the policy.",
+            "reference": "We do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above.  URL: https://reliefmind.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3d42f5b40445a8dffba555abc5841b74e98c2428615741e7754583dc0b7836c3",
+                "score": 0.018511046,
+                "excerpt": "protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website.\nWe do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined abo...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6f8d5db94fcbabf803795ce35ab6b2cd0e0c118eb0825305654d41825740dde8",
+                "score": 0.0046636546,
+                "excerpt": "This Privacy Policy governs the manner in which ReliefMind (\"we\" or \"our\") collects, uses, maintains, and discloses information collected from users (\"you\" or \"users\") of the ReliefMind website (\"reliefmind.ca\"). This policy applies to the Website and all products and services offered by ReliefMind.\nWe may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6a592f06fdf7a98f3a93011f03c4d6fdb82f953de18a9de1b667f62e321238f0",
+                "score": 0.003649987,
+                "excerpt": "the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.\nIf you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us.\nCopyright © 2023 ReliefMind - All Rights Reserved.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+                "url": "https://reliefmind.ca/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 6450597254,
+            "url": "https://reliefmind.ca/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "ReliefMind shares data with business partners, trusted affiliates, and advertisers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "business partners, trusted affiliates, advertisers"
+                }
+            },
+            "analysis": "The privacy policy states that generic aggregated demographic information may be shared with business partners, trusted affiliates, and advertisers, not linked to any personal identification information.",
+            "reference": "We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined above. URL: https://reliefmind.ca/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "3d42f5b40445a8dffba555abc5841b74e98c2428615741e7754583dc0b7836c3",
+                "score": 0.045948204,
+                "excerpt": "protect against unauthorized access, alteration, disclosure, or destruction of your personal information, username, password, transaction information, and data stored on our Website.\nWe do not sell, trade, or rent users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates, and advertisers for the purposes outlined abo...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6f8d5db94fcbabf803795ce35ab6b2cd0e0c118eb0825305654d41825740dde8",
+                "score": 0.008478402,
+                "excerpt": "This Privacy Policy governs the manner in which ReliefMind (\"we\" or \"our\") collects, uses, maintains, and discloses information collected from users (\"you\" or \"users\") of the ReliefMind website (\"reliefmind.ca\"). This policy applies to the Website and all products and services offered by ReliefMind.\nWe may collect personal identification information from users in various ways, including but not limited to when users visit our Website, register on the Website, subscribe to the newsletter, respond...",
+                "url": "https://reliefmind.ca/privacy-policy"
+            },
+            {
+                "id": "6a592f06fdf7a98f3a93011f03c4d6fdb82f953de18a9de1b667f62e321238f0",
+                "score": 0.0057302467,
+                "excerpt": "the posting of changes to this Privacy Policy will be deemed your acceptance of those changes.\nIf you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us.\nCopyright © 2023 ReliefMind - All Rights Reserved.\nWe use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.",
+                "url": "https://reliefmind.ca/privacy-policy"
+            }
+        ]
+    }
+]

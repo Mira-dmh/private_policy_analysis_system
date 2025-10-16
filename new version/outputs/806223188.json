@@ -1,0 +1,341 @@
+[
+    {
+        "meta": {
+            "id": 806223188,
+            "url": "https://www.synapticlabs.uk/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the collection of data.",
+            "reference": "We comply with the Children’s Privacy Protection Act of 1998 (“COPPA”), a United States federal law. We do not knowingly collect personal information from children under the age of 13. We do not publish apps or own services that target children as their primary audience. Some of our apps or services may be considered mixed audience services under COPPA, meaning that they may be directed at children under the age of 13, but children are not the primary audience. For these apps and services, we employ methods to ensure that we do not collect any personal information from users under the age of 13. URL: https://www.synapticlabs.uk/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "40877860ad9a07b0adbfe2915860996c23df63ff9d505a2b8bf623e57adca082",
+                "score": 0.030502053,
+                "excerpt": "without the consent of the parent or guardian. If the user is 13 or over we will only collect and process Personal Information taking into account the level of maturity of youth of different ages.\nWe comply with the Children’s Privacy Protection Act of 1998 (“COPPA”), a United States federal law. We do not knowingly collect personal information from children under the age of 13.\nWe do not publish apps or own services that target children as their primary audience. Some of our apps or services ma...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "d59ccc9f6c7f665d482356e750a915eaee70af8d824d3364650156195f24c178",
+                "score": 0.028167473,
+                "excerpt": "therefrom for analysis purposes. The legal basis for storing and accessing the analysis cookies is Sec. 25(1) Act on Data Protection and the Protection of Privacy in Telecommunications and Telemedia (TTDSG). In regard to the processing of the personal data arising therefrom it is Art. 6(1)(1)(a) GDPR.\nYou can read more on each individual type of cookie here: https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses\nCHILDREN’S PRIVACY\nWe recognize the need to pro...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "3b0f6c4d8b40fc5425dfccb3c3bab6d1007fa0bd9dde6d5904046571e2c96ec6",
+                "score": 0.020804489,
+                "excerpt": "the Processor:\nApplovin Corporation\n1100 Page Mill Road\nPalo Alto\nCA 94304\nUSA (“AppLovin”).\nYou will find further information on the processing of personal data at AppLovin in AppLovin’s Privacy Policy: https://www.applovin.com/privacy/\n(3) Mintegral\nIn regard to our Games:\nPeak\nwe use the Processor:\nMintegral North America Inc.\n5050 El Camino Real\nLos Altos\nCA 94022\nUSA (“Mintegral””).\nYou will find further information on the processing of personal data at Digital Turbine in Digital Turbine’s ...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "6f049e7bdba86081afaacaf43886b112afb479f69c6a08ec419ae08940b05c6c",
+                "score": 0.020293485,
+                "excerpt": "of 13. We do not knowingly collect personal information from children under the age of 13. For more information on how we treat children’s privacy, see section 7 below.\nTable of Contents\nGeneral Principles of fata processing\nSpecific Instances of Data Processing\nData processing in external countries\nYour Rights\nCookies\nChildren’s privacy\nChanges to this Privacy Policy\nContact us\nGENERAL PRINCIPLES OF DATA PROCESSING\nBelow we would like to inform you about the general principles of data processin...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "2684c645d6554d87df06be85e87a2c22003992de34ce9726f1145c1599c261ea",
+                "score": 0.012624949,
+                "excerpt": "of installation of the game (source from which the user downloaded the app.)\nGame ID\nCountry Code\nIP address of the terminal\nGoogle Advertising ID (Advertising ID of Google)\nAllocation information specific to marketing (if the user has installed the Game after seeing an advertisement)\nPaying user status\nUser name\nCountry in which the user registered\nDate on which the user registered\nTime at which the user registered\nThe legal basis for the processing is your voluntary consent (Art. 6(1)(1)(a) GD...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 806223188,
+            "url": "https://www.synapticlabs.uk/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects personal data such as Account Name, Internal ID, Number and content of in-app purchases, Country where the Game was downloaded, Type of terminal used, Model number, Operating system of the terminal, Language settings of the terminal, Date of the download, App version, Days since the download, Duration of use of the Game, Number of times the Game has been accessed as well as aggregate statistical information including Android ID, Device type, Version of the operating system of the terminal, Facebook ID, and Audio settings.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Account Name",
+                        "Internal ID",
+                        "Number and content of in-app purchases",
+                        "Country where the Game was downloaded",
+                        "Type of terminal used",
+                        "Model number",
+                        "Operating system of the terminal",
+                        "Language settings of the terminal",
+                        "Date of the download",
+                        "App version",
+                        "Days since the download (\"Age of the account\")",
+                        "Duration of use of the Game",
+                        "Number of times the Game has been accessed",
+                        "Android ID",
+                        "Device type",
+                        "Version of the operating system of the terminal",
+                        "Facebook ID",
+                        "Audio settings"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy details the various personal data and aggregate statistical information collected by the app for use such as account management, bug detection, and app optimization. The data includes a wide range of personal identifiers and usage information.",
+            "reference": "The following categories of personal data may be processed for this purpose: Account Name, Internal ID, Number and content of in-app purchases, Country where the Game was downloaded, Type of terminal used (iPhone, iPad, etc.), Model number, Operating system of the terminal, Language settings of the terminal, Date of the download, App version, Days since the download (“Age of the account”), Duration of use of the Game, Number of times the Game has been accessed. Aggregate statistical information categories may include: Android ID, Device type, Version of the operating system of the terminal, Language settings of the terminal, Facebook ID, Audio settings. URL: https://www.synapticlabs.uk/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "56390dd84ae1f6f5c0a3d54be76f1ba8d940e10cfd1c85be99bdec8137c42d1b",
+                "score": 0.082549304,
+                "excerpt": "thus in accordance with Art. 6(1)(1)(b) GDPR.\nd. Running the Game\nThe use of our Games requires data processing, without which the Game cannot be run. Said instances of data processing are in particular necessary in order for the Game to first at all be made available and ready to play, to detect and fix any bugs, to access scores, or also to link in-app purchases with the player’s account.\nThe following categories of personal data may be processed for this purpose:\nAccount Name\nInternal ID\nNumb...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "3b0f6c4d8b40fc5425dfccb3c3bab6d1007fa0bd9dde6d5904046571e2c96ec6",
+                "score": 0.045268092,
+                "excerpt": "the Processor:\nApplovin Corporation\n1100 Page Mill Road\nPalo Alto\nCA 94304\nUSA (“AppLovin”).\nYou will find further information on the processing of personal data at AppLovin in AppLovin’s Privacy Policy: https://www.applovin.com/privacy/\n(3) Mintegral\nIn regard to our Games:\nPeak\nwe use the Processor:\nMintegral North America Inc.\n5050 El Camino Real\nLos Altos\nCA 94022\nUSA (“Mintegral””).\nYou will find further information on the processing of personal data at Digital Turbine in Digital Turbine’s ...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "d59ccc9f6c7f665d482356e750a915eaee70af8d824d3364650156195f24c178",
+                "score": 0.04069295,
+                "excerpt": "therefrom for analysis purposes. The legal basis for storing and accessing the analysis cookies is Sec. 25(1) Act on Data Protection and the Protection of Privacy in Telecommunications and Telemedia (TTDSG). In regard to the processing of the personal data arising therefrom it is Art. 6(1)(1)(a) GDPR.\nYou can read more on each individual type of cookie here: https://support.squarespace.com/hc/en-us/articles/360001264507-The-cookies-Squarespace-uses\nCHILDREN’S PRIVACY\nWe recognize the need to pro...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "40877860ad9a07b0adbfe2915860996c23df63ff9d505a2b8bf623e57adca082",
+                "score": 0.026056303,
+                "excerpt": "without the consent of the parent or guardian. If the user is 13 or over we will only collect and process Personal Information taking into account the level of maturity of youth of different ages.\nWe comply with the Children’s Privacy Protection Act of 1998 (“COPPA”), a United States federal law. We do not knowingly collect personal information from children under the age of 13.\nWe do not publish apps or own services that target children as their primary audience. Some of our apps or services ma...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "dc921f8d553d738c064ad45228acd9af009e583a4e940b51a11aa2708520f98a",
+                "score": 0.023197627,
+                "excerpt": "in regard to the conclusion of a contract or the fulfillment of a contract.\nSPECIFIC INSTANCES OF DATA PROCESSING\nThe following instances of data processing are carried out with our Games:\na. Downloading of the Games\nOur Games are provided via the platforms of Google and Apple. The platforms also offer an opportunity for in-app purchases and further proprietary services. We have no influence over the data processing in that respect, and the respective platform operator is the Controller under da...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 806223188,
+            "url": "https://www.synapticlabs.uk/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that personal data is processed for specific purposes related to the support requests, advertising, and running the game.",
+            "reference": "The following categories of personal data may be processed for this purpose: Email address, User name, Content of your request, Operating system and version, Device type, Stored User ID, Cash used for in-game purchases, IP address, Place of registration, Location. URL: https://www.synapticlabs.uk/privacypolicy, The personal data is processed for the purposes of advertising until such time as you revoke your consent. Should the personal data not be required for any further purposes, it will be erased. URL: https://www.synapticlabs.uk/privacypolicy, The use of our Games requires data processing, without which the Game cannot be run. URL: https://www.synapticlabs.uk/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "3b0f6c4d8b40fc5425dfccb3c3bab6d1007fa0bd9dde6d5904046571e2c96ec6",
+                "score": 0.059101548,
+                "excerpt": "the Processor:\nApplovin Corporation\n1100 Page Mill Road\nPalo Alto\nCA 94304\nUSA (“AppLovin”).\nYou will find further information on the processing of personal data at AppLovin in AppLovin’s Privacy Policy: https://www.applovin.com/privacy/\n(3) Mintegral\nIn regard to our Games:\nPeak\nwe use the Processor:\nMintegral North America Inc.\n5050 El Camino Real\nLos Altos\nCA 94022\nUSA (“Mintegral””).\nYou will find further information on the processing of personal data at Digital Turbine in Digital Turbine’s ...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "dc921f8d553d738c064ad45228acd9af009e583a4e940b51a11aa2708520f98a",
+                "score": 0.039416388,
+                "excerpt": "in regard to the conclusion of a contract or the fulfillment of a contract.\nSPECIFIC INSTANCES OF DATA PROCESSING\nThe following instances of data processing are carried out with our Games:\na. Downloading of the Games\nOur Games are provided via the platforms of Google and Apple. The platforms also offer an opportunity for in-app purchases and further proprietary services. We have no influence over the data processing in that respect, and the respective platform operator is the Controller under da...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "2684c645d6554d87df06be85e87a2c22003992de34ce9726f1145c1599c261ea",
+                "score": 0.030967517,
+                "excerpt": "of installation of the game (source from which the user downloaded the app.)\nGame ID\nCountry Code\nIP address of the terminal\nGoogle Advertising ID (Advertising ID of Google)\nAllocation information specific to marketing (if the user has installed the Game after seeing an advertisement)\nPaying user status\nUser name\nCountry in which the user registered\nDate on which the user registered\nTime at which the user registered\nThe legal basis for the processing is your voluntary consent (Art. 6(1)(1)(a) GD...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "f84901805fab5b4cea2763786423e205fc678115931ffab483c726317310b1e9",
+                "score": 0.027014792,
+                "excerpt": "at the date of linking. No unlawful content could be identified as at the date of linking. Should we become aware of any legal infringements, we will immediately remove the corresponding link.\nSaid external links solely serve the purpose of entertainment, and it is not absolutely necessary to visit corresponding web pages or services in order to play the game.\nDATA PROCESSING IN EXTERNAL COUNTRIES\nWe may, in the process of providing Services to you, transfer information that we collect about you...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "56390dd84ae1f6f5c0a3d54be76f1ba8d940e10cfd1c85be99bdec8137c42d1b",
+                "score": 0.025858777,
+                "excerpt": "thus in accordance with Art. 6(1)(1)(b) GDPR.\nd. Running the Game\nThe use of our Games requires data processing, without which the Game cannot be run. Said instances of data processing are in particular necessary in order for the Game to first at all be made available and ready to play, to detect and fix any bugs, to access scores, or also to link in-app purchases with the player’s account.\nThe following categories of personal data may be processed for this purpose:\nAccount Name\nInternal ID\nNumb...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 806223188,
+            "url": "https://www.synapticlabs.uk/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Users, including parents and guardians of children, can request to review, modify, delete, or stop further collection of personal information by contacting the provided email privacy@synapticlabs.uk or using the contact information in the Privacy Policy. Data can be deleted upon request.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users, parents, and guardians have the option to request the deletion or modification of personal data.",
+            "reference": "parents and guardians may contact us to request to review, modify, delete, or stop further collection of their child’s personal information. This can be done by emailing us at: privacy@synapticlabs.uk or using other contact information provided in the Contact Us section of this Privacy Policy. URL: https://www.synapticlabs.uk/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "cec893d3dd0bf75e23999b6ba2e5f377b7cfafcff99296a9f4dd64542160abc3",
+                "score": 0.7216451,
+                "excerpt": "parents and guardians may contact us to request to review, modify, delete, or stop further collection of their child’s personal information. This can be done by emailing us at: privacy@synapticlabs.uk or using other contact information provided in the Contact Us section of this Privacy Policy.\nCHANGES TO THIS PRIVACY POLICY\nWe may change this Privacy Policy at any time. We will post all changes to this Privacy Policy on our website and will indicate at the top of the page the modified policy’s e...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "40877860ad9a07b0adbfe2915860996c23df63ff9d505a2b8bf623e57adca082",
+                "score": 0.5057943,
+                "excerpt": "without the consent of the parent or guardian. If the user is 13 or over we will only collect and process Personal Information taking into account the level of maturity of youth of different ages.\nWe comply with the Children’s Privacy Protection Act of 1998 (“COPPA”), a United States federal law. We do not knowingly collect personal information from children under the age of 13.\nWe do not publish apps or own services that target children as their primary audience. Some of our apps or services ma...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "9c80bea8ac933263f50760bc684b990debbcaacbf907101ea1848d707bd4d1ce",
+                "score": 0.26798248,
+                "excerpt": "request the restriction of use of the personal data;\nif we no longer need the personal data for the purposes of the processing, however you need it in order to assert, exercise or defend any legal claims; or\nif you have filed an objection to the processing pursuant to Art. 21(1) GDPR, and it has not yet been established whether our legitimate grounds outweigh your grounds.\nShould the processing of the personal data concerning you have been restricted, this data may – except for being stored – on...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "dcdb4945c82ecc76f25202a2e9f590298b310979c3470dd523deb6f5f8eefd52",
+                "score": 0.20402452,
+                "excerpt": "you without delay. We are obliged to erase said data immediately if one of the following reasons applies:\nThe personal data concerning you is no longer needed for the purposes for which it was gathered or processed in any other way;\nyou revoke your consent, on which the processing pursuant to Art. 6(1)(1)(a) GDPR was based, and there is no other legal basis for the processing;\npursuant to Art. 21(1) GDPR, you are filing an objection to the processing, and there are no overriding legitimate groun...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "d9b744b95775ee7fbfabf203bd48d2efb63332dc071759f50b5ef96f28b35769",
+                "score": 0.06779314,
+                "excerpt": "your data in order to answer your question. If you have accepted our terms and conditions of use, the processing is based on Art. 6(1)(1)(b) GDPR.\nThe data will be erased once it is no longer needed in order to achieve the purpose for which it was gathered. This is the case once the respective conversation with the user has been terminated. The conversation has been terminated once it can be inferred from the circumstances that the issue concerned has conclusively been clarified.\nZendesk\nIn rega...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 806223188,
+            "url": "https://www.synapticlabs.uk/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app may transfer information collected about users, including Personal Information, to affiliates, subsidiaries, or other third parties across borders. This indicates that data sharing with third parties is enabled.",
+            "reference": "We may, in the process of providing Services to you, transfer information that we collect about you, including Personal Information, to affiliates and subsidiaries, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from Canadian or U.S law, please note that you are transferring information and permitting the transfer of information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and/or Canada and the use and disclosure of information about you, including Personal Information, as described in this Privacy Policy. URL: https://www.synapticlabs.uk/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "fca28d31cea3858fcc3e283d99676ff57ebe97adee6ace9d292a5fa0033a8586",
+                "score": 0.19360435,
+                "excerpt": "applicable, or by sending an e-mail to privacy@synapticlabs.uk\nInformation passed on to third parties\nShould we have published the data concerning you, and should we be obliged, pursuant to Art. 17(1) GDPR, to erase it, we will, taking into account the available technology and the costs of implementation, take reasonable steps, also of a technical nature, to inform the Controllers responsible for the data processing, who processes the personal data, that you, as a data subject, have required all...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "f84901805fab5b4cea2763786423e205fc678115931ffab483c726317310b1e9",
+                "score": 0.14402843,
+                "excerpt": "at the date of linking. No unlawful content could be identified as at the date of linking. Should we become aware of any legal infringements, we will immediately remove the corresponding link.\nSaid external links solely serve the purpose of entertainment, and it is not absolutely necessary to visit corresponding web pages or services in order to play the game.\nDATA PROCESSING IN EXTERNAL COUNTRIES\nWe may, in the process of providing Services to you, transfer information that we collect about you...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "d9b744b95775ee7fbfabf203bd48d2efb63332dc071759f50b5ef96f28b35769",
+                "score": 0.13240233,
+                "excerpt": "your data in order to answer your question. If you have accepted our terms and conditions of use, the processing is based on Art. 6(1)(1)(b) GDPR.\nThe data will be erased once it is no longer needed in order to achieve the purpose for which it was gathered. This is the case once the respective conversation with the user has been terminated. The conversation has been terminated once it can be inferred from the circumstances that the issue concerned has conclusively been clarified.\nZendesk\nIn rega...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "7284b9c8a53e68125d928afbef63926596fc2d734f58ac809ce950d6b23e7f30",
+                "score": 0.05997644,
+                "excerpt": "effects of such processing upon the data subject.\nYou are entitled to request information on whether the personal data concerning you is transmitted to an external country or an international organization. In this context, you may request to be informed about the appropriate guarantees under Art. 46 GDPR in connection with the transmission.\nb. Right to rectification\nIf the personal data processed relating to you is incorrect or incomplete, you are entitled to have your data rectified or complete...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "cec893d3dd0bf75e23999b6ba2e5f377b7cfafcff99296a9f4dd64542160abc3",
+                "score": 0.023419945,
+                "excerpt": "parents and guardians may contact us to request to review, modify, delete, or stop further collection of their child’s personal information. This can be done by emailing us at: privacy@synapticlabs.uk or using other contact information provided in the Contact Us section of this Privacy Policy.\nCHANGES TO THIS PRIVACY POLICY\nWe may change this Privacy Policy at any time. We will post all changes to this Privacy Policy on our website and will indicate at the top of the page the modified policy’s e...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 806223188,
+            "url": "https://www.synapticlabs.uk/privacypolicy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Zendesk, Inc.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Zendesk, Inc."
+                    ]
+                }
+            },
+            "analysis": "The privacy policy clearly states the third party, Zendesk, Inc., that the app shares data with.",
+            "reference": "Zendesk, Inc. URL: https://www.synapticlabs.uk/privacypolicy"
+        },
+        "source_documents": [
+            {
+                "id": "fca28d31cea3858fcc3e283d99676ff57ebe97adee6ace9d292a5fa0033a8586",
+                "score": 0.71711093,
+                "excerpt": "applicable, or by sending an e-mail to privacy@synapticlabs.uk\nInformation passed on to third parties\nShould we have published the data concerning you, and should we be obliged, pursuant to Art. 17(1) GDPR, to erase it, we will, taking into account the available technology and the costs of implementation, take reasonable steps, also of a technical nature, to inform the Controllers responsible for the data processing, who processes the personal data, that you, as a data subject, have required all...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "f84901805fab5b4cea2763786423e205fc678115931ffab483c726317310b1e9",
+                "score": 0.44833568,
+                "excerpt": "at the date of linking. No unlawful content could be identified as at the date of linking. Should we become aware of any legal infringements, we will immediately remove the corresponding link.\nSaid external links solely serve the purpose of entertainment, and it is not absolutely necessary to visit corresponding web pages or services in order to play the game.\nDATA PROCESSING IN EXTERNAL COUNTRIES\nWe may, in the process of providing Services to you, transfer information that we collect about you...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "d9b744b95775ee7fbfabf203bd48d2efb63332dc071759f50b5ef96f28b35769",
+                "score": 0.20513691,
+                "excerpt": "your data in order to answer your question. If you have accepted our terms and conditions of use, the processing is based on Art. 6(1)(1)(b) GDPR.\nThe data will be erased once it is no longer needed in order to achieve the purpose for which it was gathered. This is the case once the respective conversation with the user has been terminated. The conversation has been terminated once it can be inferred from the circumstances that the issue concerned has conclusively been clarified.\nZendesk\nIn rega...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "36b43605dde4d7b6711c69bdb9b8ab8c044e42af1f9b8a9a879088d8f806dda4",
+                "score": 0.115560874,
+                "excerpt": "the following information from us:\nThe purposes for which the personal data is being processed;\nthe categories of personal data that are being processed;\nthe recipients or categories of recipients to whom the personal data about you has been disclosed or is yet to be disclosed;\nthe period of time for which it is expected to store the personal data, or, if it is not possible to give specific details in this respect, criteria for establishing the period of storage;\nthe existence of a right to rect...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            },
+            {
+                "id": "3ed5da58d31c90a4cb92806ab3b79436dd4cd3dca6577d3655b805ce4c640223",
+                "score": 0.0493136,
+                "excerpt": "the transfer of information to the U.S. and/or Canada and the use and disclosure of information about you, including Personal Information, as described in this Privacy Policy. If you are using the Services from outside the United States, please be aware that your Personal Data may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. As a result, your Personal Data may be subject to the laws of the United States and may ...",
+                "url": "https://www.synapticlabs.uk/privacypolicy"
+            }
+        ]
+    }
+]

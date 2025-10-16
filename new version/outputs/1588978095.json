@@ -1,0 +1,336 @@
+[
+    {
+        "meta": {
+            "id": 1588978095,
+            "url": "https://mcmillenhealth.org/policies/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly states that by using the Services, including the Mobile App, information is collected and used as outlined in the Privacy Statement.",
+            "reference": "By using the Services, you acknowledge that we collect and use your information as set forth in this Privacy Statement. URL: https://mcmillenhealth.org/policies/"
+        },
+        "source_documents": [
+            {
+                "id": "223eef05158a57fd196355586dfdeacb7dfd383f46dbb5d4bba22af744902b79",
+                "score": 0.35521552,
+                "excerpt": "the Web Site, downloading or using the Mobile App, and/or voluntarily providing your personally identifiable information to us, you acknowledge that we collect and use your information as set forth in this Privacy Statement.\nAPPLICABILITY OF THIS PRIVACY STATEMENT\nThis Privacy Statement is subject to the terms of the Web Site Terms of Use. This Privacy Statement applies only to information submitted and/or collected online through the Services, and does not apply to information that we may colle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "bcf99782d3ae5d5744132104fc55dff4f8c3f4330aab9d026b5f13814f0dcfdb",
+                "score": 0.090092994,
+                "excerpt": "is possible to change your browser setup to block the automatic collection of certain information.\nInformation Collected Automatically – We use commonly-used automated information gathering tools on the Services. When you browse the Web Site and/or download and use the Mobile App, we collect information about your computer or mobile device and the network you use to access the Services, as well as information about your use of the Services. This includes software and hardware attributes of the d...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "88a8fb71b5117a93a2fa25a6e6abd78d7e813dea39e17c44f2f709fe425ac18d",
+                "score": 0.048676573,
+                "excerpt": "Policies\nIf you have questions, check out our FAQ page or contact us.\nPRIVACY POLICY\nAt McMillen Health and at www.mcmillenhealth.org, we strongly believe in an individual’s right to privacy.\nIn the event any personal information is collected, McMillen Health will not sell, rent, lease, loan or provide personal information in any way to a third-party.\nPRIVACY STATEMENT\nMcMillen Health (“McMillen Health”) is committed to protecting the privacy of all individuals who utilize the www.mcmillenhealth...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "9bc65f9d4a453489d47deb15be8c607b84a42ff56d4c32ef632350e4be178d03",
+                "score": 0.026355354,
+                "excerpt": "not considered “personal information.” To the extent such data is stored or associated with personal information, it will be treated as personal information; otherwise, such data may be used or distributed at our discretion.\nHOW IS YOUR INFORMATION USED?\nOur Use of Information. We collect, retain, and use personal information with your consent; as required or permitted by law; for legitimate business purposes; to perform functions or activities on behalf of, or provide services to McMillen Healt...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "918a2cda16ac6ac3ceb3d082a420e1c0428e82ce448661523c4018349afbac65",
+                "score": 0.02145073,
+                "excerpt": "you with information or services you have requested or authorized; to obtain your feedback on your App experience; to perform functions or activities on behalf of, or provide services to, McMillen Health; for our proper management and administration or to fulfill our legal responsibilities; to perform data aggregation services in order to provide analysis relevant to the operations of McMillen Health; and/or to create de-identified data; in each case as provided in this Privacy Statement.\nGoogle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1588978095,
+            "url": "https://mcmillenhealth.org/policies/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects information about the computer or mobile device, unique device ID, regional and language settings, performance data, network provider, IP address, log files recording website activity, 'hits' data, timestamps, visited pages, time spent on pages, and general information.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Computer or mobile device information",
+                        "Unique device ID",
+                        "Regional and language settings",
+                        "Performance data",
+                        "Network provider",
+                        "IP address",
+                        "Log files",
+                        "Hits data",
+                        "Timestamps",
+                        "Visited pages",
+                        "Time spent on pages",
+                        "General information"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy document clearly outlines the types of data collected when the app declares the collection of data.",
+            "reference": "The app collects information about your computer or mobile device and the network you use to access the Services, software and hardware attributes of the device, unique device ID information, regional and language settings, performance data about the Services, network provider, and IP address, information passively collected in the form of log files, timestamps, visited pages, time spent on specific pages, and general information. URL: https://mcmillenhealth.org/policies/"
+        },
+        "source_documents": [
+            {
+                "id": "bcf99782d3ae5d5744132104fc55dff4f8c3f4330aab9d026b5f13814f0dcfdb",
+                "score": 0.42071855,
+                "excerpt": "is possible to change your browser setup to block the automatic collection of certain information.\nInformation Collected Automatically – We use commonly-used automated information gathering tools on the Services. When you browse the Web Site and/or download and use the Mobile App, we collect information about your computer or mobile device and the network you use to access the Services, as well as information about your use of the Services. This includes software and hardware attributes of the d...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "223eef05158a57fd196355586dfdeacb7dfd383f46dbb5d4bba22af744902b79",
+                "score": 0.18952109,
+                "excerpt": "the Web Site, downloading or using the Mobile App, and/or voluntarily providing your personally identifiable information to us, you acknowledge that we collect and use your information as set forth in this Privacy Statement.\nAPPLICABILITY OF THIS PRIVACY STATEMENT\nThis Privacy Statement is subject to the terms of the Web Site Terms of Use. This Privacy Statement applies only to information submitted and/or collected online through the Services, and does not apply to information that we may colle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "57673069ddb4738860709707bf63954f2ec16fca16a0a82f4168a62cdb1c2c20",
+                "score": 0.13477592,
+                "excerpt": "otherwise accessible from the Services. The information collected or received by such third parties, including McMillen Health, is subject to their own privacy policies, statements, and practices and under no circumstances is McMillen Health responsible or liable for any third party’s compliance therewith.\nWHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?\nWe collect a variety of personal information from and about you through the Services, including both directly from you and automatically...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "918a2cda16ac6ac3ceb3d082a420e1c0428e82ce448661523c4018349afbac65",
+                "score": 0.08021325,
+                "excerpt": "you with information or services you have requested or authorized; to obtain your feedback on your App experience; to perform functions or activities on behalf of, or provide services to, McMillen Health; for our proper management and administration or to fulfill our legal responsibilities; to perform data aggregation services in order to provide analysis relevant to the operations of McMillen Health; and/or to create de-identified data; in each case as provided in this Privacy Statement.\nGoogle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "af6b8cb42552b2f012c62e24df674e31b5c776ea4f7f71de841ed404a164c4b2",
+                "score": 0.07356305,
+                "excerpt": "the Services, the pages you visit, the amount of time spent on specific pages, and other similar usage information, and general data (including the name of the web page from which you entered our Web Site). See also the section below captioned “Cookies and Web Tracking.”\nAccount Registration –If you choose to become a registered user of the Services, we request that you provide us your first name, last name, ZIP code, and email address.\nMobile App – Individuals who download or use the Mobile App...",
+                "url": "https://mcmillenhealth.org/policies/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1588978095,
+            "url": "https://mcmillenhealth.org/policies/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that by using the Services, the app acknowledges collecting and using the user's information as set forth in the Privacy Statement, which indicates a declaration of the purpose of data collection and use.",
+            "reference": "By using the Services, whether by visiting the Web Site, downloading or using the Mobile App, and/or voluntarily providing your personally identifiable information to us, you acknowledge that we collect and use your information as set forth in this Privacy Statement. URL: https://mcmillenhealth.org/policies/"
+        },
+        "source_documents": [
+            {
+                "id": "223eef05158a57fd196355586dfdeacb7dfd383f46dbb5d4bba22af744902b79",
+                "score": 0.11299101,
+                "excerpt": "the Web Site, downloading or using the Mobile App, and/or voluntarily providing your personally identifiable information to us, you acknowledge that we collect and use your information as set forth in this Privacy Statement.\nAPPLICABILITY OF THIS PRIVACY STATEMENT\nThis Privacy Statement is subject to the terms of the Web Site Terms of Use. This Privacy Statement applies only to information submitted and/or collected online through the Services, and does not apply to information that we may colle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "9bc65f9d4a453489d47deb15be8c607b84a42ff56d4c32ef632350e4be178d03",
+                "score": 0.08882029,
+                "excerpt": "not considered “personal information.” To the extent such data is stored or associated with personal information, it will be treated as personal information; otherwise, such data may be used or distributed at our discretion.\nHOW IS YOUR INFORMATION USED?\nOur Use of Information. We collect, retain, and use personal information with your consent; as required or permitted by law; for legitimate business purposes; to perform functions or activities on behalf of, or provide services to McMillen Healt...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "918a2cda16ac6ac3ceb3d082a420e1c0428e82ce448661523c4018349afbac65",
+                "score": 0.050988145,
+                "excerpt": "you with information or services you have requested or authorized; to obtain your feedback on your App experience; to perform functions or activities on behalf of, or provide services to, McMillen Health; for our proper management and administration or to fulfill our legal responsibilities; to perform data aggregation services in order to provide analysis relevant to the operations of McMillen Health; and/or to create de-identified data; in each case as provided in this Privacy Statement.\nGoogle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "8959d0296b5b7711d9aaddd8fa21a149c5ace98a0d14d1cfe3f20ea925efb849",
+                "score": 0.024987794,
+                "excerpt": "Services and third party websites or applications, and to better understand how the Services are used. Such information will not include your name, address, Member ID, or similar information. Also, we may share in aggregate, statistical form, non-personal information regarding the visitors to the Web Site, traffic patterns, and Services usage with our partners, affiliates, or advertisers. In addition, we will disclose information we maintain, including personal information: (i) when permitted or...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "88a8fb71b5117a93a2fa25a6e6abd78d7e813dea39e17c44f2f709fe425ac18d",
+                "score": 0.012771867,
+                "excerpt": "Policies\nIf you have questions, check out our FAQ page or contact us.\nPRIVACY POLICY\nAt McMillen Health and at www.mcmillenhealth.org, we strongly believe in an individual’s right to privacy.\nIn the event any personal information is collected, McMillen Health will not sell, rent, lease, loan or provide personal information in any way to a third-party.\nPRIVACY STATEMENT\nMcMillen Health (“McMillen Health”) is committed to protecting the privacy of all individuals who utilize the www.mcmillenhealth...",
+                "url": "https://mcmillenhealth.org/policies/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1588978095,
+            "url": "https://mcmillenhealth.org/policies/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of receiving materials or other communications by following the provided opt-out link or instructions in emails or text messages. Additionally, the user may customize the communications received through preferences in their user account. Certain personal information can be changed by contacting McMillen Health or by updating the information in their account.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the ability to opt out of receiving communications and can customize their preferences regarding received communications. Personal information can also be changed by contacting McMillen Health or updating the account.",
+            "reference": "You may opt out of receiving materials or other communications from us by following the opt-out link or other unsubscribe instructions provided in any email or text message received, or by contacting us as provided at the end of this Privacy Statement. You may also be able to customize the communications you receive from us through preferences in your user account. If you wish to make any changes to personal information you have provided to us through the Services, you may do so at any time by contacting McMillen Health. Certain personal information may also be changed by logging into your account via the Services and updating such information. URL: https://mcmillenhealth.org/policies/"
+        },
+        "source_documents": [
+            {
+                "id": "28451e78e07c5efb82093d80e56762914e59ad1695d27764240fcb464a487272",
+                "score": 0.62658125,
+                "excerpt": "applicable laws, dispute resolution, and business operations. These retention periods can vary significantly depending on the type of information collected and the context.\nMODIFICATIONS AND CORRECTIONS TO COLLECTED INFORMATION\nWe strive to maintain the accuracy of any personal information that may be collected from you, and will use our commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is not accurate. It is your responsi...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "0bc5127dc20f5030c322da671600d1cdb32244780151c134c3674312c0d78630",
+                "score": 0.20354916,
+                "excerpt": "us by following the opt-out link or other unsubscribe instructions provided in any email or text message received, or by contacting us as provided at the end of this Privacy Statement. You may also be able to customize the communications you receive from us through preferences in your user account if you have registered for such an account, such as by activating or deactivating push notifications through your mobile device’s settings. If you do business with us, you may not opt out of automated ...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "bcf99782d3ae5d5744132104fc55dff4f8c3f4330aab9d026b5f13814f0dcfdb",
+                "score": 0.13523208,
+                "excerpt": "is possible to change your browser setup to block the automatic collection of certain information.\nInformation Collected Automatically – We use commonly-used automated information gathering tools on the Services. When you browse the Web Site and/or download and use the Mobile App, we collect information about your computer or mobile device and the network you use to access the Services, as well as information about your use of the Services. This includes software and hardware attributes of the d...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "57673069ddb4738860709707bf63954f2ec16fca16a0a82f4168a62cdb1c2c20",
+                "score": 0.026105914,
+                "excerpt": "otherwise accessible from the Services. The information collected or received by such third parties, including McMillen Health, is subject to their own privacy policies, statements, and practices and under no circumstances is McMillen Health responsible or liable for any third party’s compliance therewith.\nWHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?\nWe collect a variety of personal information from and about you through the Services, including both directly from you and automatically...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "214fb28f4816e0200b6299c731299e8ce98085fef66209457c5a5bacb5e74962",
+                "score": 0.022542967,
+                "excerpt": "the device, as well as any backup copies of such information that may be created by you or your device’s settings or applications. Locally-stored information is typically deleted if you uninstall the Mobile App or clear the Mobile App’s application data through your device’s settings, although it may be stored in device backups even after uninstallation or deletion of the Mobile App or its application data.\nCookies, Web, and Web Usage Tracking - In order to personalize and enhance your experienc...",
+                "url": "https://mcmillenhealth.org/policies/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1588978095,
+            "url": "https://mcmillenhealth.org/policies/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that the app shares personal information with third parties for various reasons, including but not limited to providing services, legal requirements, and data aggregation services.",
+            "reference": "We share personal information with your consent; as required or permitted by law; for legitimate business purposes; as necessary to complete any transaction or provide you with information or services you have requested or authorized; to obtain your feedback on your App experience; to perform functions or activities on behalf of, or provide services to, McMillen Health; for our proper management and administration or to fulfill our legal responsibilities; to perform data aggregation services in. URL: https://mcmillenhealth.org/policies/"
+        },
+        "source_documents": [
+            {
+                "id": "918a2cda16ac6ac3ceb3d082a420e1c0428e82ce448661523c4018349afbac65",
+                "score": 0.9184803,
+                "excerpt": "you with information or services you have requested or authorized; to obtain your feedback on your App experience; to perform functions or activities on behalf of, or provide services to, McMillen Health; for our proper management and administration or to fulfill our legal responsibilities; to perform data aggregation services in order to provide analysis relevant to the operations of McMillen Health; and/or to create de-identified data; in each case as provided in this Privacy Statement.\nGoogle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "e954a3520e0e39bb78ae74bd5a86abc100f9faf678e875b1259a29fd1e3c518e",
+                "score": 0.80639565,
+                "excerpt": "identifiable health information is described below in the “Individually Identifiable Health Information” section.\nText and Unencrypted Email Messages. With your consent, we may send text and/or unencrypted email messages containing notifications, reminders, tips and links to surveys at the phone number and/or email address you have provided. Messages sent by text and/or unencrypted email may include individually identifiable information. Because these messages are not encrypted, there is some ri...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "223eef05158a57fd196355586dfdeacb7dfd383f46dbb5d4bba22af744902b79",
+                "score": 0.6695288,
+                "excerpt": "the Web Site, downloading or using the Mobile App, and/or voluntarily providing your personally identifiable information to us, you acknowledge that we collect and use your information as set forth in this Privacy Statement.\nAPPLICABILITY OF THIS PRIVACY STATEMENT\nThis Privacy Statement is subject to the terms of the Web Site Terms of Use. This Privacy Statement applies only to information submitted and/or collected online through the Services, and does not apply to information that we may colle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "8959d0296b5b7711d9aaddd8fa21a149c5ace98a0d14d1cfe3f20ea925efb849",
+                "score": 0.49656302,
+                "excerpt": "Services and third party websites or applications, and to better understand how the Services are used. Such information will not include your name, address, Member ID, or similar information. Also, we may share in aggregate, statistical form, non-personal information regarding the visitors to the Web Site, traffic patterns, and Services usage with our partners, affiliates, or advertisers. In addition, we will disclose information we maintain, including personal information: (i) when permitted or...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "57673069ddb4738860709707bf63954f2ec16fca16a0a82f4168a62cdb1c2c20",
+                "score": 0.21967213,
+                "excerpt": "otherwise accessible from the Services. The information collected or received by such third parties, including McMillen Health, is subject to their own privacy policies, statements, and practices and under no circumstances is McMillen Health responsible or liable for any third party’s compliance therewith.\nWHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?\nWe collect a variety of personal information from and about you through the Services, including both directly from you and automatically...",
+                "url": "https://mcmillenhealth.org/policies/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1588978095,
+            "url": "https://mcmillenhealth.org/policies/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "Google Maps, third party analytics service providers such as Google Analytics",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Google Maps",
+                        "third party analytics service providers such as Google Analytics"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions sharing with Google Maps and third-party analytics service providers.",
+            "reference": "Google Maps - We make use of Google Maps services for geolocation, map, autocomplete and driving direction functions. ... Analytics – We use and share information with third party analytics service providers, such as Google Analytics... URL: https://mcmillenhealth.org/policies/"
+        },
+        "source_documents": [
+            {
+                "id": "918a2cda16ac6ac3ceb3d082a420e1c0428e82ce448661523c4018349afbac65",
+                "score": 0.9142907,
+                "excerpt": "you with information or services you have requested or authorized; to obtain your feedback on your App experience; to perform functions or activities on behalf of, or provide services to, McMillen Health; for our proper management and administration or to fulfill our legal responsibilities; to perform data aggregation services in order to provide analysis relevant to the operations of McMillen Health; and/or to create de-identified data; in each case as provided in this Privacy Statement.\nGoogle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "e954a3520e0e39bb78ae74bd5a86abc100f9faf678e875b1259a29fd1e3c518e",
+                "score": 0.7804952,
+                "excerpt": "identifiable health information is described below in the “Individually Identifiable Health Information” section.\nText and Unencrypted Email Messages. With your consent, we may send text and/or unencrypted email messages containing notifications, reminders, tips and links to surveys at the phone number and/or email address you have provided. Messages sent by text and/or unencrypted email may include individually identifiable information. Because these messages are not encrypted, there is some ri...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "8959d0296b5b7711d9aaddd8fa21a149c5ace98a0d14d1cfe3f20ea925efb849",
+                "score": 0.52278084,
+                "excerpt": "Services and third party websites or applications, and to better understand how the Services are used. Such information will not include your name, address, Member ID, or similar information. Also, we may share in aggregate, statistical form, non-personal information regarding the visitors to the Web Site, traffic patterns, and Services usage with our partners, affiliates, or advertisers. In addition, we will disclose information we maintain, including personal information: (i) when permitted or...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "223eef05158a57fd196355586dfdeacb7dfd383f46dbb5d4bba22af744902b79",
+                "score": 0.43134466,
+                "excerpt": "the Web Site, downloading or using the Mobile App, and/or voluntarily providing your personally identifiable information to us, you acknowledge that we collect and use your information as set forth in this Privacy Statement.\nAPPLICABILITY OF THIS PRIVACY STATEMENT\nThis Privacy Statement is subject to the terms of the Web Site Terms of Use. This Privacy Statement applies only to information submitted and/or collected online through the Services, and does not apply to information that we may colle...",
+                "url": "https://mcmillenhealth.org/policies/"
+            },
+            {
+                "id": "57673069ddb4738860709707bf63954f2ec16fca16a0a82f4168a62cdb1c2c20",
+                "score": 0.16026603,
+                "excerpt": "otherwise accessible from the Services. The information collected or received by such third parties, including McMillen Health, is subject to their own privacy policies, statements, and practices and under no circumstances is McMillen Health responsible or liable for any third party’s compliance therewith.\nWHAT INFORMATION DOES MCMILLEN HEALTH COLLECT FROM YOU?\nWe collect a variety of personal information from and about you through the Services, including both directly from you and automatically...",
+                "url": "https://mcmillenhealth.org/policies/"
+            }
+        ]
+    }
+]

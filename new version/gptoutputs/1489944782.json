@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1489944782,
+      "url": "http://aiby.mobi/pulse/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It explains that it processes various types of information when users install and/or use the 'InPulse - Heart Rate Monitor' application, which includes personal data that can identify a natural person.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy explicitly states that it processes personal data and outlines the types of information collected.",
+          "content": "The Privacy policy explains our data protection policy and describes the types of information we may process when you install and/or use 'InPulse - Heart Rate Monitor' software application for mobile devices."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that the app collects and processes personal data, which is necessary for the app's functionality.",
+      "reference": "I. INTRODUCTION. REGIONAL PATTERNS (CALIFORNIA)"
+    }
+  },
+  {
+    "meta": {
+      "id": 1489944782,
+      "url": "http://aiby.mobi/pulse/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app may process several categories of information, including personal information that you submit, functional information necessary for the adequate performance of the contract between you and the app, and other types of data that allow the app to provide complete functionality and perform the requested services.",
+        "simple_answer": "The app collects personal information and functional information necessary for its operation.",
+        "extended_simple_answer": {
+          "comment": "The app requires certain data to function properly and fulfill its services.",
+          "content": "The types of data collected include personal information that users submit and functional information necessary for the app's performance."
+        }
+      },
+      "analysis": "",
+      "reference": "II. INFORMATION WE PROCESS"
+    }
+  },
+  {
+    "meta": {
+      "id": 1489944782,
+      "url": "http://aiby.mobi/pulse/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. It states that the information processed is necessary for the adequate performance of the contract between the user and the app, and without such information, it is impossible to provide complete functionality of the app and perform the requested services.",
+        "simple_answer": "Yes, the app declares the purpose of data collection.",
+        "extended_simple_answer": {
+          "comment": "The app specifies that the information is essential for its functionality.",
+          "content": "The app processes information necessary for the adequate performance of the contract between the user and the app."
+        }
+      },
+      "analysis": "",
+      "reference": "II. INFORMATION WE PROCESS"
+    }
+  },
+  {
+    "meta": {
+      "id": 1489944782,
+      "url": "http://aiby.mobi/pulse/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can opt out of data collection by contacting the company through the contact form. However, they are advised that in most cases, the App may not function properly without certain functional data. Users can also request the deletion of their personal data by submitting a verifiable consumer request, which includes providing sufficient information to verify their identity.",
+        "simple_answer": "Yes, users can opt out and request deletion of their data.",
+        "extended_simple_answer": {
+          "comment": "Users should be aware that opting out may affect the functionality of the App.",
+          "content": "To opt out of data processing, users can contact the company through the contact form. For deletion, they must submit a verifiable consumer request with sufficient information to verify their identity."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the process for users to opt out of data collection and request deletion of their personal data, emphasizing the need for identity verification.",
+      "reference": "Opt-out options and Requests sections"
+    }
+  },
+  {
+    "meta": {
+      "id": 1489944782,
+      "url": "http://aiby.mobi/pulse/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares data with third parties, but only with service providers that use such information based on an agreement and for a business purpose.",
+        "simple_answer": "Yes, it shares data with service providers.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is limited to service providers and is governed by agreements.",
+          "content": "Please note that all third parties that are engaged in processing user data are service providers that use such information on the basis of agreement and pursuant to business purpose."
+        }
+      },
+      "analysis": "",
+      "reference": "SHARING section"
+    }
+  },
+  {
+    "meta": {
+      "id": 1489944782,
+      "url": "http://aiby.mobi/pulse/privacy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares data with service providers that are engaged in processing user data based on an agreement and pursuant to a business purpose. However, the specific names or categories of these third parties are not detailed in the privacy policy.",
+        "simple_answer": "The app shares data with service providers.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy does not specify the exact third parties but indicates that they are service providers.",
+          "content": "The app shares data with service providers that process user data under an agreement for business purposes."
+        }
+      },
+      "analysis": "The privacy policy emphasizes that all third parties involved are service providers, but it does not provide a detailed list of these parties.",
+      "reference": "Section 'SHARING' in the privacy policy."
+    }
+  }
+]

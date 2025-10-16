@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1485424497,
+      "url": "https://www.koa.care/legal/privacy-policy-global",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of data. It states that Koa Health collects the information needed to run and improve Koa Care 360, and that users can choose not to share some information with the app.",
+        "simple_answer": "Yes, the app declares the collection of data.",
+        "extended_simple_answer": {
+          "comment": "The app explicitly mentions that it collects personal data to help users manage their health and wellness.",
+          "content": "We collect the information we need to run and improve Koa Care 360. We collect your information to help you support and maintain your health and wellness."
+        }
+      },
+      "analysis": "The privacy policy clearly outlines the collection of personal data and the purposes for which it is collected, ensuring transparency for users.",
+      "reference": "Section 2: Why do we collect personal data about you and what do we do with it?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1485424497,
+      "url": "https://www.koa.care/legal/privacy-policy-global",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects personal data necessary to help users manage their mental wellbeing, including information from user interactions with the app, such as favorite activities and personal preferences. It may also collect sensitive personal data that is health-related, particularly for managing stress through questionnaires and other means.",
+        "simple_answer": "The app collects personal data related to mental wellbeing, including user interactions and sensitive health-related data.",
+        "extended_simple_answer": {
+          "comment": "The app focuses on helping users manage stress and improve health.",
+          "content": "It collects personal data like user preferences and may include sensitive health-related data."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Why do we collect personal data about you and what do we do with it?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1485424497,
+      "url": "https://www.koa.care/legal/privacy-policy-global",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares the purpose of data collection and use. The main purpose is to help users manage their mental wellbeing by collecting and processing personal data to understand and manage stress. This includes analyzing user interactions to provide personalized recommendations and activities. Additionally, the app may send personalized notifications based on user activity and preferences.",
+        "simple_answer": "Yes, the app states that it collects data to help manage mental wellbeing and provide personalized recommendations.",
+        "extended_simple_answer": {
+          "comment": "The app emphasizes the importance of user consent for data collection related to stress management.",
+          "content": "The app collects personal data to help users manage stress, analyze interactions for personalized recommendations, and optimize notifications based on user activity."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 2: Why do we collect personal data about you and what do we do with it?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1485424497,
+      "url": "https://www.koa.care/legal/privacy-policy-global",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "Yes, users can choose not to share some information with Koa Care 360. They can use the settings menu to understand what information they can stop sharing, and they may lose access to certain App functions if they stop sharing. Additionally, users can remove their consent for data collection at any time by contacting Koa Health at privacy@koahealth.com.",
+        "simple_answer": "Yes, users can opt out of data collection and delete data.",
+        "extended_simple_answer": {
+          "comment": "Users have control over their data sharing preferences.",
+          "content": "Users can stop sharing certain information through the settings menu and can remove their consent for data collection by contacting Koa Health."
+        }
+      },
+      "analysis": "The privacy policy clearly states that users have the ability to manage their data sharing preferences and can withdraw consent for data collection.",
+      "reference": "Section 2: Why do we collect personal data about you and what do we do with it?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1485424497,
+      "url": "https://www.koa.care/legal/privacy-policy-global",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "Yes, the app shares information about you with third-party service providers to help provide parts of the service, such as notifications. Additionally, if you access Koa Care 360 through your employer, anonymized or aggregated summary reports may be shared with that organization. The app may also share anonymized or aggregated information with researchers to improve Koa Care 360.",
+        "simple_answer": "Yes, the app shares data with third-party service providers and may share anonymized data with employers and researchers.",
+        "extended_simple_answer": {
+          "comment": "The app takes measures to ensure that shared data is anonymized or aggregated to protect user privacy.",
+          "content": "The app shares information with third-party service providers for service delivery and may share anonymized data with employers and researchers."
+        }
+      },
+      "analysis": "The privacy policy clearly states that data sharing occurs with third-party service providers and under specific conditions with employers and researchers, ensuring that personal data is protected through anonymization.",
+      "reference": "Section 4: Do we share personal data about you with others?"
+    }
+  },
+  {
+    "meta": {
+      "id": 1485424497,
+      "url": "https://www.koa.care/legal/privacy-policy-global",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The app shares information about you with third-party service providers to help provide parts of the service, such as notifications. Additionally, if you have access to Koa Care 360 through your employer, anonymized or aggregated summary reports may be shared with that organization. The app may also share anonymized or aggregated information with researchers to help improve Koa Care 360.",
+        "simple_answer": "The app shares data with third-party service providers, employers (in anonymized form), and researchers.",
+        "extended_simple_answer": {
+          "comment": "The sharing of data is done to enhance service delivery and improve the app.",
+          "content": "Information is shared with third-party service providers for service delivery, with employers in anonymized form, and with researchers for improvement purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "Section 4: Do we share personal data about you with others?"
+    }
+  }
+]

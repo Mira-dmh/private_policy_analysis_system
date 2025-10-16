@@ -1,0 +1,257 @@
+[
+    {
+        "meta": {
+            "id": 1155742410,
+            "url": "https://visionboardapp.github.io/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "No",
+                "simple_answer": "No",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app does not collect any personal information from users.",
+            "reference": "We do not collect any personal information from you. URL: https://visionboardapp.github.io/"
+        },
+        "source_documents": [
+            {
+                "id": "bca84de8070eed6e6278adfc847bdc4a2f0f99090dfba94fda5f86d407316438",
+                "score": 0.032528225,
+                "excerpt": "in our Application. Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their\nfunctions for advertisers), which are displayed on personalized way according to the information of the User that has said third party and their browsing preferences. Vision Board does not have access to that information about the User and does\nnot control the content of the advertisements that will ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "ab73ba437c4bade60b4aa27d3841ea5f3a8d3a6a0a67bccfde92a92462d10d45",
+                "score": 0.021409769,
+                "excerpt": "Vision Board Privacy Policy\nThank you for visiting the Vision Board Web site (hereinafter, Vision Board,” “us,” or “we”) and reviewing our Privacy Policy, effective December 25, 2018. Vision Board respects your privacy and your personal information that you may provide us\nwhile using our App. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not acce...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "6da0921de9f52d9305b7a74a4d919187d9a014059e6ffafa687eb1bc0644f45b",
+                "score": 0.004520818,
+                "excerpt": "your hard drive and thereafter stored on your computer. In some instances, our third-party service providers may use cookies on the Website. We cannot control or access cookies used\nby third- party service providers. This Privacy Policy covers only Cookies used by us, and not any cookies used by third parties.\n- Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We use Google Firebase Analytics to analyze how users use our app so we can improve it ...",
+                "url": "https://visionboardapp.github.io/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1155742410,
+            "url": "https://visionboardapp.github.io/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app declares the collection of data such as mobile device identifiers, app usage data for analytics, and technical logs for monitoring performance and stability.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Mobile device identifiers",
+                        "App usage data for analytics",
+                        "Technical logs for monitoring performance and stability"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy mentions the types of data collected through the app's usage of Google Firebase Analytics, Crashlytics, and Google Admob.",
+            "reference": "Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We work with Crashlytics Inc. (“Crashlytics”), a service which collects data of users of our iOS App. Google Admob is used for showing advertisements in our Application. URL: https://visionboardapp.github.io/"
+        },
+        "source_documents": [
+            {
+                "id": "ab73ba437c4bade60b4aa27d3841ea5f3a8d3a6a0a67bccfde92a92462d10d45",
+                "score": 0.040087357,
+                "excerpt": "Vision Board Privacy Policy\nThank you for visiting the Vision Board Web site (hereinafter, Vision Board,” “us,” or “we”) and reviewing our Privacy Policy, effective December 25, 2018. Vision Board respects your privacy and your personal information that you may provide us\nwhile using our App. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not acce...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "6da0921de9f52d9305b7a74a4d919187d9a014059e6ffafa687eb1bc0644f45b",
+                "score": 0.034488525,
+                "excerpt": "your hard drive and thereafter stored on your computer. In some instances, our third-party service providers may use cookies on the Website. We cannot control or access cookies used\nby third- party service providers. This Privacy Policy covers only Cookies used by us, and not any cookies used by third parties.\n- Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We use Google Firebase Analytics to analyze how users use our app so we can improve it ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "bca84de8070eed6e6278adfc847bdc4a2f0f99090dfba94fda5f86d407316438",
+                "score": 0.030559862,
+                "excerpt": "in our Application. Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their\nfunctions for advertisers), which are displayed on personalized way according to the information of the User that has said third party and their browsing preferences. Vision Board does not have access to that information about the User and does\nnot control the content of the advertisements that will ...",
+                "url": "https://visionboardapp.github.io/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1155742410,
+            "url": "https://visionboardapp.github.io/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use.",
+            "reference": "This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not access or use our App. URL: https://visionboardapp.github.io/"
+        },
+        "source_documents": [
+            {
+                "id": "6da0921de9f52d9305b7a74a4d919187d9a014059e6ffafa687eb1bc0644f45b",
+                "score": 0.009559399,
+                "excerpt": "your hard drive and thereafter stored on your computer. In some instances, our third-party service providers may use cookies on the Website. We cannot control or access cookies used\nby third- party service providers. This Privacy Policy covers only Cookies used by us, and not any cookies used by third parties.\n- Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We use Google Firebase Analytics to analyze how users use our app so we can improve it ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "bca84de8070eed6e6278adfc847bdc4a2f0f99090dfba94fda5f86d407316438",
+                "score": 0.005099818,
+                "excerpt": "in our Application. Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their\nfunctions for advertisers), which are displayed on personalized way according to the information of the User that has said third party and their browsing preferences. Vision Board does not have access to that information about the User and does\nnot control the content of the advertisements that will ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "ab73ba437c4bade60b4aa27d3841ea5f3a8d3a6a0a67bccfde92a92462d10d45",
+                "score": 0.0046818224,
+                "excerpt": "Vision Board Privacy Policy\nThank you for visiting the Vision Board Web site (hereinafter, Vision Board,” “us,” or “we”) and reviewing our Privacy Policy, effective December 25, 2018. Vision Board respects your privacy and your personal information that you may provide us\nwhile using our App. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not acce...",
+                "url": "https://visionboardapp.github.io/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1155742410,
+            "url": "https://visionboardapp.github.io/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data by stopping the use of the application and uninstalling it from their device. The privacy policy states that users can just stop using the apps and even uninstall them if they wish to stop the collection of information.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that users have the option to stop the collection of data by simply discontinuing the use of the application and removing it from their device.",
+            "reference": "In case you want to stop our apps collecting any information from you, you can just stop using them and even uninstall them from your device. URL: https://visionboardapp.github.io/"
+        },
+        "source_documents": [
+            {
+                "id": "bca84de8070eed6e6278adfc847bdc4a2f0f99090dfba94fda5f86d407316438",
+                "score": 0.04813677,
+                "excerpt": "in our Application. Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their\nfunctions for advertisers), which are displayed on personalized way according to the information of the User that has said third party and their browsing preferences. Vision Board does not have access to that information about the User and does\nnot control the content of the advertisements that will ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "6da0921de9f52d9305b7a74a4d919187d9a014059e6ffafa687eb1bc0644f45b",
+                "score": 0.004314688,
+                "excerpt": "your hard drive and thereafter stored on your computer. In some instances, our third-party service providers may use cookies on the Website. We cannot control or access cookies used\nby third- party service providers. This Privacy Policy covers only Cookies used by us, and not any cookies used by third parties.\n- Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We use Google Firebase Analytics to analyze how users use our app so we can improve it ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "ab73ba437c4bade60b4aa27d3841ea5f3a8d3a6a0a67bccfde92a92462d10d45",
+                "score": 0.0010162441,
+                "excerpt": "Vision Board Privacy Policy\nThank you for visiting the Vision Board Web site (hereinafter, Vision Board,” “us,” or “we”) and reviewing our Privacy Policy, effective December 25, 2018. Vision Board respects your privacy and your personal information that you may provide us\nwhile using our App. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not acce...",
+                "url": "https://visionboardapp.github.io/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1155742410,
+            "url": "https://visionboardapp.github.io/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties such as Google Adwords, Google Admob, Google Adsense, Google Analytics services.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Google Adwords",
+                        "Google Admob",
+                        "Google Adsense",
+                        "Google Analytics services"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app may display advertisements managed by various third parties, indicating data sharing with these entities.",
+            "reference": "Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their functions for advertisers). Vision Board does not have access to that information about the User and does not control the content of the advertisements that will be shown to him. Refer to Google Admob Privacy Policy for more information. URL: https://visionboardapp.github.io/"
+        },
+        "source_documents": [
+            {
+                "id": "bca84de8070eed6e6278adfc847bdc4a2f0f99090dfba94fda5f86d407316438",
+                "score": 0.4885122,
+                "excerpt": "in our Application. Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their\nfunctions for advertisers), which are displayed on personalized way according to the information of the User that has said third party and their browsing preferences. Vision Board does not have access to that information about the User and does\nnot control the content of the advertisements that will ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "6da0921de9f52d9305b7a74a4d919187d9a014059e6ffafa687eb1bc0644f45b",
+                "score": 0.31142685,
+                "excerpt": "your hard drive and thereafter stored on your computer. In some instances, our third-party service providers may use cookies on the Website. We cannot control or access cookies used\nby third- party service providers. This Privacy Policy covers only Cookies used by us, and not any cookies used by third parties.\n- Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We use Google Firebase Analytics to analyze how users use our app so we can improve it ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "ab73ba437c4bade60b4aa27d3841ea5f3a8d3a6a0a67bccfde92a92462d10d45",
+                "score": 0.015130728,
+                "excerpt": "Vision Board Privacy Policy\nThank you for visiting the Vision Board Web site (hereinafter, Vision Board,” “us,” or “we”) and reviewing our Privacy Policy, effective December 25, 2018. Vision Board respects your privacy and your personal information that you may provide us\nwhile using our App. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not acce...",
+                "url": "https://visionboardapp.github.io/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1155742410,
+            "url": "https://visionboardapp.github.io/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Google Adwords, Google Admob, Google Adsense, and Google Analytics services.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "Google Adwords, Google Admob, Google Adsense, Google Analytics services"
+                }
+            },
+            "analysis": "The privacy policy mentions specific third parties including Google Adwords, Google Admob, Google Adsense, and Google Analytics services with which the app shares data.",
+            "reference": "Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services,...). Refer to Google Admob Privacy Policy for more information. URL: https://visionboardapp.github.io/"
+        },
+        "source_documents": [
+            {
+                "id": "6da0921de9f52d9305b7a74a4d919187d9a014059e6ffafa687eb1bc0644f45b",
+                "score": 0.27299255,
+                "excerpt": "your hard drive and thereafter stored on your computer. In some instances, our third-party service providers may use cookies on the Website. We cannot control or access cookies used\nby third- party service providers. This Privacy Policy covers only Cookies used by us, and not any cookies used by third parties.\n- Our iOS Application uses Google Firebase Analytics that is a subject to respective privacy policy. We use Google Firebase Analytics to analyze how users use our app so we can improve it ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "bca84de8070eed6e6278adfc847bdc4a2f0f99090dfba94fda5f86d407316438",
+                "score": 0.21354114,
+                "excerpt": "in our Application. Our Application may display advertisements or advertising messages managed by third parties (Google Adwords, Google Admob, Google Adsense and Google Analytics services, and their\nfunctions for advertisers), which are displayed on personalized way according to the information of the User that has said third party and their browsing preferences. Vision Board does not have access to that information about the User and does\nnot control the content of the advertisements that will ...",
+                "url": "https://visionboardapp.github.io/"
+            },
+            {
+                "id": "ab73ba437c4bade60b4aa27d3841ea5f3a8d3a6a0a67bccfde92a92462d10d45",
+                "score": 0.021368887,
+                "excerpt": "Vision Board Privacy Policy\nThank you for visiting the Vision Board Web site (hereinafter, Vision Board,” “us,” or “we”) and reviewing our Privacy Policy, effective December 25, 2018. Vision Board respects your privacy and your personal information that you may provide us\nwhile using our App. This Privacy Policy is meant to help you understand what data we collect, why we collect it, and what we do with it. Please, take time to read it carefully. If you do not agree with this policy, do not acce...",
+                "url": "https://visionboardapp.github.io/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "meta": {
+      "id": 1498350923,
+      "url": "https://yayoiengineer.com/app-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "1",
+      "question": "Does the app declare the collection of data?",
+      "answer": {
+        "full_answer": "Yes, the app declares the collection of specific information such as the user's App version, OS version, and error logs. This information is collected solely for the purpose of improving the application and is not used for any other purposes.",
+        "simple_answer": "Yes, the app collects data.",
+        "extended_simple_answer": {
+          "comment": "The app is transparent about its data collection practices.",
+          "content": "The information collected is used only to improve the application."
+        }
+      },
+      "analysis": "The privacy policy clearly states the types of data collected and the purpose behind it, ensuring users are informed about the data handling practices.",
+      "reference": "Article 1 Collection and Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498350923,
+      "url": "https://yayoiengineer.com/app-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "2",
+      "question": "If the app declares the collection of data, what type of data does it collect?",
+      "answer": {
+        "full_answer": "The app collects specific information such as the user's App version, OS version, and error logs.",
+        "simple_answer": "App version, OS version, and error logs.",
+        "extended_simple_answer": {
+          "comment": "This information is used solely for improving the application.",
+          "content": "The app may request specific information such as user’s App version, OS version, error log etc. This information is only used to improve the application, it is not used for other purposes."
+        }
+      },
+      "analysis": "",
+      "reference": "Article 1 Collection and Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498350923,
+      "url": "https://yayoiengineer.com/app-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "3",
+      "question": "Does the app declare the purpose of data collection and use?",
+      "answer": {
+        "full_answer": "Yes, the app declares that the information collected, such as user’s App version, OS version, and error log, is only used to improve the application and not for other purposes.",
+        "simple_answer": "Yes, the app states that data is collected to improve the application.",
+        "extended_simple_answer": {
+          "comment": "",
+          "content": "The privacy policy explicitly mentions that the collected information is utilized solely for the purpose of enhancing the app's functionality."
+        }
+      },
+      "analysis": "",
+      "reference": "Article 1 Collection and Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498350923,
+      "url": "https://yayoiengineer.com/app-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "4",
+      "question": "Can the user opt out of data collection or delete data?",
+      "answer": {
+        "full_answer": "The privacy policy does not explicitly mention the user's ability to opt out of data collection or delete data. It states that the information collected is only used to improve the application and not for other purposes.",
+        "simple_answer": "No, the policy does not mention an option to opt out or delete data.",
+        "extended_simple_answer": {
+          "comment": "The policy focuses on the collection of data for application improvement without providing options for users to opt out or delete their data.",
+          "content": "The application collects specific information such as user’s App version, OS version, and error logs, which are used solely for improving the application."
+        }
+      },
+      "analysis": "The absence of an opt-out or data deletion option may raise concerns for users who prioritize privacy and data control.",
+      "reference": "Article 1 Collection and Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498350923,
+      "url": "https://yayoiengineer.com/app-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "5",
+      "question": "Does the app share data with third parties?",
+      "answer": {
+        "full_answer": "The app does not explicitly state that it shares data with third parties. It mentions that the information collected is only used to improve the application and not for other purposes.",
+        "simple_answer": "No, the app does not share data with third parties.",
+        "extended_simple_answer": {
+          "comment": "The privacy policy emphasizes that the collected information is solely for application improvement.",
+          "content": "This application may request specific information such as user’s App version, OS version, error log etc. This information is only used to improve the application, it is not used for other purposes."
+        }
+      },
+      "analysis": "The privacy policy clearly indicates that the information collected is not shared with third parties and is used solely for the purpose of improving the app.",
+      "reference": "Article 1 Collection and Use of Information"
+    }
+  },
+  {
+    "meta": {
+      "id": 1498350923,
+      "url": "https://yayoiengineer.com/app-privacy-policy/",
+      "title": ""
+    },
+    "reply": {
+      "qid": "6",
+      "question": "If the app shares data with third parties, what third parties does the app share data with?",
+      "answer": {
+        "full_answer": "The privacy policy does not specify that the app shares data with any third parties. It only mentions that the application uses cookies to deliver advertisements but does not explicitly state any third parties involved in data sharing.",
+        "simple_answer": "The app does not share data with any third parties.",
+        "extended_simple_answer": {
+          "comment": "The policy focuses on internal use of data for application improvement and advertisement delivery without mentioning third-party data sharing.",
+          "content": "The application uses cookies for advertisements but does not explicitly share user data with third parties."
+        }
+      },
+      "analysis": "The privacy policy emphasizes the internal use of collected information and does not indicate any third-party data sharing, which suggests a focus on user privacy.",
+      "reference": "Article 1 Collection and Use of Information, Article 2 Advertisement"
+    }
+  }
+]

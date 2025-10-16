@@ -1,0 +1,331 @@
+[
+    {
+        "meta": {
+            "id": 1312926037,
+            "url": "https://www.getstoic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states the collection of data such as device information, app usage statistics, and more.",
+            "reference": "When you open Stoic App we automatically collect certain data about the App and how you engage with it, such as your device, the pages of the App that you open, time, type, frequency and duration of your activities in the App, your approximate location. URL: https://www.getstoic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b1375f415e6cc2ba813d813eb4bacef69878a8c3b38bc121c032a539b2500053",
+                "score": 0.61878043,
+                "excerpt": "as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the App when utilizing service, the time and date of your use of the service, and other statistics.\nIf you use AI features available in the App, the data we collect and how it is used are described in the Section 8 of this Privacy Policy. When AI is involved, we obtain your consent, provide options for customization, and respect your preferences.\nLegal grounds:\nContract – the data we proc...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "3f0d44d260444414fc24d40a0be3bfe3c18800aa517b83f09c77cbd5806b1ccb",
+                "score": 0.26340988,
+                "excerpt": "This Privacy Policy explains how data that you share with Stoic is processed and protected.\nThe terms “user” and “you” refer to a person that uses Stoic Application (“App” or “Stoic App”), visits Stoic website, interacts with Stoic social media (together as “Services”) or contact Stoic.\nThe terms “Stoic” and “we” refer to a company incorporated in the US which is responsible for processing personal data as described in this Privacy Policy:\nStoic App Inc.\n2261 Market Street #4243\nSan Francisco, C...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "307ca5fd92a1e1434d627e3b98c40132d76b8c67e3b4710e3171f5896a880099",
+                "score": 0.073430054,
+                "excerpt": "third-party analytics providers to collect and process this data. We may use cookies and similar tracking technologies to help us understand how users engage with the App. This information is anonymized and aggregated, and is solely used for performance analysis, identifying trends, and improving functionality.\nWe do not use or share this data with third parties for marketing or advertising purposes, nor do we sell it.\nYou can manage your analytics preferences within the App settings.\nWe do not ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "4642640dccde707185cbf706fe096b89a225d0c0fbd06892bc77da037c8c4f72",
+                "score": 0.02970375,
+                "excerpt": "application development, hosting, maintenance and backup. These Partners, when process your data, are data processors.\nWe share users’ data with analytical services that support us with data analyses.\nPersonal data related to subscriptions and payments are – as it was explained above – solely processed by relevant App Stores providers and do not lie within Stoic competence.\nThe updated list of the third-party service providers is available in the App and on our website.\nWhen using Stoic App, you...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "2de85006b13dd21e99eb161a827a4405d77d4a90fc58bf4c76d1b754857ecb77",
+                "score": 0.01384861,
+                "excerpt": "user’s data.\nWe collect data you share when you contact us either directly or fill in form on our website. When you contact us via email we collect your email address and may collect your name or other contact details (ie. telephone number) if you provide us with them. The contact form requires giving your name and email address.\nWe have access to detail of your social network profile if you contact us via Facebook, Instagram, LinkedIn, Twitter, Discord, or Mastodon.\nData we collect includes als...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1312926037,
+            "url": "https://www.getstoic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "The app collects data such as the Internet Protocol (“IP”) address, device name, operating system version, configuration of the App, time and date of use, and other statistics.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Internet Protocol (“IP”) address",
+                        "Device name",
+                        "Operating system version",
+                        "Configuration of the App",
+                        "Time and date of use",
+                        "Other statistics"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy outlines the specific types of data collected by the app, ranging from basic device information to usage statistics.",
+            "reference": "Internet Protocol (“IP”) address, device name, operating system version, configuration of the App, time and date of your use of the service, and other statistics. URL: https://www.getstoic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b1375f415e6cc2ba813d813eb4bacef69878a8c3b38bc121c032a539b2500053",
+                "score": 0.81888163,
+                "excerpt": "as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the App when utilizing service, the time and date of your use of the service, and other statistics.\nIf you use AI features available in the App, the data we collect and how it is used are described in the Section 8 of this Privacy Policy. When AI is involved, we obtain your consent, provide options for customization, and respect your preferences.\nLegal grounds:\nContract – the data we proc...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "307ca5fd92a1e1434d627e3b98c40132d76b8c67e3b4710e3171f5896a880099",
+                "score": 0.39987022,
+                "excerpt": "third-party analytics providers to collect and process this data. We may use cookies and similar tracking technologies to help us understand how users engage with the App. This information is anonymized and aggregated, and is solely used for performance analysis, identifying trends, and improving functionality.\nWe do not use or share this data with third parties for marketing or advertising purposes, nor do we sell it.\nYou can manage your analytics preferences within the App settings.\nWe do not ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "2de85006b13dd21e99eb161a827a4405d77d4a90fc58bf4c76d1b754857ecb77",
+                "score": 0.1999321,
+                "excerpt": "user’s data.\nWe collect data you share when you contact us either directly or fill in form on our website. When you contact us via email we collect your email address and may collect your name or other contact details (ie. telephone number) if you provide us with them. The contact form requires giving your name and email address.\nWe have access to detail of your social network profile if you contact us via Facebook, Instagram, LinkedIn, Twitter, Discord, or Mastodon.\nData we collect includes als...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "3f0d44d260444414fc24d40a0be3bfe3c18800aa517b83f09c77cbd5806b1ccb",
+                "score": 0.16762705,
+                "excerpt": "This Privacy Policy explains how data that you share with Stoic is processed and protected.\nThe terms “user” and “you” refer to a person that uses Stoic Application (“App” or “Stoic App”), visits Stoic website, interacts with Stoic social media (together as “Services”) or contact Stoic.\nThe terms “Stoic” and “we” refer to a company incorporated in the US which is responsible for processing personal data as described in this Privacy Policy:\nStoic App Inc.\n2261 Market Street #4243\nSan Francisco, C...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "538600630e8799441f9c72b288f30a318cf4ed03c0678053d70d9bbd6307d782",
+                "score": 0.07146149,
+                "excerpt": "or Google Fit. With user’s explicit consent Stoic App communicates with the HealthKit or Google Fit to share data.\nIf you grant Stoic App access to HealthKit or Google Fit it can add information to certain sections of HealthKit or Google Fit, ie. adding the minutes of meditation that you were practicing.\nWe also collect certain non-sensitive information through HealthKit or Google Fit, ie. data related to “mindful minutes” or “activity” Sections in Stoic App that facilitate providing personalize...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1312926037,
+            "url": "https://www.getstoic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that the app declares the purpose of data collection and use, ensuring transparency for users.",
+            "reference": "This Privacy Policy explains how data that you share with Stoic is processed and protected. ...Contract – the data we process are necessary to provide you with service which is delivering content and exercises that address your individual needs. It’s also necessary to fix technical problems that may occur while using the App...URL: https://www.getstoic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "b1375f415e6cc2ba813d813eb4bacef69878a8c3b38bc121c032a539b2500053",
+                "score": 0.50242233,
+                "excerpt": "as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the App when utilizing service, the time and date of your use of the service, and other statistics.\nIf you use AI features available in the App, the data we collect and how it is used are described in the Section 8 of this Privacy Policy. When AI is involved, we obtain your consent, provide options for customization, and respect your preferences.\nLegal grounds:\nContract – the data we proc...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "307ca5fd92a1e1434d627e3b98c40132d76b8c67e3b4710e3171f5896a880099",
+                "score": 0.25720495,
+                "excerpt": "third-party analytics providers to collect and process this data. We may use cookies and similar tracking technologies to help us understand how users engage with the App. This information is anonymized and aggregated, and is solely used for performance analysis, identifying trends, and improving functionality.\nWe do not use or share this data with third parties for marketing or advertising purposes, nor do we sell it.\nYou can manage your analytics preferences within the App settings.\nWe do not ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "3f0d44d260444414fc24d40a0be3bfe3c18800aa517b83f09c77cbd5806b1ccb",
+                "score": 0.049958527,
+                "excerpt": "This Privacy Policy explains how data that you share with Stoic is processed and protected.\nThe terms “user” and “you” refer to a person that uses Stoic Application (“App” or “Stoic App”), visits Stoic website, interacts with Stoic social media (together as “Services”) or contact Stoic.\nThe terms “Stoic” and “we” refer to a company incorporated in the US which is responsible for processing personal data as described in this Privacy Policy:\nStoic App Inc.\n2261 Market Street #4243\nSan Francisco, C...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "e37b8a18291869413ef2a82e44da3f8be92e978df13476bb0b6705b09f0b5f30",
+                "score": 0.023870835,
+                "excerpt": "to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.\n- App usage data: retained for up to 24 months, unless you opt-out earlier via the App settings. Aggregated and anonymized data may be retained longer.\n- Error logs and diagnostic data: stored for up to 180 days to ensure technical stability and troubleshoot problems.\n- Contact data: retained for up to 12 months after the last interaction or until your request is resolved, ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "dc3984c7c7edbe8d88d23a440b593002455939ec72c43a600ed0add73d224dda",
+                "score": 0.01798621,
+                "excerpt": "reflections.\n- Crafting push notification content tailored to your recent activity.\n- Enabling mentor-like feedback from AI personas (e.g. thinkers, philosophers).\nData safety:\n- We do not analyze your data manually or store full journal texts on our servers.\n- We only store limited vector data and anonymized user context (e.g. “likes dogs,” “has kids,” “lives in Warsaw”) necessary to personalize your AI experience.\n- All content shared with third-party AI service providers is subject to their p...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1312926037,
+            "url": "https://www.getstoic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data. Users have the right to object data processing, request erasure of personal data, and restrict data processing. They can also withdraw consent for data processing, delete their data automatically upon removing the Stoic App, and object to receiving information from Stoic via email.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly outlines various user rights that include the ability to opt out of data collection or delete data in different circumstances. Users can object to processing, request data deletion, restrict data processing, withdraw consent, delete data upon app removal, and object to receiving promotional information.",
+            "reference": "Users have the right to object processing your personal data by Stoic, request erasure of personal data, stop processing temporarily, and file complaints. Additionally, users can exercise rights under CCPA and GDPR. URL: https://www.getstoic.com/privacy-policy. Stoic provides users with the ability to obtain and transfer their data, delete data upon app removal, and object to receiving information via email. URL: https://www.getstoic.com/privacy-policy."
+        },
+        "source_documents": [
+            {
+                "id": "8b88c3f56006e39a78a261ef5ade557a60cd881871d8e1a4fd22516d1feacc03",
+                "score": 0.5853975,
+                "excerpt": "circumstances, you may have the right to object processing your personal data by Stoic (for example when legal basis for processing is Stoic’s legitimate interest and there are no legal grounds to refuse the request).\n- Right of erasure. In certain circumstances, you may have the right to the erasure of personal data that we hold about you (for example if it is no longer necessary for the purposes for which it was originally collected).\n- Right to restrict processing. When you contest the accura...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "632d117774e46dede273bff7a1876f20ef8ef69d364d8b471a063f7f1ef194c8",
+                "score": 0.31510335,
+                "excerpt": "your personal data without parental’s consent then you must acquire this minimum age.\nUSER’S RIGHTS\nGeneral user’s rights\nYou can access, correct or change your personal information. You can change most of your information yourself in the Stoic App. For other cases please contact us.\nIf we rely on your consent in order to process certain personal data, you have right not to provide your consent or to withdraw your consent at any time. This does not affect the lawfulness of the processing based o...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "a82c890db844964ffedfd2093f373dfa47ffb4f3410627ec981fab2763bd4d0f",
+                "score": 0.15354916,
+                "excerpt": "sale your personal information to a third party in exchange for monetary or other benefits or value; additionally to general user’s rights listed above you have:\n• Right of deletion of your personal information that we hold. This is subject to certain exceptions.\n• Right to know. You have right to require that we disclose the following information about you we hold:\n- categories of personal information collected\n- categories of sources of personal information\n- categories of personal information...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "e37b8a18291869413ef2a82e44da3f8be92e978df13476bb0b6705b09f0b5f30",
+                "score": 0.112600096,
+                "excerpt": "to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.\n- App usage data: retained for up to 24 months, unless you opt-out earlier via the App settings. Aggregated and anonymized data may be retained longer.\n- Error logs and diagnostic data: stored for up to 180 days to ensure technical stability and troubleshoot problems.\n- Contact data: retained for up to 12 months after the last interaction or until your request is resolved, ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "538600630e8799441f9c72b288f30a318cf4ed03c0678053d70d9bbd6307d782",
+                "score": 0.07043162,
+                "excerpt": "or Google Fit. With user’s explicit consent Stoic App communicates with the HealthKit or Google Fit to share data.\nIf you grant Stoic App access to HealthKit or Google Fit it can add information to certain sections of HealthKit or Google Fit, ie. adding the minutes of meditation that you were practicing.\nWe also collect certain non-sensitive information through HealthKit or Google Fit, ie. data related to “mindful minutes” or “activity” Sections in Stoic App that facilitate providing personalize...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1312926037,
+            "url": "https://www.getstoic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app shares data with third parties for various purposes such as app development, hosting, maintenance, backup, analytical services, and AI features.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly mentions that data is shared with third parties for different services and features provided by the app.",
+            "reference": "We work with third-party service providers to provide website and application development, hosting, maintenance, and backup. These Partners, when processing your data, are data processors. We share users’ data with analytical services that support us with data analyses. When using AI features in the App, your content may be processed by third-party AI services. URL: https://www.getstoic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "307ca5fd92a1e1434d627e3b98c40132d76b8c67e3b4710e3171f5896a880099",
+                "score": 0.9914887,
+                "excerpt": "third-party analytics providers to collect and process this data. We may use cookies and similar tracking technologies to help us understand how users engage with the App. This information is anonymized and aggregated, and is solely used for performance analysis, identifying trends, and improving functionality.\nWe do not use or share this data with third parties for marketing or advertising purposes, nor do we sell it.\nYou can manage your analytics preferences within the App settings.\nWe do not ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "4642640dccde707185cbf706fe096b89a225d0c0fbd06892bc77da037c8c4f72",
+                "score": 0.9793935,
+                "excerpt": "application development, hosting, maintenance and backup. These Partners, when process your data, are data processors.\nWe share users’ data with analytical services that support us with data analyses.\nPersonal data related to subscriptions and payments are – as it was explained above – solely processed by relevant App Stores providers and do not lie within Stoic competence.\nThe updated list of the third-party service providers is available in the App and on our website.\nWhen using Stoic App, you...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "dc3984c7c7edbe8d88d23a440b593002455939ec72c43a600ed0add73d224dda",
+                "score": 0.947381,
+                "excerpt": "reflections.\n- Crafting push notification content tailored to your recent activity.\n- Enabling mentor-like feedback from AI personas (e.g. thinkers, philosophers).\nData safety:\n- We do not analyze your data manually or store full journal texts on our servers.\n- We only store limited vector data and anonymized user context (e.g. “likes dogs,” “has kids,” “lives in Warsaw”) necessary to personalize your AI experience.\n- All content shared with third-party AI service providers is subject to their p...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "da498418e9a022a6aa75bc3ee7f0a2e447ab8d1a2a45093475b16cfe51d9b58c",
+                "score": 0.8862236,
+                "excerpt": "their content for AI-driven insights and interactions.\nWe partner with trusted third-party AI service providers, such as OpenAI, to deliver these AI-powered features. These partners help generate personalized insights and interactions based on the content you choose to share.\nWhen using AI features in the App, your content, such as journal entries or onboarding information, may be processed by third-party AI services. The majority of data processing is automatic and happens in real time via our ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "e37b8a18291869413ef2a82e44da3f8be92e978df13476bb0b6705b09f0b5f30",
+                "score": 0.7076068,
+                "excerpt": "to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.\n- App usage data: retained for up to 24 months, unless you opt-out earlier via the App settings. Aggregated and anonymized data may be retained longer.\n- Error logs and diagnostic data: stored for up to 180 days to ensure technical stability and troubleshoot problems.\n- Contact data: retained for up to 12 months after the last interaction or until your request is resolved, ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1312926037,
+            "url": "https://www.getstoic.com/privacy-policy",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with Apple HealthKit, Google Fit, and reputable AI service providers.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": [
+                        "Apple HealthKit",
+                        "Google Fit",
+                        "reputable AI service providers"
+                    ]
+                }
+            },
+            "analysis": "The privacy policy states that the app shares health-related information with Apple HealthKit and Google Fit, as well as collaborates with reputable AI service providers for AI Features.",
+            "reference": "When using Stoic App, you may agree that we will share some health-related information with third party devices and services, such as Apple HealthKit and Google Fit. We do not share your information without your permission. For AI Features, we collaborate with reputable AI service providers. You are informed in the App about the specific AI service providers involved. URL: https://www.getstoic.com/privacy-policy"
+        },
+        "source_documents": [
+            {
+                "id": "4642640dccde707185cbf706fe096b89a225d0c0fbd06892bc77da037c8c4f72",
+                "score": 0.9672869,
+                "excerpt": "application development, hosting, maintenance and backup. These Partners, when process your data, are data processors.\nWe share users’ data with analytical services that support us with data analyses.\nPersonal data related to subscriptions and payments are – as it was explained above – solely processed by relevant App Stores providers and do not lie within Stoic competence.\nThe updated list of the third-party service providers is available in the App and on our website.\nWhen using Stoic App, you...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "307ca5fd92a1e1434d627e3b98c40132d76b8c67e3b4710e3171f5896a880099",
+                "score": 0.9542227,
+                "excerpt": "third-party analytics providers to collect and process this data. We may use cookies and similar tracking technologies to help us understand how users engage with the App. This information is anonymized and aggregated, and is solely used for performance analysis, identifying trends, and improving functionality.\nWe do not use or share this data with third parties for marketing or advertising purposes, nor do we sell it.\nYou can manage your analytics preferences within the App settings.\nWe do not ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "dc3984c7c7edbe8d88d23a440b593002455939ec72c43a600ed0add73d224dda",
+                "score": 0.8264319,
+                "excerpt": "reflections.\n- Crafting push notification content tailored to your recent activity.\n- Enabling mentor-like feedback from AI personas (e.g. thinkers, philosophers).\nData safety:\n- We do not analyze your data manually or store full journal texts on our servers.\n- We only store limited vector data and anonymized user context (e.g. “likes dogs,” “has kids,” “lives in Warsaw”) necessary to personalize your AI experience.\n- All content shared with third-party AI service providers is subject to their p...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "da498418e9a022a6aa75bc3ee7f0a2e447ab8d1a2a45093475b16cfe51d9b58c",
+                "score": 0.6807725,
+                "excerpt": "their content for AI-driven insights and interactions.\nWe partner with trusted third-party AI service providers, such as OpenAI, to deliver these AI-powered features. These partners help generate personalized insights and interactions based on the content you choose to share.\nWhen using AI features in the App, your content, such as journal entries or onboarding information, may be processed by third-party AI services. The majority of data processing is automatic and happens in real time via our ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            },
+            {
+                "id": "e37b8a18291869413ef2a82e44da3f8be92e978df13476bb0b6705b09f0b5f30",
+                "score": 0.63578796,
+                "excerpt": "to fulfill the purposes described in this Privacy Policy, unless a longer retention period is required or permitted by law.\n- App usage data: retained for up to 24 months, unless you opt-out earlier via the App settings. Aggregated and anonymized data may be retained longer.\n- Error logs and diagnostic data: stored for up to 180 days to ensure technical stability and troubleshoot problems.\n- Contact data: retained for up to 12 months after the last interaction or until your request is resolved, ...",
+                "url": "https://www.getstoic.com/privacy-policy"
+            }
+        ]
+    }
+]

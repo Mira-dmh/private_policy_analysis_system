@@ -1,0 +1,289 @@
+[
+    {
+        "meta": {
+            "id": 1494699802,
+            "url": "https://skidos.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q1",
+            "question": "1. Does the app declare the collection of data?",
+            "answer": {
+                "full_answer": "Yes, the app declares the collection of data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy clearly states that they collect limited information such as opt-in account information, non-personal information about app usage, app crash reports, and information related to app installs.",
+            "reference": "When you download and use our mobile applications, we don't collect any information about you or your device except the following: (i) Opt-in Account Information..which is used solely to send reports, newsletters and promotional updates. ... (iv) Installs..We may also collect a Facebook token if you are a Facebook user..installations to understand how we can introduce more parents to our products...URL: https://skidos.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "a11f9b9f8aef311e5323264e6734cb835232e0bac5c24c73fb956c93ffffa1aa",
+                "score": 0.04069295,
+                "excerpt": "Privacy Policy\nIntroduction:\nSKIDOS is a platform that offers 70+ learning game apps for kids on Appstore and Playstore. At SKIDOS Labs (collectively referred to below as \"skidos\", \"skidos learning\" \"we\", \"us\" or \"our\"), we understand that our apps are used and loved by families with children, and we are committed to keeping their data and privacy protected.\nThis Privacy Policy describes the information collected by our mobile applications and educational games and website and how we use that in...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "5651893fb8af893a0d384228fbb88663482ed9a56d33b5a219954c20239ea817",
+                "score": 0.035078675,
+                "excerpt": "push notifications to communicate information about how to interact with our applications. Notifications can be turned off through the \"Notifications\" tab within iOS \"Settings.\"\nCookies\nSKIDOS uses cookies in order to personalize your navigation, as well as to protect and improve the website. Please read this Cookie Policy carefully to learn about SKIDOS use of cookies and the options you have to configure your browser to manage them.\nWe Comply with the Children's Online Privacy Protection Act\nO...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fac6b1e8eafe96bea577f9eca5df90d38ed3b3d8fe7aeeb53f920dfce637cd9a",
+                "score": 0.003135836,
+                "excerpt": "updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications.\n(ii) Non-personal information about the duration the mobile application is used and ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fdd16530c5b8564f1d53f8ab2c4f7a80738afab9833b8b4068ff1f64119a57db",
+                "score": 0.0005953407,
+                "excerpt": "how people find our apps. This means that when you download our apps, we may learn that you came from a certain website (a review site, a web advertisement, our company web page, etc). We may also collect a Facebook token if you are a Facebook user, but only to see whether folks installed our app from one of our Facebook ad campaigns. We track installations to understand how we can introduce more parents to our products, and we make sure that our partners never use your personal information for ...",
+                "url": "https://skidos.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1494699802,
+            "url": "https://skidos.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q2",
+            "question": "2. If the app declares the collection of data, what type of data does it collect?",
+            "answer": {
+                "full_answer": "SKIDOS collects opt-in account information, non-personal information about app usage, app crash reports, and information on app installs.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "data collected",
+                    "content": [
+                        "Opt-in account information (email address)",
+                        "Non-personal information about app usage (screens viewed, actions taken)",
+                        "App crash reports",
+                        "Information on app installs"
+                    ]
+                }
+            },
+            "analysis": "The app collects a range of data types related to account creation, app usage, crashes, and installs for the purpose of improvements and user experience enhancement.",
+            "reference": "The app collects various types of data including opt-in account information, non-personal information about the duration the app is used and how it is used, app crash reports, and details on app installs. URL: https://skidos.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "a11f9b9f8aef311e5323264e6734cb835232e0bac5c24c73fb956c93ffffa1aa",
+                "score": 0.100348406,
+                "excerpt": "Privacy Policy\nIntroduction:\nSKIDOS is a platform that offers 70+ learning game apps for kids on Appstore and Playstore. At SKIDOS Labs (collectively referred to below as \"skidos\", \"skidos learning\" \"we\", \"us\" or \"our\"), we understand that our apps are used and loved by families with children, and we are committed to keeping their data and privacy protected.\nThis Privacy Policy describes the information collected by our mobile applications and educational games and website and how we use that in...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "5651893fb8af893a0d384228fbb88663482ed9a56d33b5a219954c20239ea817",
+                "score": 0.018299334,
+                "excerpt": "push notifications to communicate information about how to interact with our applications. Notifications can be turned off through the \"Notifications\" tab within iOS \"Settings.\"\nCookies\nSKIDOS uses cookies in order to personalize your navigation, as well as to protect and improve the website. Please read this Cookie Policy carefully to learn about SKIDOS use of cookies and the options you have to configure your browser to manage them.\nWe Comply with the Children's Online Privacy Protection Act\nO...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fac6b1e8eafe96bea577f9eca5df90d38ed3b3d8fe7aeeb53f920dfce637cd9a",
+                "score": 0.012821214,
+                "excerpt": "updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications.\n(ii) Non-personal information about the duration the mobile application is used and ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fdd16530c5b8564f1d53f8ab2c4f7a80738afab9833b8b4068ff1f64119a57db",
+                "score": 0.0019955386,
+                "excerpt": "how people find our apps. This means that when you download our apps, we may learn that you came from a certain website (a review site, a web advertisement, our company web page, etc). We may also collect a Facebook token if you are a Facebook user, but only to see whether folks installed our app from one of our Facebook ad campaigns. We track installations to understand how we can introduce more parents to our products, and we make sure that our partners never use your personal information for ...",
+                "url": "https://skidos.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1494699802,
+            "url": "https://skidos.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q3",
+            "question": "3. Does the app declare the purpose of data collection and use?",
+            "answer": {
+                "full_answer": "Yes, the app declares the purpose of data collection and use.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy explicitly mentions that the app collects data for specific purposes related to sending reports, newsletters, and promotional updates. This means that users are informed about why their data is being collected and used.",
+            "reference": "This information helps us serve you better by providing regular updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications. URL: https://skidos.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5651893fb8af893a0d384228fbb88663482ed9a56d33b5a219954c20239ea817",
+                "score": 0.01584536,
+                "excerpt": "push notifications to communicate information about how to interact with our applications. Notifications can be turned off through the \"Notifications\" tab within iOS \"Settings.\"\nCookies\nSKIDOS uses cookies in order to personalize your navigation, as well as to protect and improve the website. Please read this Cookie Policy carefully to learn about SKIDOS use of cookies and the options you have to configure your browser to manage them.\nWe Comply with the Children's Online Privacy Protection Act\nO...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fac6b1e8eafe96bea577f9eca5df90d38ed3b3d8fe7aeeb53f920dfce637cd9a",
+                "score": 0.01374232,
+                "excerpt": "updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications.\n(ii) Non-personal information about the duration the mobile application is used and ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "a11f9b9f8aef311e5323264e6734cb835232e0bac5c24c73fb956c93ffffa1aa",
+                "score": 0.0113756005,
+                "excerpt": "Privacy Policy\nIntroduction:\nSKIDOS is a platform that offers 70+ learning game apps for kids on Appstore and Playstore. At SKIDOS Labs (collectively referred to below as \"skidos\", \"skidos learning\" \"we\", \"us\" or \"our\"), we understand that our apps are used and loved by families with children, and we are committed to keeping their data and privacy protected.\nThis Privacy Policy describes the information collected by our mobile applications and educational games and website and how we use that in...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fdd16530c5b8564f1d53f8ab2c4f7a80738afab9833b8b4068ff1f64119a57db",
+                "score": 0.0021912407,
+                "excerpt": "how people find our apps. This means that when you download our apps, we may learn that you came from a certain website (a review site, a web advertisement, our company web page, etc). We may also collect a Facebook token if you are a Facebook user, but only to see whether folks installed our app from one of our Facebook ad campaigns. We track installations to understand how we can introduce more parents to our products, and we make sure that our partners never use your personal information for ...",
+                "url": "https://skidos.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1494699802,
+            "url": "https://skidos.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q4",
+            "question": "4. Can the user opt out of data collection or delete data?",
+            "answer": {
+                "full_answer": "Yes, the user can opt out of data collection or delete data.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy states that for iOS applications, push notifications can be turned off through the 'Notifications' tab within iOS 'Settings.' This indicates that users have the ability to opt out of data collection related to push notifications.",
+            "reference": "Notifications can be turned off through the 'Notifications' tab within iOS 'Settings.' URL: https://skidos.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "5651893fb8af893a0d384228fbb88663482ed9a56d33b5a219954c20239ea817",
+                "score": 0.16304526,
+                "excerpt": "push notifications to communicate information about how to interact with our applications. Notifications can be turned off through the \"Notifications\" tab within iOS \"Settings.\"\nCookies\nSKIDOS uses cookies in order to personalize your navigation, as well as to protect and improve the website. Please read this Cookie Policy carefully to learn about SKIDOS use of cookies and the options you have to configure your browser to manage them.\nWe Comply with the Children's Online Privacy Protection Act\nO...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "a11f9b9f8aef311e5323264e6734cb835232e0bac5c24c73fb956c93ffffa1aa",
+                "score": 0.0068771075,
+                "excerpt": "Privacy Policy\nIntroduction:\nSKIDOS is a platform that offers 70+ learning game apps for kids on Appstore and Playstore. At SKIDOS Labs (collectively referred to below as \"skidos\", \"skidos learning\" \"we\", \"us\" or \"our\"), we understand that our apps are used and loved by families with children, and we are committed to keeping their data and privacy protected.\nThis Privacy Policy describes the information collected by our mobile applications and educational games and website and how we use that in...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fac6b1e8eafe96bea577f9eca5df90d38ed3b3d8fe7aeeb53f920dfce637cd9a",
+                "score": 0.0017007225,
+                "excerpt": "updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications.\n(ii) Non-personal information about the duration the mobile application is used and ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fdd16530c5b8564f1d53f8ab2c4f7a80738afab9833b8b4068ff1f64119a57db",
+                "score": 0.00085924764,
+                "excerpt": "how people find our apps. This means that when you download our apps, we may learn that you came from a certain website (a review site, a web advertisement, our company web page, etc). We may also collect a Facebook token if you are a Facebook user, but only to see whether folks installed our app from one of our Facebook ad campaigns. We track installations to understand how we can introduce more parents to our products, and we make sure that our partners never use your personal information for ...",
+                "url": "https://skidos.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1494699802,
+            "url": "https://skidos.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q5",
+            "question": "5. Does the app share data with third parties?",
+            "answer": {
+                "full_answer": "Yes, the app may share data with certain third parties for specific purposes as outlined in the Privacy Policy.",
+                "simple_answer": "Yes",
+                "extended_simple_answer": {
+                    "comment": "",
+                    "content": ""
+                }
+            },
+            "analysis": "The privacy policy mentions that SKIDOS may share some data with third party SDKs to enhance and improve the applications.",
+            "reference": "We use a variety of third-party SDKs for the same, as listed here: WebEngage SDK (read privacy policy); Embrace SDK (read privacy policy); AppsFlyer SDK (read security policy); and Google Firebase SDK (read privacy policy). URL: https://skidos.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fac6b1e8eafe96bea577f9eca5df90d38ed3b3d8fe7aeeb53f920dfce637cd9a",
+                "score": 0.5071597,
+                "excerpt": "updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications.\n(ii) Non-personal information about the duration the mobile application is used and ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "a11f9b9f8aef311e5323264e6734cb835232e0bac5c24c73fb956c93ffffa1aa",
+                "score": 0.025760558,
+                "excerpt": "Privacy Policy\nIntroduction:\nSKIDOS is a platform that offers 70+ learning game apps for kids on Appstore and Playstore. At SKIDOS Labs (collectively referred to below as \"skidos\", \"skidos learning\" \"we\", \"us\" or \"our\"), we understand that our apps are used and loved by families with children, and we are committed to keeping their data and privacy protected.\nThis Privacy Policy describes the information collected by our mobile applications and educational games and website and how we use that in...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fdd16530c5b8564f1d53f8ab2c4f7a80738afab9833b8b4068ff1f64119a57db",
+                "score": 0.019124037,
+                "excerpt": "how people find our apps. This means that when you download our apps, we may learn that you came from a certain website (a review site, a web advertisement, our company web page, etc). We may also collect a Facebook token if you are a Facebook user, but only to see whether folks installed our app from one of our Facebook ad campaigns. We track installations to understand how we can introduce more parents to our products, and we make sure that our partners never use your personal information for ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "5651893fb8af893a0d384228fbb88663482ed9a56d33b5a219954c20239ea817",
+                "score": 0.0140636265,
+                "excerpt": "push notifications to communicate information about how to interact with our applications. Notifications can be turned off through the \"Notifications\" tab within iOS \"Settings.\"\nCookies\nSKIDOS uses cookies in order to personalize your navigation, as well as to protect and improve the website. Please read this Cookie Policy carefully to learn about SKIDOS use of cookies and the options you have to configure your browser to manage them.\nWe Comply with the Children's Online Privacy Protection Act\nO...",
+                "url": "https://skidos.com/privacy-policy/"
+            }
+        ]
+    },
+    {
+        "meta": {
+            "id": 1494699802,
+            "url": "https://skidos.com/privacy-policy/",
+            "title": ""
+        },
+        "reply": {
+            "qid": "q6",
+            "question": "6. If the app shares data with third parties, what third parties does the app share data with?",
+            "answer": {
+                "full_answer": "The app shares data with WebEngage SDK, Embrace SDK, AppsFlyer SDK, and Google Firebase SDK.",
+                "simple_answer": "NOTUSED",
+                "extended_simple_answer": {
+                    "comment": "third parties",
+                    "content": "WebEngage SDK, Embrace SDK, AppsFlyer SDK, Google Firebase SDK"
+                }
+            },
+            "analysis": "The privacy policy mentions that the app uses various third-party SDKs for specific purposes, including WebEngage SDK, Embrace SDK, AppsFlyer SDK, and Google Firebase SDK. These SDKs are used to enhance and improve the applications.",
+            "reference": "We use a variety of third-party SDKs for the same, as listed here: WebEngage SDK (read privacy policy); Embrace SDK (read privacy policy); AppsFlyer SDK (read security policy); and Google Firebase SDK (read privacy policy). URL: https://skidos.com/privacy-policy/"
+        },
+        "source_documents": [
+            {
+                "id": "fac6b1e8eafe96bea577f9eca5df90d38ed3b3d8fe7aeeb53f920dfce637cd9a",
+                "score": 0.355663,
+                "excerpt": "updates of your children or student's reports and usage of our apps, to access important statistics of your children's learning performance within the app, with your email addresses used solely to send reports, newsletters and promotional updates. Other than this use of your email address, your information is never stored, shared or disclosed, and is used solely to provide the features within those applications.\n(ii) Non-personal information about the duration the mobile application is used and ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "fdd16530c5b8564f1d53f8ab2c4f7a80738afab9833b8b4068ff1f64119a57db",
+                "score": 0.040313438,
+                "excerpt": "how people find our apps. This means that when you download our apps, we may learn that you came from a certain website (a review site, a web advertisement, our company web page, etc). We may also collect a Facebook token if you are a Facebook user, but only to see whether folks installed our app from one of our Facebook ad campaigns. We track installations to understand how we can introduce more parents to our products, and we make sure that our partners never use your personal information for ...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "5651893fb8af893a0d384228fbb88663482ed9a56d33b5a219954c20239ea817",
+                "score": 0.012527932,
+                "excerpt": "push notifications to communicate information about how to interact with our applications. Notifications can be turned off through the \"Notifications\" tab within iOS \"Settings.\"\nCookies\nSKIDOS uses cookies in order to personalize your navigation, as well as to protect and improve the website. Please read this Cookie Policy carefully to learn about SKIDOS use of cookies and the options you have to configure your browser to manage them.\nWe Comply with the Children's Online Privacy Protection Act\nO...",
+                "url": "https://skidos.com/privacy-policy/"
+            },
+            {
+                "id": "a11f9b9f8aef311e5323264e6734cb835232e0bac5c24c73fb956c93ffffa1aa",
+                "score": 0.011687257,
+                "excerpt": "Privacy Policy\nIntroduction:\nSKIDOS is a platform that offers 70+ learning game apps for kids on Appstore and Playstore. At SKIDOS Labs (collectively referred to below as \"skidos\", \"skidos learning\" \"we\", \"us\" or \"our\"), we understand that our apps are used and loved by families with children, and we are committed to keeping their data and privacy protected.\nThis Privacy Policy describes the information collected by our mobile applications and educational games and website and how we use that in...",
+                "url": "https://skidos.com/privacy-policy/"
+            }
+        ]
+    }
+]
