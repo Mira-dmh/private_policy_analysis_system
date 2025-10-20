@@ -1,33 +1,33 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-批量链接可访问性检测脚本
-================================
-功能:
-1. 递归扫描输入的文件/目录 (JSON, CSV, TXT, 以及 .py/.md/.ipynb 等任意文本) 中的 URL。
-2. 支持直接通过 --url 指定单个或多个 URL。
-3. 并发异步请求 (httpx + asyncio)，可配置并发数、超时与重试次数。
-4. 自动为部分站点添加常见浏览器 User-Agent，避免 400/403。
-5. HEAD 请求失败或返回 405 时自动回退 GET。
-6. 输出 JSON 与 CSV 报告到 reports/link_check_report_<timestamp>.{json,csv}。
-7. 展示状态分类统计汇总。
-8. 去重 (默认)；可通过 --allow-duplicate 保留重复项。
+Batch Link Accessibility Detection Script
+=======================================
+Features:
+1. Recursively scan input files/directories (JSON, CSV, TXT, and any text files like .py/.md/.ipynb) for URLs.
+2. Support direct URL specification via --url for single or multiple URLs.
+3. Concurrent async requests (httpx + asyncio), configurable concurrency, timeout and retry count.
+4. Automatically add common browser User-Agent for some sites to avoid 400/403.
+5. Auto fallback to GET when HEAD request fails or returns 405.
+6. Output JSON and CSV reports to reports/link_check_report_<timestamp>.{json,csv}.
+7. Display status classification statistics summary.
+8. Deduplication (default); use --allow-duplicate to keep duplicates.
 
-使用示例:
+Usage examples:
     python check_links.py --inputs files/index_table.json README.md \
         --concurrency 30 --timeout 15 --retries 2
 
     python check_links.py --url https://example.com --url https://electrongoo.com/privacypolicy.html
 
-    # 指定自定义输出前缀
+    # Specify custom output prefix
     python check_links.py --inputs files/ --output-prefix reports/my_run
 
-依赖: 仅标准库 + httpx (请确保安装)。
+Dependencies: Only standard library + httpx (please ensure installation).
     pip install httpx
 
-注意:
-- 如果需要解析 .ipynb，将会尝试加载为 JSON，从其中 source 字段提取文本再匹配 URL。
-- JSON 里会递归提取所有字符串值尝试匹配 URL，无需指定字段名。
+Notes:
+- If parsing .ipynb is needed, it will try to load as JSON and extract text from source fields to match URLs.
+- JSON will recursively extract all string values to try matching URLs, no need to specify field names.
 """
 from __future__ import annotations
 
@@ -81,21 +81,21 @@ class LinkResult:
 
 
 def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="批量检测链接可访问性")
-    p.add_argument("--inputs", nargs="*", default=[], help="输入的文件或目录，可多个。支持 json/csv/txt/ipynb 及任意文本。")
-    p.add_argument("--url", dest="urls", action="append", default=[], help="直接附加检测的 URL，可多次传递。")
-    p.add_argument("--concurrency", type=int, default=20, help="并发请求数")
-    p.add_argument("--timeout", type=float, default=15.0, help="单个请求超时(秒)")
-    p.add_argument("--retries", type=int, default=2, help="失败重试次数 (不含首次)")
-    p.add_argument("--allow-duplicate", action="store_true", help="不过滤重复 URL")
-    p.add_argument("--output-prefix", default=None, help="输出文件前缀 (默认: reports/link_check_report_<timestamp>)")
-    p.add_argument("--no-head", action="store_true", help="直接使用 GET，不先尝试 HEAD")
-    p.add_argument("--jitter", type=float, default=0.0, help="在 0~jitter 秒之间增加随机延迟，缓和请求")
-    p.add_argument("--http2", action="store_true", help="启用 HTTP/2 (默认关闭，有些站点对 h2 指纹敏感)")
-    p.add_argument("--proxy", default=None, help="可选 HTTP/HTTPS 代理，如 http://127.0.0.1:7890")
-    p.add_argument("--extract-regex", default=None, help="自定义 URL 正则 (默认内置)")
-    p.add_argument("--limit", type=int, default=None, help="测试或调试时仅检测前 N 条 URL")
-    p.add_argument("--flush-every", type=int, default=50, help="每完成 N 条就增量写入一次 partial 报告 (当前实现未启用，预留)")
+    p = argparse.ArgumentParser(description="Batch check link accessibility")
+    p.add_argument("--inputs", nargs="*", default=[], help="Input files or directories, can be multiple. Supports json/csv/txt/ipynb and any text.")
+    p.add_argument("--url", dest="urls", action="append", default=[], help="Directly add URLs to check, can be passed multiple times.")
+    p.add_argument("--concurrency", type=int, default=20, help="Number of concurrent requests")
+    p.add_argument("--timeout", type=float, default=15.0, help="Single request timeout (seconds)")
+    p.add_argument("--retries", type=int, default=2, help="Number of retries on failure (excluding first attempt)")
+    p.add_argument("--allow-duplicate", action="store_true", help="Don't filter duplicate URLs")
+    p.add_argument("--output-prefix", default=None, help="Output file prefix (default: reports/link_check_report_<timestamp>)")
+    p.add_argument("--no-head", action="store_true", help="Use GET directly, don't try HEAD first")
+    p.add_argument("--jitter", type=float, default=0.0, help="Add random delay between 0~jitter seconds to ease requests")
+    p.add_argument("--http2", action="store_true", help="Enable HTTP/2 (default off, some sites are sensitive to h2 fingerprints)")
+    p.add_argument("--proxy", default=None, help="Optional HTTP/HTTPS proxy, e.g. http://127.0.0.1:7890")
+    p.add_argument("--extract-regex", default=None, help="Custom URL regex (default built-in)")
+    p.add_argument("--limit", type=int, default=None, help="Only check first N URLs for testing or debugging")
+    p.add_argument("--flush-every", type=int, default=50, help="Write incremental partial report every N completions (not implemented, reserved)")
     return p.parse_args()
 
 

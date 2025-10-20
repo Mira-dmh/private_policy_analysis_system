@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-从 reports/index_table_links_report.json 中提取失败条目，仅保留 id 与 url（附带状态与错误），
-生成失败专用报告 (JSON/CSV/Markdown)，并按需删除其它已有报告文件。
+Extract failed entries from reports/index_table_links_report.json, keeping only id and url (with status and error),
+generate dedicated failure reports (JSON/CSV/Markdown), and optionally delete other existing report files.
 
-使用:
+Usage:
     python extract_failed_links.py --report reports/index_table_links_report.json \
         --output-prefix reports/index_table_links_failed --delete-others
 
-参数:
-    --report         输入的完整报告 JSON (来自 check_index_table_links.py 输出)
-    --output-prefix  失败报告前缀 (默认: reports/index_table_links_failed)
-    --delete-others  删除目录中其它报告文件(保留失败报告本身)
+Arguments:
+    --report         Input complete report JSON (from check_index_table_links.py output)
+    --output-prefix  Failed report prefix (default: reports/index_table_links_failed)
+    --delete-others  Delete other report files in directory (keep failure reports themselves)
 """
 from __future__ import annotations
 import argparse, json, csv, sys, os
@@ -20,10 +20,10 @@ from typing import List
 
 
 def parse_args():
-    p = argparse.ArgumentParser(description="提取失败链接")
-    p.add_argument('--report', default='reports/index_table_links_report.json', help='原始 JSON 报告路径')
-    p.add_argument('--output-prefix', default='reports/index_table_links_failed', help='失败输出文件前缀')
-    p.add_argument('--delete-others', action='store_true', help='删除同目录其它报告文件')
+    p = argparse.ArgumentParser(description="Extract failed links")
+    p.add_argument('--report', default='reports/index_table_links_report.json', help='Original JSON report path')
+    p.add_argument('--output-prefix', default='reports/index_table_links_failed', help='Failed output file prefix')
+    p.add_argument('--delete-others', action='store_true', help='Delete other report files in same directory')
     return p.parse_args()
 
 

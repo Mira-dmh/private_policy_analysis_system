@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-仅针对 files/index_table_from_excel.json 中的 (id, url) 进行可访问性检测并输出报告。
-输出: reports/index_table_links_report.{json,csv}
+Accessibility check specifically for (id, url) pairs in files/index_table_from_excel.json and output reports.
+Output: reports/index_table_links_report.{json,csv}
 
-使用:
+Usage:
     python check_index_table_links.py \
         --file files/index_table_from_excel.json \
         --concurrency 20 --timeout 12 --retries 1
 
-可选:
-    --limit N   仅检测前 N 条 (调试用)
+Optional:
+    --limit N   Only check first N entries (for debugging)
 """
 from __future__ import annotations
 import argparse
@@ -25,7 +25,7 @@ import sys
 try:
     import httpx  # type: ignore
 except ImportError:
-    print("请先安装 httpx: pip install httpx", file=sys.stderr)
+    print("Please install httpx first: pip install httpx", file=sys.stderr)
     sys.exit(1)
 
 DEFAULT_HEADERS = {
